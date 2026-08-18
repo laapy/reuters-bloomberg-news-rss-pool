@@ -5,8 +5,24 @@
     <link>https://feeds.bloomberg.com/business/news.rss</link>
     <description>Provenance-aware feed; classification fields distinguish exact wire copies from citations.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 18 Aug 2026 20:28:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 20:53:57 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Chip Rout Pulls Stocks Down, US-Canada Hopes Fade, More</title>
+      <link>https://www.bloomberg.com/news/audio/2026-08-18/chip-rout-pulls-stocks-down-us-canada-hopes-fade-more</link>
+      <guid isPermaLink="false">4ffe809a7393efa6a831fd9b</guid>
+      <pubDate>Tue, 18 Aug 2026 20:25:18 +0000</pubDate>
+      <description>Source: Bloomberg, 5:37</description>
+      <dc:creator>ED KALEGI</dc:creator>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:sourceId>bloomberg_business</wire:sourceId>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:classification>wire_original</wire:classification>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-08-18/chip-rout-pulls-stocks-down-us-canada-hopes-fade-more</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
     <item>
       <title>Stock Movers: Amylyx, Targa, Klarna (Podcast)</title>
       <link>https://www.bloomberg.com/news/audio/2026-08-18/stock-movers-amylyx-targa-klarna-podcast</link>
@@ -309,22 +325,6 @@
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/newsletters/2026-08-18/bally-s-gambles-on-a-bronx-casino-and-its-future</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Trump: No Talks with Iran, Meta Trial Under Way, More</title>
-      <link>https://www.bloomberg.com/news/audio/2026-08-18/trump-no-talks-with-iran-meta-trial-under-way-more</link>
-      <guid isPermaLink="false">a004b6b256f6e1e156405a1b</guid>
-      <pubDate>Tue, 18 Aug 2026 15:35:40 +0000</pubDate>
-      <description>Source: Bloomberg, 0:00</description>
-      <dc:creator>NATHAN HAGER</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_business</wire:sourceId>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-08-18/trump-no-talks-with-iran-meta-trial-under-way-more</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
   </channel>

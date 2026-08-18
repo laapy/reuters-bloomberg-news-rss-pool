@@ -1,43 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss version="2.0">
   <channel>
     <title>Investing.com — Reuters/Bloomberg pool</title>
     <link>https://www.investing.com/rss/news.rss</link>
     <description>Provenance-aware feed; classification fields distinguish exact wire copies from citations.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 18 Aug 2026 20:28:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 20:53:57 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>Meta rejects allegations it sought to hook children as landmark trial begins</title>
-      <link>https://www.investing.com/news/stock-market-news/meta-faces-29state-trial-that-could-reshape-instagram-and-facebook-4864684</link>
-      <guid isPermaLink="false">6cb769d0c49c49d3a8acd662</guid>
-      <pubDate>Tue, 18 Aug 2026 19:54:24 +0000</pubDate>
-      <description />
-      <dc:creator>Reuters</dc:creator>
-      <wire:platform>Investing.com</wire:platform>
-      <wire:sourceId>investing_news</wire:sourceId>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/meta-faces-29state-trial-that-could-reshape-instagram-and-facebook-4864684</wire:canonicalUrl>
-      <wire:evidence>structured credit: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>US SEC sues former executives of collapsed auto lender Tricolor</title>
-      <link>https://www.investing.com/news/stock-market-news/us-sec-sues-former-executives-of-collapsed-auto-lender-tricolor-4865938</link>
-      <guid isPermaLink="false">8c32d3165cc91d12048d6d62</guid>
-      <pubDate>Tue, 18 Aug 2026 19:48:33 +0000</pubDate>
-      <description />
-      <dc:creator>Reuters</dc:creator>
-      <wire:platform>Investing.com</wire:platform>
-      <wire:sourceId>investing_news</wire:sourceId>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/us-sec-sues-former-executives-of-collapsed-auto-lender-tricolor-4865938</wire:canonicalUrl>
-      <wire:evidence>structured credit: Reuters</wire:evidence>
-    </item>
   </channel>
 </rss>
