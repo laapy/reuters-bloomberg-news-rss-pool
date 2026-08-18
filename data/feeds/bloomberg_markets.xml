@@ -5,12 +5,28 @@
     <link>https://feeds.bloomberg.com/markets/news.rss</link>
     <description>Provenance-aware feed; classification fields distinguish exact wire copies from citations.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 18 Aug 2026 23:23:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 23:50:10 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>China’s Flatter Bond Curve Shows Deeper Policy Divide With Peers</title>
+      <title>JBS Seeks Rest of Pilgrim’s Pride Stake in $1.2 Billion Deal</title>
+      <link>https://www.bloomberg.com/news/articles/2026-08-18/jbs-seeks-rest-of-pilgrim-s-pride-stake-in-1-2-billion-deal</link>
+      <guid isPermaLink="false">f27f71bd2a7d4d1d732e383f</guid>
+      <pubDate>Tue, 18 Aug 2026 23:36:31 +0000</pubDate>
+      <description>Pilgrim’s Pride Corp. shares jumped after meatpacking giant JBS NV offered to acquire the shares of the chicken producer it doesn’t already own in a stock deal valued at about $1.2 billion.</description>
+      <dc:creator>Dayanne Sousa</dc:creator>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:sourceId>bloomberg_markets</wire:sourceId>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:classification>wire_original</wire:classification>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-18/jbs-seeks-rest-of-pilgrim-s-pride-stake-in-1-2-billion-deal</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>China Bonds Buck Global Selloff on Policy Divide With Peers</title>
       <link>https://www.bloomberg.com/news/articles/2026-08-18/china-s-flatter-bond-curve-shows-deeper-policy-divide-with-peers</link>
-      <guid isPermaLink="false">153ffb8dcd6682dc6c8806b6</guid>
+      <guid isPermaLink="false">f1036784b07ae2d018defa9b</guid>
       <pubDate>Tue, 18 Aug 2026 23:00:00 +0000</pubDate>
       <description>A relentless drop in China’s long-end yields is driving an aggressive curve flattening, laying bare a stark macro rift with global markets where long-dated rates have hit multi-year peaks.</description>
       <dc:creator>Julia Zhong and Shulun Huang</dc:creator>
@@ -71,11 +87,11 @@
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
-      <title>Chip Rout Clouds Asia Open as Bond Jitters Linger: Markets Wrap</title>
+      <title>Chip Selloff Clouds Asia Open, Bond Jitters Linger: Markets Wrap</title>
       <link>https://www.bloomberg.com/news/articles/2026-08-18/stock-market-today-dow-s-p-live-updates</link>
-      <guid isPermaLink="false">c06af9f7453117a8fa79012f</guid>
+      <guid isPermaLink="false">24e5aafbeebbbdfd207401b4</guid>
       <pubDate>Tue, 18 Aug 2026 22:11:07 +0000</pubDate>
-      <description>Stocks in Asia were set to fall Wednesday after a selloff in US technology shares, as elevated bond yields, rising oil prices and renewed Middle East tensions prompted investors to pare risk.</description>
+      <description>Asian stocks were set to fall as a selloff in US technology shares, elevated bond yields and rising oil prices weighed on sentiment.</description>
       <dc:creator>Toby Alder</dc:creator>
       <wire:platform>Bloomberg</wire:platform>
       <wire:sourceId>bloomberg_markets</wire:sourceId>
@@ -303,22 +319,6 @@
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-18/emerging-assets-halt-rally-on-higher-oil-prices-bond-selloff</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Gold Falls as Traders Weigh US Inflation, Rates Amid Bond Rout</title>
-      <link>https://www.bloomberg.com/news/articles/2026-08-17/gold-holds-two-day-gain-on-reduced-rate-hike-expectations</link>
-      <guid isPermaLink="false">29441766216b21aba53d8570</guid>
-      <pubDate>Mon, 17 Aug 2026 23:20:40 +0000</pubDate>
-      <description>Gold declined as traders evaluated the outlook for US inflation and interest rates amid a global government bond rout.</description>
-      <dc:creator>Yihui Xie, Jack Ryan and Yvonne Yue Li</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_markets</wire:sourceId>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-17/gold-holds-two-day-gain-on-reduced-rate-hike-expectations</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
   </channel>
