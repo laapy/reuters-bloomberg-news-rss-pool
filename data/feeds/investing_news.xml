@@ -1,11 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Investing.com — Reuters/Bloomberg pool</title>
     <link>https://www.investing.com/rss/news.rss</link>
     <description>Provenance-aware feed; classification fields distinguish exact wire copies from citations.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 18 Aug 2026 22:52:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 23:23:59 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Tech selloff weighs down Wall Street as bond yields climb</title>
+      <link>https://www.investing.com/news/stock-market-news/us-stock-futures-drop-as-fading-iran-peace-hopes-lift-oil-bond-yields-4864587</link>
+      <guid isPermaLink="false">51098a6f14a08fd0fd9242c8</guid>
+      <pubDate>Tue, 18 Aug 2026 23:00:54 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:sourceId>investing_news</wire:sourceId>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:classification>wire_syndication</wire:classification>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/us-stock-futures-drop-as-fading-iran-peace-hopes-lift-oil-bond-yields-4864587</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>Beyond marathons and backflips, China’s robots face a commercial test</title>
+      <link>https://www.investing.com/news/stock-market-news/beyond-marathons-and-backflips-chinas-robots-face-a-commercial-test-4864742</link>
+      <guid isPermaLink="false">22b81a4b008e4868e0585721</guid>
+      <pubDate>Tue, 18 Aug 2026 23:00:36 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:sourceId>investing_news</wire:sourceId>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:classification>wire_syndication</wire:classification>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/beyond-marathons-and-backflips-chinas-robots-face-a-commercial-test-4864742</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>US transport regulator resumes review of Union Pacific’s proposed Norfolk merger</title>
+      <link>https://www.investing.com/news/stock-market-news/us-transport-regulator-resumes-review-of-union-pacifics-proposed-norfolk-merger-4866219</link>
+      <guid isPermaLink="false">88d6b505c86cfd24c31fdec1</guid>
+      <pubDate>Tue, 18 Aug 2026 22:54:44 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:sourceId>investing_news</wire:sourceId>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:classification>wire_syndication</wire:classification>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/us-transport-regulator-resumes-review-of-union-pacifics-proposed-norfolk-merger-4866219</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>
