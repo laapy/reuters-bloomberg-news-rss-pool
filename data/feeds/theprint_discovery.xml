@@ -5,8 +5,33 @@
     <link>https://www.bing.com/news/search?q=site%3Atheprint.in+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Provenance-aware feed; classification fields distinguish exact wire copies from citations.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 18 Aug 2026 07:38:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 09:05:44 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>AI’s Original Sin is written into its training, says Parmy Olson</title>
+      <link>https://theprint.in/india/ais-original-sin-is-written-into-its-training-says-parmy-olson/3017954/</link>
+      <guid isPermaLink="false">bf4182d83c8dd13896824d6a</guid>
+      <pubDate>Tue, 18 Aug 2026 06:55:58 +0000</pubDate>
+      <description>Anthropic PBC, when stripped of its no-hacking guardrails, resorted to lying to complete a cybersecurity challenge.</description>
+      <dc:creator>Parmy Olson</dc:creator>
+      <content:encoded>&lt;p&gt;Home India AI&amp;#x27;s Original Sin is written into its training, says Parmy Olson&lt;/p&gt;&lt;p&gt;India&lt;/p&gt;&lt;p&gt;AI’s Original Sin is written into its training, says Parmy Olson&lt;/p&gt;&lt;p&gt;Anthropic PBC, when stripped of its no-hacking guardrails, resorted to lying to complete a cybersecurity challenge.&lt;/p&gt;&lt;p&gt;Parmy Olson&lt;/p&gt;&lt;p&gt;18 August, 2026 12:25 pm IST&lt;/p&gt;&lt;p&gt;Facebook&lt;/p&gt;&lt;p&gt;Twitter&lt;/p&gt;&lt;p&gt;WhatsApp&lt;/p&gt;&lt;p&gt;Linkedin&lt;/p&gt;&lt;p&gt;An Anthropic PBC artificial intelligence (AI) logo on a smartphone | Bloomberg&lt;/p&gt;&lt;p&gt;Follow Us :&lt;/p&gt;&lt;p&gt;Text Size:
+A-
+A+&lt;/p&gt;&lt;p&gt;--&amp;gt;&lt;/p&gt;&lt;p&gt;A rtificial intelligence models are trained not to lie to humans. Yet a funny thing is happening: AI has been lying to humans quite a bit.&lt;/p&gt;&lt;p&gt;Recently, an AI model made by Anthropic PBC that had been stripped of its no-hacking guardrails and given a cybersecurity challenge by the British government’s AI Security Institute, tried to insert malicious code into an open-source project hosted on the website GitHub. When it couldn’t solve the challenge using normal methods, it got creative. It researched the project’s human maintainers, created fake identities and then posed as software developers to gain the humans’ trust before trying to insert the bad code.&lt;/p&gt;&lt;p&gt;The AI Security Institute’s team noticed what was happening and shut the test down. Even with guardrails removed, the model shouldn’t have lied because Anthropic trained its model, Claude, to prioritize safety and honesty. Yet deception had “emerged as a by-product” as it tried to complete a difficult task, according to an incident report by the institute, which in a separate July study said that every new AI model it had tested for cheating had attempted it, and that such behavior would get harder to detect.&lt;/p&gt;&lt;p&gt;Be wary when leading AI companies say they can solve this problem. In playing God to create a greater form of intelligence, they’ve fallen prey to the same plotline as the Book of Genesis, and their creation has its own kind of original sin, called reinforcement learning.&lt;/p&gt;&lt;p&gt;Show Full Article&lt;/p&gt;&lt;p&gt;Reinforcement learning is one of the most effective methods of developing AI models and involves steering their behavior with praise and correction, much like training a dog. Instead of a hard-baked biscuit, the model gets a digital “treat” in the form of a numerical score, something like +1.5, or -2.0 for a bad answer.&lt;/p&gt;&lt;p&gt;When steered this way by thousands of independent contractors around the world (or, increasingly, by machine) models become polite and helpful. But the method can also lead to sycophancy and flattery, and it’s why AIs sometimes deceive. Driven to get a reward, they look for a shortcut, a phenomenon known as reward hacking. No matter how much Anthropic or OpenAI try to train their creations toward helpful behavior, their methods may be one of the biggest blockers to aligning AI with human values. “Reinforcement learning doesn’t reward truth or goodness,” says Connor Leahy, a former artificial-intelligence researcher who now runs the US arm of ControlAI, a non-profit trying to stop the development of superintelligent AI systems. “It rewards passing the test by any means necessary.”&lt;/p&gt;&lt;p&gt;That could mean tricking someone or inadvertently causing some kind of harm. One example in the wild points to where that could go. Earlier this year, a technologist in Australia named Andrew Bird asked Anthropic’s Claude to help him get into a popular gym class. The AI agent, built on the open-source OpenClaw framework  and able to carry out tasks on the Internet ended up exploiting a vulnerability in the gym’s online systems to book him weeks in advance.&lt;/p&gt;&lt;p&gt;When he asked to go up a class’s waiting list, Claude cancelled the reservation of the person sitting at the top, and moved Bird from fourth place to third, according to an interview Bird gave this month. (This appears to have been personal project of Bird’s, who wrote about the experience in a now-deleted blog post for Affinda Holdings Pty Ltd, where he is head of AI. Affinda didn’t respond to requests for comment.)&lt;/p&gt;&lt;p&gt;Such incidents are rare because the use of AI agents is still largely limited to software developers and tech enthusiasts. But OpenAI, Anthropic and their larger competitors are pushing the general public to ask chatbots to carry out tasks for them online. Mark Zuckerberg said last month that Meta Platforms Inc. was developing personal agents as a “great consumer product that just works out of the box and is easy enough for billions of people.”&lt;/p&gt;&lt;p&gt;Zuckerberg hasn’t said if his AI assistants will book you onto a gym class, but we may be looking at a future where many more people ask AI to help them get a refund or book the best seats at a show and their agents simply treat other humans as obstacles to those tasks. That might mean cancelling other reservations, interfering with rival bidders in an online auction or, in the case of seeking compensation, fabricating evidence.&lt;/p&gt;&lt;p&gt;Efforts by AI companies so far don’t look promising. In January, Anthropic, which has long positioned itself as the most safety conscious AI developer, published a revised, 23,000-word constitution for Claude to shape its behavior for the good. Yet when the AI Security Institute ran its latest tests, most of the “unsanctioned” actions it recorded came from the Mythos 5 model produced by Anthropic.In the real world, a long document about honesty and privacy can’t account for the near-infinite potential scenarios that Claude may find itself in.&lt;/p&gt;&lt;p&gt;Simply telling a model not to cheat doesn’t seem to help much. When the research nonprofit METR told a model released by OpenAI in 2025 not to cheat, it did so just as often as before. It also broke the rules in 14 of 20 attempts at a task when told its work would help scientists researching Alzheimer’s disease.&lt;/p&gt;&lt;p&gt;“This is not the kind of problem that some engineers can solve with math,” says Leahy. “This is a problem that a whole civilization, all of our greatest mathematicians, philosophers, scientists [need to] work on for generations to make incremental progress.”&lt;/p&gt;&lt;p&gt;There’s no question that Anthropic puts considerable effort into AI’s moral steering, and people close to Dario Amodei tell me the company’s CEO is genuine in his desire to build the technology safely. But even he cannot escape a powerful commercial imperative that drives people — and increasingly AI — to win at all costs. That is how Silicon Valley itself created such unfathomable wealth while causing reverberant harms in human life. When technologists build a system optimized for winning, don’t be surprised when it does exactly that.&lt;/p&gt;&lt;p&gt;Disclaimer: This report is auto generated from the Bloomberg news service. ThePrint holds no responsibility for its content.&lt;/p&gt;&lt;p&gt;--&amp;gt;&lt;/p&gt;&lt;p&gt;--&amp;gt;&lt;/p&gt;&lt;p&gt;--&amp;gt;&lt;/p&gt;&lt;p&gt;--&amp;gt;&lt;/p&gt;&lt;p&gt;Subscribe to our channels on YouTube , Telegram &amp;amp; WhatsApp&lt;/p&gt;&lt;p&gt;Support Our Journalism&lt;/p&gt;&lt;p&gt;India needs fair, non-hyphenated and questioning journalism, packed with on-ground reporting. ThePrint – with exceptional reporters, columnists and editors – is doing just that.&lt;/p&gt;&lt;p&gt;Sustaining this needs support from wonderful readers like you.&lt;/p&gt;&lt;p&gt;Whether you live in India or overseas, you can take a paid subscription by clicking here .&lt;/p&gt;&lt;p&gt;Support Our Journalism&lt;/p&gt;&lt;p&gt;Tags
+Anthropic
+Bloomberg Opinion
+cybersecurity&lt;/p&gt;&lt;p&gt;Facebook&lt;/p&gt;&lt;p&gt;Twitter&lt;/p&gt;&lt;p&gt;WhatsApp&lt;/p&gt;&lt;p&gt;Linkedin&lt;/p&gt;&lt;p&gt;LEAVE A REPLY Cancel&lt;/p&gt;&lt;p&gt;Comment:
+Please enter your comment!&lt;/p&gt;&lt;p&gt;Name:*
+Please enter your name here&lt;/p&gt;&lt;p&gt;Email:*
+You have entered an incorrect email address!&lt;/p&gt;&lt;p&gt;Please enter your email address here&lt;/p&gt;&lt;p&gt;Save my name, email, and website in this browser for the next time I comment.&lt;/p&gt;&lt;p&gt;Δ&lt;/p&gt;&lt;p&gt;--&amp;gt;&lt;/p&gt;&lt;p&gt;--&amp;gt;&lt;/p&gt;&lt;p&gt;Most Popular&lt;/p&gt;&lt;p&gt;Who are Tariq Mansoor &amp;amp; Basit Ali, Muslim faces from UP part of BJP chief Nitin Nabin’s new team&lt;/p&gt;&lt;p&gt;Prashant Srivastava - August 18, 2026&lt;/p&gt;&lt;p&gt;Why India’s Russian oil supplies are set to decline in August&lt;/p&gt;&lt;p&gt;Udit Bubna - August 18, 2026&lt;/p&gt;&lt;p&gt;Goa beyond beachrot—inland hotels are the next vacation frontier&lt;/p&gt;&lt;p&gt;Karanjeet Kaur - August 18, 2026&lt;/p&gt;</content:encoded>
+      <wire:platform>ThePrint</wire:platform>
+      <wire:sourceId>theprint_discovery</wire:sourceId>
+      <wire:classification>discovery_candidate</wire:classification>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://theprint.in/india/ais-original-sin-is-written-into-its-training-says-parmy-olson/3017954/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
     <item>
       <title>India needs guardrails around shadow loans, not bans</title>
       <link>https://theprint.in/india/india-needs-guardrails-around-shadow-loans-not-bans/3017888/</link>
@@ -101,29 +126,15 @@ You have entered an incorrect email address!&lt;/p&gt;&lt;p&gt;Please enter your
       <title>CEA Nageswaran calls for E10 petrol option alongside E20 amid public concern</title>
       <link>https://theprint.in/india/cea-nageswaran-calls-for-e10-petrol-option-alongside-e20-amid-public-concern/3017147/</link>
       <guid isPermaLink="false">d4a968094b6830065c6a7cc3</guid>
-      <pubDate>Mon, 17 Aug 2026 10:25:44 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 03:25:00 +0000</pubDate>
       <description>In a column published in The Indian Express on Monday, Nageswaran and Akash Poojari, a consultant with the Department of Economic Affairs have urged restoring E10 petrol for older vehicles.</description>
-      <dc:creator>Reuters</dc:creator>
-      <content:encoded>&lt;p&gt;Home India CEA Nageswaran calls for E10 petrol option alongside E20 amid public concern&lt;/p&gt;&lt;p&gt;India&lt;/p&gt;&lt;p&gt;CEA Nageswaran calls for E10 petrol option alongside E20 amid public concern&lt;/p&gt;&lt;p&gt;In a column published in The Indian Express on Monday, Nageswaran and Akash Poojari, a consultant with the Department of Economic Affairs have urged restoring E10 petrol for older vehicles.&lt;/p&gt;&lt;p&gt;Reuters&lt;/p&gt;&lt;p&gt;17 August, 2026 03:55 pm IST&lt;/p&gt;&lt;p&gt;Facebook&lt;/p&gt;&lt;p&gt;Twitter&lt;/p&gt;&lt;p&gt;WhatsApp&lt;/p&gt;&lt;p&gt;Linkedin&lt;/p&gt;&lt;p&gt;File photo of Chief Economic Advisor Dr V Anantha Nageswaran | ANI&lt;/p&gt;&lt;p&gt;Follow Us :&lt;/p&gt;&lt;p&gt;Text Size:
-A-
-A+&lt;/p&gt;&lt;p&gt;--&amp;gt;&lt;/p&gt;&lt;p&gt;New Delhi: India should bring back a fuel variant with a lower blend of ethanol, according to a top government adviser, the first senior official to call for wider fuel options amid growing consumer anger against a contentious policy change.&lt;/p&gt;&lt;p&gt;E20 — petrol with 20% ethanol blended in it — was rolled out last year and since April 1, it has been the only fuel available for sale at gas stations across the country, part of Prime Minister Narendra Modi’s plans to reduce oil imports and help curb pollution.&lt;/p&gt;&lt;p&gt;But the move has stoked widespread concerns about vehicular performance and damage to auto parts, with many car owners venting their frustrations on social media and calling on the government to make lower ethanol-blended fuel variants available.&lt;/p&gt;&lt;p&gt;Show Full Article&lt;/p&gt;&lt;p&gt;“Restoring a lower blend at the pumps, say, E10, alongside the option to buy E20, would calm most public concern,” India’s Chief Economic Adviser V Anantha Nageswaran said in an opinion piece in the Indian Express newspaper on Monday.&lt;/p&gt;&lt;p&gt;The piece was co-authored with Akash Poojari, a consultant in India’s Department of Economic Affairs. They noted that their views were personal. It is, however, rare for top Indian officials to disagree publicly with a government position.&lt;/p&gt;&lt;p&gt;A spokesperson for India’s oil ministry did not immediately respond to a Reuters’ request for comment. The government said last month that there is no proposal to revert to lower blended petrol variants, such as E0 or E10.&lt;/p&gt;&lt;p&gt;The opinion piece follows a Reuters report last week that top automakers privately discussed their concerns about E20 contamination, days before an industry lobby sent a letter of complaint to the government, which was later withdrawn. The opinion piece said the evidence does not support fears of damage to engines, but there were concerns about other impacts of E20 on older vehicles.&lt;/p&gt;&lt;p&gt;“India has roughly 75 to 80 million older two-wheelers … older rubber seals that are not rated for ethanol are a separate problem … retrofitting those seals… that way will take years,” the opinion piece said. New Delhi should “protect the existing fleet while the retrofit programme catches up,” it said.&lt;/p&gt;&lt;p&gt;This report is auto-generated from Reuters news service. ThePrint holds no responsibility for its content.&lt;/p&gt;&lt;p&gt;--&amp;gt;&lt;/p&gt;&lt;p&gt;--&amp;gt;&lt;/p&gt;&lt;p&gt;--&amp;gt;&lt;/p&gt;&lt;p&gt;--&amp;gt;&lt;/p&gt;&lt;p&gt;Subscribe to our channels on YouTube , Telegram &amp;amp; WhatsApp&lt;/p&gt;&lt;p&gt;Support Our Journalism&lt;/p&gt;&lt;p&gt;India needs fair, non-hyphenated and questioning journalism, packed with on-ground reporting. ThePrint – with exceptional reporters, columnists and editors – is doing just that.&lt;/p&gt;&lt;p&gt;Sustaining this needs support from wonderful readers like you.&lt;/p&gt;&lt;p&gt;Whether you live in India or overseas, you can take a paid subscription by clicking here .&lt;/p&gt;&lt;p&gt;Support Our Journalism&lt;/p&gt;&lt;p&gt;Tags
-ethanol blending
-Ethanol production
-Petrol
-Petrol price
-Petrol Pumps&lt;/p&gt;&lt;p&gt;Facebook&lt;/p&gt;&lt;p&gt;Twitter&lt;/p&gt;&lt;p&gt;WhatsApp&lt;/p&gt;&lt;p&gt;Linkedin&lt;/p&gt;&lt;p&gt;LEAVE A REPLY Cancel&lt;/p&gt;&lt;p&gt;Comment:
-Please enter your comment!&lt;/p&gt;&lt;p&gt;Name:*
-Please enter your name here&lt;/p&gt;&lt;p&gt;Email:*
-You have entered an incorrect email address!&lt;/p&gt;&lt;p&gt;Please enter your email address here&lt;/p&gt;&lt;p&gt;Save my name, email, and website in this browser for the next time I comment.&lt;/p&gt;&lt;p&gt;Δ&lt;/p&gt;&lt;p&gt;--&amp;gt;&lt;/p&gt;&lt;p&gt;--&amp;gt;&lt;/p&gt;&lt;p&gt;Most Popular&lt;/p&gt;&lt;p&gt;Shehzad Poonawalla resigns from BJP ending speculation, says ‘certain individuals’ forced decision&lt;/p&gt;&lt;p&gt;Neelam Pandey - August 17, 2026&lt;/p&gt;&lt;p&gt;NTA under scrutiny again after NEET leak, orders UGC-NET re-exam for 3 subjects over multiple errors&lt;/p&gt;&lt;p&gt;Fareeha Iftikhar - August 17, 2026&lt;/p&gt;&lt;p&gt;From delays to stiff competition, why India’s overseas critical minerals quest is hitting roadblocks&lt;/p&gt;&lt;p&gt;Moushumi Das Gupta - August 17, 2026&lt;/p&gt;</content:encoded>
       <wire:platform>ThePrint</wire:platform>
       <wire:sourceId>theprint_discovery</wire:sourceId>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
-      <wire:confidence>0.99</wire:confidence>
+      <wire:classification>discovery_candidate</wire:classification>
+      <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://theprint.in/india/cea-nageswaran-calls-for-e10-petrol-option-alongside-e20-amid-public-concern/3017147/</wire:canonicalUrl>
-      <wire:evidence>structured credit: Reuters</wire:evidence>
+      <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
       <title>Why AI hasn’t triggered the predicted white-collar layoffs</title>
@@ -210,31 +221,17 @@ You have entered an incorrect email address!&lt;/p&gt;&lt;p&gt;Please enter your
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Bangladesh says better environment needed for India visit amid rift over ousted leader</title>
-      <link>https://theprint.in/world/bangladesh-says-better-environment-needed-for-india-visit-amid-rift-over-ousted-leader/3016602/</link>
-      <guid isPermaLink="false">e9c3ee7a7c12cc590cf04170</guid>
-      <pubDate>Sun, 16 Aug 2026 07:00:00 +0000</pubDate>
-      <description>Bangladesh signalled on Sunday it wants a more favourable diplomatic environment before it can agree to a top-level visit to India, as Dhaka presses New Delhi to extradite ...</description>
+      <title>Iran says Qatar delaying probe into fate of Iranian pilots, Tasnim news agency</title>
+      <link>https://theprint.in/world/iran-says-qatar-delaying-probe-into-fate-of-iranian-pilots-tasnim-news-agency/3016327/</link>
+      <guid isPermaLink="false">21e2fb8ceea81b6165b6d043</guid>
+      <pubDate>Sun, 16 Aug 2026 00:30:00 +0000</pubDate>
+      <description>Iranian military official said on Sunday that Qatar should let an Iranian team in to investigate the fate of Iranian pilots who Tehran says are being held there, Iranian ...</description>
       <wire:platform>ThePrint</wire:platform>
       <wire:sourceId>theprint_discovery</wire:sourceId>
       <wire:classification>discovery_candidate</wire:classification>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://theprint.in/world/bangladesh-says-better-environment-needed-for-india-visit-amid-rift-over-ousted-leader/3016602/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Iranian parliament advances bill to curb foreign influence</title>
-      <link>https://theprint.in/world/iranian-parliament-advances-bill-to-curb-foreign-influence/3016601/</link>
-      <guid isPermaLink="false">f6f6efcddd7a88364bcec026</guid>
-      <pubDate>Sun, 16 Aug 2026 07:00:00 +0000</pubDate>
-      <description>Iran's parliament approved on Sunday the general principles of a bill that would criminalise interviews and other communications with media deemed hostile to the Islamic ...</description>
-      <wire:platform>ThePrint</wire:platform>
-      <wire:sourceId>theprint_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://theprint.in/world/iranian-parliament-advances-bill-to-curb-foreign-influence/3016601/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://theprint.in/world/iran-says-qatar-delaying-probe-into-fate-of-iranian-pilots-tasnim-news-agency/3016327/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
