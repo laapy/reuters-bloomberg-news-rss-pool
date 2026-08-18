@@ -5,14 +5,89 @@
     <link>https://feeds.bloomberg.com/technology/news.rss</link>
     <description>Provenance-aware feed; classification fields distinguish exact wire copies from citations.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 18 Aug 2026 18:50:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 19:30:56 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>Pennsylvania Governor Shapiro Puts ‘Guardrails’ on Data Centers</title>
+      <title>Silicon Valley Is Still the Center of AI, Says GV</title>
+      <link>https://www.bloomberg.com/news/videos/2026-08-18/gv-looks-beyond-ai-infrastructure-to-science-video</link>
+      <guid isPermaLink="false">ff1d37dc48d0b9249851ece2</guid>
+      <pubDate>Tue, 18 Aug 2026 18:52:54 +0000</pubDate>
+      <description>The speed of AI development means investors trying to stay ahead of the curve, need to move faster than ever. For venture firm GV, this means focusing on the application layer, having already made strategic bets on AI infrastructure and chip startups. Dave Munichiello, managing partner at GV, discusses GV’s early investment in Modular and its acquisition by Qualcomm, and why the firm is encouraging investors to spend more time in Silicon Valley. He joins Ed Ludlow on "Bloomberg Tech." (Source: Bloomberg)</description>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:sourceId>bloomberg_technology</wire:sourceId>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:classification>wire_original</wire:classification>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/videos/2026-08-18/gv-looks-beyond-ai-infrastructure-to-science-video</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>AI Stress Tester: Models Have Crossed a ‘Threshold of Competency’</title>
+      <link>https://www.bloomberg.com/news/videos/2026-08-18/when-ai-safety-tests-reach-the-real-world-video</link>
+      <guid isPermaLink="false">58128754b22156aec7f74e58</guid>
+      <pubDate>Tue, 18 Aug 2026 18:52:47 +0000</pubDate>
+      <description>After AI models from OpenAI, Anthropic and others broke out of controlled tests and accessed real-world systems, new questions were raised about how they should be assessed before deployment. Those evaluations were run with Irregular, a startup hired to stress-test advanced AI models. But the sandboxed environment had a critical flaw: a misconfiguration meant the models could access the open internet. Dan Lahav, CEO of Irregular, explains how a human error left one testing environment connected to the internet, and what the industry is changing to make safety evaluations more secure. He joins Ed Ludlow on "Bloomberg Tech." (Source: Bloomberg)</description>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:sourceId>bloomberg_technology</wire:sourceId>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:classification>wire_original</wire:classification>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/videos/2026-08-18/when-ai-safety-tests-reach-the-real-world-video</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Anthropic’s $65 Billion Surge, OpenAI’s Teen Push | Bloomberg Tech 8/18/2026</title>
+      <link>https://www.bloomberg.com/news/videos/2026-08-18/bloomberg-tech-8-18-2026-video</link>
+      <guid isPermaLink="false">b26637c9a6bb1cde840854b3</guid>
+      <pubDate>Tue, 18 Aug 2026 18:52:39 +0000</pubDate>
+      <description>Bloomberg’s Ed Ludlow breaks down Anthropic’s annualized revenue topping $65 billion as the AI startup moves closer to a potential IPO. Plus, OpenAI launches ChatGPT for Teens, aimed at giving 13- to 17-year-olds a safer way to use the chatbot for learning. And, after advanced AI models escaped controlled safety tests and accessed real-world systems, we speak with the CEO of the startup hired to stress-test them. (Source: Bloomberg)</description>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:sourceId>bloomberg_technology</wire:sourceId>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:classification>wire_original</wire:classification>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/videos/2026-08-18/bloomberg-tech-8-18-2026-video</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>ChatGPT Shouldn’t Be a ‘Friend’ to Teens, Says OpenAI</title>
+      <link>https://www.bloomberg.com/news/videos/2026-08-18/openai-s-new-chatgpt-for-teens-video</link>
+      <guid isPermaLink="false">3442955a8c36ce97fcde6f9a</guid>
+      <pubDate>Tue, 18 Aug 2026 18:49:44 +0000</pubDate>
+      <description>OpenAI is releasing ChatGPT for Teens, a version of its AI chatbot aimed at children aged 13 to 17 that the company says encourages safe usage and deeper learning. The model includes features such as Study Mode, quiet hours, and reminders to take a break. Lauren Jonas, OpenAI's head of youth and families, joins Ed Ludlow on "Bloomberg Tech." (Source: Bloomberg)</description>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:sourceId>bloomberg_technology</wire:sourceId>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:classification>wire_original</wire:classification>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/videos/2026-08-18/openai-s-new-chatgpt-for-teens-video</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Anthropic’s Revenue Boom Builds Ahead of IPO</title>
+      <link>https://www.bloomberg.com/news/videos/2026-08-18/anthropic-s-revenue-boom-builds-ahead-of-ipo-video</link>
+      <guid isPermaLink="false">fcf05acd2b8126c7c0ffbfb6</guid>
+      <pubDate>Tue, 18 Aug 2026 18:47:13 +0000</pubDate>
+      <description>Anthropic is on track to generate annualized revenue of more than $65 billion based on its current performance, up more than sevenfold from its pace at the end of last year. Bloomberg's Shirin Ghaffary explains what this means as the AI company gets ready to make its Wall Street debut. She joins Ed Ludlow on "Bloomberg Tech." (Source: Bloomberg)</description>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:sourceId>bloomberg_technology</wire:sourceId>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:classification>wire_original</wire:classification>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/videos/2026-08-18/anthropic-s-revenue-boom-builds-ahead-of-ipo-video</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Pennsylvania Governor Josh Shapiro to Limit New Data Centers</title>
       <link>https://www.bloomberg.com/news/articles/2026-08-18/pennsylvania-governor-shapiro-puts-guardrails-on-data-centers</link>
-      <guid isPermaLink="false">b4e7e4dc8f1bc19f39bfe764</guid>
+      <guid isPermaLink="false">9e0e2b08dfcb20db32cb7822</guid>
       <pubDate>Tue, 18 Aug 2026 18:31:13 +0000</pubDate>
-      <description>Pennsylvania Governor Josh Shapiro ordered strict new guardrails on data centers in the state as local opposition grows against developers.</description>
+      <description>Pennsylvania Governor Josh Shapiro ordered strict new guardrails on data centers in the state, joining a rush of states pushing back against soaring corporate investment fueled by the development of artificial intelligence.</description>
       <dc:creator>Liz Skalka</dc:creator>
       <wire:platform>Bloomberg</wire:platform>
       <wire:sourceId>bloomberg_technology</wire:sourceId>
@@ -56,9 +131,9 @@
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
-      <title>Meta Exploits Youths on Social Media, States Allege at Trial</title>
+      <title>Meta Exploits Kids on Social Media, States Allege at Trial</title>
       <link>https://www.bloomberg.com/news/articles/2026-08-18/meta-exploits-youths-on-social-media-states-allege-at-trial</link>
-      <guid isPermaLink="false">7db8f2204d39095bf20b1a01</guid>
+      <guid isPermaLink="false">2117b4afea2515dddc790d22</guid>
       <pubDate>Tue, 18 Aug 2026 17:19:58 +0000</pubDate>
       <description>Meta Platforms Inc. has deceived the public for years by targeting children on Facebook and Instagram with technology designed to turn them into compulsive users and drive up advertising revenue, a lawyer at the California attorney general’s office told a jury.</description>
       <dc:creator>Madlin Mekelburg and Isaiah Poritz (Bloomberg Law)</dc:creator>
@@ -198,21 +273,6 @@
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
-      <title>Where to Hide During Market Shocks</title>
-      <link>https://www.bloomberg.com/news/videos/2026-08-18/where-to-hide-during-market-shocks-video</link>
-      <guid isPermaLink="false">cc51bae9d6670eaa94ec5fe9</guid>
-      <pubDate>Tue, 18 Aug 2026 14:01:47 +0000</pubDate>
-      <description>Gabriela Santos, JPMorgan Asset Management Chief Market Strategist for the Americas, talks about where investors can hide from market shocks. The firm has created an AI factor basket that investors can use for ideas on how to diversify their portfolios. Santos talks about it on "Bloomberg Open Interest." (Source: Bloomberg)</description>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_technology</wire:sourceId>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/videos/2026-08-18/where-to-hide-during-market-shocks-video</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
       <title>Snowflake’s Plan to Cut AI Costs</title>
       <link>https://www.bloomberg.com/news/videos/2026-08-18/snowflake-s-plan-to-cut-ai-costs-video</link>
       <guid isPermaLink="false">7c0534a56bb6866729ea545b</guid>
@@ -225,21 +285,6 @@
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/videos/2026-08-18/snowflake-s-plan-to-cut-ai-costs-video</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Anthropic's Annualized Revenue Tops $65 Billion</title>
-      <link>https://www.bloomberg.com/news/videos/2026-08-18/anthropic-s-annualized-revenue-tops-65-billion-video</link>
-      <guid isPermaLink="false">a6ecfcd37680bb12de923271</guid>
-      <pubDate>Tue, 18 Aug 2026 12:55:53 +0000</pubDate>
-      <description>Anthropic is on track to generate annualized revenue of more than $65 billion based on its current performance, that's up more than seven times from its pace at the end of last year, as Tom Mackenzie reports. (Source: Bloomberg)</description>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_technology</wire:sourceId>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/videos/2026-08-18/anthropic-s-annualized-revenue-tops-65-billion-video</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
@@ -256,54 +301,6 @@
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-18/ant-group-said-to-sell-3-paytm-stake-in-309-million-deal</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Baidu Posts Fifth Straight Revenue Drop After AI Lag Widens</title>
-      <link>https://www.bloomberg.com/news/articles/2026-08-18/baidu-posts-fifth-straight-sales-drop-after-ai-lags-rivals</link>
-      <guid isPermaLink="false">f9de88a4aba13dc099b4baee</guid>
-      <pubDate>Tue, 18 Aug 2026 09:12:05 +0000</pubDate>
-      <description>Baidu Inc.’s revenue fell for a fifth consecutive quarter, reflecting a weakening position in ads as well as AI development against rivals like Moonshot.</description>
-      <dc:creator>Bloomberg News</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_technology</wire:sourceId>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-18/baidu-posts-fifth-straight-sales-drop-after-ai-lags-rivals</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Apple’s Anti-AI Position Is Becoming Stock Market Baggage</title>
-      <link>https://www.bloomberg.com/news/articles/2026-08-18/apple-s-anti-ai-position-suddenly-becomes-stock-market-baggage</link>
-      <guid isPermaLink="false">94ec1fcb14377df7e3b5b60c</guid>
-      <pubDate>Tue, 18 Aug 2026 09:07:51 +0000</pubDate>
-      <description>Apple Inc.’s status as an anti-artificial intelligence play helped the stock tear through the first half of the year as investors grew skeptical of the AI trade. But that sentiment has flipped, and the shares are struggling.</description>
-      <dc:creator>Ryan Vlastelica</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_technology</wire:sourceId>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-18/apple-s-anti-ai-position-suddenly-becomes-stock-market-baggage</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Alibaba Shares Jump as Alipay Launches New Platform</title>
-      <link>https://www.bloomberg.com/news/articles/2026-08-18/alibaba-shares-jump-5-as-alipay-launches-new-merchant-platform</link>
-      <guid isPermaLink="false">e5d8b60ec56fbf73f4ca8789</guid>
-      <pubDate>Tue, 18 Aug 2026 08:09:04 +0000</pubDate>
-      <description>Alibaba Group Holding Ltd. shares rose the most in two weeks as the launch of a new ecommerce platform boosted optimism toward the company before its June quarter earnings this week.</description>
-      <dc:creator>Jeanny Yu</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_technology</wire:sourceId>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-18/alibaba-shares-jump-5-as-alipay-launches-new-merchant-platform</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
