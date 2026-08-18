@@ -5,7 +5,7 @@
     <link>https://feeds.bloomberg.com/bview/news.rss</link>
     <description>Provenance-aware feed; classification fields distinguish exact wire copies from citations.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 18 Aug 2026 11:27:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 11:55:24 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Humanoid Robots Need a Supply Chain in North America</title>
@@ -229,22 +229,6 @@
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/opinion/articles/2026-08-17/the-american-dream-now-comes-with-a-survival-guide</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Gareth Edwards’ Jurassic World Exit Shows Hollywood’s Director Problem</title>
-      <link>https://www.bloomberg.com/opinion/articles/2026-08-17/gareth-edwards-jurassic-world-exit-shows-hollywood-s-director-problem</link>
-      <guid isPermaLink="false">6377b9e88889a7f5b727afa8</guid>
-      <pubDate>Mon, 17 Aug 2026 11:30:00 +0000</pubDate>
-      <description>For the next stage of its evolution, the Jurassic World franchise will have to find a way with a new director. News recently broke that Jurassic World Rebirth director Gareth Edwards won’t be returning for the follow-up, with the Hollywood Reporter citing “creative differences” as the reason for his exit. What’s especially surprising about this turn of events is that Edwards was originally hired to replace David Leitch on Rebirth because he was reportedly willing to accept a role that was “more</description>
-      <dc:creator>Miles Surrey</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_opinion</wire:sourceId>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/opinion/articles/2026-08-17/gareth-edwards-jurassic-world-exit-shows-hollywood-s-director-problem</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
   </channel>

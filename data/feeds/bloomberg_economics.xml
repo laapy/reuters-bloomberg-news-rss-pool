@@ -5,7 +5,7 @@
     <link>https://feeds.bloomberg.com/economics/news.rss</link>
     <description>Provenance-aware feed; classification fields distinguish exact wire copies from citations.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 18 Aug 2026 11:27:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 11:55:24 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Mexico and rail route to avoid Panama Canal</title>
@@ -293,22 +293,6 @@
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-17/nigerian-inflation-edges-lower-in-july-boosting-rate-cut-case</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>China’s Slowdown Deepens With Momentum ‘Collapsing’ Beyond Tech</title>
-      <link>https://www.bloomberg.com/news/articles/2026-08-17/china-s-economy-extends-slowdown-by-weakening-across-the-board</link>
-      <guid isPermaLink="false">a3b972e1e3768ddfac20aa15</guid>
-      <pubDate>Mon, 17 Aug 2026 07:00:01 +0000</pubDate>
-      <description>China’s economic slowdown worsened at the start of the second half, as a boom in tech fails to lift sectors untouched by the global AI buildout.</description>
-      <dc:creator>Bloomberg News</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_economics</wire:sourceId>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-17/china-s-economy-extends-slowdown-by-weakening-across-the-board</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
   </channel>
