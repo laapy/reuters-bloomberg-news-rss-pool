@@ -5,8 +5,24 @@
     <link>https://feeds.bloomberg.com/business/news.rss</link>
     <description>Provenance-aware feed; classification fields distinguish exact wire copies from citations.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 18 Aug 2026 17:31:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 17:58:42 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Bloomberg Talks: Jake Sullivan (Podcast)</title>
+      <link>https://www.bloomberg.com/news/audio/2026-08-18/bloomberg-talks-jake-sullivan-podcast</link>
+      <guid isPermaLink="false">ff8c0a2651bc498ebd798d40</guid>
+      <pubDate>Tue, 18 Aug 2026 17:35:57 +0000</pubDate>
+      <description>Source: Bloomberg, 16:06</description>
+      <dc:creator>VITORIA ROGERIO</dc:creator>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:sourceId>bloomberg_business</wire:sourceId>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:classification>wire_original</wire:classification>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-08-18/bloomberg-talks-jake-sullivan-podcast</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
     <item>
       <title>Bloomberg Talks: Amir Yaron (Podcast)</title>
       <link>https://www.bloomberg.com/news/audio/2026-08-18/bloomberg-talks-amir-yaron-podcast</link>
@@ -309,22 +325,6 @@
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-08-18/stocks-fall-at-open-trump-no-talks-planned-with-iran-more</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Trump Shuts the 60-Day Window for Iran Peace Deal</title>
-      <link>https://www.bloomberg.com/news/newsletters/2026-08-18/trump-shuts-the-60-day-window-for-iran-peace-deal</link>
-      <guid isPermaLink="false">d0ca3b003b04bb373bde41c4</guid>
-      <pubDate>Tue, 18 Aug 2026 13:26:54 +0000</pubDate>
-      <description>With the deadline for reaching an agreement technically expiring, Trump pursues a hard line with Tehran as the stalemate in the Strait of Hormuz shows no signs of easing.</description>
-      <dc:creator>Kate Duffy</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_business</wire:sourceId>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/newsletters/2026-08-18/trump-shuts-the-60-day-window-for-iran-peace-deal</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
   </channel>
