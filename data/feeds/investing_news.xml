@@ -1,11 +1,43 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Investing.com — Reuters/Bloomberg pool</title>
     <link>https://www.investing.com/rss/news.rss</link>
     <description>Provenance-aware feed; classification fields distinguish exact wire copies from citations.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 18 Aug 2026 13:46:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 14:37:51 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Why states fought to present a united case against Meta over youth social media harms</title>
+      <link>https://www.investing.com/news/stock-market-news/why-states-fought-to-present-a-united-case-against-meta-over-youth-social-media-harms-4864710</link>
+      <guid isPermaLink="false">30ec943501c859dedc71f93a</guid>
+      <pubDate>Tue, 18 Aug 2026 14:13:45 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:sourceId>investing_news</wire:sourceId>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:classification>wire_syndication</wire:classification>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/why-states-fought-to-present-a-united-case-against-meta-over-youth-social-media-harms-4864710</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>OpenAI unveils ChatGPT for Teens with stronger guardrails to tackle safety risks</title>
+      <link>https://www.investing.com/news/stock-market-news/openai-unveils-chatgpt-for-teens-with-stronger-guardrails-parental-controls-4865012</link>
+      <guid isPermaLink="false">86d12abeefb29ae9e173b858</guid>
+      <pubDate>Tue, 18 Aug 2026 14:12:53 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:sourceId>investing_news</wire:sourceId>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:classification>wire_syndication</wire:classification>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/openai-unveils-chatgpt-for-teens-with-stronger-guardrails-parental-controls-4865012</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>
