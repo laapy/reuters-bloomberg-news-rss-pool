@@ -1,11 +1,29 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>The Economic Times — Reuters/Bloomberg pool</title>
     <link>https://economictimes.indiatimes.com/rssfeedsdefault.cms</link>
     <description>Provenance-aware feed; classification fields distinguish exact wire copies from citations.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 18 Aug 2026 17:58:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 18:50:14 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Anthropic pre-IPO credit facility set to climb past $10 billion</title>
+      <link>https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-pre-ipo-credit-facility-set-to-climb-past-10-billion/articleshow/133329176.cms</link>
+      <guid isPermaLink="false">4a187a69970a370e0e12df35</guid>
+      <pubDate>Tue, 18 Aug 2026 17:44:00 +0000</pubDate>
+      <description>Anthropic is broadening its revolving credit facility past the initial target to prepare for its much-anticipated initial public offering. Multiple banks are looking to partake in the credit line, establishing their positions in the upcoming IPO. Bolstered by a surge in revenue, Anthropic is geared for its entrance onto Wall Street this fall.</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;Anthropic PBC’s revolving credit facility is set to rise above its roughly $10 billion target, according to people familiar with the matter, as the artificial intelligence firm prepares for a highly anticipated initial public offering.The Claude chatbot maker’s proposed expansion of its so-called revolver is drawing a clutch of banks seeking to bolster their pitch for roles on the IPO, said the people, who asked not to be identified because the information isn’t public. Discussions are ongoing and the company could decide to limit the size of the revolver to the target or even below, the people said.Anthropic has asked the most active banks leading the credit line to lend about $1.25 billion, with the next level of active banks being encouraged to offer around $1 billion, and with the commitments dropping to roughly $750 million and lower for less active roles, some of the people said.Generally, in syndicated loans, the higher the commitment of a bank, the higher the fees it gets paid by a borrower. When a large capital market transaction is expected, a higher ranking in a loan is likely to correspond to a more active role in the upcoming deal.A representative for Anthropic declined to comment.The AI developer’s race to go public gives it an opportunity to follow the lead of companies like SpaceX, which expanded its revolving credit facility to $5 billion in May from an earlier $1.5 billion, the prospectus showed, just a month before its record-breaking IPO. The bank lineup on that offering was substantially the same as those working on the IPO.A $10 billion-plus revolving credit line would be a substantial increase over a $2.5 billion five-year facility Anthropic secured last year, with participation from Morgan Stanley, Barclays Plc, Citigroup Inc., Goldman Sachs Group Inc., JPMorgan Chase &amp;amp; Co., Royal Bank of Canada and Mitsubishi UFJ Financial Group, according to a LinkedIn post at the time.Anthropic is working with Morgan Stanley, Goldman Sachs and JPMorgan on the IPO, Bloomberg News has reported.The expanded lending facility comes weeks after banks led by Morgan Stanley were in talks to line up $15 billion of debt for an Anthropic data-center project in Texas, backstopped by Alphabet Inc.’s Google, Bloomberg News reported. That package for data-center developer Nexus Data Centers would consist of a $14 billion bridge loan and a revolving credit facility, people familiar with the matter have said.The AI race has fired up the IPO market, with listings this year raising $257 billion, excluding blank-check firms and other financial vehicles, according to data compiled by Bloomberg. That’s the most raised in a year since 2021, the data show.Anthropic and its rival OpenAI have filed confidential paperwork to go public, with Anthropic expected to make its Wall Street debut as soon as this fall, ahead of OpenAI.Bank of America Corp. handed a $520 million credit line to OpenAI earlier this summer as it joined an existing undrawn facility set up by competitors, Bloomberg News reported, boosting the capital available for OpenAI to more than $5 billion.Anthropic’s run rate, a metric that projects full-year revenuefrom a shorter period, hit $65 billion by the end of July, Bloomberg News reported on Monday. The dramatic acceleration in revenue bolsters Anthropic’s plans for a public listing.The company reported a preliminary revenue figure of more than $11.5 billion in its latest completed quarter, compared with $787 million in the corresponding period in 2025, according to documents seen by Bloomberg News. It also reported positive adjusted operating income for the quarter, the documents show.Anthropic is meeting with investors ahead of its potential mega-IPO, people familiar with the matter said in July.&lt;/p&gt;</content:encoded>
+      <wire:platform>The Economic Times</wire:platform>
+      <wire:sourceId>economic_times</wire:sourceId>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:classification>wire_syndication</wire:classification>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-pre-ipo-credit-facility-set-to-climb-past-10-billion/articleshow/133329176.cms</wire:canonicalUrl>
+      <wire:evidence>structured credit: Bloomberg</wire:evidence>
+    </item>
   </channel>
 </rss>
