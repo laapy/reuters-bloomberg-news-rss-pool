@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>Reuters/Bloomberg RSS resource pool</title>
+  </head>
+  <body>
+    <outline text="Generated feeds">
+      <outline type="rss" text="Reuters" title="reuters_official_msn" xmlUrl="data/feeds/reuters_official_msn.xml" htmlUrl="https://www.reuters.com/arc/outboundfeeds/msn/?outputType=xml" />
+      <outline type="rss" text="Bloomberg" title="bloomberg_business" xmlUrl="data/feeds/bloomberg_business.xml" htmlUrl="https://feeds.bloomberg.com/business/news.rss" />
+      <outline type="rss" text="Bloomberg" title="bloomberg_markets" xmlUrl="data/feeds/bloomberg_markets.xml" htmlUrl="https://feeds.bloomberg.com/markets/news.rss" />
+      <outline type="rss" text="Bloomberg" title="bloomberg_economics" xmlUrl="data/feeds/bloomberg_economics.xml" htmlUrl="https://feeds.bloomberg.com/economics/news.rss" />
+      <outline type="rss" text="Bloomberg" title="bloomberg_industries" xmlUrl="data/feeds/bloomberg_industries.xml" htmlUrl="https://feeds.bloomberg.com/industries/news.rss" />
+      <outline type="rss" text="Bloomberg" title="bloomberg_technology" xmlUrl="data/feeds/bloomberg_technology.xml" htmlUrl="https://feeds.bloomberg.com/technology/news.rss" />
+      <outline type="rss" text="Bloomberg" title="bloomberg_politics" xmlUrl="data/feeds/bloomberg_politics.xml" htmlUrl="https://feeds.bloomberg.com/politics/news.rss" />
+      <outline type="rss" text="Bloomberg" title="bloomberg_wealth" xmlUrl="data/feeds/bloomberg_wealth.xml" htmlUrl="https://feeds.bloomberg.com/wealth/news.rss" />
+      <outline type="rss" text="Bloomberg" title="bloomberg_opinion" xmlUrl="data/feeds/bloomberg_opinion.xml" htmlUrl="https://feeds.bloomberg.com/bview/news.rss" />
+      <outline type="rss" text="Bloomberg" title="bloomberg_crypto" xmlUrl="data/feeds/bloomberg_crypto.xml" htmlUrl="https://feeds.bloomberg.com/crypto/news.rss" />
+      <outline type="rss" text="Bloomberg" title="bloomberg_businessweek" xmlUrl="data/feeds/bloomberg_businessweek.xml" htmlUrl="https://feeds.bloomberg.com/businessweek/news.rss" />
+      <outline type="rss" text="Yahoo!ニュース日本" title="yahoo_news_jp_reuters" xmlUrl="data/feeds/yahoo_news_jp_reuters.xml" htmlUrl="https://news.yahoo.co.jp/media/reut" />
+      <outline type="rss" text="Yahoo!ニュース日本" title="yahoo_news_jp_bloomberg" xmlUrl="data/feeds/yahoo_news_jp_bloomberg.xml" htmlUrl="https://news.yahoo.co.jp/media/bloom_st" />
+      <outline type="rss" text="Yahoo!ファイナンス日本" title="yahoo_finance_jp_reuters" xmlUrl="data/feeds/yahoo_finance_jp_reuters.xml" htmlUrl="https://finance.yahoo.co.jp/news/media/reut" />
+      <outline type="rss" text="Yahoo Finance" title="yahoo_finance_global" xmlUrl="data/feeds/yahoo_finance_global.xml" htmlUrl="https://finance.yahoo.com/news/rssindex" />
+      <outline type="rss" text="Yahoo!ニュース日本" title="yahoo_news_jp_business" xmlUrl="data/feeds/yahoo_news_jp_business.xml" htmlUrl="https://news.yahoo.co.jp/rss/topics/business.xml" />
+      <outline type="rss" text="Yahoo奇摩股市" title="yahoo_taiwan_stock" xmlUrl="data/feeds/yahoo_taiwan_stock.xml" htmlUrl="https://tw.stock.yahoo.com/rss?category=news" />
+      <outline type="rss" text="CNA" title="cna_latest" xmlUrl="data/feeds/cna_latest.xml" htmlUrl="https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml" />
+      <outline type="rss" text="CNA Business" title="cna_business" xmlUrl="data/feeds/cna_business.xml" htmlUrl="https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&amp;category=6936" />
+      <outline type="rss" text="CNA World" title="cna_world" xmlUrl="data/feeds/cna_world.xml" htmlUrl="https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&amp;category=6311" />
+      <outline type="rss" text="Investing.com" title="investing_news" xmlUrl="data/feeds/investing_news.xml" htmlUrl="https://www.investing.com/rss/news.rss" />
+      <outline type="rss" text="MINING.com" title="mining_news" xmlUrl="data/feeds/mining_news.xml" htmlUrl="https://www.mining.com/feed/" />
+      <outline type="rss" text="Mint" title="mint_news" xmlUrl="data/feeds/mint_news.xml" htmlUrl="https://www.livemint.com/rss/news" />
+      <outline type="rss" text="The Economic Times" title="economic_times" xmlUrl="data/feeds/economic_times.xml" htmlUrl="https://economictimes.indiatimes.com/rssfeedsdefault.cms" />
+      <outline type="rss" text="The Straits Times" title="straits_times_world" xmlUrl="data/feeds/straits_times_world.xml" htmlUrl="https://www.straitstimes.com/news/world/rss.xml" />
+      <outline type="rss" text="TradingView News" title="tradingview_discovery" xmlUrl="data/feeds/tradingview_discovery.xml" htmlUrl="https://www.bing.com/news/search?q=site%3Atradingview.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US" />
+      <outline type="rss" text="TBS NEWS DIG" title="tbs_news_dig_discovery" xmlUrl="data/feeds/tbs_news_dig_discovery.xml" htmlUrl="https://www.bing.com/news/search?q=site%3Anewsdig.tbs.co.jp+%28Reuters+OR+Bloomberg+OR+%E3%83%AD%E3%82%A4%E3%82%BF%E3%83%BC+OR+%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%90%E3%83%BC%E3%82%B0%29&amp;format=rss&amp;mkt=en-US" />
+      <outline type="rss" text="Bloomberg Línea" title="bloomberg_linea_discovery" xmlUrl="data/feeds/bloomberg_linea_discovery.xml" htmlUrl="https://www.bing.com/news/search?q=site%3Abloomberglinea.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US" />
+      <outline type="rss" text="MSN" title="msn_discovery" xmlUrl="data/feeds/msn_discovery.xml" htmlUrl="https://www.bing.com/news/search?q=site%3Amsn.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US" />
+      <outline type="rss" text="Business Standard" title="business_standard_discovery" xmlUrl="data/feeds/business_standard_discovery.xml" htmlUrl="https://www.bing.com/news/search?q=site%3Abusiness-standard.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US" />
+      <outline type="rss" text="ThePrint" title="theprint_discovery" xmlUrl="data/feeds/theprint_discovery.xml" htmlUrl="https://www.bing.com/news/search?q=site%3Atheprint.in+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US" />
+      <outline type="rss" text="SWI swissinfo.ch" title="swissinfo_discovery" xmlUrl="data/feeds/swissinfo_discovery.xml" htmlUrl="https://www.bing.com/news/search?q=site%3Aswissinfo.ch+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US" />
+      <outline type="rss" text="Devdiscourse" title="devdiscourse_discovery" xmlUrl="data/feeds/devdiscourse_discovery.xml" htmlUrl="https://www.bing.com/news/search?q=site%3Adevdiscourse.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US" />
+      <outline type="rss" text="ZAWYA" title="zawya_discovery" xmlUrl="data/feeds/zawya_discovery.xml" htmlUrl="https://www.bing.com/news/search?q=site%3Azawya.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US" />
+      <outline type="rss" text="BNN Bloomberg" title="bnn_bloomberg_discovery" xmlUrl="data/feeds/bnn_bloomberg_discovery.xml" htmlUrl="https://www.bing.com/news/search?q=site%3Abnnbloomberg.ca+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US" />
+      <outline type="rss" text="MarketScreener" title="marketscreener_discovery" xmlUrl="data/feeds/marketscreener_discovery.xml" htmlUrl="https://www.bing.com/news/search?q=site%3Amarketscreener.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US" />
+      <outline type="rss" text="Google News" title="google_news_reuters_pool" xmlUrl="data/feeds/google_news_reuters_pool.xml" htmlUrl="https://news.google.com/rss/search?hl=en-US&amp;gl=US&amp;ceid=US%3Aen&amp;q=Reuters+when%3A2d" />
+      <outline type="rss" text="Google News" title="google_news_bloomberg_pool" xmlUrl="data/feeds/google_news_bloomberg_pool.xml" htmlUrl="https://news.google.com/rss/search?hl=en-US&amp;gl=US&amp;ceid=US%3Aen&amp;q=Bloomberg+when%3A2d" />
+      <outline type="rss" text="Google News 日本" title="google_news_jp_wire_pool" xmlUrl="data/feeds/google_news_jp_wire_pool.xml" htmlUrl="https://news.google.com/rss/search?hl=ja&amp;gl=JP&amp;ceid=JP%3Aja&amp;q=%28%E3%83%AD%E3%82%A4%E3%82%BF%E3%83%BC+OR+%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%90%E3%83%BC%E3%82%B0%29+when%3A2d" />
+    </outline>
+  </body>
+</opml>

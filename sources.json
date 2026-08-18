@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {"id":"reuters_official_msn","platform":"Reuters","kind":"rss","url":"https://www.reuters.com/arc/outboundfeeds/msn/?outputType=xml","owned_by":"Reuters","language":"en","max_items":100},
+
+    {"id":"bloomberg_business","platform":"Bloomberg","kind":"rss","url":"https://feeds.bloomberg.com/business/news.rss","owned_by":"Bloomberg","language":"en","max_items":40},
+    {"id":"bloomberg_markets","platform":"Bloomberg","kind":"rss","url":"https://feeds.bloomberg.com/markets/news.rss","owned_by":"Bloomberg","language":"en","max_items":40},
+    {"id":"bloomberg_economics","platform":"Bloomberg","kind":"rss","url":"https://feeds.bloomberg.com/economics/news.rss","owned_by":"Bloomberg","language":"en","max_items":40},
+    {"id":"bloomberg_industries","platform":"Bloomberg","kind":"rss","url":"https://feeds.bloomberg.com/industries/news.rss","owned_by":"Bloomberg","language":"en","max_items":40},
+    {"id":"bloomberg_technology","platform":"Bloomberg","kind":"rss","url":"https://feeds.bloomberg.com/technology/news.rss","owned_by":"Bloomberg","language":"en","max_items":40},
+    {"id":"bloomberg_politics","platform":"Bloomberg","kind":"rss","url":"https://feeds.bloomberg.com/politics/news.rss","owned_by":"Bloomberg","language":"en","max_items":40},
+    {"id":"bloomberg_wealth","platform":"Bloomberg","kind":"rss","url":"https://feeds.bloomberg.com/wealth/news.rss","owned_by":"Bloomberg","language":"en","max_items":40},
+    {"id":"bloomberg_opinion","platform":"Bloomberg","kind":"rss","url":"https://feeds.bloomberg.com/bview/news.rss","owned_by":"Bloomberg","language":"en","max_items":40},
+    {"id":"bloomberg_crypto","platform":"Bloomberg","kind":"rss","url":"https://feeds.bloomberg.com/crypto/news.rss","owned_by":"Bloomberg","language":"en","max_items":40},
+    {"id":"bloomberg_businessweek","platform":"Bloomberg","kind":"rss","url":"https://feeds.bloomberg.com/businessweek/news.rss","owned_by":"Bloomberg","language":"en","max_items":40},
+
+    {"id":"yahoo_news_jp_reuters","platform":"Yahoo!ニュース日本","kind":"yahoo_news_media","url":"https://news.yahoo.co.jp/media/reut","owned_by":"Reuters","language":"ja","pages":2,"max_items":50,"enrich_limit":50},
+    {"id":"yahoo_news_jp_bloomberg","platform":"Yahoo!ニュース日本","kind":"yahoo_news_media","url":"https://news.yahoo.co.jp/media/bloom_st","owned_by":"Bloomberg","language":"ja","pages":2,"max_items":50,"enrich_limit":50},
+    {"id":"yahoo_finance_jp_reuters","platform":"Yahoo!ファイナンス日本","kind":"yahoo_finance_media","url":"https://finance.yahoo.co.jp/news/media/reut","owned_by":"Reuters","language":"ja","pages":2,"max_items":40,"enrich_limit":40},
+
+    {"id":"yahoo_finance_global","platform":"Yahoo Finance","kind":"rss_filter","url":"https://finance.yahoo.com/news/rssindex","domain":"finance.yahoo.com","language":"en","max_items":50,"enrich_limit":8},
+    {"id":"yahoo_news_jp_business","platform":"Yahoo!ニュース日本","kind":"rss_filter","url":"https://news.yahoo.co.jp/rss/topics/business.xml","domain":"news.yahoo.co.jp","language":"ja","max_items":50,"enrich_limit":6},
+    {"id":"yahoo_taiwan_stock","platform":"Yahoo奇摩股市","kind":"rss_filter","url":"https://tw.stock.yahoo.com/rss?category=news","domain":"tw.stock.yahoo.com","language":"zh-TW","max_items":50,"enrich_limit":6},
+
+    {"id":"cna_latest","platform":"CNA","kind":"rss_filter","url":"https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml","domain":"channelnewsasia.com","language":"en","max_items":20,"enrich_limit":20},
+    {"id":"cna_business","platform":"CNA Business","kind":"rss_filter","url":"https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936","domain":"channelnewsasia.com","language":"en","max_items":20,"enrich_limit":20},
+    {"id":"cna_world","platform":"CNA World","kind":"rss_filter","url":"https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6311","domain":"channelnewsasia.com","language":"en","max_items":20,"enrich_limit":20},
+    {"id":"investing_news","platform":"Investing.com","kind":"rss_filter","url":"https://www.investing.com/rss/news.rss","domain":"investing.com","language":"en","max_items":50,"enrich_limit":10},
+    {"id":"mining_news","platform":"MINING.com","kind":"rss_filter","url":"https://www.mining.com/feed/","domain":"mining.com","language":"en","max_items":50,"enrich_limit":8},
+    {"id":"mint_news","platform":"Mint","kind":"rss_filter","url":"https://www.livemint.com/rss/news","domain":"livemint.com","language":"en","max_items":50,"enrich_limit":8},
+    {"id":"economic_times","platform":"The Economic Times","kind":"rss_filter","url":"https://economictimes.indiatimes.com/rssfeedsdefault.cms","domain":"economictimes.indiatimes.com","language":"en","max_items":50,"enrich_limit":6},
+    {"id":"straits_times_world","platform":"The Straits Times","kind":"rss_filter","url":"https://www.straitstimes.com/news/world/rss.xml","domain":"straitstimes.com","language":"en","max_items":50,"enrich_limit":6},
+
+    {"id":"tradingview_discovery","platform":"TradingView News","kind":"bing_discovery","domain":"tradingview.com","language":"en","max_items":20,"enrich_limit":5},
+    {"id":"tbs_news_dig_discovery","platform":"TBS NEWS DIG","kind":"bing_discovery","domain":"newsdig.tbs.co.jp","language":"ja","query_terms":"(Reuters OR Bloomberg OR ロイター OR ブルームバーグ)","max_items":20,"enrich_limit":5},
+    {"id":"bloomberg_linea_discovery","platform":"Bloomberg Línea","kind":"bing_discovery","domain":"bloomberglinea.com","language":"es","max_items":20,"enrich_limit":5},
+    {"id":"msn_discovery","platform":"MSN","kind":"bing_discovery","domain":"msn.com","language":"en","max_items":20,"enrich_limit":5},
+    {"id":"business_standard_discovery","platform":"Business Standard","kind":"bing_discovery","domain":"business-standard.com","language":"en","max_items":20,"enrich_limit":4},
+    {"id":"theprint_discovery","platform":"ThePrint","kind":"bing_discovery","domain":"theprint.in","language":"en","max_items":20,"enrich_limit":4},
+    {"id":"swissinfo_discovery","platform":"SWI swissinfo.ch","kind":"bing_discovery","domain":"swissinfo.ch","language":"en","max_items":20,"enrich_limit":4},
+    {"id":"devdiscourse_discovery","platform":"Devdiscourse","kind":"bing_discovery","domain":"devdiscourse.com","language":"en","max_items":20,"enrich_limit":4},
+    {"id":"zawya_discovery","platform":"ZAWYA","kind":"bing_discovery","domain":"zawya.com","language":"en","max_items":20,"enrich_limit":4},
+    {"id":"bnn_bloomberg_discovery","platform":"BNN Bloomberg","kind":"bing_discovery","domain":"bnnbloomberg.ca","language":"en","max_items":20,"enrich_limit":4},
+    {"id":"marketscreener_discovery","platform":"MarketScreener","kind":"bing_discovery","domain":"marketscreener.com","language":"en","max_items":20,"enrich_limit":4},
+
+    {"id":"google_news_reuters_pool","platform":"Google News","kind":"google_discovery","publisher_hint":"Reuters","language":"en","query":"Reuters when:2d","max_items":100},
+    {"id":"google_news_bloomberg_pool","platform":"Google News","kind":"google_discovery","publisher_hint":"Bloomberg","language":"en","query":"Bloomberg when:2d","max_items":100},
+    {"id":"google_news_jp_wire_pool","platform":"Google News 日本","kind":"google_discovery","language":"ja","query":"(ロイター OR ブルームバーグ) when:2d","max_items":100}
+  ]
+}

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+  <channel>
+    <title>Bloomberg — Reuters/Bloomberg pool</title>
+    <link>https://feeds.bloomberg.com/crypto/news.rss</link>
+    <description>Provenance-aware feed; classification fields distinguish exact wire copies from citations.</description>
+    <language>mul</language>
+    <lastBuildDate>Tue, 18 Aug 2026 07:38:05 +0000</lastBuildDate>
+    <ttl>30</ttl>
+    <item>
+      <title>Unitree Crypto Futures Indicate More Than 300% Debut Pop</title>
+      <link>https://www.bloomberg.com/news/articles/2026-08-18/unitree-crypto-futures-indicate-more-than-300-debut-pop</link>
+      <guid isPermaLink="false">33c3710c2ffd270d1779cf1e</guid>
+      <pubDate>Tue, 18 Aug 2026 06:17:17 +0000</pubDate>
+      <description>Crypto futures contracts tracking Chinese humanoid robot maker Unitree Robotics have soared ahead of the stock’s debut Wednesday, suggesting it is worth more than four times its $9 billion initial-public-offering valuation.</description>
+      <dc:creator>Matt Haldane</dc:creator>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:sourceId>bloomberg_crypto</wire:sourceId>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:classification>wire_original</wire:classification>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-18/unitree-crypto-futures-indicate-more-than-300-debut-pop</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Bitcoin ETFs See Largest Outflow in Six Weeks as Token Stagnates</title>
+      <link>https://www.bloomberg.com/news/articles/2026-08-17/bitcoin-etfs-see-largest-outflow-in-six-weeks-as-token-stagnates</link>
+      <guid isPermaLink="false">0f3822ba8774a2117ed42485</guid>
+      <pubDate>Mon, 17 Aug 2026 05:38:33 +0000</pubDate>
+      <description>Spot Bitcoin exchange-traded funds recorded their largest outflows last week since the end of June, reversing a strong start to August.</description>
+      <dc:creator>Suvashree Ghosh</dc:creator>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:sourceId>bloomberg_crypto</wire:sourceId>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:classification>wire_original</wire:classification>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-17/bitcoin-etfs-see-largest-outflow-in-six-weeks-as-token-stagnates</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+  </channel>
+</rss>

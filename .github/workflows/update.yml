@@ -1,0 +1,47 @@
+name: Update Reuters Bloomberg RSS Pool
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-resource-pool
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Unit tests
+        run: python -m unittest discover -s tests -v
+      - name: Build pool
+        run: python run.py --workers 12
+      - name: Verify artifacts
+        run: python verify_outputs.py
+      - name: Commit refreshed feeds
+        run: |
+          if git diff --quiet -- data; then
+            echo "Feeds are already current"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          cp -R data "$RUNNER_TEMP/data"
+          for i in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            rm -rf data
+            cp -R "$RUNNER_TEMP/data" data
+            git add data
+            git commit -m "chore: refresh RSS pool [$(date -u '+%Y-%m-%d %H:%M UTC')]" || exit 0
+            git push && exit 0
+          done
+          exit 1

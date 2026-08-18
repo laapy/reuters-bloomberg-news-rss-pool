@@ -1,0 +1,61 @@
+name: Update Bloomberg JP RSS Feed
+
+on:
+  schedule:
+    # Every 30 minutes
+    - cron: "*/30 * * * *"
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+# Serialize runs so two scheduled invocations can't race on git push.
+concurrency:
+  group: update-feed
+  cancel-in-progress: false
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Run feed builder
+        run: python fetch_and_build.py
+
+      - name: Check if feed.xml changed
+        id: diff
+        run: |
+          git diff --quiet feed.xml && echo "changed=false" >> $GITHUB_OUTPUT || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push if changed
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # feed.xml is a generated artifact: never merge it, just replay the
+          # freshly built file on top of whatever origin/main currently has.
+          cp feed.xml "$RUNNER_TEMP/feed.xml"
+          for i in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            cp "$RUNNER_TEMP/feed.xml" feed.xml
+            if git diff --quiet feed.xml; then
+              echo "feed.xml already up to date on origin/main, nothing to push"
+              exit 0
+            fi
+            git add feed.xml
+            git commit -m "chore: update feed.xml [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+            if git push; then
+              exit 0
+            fi
+            echo "push rejected, retrying ($i)..."
+          done
+          echo "::error::failed to push feed.xml after 3 attempts"
+          exit 1

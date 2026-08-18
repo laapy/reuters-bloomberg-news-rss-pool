@@ -1,0 +1,173 @@
+{
+  "yahoo_jp_bloomberg": {
+    "url": "https://news.yahoo.co.jp/media/bloom_st",
+    "status": 200,
+    "final_url": "https://news.yahoo.co.jp/media/bloom_st",
+    "content_type": "text/html;charset=UTF-8",
+    "bytes": 151468,
+    "elapsed": 1.751,
+    "prefix": "<!DOCTYPE html><!DOCTYPE html><html lang=\"ja\"><head><title>Bloombergの記事一覧 - Yahoo!ニュース</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"/>"
+  },
+  "yahoo_jp_reuters_news": {
+    "url": "https://news.yahoo.co.jp/media/reut",
+    "status": 200,
+    "final_url": "https://news.yahoo.co.jp/media/reut",
+    "content_type": "text/html;charset=UTF-8",
+    "bytes": 153153,
+    "elapsed": 1.643,
+    "prefix": "<!DOCTYPE html><!DOCTYPE html><html lang=\"ja\"><head><title>ロイターの記事一覧 - Yahoo!ニュース</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8"
+  },
+  "yahoo_jp_reuters_finance": {
+    "url": "https://finance.yahoo.co.jp/news/media/reut",
+    "status": 200,
+    "final_url": "https://finance.yahoo.co.jp/news/media/reut",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 91637,
+    "elapsed": 1.709,
+    "prefix": "<!DOCTYPE html>\n<html lang=\"ja\" xmlns:fb=\"http://ogp.me/ns/fb#\">\n  <head>\n    <title>ロイターのニュース・コラム一覧 - Yahoo!ファイナンス</title>\n    <meta http"
+  },
+  "yahoo_finance_global_rss": {
+    "url": "https://finance.yahoo.com/news/rssindex",
+    "status": 200,
+    "final_url": "https://finance.yahoo.com/news/rssindex",
+    "content_type": "application/xml",
+    "bytes": 31167,
+    "elapsed": 0.975,
+    "prefix": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss xmlns:media=\"http://search.yahoo.com/mrss/\" version=\"2.0\"><channel><title>Yahoo Finance</title><link>https://finance.yahoo.com/</link><de"
+  },
+  "yahoo_jp_business_rss": {
+    "url": "https://news.yahoo.co.jp/rss/topics/business.xml",
+    "status": 200,
+    "final_url": "https://news.yahoo.co.jp/rss/topics/business.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "bytes": 2993,
+    "elapsed": 0.868,
+    "prefix": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\n<rss version=\"2.0\">\n  <channel>\n    <language>ja</language>\n    <copyright>© LY Corporation</copyright>\n    <pubDate>Tue, 1"
+  },
+  "cna_latest": {
+    "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
+    "status": 200,
+    "final_url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
+    "content_type": "application/rss+xml; charset=utf-8",
+    "bytes": 18973,
+    "elapsed": 0.725,
+    "prefix": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<?xml-stylesheet title=\"XSL_formatting\" type=\"text/xsl\" href=\"/static/rss/nolsol.xsl\"?>\n<rss version=\"2.0\" xml:base=\"https://www.channelnewsa"
+  },
+  "cna_business": {
+    "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936",
+    "status": 200,
+    "final_url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936",
+    "content_type": "application/rss+xml; charset=utf-8",
+    "bytes": 17817,
+    "elapsed": 0.577,
+    "prefix": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<?xml-stylesheet title=\"XSL_formatting\" type=\"text/xsl\" href=\"/static/rss/nolsol.xsl\"?>\n<rss version=\"2.0\" xml:base=\"https://www.channelnewsa"
+  },
+  "cna_world": {
+    "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6311",
+    "status": 200,
+    "final_url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6311",
+    "content_type": "application/rss+xml; charset=utf-8",
+    "bytes": 19175,
+    "elapsed": 0.518,
+    "prefix": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<?xml-stylesheet title=\"XSL_formatting\" type=\"text/xsl\" href=\"/static/rss/nolsol.xsl\"?>\n<rss version=\"2.0\" xml:base=\"https://www.channelnewsa"
+  },
+  "investing_news": {
+    "url": "https://www.investing.com/rss/news.rss",
+    "status": 200,
+    "final_url": "https://www.investing.com/rss/news.rss",
+    "content_type": "application/rss+xml",
+    "bytes": 4821,
+    "elapsed": 0.727,
+    "prefix": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<rss version=\"2.0\">\n  <channel>\n    <title>All News</title>\n    <link>https://www.investing.com</link>\n    <item>\n      <enclosure url=\"https"
+  },
+  "tradingview_rss": {
+    "url": "https://www.tradingview.com/rss/",
+    "error": "<HTTPError 404: 'Not Found'>"
+  },
+  "tbs_rss": {
+    "url": "https://newsdig.tbs.co.jp/rss",
+    "error": "<HTTPError 404: 'Not Found'>"
+  },
+  "tbs_feed": {
+    "url": "https://newsdig.tbs.co.jp/feed",
+    "error": "<HTTPError 404: 'Not Found'>"
+  },
+  "bloomberg_linea_rss": {
+    "url": "https://www.bloomberglinea.com/feeds/rss/",
+    "error": "<HTTPError 404: 'Not Found'>"
+  },
+  "bloomberg_linea_arc": {
+    "url": "https://www.bloomberglinea.com/arc/outboundfeeds/rss/",
+    "error": "<HTTPError 404: 'Not Found'>"
+  },
+  "bloomberg_linea_feed": {
+    "url": "https://www.bloomberglinea.com/feed/",
+    "error": "<HTTPError 404: 'Not Found'>"
+  },
+  "mining_feed": {
+    "url": "https://www.mining.com/feed/",
+    "status": 200,
+    "final_url": "https://www.mining.com/feed/",
+    "content_type": "application/rss+xml; charset=UTF-8",
+    "bytes": 222010,
+    "elapsed": 1.925,
+    "prefix": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmlns:wfw=\"http://wellformedweb.org/CommentAPI/\"\n\txmlns:dc=\"http"
+  },
+  "business_standard_feed": {
+    "url": "https://www.business-standard.com/rss/home_page_top_stories.rss",
+    "error": "<HTTPError 403: 'Forbidden'>"
+  },
+  "mint_feed": {
+    "url": "https://www.livemint.com/rss/news",
+    "status": 200,
+    "final_url": "https://www.livemint.com/rss/news",
+    "content_type": "application/xml;charset=UTF-8",
+    "bytes": 38119,
+    "elapsed": 0.85,
+    "prefix": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:atom=\"http://www.w3.org/2005/Atom\" xmlns:media=\"http://search.yahoo.com/mrss/\" version=\"2.0\">\r\n\t\t<channel>\r\n\t\t\t\t<atom:link type=\""
+  },
+  "straits_business": {
+    "url": "https://www.straitstimes.com/news/business/rss.xml",
+    "status": 200,
+    "final_url": "https://www.straitstimes.com/news/business/rss.xml",
+    "content_type": "application/rss+xml; charset=utf-8",
+    "bytes": 25748,
+    "elapsed": 0.707,
+    "prefix": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<rss version=\"2.0\" xmlns:atom=\"http://www.w3.org/2005/Atom\" xmlns:content=\"http://purl.org/rss/1.0/modules/content/\" xml:base=\"https://www.st"
+  },
+  "msn_money_rss": {
+    "url": "https://www.msn.com/en-us/money/rss",
+    "error": "<HTTPError 404: 'Not Found'>"
+  },
+  "market_screener": {
+    "url": "https://www.marketscreener.com/rss/news.rss",
+    "error": "<HTTPError 404: 'Not Found'>"
+  },
+  "google_news_syndication": {
+    "url": "https://news.google.com/rss/search?q=%28Reuters%20OR%20Bloomberg%29%20when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
+    "status": 200,
+    "final_url": "https://news.google.com/rss/search?q=%28Reuters%20OR%20Bloomberg%29%20when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
+    "content_type": "application/xml; charset=utf-8",
+    "bytes": 130112,
+    "elapsed": 1.561,
+    "prefix": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?><rss version=\"2.0\" xmlns:media=\"http://search.yahoo.com/mrss/\"><channel><generator>NFE/5.0</generator><title>\"(Reuters OR Blo"
+  },
+  "google_yahoo_jp_reut": {
+    "url": "https://news.google.com/rss/search?q=site%3Anews.yahoo.co.jp%2Fmedia%2Freut&hl=ja&gl=JP&ceid=JP%3Aja",
+    "status": 200,
+    "final_url": "https://news.google.com/rss/search?q=site%3Anews.yahoo.co.jp%2Fmedia%2Freut&hl=ja&gl=JP&ceid=JP%3Aja",
+    "content_type": "application/xml; charset=utf-8",
+    "bytes": 2021,
+    "elapsed": 0.625,
+    "prefix": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?><rss version=\"2.0\" xmlns:media=\"http://search.yahoo.com/mrss/\"><channel><generator>NFE/5.0</generator><title>\"site:news.yahoo"
+  },
+  "bing_msn": {
+    "url": "https://www.bing.com/news/search?q=site%3Amsn.com+%28Reuters+OR+Bloomberg%29&format=rss",
+    "status": 200,
+    "final_url": "https://www.bing.com/news/search?q=site%3Amsn.com+%28Reuters+OR+Bloomberg%29&format=rss",
+    "content_type": "application/xml; charset=utf-8",
+    "bytes": 1099,
+    "elapsed": 0.65,
+    "prefix": "<?xml version=\"1.0\" encoding=\"utf-8\" ?><rss version=\"2.0\" xmlns:News=\"https://www.bing.com/news/search?q=site%3Amsn.com+%28Reuters+OR+Bloomberg%29&amp;format=rss\"><channel><title>s"
+  }
+}

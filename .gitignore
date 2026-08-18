@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+research/*.html
+data/*.tmp
+data/http_service.pid
+data/http_service.*.log
