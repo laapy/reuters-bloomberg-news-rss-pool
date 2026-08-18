@@ -1,27 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss version="2.0">
   <channel>
     <title>Investing.com — Reuters/Bloomberg pool</title>
     <link>https://www.investing.com/rss/news.rss</link>
     <description>Provenance-aware feed; classification fields distinguish exact wire copies from citations.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 18 Aug 2026 10:38:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 11:27:35 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>Beyond marathons and backflips, China’s robots face a commercial test</title>
-      <link>https://www.investing.com/news/stock-market-news/beyond-marathons-and-backflips-chinas-robots-face-a-commercial-test-4864742</link>
-      <guid isPermaLink="false">22b81a4b008e4868e0585721</guid>
-      <pubDate>Tue, 18 Aug 2026 10:30:29 +0000</pubDate>
-      <description />
-      <dc:creator>Reuters</dc:creator>
-      <wire:platform>Investing.com</wire:platform>
-      <wire:sourceId>investing_news</wire:sourceId>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/beyond-marathons-and-backflips-chinas-robots-face-a-commercial-test-4864742</wire:canonicalUrl>
-      <wire:evidence>structured credit: Reuters</wire:evidence>
-    </item>
   </channel>
 </rss>
