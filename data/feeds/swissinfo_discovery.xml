@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Aswissinfo.ch+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Provenance-aware feed; classification fields distinguish exact wire copies from citations.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 18 Aug 2026 12:52:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 13:46:08 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Stocks Fall as Bond Selloff Saps Risk Appetite: Markets Wrap</title>
@@ -136,20 +136,6 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Stocks Fall as Brent Tops $90 on Middle East Risks: Markets Wrap</title>
-      <link>https://www.swissinfo.ch/eng/stocks-fall-as-brent-tops-%2490-on-middle-east-risks%3a-markets-wrap/91907060</link>
-      <guid isPermaLink="false">3a6a0baee271efd5a56fcfa7</guid>
-      <pubDate>Mon, 17 Aug 2026 13:36:00 +0000</pubDate>
-      <description>A flare-up in Middle East violence lifted oil prices while dragging down both stocks and bonds on concern that an escalation of the war could fuel inflation.</description>
-      <wire:platform>SWI swissinfo.ch</wire:platform>
-      <wire:sourceId>swissinfo_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.swissinfo.ch/eng/stocks-fall-as-brent-tops-%2490-on-middle-east-risks%3a-markets-wrap/91907060</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
       <title>Ascend Sport Is in Talks With EvoNext on Merger to Go Public</title>
       <link>https://www.swissinfo.ch/eng/ascend-sport-is-in-talks-with-evonext-on-merger-to-go-public/91909655</link>
       <guid isPermaLink="false">ae89233b786965116d70826b</guid>
@@ -189,6 +175,20 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.swissinfo.ch/eng/snbs-new-chief-economist-martin-brown-to-start-on-oct%2e-1/91909834</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Swiss Real Wages Are Set to Continue to Increase, KOF Says</title>
+      <link>https://www.swissinfo.ch/eng/swiss-real-wages-are-set-to-continue-to-increase%2c-kof-says/91909591</link>
+      <guid isPermaLink="false">86b9163081ed4b37d56ca34b</guid>
+      <pubDate>Mon, 17 Aug 2026 05:35:00 +0000</pubDate>
+      <description>Swiss real wages are set to increase again and outpace the historic average, according to ETH Zurich’s KOF economic research institute.</description>
+      <wire:platform>SWI swissinfo.ch</wire:platform>
+      <wire:sourceId>swissinfo_discovery</wire:sourceId>
+      <wire:classification>discovery_candidate</wire:classification>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.swissinfo.ch/eng/swiss-real-wages-are-set-to-continue-to-increase%2c-kof-says/91909591</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
