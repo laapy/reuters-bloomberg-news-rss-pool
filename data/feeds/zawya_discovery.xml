@@ -5,23 +5,8 @@
     <link>https://www.bing.com/news/search?q=site%3Azawya.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Provenance-aware feed; classification fields distinguish exact wire copies from citations.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 19 Aug 2026 01:22:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 02:42:24 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>Mideast Stocks: Most Gulf markets muted as Iran tensions keep investors wary</title>
-      <link>https://www.zawya.com/en/capital-markets/mideast-stocks-most-gulf-markets-muted-as-iran-tensions-keep-investors-wary-460013</link>
-      <guid isPermaLink="false">9e62659589c15eeb03ca2343</guid>
-      <pubDate>Tue, 18 Aug 2026 15:07:06 +0000</pubDate>
-      <description>Most Gulf stock markets closed subdued on Tuesday as investors remained cautious after the U.S. ruled out extending a temporary ceasefire agreement and an Iranian official said Tehran would shift to a ...</description>
-      <dc:creator>Md Manzer Hussain</dc:creator>
-      <wire:platform>ZAWYA</wire:platform>
-      <wire:sourceId>zawya_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.zawya.com/en/capital-markets/mideast-stocks-most-gulf-markets-muted-as-iran-tensions-keep-investors-wary-460013</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
     <item>
       <title>Saudi Aramco, Maaden to form JV to tap mineral exploration in the kingdom</title>
       <link>https://www.zawya.com/en/business/investment/saudi-aramco-maaden-to-form-jv-to-tap-mineral-exploration-in-the-kingdom-459919</link>
@@ -50,6 +35,21 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.zawya.com/en/capital-markets/bond-yields-rise-oil-extends-gains-as-us-iran-ceasefire-expires-459550</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Baidu revenue misses as advertising slide outweighs AI cloud gains</title>
+      <link>https://www.zawya.com/ar/special-coverage/equities/baidu-revenue-misses-as-advertising-slide-outweighs-ai-cloud-gains-459750</link>
+      <guid isPermaLink="false">87013f8e6063371228481d72</guid>
+      <pubDate>Tue, 18 Aug 2026 09:59:38 +0000</pubDate>
+      <description>China's Baidu missed Wall Street estimates for second-quarter revenue on Tuesday as declines in its core advertising business offset growth in AI-linked cloud services, sending its U.S.-listed shares ...</description>
+      <dc:creator>Harshita Mary Varghese and Liam Mo</dc:creator>
+      <wire:platform>ZAWYA</wire:platform>
+      <wire:sourceId>zawya_discovery</wire:sourceId>
+      <wire:classification>discovery_candidate</wire:classification>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.zawya.com/ar/special-coverage/equities/baidu-revenue-misses-as-advertising-slide-outweighs-ai-cloud-gains-459750</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -110,20 +110,6 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Baidu revenue misses as advertising slide outweighs AI cloud gains</title>
-      <link>https://www.zawya.com/ar/special-coverage/equities/baidu-revenue-misses-as-advertising-slide-outweighs-ai-cloud-gains-459750</link>
-      <guid isPermaLink="false">87013f8e6063371228481d72</guid>
-      <pubDate>Tue, 18 Aug 2026 02:59:00 +0000</pubDate>
-      <description>China's Baidu missed Wall Street estimates for second-quarter revenue on Tuesday as declines in its core advertising business offset growth in AI-linked cloud services, sending its U.S.-listed shares ...</description>
-      <wire:platform>ZAWYA</wire:platform>
-      <wire:sourceId>zawya_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.zawya.com/ar/special-coverage/equities/baidu-revenue-misses-as-advertising-slide-outweighs-ai-cloud-gains-459750</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
       <title>Bonds, stocks jolted as Middle East tensions shatter market calm</title>
       <link>https://www.zawya.com/en/capital-markets/bonds-stocks-jolted-as-middle-east-tensions-shatter-market-calm-459670</link>
       <guid isPermaLink="false">d650ed9e02078d1bb9f40876</guid>
@@ -135,6 +121,20 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.zawya.com/en/capital-markets/bonds-stocks-jolted-as-middle-east-tensions-shatter-market-calm-459670</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Mideast Stocks: Most Gulf markets muted as Iran tensions keep investors wary</title>
+      <link>https://www.zawya.com/en/capital-markets/mideast-stocks-most-gulf-markets-muted-as-iran-tensions-keep-investors-wary-460013</link>
+      <guid isPermaLink="false">9e62659589c15eeb03ca2343</guid>
+      <pubDate>Tue, 18 Aug 2026 01:07:00 +0000</pubDate>
+      <description>Most Gulf stock markets closed subdued on Tuesday as investors remained cautious after the U.S. ruled out extending a temporary ceasefire agreement and an Iranian official said Tehran would shift to a ...</description>
+      <wire:platform>ZAWYA</wire:platform>
+      <wire:sourceId>zawya_discovery</wire:sourceId>
+      <wire:classification>discovery_candidate</wire:classification>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.zawya.com/en/capital-markets/mideast-stocks-most-gulf-markets-muted-as-iran-tensions-keep-investors-wary-460013</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>

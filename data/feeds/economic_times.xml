@@ -1,11 +1,29 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>The Economic Times — Reuters/Bloomberg pool</title>
     <link>https://economictimes.indiatimes.com/rssfeedsdefault.cms</link>
     <description>Provenance-aware feed; classification fields distinguish exact wire copies from citations.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 19 Aug 2026 01:22:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 02:42:24 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Gold inches higher, focus on Fed minutes</title>
+      <link>https://economictimes.indiatimes.com/markets/commodities/news/gold-inches-higher-focus-on-fed-minutes/articleshow/133335242.cms</link>
+      <guid isPermaLink="false">3c7734049c0f4d8c73482724</guid>
+      <pubDate>Wed, 19 Aug 2026 01:59:00 +0000</pubDate>
+      <description>Gold prices edged up slightly during the early Asian trading session, buoyed by a retreat in U.S. Treasury yields from their recent highs. Market players are now looking ahead to the Federal Reserve's meeting minutes for guidance on upcoming policies. Other precious metals displayed mixed trends in the market as key economic data is set to be released throughout the day.</description>
+      <dc:creator>Reuters</dc:creator>
+      <content:encoded>&lt;p&gt;Gold prices edged higher in early Asian trade on Wednesday as U.S. Treasury yields eased from recent highs, while market participants awaited the release of the Federal Reserve&amp;#x27;s meeting minutes.FUNDAMENTALSSpot gold was up 0.2% at $4,342.33 per ounce, as of 0030 GMT after falling nearly 2% on Tuesday. Meanwhile, U.S. gold futures for December delivery edged 0.6% lower to $4,396.30.U.S. yields backed off earlier highs, switching directions amid a global bond selloff that saw long-term borrowing costs in major economies edge toward their highest levels in decades. [US/]U.S. President Donald Trump said no talks were taking place with Iran and insisted the Strait of Hormuz was open, contradicting Iran&amp;#x27;s assertion that the critical waterway remained shut to shipping. The receding prospects of a deal to end the nearly six-month conflict drove up oil prices. [O/R]Rising energy prices could bolster the case for higher interest rates to rein in inflation, despite recent U.S. economic indicators showing unexpected employment losses, milder inflation, and weak July retail spending.Despite gold being known as an inflation hedge, higher rates usually weigh on gold prices as they strengthen the dollar and make yield-bearing assets more attractive to investors.The Fed&amp;#x27;s release of minutes from the most recent meeting of its monetary policy-setting Federal Open Market Committee is due at 1800 GMT.Traders are currently pricing in a 65% probability that the U.S. central bank will keep rates unchanged and a 35% chance of a rate hike in September, according to the CME FedWatch Tool.Meanwhile, the Bank of England will leave interest rates unchanged at 3.75% for the rest of the year, according to a strong majority of economists polled by Reuters.Among other metals, spot silver fell 0.5% to $62.99 per ounce. Platinum climbed 0.3% to $1,717.03, while palladium lost 0.3% at $1,286.73.DATA/EVENTS (GMT)0600 UK Core CPI YY Jul0600 UK CPI YY Jul0600 UK CPI Services MM, YY Jul0600 EU HICP Final MM, YY Jul&lt;/p&gt;</content:encoded>
+      <wire:platform>The Economic Times</wire:platform>
+      <wire:sourceId>economic_times</wire:sourceId>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:classification>wire_syndication</wire:classification>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://economictimes.indiatimes.com/markets/commodities/news/gold-inches-higher-focus-on-fed-minutes/articleshow/133335242.cms</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>

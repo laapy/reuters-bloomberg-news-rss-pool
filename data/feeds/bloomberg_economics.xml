@@ -5,8 +5,24 @@
     <link>https://feeds.bloomberg.com/economics/news.rss</link>
     <description>Provenance-aware feed; classification fields distinguish exact wire copies from citations.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 19 Aug 2026 01:22:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 02:42:24 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Australia Wage Growth Stays Elevated, Reinforces Price Pressures</title>
+      <link>https://www.bloomberg.com/news/articles/2026-08-19/australia-wage-growth-stays-elevated-reinforces-price-pressures</link>
+      <guid isPermaLink="false">1e3e278bd37e7b395199c397</guid>
+      <pubDate>Wed, 19 Aug 2026 01:47:28 +0000</pubDate>
+      <description>Australia’s wage growth remained elevated, highlighting persistent price pressures in the economy at a time when the Reserve Bank is warning it’s willing to tighten further to restrain inflation.</description>
+      <dc:creator>Nasteho Said</dc:creator>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:sourceId>bloomberg_economics</wire:sourceId>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:classification>wire_original</wire:classification>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/australia-wage-growth-stays-elevated-reinforces-price-pressures</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
     <item>
       <title>Indonesia Seen Holding Rates as New Chief Leads First Decision</title>
       <link>https://www.bloomberg.com/news/articles/2026-08-19/indonesia-seen-holding-rates-as-new-chief-leads-first-decision</link>
@@ -293,22 +309,6 @@
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-17/lula-must-tackle-fiscal-woes-if-reelected-finance-chief-says</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Trump Tariffs on Canada: Auto Rules Block Deal Before Aug. 19 Deadline</title>
-      <link>https://www.bloomberg.com/news/articles/2026-08-17/trump-tariffs-on-canada-auto-rules-block-deal-before-aug-19-deadline</link>
-      <guid isPermaLink="false">7f794fc85bbe7ac1173be70b</guid>
-      <pubDate>Mon, 17 Aug 2026 21:27:35 +0000</pubDate>
-      <description>President Donald Trump and Canadian Prime Minister Mark Carney spoke by phone about trade negotiations on Monday, a little more than 24 hours before the US is due to implement punishing new tariffs on Canadian products.</description>
-      <dc:creator>Brian Platt, Josh Wingrove, David Welch, Alicia Diaz and Nojoud Al Mallees</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_economics</wire:sourceId>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-17/trump-tariffs-on-canada-auto-rules-block-deal-before-aug-19-deadline</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
   </channel>
