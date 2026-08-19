@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>The Economic Times — diagnostic source feed</title>
     <link>https://economictimes.indiatimes.com/rssfeedsdefault.cms</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 19 Aug 2026 10:33:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 11:29:04 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>India stocks top Indonesia as Asia’s least-favoured in BofA poll</title>
+      <link>https://economictimes.indiatimes.com/markets/stocks/news/india-stocks-top-indonesia-as-asias-least-favoured-in-bofa-poll/articleshow/133341047.cms</link>
+      <guid isPermaLink="false">ae72cafef6f143aabe9bd7f5</guid>
+      <pubDate>Wed, 19 Aug 2026 07:32:00 +0000</pubDate>
+      <description>India has replaced Indonesia as Asia’s least-preferred stock market among fund managers surveyed by Bank of America, with 32% of respondents net underweight on Indian equities. Lack of clear AI exposure, weak growth, high valuations and limited reforms emerged as key concerns, even as improving earnings and renewed foreign inflows provide some support.</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;India has replaced Indonesia as Asia’s least-preferred stock market in a survey of fund managers by Bank of America Corp., signalling growing caution toward a market that’s among the world’s worst performers this year.The lack of a clear AI exposure remains the key concern for Indian equities, with weak growth emerging as the next most important risk, according to the survey, which showed 32% of the respondents were net underweight on the nation. Lack of reforms and high valuations also emerged as reasons for the bearish outlook on Asia’s fourth-largest equity market.In contrast, sentiment improved for Indonesia, with 27% of the fund managers saying they were net underweight on the market, compared with 32% in July. Taiwan and Japan remain investors’ most preferred regions. A total of 98 panellists with $272 billion of assets responded to the survey’s questions between Aug 7 and Aug 13.133341102The survey findings align with a decline in Indian stocks over the past two weeks despite an improving earnings outlook, suggesting investors remain wary of the market even as its fundamentals strengthen.Global funds have purchased more than $4 billion in local stocks this quarter — the most among regional emerging markets — after record outflows in the first half of the year, data compiled by Bloomberg show. Earnings for benchmark NSE Nifty 50 members jumped 18% from last year in the most recent three-month period, ahead of Motilal Oswal Financial Services Ltd.’s estimate of 10% growth.Indian stocks were last termed the least preferred in the BofA poll in May, as the country faced pressure on growth from rising energy costs following the US-Iran war that triggered a rally in global crude oil prices. With no sign of progress toward resolving the conflict, energy prices are climbing again, weighing on investor sentiment.While the Nifty 50 has jumped 8% from a recent low in March, it remains the second-worst performing major market in Asia this year, having lost 8%. It’s on track to snap a historic run of 10 straight years of annual gains.Meanwhile, the improvement in sentiment for Indonesia reflects the more than 20% rally in the benchmark Jakarta Composite Index from a June low, following the central bank’s measures to stabilise the currency and fading fears of a downgrade to frontier-market status by MSCI Inc.(Disclaimer: Recommendations, suggestions, views, and opinions given by experts are their own. These do not represent the views of The Economic Times.)&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>economic_times</wire:foundAt>
+      <wire:platform>The Economic Times</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://economictimes.indiatimes.com/markets/stocks/news/india-stocks-top-indonesia-as-asias-least-favoured-in-bofa-poll/articleshow/133341047.cms</wire:canonicalUrl>
+      <wire:evidence>structured credit: Bloomberg</wire:evidence>
+    </item>
   </channel>
 </rss>
