@@ -1,11 +1,47 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Yahoo Finance — diagnostic source feed</title>
     <link>https://finance.yahoo.com/news/rssindex</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 19 Aug 2026 23:26:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 23:50:28 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Apple changes fees for alternative app stores in EU</title>
+      <link>https://finance.yahoo.com/technology/articles/apple-changes-fees-alternative-app-160307437.html</link>
+      <guid isPermaLink="false">b1f75a70a6ffbe02d8c43466</guid>
+      <pubDate>Tue, 18 Aug 2026 16:03:07 +0000</pubDate>
+      <description>Apple said on Tuesday it will charge a 5% commission on digital transactions in apps distributed outside its App Store, replacing a more complex system as i...</description>
+      <dc:creator>Supantha Mukherjee</dc:creator>
+      <content:encoded>&lt;p&gt;Apple changes fees for alternative app stores in EU&lt;/p&gt;&lt;p&gt;FILE PHOTO: Apple logo at an Apple store in Paris · Reuters
+Supantha Mukherjee
+Tue, August 18, 2026 at 12:03 PM EDT 2 min read&lt;/p&gt;&lt;p&gt;AAPL
++2.19%&lt;/p&gt;&lt;p&gt;Trade Apple on Coinbase Trading disclosure&lt;/p&gt;&lt;p&gt;Trading disclosure The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.
+Learn more&lt;/p&gt;&lt;p&gt;By Supantha Mukherjee
+STOCKHOLM, Aug 18 (Reuters) - Apple said on Tuesday it will charge a 5% commission on digital transactions in apps distributed outside its App Store, replacing a more complex system as it seeks to comply with the European Union&amp;#x27;s Digital Markets Act.
+The company last year changed App Store rules and fees in the EU after the bloc&amp;#x27;s antitrust regulators ordered it to remove commercial barriers that they said hindered developers from directing customers outside the store.&lt;/p&gt;&lt;p&gt;The regulators criticised Apple&amp;#x27;s conditions, including a new Core Technology Fee, saying they discouraged developers from using alternative app distribution channels on its iOS mobile operating system.
+Apple said on Tuesday that App Store apps using alternative payment processing will face a 20% commission, although fees could fall to 10% under its small business programme.
+For apps distributed through alternative app marketplaces or the web, Apple will charge a 5% Core Technology Commission.
+The new terms eliminate the initial acquisition fee and store services fee charged under the previous system.
+The changes, effective October 1, will resolve disagreements with the EU and the European Commission over these issues, Apple said.
+The Commission said it welcomed Apple&amp;#x27;s changes, and will monitor their implementation.
+Apple will introduce a single set of terms for developers operating in the EU that are similar to the commission-based terms it offers in markets such as Japan and Brazil, the company said.&lt;/p&gt;&lt;p&gt;Japan and Brazil have sought to open up Apple&amp;#x27;s App Store business model, under which developers have long paid commissions of up to 30% on in-app purchases of digital goods and services. Apple is still litigating over what it can charge developers in the United States.
+&amp;quot;Fortnite&amp;quot; maker Epic Games, which has been in a legal battle with Apple contesting App Store fees, called the new commission &amp;quot;junk fees&amp;quot;, adding that it does &amp;quot;nothing to open up the mobile app ecosystem to competition, as required by Digital Market Act.&amp;quot;
+&amp;quot;If the Commission accepts the terms and drops their ongoing enforcement actions, the law will become meaningless and consumers and developers will not experience the benefits it was designed to provide,&amp;quot; Epic said in a post on X.
+(Reporting by Supantha Mukherjee in Stockholm; additional reporting by Juby Babu in Mexico City; Editing by Mark Potter)&lt;/p&gt;&lt;p&gt;View Comments&lt;/p&gt;&lt;p&gt;Terms and Privacy Policy
+Your Privacy Choices
+More Info&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_finance_global</wire:foundAt>
+      <wire:platform>Yahoo Finance</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>article page metadata</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://finance.yahoo.com/technology/articles/apple-changes-fees-alternative-app-160307437.html</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: Reporting by Supantha Mukherjee in Stockholm; additional reporting by Juby Babu in Mexico City; Editing by</wire:evidence>
+    </item>
   </channel>
 </rss>
