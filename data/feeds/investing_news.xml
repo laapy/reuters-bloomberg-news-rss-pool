@@ -1,59 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss version="2.0">
   <channel>
     <title>Investing.com — Reuters/Bloomberg pool</title>
     <link>https://www.investing.com/rss/news.rss</link>
     <description>Provenance-aware feed; classification fields distinguish exact wire copies from citations.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 18 Aug 2026 23:50:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 01:22:52 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>U.S. Army picks Hanwha defence unit for mobile artillery prototypes</title>
-      <link>https://www.investing.com/news/stock-market-news/us-army-picks-hanwha-defence-unit-for-mobile-artillery-prototypes-4866240</link>
-      <guid isPermaLink="false">d96226da16e41e29f1fc7d78</guid>
-      <pubDate>Tue, 18 Aug 2026 23:36:09 +0000</pubDate>
-      <description />
-      <dc:creator>Reuters</dc:creator>
-      <wire:platform>Investing.com</wire:platform>
-      <wire:sourceId>investing_news</wire:sourceId>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/us-army-picks-hanwha-defence-unit-for-mobile-artillery-prototypes-4866240</wire:canonicalUrl>
-      <wire:evidence>structured credit: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>JBS seeks full control of Pilgrim’s Pride</title>
-      <link>https://www.investing.com/news/stock-market-news/jbs-seeks-full-control-of-pilgrims-pride-4866233</link>
-      <guid isPermaLink="false">c289df849fe806d3444b76ba</guid>
-      <pubDate>Tue, 18 Aug 2026 23:30:30 +0000</pubDate>
-      <description />
-      <dc:creator>Reuters</dc:creator>
-      <wire:platform>Investing.com</wire:platform>
-      <wire:sourceId>investing_news</wire:sourceId>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/jbs-seeks-full-control-of-pilgrims-pride-4866233</wire:canonicalUrl>
-      <wire:evidence>structured credit: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>UK employers raise pay by least in 10 months, Brightmine says</title>
-      <link>https://www.investing.com/news/economy-news/uk-employers-raise-pay-by-least-in-10-months-brightmine-says-4866230</link>
-      <guid isPermaLink="false">92e29fc33b4c17d11e91d30f</guid>
-      <pubDate>Tue, 18 Aug 2026 23:19:42 +0000</pubDate>
-      <description />
-      <dc:creator>Reuters</dc:creator>
-      <wire:platform>Investing.com</wire:platform>
-      <wire:sourceId>investing_news</wire:sourceId>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.investing.com/news/economy-news/uk-employers-raise-pay-by-least-in-10-months-brightmine-says-4866230</wire:canonicalUrl>
-      <wire:evidence>structured credit: Reuters</wire:evidence>
-    </item>
   </channel>
 </rss>
