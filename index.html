@@ -16,17 +16,14 @@
 </head>
 <body>
   <h1>Reuters / Bloomberg RSS Resource Pool</h1>
-  <p class="muted">带来源证据、正文状态和分类置信度的聚合 RSS。</p>
+  <p class="muted">统一记录发布机构、发现位置、内容关系和正文等级；主要输出保持精简。</p>
   <form id="search"><input id="q" placeholder="搜索 RBI、Bitcoin、India……" required><button>搜索</button></form>
   <p id="status" class="muted"></p><section id="results"></section>
   <div class="grid">
-    <div class="card"><b>源站稿件</b><br><a href="data/wire_original.xml">wire_original.xml</a></div>
-    <div class="card"><b>明确转载稿</b><br><a href="data/wire_syndication.xml">wire_syndication.xml</a></div>
-    <div class="card"><b>引用后改写</b><br><a href="data/wire_attribution.xml">wire_attribution.xml</a></div>
-    <div class="card"><b>待核验发现</b><br><a href="data/discovery_candidates.xml">discovery_candidates.xml</a></div>
-    <div class="card"><b>带正文条目</b><br><a href="data/fulltext.xml">fulltext.xml</a></div>
-    <div class="card"><b>已核验全集</b><br><a href="data/verified_all.xml">verified_all.xml</a></div>
-    <div class="card"><b>标题去重</b><br><a href="data/deduplicated.xml">deduplicated.xml</a></div>
+    <div class="card"><b>全部去重</b><br><a href="data/deduplicated.xml">deduplicated.xml</a></div>
+    <div class="card"><b>Reuters</b><br><a href="data/reuters.xml">reuters.xml</a></div>
+    <div class="card"><b>Bloomberg</b><br><a href="data/bloomberg.xml">bloomberg.xml</a></div>
+    <div class="card"><b>已获得正文</b><br><a href="data/fulltext.xml">fulltext.xml</a></div>
     <div class="card"><b>OPML</b><br><a href="data/resource_pool.opml">resource_pool.opml</a></div>
     <div class="card"><b>JSON 数据池</b><br><a href="data/resource_pool.json">resource_pool.json</a></div>
   </div>
@@ -37,9 +34,9 @@
       const status=document.querySelector('#status'), box=document.querySelector('#results');
       status.textContent='正在搜索本地资源池…'; box.innerHTML='';
       try{
-        const r=await fetch('/api/search?mode=all&limit=50&q='+encodeURIComponent(q)); const j=await r.json();
+        const r=await fetch('/api/search?limit=50&q='+encodeURIComponent(q)); const j=await r.json();
         status.textContent=`返回 ${j.returned} 条；动态RSS：/rss/search.xml?q=${q}`;
-        box.innerHTML=j.items.map(x=>`<article><a href="${esc(x.link)}" target="_blank" rel="noopener"><b>${esc(x.title)}</b></a><br><small>${esc(x.publisher||'待核验')} · ${esc(x.platform)} · ${esc(x.classification)}</small><p>${esc((x.summary||'').slice(0,260))}</p></article>`).join('');
+        box.innerHTML=j.items.map(x=>`<article><a href="${esc(x.link)}" target="_blank" rel="noopener"><b>${esc(x.title)}</b></a><br><small>${esc(x.publisher||'待核验')} · ${esc(x.platform)} · ${esc(x.relation)} · ${esc(x.content_level)}</small><p>${esc((x.summary||'').slice(0,260))}</p></article>`).join('');
       }catch(err){status.textContent='请求错误：'+err}
     });
   </script>

@@ -21,13 +21,18 @@ ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT))
 
 from src.rss_pool import (  # noqa: E402
+    PRIMARY_RELATIONS,
+    RELATION_RANK,
     PoolBuilder,
+    apply_article_dimensions,
+    article_content_level,
+    article_relation,
     build_rss,
     classify_wire_item,
+    deduplicate_items,
     fetch_url,
     iso_now,
     parse_rss,
-    stable_id,
 )
 
 
@@ -44,32 +49,48 @@ def _query_terms(query: str) -> list[str]:
 
 
 def search_items(items: list[dict[str, Any]], query: str, limit: int = 50,
-                 mode: str = "verified", classification: str = "",
-                 publisher: str = "", platform: str = "",
-                 full_text_only: bool = False) -> list[dict[str, Any]]:
+                 mode: str = "verified", relation: str = "",
+                 publisher: str = "", found_at: str = "",
+                 content_level: str = "", platform: str = "",
+                 full_text_only: bool = False,
+                 classification: str = "") -> list[dict[str, Any]]:
     """Search a resource-pool snapshot using AND terms and weighted fields."""
     terms = _query_terms(query)
+    wanted_relations = {part.strip() for part in relation.split(",") if part.strip()}
     wanted_classes = {part.strip() for part in classification.split(",") if part.strip()}
     publisher_norm = _normalized(publisher)
+    found_at_norm = _normalized(found_at)
+    content_level_norm = _normalized(content_level)
     platform_norm = _normalized(platform)
     scored: list[tuple[float, str, dict[str, Any]]] = []
     for item in items:
+        apply_article_dimensions(item)
         item_class = item.get("classification", "")
-        if mode != "all" and item_class == "discovery_candidate":
+        item_relation = article_relation(item)
+        item_content_level = article_content_level(item)
+        if mode != "all" and item_relation not in PRIMARY_RELATIONS:
+            continue
+        if wanted_relations and item_relation not in wanted_relations:
             continue
         if wanted_classes and item_class not in wanted_classes:
             continue
         if publisher_norm and publisher_norm not in _normalized(item.get("publisher", "")):
             continue
+        if found_at_norm and found_at_norm not in _normalized(
+                item.get("found_at") or item.get("source_id", "")):
+            continue
+        if content_level_norm and item_content_level != content_level_norm:
+            continue
         if platform_norm and platform_norm not in _normalized(item.get("platform", "")):
             continue
-        if full_text_only and not item.get("has_full_text"):
+        if full_text_only and item_content_level != "full":
             continue
         title = _normalized(item.get("title", ""))
         summary = _normalized(item.get("summary", ""))
         body = _normalized(item.get("body", ""))
         metadata = _normalized(" ".join(str(item.get(key, "")) for key in (
-            "publisher", "platform", "author", "source_id", "classification"
+            "publisher", "platform", "author", "source_id", "found_at",
+            "relation", "content_level", "classification"
         )))
         haystack = " ".join((title, summary, body, metadata))
         if terms and not all(term in haystack for term in terms):
@@ -80,9 +101,7 @@ def search_items(items: list[dict[str, Any]], query: str, limit: int = 50,
             score += 4.0 if term in summary else 0.0
             score += 1.0 if term in body else 0.0
             score += 2.0 if term in metadata else 0.0
-        score += {"wire_original": 4.0, "wire_syndication": 3.0,
-                  "wire_attribution": 2.0, "discovery_candidate": 1.0}.get(
-                      item_class, 0.0)
+        score += float(RELATION_RANK.get(item_relation, 0))
         scored.append((score, item.get("published", ""), item))
     scored.sort(key=lambda row: (row[0], row[1]), reverse=True)
     return [row[2] for row in scored[:max(1, min(int(limit), 200))]]
@@ -115,7 +134,7 @@ def _remote_search_one(spec: dict[str, Any]) -> list[dict[str, Any]]:
             row["owned_by"] = "Bloomberg"
             row["source_kind"] = "rss"
         row.update(classify_wire_item(row))
-        row["has_full_text"] = len(row.get("body", "")) >= 200
+        apply_article_dimensions(row)
     return rows
 
 
@@ -153,19 +172,7 @@ def live_search(query: str, limit: int = 50) -> list[dict[str, Any]]:
                 rows.extend(future.result())
             except Exception:
                 continue
-    deduplicated: dict[str, dict[str, Any]] = {}
-    rank = {"wire_original": 4, "wire_syndication": 3,
-            "wire_attribution": 2, "discovery_candidate": 1}
-    for row in rows:
-        key = re.sub(r"\W+", "", row.get("title", "").casefold())[:180]
-        if not key:
-            key = stable_id(row.get("link", ""), row.get("title", ""))
-        old = deduplicated.get(key)
-        if old is None or rank.get(row.get("classification", ""), 0) > rank.get(
-                old.get("classification", ""), 0):
-            deduplicated[key] = row
-    result = sorted(deduplicated.values(), key=lambda row: row.get("published", ""),
-                    reverse=True)
+    result = deduplicate_items(rows)
     return result[:max(1, min(int(limit), 200))]
 
 
@@ -195,6 +202,8 @@ class ServiceState:
         with self._manifest_lock:
             if not self._manifest or mtime != self._manifest_mtime:
                 self._manifest = json.loads(path.read_text(encoding="utf-8"))
+                for item in self._manifest.get("items", []):
+                    apply_article_dimensions(item)
                 self._manifest_mtime = mtime
             return self._manifest
 
@@ -300,8 +309,11 @@ class PoolHandler(BaseHTTPRequestHandler):
         return search_items(
             manifest.get("items", []), query=query, limit=limit,
             mode=self._one(params, "mode", "verified"),
+            relation=self._one(params, "relation"),
             classification=self._one(params, "classification"),
             publisher=self._one(params, "publisher"),
+            found_at=self._one(params, "found_at"),
+            content_level=self._one(params, "content_level"),
             platform=self._one(params, "platform"),
             full_text_only=self._one(params, "full_text") in ("1", "true", "yes"),
         )

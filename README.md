@@ -1,7 +1,8 @@
 # Reuters / Bloomberg 多平台新闻 RSS 资源池
 
 这是一个独立项目，集中处理 Reuters、Bloomberg 源站 RSS、Yahoo 日本媒体页、公开 RSS
-转载平台，以及缺少稳定 RSS 的新闻索引平台。运行时同时输出 RSS、JSON、OPML 和来源健康记录。
+转载平台，以及缺少稳定 RSS 的新闻索引平台。所有入口统一为一份文章数据池，主要只输出
+去重全集、Reuters、Bloomberg、全文四条 RSS；每个资源点的 RSS 留作内部诊断。
 
 ## 快速运行
 
@@ -49,13 +50,15 @@ GET  /api/health
 GET  /api/sources
 GET  /api/search?q=RBI
 GET  /api/search?q=India&mode=all&limit=100
+GET  /api/search?q=India&publisher=Reuters&relation=repost&content_level=full
 GET  /rss/search.xml?q=RBI
 GET  /api/live-search?q=RBI
 GET  /rss/live-search.xml?q=RBI
 POST /api/update
 ```
 
-- `/api/search`：毫秒级查询最近一次资源池快照；默认排除候选，`mode=all` 包含候选。
+- `/api/search`：毫秒级查询最近一次资源池快照；默认返回原稿与明确转载，`mode=all` 包含引用和待核验条目。
+- 搜索过滤字段：`publisher`、`found_at`、`relation`、`content_level`；旧的 `classification` 参数继续兼容已有调用方。
 - `/rss/search.xml`：把任意关键词查询转换成动态 RSS。
 - `/api/live-search`：请求时查询 Google/Bing News，结果缓存 60 秒。
 - `/api/update`：从本机触发后台全量更新。
@@ -76,26 +79,27 @@ python service_control.py stop
 .\serve-foreground.ps1
 ```
 
-## 最重要的分类规则
+## 统一文章字段
 
-| 分类 | 判定 | 用途 |
+每篇文章对 API、JSON 和 RSS 暴露四个核心维度：
+
+| 字段 | 值 | 含义 |
 |---|---|---|
-| `wire_original` | Reuters/Bloomberg 自有端点 | 源站标题、摘要、RSS 正文 |
-| `wire_syndication` | Yahoo 出版商专页，或作者/来源精确等于 Reuters/Bloomberg，或保留 wire byline/copyright | 真正转载池 |
-| `wire_attribution` | `Reuters reported`、`according to Bloomberg News`、`ブルームバーグによると` 等 | 引用后改写池 |
-| `discovery_candidate` | Google/Bing 索引命中，但页面证据仍弱 | 候选池 |
+| `publisher` | `Reuters` / `Bloomberg` / 空 | 新闻机构 |
+| `found_at` | 来源 ID，如 `yahoo_news_jp_reuters` | 从哪个资源点发现 |
+| `relation` | `original` / `repost` / `mention` / `unknown` | 原稿、明确转载、仅引用、待核验 |
+| `content_level` | `full` / `summary` / `link_only` | 正文、摘要、仅链接 |
 
-分类器特意把平台品牌、查询关键词和正文署名分开。比如作者是某平台、正文只写
-“Bloomberg News reports”的文章进入 `wire_attribution`，而不是 `wire_syndication`。
+详细证据和旧 `classification` 继续保存在 JSON 中，用于置信度计算和兼容读取；它们不再拆成多条主要 RSS。
 
 ## 已接入的平台
 
 | 平台 | 获取方式 | 正文/摘要策略 | 输出特性 |
 |---|---|---|---|
-| Reuters | 当前 Arc outbound RSS | `content:encoded` 正文与摘要 | `wire_original` |
-| Bloomberg | 10 个当前分类 RSS | RSS 摘要 | `wire_original` |
-| Yahoo!ニュース日本 | `media/reut`、`media/bloom_st` 的 `__PRELOADED_STATE__` | 文章页结构化正文；过滤付费标记 | `wire_syndication` |
-| Yahoo!ファイナンス日本 | `news/media/reut` 嵌入状态 | 文章页 paragraphs 正文与 summary | `wire_syndication` |
+| Reuters | 当前 Arc outbound RSS | `content:encoded` 正文与摘要 | `publisher=Reuters, relation=original` |
+| Bloomberg | 10 个当前分类 RSS | RSS 摘要 | `publisher=Bloomberg, relation=original` |
+| Yahoo!ニュース日本 | `media/reut`、`media/bloom_st` 的 `__PRELOADED_STATE__` | 文章页结构化正文；过滤付费标记 | `relation=repost` |
+| Yahoo!ファイナンス日本 | `news/media/reut` 嵌入状态 | 文章页 paragraphs 正文与 summary | `relation=repost` |
 | Yahoo Finance | 原生 `rssindex` | RSS 元数据 + 有限文章页增强 | 只保留证据命中 |
 | CNA | latest/business/world 原生 RSS | JSON-LD、article body、Source credit | 区分转载/自采 |
 | Investing.com | 原生 news RSS | RSS author 是主要证据 | 文章页遇到访问限制时保留 RSS 证据 |
@@ -108,20 +112,21 @@ python service_control.py stop
 
 ## 输出
 
-- `data/verified_all.xml`：已确认的源站、转载、引用稿。
-- `data/wire_original.xml`：Reuters/Bloomberg 自有端点。
-- `data/wire_syndication.xml`：明确署名的转载稿。
-- `data/wire_attribution.xml`：引用 Reuters/Bloomberg 后写成的平台稿。
-- `data/discovery_candidates.xml`：仅有索引证据的待核验条目。
-- `data/fulltext.xml`：`body >= 200` 字符的全文子集。
-- `data/deduplicated.xml`：跨平台标题归一化去重。
-- `data/feeds/<source-id>.xml`：每个平台/端点的单独 RSS。
+- `data/deduplicated.xml`：全部接受条目的跨平台去重视图。
+- `data/reuters.xml`：已确认的 Reuters 原稿和明确转载。
+- `data/bloomberg.xml`：已确认的 Bloomberg 原稿和明确转载。
+- `data/fulltext.xml`：已确认且 `body >= 200` 字符的正文子集。
+- `data/feeds/<source-id>.xml`：按采集入口拆分的诊断 RSS。
 - `data/resource_pool.json`：正文、摘要、证据、置信度、状态的完整数据池。
-- `data/health.json`：端点状态、抓取量、接收量、分类计数。
+- `data/health.json`：端点状态、抓取量、接收量、内容关系和正文等级计数。
+- `data/last_attempt.json`：最近一次刷新是发布还是因质量门槛被拒绝。
 - `data/resource_pool.opml`：可导入 RSS 阅读器的源清单。
 
-RSS 使用 `wire:` 扩展字段保存：平台、来源 ID、原始发布方、分类、置信度、证据、
-摘要来源、正文来源和 canonical URL。正文放在 `content:encoded`。
+RSS 使用 `wire:` 扩展字段保存：发布机构、发现位置、平台、内容关系、正文等级、
+置信度、证据、摘要来源、正文来源和 canonical URL。正文放在 `content:encoded`。
+
+构建器在全部来源失败、条目为零，或相对上一版出现“来源大面积失效且条目骤降”时拒绝发布，
+继续保留上一版数据，并把失败详情写到 `last_attempt.json`。
 
 ## 配置与扩展
 
