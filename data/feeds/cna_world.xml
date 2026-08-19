@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
-    <title>CNA World — Reuters/Bloomberg pool</title>
+    <title>CNA World — diagnostic source feed</title>
     <link>https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&amp;category=6311</link>
-    <description>Provenance-aware feed; classification fields distinguish exact wire copies from citations.</description>
+    <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 19 Aug 2026 07:42:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:48:30 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Trump pauses tariffs on Canadian imports, Carney says key work remains</title>
@@ -40,10 +40,11 @@ Get our pick of top stories and thought-provoking articles in your inbox&lt;/p&g
 Stay updated with notifications for breaking news and our best stories&lt;/p&gt;&lt;p&gt;Download here&lt;/p&gt;&lt;p&gt;Get WhatsApp alerts&lt;/p&gt;&lt;p&gt;Join our channel for the top reads for the day on your preferred chat app&lt;/p&gt;&lt;p&gt;Join here&lt;/p&gt;&lt;p&gt;Related Topics&lt;/p&gt;&lt;p&gt;United States&lt;/p&gt;&lt;p&gt;Canada&lt;/p&gt;&lt;p&gt;tariffs&lt;/p&gt;&lt;p&gt;Donald Trump&lt;/p&gt;&lt;p&gt;Mark Carney&lt;/p&gt;&lt;p&gt;Advertisement&lt;/p&gt;&lt;p&gt;Also worth reading&lt;/p&gt;&lt;p&gt;Content is loading...&lt;/p&gt;&lt;p&gt;Advertisement&lt;/p&gt;&lt;p&gt;Expand to read the full story&lt;/p&gt;&lt;p&gt;Get bite-sized news via a new
 cards interface. Give it a try.&lt;/p&gt;&lt;p&gt;Click here to return to FAST
 Tap here to return to FAST&lt;/p&gt;&lt;p&gt;FAST&lt;/p&gt;</content:encoded>
-      <wire:platform>CNA World</wire:platform>
-      <wire:sourceId>cna_world</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>cna_world</wire:foundAt>
+      <wire:platform>CNA World</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -72,10 +73,11 @@ Get our pick of top stories and thought-provoking articles in your inbox&lt;/p&g
 Stay updated with notifications for breaking news and our best stories&lt;/p&gt;&lt;p&gt;Download here&lt;/p&gt;&lt;p&gt;Get WhatsApp alerts&lt;/p&gt;&lt;p&gt;Join our channel for the top reads for the day on your preferred chat app&lt;/p&gt;&lt;p&gt;Join here&lt;/p&gt;&lt;p&gt;Related Topics&lt;/p&gt;&lt;p&gt;Australia&lt;/p&gt;&lt;p&gt;crime&lt;/p&gt;&lt;p&gt;Advertisement&lt;/p&gt;&lt;p&gt;Also worth reading&lt;/p&gt;&lt;p&gt;Content is loading...&lt;/p&gt;&lt;p&gt;Advertisement&lt;/p&gt;&lt;p&gt;Expand to read the full story&lt;/p&gt;&lt;p&gt;Get bite-sized news via a new
 cards interface. Give it a try.&lt;/p&gt;&lt;p&gt;Click here to return to FAST
 Tap here to return to FAST&lt;/p&gt;&lt;p&gt;FAST&lt;/p&gt;</content:encoded>
-      <wire:platform>CNA World</wire:platform>
-      <wire:sourceId>cna_world</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>cna_world</wire:foundAt>
+      <wire:platform>CNA World</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>article page metadata</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -113,10 +115,11 @@ Get our pick of top stories and thought-provoking articles in your inbox&lt;/p&g
 Stay updated with notifications for breaking news and our best stories&lt;/p&gt;&lt;p&gt;Download here&lt;/p&gt;&lt;p&gt;Get WhatsApp alerts&lt;/p&gt;&lt;p&gt;Join our channel for the top reads for the day on your preferred chat app&lt;/p&gt;&lt;p&gt;Join here&lt;/p&gt;&lt;p&gt;Related Topics&lt;/p&gt;&lt;p&gt;Disney&lt;/p&gt;&lt;p&gt;Trump administration&lt;/p&gt;&lt;p&gt;Advertisement&lt;/p&gt;&lt;p&gt;Also worth reading&lt;/p&gt;&lt;p&gt;Content is loading...&lt;/p&gt;&lt;p&gt;Advertisement&lt;/p&gt;&lt;p&gt;Expand to read the full story&lt;/p&gt;&lt;p&gt;Get bite-sized news via a new
 cards interface. Give it a try.&lt;/p&gt;&lt;p&gt;Click here to return to FAST
 Tap here to return to FAST&lt;/p&gt;&lt;p&gt;FAST&lt;/p&gt;</content:encoded>
-      <wire:platform>CNA World</wire:platform>
-      <wire:sourceId>cna_world</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>cna_world</wire:foundAt>
+      <wire:platform>CNA World</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -147,10 +150,11 @@ Get our pick of top stories and thought-provoking articles in your inbox&lt;/p&g
 Stay updated with notifications for breaking news and our best stories&lt;/p&gt;&lt;p&gt;Download here&lt;/p&gt;&lt;p&gt;Get WhatsApp alerts&lt;/p&gt;&lt;p&gt;Join our channel for the top reads for the day on your preferred chat app&lt;/p&gt;&lt;p&gt;Join here&lt;/p&gt;&lt;p&gt;Related Topics&lt;/p&gt;&lt;p&gt;World Health Organization&lt;/p&gt;&lt;p&gt;Congo&lt;/p&gt;&lt;p&gt;Ebola&lt;/p&gt;&lt;p&gt;Advertisement&lt;/p&gt;&lt;p&gt;Also worth reading&lt;/p&gt;&lt;p&gt;Content is loading...&lt;/p&gt;&lt;p&gt;Advertisement&lt;/p&gt;&lt;p&gt;Expand to read the full story&lt;/p&gt;&lt;p&gt;Get bite-sized news via a new
 cards interface. Give it a try.&lt;/p&gt;&lt;p&gt;Click here to return to FAST
 Tap here to return to FAST&lt;/p&gt;&lt;p&gt;FAST&lt;/p&gt;</content:encoded>
-      <wire:platform>CNA World</wire:platform>
-      <wire:sourceId>cna_world</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>cna_world</wire:foundAt>
+      <wire:platform>CNA World</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>article page metadata</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -183,10 +187,11 @@ Get our pick of top stories and thought-provoking articles in your inbox&lt;/p&g
 Stay updated with notifications for breaking news and our best stories&lt;/p&gt;&lt;p&gt;Download here&lt;/p&gt;&lt;p&gt;Get WhatsApp alerts&lt;/p&gt;&lt;p&gt;Join our channel for the top reads for the day on your preferred chat app&lt;/p&gt;&lt;p&gt;Join here&lt;/p&gt;&lt;p&gt;Related Topics&lt;/p&gt;&lt;p&gt;Meta Platforms&lt;/p&gt;&lt;p&gt;Instagram&lt;/p&gt;&lt;p&gt;Facebook&lt;/p&gt;&lt;p&gt;Advertisement&lt;/p&gt;&lt;p&gt;Also worth reading&lt;/p&gt;&lt;p&gt;Content is loading...&lt;/p&gt;&lt;p&gt;Advertisement&lt;/p&gt;&lt;p&gt;Expand to read the full story&lt;/p&gt;&lt;p&gt;Get bite-sized news via a new
 cards interface. Give it a try.&lt;/p&gt;&lt;p&gt;Click here to return to FAST
 Tap here to return to FAST&lt;/p&gt;&lt;p&gt;FAST&lt;/p&gt;</content:encoded>
-      <wire:platform>CNA World</wire:platform>
-      <wire:sourceId>cna_world</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>cna_world</wire:foundAt>
+      <wire:platform>CNA World</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>article page metadata</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>

@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
-    <title>Bloomberg — Reuters/Bloomberg pool</title>
+    <title>Bloomberg — diagnostic source feed</title>
     <link>https://feeds.bloomberg.com/economics/news.rss</link>
-    <description>Provenance-aware feed; classification fields distinguish exact wire copies from citations.</description>
+    <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 19 Aug 2026 07:42:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:48:30 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Indonesia Holds Rate as New Chief Forecasts Further Rupiah Gains</title>
@@ -14,10 +14,11 @@
       <pubDate>Wed, 19 Aug 2026 07:22:07 +0000</pubDate>
       <description>Indonesia’s central bank held its policy rate steady in the first monetary decision under acting Governor Destry Damayanti, with recent gains in the rupiah having reduced pressure for tightening.</description>
       <dc:creator>Grace Sihombing</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_economics</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_economics</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/indonesia-holds-rate-as-new-chief-forecasts-further-rupiah-gains</wire:canonicalUrl>
@@ -30,10 +31,11 @@
       <pubDate>Wed, 19 Aug 2026 07:19:10 +0000</pubDate>
       <description>European Central Bank President Christine Lagarde warned that the region mustn’t get left behind as artificial intelligence transforms the global economy.</description>
       <dc:creator>Mark Schroers</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_economics</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_economics</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/lagarde-says-europe-can-t-afford-to-miss-out-on-ai-revolution</wire:canonicalUrl>
@@ -46,10 +48,11 @@
       <pubDate>Wed, 19 Aug 2026 06:04:49 +0000</pubDate>
       <description>UK inflation accelerated in July after energy bills surged, ending a short period of respite for hard-pressed British households.</description>
       <dc:creator>Irina Anghel and Tom Rees</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_economics</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_economics</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/uk-inflation-climbs-to-four-month-high-as-energy-bills-rise</wire:canonicalUrl>
@@ -62,10 +65,11 @@
       <pubDate>Wed, 19 Aug 2026 05:47:02 +0000</pubDate>
       <description>Hong Kong is increasingly reliant on imported workers as births fell below 30,000 for the first time, underscoring the limits of government incentives to arrest a demographic slump that threatens the city’s future workforce.</description>
       <dc:creator>Bloomberg News</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_economics</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_economics</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/worker-influx-lifts-hong-kong-population-as-birth-slump-worsens</wire:canonicalUrl>
@@ -78,10 +82,11 @@
       <pubDate>Wed, 19 Aug 2026 04:34:03 +0000</pubDate>
       <description>India’s share of exports to the US remained largely unchanged despite a year of President Donald Trump’s punitive tariffs and New Delhi’s efforts to diversify its trade with a raft of new deals with other countries.</description>
       <dc:creator>Shruti Srivastava</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_economics</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_economics</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/india-s-exports-to-us-hold-firm-after-a-year-of-trump-s-tariffs</wire:canonicalUrl>
@@ -94,10 +99,11 @@
       <pubDate>Wed, 19 Aug 2026 04:00:00 +0000</pubDate>
       <description>The UK Treasury would be as much as £32 billion ($43.3 billion) better off each year if Britain’s government-run health service had kept pace with its pre-pandemic productivity gains, according to analysis of official figures.</description>
       <dc:creator>Tom Rees and Irina Anghel</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_economics</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_economics</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/prize-worth-32-billion-if-uk-tackles-nhs-efficiency-crisis</wire:canonicalUrl>
@@ -110,10 +116,11 @@
       <pubDate>Wed, 19 Aug 2026 03:41:50 +0000</pubDate>
       <description>Australia’s central bank will need to raise interest rates again if upside risks to inflation are realized and consumer prices fail to come back down, Deputy Governor Andrew Hauser said.</description>
       <dc:creator>Nasteho Said</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_economics</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_economics</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/rba-s-hauser-says-rates-will-need-to-rise-if-prices-fail-to-ease</wire:canonicalUrl>
@@ -126,10 +133,11 @@
       <pubDate>Wed, 19 Aug 2026 03:10:59 +0000</pubDate>
       <description>South Korea’s household loan growth jumped the most in nearly five years in the second quarter as home purchases and unsecured borrowing picked up, underscoring persistent financial-stability risks as the Bank of Korea considers further interest-rate hikes.</description>
       <dc:creator>Heesu Lee</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_economics</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_economics</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/south-korea-s-household-loan-growth-jumps-to-near-five-year-high</wire:canonicalUrl>
@@ -142,10 +150,11 @@
       <pubDate>Wed, 19 Aug 2026 03:00:00 +0000</pubDate>
       <description>South Korea’s state-run think tank raised its growth forecast for this year, surpassing the government’s already bullish projection as a stronger-than-expected global semiconductor boom, fueled by artificial intelligence, drives exports and investment.</description>
       <dc:creator>Heesu Lee</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_economics</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_economics</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/south-korea-think-tank-raises-growth-outlook-above-government-s</wire:canonicalUrl>
@@ -158,10 +167,11 @@
       <pubDate>Wed, 19 Aug 2026 01:47:28 +0000</pubDate>
       <description>Australia’s wage growth remained elevated, highlighting persistent price pressures in the economy at a time when the Reserve Bank is warning it’s willing to tighten further to restrain inflation.</description>
       <dc:creator>Nasteho Said</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_economics</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_economics</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/australia-wage-growth-stays-elevated-reinforces-price-pressures</wire:canonicalUrl>
@@ -174,10 +184,11 @@
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
       <description>Indonesia’s central bank is expected to hold rates in the first policy meeting led by Acting Governor Destry Damayanti, with investors paying close attention to how she’ll balance currency stability with the President Prabowo Subianto’s growth push.</description>
       <dc:creator>Grace Sihombing</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_economics</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_economics</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/indonesia-seen-holding-rates-as-new-chief-leads-first-decision</wire:canonicalUrl>
@@ -190,10 +201,11 @@
       <pubDate>Tue, 18 Aug 2026 21:00:00 +0000</pubDate>
       <description>Mizuho Financial Group Inc. expects the Bank of Japan to pick up the pace of interest-rate hikes, with the next one coming as soon as next month, as the weak yen and inflation prompt the central bank to act more quickly.</description>
       <dc:creator>Taiga Uranaka and Hideki Suzuki</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_economics</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_economics</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-18/mizuho-markets-head-expects-boj-to-raise-rates-soon-more-often</wire:canonicalUrl>
@@ -206,10 +218,11 @@
       <pubDate>Tue, 18 Aug 2026 19:21:15 +0000</pubDate>
       <description>Mexico is weighing plans to impose further trade restrictions on selected products from China and other countries while raising existing import taxes on others, according to four people familiar with the matter.</description>
       <dc:creator>Gonzalo Soto and Mie Dahl</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_economics</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_economics</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-18/mexico-weighs-tougher-trade-rules-for-china-as-us-talks-grind-on</wire:canonicalUrl>
@@ -222,10 +235,11 @@
       <pubDate>Tue, 18 Aug 2026 19:05:46 +0000</pubDate>
       <description>Venezuelan manufacturers lacked grid power for nearly half of their working hours in the second quarter, as the tottering electricity system holds back the economic recovery.</description>
       <dc:creator>Andreina Itriago</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_economics</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_economics</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-18/crippling-blackouts-put-venezuela-s-industrial-recovery-at-risk</wire:canonicalUrl>
@@ -238,10 +252,11 @@
       <pubDate>Tue, 18 Aug 2026 17:02:51 +0000</pubDate>
       <description>Israel’s central bank governor kept options open for an upcoming interest-rate decision, saying policymakers are dealing with high levels of uncertainty.</description>
       <dc:creator>Alisa Odenheimer and Dani Burger</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_economics</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_economics</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-18/israel-s-central-bank-chief-says-next-rate-decision-is-live</wire:canonicalUrl>
@@ -254,10 +269,11 @@
       <pubDate>Tue, 18 Aug 2026 17:01:02 +0000</pubDate>
       <description>The Port of Los Angeles had its second-busiest July on record, as importers navigated global supply chain disruptions and volatile tariff policy.</description>
       <dc:creator>Laura Curtis</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_economics</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_economics</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-18/port-of-la-has-near-record-july-as-importers-navigate-trade-war</wire:canonicalUrl>
@@ -270,10 +286,11 @@
       <pubDate>Tue, 18 Aug 2026 15:11:16 +0000</pubDate>
       <description>Colombian growth beat expectations in the second quarter, handing President Abelardo de la Espriella a buoyant economy as he starts his four-year term.</description>
       <dc:creator>Oscar Medina</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_economics</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_economics</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-18/colombian-gdp-growth-jumped-to-3-5-in-boost-for-new-government</wire:canonicalUrl>
@@ -286,10 +303,11 @@
       <pubDate>Tue, 18 Aug 2026 12:53:15 +0000</pubDate>
       <description>Chile’s economy unexpectedly stalled in the second quarter on broad-based weakness, casting fresh doubt on President José Antonio Kast’s pledges to quickly revive investment and employment.</description>
       <dc:creator>Matthew Malinowski</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_economics</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_economics</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-18/chile-s-economy-unexpectedly-stalls-in-fresh-setback-for-kast</wire:canonicalUrl>
@@ -302,10 +320,11 @@
       <pubDate>Tue, 18 Aug 2026 12:33:57 +0000</pubDate>
       <description>New residential construction in the US declined in July as single-family starts slid to the slowest pace since 2022.</description>
       <dc:creator>Michael Sasso</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_economics</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_economics</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-18/us-housing-starts-slow-on-drop-in-single-family-construction</wire:canonicalUrl>
@@ -318,10 +337,11 @@
       <pubDate>Mon, 17 Aug 2026 21:55:44 +0000</pubDate>
       <description>Financial-market concerns about Brazil’s growing public debt are justified, as investors have legitimate questions about the trajectory of spending that the government needs to address, the nation’s finance minister said.</description>
       <dc:creator>Martha Beck</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_economics</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_economics</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-17/lula-must-tackle-fiscal-woes-if-reelected-finance-chief-says</wire:canonicalUrl>

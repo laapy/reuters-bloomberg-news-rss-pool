@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
-    <title>Bloomberg — Reuters/Bloomberg pool</title>
+    <title>Bloomberg — diagnostic source feed</title>
     <link>https://feeds.bloomberg.com/business/news.rss</link>
-    <description>Provenance-aware feed; classification fields distinguish exact wire copies from citations.</description>
+    <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 19 Aug 2026 07:42:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:48:30 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Energy Bill Rise Pushes UK Inflation Higher, Piling More Pressure on Consumers</title>
@@ -14,10 +14,11 @@
       <pubDate>Wed, 19 Aug 2026 07:19:09 +0000</pubDate>
       <description>Inflation accelerates; Trainline under investigation</description>
       <dc:creator>Louise Moon</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_business</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_business</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/newsletters/2026-08-19/energy-bill-rise-pushes-uk-inflation-higher-piling-more-pressure-on-consumers</wire:canonicalUrl>
@@ -30,10 +31,11 @@
       <pubDate>Wed, 19 Aug 2026 07:06:27 +0000</pubDate>
       <description>Virgin Atlantic Airways Ltd. and Trainline Plc face an investigation from the UK watchdog over misleading retail pricing, in the first move since the country’s new prime minister promised to ease the cost of living on consumers.</description>
       <dc:creator>Upmanyu Trivedi</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_business</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_business</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/virgin-atlantic-trainline-face-uk-probe-over-misleading-retail-pricing</wire:canonicalUrl>
@@ -46,10 +48,11 @@
       <pubDate>Wed, 19 Aug 2026 06:59:56 +0000</pubDate>
       <description>Source: Bloomberg, 0:00</description>
       <dc:creator>ANDREW GAVIN</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_business</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_business</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-08-19/uk-inflation-climbs-to-four-month-high-us-primaries-more</wire:canonicalUrl>
@@ -62,10 +65,11 @@
       <pubDate>Wed, 19 Aug 2026 06:28:02 +0000</pubDate>
       <description>Get caught up.</description>
       <dc:creator>Samson Ellis</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_business</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_business</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/newsletters/2026-08-19/investors-ditch-chip-stocks-after-global-bond-selloff</wire:canonicalUrl>
@@ -78,10 +82,11 @@
       <pubDate>Wed, 19 Aug 2026 06:27:11 +0000</pubDate>
       <description>Source: Bloomberg, 5:11</description>
       <dc:creator>ANDREW GAVIN</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_business</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_business</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-08-19/stock-movers-unitree-baidu-xiaomi-podcast</wire:canonicalUrl>
@@ -94,10 +99,11 @@
       <pubDate>Wed, 19 Aug 2026 06:15:37 +0000</pubDate>
       <description>Source: Bloomberg, 0:00</description>
       <dc:creator>ANDREW GAVIN</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_business</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_business</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-08-19/-ai-tentacle-market-risk-us-primary-results-more</wire:canonicalUrl>
@@ -110,10 +116,11 @@
       <pubDate>Wed, 19 Aug 2026 05:50:58 +0000</pubDate>
       <description>Source: Bloomberg, 0:00</description>
       <dc:creator>JAMES WOOLCOCK</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_business</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_business</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-08-19/bloomberg-daybreak-europe-ai-tentacle-market-risk-podcast</wire:canonicalUrl>
@@ -126,10 +133,11 @@
       <pubDate>Wed, 19 Aug 2026 03:49:28 +0000</pubDate>
       <description>Lyntris Inc. and some of its backers raised $297.5 million in a downsized US initial public offering that priced below its marketed range.</description>
       <dc:creator>Arvelisse Bonilla Ramos</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_business</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_business</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/defense-tech-firm-lyntris-backers-raise-297-5-million-in-ipo</wire:canonicalUrl>
@@ -142,10 +150,11 @@
       <pubDate>Wed, 19 Aug 2026 03:44:57 +0000</pubDate>
       <description>PAG is seeking as much as $5 billion for a new fund after diversifying its investments outside of China and accelerating cash returns to investors, people familiar with the matter said.</description>
       <dc:creator>Cathy Chan</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_business</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_business</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/pag-seeks-as-much-as-5-billion-for-asia-fund-after-exit-spree</wire:canonicalUrl>
@@ -158,10 +167,11 @@
       <pubDate>Wed, 19 Aug 2026 03:32:39 +0000</pubDate>
       <description>Source: Bloomberg, 0:00</description>
       <dc:creator>MARUFUL HOSSAIN</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_business</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_business</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-08-19/trump-pauses-new-canada-tariffs-overton-tapped-to-lead-fda</wire:canonicalUrl>
@@ -174,10 +184,11 @@
       <pubDate>Wed, 19 Aug 2026 03:10:15 +0000</pubDate>
       <description>Source: Bloomberg, 0:00</description>
       <dc:creator>MARUFUL HOSSAIN</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_business</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_business</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-08-19/bloomberg-daybreak-asia-chip-selloff-pony-ai-podcast</wire:canonicalUrl>
@@ -190,10 +201,11 @@
       <pubDate>Wed, 19 Aug 2026 02:42:23 +0000</pubDate>
       <description>Source: Bloomberg, 0:00</description>
       <dc:creator>MARUFUL HOSSAIN</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_business</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_business</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-08-19/trump-pauses-50-canada-tariffs-overton-tapped-to-run-fda-more</wire:canonicalUrl>
@@ -206,10 +218,11 @@
       <pubDate>Wed, 19 Aug 2026 02:03:52 +0000</pubDate>
       <description>Source: Bloomberg, 0:00</description>
       <dc:creator>MARUFUL HOSSAIN</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_business</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_business</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-08-19/trump-taps-overton-to-lead-fda-chip-selloff-hits-stocks-more</wire:canonicalUrl>
@@ -222,10 +235,11 @@
       <pubDate>Wed, 19 Aug 2026 01:22:35 +0000</pubDate>
       <description>Source: Bloomberg, 0:00</description>
       <dc:creator>MARUFUL HOSSAIN</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_business</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_business</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-08-19/florida-governor-race-set-trump-taps-overton-to-run-fda-more</wire:canonicalUrl>
@@ -238,10 +252,11 @@
       <pubDate>Wed, 19 Aug 2026 00:19:48 +0000</pubDate>
       <description>Source: Bloomberg, 0:00</description>
       <dc:creator>MARUFUL HOSSAIN</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_business</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_business</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-08-19/donalds-jolly-to-square-off-for-florida-governor-chip-rout</wire:canonicalUrl>
@@ -254,10 +269,11 @@
       <pubDate>Tue, 18 Aug 2026 23:27:25 +0000</pubDate>
       <description>Source: Bloomberg, 36:23</description>
       <dc:creator>JUNE GRASSO</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_business</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_business</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-08-18/bloomberg-law-trial-over-tupac-shakur-s-murder-podcast</wire:canonicalUrl>
@@ -270,10 +286,11 @@
       <pubDate>Tue, 18 Aug 2026 22:54:50 +0000</pubDate>
       <description>Source: Bloomberg, 0:00</description>
       <dc:creator>MARUFUL HOSSAIN</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_business</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_business</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-08-18/us-canada-deal-hopes-fade-chip-rout-pulls-stocks-down-more</wire:canonicalUrl>
@@ -286,10 +303,11 @@
       <pubDate>Tue, 18 Aug 2026 22:46:01 +0000</pubDate>
       <description>Get caught up.</description>
       <dc:creator>Jackie Edwards</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_business</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_business</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/newsletters/2026-08-18/barrenjoey-new-zealand-shakeup-mushroom-murders-australia-briefing</wire:canonicalUrl>
@@ -302,10 +320,11 @@
       <pubDate>Tue, 18 Aug 2026 22:10:33 +0000</pubDate>
       <description>Source: Bloomberg, 0:00</description>
       <dc:creator>MARUFUL HOSSAIN</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_business</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_business</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-08-18/meta-s-landmark-trial-chip-selloff-tanks-stocks-more</wire:canonicalUrl>
@@ -318,10 +337,11 @@
       <pubDate>Tue, 18 Aug 2026 21:43:56 +0000</pubDate>
       <description>Get caught up.</description>
       <dc:creator>Jordan Erb</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_business</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_business</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/newsletters/2026-08-18/chipmaker-selloff-drags-down-markets-evening-briefing-americas</wire:canonicalUrl>

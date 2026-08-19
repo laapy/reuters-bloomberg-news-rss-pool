@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
-    <title>Business Standard — Reuters/Bloomberg pool</title>
+    <title>Business Standard — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Abusiness-standard.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
-    <description>Provenance-aware feed; classification fields distinguish exact wire copies from citations.</description>
+    <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 19 Aug 2026 07:42:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:48:30 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>China allows limited Nvidia H200 shipments: Why is Beijing easing curbs?</title>
@@ -15,10 +15,11 @@
       <description>China has allowed small batches of Nvidia's H200 AI chips into the country, easing restrictions as its leading AI firms seek more computing power to compete with US rivals ...</description>
       <dc:creator>Vrinda Goel</dc:creator>
       <content:encoded>&lt;p&gt;Small batches of Nvidia’s H200 artificial intelligence (AI) chips have been allowed to enter mainland China. This move aims to help the country’s leading AI companies compete with their US rivals. According to a Financial Times (FT) report, ByteDance and Tencent have each received about 10,000 H200 processors in recent weeks. Meanwhile, a few other Chinese technology groups could soon receive approval for similar-sized shipments. Chinese regulators have also told companies they can ship H200 processors to Hong Kong, which operates outside mainland China’s customs border, and use them there. However, limited data centre capacity and power constraints in Hong Kong could make it difficult for companies to deploy large numbers of the chips. While Chinese groups have been cleared by the US to buy up to 100,000 H200s apiece, according to FT, Beijing wants them to keep most of these chips outside mainland China to support domestic chipmakers. Nvidia has about 500,000 H200 chips in stock, mainly for Chinese customers, but sales have been held up by Beijing’s restrictions. Some Nvidia partners, including Lenovo, also told Chinese customers last week that they could resume placing orders for products containing H200 chips. Such purchases would still require separate approval from China’s National Development and Reform Commission (NDRC). Are other Nvidia chips also allowed into China? No. The H200 is at least two generations behind Nvidia’s most powerful chips, which Chinese customers are not allowed to buy because of US export controls. Nvidia’s more advanced Blackwell GPUs remain banned from export to China. In May this year, the US Department of Commerce moved to close a potential loophole that could have allowed companies to export the world’s most advanced chips, including Nvidia’s Blackwell processors, to subsidiaries of Chinese companies located outside mainland China. According to a Reuters report, the Commerce Department’s Bureau of Industry and Security (BIS) said it would enforce licence requirements for advanced chips supplied to entities headquartered in China even when those entities were located outside the country. The H200 is not Nvidia’s most advanced chip, but it is about six times as powerful as the H20, the most advanced Nvidia chip previously permitted for export to China. Why is Beijing loosening restrictions on US chips? Chinese regulators have recently begun easing restrictions on US chips to ensure that leading domestic AI developers can continue training cutting-edge models. Chinese technology groups are seeking to compete with advanced US AI models, including Anthropic’s Mythos 5. Last month, Chinese AI lab Moonshot released its K3 model, whose performance almost rivalled the most advanced US models. Alibaba, DeepSeek and Z.ai have also released models with similar intelligence levels, a sign that the gap between leading Chinese and US AI labs has narrowed. Chinese AI companies are increasingly using domestically produced chips for AI inference, the process of generating live responses from trained models. However, most still rely on Nvidia chips for the more complex training phase, which involves building models’ knowledge and identifying patterns, reported FT. How much access do Chinese companies have to H200 chips? According to Reuters, the US Commerce Department has approved around 10 Chinese companies, including Alibaba, Tencent, ByteDance and JD.com, to purchase Nvidia’s H200 chips. A handful of distributors, including Lenovo and Foxconn, have also been approved. Buyers can purchase the chips either directly from Nvidia or through these intermediaries. Under the US licensing terms, each approved customer can purchase up to 75,000 H200 chips. The path to completed sales, however, remains complicated by requirements imposed by both Washington and Beijing. US rules issued in January require Chinese buyers to demonstrate that they have installed sufficient security procedures and will not use the chips for military purposes. Nvidia must also certify that it has sufficient inventory in the United States. How did Nvidia regain access to the Chinese market? The US has imposed numerous restrictions on the supply of high-end technology to China as Washington and Beijing compete for dominance in AI. In December 2025, US President Donald Trump announced that Nvidia would be allowed to sell its H200 chips to China, marking a major easing of Washington’s export controls. Under a deal announced by the White House, Nvidia could sell H200 chips to Chinese customers provided the company shared 25 per cent of the revenue from those sales with the US government. Nvidia subsequently restarted production of H200 chips for the Chinese market after receiving multiple approvals from the US government and fresh orders from Chinese customers. US-China AI rivalry intensifies The easing of curbs on H200 chips comes as the AI rivalry between the US and China intensifies. Last week, Reuters reported that the US was preparing to tell dozens of countries that they must pick sides in the artificial intelligence race with China or risk being excluded from a US-led AI coalition if they also sign up for Beijing’s competing framework. By pressing countries to choose sides, the US hopes to limit China’s access to the resources it needs in the race to develop the world’s most sophisticated AI systems, which could have major military and economic implications. Meanwhile, in July, Chinese President Xi Jinping launched the rival ‘World Artificial Intelligence Cooperation Organisation’, promoting China’s open-weight technology as a challenge to US influence over the rapidly developing sector. Beijing is also weighing restrictions on overseas access to some of China’s leading AI models, underscoring the growing tension between its ambition to expand its AI influence and its stringent national security agenda. The US has also taken steps against Chinese technology companies it believes could aid Beijing’s military and industrial capabilities. In June this year, the US added Chinese e-commerce giant Alibaba, internet search provider Baidu, and automaker BYD to a list of companies it believes are aiding Beijing’s military. The list now includes a broad range of major Chinese technology companies considered important to Beijing’s military and industrial ambitions. Other companies added include biotech firm WuXi AppTec, AI-driven robotics company RoboSense Technology and Unitree, a leading Chinese maker of humanoid and quadruped robots.&lt;/p&gt;</content:encoded>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:sourceId>business_standard_discovery</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_attribution</wire:classification>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.86</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -33,10 +34,11 @@
       <description>The move means SpiceJet's existing management will remain in control of India's fourth-largest airline while the petitions are reconsidered ...</description>
       <dc:creator>Reuters</dc:creator>
       <content:encoded>&lt;p&gt;An Indian court said on Wednesday that bankruptcy petitions filed by aircraft lessors against cash-strapped SpiceJet will be heard afresh by a new bench, after the airline reached a last-minute settlement with one lessor.The move is a setback to aircraft leasing companies that have waged a years-long battle against India&amp;#x27;s fourth-largest airline to recover debts, but is a reprieve for SpiceJet as its existing management will remain in control of the airline while the insolvency petitions are reconsidered.The National Company Law Tribunal had prepared a judgment covering eight petitions against SpiceJet, but said the withdrawal of one of the petitions following the settlement meant the ruling would have to be rewritten.With one member of the current judges panel due to retire on Wednesday, the tribunal said there was not enough time to rewrite and deliver the judgment, a judge said. SpiceJet did not immediately respond to a request for comment.The total amount currently claimed by SpiceJet&amp;#x27;s lessors was not immediately clear. SpiceJet&amp;#x27;s finances have been under stress, with the airline delaying salary payments to many of its pilots, Reuters reported in June.Its market share sank to just 1.9 per cent in June this year, from about 15 per cent in 2019, and it has received financing under a government-backed credit programme to stabilise operations.&lt;/p&gt;</content:encoded>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:sourceId>business_standard_discovery</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.99</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -51,9 +53,10 @@
       <description>The GIFT Nifty signalled a tepid open for the benchmark Nifty50. Asian markets declined on a chip stocks sell-off ...</description>
       <dc:creator>SI Reporter</dc:creator>
       <content:encoded>&lt;p&gt;Sensex Today | Stock Market LIVE Updates, Wednesday, Aug 19, 2026: The Nifty50 and the Sensex declined amid losses in global equities due to higher bond yields and geopolitical uncertainty.  As of 1:00 PM, the Sensex was down 342.46 points or 0.44 per cent at 76,893 and the Nifty50 fell 102 points or 0.42 per cent to 24,052.90.  Hindalco Industries, Tata Steel, and Mahindra &amp;amp; Mahindra were the top losers in the Nifty50 index.     In the broader markets, the Nifty MidCap and the Nifty SmallCap were trading 0.16 per cent and 0.06 per cent down, respectively.  Sector-wise, the Nifty Chemical, the Nifty Financial Services, and the Nifty Private Bank declined the most. Meanwhile, the Nifty IT outperformed with least gain.&lt;/p&gt;</content:encoded>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
-      <wire:sourceId>business_standard_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -66,9 +69,10 @@
       <guid isPermaLink="false">821deec0c25c5b105d14217b</guid>
       <pubDate>Tue, 18 Aug 2026 23:31:00 +0000</pubDate>
       <description>The successful recovery marks a major step in China's push to develop lower-cost, reusable rockets, with LandSpace becoming only the fourth entity globally to recover a launch vehicle ...</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
-      <wire:sourceId>business_standard_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.business-standard.com/world-news/china-s-landspace-makes-history-recovers-reusable-rocket-booster-after-launch-126081900399_1.html</wire:canonicalUrl>
@@ -80,9 +84,10 @@
       <guid isPermaLink="false">f4751fa27e21e22321933dea</guid>
       <pubDate>Tue, 18 Aug 2026 23:04:00 +0000</pubDate>
       <description>From higher overseas transaction costs to revised late fees and reward exclusions, Axis Bank cardholders face several changes from August 28 ...</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
-      <wire:sourceId>business_standard_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.business-standard.com/finance/personal-finance/axis-bank-credit-card-rules-change-what-gets-costlier-from-aug-28-126081900382_1.html</wire:canonicalUrl>
@@ -94,9 +99,10 @@
       <guid isPermaLink="false">eae4c466eeec52c910edaec2</guid>
       <pubDate>Tue, 18 Aug 2026 22:58:00 +0000</pubDate>
       <description>An analysis of trade ministry data for the 12 months through July shows the US continues to account for about 20% of India's exports ...</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
-      <wire:sourceId>business_standard_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.business-standard.com/economy/news/india-s-exports-to-us-remain-unchanged-after-a-year-of-trump-s-tariffs-126081900375_1.html</wire:canonicalUrl>
@@ -108,9 +114,10 @@
       <guid isPermaLink="false">dae29325207f28fee2516486</guid>
       <pubDate>Tue, 18 Aug 2026 21:54:00 +0000</pubDate>
       <description>The company last year changed App Store rules and fees in the EU after the bloc's antitrust regulators ordered it to remove commercial barriers ...</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
-      <wire:sourceId>business_standard_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.business-standard.com/technology/tech-news/apple-sets-5-commission-for-apps-outside-app-store-in-european-union-126081900251_1.html</wire:canonicalUrl>
@@ -122,9 +129,10 @@
       <guid isPermaLink="false">3982da8ccb2ee4d69928e56d</guid>
       <pubDate>Tue, 18 Aug 2026 21:54:00 +0000</pubDate>
       <description>Cerebras makes AI hardware and chips that compete with Nvidia and targets the portion of AI called inference, the computing process of generating an answer in a chatbot such as Anthropic's Claude ...</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
-      <wire:sourceId>business_standard_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.business-standard.com/technology/tech-news/cerebras-launches-new-server-chip-system-designed-to-speed-ai-chatbots-126081900266_1.html</wire:canonicalUrl>
@@ -136,9 +144,10 @@
       <guid isPermaLink="false">0a1f8d92e4988a1125563a97</guid>
       <pubDate>Tue, 18 Aug 2026 21:54:00 +0000</pubDate>
       <description>California, Colorado, Kentucky and New Jersey - accused Meta of designing Facebook and Instagram to hook young users ...</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
-      <wire:sourceId>business_standard_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.business-standard.com/technology/tech-news/meta-rejects-claims-it-sought-to-hook-children-to-facebook-instagram-126081900294_1.html</wire:canonicalUrl>
@@ -155,10 +164,11 @@ Also Read&lt;/p&gt;&lt;p&gt;Lalithaa Jewellery vs Horizon IPO: Analysts decode b
 ALSO READ:  TI India seeing &amp;#x27;Inverse Head &amp;amp; Shoulders&amp;#x27; pattern; what it means, strategy&lt;/p&gt;&lt;p&gt;Disclaimer: View and outlook shared belong to the respective brokerages/analysts and are not endorsed by Business Standard. Readers&amp;#x27; discretion is advised.&lt;/p&gt;&lt;p&gt;More From This Section&lt;/p&gt;&lt;p&gt;Bernstein shuffles India portfolio as Q1 earnings offer stock-specific bets&lt;/p&gt;&lt;p&gt;Milky Mist share price extends post-listing gains, hits 10% upper circuit&lt;/p&gt;&lt;p&gt;Zaggle rebounds 26% from Tuesday&amp;#x27;s low on heavy volumes; here&amp;#x27;s why&lt;/p&gt;&lt;p&gt;Behari Lal Engineering shares make a blockbuster debut, list at 63% premium&lt;/p&gt;&lt;p&gt;Shiprocket shares make a solid debut, list at 35% premium over IPO price&lt;/p&gt;&lt;p&gt;Topics : Aster DM Healthcare Stock Market Today stock market trading Markets News Markets Buzzing stocks buzzing stock
 Don&amp;#x27;t miss the most important news and views of the day. Get them on our Telegram channel
 First Published: Aug 19 2026 | 12:02 PM IST&lt;/p&gt;</content:encoded>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:sourceId>business_standard_discovery</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_attribution</wire:classification>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.86</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -171,9 +181,10 @@ First Published: Aug 19 2026 | 12:02 PM IST&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">46fda12c81ce64c0a8bb3a0d</guid>
       <pubDate>Tue, 18 Aug 2026 21:34:00 +0000</pubDate>
       <description>The AI research lab behind ChatGPT said it paused its model testing for two weeks and is adding other AI systems to monitor the activities of AI agents in testing ...</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
-      <wire:sourceId>business_standard_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.business-standard.com/technology/tech-news/openai-slows-model-training-to-bolster-security-after-hugging-face-hack-126081900246_1.html</wire:canonicalUrl>
@@ -185,9 +196,10 @@ First Published: Aug 19 2026 | 12:02 PM IST&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">d8dddda8f6ad7cf01184e002</guid>
       <pubDate>Tue, 18 Aug 2026 20:22:00 +0000</pubDate>
       <description>The announcement, which Trump made on his social media platform, buys time for more negotiations and avoids, for now, another strain in already tense relations between the historic allies ...</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
-      <wire:sourceId>business_standard_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.business-standard.com/world-news/us-canada-reach-deal-to-delay-50-tariffs-on-canadian-imports-trump-126081900107_1.html</wire:canonicalUrl>

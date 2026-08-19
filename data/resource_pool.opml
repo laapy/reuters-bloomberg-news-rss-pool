@@ -4,7 +4,13 @@
     <title>Reuters/Bloomberg RSS resource pool</title>
   </head>
   <body>
-    <outline text="Generated feeds">
+    <outline text="Primary feeds">
+      <outline type="rss" text="All deduplicated items" title="deduplicated" xmlUrl="data/deduplicated.xml" htmlUrl="./" />
+      <outline type="rss" text="Reuters originals and reposts" title="reuters" xmlUrl="data/reuters.xml" htmlUrl="./" />
+      <outline type="rss" text="Bloomberg originals and reposts" title="bloomberg" xmlUrl="data/bloomberg.xml" htmlUrl="./" />
+      <outline type="rss" text="Confirmed items with full text" title="fulltext" xmlUrl="data/fulltext.xml" htmlUrl="./" />
+    </outline>
+    <outline text="Diagnostic source feeds">
       <outline type="rss" text="Reuters" title="reuters_official_msn" xmlUrl="data/feeds/reuters_official_msn.xml" htmlUrl="https://www.reuters.com/arc/outboundfeeds/msn/?outputType=xml" />
       <outline type="rss" text="Bloomberg" title="bloomberg_business" xmlUrl="data/feeds/bloomberg_business.xml" htmlUrl="https://feeds.bloomberg.com/business/news.rss" />
       <outline type="rss" text="Bloomberg" title="bloomberg_markets" xmlUrl="data/feeds/bloomberg_markets.xml" htmlUrl="https://feeds.bloomberg.com/markets/news.rss" />
@@ -30,6 +36,8 @@
       <outline type="rss" text="Mint" title="mint_news" xmlUrl="data/feeds/mint_news.xml" htmlUrl="https://www.livemint.com/rss/news" />
       <outline type="rss" text="The Economic Times" title="economic_times" xmlUrl="data/feeds/economic_times.xml" htmlUrl="https://economictimes.indiatimes.com/rssfeedsdefault.cms" />
       <outline type="rss" text="The Straits Times" title="straits_times_world" xmlUrl="data/feeds/straits_times_world.xml" htmlUrl="https://www.straitstimes.com/news/world/rss.xml" />
+      <outline type="rss" text="The China-Global South Project" title="cgsp_wire" xmlUrl="data/feeds/cgsp_wire.xml" htmlUrl="https://chinaglobalsouth.com/wp-json/wp/v2/posts?per_page=50&amp;_embed=1" />
+      <outline type="rss" text="Bitget News" title="bitget_news" xmlUrl="data/feeds/bitget_news.xml" htmlUrl="https://www.bitget.com/stp-news-en-sitemap.xml" />
       <outline type="rss" text="TradingView News" title="tradingview_discovery" xmlUrl="data/feeds/tradingview_discovery.xml" htmlUrl="https://www.bing.com/news/search?q=site%3Atradingview.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US" />
       <outline type="rss" text="TBS NEWS DIG" title="tbs_news_dig_discovery" xmlUrl="data/feeds/tbs_news_dig_discovery.xml" htmlUrl="https://www.bing.com/news/search?q=site%3Anewsdig.tbs.co.jp+%28Reuters+OR+Bloomberg+OR+%E3%83%AD%E3%82%A4%E3%82%BF%E3%83%BC+OR+%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%90%E3%83%BC%E3%82%B0%29&amp;format=rss&amp;mkt=en-US" />
       <outline type="rss" text="Bloomberg Línea" title="bloomberg_linea_discovery" xmlUrl="data/feeds/bloomberg_linea_discovery.xml" htmlUrl="https://www.bing.com/news/search?q=site%3Abloomberglinea.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US" />

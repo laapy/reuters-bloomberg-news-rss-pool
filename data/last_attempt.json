@@ -1,0 +1,34 @@
+{
+  "status": "published",
+  "attempted_at": "2026-08-19T07:48:30Z",
+  "summary": {
+    "generated_at": "2026-08-19T07:48:30Z",
+    "sources_total": 41,
+    "sources_ok": 41,
+    "sources_error": 0,
+    "items_total": 925,
+    "items_deduplicated": 879,
+    "publishers": {
+      "Reuters": 365,
+      "Bloomberg": 300
+    },
+    "relations": {
+      "original": 239,
+      "repost": 216,
+      "mention": 11,
+      "unknown": 459
+    },
+    "content_levels": {
+      "full": 298,
+      "summary": 626,
+      "link_only": 1
+    },
+    "primary_feeds": {
+      "deduplicated.xml": 879,
+      "reuters.xml": 230,
+      "bloomberg.xml": 193,
+      "fulltext.xml": 250
+    },
+    "elapsed_seconds": 217.718
+  }
+}

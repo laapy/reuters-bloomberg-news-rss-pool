@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
-    <title>Bloomberg — Reuters/Bloomberg pool</title>
+    <title>Bloomberg — diagnostic source feed</title>
     <link>https://feeds.bloomberg.com/markets/news.rss</link>
-    <description>Provenance-aware feed; classification fields distinguish exact wire copies from citations.</description>
+    <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 19 Aug 2026 07:42:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:48:30 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Absa CEO: Africa Expansion Plan Progressing Well</title>
@@ -13,10 +13,11 @@
       <guid isPermaLink="false">e95ba1bf17ee50e3f5dc1f8d</guid>
       <pubDate>Wed, 19 Aug 2026 07:32:39 +0000</pubDate>
       <description>Absa Group is exploring the possibility of converting its representative office in Nigeria into a merchant bank. Chief Executive Officer Kenny Fihla also said he sees opportunities in Uganda, Zambia, Tanzania, Angola. He spoke to Bloomberg’s Chief Africa correspondent, Jennifer Zabasajja, to discuss their plans after the group reported net income for the first half-year of 12.58 billion rand vs. 11.23 billion rand y/y. (Source: Bloomberg)</description>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_markets</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_markets</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/videos/2026-08-19/absa-ceo-africa-expansion-plan-progressing-well-video</wire:canonicalUrl>
@@ -28,10 +29,11 @@
       <guid isPermaLink="false">e8b8bc987fe91baae5dbfbe8</guid>
       <pubDate>Wed, 19 Aug 2026 07:01:12 +0000</pubDate>
       <description>UK consumer prices climbed to a four-month high after energy bills rose, ending a short period of respite for hard-pressed British households. Matt Bunny of Bloomberg Economics has the details. (Source: Bloomberg)</description>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_markets</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_markets</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/videos/2026-08-19/uk-inflation-accelerates-as-energy-bills-surge-video</wire:canonicalUrl>
@@ -44,10 +46,11 @@
       <pubDate>Wed, 19 Aug 2026 06:50:13 +0000</pubDate>
       <description>Abu Dhabi National Oil Co. plans to trim the amount of crude sold to Asian customers in August and September, according to people familiar with the matter — cuts that are already helping to push up the price of the flagship Murban oil grade.</description>
       <dc:creator>Yongchang Chin and Anthony Di Paola</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_markets</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_markets</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/adnoc-cuts-to-asia-shipments-send-flagship-oil-grade-higher</wire:canonicalUrl>
@@ -60,10 +63,11 @@
       <pubDate>Wed, 19 Aug 2026 06:29:41 +0000</pubDate>
       <description>Australia’s government rejected the far right One Nation party’s call to slash cigarette taxes in order to reduce prices and cut crime, arguing instead for an intensified struggle against illegal tobacco flooding the country.</description>
       <dc:creator>James Mayger</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_markets</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_markets</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/australia-rejects-far-right-call-to-slash-cigarette-taxes-by-75</wire:canonicalUrl>
@@ -75,10 +79,11 @@
       <guid isPermaLink="false">b758a8c3459e018b15a795c8</guid>
       <pubDate>Wed, 19 Aug 2026 06:20:02 +0000</pubDate>
       <description>Horizons Middle East &amp; Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg. (Source: Bloomberg)</description>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_markets</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_markets</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/videos/2026-08-19/horizons-middle-east-africa-8-19-2026-video</wire:canonicalUrl>
@@ -91,10 +96,11 @@
       <pubDate>Wed, 19 Aug 2026 06:15:01 +0000</pubDate>
       <description>Investors increasingly favor European stocks over US peers as the region’s robust economic outlook proves more attractive at a time of surging AI spending.</description>
       <dc:creator>Sagarika Jaisinghani</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_markets</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_markets</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/optimism-on-europe-returns-to-pre-iran-war-highs-taking-stock</wire:canonicalUrl>
@@ -107,25 +113,27 @@
       <pubDate>Wed, 19 Aug 2026 06:09:26 +0000</pubDate>
       <description>India has replaced Indonesia as Asia’s least-preferred stock market in a survey of fund managers by Bank of America Corp., signaling growing caution toward a market that’s among the world’s worst performers this year.</description>
       <dc:creator>Chiranjivi Chakraborty</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_markets</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_markets</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/india-stocks-top-indonesia-as-asia-s-least-favored-in-bofa-poll</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
-      <title>Bonds Traders Look to Hedge Risk of Fed Rate Cuts in 2027</title>
+      <title>Bond Traders Look to Hedge Risk of Fed Rate Cuts in 2027</title>
       <link>https://www.bloomberg.com/news/videos/2026-08-19/bonds-traders-look-to-hedge-risk-of-fed-cuts-in-2027-video</link>
-      <guid isPermaLink="false">47c47463b7cee6847adfe86c</guid>
+      <guid isPermaLink="false">110beb55ade7aac1110f3a15</guid>
       <pubDate>Wed, 19 Aug 2026 06:07:38 +0000</pubDate>
       <description>Bond traders are looking to hedge the risk that the Federal Reserve pivots to cutting rates in 2027. The dovish wagers are at odds with recent moves in the Treasuries market, which saw yields on long-dated bonds climb to multiyear highs as a Fed on hold would keep inflation running above its target for longer. Bloomberg's Ven Ram has more. (Source: Bloomberg)</description>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_markets</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_markets</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/videos/2026-08-19/bonds-traders-look-to-hedge-risk-of-fed-cuts-in-2027-video</wire:canonicalUrl>
@@ -138,10 +146,11 @@
       <pubDate>Wed, 19 Aug 2026 06:00:05 +0000</pubDate>
       <description>South Korea is looking to create a new financial center outside the capital Seoul, as the government moves to ease over-concentration in the greater metropolitan area, which is home to more than half the country’s population.</description>
       <dc:creator>Haram Lim</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_markets</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_markets</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/south-korea-exploring-new-financial-hub-beyond-overcrowded-seoul</wire:canonicalUrl>
@@ -154,10 +163,11 @@
       <pubDate>Wed, 19 Aug 2026 06:00:00 +0000</pubDate>
       <description>Ethiopia is burning through billions of dollars in a frantic — and so far unsuccessful — bid to stem the selloff in its currency.</description>
       <dc:creator>Ray Ndlovu and Fasika Tadesse</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_markets</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_markets</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/ethiopia-s-currency-sinks-as-central-bank-burns-through-dollars</wire:canonicalUrl>
@@ -170,10 +180,11 @@
       <pubDate>Wed, 19 Aug 2026 05:54:06 +0000</pubDate>
       <description>The spread between South Korea’s three- and 10-year government bond yields has widened to the highest in nearly five years amid a global selloff in long-dated securities and expectations that Bank of Korea won’t raise interest rates aggressively.</description>
       <dc:creator>Hooyeon Kim</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_markets</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_markets</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/korea-yield-curve-steepest-since-2021-as-long-bond-slump-deepens</wire:canonicalUrl>
@@ -185,10 +196,11 @@
       <guid isPermaLink="false">724a4ff30340b1f481a62d83</guid>
       <pubDate>Wed, 19 Aug 2026 05:53:24 +0000</pubDate>
       <description>Oil rose for a fourth day as the US and Iran showed no signs of progress towards a peace deal after almost six months of conflict. While Hormuz remains at stalemate, UAE said it fended off 2 missiles from Iran, but Tehran denies the attack. Karen Young, Senior Research Scholar at the Columbia University Center on Global Energy Policy spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East &amp; Africa as the conflict rages on. (Source: Bloomberg)</description>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_markets</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_markets</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/videos/2026-08-19/young-iran-sanctions-success-requires-global-coalition-video</wire:canonicalUrl>
@@ -201,10 +213,11 @@
       <pubDate>Wed, 19 Aug 2026 04:06:55 +0000</pubDate>
       <description>Yangtze Memory Technologies Co. moved closer to an initial public offering in China, following in the footsteps of rival CXMT Corp.’s near-record share sale.</description>
       <dc:creator>Bloomberg News</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_markets</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_markets</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/cxmt-rival-ymtc-moves-closer-to-china-s-next-marquee-chip-ipo</wire:canonicalUrl>
@@ -217,10 +230,11 @@
       <pubDate>Wed, 19 Aug 2026 03:07:45 +0000</pubDate>
       <description>Copper held the biggest loss in more than three weeks after significant deliveries to London Metal Exchange warehouses, easing a historic squeeze.</description>
       <dc:creator>Annie Lee</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_markets</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_markets</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/copper-holds-loss-as-deliveries-to-lme-mitigate-supply-crunch</wire:canonicalUrl>
@@ -233,10 +247,11 @@
       <pubDate>Wed, 19 Aug 2026 01:41:01 +0000</pubDate>
       <description>The Philippine peso fell to a record low against the dollar as oil prices climbed, putting more pressure on the central bank to take action.</description>
       <dc:creator>Benjamin Liu and Ditas B Lopez</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_markets</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_markets</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/php-usd-philippine-peso-fell-to-new-record-low-as-oil-prices-rise</wire:canonicalUrl>
@@ -249,10 +264,11 @@
       <pubDate>Wed, 19 Aug 2026 00:51:41 +0000</pubDate>
       <description>A Hong Kong court began hearing arguments on whether a deal that set up a fund to compensate China Evergrande minority shareholders is valid.</description>
       <dc:creator>Pearl Liu and Trista Xinyi Luo</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_markets</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_markets</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/evergrande-liquidators-challenge-hong-kong-watchdog-in-court</wire:canonicalUrl>
@@ -265,10 +281,11 @@
       <pubDate>Wed, 19 Aug 2026 00:51:23 +0000</pubDate>
       <description>Shares of two of Australia’s largest property developers surged, with Stockland seeing its largest advance in about 40 years, as tax changes favoring new builds offered a potential boost to residential development.</description>
       <dc:creator>Carmeli Argana</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_markets</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_markets</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/australian-housing-shares-surge-as-earnings-defy-property-slump</wire:canonicalUrl>
@@ -281,10 +298,11 @@
       <pubDate>Wed, 19 Aug 2026 00:22:43 +0000</pubDate>
       <description>Japan’s stocks slumped, with the Topix benchmark dropping the most since March, as anxiety over surging bond yields sapped risk appetite and weighed on AI-related stocks.</description>
       <dc:creator>Alice French and Ririko Tada</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_markets</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_markets</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/japanese-stocks-slide-as-bond-market-anxiety-hits-ai-sentiment</wire:canonicalUrl>
@@ -297,10 +315,11 @@
       <pubDate>Tue, 18 Aug 2026 23:00:00 +0000</pubDate>
       <description>Chinese long-end bond yields are tumbling as traders bet on further economic weakness, highlighting a growing divide with global markets where yields have soared to multi-year highs.</description>
       <dc:creator>Julia Zhong and Shulun Huang</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_markets</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_markets</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-18/china-s-flatter-bond-curve-shows-deeper-policy-divide-with-peers</wire:canonicalUrl>
@@ -313,10 +332,11 @@
       <pubDate>Tue, 18 Aug 2026 22:11:07 +0000</pubDate>
       <description>Stocks halted their losses and bonds caught some respite as a measure of calm returned to markets after days that saw yields at levels not seen in decades.</description>
       <dc:creator>Andre Janse van Vuuren and Levin Stamm</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_markets</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_markets</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-18/stock-market-today-dow-s-p-live-updates</wire:canonicalUrl>

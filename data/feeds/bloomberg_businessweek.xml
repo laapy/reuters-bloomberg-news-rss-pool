@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
-    <title>Bloomberg — Reuters/Bloomberg pool</title>
+    <title>Bloomberg — diagnostic source feed</title>
     <link>https://feeds.bloomberg.com/businessweek/news.rss</link>
-    <description>Provenance-aware feed; classification fields distinguish exact wire copies from citations.</description>
+    <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 19 Aug 2026 07:42:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:48:30 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>China Drug Deals Keep Luring US Pharma Despite Pressure in Washington</title>
@@ -14,10 +14,11 @@
       <pubDate>Wed, 19 Aug 2026 04:01:04 +0000</pubDate>
       <description>For US drugmakers, the expanding tie-ups with Chinese companies mean lower costs and more access to breakthrough treatments. For critics in Washington, the deals spell risk.</description>
       <dc:creator>Amber Tong and Robert Langreth</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_businessweek</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_businessweek</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/china-drug-deals-keep-luring-us-pharma-despite-pressure-in-washington</wire:canonicalUrl>
@@ -30,10 +31,11 @@
       <pubDate>Tue, 18 Aug 2026 10:00:03 +0000</pubDate>
       <description>How De Beers and friends are battling the avalanche of cheaper, near-identical synthetic gems.</description>
       <dc:creator>Stacey Vanek Smith</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_businessweek</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_businessweek</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/features/2026-08-18/de-beers-and-the-natural-diamond-industry-face-a-lab-grown-reckoning</wire:canonicalUrl>
