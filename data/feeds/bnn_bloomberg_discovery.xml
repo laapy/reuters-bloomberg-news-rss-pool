@@ -1,46 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>BNN Bloomberg — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Abnnbloomberg.ca+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 19 Aug 2026 09:38:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 10:33:34 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Shares fall in Asia, with Kospi down 5.7%, while oil prices jump</title>
+      <link>https://www.bnnbloomberg.ca/business/international/2026/08/19/shares-fall-in-asia-with-kospi-down-57-while-oil-prices-jump/</link>
+      <guid isPermaLink="false">29e0d55ab088241a59362971</guid>
+      <pubDate>Wed, 19 Aug 2026 02:07:00 +0000</pubDate>
+      <description>Shares slipped Wednesday in Asia after Wall Street pulled further from its all-time high as artificial-intelligence stocks resumed their decline.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/international/2026/08/19/shares-fall-in-asia-with-kospi-down-57-while-oil-prices-jump/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
     <item>
       <title>Homeowners managing higher mortgage payments despite concerns: survey</title>
       <link>https://www.bnnbloomberg.ca/business/real-estate/2026/08/19/homeowners-managing-higher-mortgage-payments-despite-concerns-survey/</link>
       <guid isPermaLink="false">6bc576c2f2b791c6a588fd9c</guid>
-      <pubDate>Wed, 19 Aug 2026 09:03:43 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 02:03:00 +0000</pubDate>
       <description>As the last wave of mortgage renewals from the era of ultra-low interest rates comes, a new survey suggests most homeowners have been managing higher payments.</description>
-      <dc:creator>The Canadian Press</dc:creator>
-      <content:encoded>&lt;p&gt;TORONTO — As the last wave of mortgage renewals from the era of ultra-low interest rates comes, a new survey suggests most homeowners have been managing higher payments. A Royal LePage report says mortgage delinquency rates in Canada remain remarkably low compared with other developed countries, though some households have felt stretched by rising monthly payments. The survey suggests 38 per cent of Canadians expect their mortgage to rise upon renewal, a drop from early 2025, when 57 per cent of renewing homeowners expected their payments to rise. Among those anticipating a higher monthly payment, 76 per cent said it would place financial strain on their households and more than half said they would reduce discretionary spending to make ends meet. However, nearly three-quarters of those with an upcoming renewal said they would not be changing their living arrangements. Phil Soper, chief executive of Royal LePage, says while many homeowners are concerned about renewing at higher rates, in practice, families have so far managed the transition to higher monthly payments. The widespread default crisis many feared simply hasn’t materialized, Soper added. Eight per cent of respondents extended their amortization period, while six per cent reported missing or deferring a mortgage payment at least once during their current term. Among those who missed a payment, 19 per cent said their mortgage was in arrears for 90 days or more. The Bank of Canada has maintained its overnight lending rate at 2.25 per cent since October 2025, higher than its ultra-low 0.25 per cent rate during the pandemic, but lower than the five per cent level it hit in 2023. The survey was conducted by Burson, using the Leger Opinion online panel. The poll of 1,127 Canadians was done between July 20 and Aug. 6. The Canadian Research Insights Council, an industry organization that promotes polling standards, says online surveys cannot be assigned a margin of error because they do not randomly sample the population. This report by The Canadian Press was first published Aug. 19, 2026. The Canadian Press&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/real-estate/2026/08/19/homeowners-managing-higher-mortgage-payments-despite-concerns-survey/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Post-secondary students worried over money as school year begins: survey</title>
-      <link>https://www.bnnbloomberg.ca/investing/personal-finance/2026/08/19/post-secondary-students-worried-over-money-as-school-year-begins-survey/</link>
-      <guid isPermaLink="false">26d7e1781bb088b473283cdf</guid>
-      <pubDate>Wed, 19 Aug 2026 09:00:00 +0000</pubDate>
-      <description>The results of a new study from TD Bank showed 76% of post-secondary students in Canada said financial stress was negatively impacting their well-being and academic performance.</description>
-      <dc:creator>Paul Hollingsworth</dc:creator>
-      <content:encoded>&lt;p&gt;HALIFAX – The Saint Mary’s University campus in Halifax is mostly empty at this time of year, but it will soon be busy with students who will return for a new school year – balancing their demanding academic calendars with their finances. “It can be terrible and it is not fun,” said Sena Mortotsi, who will soon start his first year at Saint Mary’s after transferring from a university in Alberta. He is not hopeful the financial outlook will improve anytime soon. “I think that’s how it is going to be.” “Rent and food are the most expensive things I face,” added 19-year-old Saint Mary’s freshman student Fenton Munson. Trying to make ends meet can be overwhelming for students at a time when everything seems to be more expensive than ever, including tuition, textbooks, food and housing. The results of a new study from TD Bank showed 76 per cent of post-secondary students in Canada said financial stress was negatively impacting their well-being and academic performance. Twenty per cent said they were more stressed about money than school; 23 per cent don’t know how to build and maintain a budget, while 89 per cent said they wanted to learn more about investment strategies. “I think it’s the worst we have seen in quite a while,” said Saint Mary’s University Students’ Association (SMUSA) president Liza Zahid, who added there are steps being taken to help students, including offering free groceries for anyone who needs assistance. “SMUSA has a food room, and it is a community food room that also welcomes students to come in from Dalhousie and Mount Saint Vincent University.” Financial planner Darryl Smith said increased numbers of young people are now coming to see him, asking for advice about financial literacy and to learn basic steps on how to manage cashflow savings, as costs continue to rise. “It starts with a budget, and if kids are going out on their own at a young age, they have to create the budget,” said Smith. “Having that understanding is vital, but I don’t think many young people have it.” Zahid said she has seen students break down and cry as the financial pressures they are facing mount. “All of that is a lot of strain on their mental health, and then they have to worry about the five courses they’re taking,” she said. “Some students have to make the impossible choice of buying food, or buying textbooks, or paying tuition.” According to Zahid, both international and domestic students are experiencing high levels of financial stress. Undergraduate tuition costs in Canada have climbed higher than ever, with some universities now charging more than $10,000.&lt;/p&gt;</content:encoded>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/investing/personal-finance/2026/08/19/post-secondary-students-worried-over-money-as-school-year-begins-survey/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -49,67 +43,28 @@
       <guid isPermaLink="false">a52dfd895d60593ceae3cb9c</guid>
       <pubDate>Wed, 19 Aug 2026 02:00:00 +0000</pubDate>
       <description>Of the 311,000 active registered disability savings plans (RDSP) started since the program’s inception in 2008, $3.3 billion in contributions have been matched by Ottawa with $5.1 billion in grants ...</description>
-      <content:encoded>&lt;p&gt;Of the 311,000 active registered disability savings plans (RDSP) started since the program’s inception in 2008 , $3.3 billion in contributions have been matched by Ottawa with $5.1 billion in grants and $2.1 billion in bonds.
-Still, two-thirds of the government funds set aside to help Canadians with disabilities save for retirement go unclaimed, according to the latest tally from Statistics Canada.&lt;/p&gt;&lt;p&gt;Canada’s only financial firm that deals exclusively in RDSPs wants to change that.
-“If you go to your local bank, they usually don’t even know it exists,” says Michel-Alexandre Riendeau, CEO of Montreal-based Terry Capital Inc.
-With $100 million under management in Quebec, the company has just been licensed to provide RDSPs in Ontario, Alberta and B.C. under the domain name rdsp.ca .
-“The main mission for us is to educate people,” he says.
-What is an RDSP? Anyone who is approved for a disability tax credit (DTC) can have a registered disability savings plan to invest and save for the long-term.
-Depending on family income, every $1 contribution could be matched by $3 in federal government grants. Grants can total up to $3,500 each year to $70,000.
-In comparison, Ottawa matches registered education savings plans (RESPs) with a grant of up to 20 per cent.
-“The amount is incredible. We’re talking up to 300 per cent in grant money compared to an RESP,” says Riendeau.
-Contributions can be made until the end of the year in which the beneficiary turns 59 and not taxed when they are withdrawn. However, the government portion, investment income earned in the plan, and proceeds from rollovers are taxed in the hands of the beneficiary when withdrawn.
-Plan holders must wait 10 years after their last contribution to make a withdrawal.
-Hypothetically, an RDSP opened at 20 years of age can grow for 15 years and provide the holder income at 45 years old.
-“Some people with disabilities won’t be able to work, or work as much, so the RDSP is their only way out,” says Riendeau, who adds that many Canadians with disabilities and their families under-estimate the unique long-term financial challenges and rising costs.
-”A lot of our clients hope to get some private care later on, not just the government assistance, which isn’t always the best,” he says.
-Terry Capital has partnered with Mackenzie Financial to provide mutual fund investment portfolios tailored for an RDSP.
-“Over 10 to 30 years the grants and bonds and everything together can grow very quickly,” he says.
-The firm is compensated by Mackenzie through annual mutual fund management fees generally between one per cent and 2.5 per cent of the amount invested.
-Making an RDSP a family affair Hutch Theriault from Gatineau, PQ opened an RDSP for his son, Ryker, in 2023 on the advice of his doctor.
-Ryker is a typical 16-year-old who likes cross-fit, fishing, water skiing and gaming but suffers from Type 1 diabetes.
-“We’re hoping it can be a good nest-egg for him in case there is a cure somewhere in the world. He’ll have money to possibly pay for it privately if the government can’t cover it,” says Theriault.
-Ryker’s treatment currently includes costs beyond provincial insurance and sometimes requires up front expenses.
-“The cost of medication, the pump and accessories that come with monitoring diabetes, is quite expensive. If he doesn’t have insurance when he’s an adult, he’s going to need this kind of money to be able to sustain his life,” he says, adding that doesn’t even consider future funding for drugs.
-“We have insurance now. How expensive is insulin going to be going forward.”
-Theriault also worries about whether Ryker’s future health might restrict his ability to earn a living.
-“He might be limited to the kind of employment he might get,” he says.
-Hope for a secure retirement Wren Hicks from Montreal contributed to a registered retirement savings plan (RRSP) while working in customer service until attention-deficit/hyperactivity disorder (ADHD), autism, and a chronic spine condition made it impossible to hold a full-time job.
-She opened an RDSP in 2022 and has since been diagnosed with complications relating to long COVID and is on permanent disability.
-“I didn’t even know an RDSP existed. I was told about it from a friend of a friend who worked with people with disabilities,” she says.
-Hicks says her RRSP savings would have never covered her financial needs, but tax rules permit the funds to be rolled into an RDSP as contributions.
-“It’s wild because there is so much money I could have had access to,” she says.
-At 37, she says the RDSP allows her to hope for a secure retirement she otherwise might not have had.
-“It’s like this vague idea of not having to worry about money, but it’s so far away,” she says.
-Related Stories Crypto awareness increasing among Canadian investors but misunderstanding persists: Dale Jackson
-Why investing in a second property is a bad retirement plan: Dale Jackson
-You might already be a millionaire. Average household net worth tops $1M in Canada: Dale Jackson&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/investing/opinion/2026/08/19/quebec-firm-targets-billions-of-unclaimed-dollars-in-federal-disability-retirement-plan-dale-jackson/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Dropping retaliatory U.S. tariffs may ‘lead to a worse outcome,’ for Canada, warns ex-adviser</title>
-      <link>https://www.bnnbloomberg.ca/business/politics/2026/08/18/dropping-retaliatory-us-tariffs-may-lead-to-a-worse-outcome-for-canada-warns-ex-adviser/</link>
-      <guid isPermaLink="false">7633b122267b7c6c73a373e5</guid>
-      <pubDate>Tue, 18 Aug 2026 17:22:09 +0000</pubDate>
-      <description>Canada could weaken its negotiating position if it makes further concessions to the U.S., says Diamond Eisinger, a former special advisor on Canada-U.S. relations in the Prime Minister’s Office.</description>
-      <dc:creator>Anam Khan</dc:creator>
-      <content:encoded>&lt;p&gt;Canada could weaken its negotiating position if it makes further concessions to the U.S., says Diamond Isinger, a former special adviser on Canada-U.S. relations in the Prime Minister’s Office. Her warning comes as Canada and the U.S. hold last-minute negotiations ahead of a Aug. 19 midnight deadline, which could see sweeping 50 per cent tariffs on roughly US$20 billion worth of Canadian goods including items like cement, hockey equipment, dairy products, wine, and clothing. Isinger says while the U.S. has made it clear that it does not want Canada to retaliate, dropping retaliatory tariffs could encourage the Trump administration to push for more and “may actually lead to a worse outcome overall for Canada.” “It’s a difficult strategic positioning to try to attain here,” says Isinger. She said historically, the U.S. administration and the President typically respond with a positive reaction when they see positions of strength from partners like Canada. “I still think that there is almost an equal chance of things working out versus not,” says Isinger. Carney-Trump call a positive signal Prime Minister Mark Carney’s office confirmed he spoke with U.S. President Donald Trump on Monday as negotiations continue, although few details about the conversation have been released. Isinger describes the phone call between the two leaders as a positive development because Trump is a key decision maker in this situation. “Ultimately, the President has to see any kind of tax or possible deal, approve it, and agree to it, because he can be the X factor in what could otherwise be a potentially agreeable situation going off the rails,” says Isinger. Negotiations so far have largely involved Canada-U.S. Trade Minister Dominic LeBlanc and U.S. Trade Representative Jamieson Greer since Trump threatened and signed proclamations for the tariffs a month ago. U.S. Commerce Secretary Howard Lutnick has also become more involved this week, which Isinger points out could be positive for Canada because of his existing relationship with LeBlanc. “They have had a really useful channel of open communication between the two of them over the past, since last year when Dominic LeBlanc was actively involved both during the Trudeau government and now the Carney government,” says Isinger. Major sticking points remain, however, including autos, dairy, lumber and other sectoral tariffs, she says. She says a new agreement might ease sectoral tariffs, but it is unclear if it “would be to the satisfaction of Canadian industries, provinces, and others.” She says ultimately, they have the final say and decide whether to lift the bans they enacted to counter Trump’s steel, aluminum and auto tariffs. Deal may just be temporary Isinger says it is realistic to believe the two countries will sign an agreement now, but long-term trust will remain uncertain because the current talks lack clear parameters and exclude the full Canada-U.S.-Mexico Agreement (CUSMA) review. “We can’t trust, necessarily, that in six months or a year we don’t find ourselves in a new cycle of trouble,” says Isinger. She said one possibility is a limited agreement where Trump signs a memorandum of understanding or joint political statement, while the broader CUSMA review is dealt with separately. She also points out that the upcoming U.S. midterm election will be another source of pressure for the U.S. administration. “Americans are facing massive rising costs of living right now for numerous reasons, but also for the reasons of tariffs being imposed on countries like Canada,” says Isinger. “That’s rising the cost of the goods that they need in their lives, in their workplaces, etc. and so that sort of pressure is going to continue to be felt by individuals who voice that to their elected officials, who will voice that to Washington.”&lt;/p&gt;</content:encoded>
+      <title>Post-secondary students worried over money as school year begins: survey</title>
+      <link>https://www.bnnbloomberg.ca/investing/personal-finance/2026/08/19/post-secondary-students-worried-over-money-as-school-year-begins-survey/</link>
+      <guid isPermaLink="false">26d7e1781bb088b473283cdf</guid>
+      <pubDate>Wed, 19 Aug 2026 02:00:00 +0000</pubDate>
+      <description>The results of a new study from TD Bank showed 76% of post-secondary students in Canada said financial stress was negatively impacting their well-being and academic performance.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/politics/2026/08/18/dropping-retaliatory-us-tariffs-may-lead-to-a-worse-outcome-for-canada-warns-ex-adviser/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/investing/personal-finance/2026/08/19/post-secondary-students-worried-over-money-as-school-year-begins-survey/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -143,18 +98,18 @@ You might already be a millionaire. Average household net worth tops $1M in Cana
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Labrador town demands help before it will back N.L.-Quebec energy pact</title>
-      <link>https://www.bnnbloomberg.ca/business/politics/2026/08/18/labrador-town-demands-help-before-it-will-back-nl-quebec-energy-pact/</link>
-      <guid isPermaLink="false">4a8e980fce9dfee3c0637d57</guid>
-      <pubDate>Tue, 18 Aug 2026 11:16:00 +0000</pubDate>
-      <description>A Labrador town that faces a sweeping transformation due to a proposed energy deal between Newfoundland and Labrador and Quebec says it needs help before it can support the plan.</description>
+      <title>Dropping retaliatory U.S. tariffs may ‘lead to a worse outcome,’ for Canada, warns ex-adviser</title>
+      <link>https://www.bnnbloomberg.ca/business/politics/2026/08/18/dropping-retaliatory-us-tariffs-may-lead-to-a-worse-outcome-for-canada-warns-ex-adviser/</link>
+      <guid isPermaLink="false">7633b122267b7c6c73a373e5</guid>
+      <pubDate>Tue, 18 Aug 2026 10:22:00 +0000</pubDate>
+      <description>Canada could weaken its negotiating position if it makes further concessions to the U.S., says Diamond Eisinger, a former special advisor on Canada-U.S. relations in the Prime Minister’s Office.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/politics/2026/08/18/labrador-town-demands-help-before-it-will-back-nl-quebec-energy-pact/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/politics/2026/08/18/dropping-retaliatory-us-tariffs-may-lead-to-a-worse-outcome-for-canada-warns-ex-adviser/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -188,6 +143,21 @@ You might already be a millionaire. Average household net worth tops $1M in Cana
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
+      <title>CMHC reports annual pace of housing starts slowed in July</title>
+      <link>https://www.bnnbloomberg.ca/business/real-estate/2026/08/18/cmhc-reports-annual-pace-of-housing-starts-slowed-in-july/</link>
+      <guid isPermaLink="false">c944ca60225e50ce168adbf0</guid>
+      <pubDate>Tue, 18 Aug 2026 07:57:00 +0000</pubDate>
+      <description>Canada Mortgage and Housing Corp. says the annual pace of housing starts in July fell five per cent compared with June.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/real-estate/2026/08/18/cmhc-reports-annual-pace-of-housing-starts-slowed-in-july/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
       <title>Global bond markets put governments on notice over fiscal, inflation risks</title>
       <link>https://www.bnnbloomberg.ca/business/economics/2026/08/18/bond-markets-from-us-to-japan-whacked-as-inflation-and-fiscal-worries-take-hold/</link>
       <guid isPermaLink="false">abe28b90326c1f809e1e7ee5</guid>
@@ -215,21 +185,6 @@ You might already be a millionaire. Average household net worth tops $1M in Cana
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/08/18/proposed-canadian-crude-oil-pipeline-projects/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Sinking AI stocks pull Wall Street further from its record</title>
-      <link>https://www.bnnbloomberg.ca/markets/2026/08/18/global-shares-slip-as-worries-about-rising-oil-prices-offset-boost-from-strong-earnings/</link>
-      <guid isPermaLink="false">8e3d66e236fc1ff614aec484</guid>
-      <pubDate>Tue, 18 Aug 2026 03:09:00 +0000</pubDate>
-      <description>Global shares were mostly lower on Tuesday, as rising oil prices and worries about inflation countered the boost to sentiment from robust corporate earnings reports.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/2026/08/18/global-shares-slip-as-worries-about-rising-oil-prices-offset-boost-from-strong-earnings/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
