@@ -1,11 +1,43 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Investing.com — Reuters/Bloomberg pool</title>
     <link>https://www.investing.com/rss/news.rss</link>
     <description>Provenance-aware feed; classification fields distinguish exact wire copies from citations.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 19 Aug 2026 02:42:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 03:51:00 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Nvidia H200 chips reach China in small shipments, FT reports</title>
+      <link>https://www.investing.com/news/stock-market-news/nvidia-h200-chips-reach-china-in-small-shipments-ft-reports-4866385</link>
+      <guid isPermaLink="false">50f94c4fd1ab876ce83e9f40</guid>
+      <pubDate>Wed, 19 Aug 2026 03:12:25 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:sourceId>investing_news</wire:sourceId>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:classification>wire_syndication</wire:classification>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/nvidia-h200-chips-reach-china-in-small-shipments-ft-reports-4866385</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>RBA’s Hauser warns of rate hike if inflation risks crystallize</title>
+      <link>https://www.investing.com/news/economy-news/rbas-hauser-warns-of-rate-hike-if-inflation-risks-crystallize-4866395</link>
+      <guid isPermaLink="false">f57c1c99801e7881b04f08e3</guid>
+      <pubDate>Wed, 19 Aug 2026 03:01:14 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:sourceId>investing_news</wire:sourceId>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:classification>wire_syndication</wire:classification>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/economy-news/rbas-hauser-warns-of-rate-hike-if-inflation-risks-crystallize-4866395</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>
