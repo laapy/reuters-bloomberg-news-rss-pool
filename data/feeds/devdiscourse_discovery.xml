@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Adevdiscourse.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 19 Aug 2026 22:55:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 23:26:47 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Escalating Tensions: Israeli Airstrikes in Gaza</title>
@@ -198,19 +198,20 @@ However, Reuters has not been able to confirm this battlefield report independen
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>US-South Korea Military Drills Scaled Back Amidst North Korean Tensions</title>
-      <link>https://www.devdiscourse.com/article/international/3965442-us-south-korea-military-drills-scaled-back-amidst-north-korean-tensions</link>
-      <guid isPermaLink="false">288ecdf65976257337891bd2</guid>
-      <pubDate>Tue, 18 Aug 2026 21:05:00 +0000</pubDate>
-      <description>The Ulchi Freedom Shield military exercises between the US and South Korea are being significantly reduced following a decision by US President Donald Trump. The drills, initially scheduled for August ...</description>
+      <title>Heidi Overton Tapped for Top FDA Role</title>
+      <link>https://www.devdiscourse.com/article/politics/3965388-heidi-overton-tapped-for-top-fda-role</link>
+      <guid isPermaLink="false">9928fa5b677dcba2f28bd911</guid>
+      <pubDate>Tue, 18 Aug 2026 17:35:00 +0000</pubDate>
+      <description>President Donald Trump has selected Heidi Overton to lead the FDA, according to Bloomberg. Overton currently serves as deputy director of the White House domestic policy council and worked at America ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>devdiscourse_discovery</wire:foundAt>
       <wire:platform>Devdiscourse</wire:platform>
-      <wire:relation>unknown</wire:relation>
+      <wire:relation>mention</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
+      <wire:confidence>0.86</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.devdiscourse.com/article/international/3965442-us-south-korea-military-drills-scaled-back-amidst-north-korean-tensions</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
+      <wire:canonicalUrl>https://www.devdiscourse.com/article/politics/3965388-heidi-overton-tapped-for-top-fda-role</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: according to Bloomberg</wire:evidence>
     </item>
   </channel>
 </rss>
