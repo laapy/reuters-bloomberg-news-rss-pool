@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
-    <title>Google News 日本 — Reuters/Bloomberg pool</title>
+    <title>Google News 日本 — diagnostic source feed</title>
     <link>https://news.google.com/rss/search?hl=ja&amp;gl=JP&amp;ceid=JP%3Aja&amp;q=%28%E3%83%AD%E3%82%A4%E3%82%BF%E3%83%BC+OR+%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%90%E3%83%BC%E3%82%B0%29+when%3A2d</link>
-    <description>Provenance-aware feed; classification fields distinguish exact wire copies from citations.</description>
+    <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 19 Aug 2026 07:42:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:48:30 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>ＳＫハイニックス、40兆ウォンの自社株買い・消却へ 株主還元強化 - ロイター</title>
@@ -13,9 +13,10 @@
       <guid isPermaLink="false">b47adf41a4d4e10913e1690b</guid>
       <pubDate>Wed, 19 Aug 2026 07:35:43 +0000</pubDate>
       <description>ＳＫハイニックス、40兆ウォンの自社株買い・消却へ 株主還元強化    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMigAFBVV95cUxPRjQ1akQtWlFNeENOcWMzc2NVNnp6eFNfc2tpZzBnVExmMHc0Qk51OUptQlJjODNGNWNBNXlfN24zdkc0bVlRbEdzLWt3OXd1eTVFZFQ1cFZTT1JsU0RuNXRxQmt2NmpPSnY3aDFud0tKRlczaUZtR0p2ZzBVdmNmTg?oc=5</wire:canonicalUrl>
@@ -27,9 +28,10 @@
       <guid isPermaLink="false">d6b35f05409912c2566022c8</guid>
       <pubDate>Wed, 19 Aug 2026 07:23:43 +0000</pubDate>
       <description>カールスバーグ、通期利益に強気 上半期は市場予想下回る    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidkFVX3lxTFBzMzgyc0RsbWtEYWdoSUlMemtYckRCUnliVDdWb0p3VDB4VjBZbGtUalFFVUFwYWk0OHZMZERWSHNEMUR2emFyb1NXc2VTZk5tV2JWenhQTm1MQ0ZwWG40aDNXVXFRcnFES09qQno0Q3RidGhMTGc?oc=5</wire:canonicalUrl>
@@ -41,9 +43,10 @@
       <guid isPermaLink="false">6afd97a77c95cc7a39c94a34</guid>
       <pubDate>Wed, 19 Aug 2026 07:23:13 +0000</pubDate>
       <description>カールスバーグ、通期利益に強気 上半期は市場予想下回る（ロイター）    Yahoo!ニュース</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMif0FVX3lxTE1hVjhMX0xiVV9seDRTSDBHVHRfWm5DdTFwOHhDT1NNMGhkaGxKMlhZVERIdmotRXI5TTJtTjNxOEdpdzBnUllwNjFtTkZGY21oN28zY1hEMmhUUVZLS0hORDZQSGhoN1RpblViZzNkeXQ2U1VERHBuWk9TajJnWTQ?oc=5</wire:canonicalUrl>
@@ -55,9 +58,10 @@
       <guid isPermaLink="false">94eef04fcafc32c6f46cc6cc</guid>
       <pubDate>Wed, 19 Aug 2026 07:21:44 +0000</pubDate>
       <description>訪日客、7月として最多344万人 夏季休暇で4カ月ぶりプラス    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMifkFVX3lxTE1SZzV4WHdkQTRXT21YcmE1akRhbHVNenhWZkEybHBvSWllWC1TLXV5QW1Hb1hNMXdHdmd3MXdWSDhQMGpka3dmSFlVbFM4bHJHYWlWRWZVaWdFb1E3TTdjUElUNUVKeGUxZTlDVDAtT3B6a2dlaTVTTFVOTlVOdw?oc=5</wire:canonicalUrl>
@@ -69,9 +73,10 @@
       <guid isPermaLink="false">9a75515ae0dfc31746c10f70</guid>
       <pubDate>Wed, 19 Aug 2026 07:20:52 +0000</pubDate>
       <description>訪日客、7月として最多344万人 夏季休暇で4カ月ぶりプラス（ロイター）    Yahoo!ニュース</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMif0FVX3lxTE1OOEVSTjRURUktY2lBY3lld2tnZ1AxOHZlZmp2NEcteTk3LXAyU0JWWDlNSmFDaVUyWi1qcENFdGRPXzM1X2xQZnBmdFh5WEtBVURKTUtMU2p6U0h6WFE0M1B4cEVYM2ZoZWQtV0pOUnk4STRHcG9ad2F1blJiQ00?oc=5</wire:canonicalUrl>
@@ -83,9 +88,10 @@
       <guid isPermaLink="false">6014b0d0f1d58b5667ac28c5</guid>
       <pubDate>Wed, 19 Aug 2026 07:15:44 +0000</pubDate>
       <description>中国の若年失業率、7月は17.9％ 11カ月ぶり高水準    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMigAFBVV95cUxNYk9BbW92VkJjSHBpZDhhVW81OWRFdmdIM1E4cmVqcS1QbDlEd0R2RVZrMzlBMXgxeWNBVDN4eHZXOTA3WDQzSFRmUE9XaTY3ZXBuWnJOejBWYmNYMER6aXNZbGpZUmdyLTY0WUs4d2FzSVRHZzQ1VGUzM1Uxakg4Tw?oc=5</wire:canonicalUrl>
@@ -97,9 +103,10 @@
       <guid isPermaLink="false">6d31e997368636bc4b4d1279</guid>
       <pubDate>Wed, 19 Aug 2026 07:13:45 +0000</pubDate>
       <description>東京株式市場・大引け＝大幅続落、ＡＩ株が下げ主導 金利先高観重し    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMigAFBVV95cUxPYzdkMGNUeHlpSEl2czNrNVNheEd6aDkyX3FDTUNfLU8zZXJpbHJpRWxyZzl4RlpfWERkQ1dFUGh4aTBnTG9JdUdYTHhsTTd1ODNMWkxUUnJtUy05Z0g1ZzhaZENjb053ZDZ1LThZTmJxYjJEaUNoSFVQUWJKOEthYw?oc=5</wire:canonicalUrl>
@@ -111,9 +118,10 @@
       <guid isPermaLink="false">39ae9ee66974eecbc8fbbbfc</guid>
       <pubDate>Wed, 19 Aug 2026 07:11:44 +0000</pubDate>
       <description>コンゴのエボラ感染者、5000人突破 世界2番目の規模    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMieEFVX3lxTE9LNlR6cEI0SWRsQ0JRV3lDNkdYQkpER2s1c3BxSlVNdURockdEcVV6VHp4NlVmc0RwV2piT3FudnpYbnZyTFROTWJPejFjUnE3U0xLSFZvcm1hRS1nRnpUV1JTNzFaZ1NsRlBHVFloYnlra09jTUJJYQ?oc=5</wire:canonicalUrl>
@@ -125,9 +133,10 @@
       <guid isPermaLink="false">fccf03cb38859f02b2024936</guid>
       <pubDate>Wed, 19 Aug 2026 07:04:29 +0000</pubDate>
       <description>ＩＣＣ赤根所長への米制裁は「大変残念」、日本外務省が報道官談話    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMigAFBVV95cUxOY3pzMTJhVzdxTlV2b0hlMHBQbmRueGpiZWJmT0JhWGNwYVBEN3czejZ2bjN1NEwweXJOUURpYXgzS3dMcHhJZEd6QzZxaHljNnlKMHYwQnRnT0NJTWEyRE8xT0VZcjNiUU82V0ZRbTg4LVVhc3BmQVhuMjNRWm44dw?oc=5</wire:canonicalUrl>
@@ -139,9 +148,10 @@
       <guid isPermaLink="false">f07b54e99269e32f3194f610</guid>
       <pubDate>Wed, 19 Aug 2026 07:01:43 +0000</pubDate>
       <description>赤根ＩＣＣ所長への米制裁、中谷元防衛相ら議員連盟が非難声明    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiekFVX3lxTE1KV2pFbmNPejVzRU5abXhELWR6WDU0RTZBd2lSSmRvckFYSU5ubWlwN0VHMm5Dckt1QzFfN0JXVHlwZlB3bnE0TDh0VE5aczUtZFFxbEZmOXRZamdORGgzX2ZVRHNNOU81bmtlc2xkRTNaS3AwRWxMS3p3?oc=5</wire:canonicalUrl>
@@ -153,9 +163,10 @@
       <guid isPermaLink="false">c9d094994ae45a95ba2c1dcd</guid>
       <pubDate>Wed, 19 Aug 2026 06:53:00 +0000</pubDate>
       <description>英ＣＰＩ、7月は＋2.9%に加速 電気ガス料金上昇で    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMigAFBVV95cUxOX0g5TXE3dnE0czBPN0c0dTlNVm1BZXNadmFxSi1Yb0xHV1lwblQzcFJTQXZKLWdEYWhHdzd4WXc1SURRbm1ZSjF4em1vZkhERUpwNnIwRmVWVktNSGFOdkp5OFRadXU2TUh5dmNrZnNjZnBhU1hFQzlyLXhvNFo5Rg?oc=5</wire:canonicalUrl>
@@ -167,9 +178,10 @@
       <guid isPermaLink="false">1a825ea32ee49578a6aed149</guid>
       <pubDate>Wed, 19 Aug 2026 06:49:03 +0000</pubDate>
       <description>中国南西部で豪雨、住宅倒壊などで10人死亡 2万人超が避難（ロイター）    Yahoo!ニュース</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMif0FVX3lxTFBLNy1BeGUwQnZGczNtYjgwaV9RX01BMGJiMVY5dTRuNVd0LWpKbUtna2ZhSUUyQlBlckcxU1UyWVdLVDJNTTk0YzNBal9lNG44enNxSklaYnFTNXczUHlyNnFHN3FEXzNSSzZJbnBsSVd0aGpxbEVNdzRTdTFXNWc?oc=5</wire:canonicalUrl>
@@ -181,12 +193,28 @@
       <guid isPermaLink="false">7e516e26c97f04e192506403</guid>
       <pubDate>Wed, 19 Aug 2026 06:49:00 +0000</pubDate>
       <description>中国南西部で豪雨、住宅倒壊などで10人死亡 2万人超が避難    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMifkFVX3lxTE1GSWRidDF3QWVkdExfaFVvdUdTeFc3cUdQWFU1MzgtZ0FiakYwNTc0UnhYbENKTVpRRXg3b21hRFBiOC1KTXk4NHh4UnJzcTg5M0pINmlrVDd0WjRyZGRTT2hDZkQ5MDROZ2JjVEF1eUNzQ0tqVl9zUTZJTmNQQQ?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>SKハイニックスのロゴ（ロイター＝共同） - 【韓国で株価乱高下】半導体上場投信が急拡大 高リスク取引、社会問題に - 写真・画像(3/3) - 西日本新聞me</title>
+      <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zVHEyaWlfd3djRE55LWZheEttX2paU0RybG1uNXRrcThuSVdMdjZGY09GbzF0VGpNUHFfZ09GeHBXUDRsMjMtLTFEV0NCVUgzT3ZvM1FPZw?oc=5</link>
+      <guid isPermaLink="false">04e65ceebf7e0d3bab66c2da</guid>
+      <pubDate>Wed, 19 Aug 2026 06:45:40 +0000</pubDate>
+      <description>SKハイニックスのロゴ（ロイター＝共同） - 【韓国で株価乱高下】半導体上場投信が急拡大 高リスク取引、社会問題に - 写真・画像(3/3)    西日本新聞me</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
+      <wire:platform>Google News 日本</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zVHEyaWlfd3djRE55LWZheEttX2paU0RybG1uNXRrcThuSVdMdjZGY09GbzF0VGpNUHFfZ09GeHBXUDRsMjMtLTFEV0NCVUgzT3ZvM1FPZw?oc=5</wire:canonicalUrl>
       <wire:evidence>google discovery query match only</wire:evidence>
     </item>
     <item>
@@ -195,9 +223,10 @@
       <guid isPermaLink="false">0357b584dce2a189fbc277e7</guid>
       <pubDate>Wed, 19 Aug 2026 06:26:00 +0000</pubDate>
       <description>チリＧＤＰ、第2四半期は前年比0.2％減 銅生産減で鉱業不振    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMigAFBVV95cUxNZFhDeVJXb0pLemNvTXFsd2twQUN1RnRrRE1hMmdTbmF5c3BuVW9odXE4VWhCS3hlakg1ZFVac3NXcmttZ0g4M2Fzd1puS0NWN0llOEJXNkZXS2ZfN3R0U2NzTjk5ZWRVTS14MXZmd3FPMGxPeWZqdUhQVUd4bG5ybQ?oc=5</wire:canonicalUrl>
@@ -209,9 +238,10 @@
       <guid isPermaLink="false">033e32f50be405379f198410</guid>
       <pubDate>Wed, 19 Aug 2026 06:21:00 +0000</pubDate>
       <description>午後3時のドルは159円前半、米金利高一服で上値重い 手掛かり不足    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMieEFVX3lxTE9GekYxZW5ILUg3V0pjRTVZQ3pGd2VmaDdSUDh3Rm5KLTNuVGJFQlh2alUwNnFycWNyVEhtRE15a3M3eTByWUR6NG9VV0tTN01XVHVKWHdQaUxXSmZ4QzZmQ09qVncwa3UwTWZGMXkteU04cmVEaElmYg?oc=5</wire:canonicalUrl>
@@ -223,9 +253,10 @@
       <guid isPermaLink="false">fe35cb7f4df67478ec09a137</guid>
       <pubDate>Wed, 19 Aug 2026 06:18:00 +0000</pubDate>
       <description>ベネズエラ産原油、半分は米国向け 双方に価値＝米エネ省次官    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiekFVX3lxTE9QLTM3a0pka05Db3JWdzUtWTNTZVdsWWhIeVdjemU1STNvYUVycm5mZ0JCMXZyd0lrSFpsNlFZMkUtbUU0TzlDMkpsa0FPT3NkRHI3VHkzdGVGeWc3NkVVUUNlVzVKeEZuQzAwV08yUVBRbEhBQ1JGNGZn?oc=5</wire:canonicalUrl>
@@ -237,9 +268,10 @@
       <guid isPermaLink="false">227cf37dded4d79eda762c23</guid>
       <pubDate>Wed, 19 Aug 2026 06:09:00 +0000</pubDate>
       <description>スイスフランキャリー取引に注目、日米の円買い協調介入受け    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMieEFVX3lxTFBuYzlqemhmSzZhZHRRRHZpOXhZLWhRMnpMdGR1U2tSdXQyaFo0QndwWURaVDBjV3ctY0Fqak9uTjhmOUN0QmtPWkJ5aUszVWtKU1hUU2JMNTl4UkhCTGNmOGFkbDg4Uko3dkZrV2V3Y09jS0RjUlBtag?oc=5</wire:canonicalUrl>
@@ -251,9 +283,10 @@
       <guid isPermaLink="false">f2a4b7f373bd8998cf922203</guid>
       <pubDate>Wed, 19 Aug 2026 05:49:00 +0000</pubDate>
       <description>米農務省、未開発森林保護規則の撤廃提案 山火事対策を理由に    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiekFVX3lxTE9vUXhaRE1BdEpHTTF0OXM5ZnltOUdqSlNNRmI5OVB1eUdNMXZ0SkdYNUlqT1l3UGFMbWhlMERVdnJnY201cVNOU0xtWHY2YVlmVU8yT3JRd1oybjZVMDBlS2F4Qll6RGoyay1oNDlFRndLdF9uNWFlY0pB?oc=5</wire:canonicalUrl>
@@ -265,9 +298,10 @@
       <guid isPermaLink="false">03d248315b5f14f2b1576945</guid>
       <pubDate>Wed, 19 Aug 2026 05:46:00 +0000</pubDate>
       <description>ＭＬＢ＝大谷、6年連続の30本塁打 岡本は球団新人記録25号    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMifkFVX3lxTE8wcXdYTzQ4S0lTSFBKdE82d2YyVWh3OWNoRWFzRk1CZmRVRThETXFZWGY2SVJRdVd1WFUxTldYeXhtTW4yX2QzaFBqWFZNYWhwUGJkMHcxeVBPQTZHRkM1MnZYZDRQbWJPb2t6OVdSdXk5aHVzcnRPd00weE5lUQ?oc=5</wire:canonicalUrl>
@@ -279,9 +313,10 @@
       <guid isPermaLink="false">3c903a4c5fbfd5abd1512dc9</guid>
       <pubDate>Wed, 19 Aug 2026 05:39:00 +0000</pubDate>
       <description>米ロサンゼルス港、7月取扱量が過去2番目の高水準    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiekFVX3lxTE92U05aSEFnWWc0YW1OeUJTYnNvajlLSUpKQk5EYUlqRFV1WnRQaVBWVVVjeTJhWEhQNmdTMDNfSEVnZ1NjcGVLVUpIWXVnNkRRR1Fva1ZzanVWcHlLbWM0VEFPaVN0UVFZd280ZDFydjRXTlN2cjR3d2dn?oc=5</wire:canonicalUrl>
@@ -293,9 +328,10 @@
       <guid isPermaLink="false">0f7303894a63a68853484eb8</guid>
       <pubDate>Wed, 19 Aug 2026 05:28:00 +0000</pubDate>
       <description>中国の海運大手2社、ホルムズ海峡でのタンカー運航を取りやめ    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMifkFVX3lxTE5FakNpdzBsWGx3eFNUTEFyR0l0UnRCNVNoV1hEYl9qdEZEbUpBQ1BBTXNrbWFyYW1MMlhxaGdFMy1qNzE3RU90R2RDaXI3NFViY2JELUdlMGtablJhOU84VDRQbUhJcVJVR1ZuOGZjT0tVendVdHpiVG9DNENrZw?oc=5</wire:canonicalUrl>
@@ -307,9 +343,10 @@
       <guid isPermaLink="false">5f2f8bfd4d9e2adc2f715568</guid>
       <pubDate>Wed, 19 Aug 2026 05:22:06 +0000</pubDate>
       <description>アジア債券、外国人資金流入が4カ月ぶり低水準 原油高の影響懸念（ロイター）    Yahoo!ニュース</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMif0FVX3lxTE5CbG5TZHhLeTRudHBQQllBOHMtSnpZQUVOSGNrQ3Z6X2l4bnZ6U3o1M2l6d3FxVUxLX0E0dmdSZElUYWZXRmtnX0pieFFKeFdGeE44M2U1cUVMb1I1VFRHUGdRZXp5ejZvZHU0ZGU5Q1gxU3JVY2NBalNCVmZFNTA?oc=5</wire:canonicalUrl>
@@ -321,9 +358,10 @@
       <guid isPermaLink="false">58203da4bdd31709c194b301</guid>
       <pubDate>Wed, 19 Aug 2026 05:22:00 +0000</pubDate>
       <description>アジア債券、外国人資金流入が4カ月ぶり低水準 原油高の影響懸念    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMieEFVX3lxTE80NzlORW5IQ1NkaVhaWUxacExTM2lnakFycmo0WFlObTdQTXBiLUM5dDhZWUQwWTl0cFNLMENMQ2ZXTXNtRGlNZlNvelFXMHN0T1B5LTV3VjI4aFA1VlJMdUp4WVk0MVF4eDE1R0I0emRaYll3Z2FVOA?oc=5</wire:canonicalUrl>
@@ -335,9 +373,10 @@
       <guid isPermaLink="false">adfcd7b18823a60e84c1b95e</guid>
       <pubDate>Wed, 19 Aug 2026 05:17:00 +0000</pubDate>
       <description>人道支援従事者への攻撃、昨年過去最多 ガザが最も危険＝国連    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMieEFVX3lxTE9nSnFUVmswYlh0cXpaM3FZZzdtRDF4dnlVYktRc2ZQclpianlNNGtIX0RaeXFHbHcyTkNZWWFtT2R2dVM1SFprckJYWlp6VmktYktoMkI3a3hQcjA1bTl3NjBVbDZYQ01PTXp2QmVWdzlkMkVZWEdhaA?oc=5</wire:canonicalUrl>
@@ -349,9 +388,10 @@
       <guid isPermaLink="false">52138e49bfb78eb134c81e32</guid>
       <pubDate>Wed, 19 Aug 2026 05:02:00 +0000</pubDate>
       <description>米連邦地裁、エチオピア人向け一時保護資格の政権による取り消しを容認    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiggFBVV95cUxPNG05M2pld0RtLXJpVGR5N0RENUZGWno4ZEJHRlo0LXlPV3ZVd1JoZ2xOSVNwalR6UVN3MDZ2NlVwUzBXbDRfRFB0NXAwVWt1QUVWdTNfUXJVMHVLR2wzajM0dndjUHhPVDlFbGRSaDZNYmR3dy1MTURwbVpKWDE5Smhn?oc=5</wire:canonicalUrl>
@@ -363,9 +403,10 @@
       <guid isPermaLink="false">b7f93b97a4d493f0e3648a3a</guid>
       <pubDate>Wed, 19 Aug 2026 04:57:00 +0000</pubDate>
       <description>アインライド、テスラ「セミ」トラック500台を保有車両に追加へ    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMieEFVX3lxTE03SFR1MDJMT3NRYVhYY0NnSFdWLWEyeWtsOTV5dkY2azh0cUhsbElyNjVoZFNiLVExM05qSk5GRmRQVUc1bjN2RzhHYU9yTjFLM2lfQ0oyNjczM25mdEFNMmJlcmNyQnNYMVNLNFR3LS1icVJyTmM4SQ?oc=5</wire:canonicalUrl>
@@ -377,9 +418,10 @@
       <guid isPermaLink="false">a2bddc1159d879f87913c5d3</guid>
       <pubDate>Wed, 19 Aug 2026 04:45:00 +0000</pubDate>
       <description>米ＡＩ半導体セレブラス、新型サーバーを発表 チャットボット処理を高速化    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMieEFVX3lxTE9yc3l5YlRYbUJOU2dKWjR5NVhpUW9CME1rTnNfYjdnNFZwQzdJb3c3S3o5SXRsamM3dEdWcDMweXUwN1RiU043YjJLWjVPMnFCNGQwQ3dqLVZmNWV1WmNlemNwZERNa2JfVXhZVVNPMllXc2dFMlp6bA?oc=5</wire:canonicalUrl>
@@ -391,9 +433,10 @@
       <guid isPermaLink="false">0bd48e2f00cda95270063fca</guid>
       <pubDate>Wed, 19 Aug 2026 04:30:00 +0000</pubDate>
       <description>後払い決済のクラーナ、第2四半期黒字転換 通期見通しは下方修正    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidkFVX3lxTE50cWM4bnNnRnphWHBzU1ZVQTA1blEtdVlzZE1JZTE3cEdld0Z2R2JpN2VMRmVXMW5TVEJZM1p2R0tIdm1ldDlZVnBWdzROOXBmNGhkUlFwQXBvWE1WYUlyNE9jOXpfYkxtdDJmWkZCNlNfc1J6d3c?oc=5</wire:canonicalUrl>
@@ -405,9 +448,10 @@
       <guid isPermaLink="false">b34b214b17608c6480d08b57</guid>
       <pubDate>Wed, 19 Aug 2026 04:24:00 +0000</pubDate>
       <description>米労組など、留学生・報道者ビザの滞在期間制限の差し止め求め提訴    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiggFBVV95cUxPd0FpOVVGVzhhQWQyNHJRalNpZkcwSTJSclp0dWpvaFphTUVsSEIzOGh3YzBLbmJua0RiQXpmMG55U1M1R2E1VlM0V3V6dmE1OTRocnJ3U3NZc2tpYU9ONkFURXFPbFlETGV1ZzJjQS1wdl9udGJUY3l1ZWE3aDh6YVhn?oc=5</wire:canonicalUrl>
@@ -419,9 +463,10 @@
       <guid isPermaLink="false">1a2a91d3b7c74f2d276610b5</guid>
       <pubDate>Wed, 19 Aug 2026 03:53:00 +0000</pubDate>
       <description>米ＦＤＡ長官に政権補佐官オーバートン氏指名へ＝関係筋    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMieEFVX3lxTE9VaDY2UnZsVlF6eGNJNW1DTmc4SGtpaFhHY3h5MlAwSTBoQURUUENyT2kxV1gzSHJ2Sm5CcVpVX1pNeVBFY0RqMEswenhPSF92bU54M01NNWF3TTZhcHBhRDFKcy1GMFBoU2IxQ3NRR3VHaXM3aDlHVg?oc=5</wire:canonicalUrl>
@@ -433,9 +478,10 @@
       <guid isPermaLink="false">b239394f500bf27efb721b4e</guid>
       <pubDate>Wed, 19 Aug 2026 03:22:00 +0000</pubDate>
       <description>Breakingviews - コラム：国債利回りが急上昇、株価に追い風の時代に幕    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ0RTUXE3Y1pUVEtHZW5QVUlPcHU0aElYUjNyeFJrRVZYYXRQWlE5R2hTNkc1eTZrVGNOYWowMXFhZ2dDN1haOERaaWVMYXU5Rm43QUVYQ0lUMHY5bkhWVjF5ckVWdVdCS0lOMFNyWG84cnduQ2tYakRvMkNzRmZxNnVHWUNzUVN0Rzgw?oc=5</wire:canonicalUrl>
@@ -447,9 +493,10 @@
       <guid isPermaLink="false">5b48dd50f4ce0feaddaa4d1b</guid>
       <pubDate>Wed, 19 Aug 2026 03:21:00 +0000</pubDate>
       <description>ＡＩチップの米エッチド、1カ月弱で企業価値210億ドルに倍増    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMigAFBVV95cUxPWmY4ODh5bk84bE8zUzdhUVdZRHVzVEtJaS1Sak9IQXNsUW1RU25tMTQzWXlfbkdJVjd3Y0JqT2FxZzhDakxraW1UYzNlbjQzSWt3Z0xmb19WV2xiSGhyMDRGN1hKak94c0thUnpkb1pLQWpLTzlkeC1VUllNaU8xaw?oc=5</wire:canonicalUrl>
@@ -461,9 +508,10 @@
       <guid isPermaLink="false">e9f22c156079aed15c4de9b5</guid>
       <pubDate>Wed, 19 Aug 2026 03:02:00 +0000</pubDate>
       <description>Breakingviews - コラム：アンソロピックの成長減速、ＩＰＯには好影響も    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOamFqcWRXMzhzbFFwM0VqbVdkMm0wU1hHdnJlREpvUFpVbXJQZTRFbFdCWTJrbUI4WTAwcHB0aDlPVmFPMnZhZEV5YWo5WDlWMlpwTk9KME9GQUhNOVVUTTdJY2tnYmJZUnpvSEJhcUxMOTlXNEZpT1RRV3Q1RWlkMnVneVJZclRwai1B?oc=5</wire:canonicalUrl>
@@ -475,9 +523,10 @@
       <guid isPermaLink="false">8f78f6fd46a8afa265c4526f</guid>
       <pubDate>Wed, 19 Aug 2026 03:01:00 +0000</pubDate>
       <description>午前の日経平均は大幅続落、米株安を嫌気 半導体株の下げ厳しい    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMigAFBVV95cUxQcVNpYkszbFFJMEY3ejkxTXRycWdFdkh0SlJBRE44dFh5M0VxSDNGQU9Nek8yTVlCazhINW5ET1lJWm85MXVCbTRmVHNjR3hLSkJ1bmotTk1xeG9Fc1U2aV9fNzVBMUJuVEV5ZmtXVFVuS2M2SEFQSWEteWtHV0ZOZA?oc=5</wire:canonicalUrl>
@@ -489,9 +538,10 @@
       <guid isPermaLink="false">cd942dac6376c8bd7d4df6f2</guid>
       <pubDate>Wed, 19 Aug 2026 02:51:00 +0000</pubDate>
       <description>コロンビア地震、保険対象損害額は10億―50億ドルか＝再保険会社    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMieEFVX3lxTE56aXJOeEJucjc4bjU4YjhLdlZUeHpmT2pQQTR4UWJiRVhXZ3ZyTEpEYjlKTms4RzdwWlRSZ3BMbXdlNnJ5MUhVb2lHd3pXWmhteFBQcmFkUFNsVWJEVy1XVUI5Yk9lLUZPdFhhSjJCTzNGWC1rZmVRTA?oc=5</wire:canonicalUrl>
@@ -503,9 +553,10 @@
       <guid isPermaLink="false">28e577c136d10c6ca5ece502</guid>
       <pubDate>Wed, 19 Aug 2026 02:41:00 +0000</pubDate>
       <description>アングル：米国債、投資家はより高いリターンを要求    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMilgFBVV95cUxPNTJ1d3c0d21NYUR0TFdLUS1tazRZOVhzekdzVHF3ZlZWaHpzN2lwWVZwS0JFX2gxdy1EeGtqWm9hUUM4akpBMjJwWXpxMlZpV2dHdHZ3R212clRxVVl6Z2U4SXdqX2NERHBuN3hTVWlESl9wRWUyU284REhuVWVVN3BHT2dMUEJXZzZDb1REdGhFallOUnc?oc=5</wire:canonicalUrl>
@@ -517,9 +568,10 @@
       <guid isPermaLink="false">fef305b2cdb2b28f50f760cd</guid>
       <pubDate>Wed, 19 Aug 2026 02:41:00 +0000</pubDate>
       <description>コロンビアＧＤＰ、第2四半期は前年比3.5％増 9月利上げ観測強まる    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMigAFBVV95cUxNT2ZVQjI0blNBNEhxc2MtMkVpS1BJbmJFMnR6UlFPbC1wTkROMkczY0VxRWc1WWRmWGNNVTMwRkhDVk1FTUFhTVFNU3F3eEVPV3prWkJaSXRfaWRYQlZGR3lhZEhjSlNSSmRoQjBNUnI1aHFCSzEzbktoZ0lHc0xWZw?oc=5</wire:canonicalUrl>
@@ -531,9 +583,10 @@
       <guid isPermaLink="false">2bc6052885d0bac2cc9ba263</guid>
       <pubDate>Wed, 19 Aug 2026 02:39:00 +0000</pubDate>
       <description>米、対カナダ50％関税を3日間停止 カーニー氏「重要作業残る」    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiekFVX3lxTFBhaWtac0x2WDNHdU16eVZET1Mxc3FnRVlMSnkzeFN4N21hNU1TeXgtZTJBTkZFWDVPU0dKYVZxZHNmNjJsUzdDcm5BSGhVblh0ekxzYkN3X2Vfb0s5RTNZMFFGWS04SmtLOHo4VkRUcXQyRmdRc2pjRDVn?oc=5</wire:canonicalUrl>
@@ -545,9 +598,10 @@
       <guid isPermaLink="false">e3cdeb26a54f1472e7e59584</guid>
       <pubDate>Wed, 19 Aug 2026 02:34:00 +0000</pubDate>
       <description>エヌビディア「Ｈ２００」、中国企業に納入 まずテンセントなど＝ＦＴ    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMieEFVX3lxTE1ORmpUQkZDaDMyNjRrNGJUcHEyTEtSWllBZzltU3AycU1xb1FuUF9XMEdIOU9zb0h4dElSVEdHcVJpN01TZTBxSkFUUFU3eER2dlJQN0dyTDNoM1pLaVlIZDJlOTgyTmhsMmg4YW1JaTFYM19mSVRYeg?oc=5</wire:canonicalUrl>
@@ -559,9 +613,10 @@
       <guid isPermaLink="false">6ecb6166c7d1a6410d4c78ca</guid>
       <pubDate>Wed, 19 Aug 2026 02:33:54 +0000</pubDate>
       <description>エヌビディア「Ｈ２００」、中国企業に納入 まずテンセントなど（ロイター）    Yahoo!ニュース</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMif0FVX3lxTE9TYlhwR1lfRm15ZUc2N1Zxb3Z5NS1FbGpLbmJLTmFrZGJTaU9rVnpKQl9rUXoydGliYUFwMlAtal96Q296S1hka1RXMk1lQkhFS2wyU25OeUlUY1VoOVpGSHg5eXdCUFAzdWhmclRIRl9oNjNYd2h1cTBiV3M3WG8?oc=5</wire:canonicalUrl>
@@ -573,9 +628,10 @@
       <guid isPermaLink="false">1eb802e6c7b84fbfe0669d12</guid>
       <pubDate>Wed, 19 Aug 2026 02:26:00 +0000</pubDate>
       <description>豪賃金、第2四半期も0.8％上昇 市場予想と一致    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMigAFBVV95cUxOdWg2ODNSTGM1V2stNnJYbll3WGljRWFVRnRXTThvM1FUek00YmFXeFNjTHAwczVQUXI5VmQyNVV2M0ZYaGlBWW1xWFpqTXdXNDZkVllodTZoZm5hbm0zN0xOTGRVaDFzby1BM1NMTWN2OHY3Ui1TQWMxRHcxLU84ag?oc=5</wire:canonicalUrl>
@@ -587,9 +643,10 @@
       <guid isPermaLink="false">8d7a552ad23a4d407216f9f4</guid>
       <pubDate>Wed, 19 Aug 2026 02:21:00 +0000</pubDate>
       <description>エアバス、貨物機Ａ３５０Ｆ試験飛行を9月下旬に予定＝関係筋    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMieEFVX3lxTE5wU3pJamVHNVV5aktxQ1BOSDlrTm1FeGNTZUdnY3djSjhRSHRCUy1CaEVyTVNMMDVmNEpIdEpRY1htSXp3T0RIMGlqaXl3WWtxUWdXY0pMdGc0VG8ya0xEQmRkY0k4Z2d1VHZKeXlCM2JlSnB3dElJQw?oc=5</wire:canonicalUrl>
@@ -601,9 +658,10 @@
       <guid isPermaLink="false">fd2e474134069815a703e8ef</guid>
       <pubDate>Wed, 19 Aug 2026 02:13:00 +0000</pubDate>
       <description>欧州周辺海域の記録的海水温上昇、人為的気候変動が主因＝研究者    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMieEFVX3lxTE0tQjdNel9TVHU1QkpTVDQ0cXZ5VGt5MWt2elMwSEIzTWgxLUpuN2ZWQjdvQWJubi1qX3gxRlh5b2dmXzVUQVU1VFowRm9PRWxpdkNtSlBacF9Zc2V3YmhXckEyNjNmcDlzMGFzenRwVFJMUVhTRmpHcQ?oc=5</wire:canonicalUrl>
@@ -615,9 +673,10 @@
       <guid isPermaLink="false">9035a40e3e7c4c53b070b2b4</guid>
       <pubDate>Wed, 19 Aug 2026 02:09:00 +0000</pubDate>
       <description>北京で開催の「世界ロボット大会」、テーマは経済的実用性に転化    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiekFVX3lxTE1QQjdWUk5RYnF4VTBlWHk2YXc2eS1BVV83eFRQa1pFLUlHNW16NWdSWndDR1p2ZEltMnQxeVpuYTBWWmRFSmhEVVgySV90UVpfNWRuLXd3SjZUcHhEZWEzWWZZSGhDVXphU1VVek5JME5xXzdrbUFVMmZn?oc=5</wire:canonicalUrl>
@@ -629,9 +688,10 @@
       <guid isPermaLink="false">fd059e4eec6d1b3d2d7b979d</guid>
       <pubDate>Wed, 19 Aug 2026 02:09:00 +0000</pubDate>
       <description>ヒト型ロボットメーカー宇樹科技が上海上場、初値は600％超高    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMigAFBVV95cUxPRjBhWnU5UkZrZEZpS3QzcHcwMUJOXzJfNDZuS3NjdDUwQi1YVm96R1VldGV1Q3V5T2I4ZzU3c1ZoUnY4Xzl2eUh4Y2EzdzlWN1RjeG8yVEtjQVI5dGQ5WWF3a3duSVZlZ05PZmhtZDkzVUl3SzlfQzJWakpvVkhuWQ?oc=5</wire:canonicalUrl>
@@ -643,9 +703,10 @@
       <guid isPermaLink="false">7bcfd1ba467e2dc9e998c260</guid>
       <pubDate>Wed, 19 Aug 2026 02:05:00 +0000</pubDate>
       <description>トランプ氏、韓国にイラン戦争支援や投資巡り圧力か 趙外相が見解    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiekFVX3lxTFB0NmdzeERSNUxsLVI1eFRxZHVVRTJGMmxFZ3hMZ000dW9RQlAwQms3ZWZ6emhyeUFVN0VSeUxaS0dEVm1idjRZN0pUQjFlQ0FSZEtaVWlpcHVLbU5zS2M1a056Umw1eDVNVk13TXMxSTZuR1I0enR0ZXZn?oc=5</wire:canonicalUrl>
@@ -657,9 +718,10 @@
       <guid isPermaLink="false">d3c649e0a3806380fcf49fb2</guid>
       <pubDate>Wed, 19 Aug 2026 01:59:00 +0000</pubDate>
       <description>中国企業がロケットブースターを回収、再利用技術で米2社に続く    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMieEFVX3lxTE9QUUotMFBTYVZoWmJzRFV3ZEplVzduZHpiS2x3dm5BbEdKRXRndkg5X2p0emkxRmp4d1ZVdFRsY2dlbWxlU2xZQzFfWE9naGg0VXdMeXhYNHpuRGFRMUNPOWZjcF9BTTZtTnUwREtnX2t4Zmdia1dPWQ?oc=5</wire:canonicalUrl>
@@ -671,9 +733,10 @@
       <guid isPermaLink="false">9e16cd6b23da96ca31528f08</guid>
       <pubDate>Wed, 19 Aug 2026 01:51:00 +0000</pubDate>
       <description>米陸軍、機動戦術砲供給業者に韓国ハンファ防衛部門を選定    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiekFVX3lxTE1hSzNWMzd1d3ZCVjFiVS1QVFBDMzFGWVRkOUhUZ1ctY3pUbnFPbkZleHdoNzBaQ0lxb3Y0bVVfX1QtZWJjX1B5SW5DR184MTMteEp0ZE1JWnpFMnpmb1VaXzV4TUNsbTFZbHVHUjRjTFROSkU5VUZwQ2V3?oc=5</wire:canonicalUrl>
@@ -685,9 +748,10 @@
       <guid isPermaLink="false">16c0912f0e66dc237f0d62d4</guid>
       <pubDate>Wed, 19 Aug 2026 01:49:00 +0000</pubDate>
       <description>テニス＝錦織、全米ＯＰ予選出場へ ワイルドカードで    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMifkFVX3lxTFBGa243TkFsclJxSFlDVWRJVUFKMUFHOEdTc0dFMm83bFVZZE5LQjNGVFdyam5tYkVkQ2dUS293SHBmY3JGaDFpYmZOdjhlWHJuZGdVdEFmU1k4VzlzSGVWd2Y5TENOYXExcGZfdkwzTXJjMmxLT3JXa0U3OTFpQQ?oc=5</wire:canonicalUrl>
@@ -699,9 +763,10 @@
       <guid isPermaLink="false">dc0a126ab1f0ab0bff9bab89</guid>
       <pubDate>Wed, 19 Aug 2026 01:49:00 +0000</pubDate>
       <description>テニス＝錦織、全米ＯＰ予選出場へ ワイルドカードで（ロイター）    Yahoo!ニュース</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMif0FVX3lxTE8yVkxyaU9tRnlQZldNbEx5X3V4dkJ5SXM2X1E3a3pMemk5emJvSDJYOXVkNjBPLXVmZHI5amRmSWF1RldDRXBTLWhJZUFCR3d3SVRfLXQxS0hNTnVkTjY5eVZtS3VLSG5FSkFjQUVnZzg2d1NxUVpLNjBIcXpUaGs?oc=5</wire:canonicalUrl>
@@ -713,9 +778,10 @@
       <guid isPermaLink="false">0b2ecfa351219c6a93d9bc79</guid>
       <pubDate>Wed, 19 Aug 2026 01:46:00 +0000</pubDate>
       <description>Ｆ１＝アルボン、ウィリアムズと契約延長 来季も残留    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMifkFVX3lxTE0wX3BibmNnLTRoWFg0eTIxQXZ1ZGdrOUVaN0RWRk9fQ0Z3alZhMHdMQkc2RHlqMnVsTWtHMHBwcS1SVzNNcVI4LU5JSVZPZUxHRXNmaTBDQkg0RV9pSUFwSUJRdDdvME0xLVZpYmpjLW53Tms4ZUFGTlNXV0Q5Zw?oc=5</wire:canonicalUrl>
@@ -727,9 +793,10 @@
       <guid isPermaLink="false">9e78dd1d82f076391cd2537f</guid>
       <pubDate>Wed, 19 Aug 2026 01:41:00 +0000</pubDate>
       <description>ＳＫハイニックス労組、賃金交渉で暫定合意へ 最終調整＝関係筋    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMieEFVX3lxTE96a0VRZm9VdGlIS0xHUXdXajZoNjJ3Z2M0alg4cXEtdzBaMy1pMjFQUkJONlk2d2gzN3BvSk9XUGp5UHp3SVRsdTBVVVJRMGJWVnN1T0k2cmxLYnBSdEpwdHZ2M3JwbTNfVldadW00SzVKTWtpNHVkeQ?oc=5</wire:canonicalUrl>
@@ -741,9 +808,10 @@
       <guid isPermaLink="false">3a4d211d99ed0eaff718a480</guid>
       <pubDate>Wed, 19 Aug 2026 01:25:43 +0000</pubDate>
       <description>スウェーデン、9月総選挙で政権交代か 中道左派野党の支持率が大幅優勢    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMieEFVX3lxTE1XX1pMNTd6c2xZUlFMQWEzTlNxd1dHeVBTaERsbHpmeE95SXMxWFdmdkFRZW9MYzFnR1dITEFMQkR3TFVvbFpWTE5qUzlEVnh3dXFFczROaXJseUpfenItWnBJcFdNblR2QklBSjNadHRZNlJKT1lJQw?oc=5</wire:canonicalUrl>
@@ -755,9 +823,10 @@
       <guid isPermaLink="false">1acb423dc83b9f863e27c7f4</guid>
       <pubDate>Wed, 19 Aug 2026 01:21:00 +0000</pubDate>
       <description>ＭＬＢ＝ドジャース守護神ディアスが再びＩＬへ、首の炎症    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMifkFVX3lxTE50UWszd2pQMVAtc2RCV3FzUE1UTmdNYkN3clNZcXJFUUo1MW5MRDltbUNMUzY3c0ZFY3RiZUk4X0s3QTB4ZExYSHJkc3V4UVFTU2xSaUkzdnlOYXRxTHNUTnlmMUdXWjYtdXZOcEh4SVBva0xmRDJyM3ExX3BMdw?oc=5</wire:canonicalUrl>
@@ -769,9 +838,10 @@
       <guid isPermaLink="false">4a9c354771071f829bda2792</guid>
       <pubDate>Wed, 19 Aug 2026 01:18:00 +0000</pubDate>
       <description>英経済成長巡る責務、「北の首相官邸」に移管へ─首相＝タイムズ    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMieEFVX3lxTE9QeHFJZHdpWjU0bUNJdzZ2Mno5VC0xbnoyTGZ5MzhTVzI4WFkzTGt3dEpVNkNPRHcydEtRNnBKQTNrdzV3YzZzc3FoaWx6ZFQ0VGJrcHVId1diN1p6MFIzMXFUbERVc09ibm5QZFNFX0ttenJzdlQ3RA?oc=5</wire:canonicalUrl>
@@ -783,9 +853,10 @@
       <guid isPermaLink="false">ef224983f65191c0e6321080</guid>
       <pubDate>Wed, 19 Aug 2026 01:16:00 +0000</pubDate>
       <description>サッカー＝カリャリＦＷ、プール事故後の人工的昏睡から回復    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMifkFVX3lxTE9ET3RIWGlFTlRmVEZBQVFOaTVXOWM3YU4xSTlzV1ItY3JjeFpUci1MYTI4eG1nZy1QZ1hVOVZhQUFrTmNIbFlZckdhYnJkOEpFbzBGQmRFcUJPUVFxTWhzYk9WaWJ3d3hpLURXYjRUa2NWa1Y3clh0MXJkS1p1dw?oc=5</wire:canonicalUrl>
@@ -797,9 +868,10 @@
       <guid isPermaLink="false">ec280a04deceed080a01838d</guid>
       <pubDate>Wed, 19 Aug 2026 00:56:00 +0000</pubDate>
       <description>米韓合同演習、11日間から5日間に短縮 トランプ氏の指示受け    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiekFVX3lxTE9IRi05Q0NOZDhkMzNhdFJlRzhpVEJfbnBDMlBoN0NfYjM5Q28wU3RReThCdmVzVjFXUVNfOUxCTVpjUGVkTHhBbjlYdWZQVVB2WG9vMDQwb2tFQ3BiRElYYU5nNWpTUTVkeWZyTUVxdFlxN3pZMXdMZjdB?oc=5</wire:canonicalUrl>
@@ -811,9 +883,10 @@
       <guid isPermaLink="false">dbcbad196e9ace20b926cc38</guid>
       <pubDate>Wed, 19 Aug 2026 00:51:33 +0000</pubDate>
       <description>機械受注6月は9.7％増、「持ち直しの動き」判断維持    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMigAFBVV95cUxOSkVVNWJPV1lVV01ROGFNeWo1LWVyU3VmTGpVM3RTLXpUM01aZjZaa19YXy1EMjBiM1ktYjl1Y3ZMZlVsRS1Fb3o2NzV2UkRMalA4ZHJJQWxMdklaVVFLX19xT2ZPU1FtMUtyXzItQ09KZ0pWSDNhdGNNZkplN1V1ZA?oc=5</wire:canonicalUrl>
@@ -825,9 +898,10 @@
       <guid isPermaLink="false">2fec32c716712c9e524ad797</guid>
       <pubDate>Wed, 19 Aug 2026 00:43:43 +0000</pubDate>
       <description>ＮＢＡ＝ジョーダン氏ユニホーム競売へ、98年ファイナル第3戦で着用    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMifkFVX3lxTE9saHVBbEtjczE2amNmUTZUQU11aFpNbC1fdDBqRVZnWjBhZWFkQ21pdVZtSmRDaWFicjFQSFJHemNvb1NCVUhETmwxWnNuWmNEUVJodHZzWEpTcUd4bnNraS1EOWEtWFAxNDBjWVlZbjlveHQ0SnE3dHlkQXhiZw?oc=5</wire:canonicalUrl>
@@ -839,9 +913,10 @@
       <guid isPermaLink="false">a6e0541fbb492c2121a29c3b</guid>
       <pubDate>Wed, 19 Aug 2026 00:40:00 +0000</pubDate>
       <description>米ペンシルベニア州、ＡＩデータセンター建設規制を厳格化    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiekFVX3lxTE5XdVRBUVJYZzdkS05hNUtzYnNzYmZzTjBWOThYRWxOQ29xREZMTE5fcGo5SzBrYkVXempUcl9UQ0pIaUt3cmZISk1VVms0cXlsSU9zZXowbFF5eEo1QVR0NDVlLVNzT09LZGxPbjdoVk12RGtfc2NncjZn?oc=5</wire:canonicalUrl>
@@ -853,9 +928,10 @@
       <guid isPermaLink="false">1fbc96afcb22d7d4336195da</guid>
       <pubDate>Wed, 19 Aug 2026 00:25:00 +0000</pubDate>
       <description>アンソロピック、創業者に特別議決権付与へ ＩＰＯ控え＝報道    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMieEFVX3lxTE5oc0NOMFRrbzU5amU2ZXZlSE5PT0hlci1ZM20tWDZFQXh4TWprRC12SDVYdE01U2JoY1kxTXUxa0pSVUtiLWhfQ2hKaWVGczVrOGxrWlBqTEtidFFWZXpyVDR1c1l6SlZzTUFVczVHVjdpeVQ3eS11Ug?oc=5</wire:canonicalUrl>
@@ -867,9 +943,10 @@
       <guid isPermaLink="false">53b1b22542421d0a65cbff4b</guid>
       <pubDate>Wed, 19 Aug 2026 00:20:00 +0000</pubDate>
       <description>米欧日で長期金利が数十年ぶり高水準 財政・インフレ懸念に警鐘    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiekFVX3lxTE9fdVNtSmJjZkVKanpKcHJvVzh4T0xseUlyZl9WdTV0U2FyNHRUMWs3d0oxZ0ZJTDhLZU1PTm9iUXFYbnlhaGtta05NOWgzT3RRMi13YUFMUzY3SW54VE1ORnNuUTMtUW5ZRmVQNF9CSFpzd29JdU4weWFB?oc=5</wire:canonicalUrl>
@@ -881,9 +958,10 @@
       <guid isPermaLink="false">f3e6c725519e4226977a6e3d</guid>
       <pubDate>Wed, 19 Aug 2026 00:18:00 +0000</pubDate>
       <description>日経平均は続落で寄り付く、米株安嫌気 半導体株中心に売り    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMigAFBVV95cUxOMjNFeUp6bVlWd3Y0QzZpTk5iRUpBbDFESXdDOWJVMDREcFdPUkRHaHVSb1JsZ1AzeGtZdExQM1VPUTBsb3d4S1dxZ3FGekk3TmNZUFRpRW9Sc3JUZnkzb2tobGxZN2RXSXUtdTV2QUtMZVQzc2VoVjVhVXFUN0wtZA?oc=5</wire:canonicalUrl>
@@ -895,9 +973,10 @@
       <guid isPermaLink="false">d8adc6ad9fc97a7c4db81361</guid>
       <pubDate>Wed, 19 Aug 2026 00:18:00 +0000</pubDate>
       <description>テニス＝ビーナス、ワイルドカードで全米オープン出場へ    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMifkFVX3lxTFBBdGZ2ZERVWnhqVjFUTndiMmRCb3hCLXdkY1dOMXgxMzNqOTRwWjlBSFJTcWpCWmpCcGMxMER4VUVuN0lIa28zdlVRaVR0SVFLRnRTZ01ScWxsaVVfTHlXX1Zwa2diUlNjcU8zVTdqRzRZTmk1VldEb3NBWk50Zw?oc=5</wire:canonicalUrl>
@@ -909,9 +988,10 @@
       <guid isPermaLink="false">123d68a6a67e6f8daa621779</guid>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
       <description>Tech selloff weighs down Wall Street as bond yields climb    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMid0FVX3lxTE1sQzVoWFp3ckFtY2k2RFA2aXY5ckgxd3JBMlhvdUw4MmJrZUdmenY3N2J2anFrVFk3RDMxWVNqUS1QY3RleTZ3d2xZYmZYV3pyaFVTSkYtNktFd1IxMzFUVWZmem52c2tiYWJMalJTUWxNdGVGUmY4?oc=5</wire:canonicalUrl>
@@ -923,9 +1003,10 @@
       <guid isPermaLink="false">34c3b7b2b5dce973124c2232</guid>
       <pubDate>Tue, 18 Aug 2026 23:59:43 +0000</pubDate>
       <description>米アップル、ＥＵ域内で代替アプリストア向け手数料を変更    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiekFVX3lxTE5SSzhMSURPMW5DOFNUZHAyMGM5SXVNUDZKUGxxbjFZSlQxNUM5NmNLTEY3N0wyNkN0RVNDX0FmNFBhWWhZNmdaQUtEYjQ2Zk1PWFVtSTFwZlBLNnRjcE8zUVZsc3VrUHpxNHJ4d09fRUdrc3NoaUI3VVZ3?oc=5</wire:canonicalUrl>
@@ -937,9 +1018,10 @@
       <guid isPermaLink="false">9b428520d117a3a830683e80</guid>
       <pubDate>Tue, 18 Aug 2026 23:53:23 +0000</pubDate>
       <description>ボードルアがＭＢＯ、米ベインが1株2970円でＴＯＢ    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMieEFVX3lxTFBnSDRtSlJsOEp3MmROM2FqMlFXYng4ai1hZTk5dWpxdmVhbWJVX19wZEQyaXJUNHJiMU5XWXFfaFdraDQwTlY1T19IWlUzOVpLRGRCeG5FSlVjSG1vUWNJdjU3ZXZwNEowMjNaVVpaUzc5OWI2a2ZOaQ?oc=5</wire:canonicalUrl>
@@ -951,9 +1033,10 @@
       <guid isPermaLink="false">ab3f1713e809eb193f9735d1</guid>
       <pubDate>Tue, 18 Aug 2026 23:45:00 +0000</pubDate>
       <description>米韓合同軍事演習、約半分に日程短縮へ＝韓国メディア    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiekFVX3lxTE42QkxGeVZtWXlrMExfbEQ4T3N1U3NxTkZub19MSUFFTkgwNWt5ZXFvN19tM1IzZmI0Uk1WdGNvUW16X09YelR3ekVLNHFVYWhPNFFxY3N6MTJ1XzlGblBKWnpoX0liTEhteWx4SUhfU09WbHRqaGpPbm1B?oc=5</wire:canonicalUrl>
@@ -965,9 +1048,10 @@
       <guid isPermaLink="false">701ae3cc9a95ac4a0a78cfc1</guid>
       <pubDate>Tue, 18 Aug 2026 23:43:44 +0000</pubDate>
       <description>サッカー＝バルセロナ、マンＣからロドリ獲得 Ｗ杯ＭＶＰ    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMifkFVX3lxTE9sbGtidXYtYVg3V2FXbVZjeklWNENOazYxbW9qY09XcExhdnZHRVYwMmpWcV9kbTgzY1RRWmxiMWw2cG42SHdFT2x0NEhieDRSeS1rQ0ktODZPaXRNS2Z0UUowbm1aS25BSlFlZWY3eU80VERaNDlDZi1WRFpTUQ?oc=5</wire:canonicalUrl>
@@ -979,9 +1063,10 @@
       <guid isPermaLink="false">411483f4a4ade5699743e435</guid>
       <pubDate>Tue, 18 Aug 2026 23:39:43 +0000</pubDate>
       <description>トランプ氏、金正恩総書記との年内会談を模索＝ＷＳＪ    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiggFBVV95cUxOSlpXemdacjRXR3dvclpyY3BmT3prR0FxWUg1ZTRWUE5jQTMwd3JyVndXZzN6ZnpZVnJVbWp2ZXRQN0E3Qy1qci1jdWRpT25kVUlwNU56RUlZUzJxZXdiMklCaVZ6a1huZ2ZiY3BqMi03VmJ3S2hYMnA2S0RvcmpQUTR3?oc=5</wire:canonicalUrl>
@@ -993,9 +1078,10 @@
       <guid isPermaLink="false">06261324e4572c4dd97b27e6</guid>
       <pubDate>Tue, 18 Aug 2026 23:32:57 +0000</pubDate>
       <description>ロシア、カザフ原油の輸出をバルト海から黒海へ変更    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMigAFBVV95cUxQUnpkbWVLUlhoNHhnMGFpVHk4bG43MHpfQk5VZ0FGb3RvT0txTDcyelF0UXVMU2l3dUhKUEVQekg0RFMwUDJ6Z1NwTlZnc3N5dV9COTNzNjJaUEQtVGdZaEkwRTN0dFpoMWRzVU1md3N4cUpReFppRHMtVnZFeVluRg?oc=5</wire:canonicalUrl>
@@ -1007,9 +1093,10 @@
       <guid isPermaLink="false">a6a46056b30f01032931cd49</guid>
       <pubDate>Tue, 18 Aug 2026 23:14:53 +0000</pubDate>
       <description>米メタ訴訟の審理開始、子ども依存の意図否定 29州が訴え    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMieEFVX3lxTE1XR0kzdzJMTS1Ccy1FZjliUTBHZWtJd0ZvT250ZEtfamJiQ3k0Y0RCNjkydUw2blVKVXpyakJlYXU4RnAwdUtvbzQwVTE5Yk12VWtQbEhGdDNjSUxjZ3E1MEpOREJJLXZIb3JSblBuWU5rWmplbmloag?oc=5</wire:canonicalUrl>
@@ -1021,9 +1108,10 @@
       <guid isPermaLink="false">d166d9afad093fbca25f482e</guid>
       <pubDate>Tue, 18 Aug 2026 23:08:46 +0000</pubDate>
       <description>今日の株式見通し＝軟調を想定、米株安受け売り優勢 半導体株が下げ先導    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMigAFBVV95cUxNUkp5RHUyRG9iOWk1emFZZ1FGMGh5ZHFSMDVkN2hoVnItc3MtREo0SWtpMDc0VTIyTlN3ZkxZWC1XSl95aktWSDhwR1l2eDNHWFhkcTJpRHJpWjJFa0N5YzVyc2hUMVZBaEp5OHJJcXhIQUJ5RFFDdS1odUFpeVhPOA?oc=5</wire:canonicalUrl>
@@ -1035,9 +1123,10 @@
       <guid isPermaLink="false">120ee15aee42c4ecb33d2e41</guid>
       <pubDate>Tue, 18 Aug 2026 23:07:38 +0000</pubDate>
       <description>イスラエル、シリア空軍基地を空爆 トルコ軍の駐留に言及    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiggFBVV95cUxNNHI3WFVEdE9vV3BHNTY0X2drZ3NXb2NqczlSYm5kVV9aXzF6Tlk1aFhaeV9vMXJzb2lyWnE1ZFVRMWJIUXlvQ2VucDVscXFIeHdUM0hlazVtUFM3U2M0ZmtRUG5uRnBwYjFuTE1vX1JQTTQzUzR0TVdVb3p4TGZyQk13?oc=5</wire:canonicalUrl>
@@ -1049,9 +1138,10 @@
       <guid isPermaLink="false">c9622d39fd83053ce20e376e</guid>
       <pubDate>Tue, 18 Aug 2026 23:03:45 +0000</pubDate>
       <description>People attend a vigil to remember former Cambridge professor Jason Arday, who died aged 41 on Friday after resigning amid plagirism allegations he denied, in London    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMinwFBVV95cUxQaVVlXy1FeFNGd0RCb2x2SlBBY0xBSWlvWnBzRzJHY3AwR0tSY1Q5dHEtaERJdEx2bWw5ZW9IODhRZVp2ZmRDd1Y2eVFXR2lYbEpXQTN6X1pUc1hxWDR4VXJtdDlEMC1tSmVwbWMyTE1NMlJ6dENXTEg3UGdVbW5FN3dQcnBJczY5azU0NkgyT2s4ak15eFlNRE9HRUJUNUk?oc=5</wire:canonicalUrl>
@@ -1063,9 +1153,10 @@
       <guid isPermaLink="false">107de7e9030896ca5bf4a016</guid>
       <pubDate>Tue, 18 Aug 2026 22:49:30 +0000</pubDate>
       <description>イランから弾道ミサイル2発とＵＡＥ、取引停止へ イランは否定    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiggFBVV95cUxOZDg0ZXRvZnhuX043dHZzcXVMb0dOSi1GTFpnbWZOZDAxRmJQU3psY3dNQmQxcTZ3NWVpWTdFOTJzMXdqdlA4SV9aYlVrSWxPMkhNbDFPMzk1RGtyaFZDcVZSV3hDMVhycFQ0XzZhelhENElxbmFGd3ZuZWpiZjdldDdB?oc=5</wire:canonicalUrl>
@@ -1077,9 +1168,10 @@
       <guid isPermaLink="false">1d376aca299944dd6b005194</guid>
       <pubDate>Tue, 18 Aug 2026 22:37:43 +0000</pubDate>
       <description>北朝鮮、米韓合同軍事演習を非難 トランプ氏には言及せず    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiggFBVV95cUxPTjhCMUIxWnhxTGMxVmR4a2ZvbHVmSnFwTTAzYkt5aDhZWnBRYVlselEwbjNJQ1hDLVMzZUk0b1I2X2dKSWNuS3o5N3l1Sk1kVzUwTGs2ZXJUaTZYVnVLZkNsU0M3ZjdsRC1FRWRHWl9jTGRkVXoySW11ZVV0LWIxSjJn?oc=5</wire:canonicalUrl>
@@ -1091,9 +1183,10 @@
       <guid isPermaLink="false">af4c0ef0ac02df624874c14b</guid>
       <pubDate>Tue, 18 Aug 2026 22:30:09 +0000</pubDate>
       <description>米ＳＥＣが暗号資産の新たな規制枠組み提案、業界待望の独自ルール整備へ前進    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMigAFBVV95cUxPTy1ycXpld3NvRFZRMDV1ZERCXzEwUDdhZkxHQmI3N3E3dFQ4MXhZb0szaUxFNElNVWcyc3lYMXB6SG5Fa2gzQnBFbjNsTDJ4LWpreGZGWUtYVkVmMXZwVWhUZ01UclFiLTNBZW1Ga3llRlRfZGh4VTU4UEhkcFVmeQ?oc=5</wire:canonicalUrl>
@@ -1105,9 +1198,10 @@
       <guid isPermaLink="false">46562a1c469af7e84610ec37</guid>
       <pubDate>Tue, 18 Aug 2026 21:24:00 +0000</pubDate>
       <description>更迭のウクライナ前国防相、戦時下での選挙実施を要求    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMigAFBVV95cUxOR19vUkwtcXRhNzV0N3JGcHFLV1pRMVVtUFRIOWV5M3BNLUtrQjZqR1VPZHh2QlR4RjJ3VlhDeGJGcVR0ZWNTZGJ0Y21VTHdYd0FxdEgxcGthWTNFenJSdUctalJReXNXaGNrUk1qWG1rOTdNTnI2NFVCZjBJWk0tcA?oc=5</wire:canonicalUrl>
@@ -1119,9 +1213,10 @@
       <guid isPermaLink="false">3361f7ff38acb27080f20957</guid>
       <pubDate>Tue, 18 Aug 2026 21:17:55 +0000</pubDate>
       <description>米国株式市場＝続落、ハイテク株が安い 中東不安で金利上昇    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMigAFBVV95cUxOX2YxRExyZTZlQWhMS0V3VFIxV2RsYThCNWFNQTVvRWp4cWdQZ0ZtTzZMbGVjRmFFMmRySW1pNGxYSzRHa1h2R1dzQ2QtUmFLOUZYejFST0wwWDExR0FyenBMc0F0YmsxYy1zXzZRdm5MTWd2RXBFeC05OHA2RGllUQ?oc=5</wire:canonicalUrl>
@@ -1133,9 +1228,10 @@
       <guid isPermaLink="false">6d90cc43efa502cdf7b85aa6</guid>
       <pubDate>Tue, 18 Aug 2026 21:15:43 +0000</pubDate>
       <description>ガザでイスラエル空爆、6人死亡 クシュナー氏中東訪問も和平停滞    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiekFVX3lxTE5nSmxvQ1dvd2VEOFY0UFF2aEFHVFJEYWVOWDM1aUNkTWNwaExyTThFS0I0eVRmX1ZjVlFkaTdxYy1KSF9lX1pYREkwOTNYVVRCSnJjLVpWR2RzbVhVMWhOVkplQUNwOTA2VEhsZUlSUmhfMFhGTlpGeWt3?oc=5</wire:canonicalUrl>
@@ -1147,9 +1243,10 @@
       <guid isPermaLink="false">ad3acb131fe2030f088e6d42</guid>
       <pubDate>Tue, 18 Aug 2026 21:01:31 +0000</pubDate>
       <description>ＮＹ外為市場＝ドル横ばい、ＦＲＢのハト派姿勢織り込む 対円159円台半ば    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMieEFVX3lxTE9UbjVoT01yUEtVRGtjT2hTMm1Bb1FyczBxcDFHYXJ6b2xjcUpxUFJsdS1ZZ1MtN21GTnBsR0xtNXkwU2taX25sT1l6WFJldDNiYmRQSklWaTZEUHN6bWgwdnoyQ1NXUWdQSDJVTjltdmg2MzVnTnJaTw?oc=5</wire:canonicalUrl>
@@ -1161,9 +1258,10 @@
       <guid isPermaLink="false">eca91ea2b575eb7567e51f6d</guid>
       <pubDate>Tue, 18 Aug 2026 20:41:43 +0000</pubDate>
       <description>原油先物3週間ぶり高値、米イラン和平交渉巡る期待後退    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMieEFVX3lxTE1FRE5KSDZwSGRtMFVRUlhqcUNYN0Z1T2pya2MzM3lYWDhkNVdWQWFvUHc5TjhweTdKOEJEX3lSeGx0RDA3cFQ5N25WMWt6NmhySGZjeHl0aHl1WkhtaTF3S1lvRHRINGV5SDZkQkhtOERFdW9VclZZTQ?oc=5</wire:canonicalUrl>
@@ -1175,9 +1273,10 @@
       <guid isPermaLink="false">237337f739243c98c0e01635</guid>
       <pubDate>Tue, 18 Aug 2026 20:23:39 +0000</pubDate>
       <description>ＡＩモデル開発を減速、オープンＡＩ 「暴走」受け試験体制など見直し    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMieEFVX3lxTE4zVEs4VFVhbzYyLWdiUWJNV3FMS3I1dS1BdUV6SkF3ZlgtX2NQeVE4RWFMV1ZlYi1teTYyZjZOMi1acEF3a1JMd2JXdVVFU1ZYYmppRS1yUGZCWWJOcjFLSU0yZ25MTDR3UG1Dc1A1dFluamo2MmFCdA?oc=5</wire:canonicalUrl>
@@ -1189,9 +1288,10 @@
       <guid isPermaLink="false">be259fd8eeddfba30739588b</guid>
       <pubDate>Tue, 18 Aug 2026 19:52:00 +0000</pubDate>
       <description>米、ＩＣＣ赤根所長らに制裁 ＩＣＣ「法の支配損なう」と反発    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiekFVX3lxTE5VdDZXU2tXbDBySEFVODhUNGVnRGFuNWtJekZUNjNnUTI4OTFwa2FfWm5UdS1NdHNtSU15S1VzMFhOMUpLaDRmdGVFdVczMnJ2QTF3WFBXdHJfdEFTSExZZVBKczZrMlFjV3BtV3hXSmNoTGpuSzA0ZzlR?oc=5</wire:canonicalUrl>
@@ -1203,9 +1303,10 @@
       <guid isPermaLink="false">014a93fe681d8ee3cd58ac48</guid>
       <pubDate>Tue, 18 Aug 2026 19:40:09 +0000</pubDate>
       <description>プーチン氏、ミャンマー大統領と会談 製油所建設やＬＮＧ供給巡り協議    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiggFBVV95cUxOekdPemh2NG9BMnprNjBvdW8yd3dGbkk4SEpzVjBSMlpjdFkwcDRlNGJfSjFyckFCaXl1QjVoVUFUX3djYm56aDZjUUZKekZqNTRSSVJJZHc4WWVEZFdMVVI0TVA4WmxBRUZKNW5RZi1RRV9iWGVSTTJIdG5HNmlJTER3?oc=5</wire:canonicalUrl>
@@ -1217,9 +1318,10 @@
       <guid isPermaLink="false">08e70653600be90f28066505</guid>
       <pubDate>Tue, 18 Aug 2026 19:14:44 +0000</pubDate>
       <description>エクアドル外交官バキ氏、国連総長選に出馬表明 候補者は8人に    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiekFVX3lxTFBUSFRuQVIzWENmbjl4R0l2cHlONERVTFY3R1F3QURCMkVnRVdOU0p1TGZ3b1VzVllxaGRuLUgtX0MzQll0ZXBVdkpfUV9Uc2g4WTdLaW9ncTVDQ2plendrT0czTlFDSGxlN3ZqbHcwQldvSE9waEM2bXF3?oc=5</wire:canonicalUrl>
@@ -1231,9 +1333,10 @@
       <guid isPermaLink="false">bca3dc737228ca25c8f39967</guid>
       <pubDate>Tue, 18 Aug 2026 18:14:33 +0000</pubDate>
       <description>英首相、ウクライナ「100％支援」と表明 ロシアの警告に反論    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMigAFBVV95cUxQeHF2SXlZT0JzNjYzVGdwZHkzZVhvcno0NE02NTNjanNXT0FZc0MxOV9vekwyMTJfU0RpU2ZDUjQ3cHlCMlBqYTZpTDZqYnA0VTJvYmlwZ1oxYnk4RHZtQ0ZtMDNGY1VoV0V2WXlrT1RZRDIxT3hXTEZsblhyZ3B2bw?oc=5</wire:canonicalUrl>
@@ -1245,9 +1348,10 @@
       <guid isPermaLink="false">7bfc10230831d1fa3a402703</guid>
       <pubDate>Tue, 18 Aug 2026 17:27:43 +0000</pubDate>
       <description>中国のデータ活用力、ＡＩ競争で優位となる可能性 米議会諮問機関が報告書    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiekFVX3lxTE5sbVBWNkNfeU1mRnZCMHkzTnpoVnF3cS0xY2RmQlEwV3dfdlJCc2Z0RmdTUmJzbjEtTnRubXk4M1J3S1JjRzB1b1lRaU0zQU13SHJFY2JLQklxRGRBdlhHZEhSRlE1M3ZodEFBMmJsYm1JVzhxWFd5aEZn?oc=5</wire:canonicalUrl>
@@ -1259,26 +1363,13 @@
       <guid isPermaLink="false">cb67b32ab3ca80c472e1f073</guid>
       <pubDate>Tue, 18 Aug 2026 16:38:26 +0000</pubDate>
       <description>ザポリージャ原発のバス停にドローン攻撃、1人死亡 運営側はウを非難    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMigAFBVV95cUxNU0FWNGEta0pneXZRTUQwLUcxZ0F6UmljUkVzOEpVTFNUVjJ0SDR1MFNIRURvQWJZVzlJczVnWUVFb1NtQkRpUzNiTUZyeU5OZGJEc2s5N3RLVE5uQXF1M0dmTm9keDVfMVNiTUVFWG4yS0RVZHJCRlBaQXJIQzRZag?oc=5</wire:canonicalUrl>
-      <wire:evidence>google discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>ディズニーとＡＢＣがＦＣＣ提訴、放送免許前倒し審査に反発 - ロイター</title>
-      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE9rTmRJN3lmYk56ekpUWVBramFzcjJqakJ6aFJDa0xaVmFUTGE4ZlJJbkxhSVRlNUxtbmVIMGk3dDRMbjdET3VFUXlreFo0S2xFZGR3UmZGa241dHcxSW5SZTB6MnJEUjNnakNzZU1yS2dRbDlHalZTdmNB?oc=5</link>
-      <guid isPermaLink="false">65bf2c0d3fa08b677be1bc84</guid>
-      <pubDate>Tue, 18 Aug 2026 15:15:00 +0000</pubDate>
-      <description>ディズニーとＡＢＣがＦＣＣ提訴、放送免許前倒し審査に反発    ロイター</description>
-      <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiekFVX3lxTE9rTmRJN3lmYk56ekpUWVBramFzcjJqakJ6aFJDa0xaVmFUTGE4ZlJJbkxhSVRlNUxtbmVIMGk3dDRMbjdET3VFUXlreFo0S2xFZGR3UmZGa241dHcxSW5SZTB6MnJEUjNnakNzZU1yS2dRbDlHalZTdmNB?oc=5</wire:canonicalUrl>
       <wire:evidence>google discovery query match only</wire:evidence>
     </item>
     <item>
@@ -1287,9 +1378,10 @@
       <guid isPermaLink="false">37f794c5b0ae2930cb55250a</guid>
       <pubDate>Tue, 18 Aug 2026 14:45:43 +0000</pubDate>
       <description>ホワイトハウス、トランプ氏の郵便投票擁護 「不正」批判も自ら利用    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiekFVX3lxTE5GRFA4bWJOcFVzdURtMktYNk14a3c3cEczMExzNlZkRjczTjVSdXNpUVd1aFY4Q1ZuRmFINzhMcXRTd3JGRmpRV2U0dW1MSWI3YjR5cXlJV1RpUFFWSEN1UGNTVEpVOE1TTXlXc2x2X1NaRU9HTWNUbm1n?oc=5</wire:canonicalUrl>
@@ -1301,9 +1393,10 @@
       <guid isPermaLink="false">9f832b7c71a7456ee6b73a88</guid>
       <pubDate>Tue, 18 Aug 2026 13:55:45 +0000</pubDate>
       <description>トランプ氏、イランとの協議「一切なし」 予定もされず    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiggFBVV95cUxOWTR6azBvV21qQ2xCSW92YUE2TlB2dHdBdC1KZjlQVmtZTk5uOXR4TmdIaHdpb1EtN0QxOElnanl1NXlNbVBjcnd3bVMxZUliXzRkcTNIVlcwSklDU1QtVmNETjZZQVlacGVXVWpiR2t4VlFCNkg5clhxcUtKR0FXSE93?oc=5</wire:canonicalUrl>
@@ -1315,9 +1408,10 @@
       <guid isPermaLink="false">97e9eeefedaf0d5f72c8322e</guid>
       <pubDate>Tue, 18 Aug 2026 10:59:48 +0000</pubDate>
       <description>ホルムズ海峡、米の覚書履行まで封鎖継続＝ガリバフ氏    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiggFBVV95cUxPMFpPWnlSYWpwOTZRZWhTbGMwWThnZUYyaU5paGJ6VVMybGJnUnNqVW5WdnV0M0NMZ2ZqaC1qV2xTb18ySmNuTVdMUVE3QTlVRHBQWlg3RkJScF9pVWR1S3gwdm05ay1IR2YxQWxkdkkxOWQ4aEM3RWZaS2c3LVBVNnd3?oc=5</wire:canonicalUrl>
@@ -1329,9 +1423,10 @@
       <guid isPermaLink="false">504607809cb59bcbe87c3299</guid>
       <pubDate>Tue, 18 Aug 2026 10:08:00 +0000</pubDate>
       <description>インタビュー：スエズ経由の調達開始、原油確保に支障なし＝出光興産社長    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiekFVX3lxTE92OGROcmtUc0VvSTNhV2xxWFk3d3NiVHQ0TUY5Vl9tZ2Q1NV9QeTZ6aDdETENLeWZvemxYRFhaR0RlTTBrX0RMZXNmamRQUDY4U3FkMU1GV0phRktWQVl5ZTRWYS1zODZWVnVjeFhDaEptSjZRWFBpWDNR?oc=5</wire:canonicalUrl>
@@ -1343,9 +1438,10 @@
       <guid isPermaLink="false">45a256a2a433813b8af3c50a</guid>
       <pubDate>Tue, 18 Aug 2026 09:20:09 +0000</pubDate>
       <description>ウクライナ北東部にロのミサイル攻撃、10人死亡    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMigAFBVV95cUxOUXR2VjViNzJtdXV1UDJXLUJFeDJiTUpXSDloYmM5UGRuRWdQbjhya2VkZUZadkVWdFFrdkxMVm5tRXVYdnJud3k0cGd1QTQtVjM5SV95cVFQUlhmbVYta01BR3A5aGRPZWhhNzMzUmkwNlZEM0ZvMkdmYVplT3FjWg?oc=5</wire:canonicalUrl>
@@ -1357,9 +1453,10 @@
       <guid isPermaLink="false">ea9b116560ea955765d1084c</guid>
       <pubDate>Tue, 18 Aug 2026 03:52:00 +0000</pubDate>
       <description>ホルムズ海峡で船舶に飛翔体命中、機関長死亡と英海事機関    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiggFBVV95cUxOQnJWMkpCTXAtb1lHMXUzQlBtUHZfdl94X3E1QlRyRlEwemctR21tQmFxTFNES1pSQXlIWG11VlR4QTMzczlHa1VGdmF5SnlEZVhNelNFQ0w1Mk1ER0lXTXhIZ0tleE9jUklPNDhkTHNBZGxETUxWYUtuTGR5b2cwLVZR?oc=5</wire:canonicalUrl>
@@ -1371,9 +1468,10 @@
       <guid isPermaLink="false">5fd3cf4d9c7443d4d3ef0913</guid>
       <pubDate>Tue, 18 Aug 2026 00:10:00 +0000</pubDate>
       <description>イラクのクルド人自治区首相府にドローン攻撃、死傷者なし    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiggFBVV95cUxPS1gtTWlCN21XLXpvRExoZVhhOU9VdVRZSHdTSnlWWDkySFdyVE9PemN1OGNUaERfS1FkZzNPRWNnZFIzbld3azZoTkU1THFDYUpKaktpd25oTHlzU1p1TVJGVHBGbnNuTXdERnhYeTVfMWN4WUEtTHgxX2RvbjE1V09n?oc=5</wire:canonicalUrl>
@@ -1385,9 +1483,10 @@
       <guid isPermaLink="false">5dee2d4fc9be0de3d382d47d</guid>
       <pubDate>Mon, 17 Aug 2026 19:43:00 +0000</pubDate>
       <description>トランプ氏支持率、過去最低33％ 8割がイラン関与長期化を予想＝調査    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiekFVX3lxTE9zLVd0Y0w5eURrcjNNLVlTRVZKRGQtODVIQmxhTFpCaWZTWEU1TFVJbFhsYW10OS1nLXJ6al9vaEY2M3U5VXRwN2lNcXJtaU5RYmpUV3VMSWdaUzJEdlZHeFVCZ09XVlg0RXBEZ1dvNlhQazJhZjJIZ1p3?oc=5</wire:canonicalUrl>
@@ -1399,9 +1498,10 @@
       <guid isPermaLink="false">c29e144cdbd62f2695d3130d</guid>
       <pubDate>Mon, 17 Aug 2026 09:39:43 +0000</pubDate>
       <description>ドイツ新興ヘルシング、陸自に攻撃型ドローン供給へ 楽天Ｇと連携    ロイター</description>
+      <wire:foundAt>google_news_jp_wire_pool</wire:foundAt>
       <wire:platform>Google News 日本</wire:platform>
-      <wire:sourceId>google_news_jp_wire_pool</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMieEFVX3lxTE9pc3d1ZnlaUEgzSHF0VFlUUFRJbXhLNEI4X3h3Q09LbDJnb1Q0eWJrVlVsUVkyZ0xsdUZ1LTYwc3VBcktZS3JvWWZyc1BTZTdsLVhQMVF0MklpSnlTTTUzRUsyNzgyWDdRa1V1RG13WFAxdUlEV1lyMQ?oc=5</wire:canonicalUrl>

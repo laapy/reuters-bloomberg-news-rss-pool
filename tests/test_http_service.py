@@ -19,13 +19,15 @@ class SearchTests(unittest.TestCase):
                 "title": "India central bank supports rupee", "summary": "RBI action",
                 "body": "", "publisher": "Reuters", "platform": "CNA",
                 "author": "Reuters", "source_id": "cna", "published": "2026-08-18T01:00:00Z",
-                "classification": "wire_syndication", "has_full_text": False,
+                "classification": "wire_syndication", "relation": "repost",
+                "found_at": "cna", "content_level": "summary", "has_full_text": False,
             },
             {
                 "title": "India market commentary", "summary": "Bloomberg reported the move",
                 "body": "full text", "publisher": "Bloomberg", "platform": "Example",
                 "author": "Desk", "source_id": "example", "published": "2026-08-18T02:00:00Z",
-                "classification": "discovery_candidate", "has_full_text": True,
+                "classification": "discovery_candidate", "relation": "unknown",
+                "found_at": "example", "content_level": "full", "has_full_text": True,
             },
         ]
 
@@ -44,12 +46,34 @@ class SearchTests(unittest.TestCase):
         self.assertEqual(len(rows), 1)
         self.assertEqual(rows[0]["platform"], "Example")
 
+    def test_compact_filters(self):
+        rows = search_items(self.items, "India", mode="all", relation="repost",
+                            found_at="cna", content_level="summary")
+        self.assertEqual(len(rows), 1)
+        self.assertEqual(rows[0]["publisher"], "Reuters")
+
 
 class HTTPIntegrationTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         cls.state = ServiceState(ROOT, workers=2, update_interval=1800,
                                  scheduler_enabled=False)
+        manifest_path = ROOT / "data" / "resource_pool.json"
+        cls.state._manifest = {
+            "schema_version": 2,
+            "summary": {"sources_total": 39, "items_total": 1},
+            "sources": [],
+            "items": [{
+                "id": "http-fixture", "title": "India fixture headline",
+                "link": "https://example.test/india", "summary": "RBI fixture",
+                "body": "", "publisher": "Reuters", "platform": "Fixture",
+                "author": "Reuters", "source_id": "fixture",
+                "found_at": "fixture", "published": "2026-08-18T01:00:00Z",
+                "classification": "wire_syndication", "relation": "repost",
+                "content_level": "summary", "has_full_text": False,
+            }],
+        }
+        cls.state._manifest_mtime = manifest_path.stat().st_mtime
         cls.server = PoolHTTPServer(("127.0.0.1", 0), cls.state)
         cls.port = cls.server.server_address[1]
         cls.thread = threading.Thread(target=cls.server.serve_forever, daemon=True)
@@ -88,7 +112,7 @@ class HTTPIntegrationTests(unittest.TestCase):
         self.assertEqual(ET.fromstring(payload).tag, "rss")
 
     def test_static_feed(self):
-        status, content_type, payload = self.get("/data/verified_all.xml")
+        status, content_type, payload = self.get("/data/deduplicated.xml")
         self.assertEqual(status, 200)
         self.assertIn("application/rss+xml", content_type)
         self.assertEqual(ET.fromstring(payload).tag, "rss")

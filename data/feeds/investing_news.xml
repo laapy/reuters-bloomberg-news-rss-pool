@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
-    <title>Investing.com — Reuters/Bloomberg pool</title>
+    <title>Investing.com — diagnostic source feed</title>
     <link>https://www.investing.com/rss/news.rss</link>
-    <description>Provenance-aware feed; classification fields distinguish exact wire copies from citations.</description>
+    <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 19 Aug 2026 07:42:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:48:30 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Exclusive-Chery’s robot unit eyes IPO, targets overseas market for police robots</title>
@@ -14,10 +14,11 @@
       <pubDate>Wed, 19 Aug 2026 07:24:31 +0000</pubDate>
       <description />
       <dc:creator>Reuters</dc:creator>
-      <wire:platform>Investing.com</wire:platform>
-      <wire:sourceId>investing_news</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
       <wire:confidence>0.99</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/exclusivecherys-robot-unit-eyes-ipo-targets-overseas-market-for-police-robots-4866533</wire:canonicalUrl>

@@ -1,5 +1,6 @@
 import json
 import sys
+import tempfile
 import unittest
 import xml.etree.ElementTree as ET
 from pathlib import Path
@@ -8,11 +9,16 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 
 from src.rss_pool import (  # noqa: E402
+    PoolBuilder,
+    apply_article_dimensions,
     build_rss,
     classify_wire_item,
     extract_json_object,
     generic_article_data,
+    parse_bitget_article,
     parse_rss,
+    parse_wordpress_posts,
+    sitemap_locations,
     unwrap_bing_link,
     yahoo_article_data,
 )
@@ -62,6 +68,17 @@ class ClassificationTests(unittest.TestCase):
             title="BNN Bloomberg market update", author="BNN Bloomberg"))
         self.assertEqual(result["classification"], "unrelated")
 
+    def test_compact_article_dimensions(self):
+        item = {
+            "source_id": "yahoo_news_jp_reuters", "platform": "Yahoo Japan",
+            "classification": "wire_syndication", "summary": "Short summary",
+            "body": "Full article paragraph " * 20,
+        }
+        apply_article_dimensions(item)
+        self.assertEqual(item["found_at"], "yahoo_news_jp_reuters")
+        self.assertEqual(item["relation"], "repost")
+        self.assertEqual(item["content_level"], "full")
+
 
 class ParserTests(unittest.TestCase):
     def test_extract_preloaded_state_with_braces_in_string(self):
@@ -96,6 +113,54 @@ class ParserTests(unittest.TestCase):
         self.assertEqual(result["author"], "Reuters")
         self.assertEqual(result["body"], "Full body text")
 
+    def test_cgsp_wordpress_post_keeps_wire_author_and_body(self):
+        posts = [{
+            "link": "https://chinaglobalsouth.com/a/", "date_gmt": "2026-08-18T01:00:00",
+            "title": {"rendered": "Reuters wire story"},
+            "excerpt": {"rendered": "<p>Short summary</p>"},
+            "content": {"rendered": "<p>Complete article body from the public API.</p>"},
+            "_embedded": {"author": [{"name": "Reuters"}]},
+        }]
+        spec = {"id": "cgsp_wire", "platform": "CGSP", "kind": "wordpress_rest",
+                "url": "https://chinaglobalsouth.com/wp-json/", "max_items": 10}
+        rows = parse_wordpress_posts(json.dumps(posts), spec)
+        self.assertEqual(rows[0]["author"], "Reuters")
+        self.assertIn("Complete article body", rows[0]["body"])
+        self.assertEqual(classify_wire_item(rows[0])["classification"], "wire_syndication")
+
+    def test_cgsp_locked_post_is_summary_only(self):
+        posts = [{
+            "link": "https://chinaglobalsouth.com/b/", "title": {"rendered": "Locked"},
+            "excerpt": {"rendered": "Public abstract"},
+            "content": {"rendered": "Lead. Subscribe or log in to read the rest of this content."},
+            "_embedded": {"author": [{"name": "Bloomberg"}]},
+        }]
+        spec = {"id": "cgsp_wire", "platform": "CGSP", "kind": "wordpress_rest",
+                "url": "https://chinaglobalsouth.com/wp-json/"}
+        row = parse_wordpress_posts(json.dumps(posts), spec)[0]
+        self.assertEqual(row["body"], "")
+        self.assertEqual(row["summary"], "Public abstract")
+
+    def test_bitget_sitemap_and_article_parser(self):
+        sitemap = '''<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+          <url><loc>https://www.bitget.com/news/detail/12560605538350</loc></url>
+        </urlset>'''
+        self.assertEqual(sitemap_locations(sitemap)[0],
+                         "https://www.bitget.com/news/detail/12560605538350")
+        page = '''<script type="application/ld+json">{
+          "@type":"NewsArticle","headline":"Bitget Reuters story",
+          "description":"Abstract","articleBody":"A sufficiently complete public article body.",
+          "author":{"name":"Reuters"},"datePublished":"2026-08-18T01:00:00Z"
+        }</script><script>{"detailProps":{"title":"Bitget Reuters story",
+          "contentText":"A sufficiently complete public article body.",
+          "sourceName":"Reuters","originPublishTime":"1787014800000"},
+          "trendingNewsProps":[]}</script>'''
+        spec = {"id": "bitget_news", "platform": "Bitget News",
+                "kind": "bitget_sitemap", "url": "https://www.bitget.com/sitemap.xml"}
+        row = parse_bitget_article(page, sitemap_locations(sitemap)[0], spec)
+        self.assertEqual(row["author"], "Reuters")
+        self.assertEqual(classify_wire_item(row)["classification"], "wire_syndication")
+
     def test_yahoo_finance_body(self):
         state = {
             "mainNewsArticleDetail": {
@@ -121,6 +186,80 @@ class ParserTests(unittest.TestCase):
         parsed = ET.fromstring(build_rss([row], "T", "https://example.test", "D"))
         self.assertEqual(parsed.tag, "rss")
         self.assertEqual(parsed.findtext("./channel/item/title"), "A & B")
+        namespace = {"wire": "urn:reuters-bloomberg-rss-pool:v1"}
+        self.assertEqual(parsed.findtext("./channel/item/wire:relation", namespaces=namespace),
+                         "repost")
+        self.assertEqual(parsed.findtext("./channel/item/wire:contentLevel", namespaces=namespace),
+                         "summary")
+
+
+class BuilderTests(unittest.TestCase):
+    @staticmethod
+    def config(path: Path) -> None:
+        path.write_text(json.dumps({"sources": [{
+            "id": "fixture_reuters", "platform": "Fixture Reuters", "kind": "rss",
+            "url": "https://example.test/rss", "owned_by": "Reuters", "max_items": 5,
+        }]}), encoding="utf-8")
+
+    @staticmethod
+    def row() -> dict:
+        return {
+            "id": "fixture-1", "title": "Fixture headline",
+            "link": "https://example.test/a", "canonical_url": "https://example.test/a",
+            "published": "2026-08-18T01:00:00Z", "summary": "Fixture summary",
+            "body": "Fixture full text paragraph " * 20, "author": "Reuters",
+            "creator": "", "byline": "", "media_name": "", "copyright": "",
+            "raw_description": "", "summary_source": "fixture", "body_source": "fixture",
+            "source_id": "fixture_reuters", "platform": "Fixture Reuters",
+            "source_kind": "rss", "owned_by": "Reuters",
+        }
+
+    def test_build_writes_four_primary_feeds_and_compact_fields(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            config = root / "sources.json"
+            output = root / "data"
+            self.config(config)
+            builder = PoolBuilder(config, output, workers=1, enrich=False)
+            builder.collect_source = lambda spec: ([self.row()], {
+                "source_id": spec["id"], "platform": spec["platform"],
+                "kind": spec["kind"], "url": spec["url"], "status": "ok",
+                "fetched": 1, "accepted": 0, "elapsed_seconds": 0.01,
+                "checked_at": "2026-08-18T01:00:00Z", "error": "",
+            })
+            manifest = builder.run()
+            self.assertEqual(manifest["schema_version"], 2)
+            self.assertEqual(manifest["items"][0]["relation"], "original")
+            self.assertEqual(manifest["items"][0]["content_level"], "full")
+            for filename in ("deduplicated.xml", "reuters.xml", "bloomberg.xml",
+                             "fulltext.xml"):
+                self.assertTrue((output / filename).is_file(), filename)
+            self.assertFalse((output / "wire_original.xml").exists())
+            self.assertEqual(json.loads((output / "last_attempt.json").read_text(
+                encoding="utf-8"))["status"], "published")
+
+    def test_failed_refresh_preserves_previous_manifest(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            config = root / "sources.json"
+            output = root / "data"
+            output.mkdir()
+            self.config(config)
+            previous = '{"sentinel":"last-good"}'
+            (output / "resource_pool.json").write_text(previous, encoding="utf-8")
+            builder = PoolBuilder(config, output, workers=1, enrich=False)
+            builder.collect_source = lambda spec: ([], {
+                "source_id": spec["id"], "platform": spec["platform"],
+                "kind": spec["kind"], "url": spec["url"], "status": "error",
+                "fetched": 0, "accepted": 0, "elapsed_seconds": 0.01,
+                "checked_at": "2026-08-18T01:00:00Z", "error": "fixture failure",
+            })
+            with self.assertRaisesRegex(RuntimeError, "last good snapshot preserved"):
+                builder.run()
+            self.assertEqual((output / "resource_pool.json").read_text(encoding="utf-8"),
+                             previous)
+            self.assertEqual(json.loads((output / "last_attempt.json").read_text(
+                encoding="utf-8"))["status"], "rejected")
 
 
 if __name__ == "__main__":

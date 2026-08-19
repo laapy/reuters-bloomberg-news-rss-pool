@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
-    <title>ThePrint — Reuters/Bloomberg pool</title>
+    <title>ThePrint — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Atheprint.in+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
-    <description>Provenance-aware feed; classification fields distinguish exact wire copies from citations.</description>
+    <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 19 Aug 2026 07:42:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:48:30 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Young Americans see more risk than reward in AI as job fears rise, study finds</title>
@@ -25,9 +25,10 @@ job loss&lt;/p&gt;&lt;p&gt;Facebook&lt;/p&gt;&lt;p&gt;Twitter&lt;/p&gt;&lt;p&gt;
 Please enter your comment!&lt;/p&gt;&lt;p&gt;Name:*
 Please enter your name here&lt;/p&gt;&lt;p&gt;Email:*
 You have entered an incorrect email address!&lt;/p&gt;&lt;p&gt;Please enter your email address here&lt;/p&gt;&lt;p&gt;Save my name, email, and website in this browser for the next time I comment.&lt;/p&gt;&lt;p&gt;Δ&lt;/p&gt;&lt;p&gt;--&amp;gt;&lt;/p&gt;&lt;p&gt;--&amp;gt;&lt;/p&gt;&lt;p&gt;Most Popular&lt;/p&gt;&lt;p&gt;NTA revamps exam team, 600 subject experts removed after UGC-NET paper errors&lt;/p&gt;&lt;p&gt;Fareeha Iftikhar - August 19, 2026&lt;/p&gt;&lt;p&gt;Telangana’s Section 22A mess: How thousands of acres of private property landed up in ‘prohibited’ list&lt;/p&gt;&lt;p&gt;Deepika Amirapu - August 19, 2026&lt;/p&gt;&lt;p&gt;Why renewed US-Pakistan engagement is making Chinese analysts uneasy&lt;/p&gt;&lt;p&gt;Sana Hashmi - August 19, 2026&lt;/p&gt;</content:encoded>
+      <wire:foundAt>theprint_discovery</wire:foundAt>
       <wire:platform>ThePrint</wire:platform>
-      <wire:sourceId>theprint_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -51,9 +52,10 @@ US-Canada&lt;/p&gt;&lt;p&gt;Facebook&lt;/p&gt;&lt;p&gt;Twitter&lt;/p&gt;&lt;p&gt
 Please enter your comment!&lt;/p&gt;&lt;p&gt;Name:*
 Please enter your name here&lt;/p&gt;&lt;p&gt;Email:*
 You have entered an incorrect email address!&lt;/p&gt;&lt;p&gt;Please enter your email address here&lt;/p&gt;&lt;p&gt;Save my name, email, and website in this browser for the next time I comment.&lt;/p&gt;&lt;p&gt;Δ&lt;/p&gt;&lt;p&gt;--&amp;gt;&lt;/p&gt;&lt;p&gt;--&amp;gt;&lt;/p&gt;&lt;p&gt;Most Popular&lt;/p&gt;&lt;p&gt;NTA revamps exam team, 600 subject experts removed after UGC-NET paper errors&lt;/p&gt;&lt;p&gt;Fareeha Iftikhar - August 19, 2026&lt;/p&gt;&lt;p&gt;Telangana’s Section 22A mess: How thousands of acres of private property landed up in ‘prohibited’ list&lt;/p&gt;&lt;p&gt;Deepika Amirapu - August 19, 2026&lt;/p&gt;&lt;p&gt;Why renewed US-Pakistan engagement is making Chinese analysts uneasy&lt;/p&gt;&lt;p&gt;Sana Hashmi - August 19, 2026&lt;/p&gt;</content:encoded>
+      <wire:foundAt>theprint_discovery</wire:foundAt>
       <wire:platform>ThePrint</wire:platform>
-      <wire:sourceId>theprint_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -64,25 +66,16 @@ You have entered an incorrect email address!&lt;/p&gt;&lt;p&gt;Please enter your
       <title>Climate change is driving record heat in Europe’s seas, scientists say</title>
       <link>https://theprint.in/world/climate-change-is-driving-record-heat-in-europes-seas-scientists-say/3018841/</link>
       <guid isPermaLink="false">d168b035f088e6a78314f16f</guid>
-      <pubDate>Tue, 18 Aug 2026 23:30:05 +0000</pubDate>
+      <pubDate>Tue, 18 Aug 2026 16:30:00 +0000</pubDate>
       <description>Human-caused climate change was the main driver of recent record-breaking sea temperatures around Europe, scientists said on Wednesday, warning of severe ...</description>
-      <dc:creator>Reuters</dc:creator>
-      <content:encoded>&lt;p&gt;Home World Climate change is driving record heat in Europe&amp;#x27;s seas, scientists say&lt;/p&gt;&lt;p&gt;World&lt;/p&gt;&lt;p&gt;Climate change is driving record heat in Europe’s seas, scientists say&lt;/p&gt;&lt;p&gt;Reuters&lt;/p&gt;&lt;p&gt;19 August, 2026 05:00 am IST&lt;/p&gt;&lt;p&gt;Facebook&lt;/p&gt;&lt;p&gt;Twitter&lt;/p&gt;&lt;p&gt;WhatsApp&lt;/p&gt;&lt;p&gt;Linkedin&lt;/p&gt;&lt;p&gt;(c) Copyright Thomson Reuters 2026&lt;/p&gt;&lt;p&gt;Follow Us :&lt;/p&gt;&lt;p&gt;Text Size:
-A-
-A+&lt;/p&gt;&lt;p&gt;--&amp;gt;&lt;/p&gt;&lt;p&gt;By Kate Abnett
-BRUSSELS, Aug 19 (Reuters) – Human-caused climate change was the main driver of recent record-breaking sea temperatures around Europe, scientists said on Wednesday, warning of severe consequences for marine ecosystems and coastal communities.&lt;/p&gt;&lt;p&gt;Europe’s seas have not escaped the extreme heat that many countries have endured this summer. Last month, the average temperature in the Mediterranean was 27 degrees Celsius (81 degrees Fahrenheit), the highest for any July on record, while an offshore buoy near Mallorca recorded 33 C in early August.&lt;/p&gt;&lt;p&gt;Human-caused climate change has added about 2 C of warming to the Mediterranean and around 1.4 C to Western European seas, according to an analysis by the World Weather Attribution (WWA) group, which uses peer-reviewed methods to assess global warming’s role in extreme weather events.&lt;/p&gt;&lt;p&gt;Show Full Article&lt;/p&gt;&lt;p&gt;“This has the potential to completely reshape ecosystems that coastal communities rely on for food and income, and drive damaging extreme weather on land too,” said Claire Bergin, a climate scientist at Ireland’s Maynooth University and a co-author of the study.&lt;/p&gt;&lt;p&gt;The analysis found that peak sea temperatures recorded this year in the eastern and western Mediterranean and along the Bay of Biscay and Iberian coast would have been “virtually impossible” without human-caused climate change.&lt;/p&gt;&lt;p&gt;In the Celtic Sea, off Britain and Ireland, the most extreme temperatures recorded would have been expected only about once a century in a world without human-caused climate change, it found.&lt;/p&gt;&lt;p&gt;Hotter seas increase humidity and overnight temperatures in coastal areas and can help fuel intense storms later in the year.&lt;/p&gt;&lt;p&gt;Greenhouse gas emissions, mainly from burning fossil fuels, have raised the planet’s average temperature to around 1.4 C above pre-industrial levels, according to the World Meteorological Organization. This hotter baseline means the high-pressure atmospheric systems that cause heatwaves can reach higher temperatures.&lt;/p&gt;&lt;p&gt;Sea temperature spikes can cause mass die-offs of species such as corals and disrupt food supplies for birds and mammals, with knock-on effects through food chains.&lt;/p&gt;&lt;p&gt;John Bruno, a marine ecologist at the University of North Carolina, said some species were moving north to seek cooler waters, but not all could adapt.&lt;/p&gt;&lt;p&gt;“We are rapidly approaching the absolute biological limits of adaptation for many species,” he said.&lt;/p&gt;&lt;p&gt;According to the WWA analysis, about 90% of the Bay of Biscay and 80% of the western Mediterranean have experienced marine heatwave conditions this year. Without global warming, that figure would have been closer to 40%.&lt;/p&gt;&lt;p&gt;(Reporting by Kate Abnett. Editing by Mark Potter)&lt;/p&gt;&lt;p&gt;Disclaimer: This report is auto generated from the Reuters news service. ThePrint holds no responsibility for its content.&lt;/p&gt;&lt;p&gt;--&amp;gt;&lt;/p&gt;&lt;p&gt;--&amp;gt;&lt;/p&gt;&lt;p&gt;--&amp;gt;&lt;/p&gt;&lt;p&gt;--&amp;gt;&lt;/p&gt;&lt;p&gt;Subscribe to our channels on YouTube , Telegram &amp;amp; WhatsApp&lt;/p&gt;&lt;p&gt;Support Our Journalism&lt;/p&gt;&lt;p&gt;India needs fair, non-hyphenated and questioning journalism, packed with on-ground reporting. ThePrint – with exceptional reporters, columnists and editors – is doing just that.&lt;/p&gt;&lt;p&gt;Sustaining this needs support from wonderful readers like you.&lt;/p&gt;&lt;p&gt;Whether you live in India or overseas, you can take a paid subscription by clicking here .&lt;/p&gt;&lt;p&gt;Support Our Journalism&lt;/p&gt;&lt;p&gt;Tags&lt;/p&gt;&lt;p&gt;Facebook&lt;/p&gt;&lt;p&gt;Twitter&lt;/p&gt;&lt;p&gt;WhatsApp&lt;/p&gt;&lt;p&gt;Linkedin&lt;/p&gt;&lt;p&gt;LEAVE A REPLY Cancel&lt;/p&gt;&lt;p&gt;Comment:
-Please enter your comment!&lt;/p&gt;&lt;p&gt;Name:*
-Please enter your name here&lt;/p&gt;&lt;p&gt;Email:*
-You have entered an incorrect email address!&lt;/p&gt;&lt;p&gt;Please enter your email address here&lt;/p&gt;&lt;p&gt;Save my name, email, and website in this browser for the next time I comment.&lt;/p&gt;&lt;p&gt;Δ&lt;/p&gt;&lt;p&gt;--&amp;gt;&lt;/p&gt;&lt;p&gt;--&amp;gt;&lt;/p&gt;&lt;p&gt;Most Popular&lt;/p&gt;&lt;p&gt;Who are Tariq Mansoor &amp;amp; Basit Ali, Muslim faces from UP part of BJP chief Nitin Nabin’s new team&lt;/p&gt;&lt;p&gt;Prashant Srivastava - August 18, 2026&lt;/p&gt;&lt;p&gt;Why India’s Russian oil supplies are set to decline in August&lt;/p&gt;&lt;p&gt;Udit Bubna - August 18, 2026&lt;/p&gt;&lt;p&gt;Goa beyond beachrot—inland hotels are the next vacation frontier&lt;/p&gt;&lt;p&gt;Karanjeet Kaur - August 18, 2026&lt;/p&gt;</content:encoded>
+      <wire:foundAt>theprint_discovery</wire:foundAt>
       <wire:platform>ThePrint</wire:platform>
-      <wire:sourceId>theprint_discovery</wire:sourceId>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
-      <wire:confidence>0.99</wire:confidence>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://theprint.in/world/climate-change-is-driving-record-heat-in-europes-seas-scientists-say/3018841/</wire:canonicalUrl>
-      <wire:evidence>structured credit: Reuters</wire:evidence>
+      <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
       <title>DOJ unseals new charges against 17 hackers in Iran-backed campaign</title>
@@ -90,9 +83,10 @@ You have entered an incorrect email address!&lt;/p&gt;&lt;p&gt;Please enter your
       <guid isPermaLink="false">67fd0588239f9e2adcd67ad6</guid>
       <pubDate>Tue, 18 Aug 2026 13:00:00 +0000</pubDate>
       <description>The U.S. Department of Justice on Tuesday unsealed new and updated charges against 17 individuals working with an Iranian company that it alleges carried out hacks and ...</description>
+      <wire:foundAt>theprint_discovery</wire:foundAt>
       <wire:platform>ThePrint</wire:platform>
-      <wire:sourceId>theprint_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://theprint.in/world/doj-unseals-new-charges-against-17-hackers-in-iran-backed-campaign/3018815/</wire:canonicalUrl>
@@ -104,9 +98,10 @@ You have entered an incorrect email address!&lt;/p&gt;&lt;p&gt;Please enter your
       <guid isPermaLink="false">2317277f7d3b81d817aeec1e</guid>
       <pubDate>Tue, 18 Aug 2026 07:06:00 +0000</pubDate>
       <description>For die-hard Modi supporters who couldn’t care less about institutions, a new study shows that India’s per capita income was 10% lower under Modi than it might otherwise have been.</description>
+      <wire:foundAt>theprint_discovery</wire:foundAt>
       <wire:platform>ThePrint</wire:platform>
-      <wire:sourceId>theprint_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://theprint.in/opinion/modi-india-governance-economic-growth-study/3018487/</wire:canonicalUrl>
@@ -118,9 +113,10 @@ You have entered an incorrect email address!&lt;/p&gt;&lt;p&gt;Please enter your
       <guid isPermaLink="false">b98296f44aa4097694a5e7c2</guid>
       <pubDate>Tue, 18 Aug 2026 03:00:00 +0000</pubDate>
       <description>The Strait of Hormuz will remain shut until the U.S. meets the conditions of an interim deal signed with Iran in June, the top Iranian negotiator Mohammad Baqer Qalibaf said ...</description>
+      <wire:foundAt>theprint_discovery</wire:foundAt>
       <wire:platform>ThePrint</wire:platform>
-      <wire:sourceId>theprint_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://theprint.in/world/hormuz-strait-to-remain-shut-until-u-s-meets-interim-deal-conditions-iran-says/3018162/</wire:canonicalUrl>
@@ -132,9 +128,10 @@ You have entered an incorrect email address!&lt;/p&gt;&lt;p&gt;Please enter your
       <guid isPermaLink="false">c540a6fd5e46ca5ec25c40e8</guid>
       <pubDate>Tue, 18 Aug 2026 03:00:00 +0000</pubDate>
       <description>Russia delivered a strong protest to Japan's ambassador to Moscow on Tuesday over what it called anti-Russian remarks by Prime Minister Sanae Takaichi in a dispute over a ...</description>
+      <wire:foundAt>theprint_discovery</wire:foundAt>
       <wire:platform>ThePrint</wire:platform>
-      <wire:sourceId>theprint_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://theprint.in/world/russia-protests-to-japanese-ambassador-over-takaichis-anti-russian-remarks/3018165/</wire:canonicalUrl>
@@ -146,9 +143,10 @@ You have entered an incorrect email address!&lt;/p&gt;&lt;p&gt;Please enter your
       <guid isPermaLink="false">3d769ae87c685bc2f12f7161</guid>
       <pubDate>Tue, 18 Aug 2026 02:30:00 +0000</pubDate>
       <description>By Mark John and Yoruk Bahceli LONDON, Aug 18 (Reuters) - Someone will have to pick up the tab for the damage wrought by Europe's increasingly volatile weather, and with the ...</description>
+      <wire:foundAt>theprint_discovery</wire:foundAt>
       <wire:platform>ThePrint</wire:platform>
-      <wire:sourceId>theprint_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://theprint.in/world/climate-damage-the-next-hit-to-europes-public-finances/3018138/</wire:canonicalUrl>
@@ -160,9 +158,10 @@ You have entered an incorrect email address!&lt;/p&gt;&lt;p&gt;Please enter your
       <guid isPermaLink="false">bdae228ef81d5247edc21961</guid>
       <pubDate>Tue, 18 Aug 2026 01:30:00 +0000</pubDate>
       <description>The Supreme Court of Pakistan ordered on Tuesday that former Prime Minister Imran Khan be moved to hospital from jail, his Pakistan Tehreek-e-Insaf party said, meeting a ...</description>
+      <wire:foundAt>theprint_discovery</wire:foundAt>
       <wire:platform>ThePrint</wire:platform>
-      <wire:sourceId>theprint_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://theprint.in/world/pakistan-top-court-orders-ex-pm-imran-khan-be-moved-to-hospital-from-jail-his-party-says/3018063/</wire:canonicalUrl>
@@ -174,9 +173,10 @@ You have entered an incorrect email address!&lt;/p&gt;&lt;p&gt;Please enter your
       <guid isPermaLink="false">dc516ba802074b6af1f42fea</guid>
       <pubDate>Mon, 17 Aug 2026 20:30:00 +0000</pubDate>
       <description>Ship crossings via the Strait of Hormuz were still in single digits on Monday, despite rising slightly from the weekend, according to preliminary shipping data on Tuesday ...</description>
+      <wire:foundAt>theprint_discovery</wire:foundAt>
       <wire:platform>ThePrint</wire:platform>
-      <wire:sourceId>theprint_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://theprint.in/world/hormuz-crossings-rise-slightly-from-weekend-remain-in-single-digits-data-shows/3017815/</wire:canonicalUrl>
@@ -188,9 +188,10 @@ You have entered an incorrect email address!&lt;/p&gt;&lt;p&gt;Please enter your
       <guid isPermaLink="false">720ed9411a0e9b20a87439f6</guid>
       <pubDate>Mon, 17 Aug 2026 17:59:00 +0000</pubDate>
       <description>The economic losses from a powerful earthquake that struck Colombia last week are expected to reach 30 trillion pesos ($9.58 ...</description>
+      <wire:foundAt>theprint_discovery</wire:foundAt>
       <wire:platform>ThePrint</wire:platform>
-      <wire:sourceId>theprint_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://theprint.in/world/colombias-president-pegs-early-quake-losses-at-9-6-billion/3017787/</wire:canonicalUrl>
@@ -202,9 +203,10 @@ You have entered an incorrect email address!&lt;/p&gt;&lt;p&gt;Please enter your
       <guid isPermaLink="false">4c9cd6eb31fdee0d66ca0349</guid>
       <pubDate>Mon, 17 Aug 2026 02:31:00 +0000</pubDate>
       <description>Two drones targeted the office of the Kurdistan Regional Government's prime minister in northern Iraq on Monday but there were no reports of any casualties, the KRG security agency ...</description>
+      <wire:foundAt>theprint_discovery</wire:foundAt>
       <wire:platform>ThePrint</wire:platform>
-      <wire:sourceId>theprint_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://theprint.in/world/drones-attack-the-kurdistan-regional-government-prime-ministers-office-in-iraq/3017100/</wire:canonicalUrl>

@@ -31,6 +31,9 @@
     {"id":"economic_times","platform":"The Economic Times","kind":"rss_filter","url":"https://economictimes.indiatimes.com/rssfeedsdefault.cms","domain":"economictimes.indiatimes.com","language":"en","max_items":50,"enrich_limit":6},
     {"id":"straits_times_world","platform":"The Straits Times","kind":"rss_filter","url":"https://www.straitstimes.com/news/world/rss.xml","domain":"straitstimes.com","language":"en","max_items":50,"enrich_limit":6},
 
+    {"id":"cgsp_wire","platform":"The China-Global South Project","kind":"wordpress_rest","url":"https://chinaglobalsouth.com/wp-json/wp/v2/posts?per_page=50&_embed=1","domain":"chinaglobalsouth.com","language":"en","max_items":50},
+    {"id":"bitget_news","platform":"Bitget News","kind":"bitget_sitemap","url":"https://www.bitget.com/stp-news-en-sitemap.xml","domain":"bitget.com","language":"en","max_items":40,"candidate_limit":80,"workers":8},
+
     {"id":"tradingview_discovery","platform":"TradingView News","kind":"bing_discovery","domain":"tradingview.com","language":"en","max_items":20,"enrich_limit":5},
     {"id":"tbs_news_dig_discovery","platform":"TBS NEWS DIG","kind":"bing_discovery","domain":"newsdig.tbs.co.jp","language":"ja","query_terms":"(Reuters OR Bloomberg OR ロイター OR ブルームバーグ)","max_items":20,"enrich_limit":5},
     {"id":"bloomberg_linea_discovery","platform":"Bloomberg Línea","kind":"bing_discovery","domain":"bloomberglinea.com","language":"es","max_items":20,"enrich_limit":5},

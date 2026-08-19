@@ -1,12 +1,74 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
-    <title>Reuters — Reuters/Bloomberg pool</title>
+    <title>Reuters — diagnostic source feed</title>
     <link>https://www.reuters.com/arc/outboundfeeds/msn/?outputType=xml</link>
-    <description>Provenance-aware feed; classification fields distinguish exact wire copies from citations.</description>
+    <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 19 Aug 2026 07:42:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:48:30 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Japan has few answers as bond rout puts fiscal plans at risk</title>
+      <link>https://www.reuters.com/world/asia-pacific/japan-has-few-answers-bond-rout-puts-fiscal-plans-risk-2026-08-19/</link>
+      <guid isPermaLink="false">a903b0b35803e9405ce616e3</guid>
+      <pubDate>Wed, 19 Aug 2026 07:37:05 +0000</pubDate>
+      <description>Japan is running low on options to fight a bond rout that could push debt financing costs above government estimates, leaving Prime Minister Sanae Takaichi's ambitious spending agenda hostage to forces she can't control.</description>
+      <dc:creator>Leika Kihara</dc:creator>
+      <content:encoded>&lt;p&gt;Japan is running low on options to fight a bond rout that could push debt financing costs above government estimates, leaving Prime Minister Sanae Takaichi&amp;#x27;s ambitious spending agenda hostage to forces she can&amp;#x27;t control.
+Analysts say the tools available to calm markets - sporadic cuts to bond issuance or emergency central bank buying - amount to little more than temporary patches for a bond market being squeezed by stubborn inflation and an increasingly loose fiscal stance.
+&amp;quot;Japan hasn&amp;#x27;t experienced such sticky price pressures since the previous oil shock,&amp;quot; said Mari Iwashita, executive rates strategist at Nomura Securities. &amp;quot;The challenge of anchoring inflation at the BOJ&amp;#x27;s 2% target is becoming bigger.&amp;quot;
+The global bond selloff has found its epicentre in Japan with the benchmark [USN:L4N44F017 TEXT:&amp;quot;10-year yield&amp;quot;] on the brink of hitting 3% for the first time since the mid-1990s, as investors grow increasingly nervous about the country&amp;#x27;s towering debt pile and inflation risks stemming from the Middle East war.
+After hitting a three-decade high of 2.945% on Tuesday, the 10-year yield slid to around 2.89% on Wednesday.
+Although government subsidies have kept core inflation below its 2% target, the Bank of Japan has warned of the risk of an inflation overshoot that could warrant an early rate hike.
+The prospect of [USN:L1N44B05E TEXT:&amp;quot;sooner and faster rate hikes&amp;quot;] has reduced concerns that the BOJ is falling behind the inflation curve. But it has also fuelled a repricing across bond markets, with investors now seeing a realistic path toward rates reaching 2%, well above earlier expectations for a peak near 1.5%, analysts say.
+STAKES RUN HIGH The surge in yields is emerging as a critical test for Takaichi&amp;#x27;s economic strategy.
+Her case for increased spending rests on the assumption that economic growth will outpace long-term borrowing costs, allowing Japan to sustain its enormous debt burden without jeopardising fiscal stability.
+That premise would come under doubt if the 10-year Japanese government bond (JGB) yield exceeds 3% with inflation running at 2% and real growth seen hovering around 1% at best.
+In [USN:L1N43V0A3 TEXT:&amp;quot;estimates&amp;quot;] released in July, the government expects real gross domestic product (GDP) growth of 0.9% in the current fiscal year ending March 2027 followed by 1.1% the next year.
+Higher yields would also threaten the affordability of Takaichi&amp;#x27;s flagship growth initiatives. At the same time, conservatives within the ruling party are pressing her to curb spending.
+A sustained move above 3%, the very level the government used as its budget assumption, would send debt-financing costs surging past the 31 trillion yen ($195 billion) currently set aside, while simultaneously undercutting Takaichi&amp;#x27;s signature push to pour investment into growth sectors.
+Under the ministry&amp;#x27;s baseline estimate assuming the 10-year yield will climb to 3.6% in fiscal 2029, debt-servicing costs will rise to 41 trillion yen that year.
+Making matters tougher, the government has ruled out spending caps on requests for strategic growth sectors in next year&amp;#x27;s budget, a move that could force more debt issuance on top of revenue already lost to a planned food levy cut.
+GOVERNMENT APPROACH KEY As bond jitters persist, markets are increasingly focussed on whether policymakers have credible options to contain the selloff.
+For one, the finance ministry could make ad hoc cuts to bond issuance or heed concern on over-supply in a regular meeting with investors slated for next month, analysts say.
+&amp;quot;An adjustment to bond issuance at an irregular timing could help curb yield rises,&amp;quot; as well as any sign the ministry could contemplate cuts to 10-year bond issuance, said Ataru Okumura, chief rates strategist at SMBC Nikko Securities.
+Another option is for the BOJ to ramp up bond-buying in emergency market operations, a tool it has kept in reserve even while tapering purchases, meant for sharp, disorderly yield spikes that threaten financial stability.
+While the BOJ won&amp;#x27;t rule out the step entirely, it likely sees little need to step in now with recent yield rises driven by fundamentals, said a source familiar with its thinking.
+Many analysts argue yields will remain under upward pressure unless the government rethinks its reliance on subsidies and tax cuts to ease cost-of-living pain, an expansionary approach that only fuels demand and inflation.
+&amp;quot;The BOJ can&amp;#x27;t anchor inflation expectations if the government is ramping up fiscal spending and adding to price pressures from the Middle East war,&amp;quot; said Naomi Muguruma, chief bond strategist at Mitsubishi UFJ Morgan Stanley Securities.
+&amp;quot;Inflation has now become the key risk for anyone trading JGBs,&amp;quot; she said. &amp;quot;At the heart of the problem are market doubts over the government&amp;#x27;s resolve to combat inflation.&amp;quot;
+($1 = 159.3200 yen)&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>RSS content:encoded</wire:bodySource>
+      <wire:canonicalUrl>https://www.reuters.com/world/asia-pacific/japan-has-few-answers-bond-rout-puts-fiscal-plans-risk-2026-08-19/</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>Un ataque ruso con drones a un autobús en Jersón deja cuatro muertos, según el gobernador</title>
+      <link>https://www.reuters.com/es/mundo/TL62I56EOZNV3HM43RBMYMKL2M-2026-08-19/</link>
+      <guid isPermaLink="false">109576fbbf5e0280f7f13352</guid>
+      <pubDate>Wed, 19 Aug 2026 07:35:56 +0000</pubDate>
+      <description>Un ataque ruso con drones a un autobús en la ciudad de Jersón, al sur de Ucrania, se cobró la vida de cuatro personas el miércoles por la mañana, según informó el gobernador regional.</description>
+      <dc:creator>Reuters</dc:creator>
+      <content:encoded>&lt;p&gt;Un ataque ruso con drones a un autobús en la ciudad de Jersón, al sur de Ucrania, se cobró la vida de cuatro personas el miércoles por la mañana, según informó el gobernador regional.
+Otras cuatro mujeres resultaron heridas en el ataque y fueron trasladadas al hospital, según informó Oleksandr Prokudin a través de la aplicación de mensajería Telegram. Publicó unas fotos borrosas de un autobús amarillo con los escalones manchados de sangre y las ventanas destrozadas.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>RSS content:encoded</wire:bodySource>
+      <wire:canonicalUrl>https://www.reuters.com/es/mundo/TL62I56EOZNV3HM43RBMYMKL2M-2026-08-19/</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Reuters</wire:evidence>
+    </item>
     <item>
       <title>Les Suisses devraient rejeter un projet de neutralité renforcée, selon un sondage</title>
       <link>https://www.reuters.com/fr/affaires/les-suisses-devraient-rejeter-un-projet-de-neutralit-renforce-selon-un-sondage-2026-08-19/</link>
@@ -25,10 +87,11 @@ Le Parti libéral-radical (PLR), de centre droit, a déclaré s&amp;#x27;opposer
 &amp;quot;Interdire à la Suisse de soutenir les efforts internationaux en réponse à des violations flagrantes du droit international reviendrait, dans les faits, à renforcer le camp des agresseurs&amp;quot;, a déclaré le coprésident du parti Benjamin Muehlemann.
 Une deuxième initiative destinée à renforcer la sécurité alimentaire de la Suisse par une hausse de la production nationale, une transition vers une alimentation et une agriculture plus végétales, et une meilleure protection de l&amp;#x27;eau potable, des sols et de la biodiversité, devrait également être rejetée.
 Selon le sondage, 31% des personnes interrogées se déclarent favorables à ce texte, contre 65% qui y sont opposées.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -51,10 +114,11 @@ Le nombre de navires ayant traversé le détroit d&amp;#x27;Ormuz est reparti à
 Par ailleurs, les investisseurs attendent la publication des chiffres définitifs de l&amp;#x27;inflation dans la zone euro en juillet, alors que le marché prévoit une nouvelle hausse des taux de la BCE le mois prochain pour lutter contre la progression des prix déclenchée par la guerre.
 L&amp;#x27;actualité des entreprises est en outre peu abondante, seules quelques sociétés publiant leurs résultats cette semaine en Europe.
 Le brasseur danois Carlsberg (CARLb.CO) , qui a fait état d&amp;#x27;un résultat d&amp;#x27;exploitation inférieur aux prévisions, perd 1,88%.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -75,10 +139,11 @@ On the flip side, technology stocks (.SX8P) fell the most among sectors, down 0.
 Soitec (SOIT.PA) led losses with a 4.4% fall. Nordic Semiconductor (NOD.OL) and Scout24 (G24n.DE) fell between 2.1% and 2.3%.
 Elsewhere, U.S. President Donald Trump said on Tuesday that no talks were taking place with Iran and insisted the Strait of Hormuz was open, contradicting [USN:L8N44F0XM TEXT:&amp;quot;Iran&amp;#x27;s assertion&amp;quot;] that the critical waterway remained shut to shipping.
 Meanwhile, in Britain, the annual rate of consumer price inflation increased in July to 2.9% from a 15-month low of 2.6% in June.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -97,10 +162,11 @@ La tormenta, que comenzó el 13 de agosto, dejó fuertes lluvias en zonas de baj
 Un segundo corte de electricidad en Caserones el 14 de agosto se debió a los fuertes vientos y las intensas nevadas, que volvieron a dañar una torre de transmisión ya afectada por una tormenta anterior, dijo la empresa. Un primer apagón dejó sin suministro eléctrico al yacimiento entre el 18 y el 30 de julio.
 La minera canadiense de cobre redujo su previsión de producción para todo el año en la mina Caserones a entre 120.000 y 130.000 toneladas métricas, desde un rango de entre 130.000 y 140.000 toneladas, al tiempo que elevó su previsión de costos en efectivo a entre 2,15 y 2,35 dólares por libra, desde entre 2,05 y 2,25 dólares por libra.
 La previsión consolidada de producción de cobre del conjunto de la empresa se redujo a entre 300.000 y 325.000 toneladas, mientras que ahora se esperaba que los costos en efectivo se situaran entre 1,95 y 2,15 dólares por libra.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -122,10 +188,11 @@ Communist-ruled Vietnam wants to achieve annual economic growth of at least 10% 
 The government has also proposed shifting the focus of its compensation policy toward &amp;quot;rebuilding people&amp;#x27;s lives&amp;quot; after their land has been taken. Under the draft, people whose residential property has been acquired would be put on the priority list for new land in the same location.
 Land disputes have long been a sensitive issue in Vietnam, where negotiations over compensation often drag on for years and occasionally trigger rare protests in the tightly controlled country.
 The amendments would also introduce clearer criteria for land acquisitions and reform the way land is valued using more transparent, data-driven pricing methods.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -155,10 +222,11 @@ Australia is expected to continue meeting at least half of India&amp;#x27;s coki
 Discounts on Russian coal, which accounted for 24% of India&amp;#x27;s coking coal imports in recent years, have diminished over the past two years, Khurmi said.
 &amp;quot;Over the longer term, we expect Mozambique to overtake the United States and Russia as the second largest exporter of coking coal to India after Australia,&amp;quot; Brooks said, adding that Indian companies such as state-run Steel Authority of India (SAIL.NS) and JSW Steel (JSTL.NS) were turning to Mozambique for supplies.
 India has been seeking to diversify its coking coal imports and gain access to [USN:L4N3X10B6 TEXT:&amp;quot;Mongolia&amp;quot;] although experts say this remains difficult because of logistical challenges.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -184,10 +252,11 @@ Los picos de temperatura del mar pueden provocar la muerte masiva de especies co
 John Bruno, ecólogo marino de la Universidad de Carolina del Norte, Estados Unidos, señaló que algunas especies se están desplazando hacia el norte en busca de aguas más frías, pero que no todas pueden adaptarse.
 &amp;quot;Nos estamos acercando rápidamente a los límites biológicos absolutos de adaptación de muchas especies&amp;quot;, afirmó.
 Según el análisis de la WWA, alrededor del 90% del golfo de Vizcaya y el 80% del Mediterráneo occidental han experimentado condiciones de ola de calor marina este año. Sin el calentamiento global, esa cifra se habría situado más cerca del 40%.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -210,10 +279,11 @@ Kamal said although the global backlog in aircraft supplies was affecting many o
 Last year, Kenya Airways [USN:L8N40C1E1 TEXT:&amp;quot;reported a pre-tax&amp;quot;] loss of 17.93 billion Kenyan shillings ($138.56 million) on lower revenues after a rare profit the previous period.
 &amp;quot;We are reviewing every single contract at KQ (Kenya Airways) and finding how to save every dollar because our profit per seat is just $1.50 and we have to save every dollar we make,&amp;quot; he said.
 ($1 = 129.4000 Kenyan shillings)&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -236,10 +306,11 @@ Annual consumer price inflation rose to 2.9% in July from a 15-month low of 2.6%
 The BoE has a 2% inflation target.
 Traders expect at least one rate hike by the central bank this year, according to data compiled by LSEG. But a majority of economists polled by Reuters [USN:L1N44F0H6 TEXT:&amp;quot;expect the central bank to leave rates unchanged&amp;quot;] at 3.75%.
 Analysts at Goldman Sachs, which expects no rate increases this year, said the mismatch could be a &amp;quot;likely source of downside sterling pressure in the months ahead&amp;quot;.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -270,10 +341,11 @@ Since he lost power in a parliamentary no-confidence vote, Khan has faced [USN:L
 All convictions but one have been suspended or overturned, with appeals pending. He denies wrongdoing.
 PTI won power in 2018 and retains a large support base across key provinces but was stripped of its election symbol ahead of elections in 2024.
 Its candidates, who were forced to contest as independents, won the most seats in the election but fell short of the majority needed to form a government.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -290,10 +362,11 @@ Its candidates, who were forced to contest as independents, won the most seats i
       <content:encoded>&lt;p&gt;European Central Bank policymaker Olli Rehn said on Wednesday that wage growth and the wage outlook have remained moderate, with no clear signs of second-round effects.
 &amp;quot;Keeping inflation expectations anchored will be essential to ensure this remains the case,&amp;quot; Rehn, the governor of Finland&amp;#x27;s central bank, said in the written copy of a speech.
 The ECB&amp;#x27;s next monetary policy announcement is scheduled for September 10.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -319,10 +392,11 @@ The International Olympic Committee (IOC) last month provisionally [USN:L6N4390X
 Kantemyr called it &amp;quot;a big mistake&amp;quot; by the IOC, adding she held nothing personal against individual competitors.
 IOC President Kirsty Coventry has said athletes should not be held accountable for the actions of their governments and that the Olympic body would continue supporting Ukraine while not condoning war.
 The World Championships run through August 23 in New Delhi.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -357,10 +431,11 @@ When asked about a possible foray into the U.S., Zhang said: &amp;quot;the compa
 He said in May that Chery is considering [USN:L4N41X0EM TEXT:&amp;quot;entering&amp;quot;] the U.S. market at a suitable time.
 Chery, China&amp;#x27;s largest vehicle exporter for the past several years, is among a growing number of Chinese automakers investing in humanoid robotics, betting that advances in AI and autonomous systems can help accelerate the commercialisation of service robots.
 &amp;quot;Humanoid robots could take about a decade to mature before seeing rapid adoption,&amp;quot; Zhang said.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -380,10 +455,11 @@ Ceci s&amp;#x27;était traduit par une flambée des cours du pétrole, qui reste
 Mardi, le président américain Donald Trump a déclaré [USN:L6N44F0YL TEXT:&amp;quot;qu&amp;#x27;aucune discussion&amp;quot;] n&amp;#x27;était en cours avec l&amp;#x27;Iran et qu&amp;#x27;aucune n&amp;#x27;était prévue, tout en ajoutant que le détroit d&amp;#x27;Ormuz était ouvert à la navigation.
 Dans le détroit de Bab el-Mandeb, de l&amp;#x27;autre côté de la péninsule arabique, entre l&amp;#x27;Arabie Saoudite et le Yémen, 30 navires de transport de marchandises ont transité mardi, contre 19 lundi, selon les données de Kpler.
 Certains navires pourraient naviguer sur ces voies maritimes stratégiques avec leurs transpondeurs éteints, ce qui n&amp;#x27;est pas pris en compte dans les calculs.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -410,10 +486,11 @@ A Palestinian American&amp;#x27;s journey to his West Bank home under settler si
 Luigi Mangione&amp;#x27;s state murder trial is postponed after federal guilty plea
 US pauses border construction in Big Bend National Park after widespread criticism
 &amp;#x27;Rest in Power&amp;#x27;: Thousands gather in London for vigil honouring academic Arday&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -433,10 +510,11 @@ US pauses border construction in Big Bend National Park after widespread critici
 A las 0701 GMT del miércoles, el selectivo bursátil español IBEX 35 subía 16,90 puntos, un 0,08%, hasta 19.951,80 puntos, mientras que el índice de grandes valores europeos FTSE Eurofirst 300 (.FTEU3) avanzaba un 0,03%.
 En el sector bancario, Santander (SAN.MC) perdía un 0,16%, BBVA (BBVA.MC) se anotaba un 0,16%, Caixabank (CABK.MC) avanzaba un 0,27%, Sabadell (SABE.MC) ganaba un 0,22%, Bankinter (BKT.MC) se revalorizaba un 0,12% y Unicaja Banco (UNI.MC) perdía un 0,06%.
 Entre los grandes valores no financieros, Telefónica (TEF.MC) se anotaba un 0,19%, Inditex (ITX.MC) avanzaba un 0,18%, Iberdrola (IBE.MC) se dejaba un 0,15%, Cellnex (CLNX.MC) caía un 1,28% y la petrolera Repsol (REP.MC) subía un 0,44%.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -454,10 +532,11 @@ Entre los grandes valores no financieros, Telefónica (TEF.MC) se anotaba un 0,1
 The South Korean chipmaker also said it would spend at least 50% of free cash flow generated between 2025 and 2027 on shareholder returns.
 The company said it plans to pursue additional shareholder returns through share repurchases, cancellations and dividends, with details on the amount and method to be announced alongside its third-quarter earnings release.
 ($1 = 1,397.9200 won)&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -472,10 +551,11 @@ The company said it plans to pursue additional shareholder returns through share
       <description>Munich Re will acquire the U.S.-based cyber insurance provider At-Bay at an enterprise value of $575 million, with the deal expected to close in the first quarter of next year, the German insurance group said Wednesday.</description>
       <dc:creator>Reuters</dc:creator>
       <content:encoded>&lt;p&gt;Munich Re (MUVGn.DE) will acquire the U.S.-based cyber insurance provider At-Bay at an enterprise value of $575 million, with the deal expected to close in the first quarter of next year, the German insurance group said Wednesday.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -516,10 +596,11 @@ Such bastions close to home ports would protect China&amp;#x27;s submarines from
 Some analysts believe the South China Sea was chosen for China&amp;#x27;s [USN:L1N43C08P TEXT:&amp;quot;test firing last month&amp;quot;] of a long-range missile from a submarine.
 Once complete, the Paracels facilities would strengthen China&amp;#x27;s ability to monitor the United States and allies in peace time, and add complexity in a conflict, said Carl Thayer, a professor at the Australian Defence Force Academy.
 &amp;quot;It&amp;#x27;s one more thing the United States would have to take care of, and something they could attempt to defend from the Chinese mainland.&amp;quot;&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -537,10 +618,11 @@ Once complete, the Paracels facilities would strengthen China&amp;#x27;s ability
 &amp;quot;Issues such as market making was adding to cost for small company IPOs,&amp;quot; SEBI chief Tuhin Kanta Pandey said at an event in Mumbai. &amp;quot;A comprehensive review is underway,&amp;quot; he added.
 SEBI is also looking to support global fund management activity from India, Pandey said, adding that proposed changes to portfolio manager regulations would support decision-makers in trading from onshore.
 On the recently introduced [USN:L4N4420GV TEXT:&amp;quot;closing auction session&amp;quot;] that determines closing prices, Pandey said any manipulation would be detected faster under the new system and that the regulator would take strict action if any was found.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -563,10 +645,11 @@ SANA said on Tuesday that Abu Rukba had entered Syria illegally after fleeing Au
 It was not immediately clear what charges Abu Rukba could face in Syria or whether Austria had requested his arrest or extradition.
 A spokesperson for the Austrian court that convicted him told Reuters at the time that Abu Rukba had not been considered a flight risk before his trial because he had lived in Austria since 2014 and was seeking asylum there with his family.
 He was not held in custody during the trial or subjected to other restrictions, and his departure from Austria did not breach Austrian laws or court orders while the appeals process remained underway, the spokesperson said.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -597,10 +680,11 @@ Miami, on the other hand, has lost four of its last six. The Marlins used six pi
 &amp;quot;What Sandy&amp;#x27;s been able to do this year ... certainly provides me a lot of optionality,&amp;quot; McCullough said. &amp;quot;But I think we just look at what&amp;#x27;s our best way to try to win today&amp;#x27;s game. And then come back the next day and think about what&amp;#x27;s the best way to win that one.&amp;quot;
 This is the rivals&amp;#x27; final matchup of the season. Philadelphia leads the season series 7-5.
 --Field Level Media&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -622,10 +706,11 @@ Palassian, who joined Smith+Nephew in 2017, previously held senior roles at AbbV
 Rogers, who took up the CFO role in early 2024, had [USN:L6N3VH0B5 TEXT:&amp;quot;relocated&amp;quot;] to the United States in 2025 for operational efficiencies.
 Shares in the FTSE 100 (.FTSE) company have gained nearly 14% during Rogers&amp;#x27; tenure as CFO.
 Smith+Nephew said Rogers would receive no severance payment, and that his outstanding incentive and share awards would lapse on September 30 under leaver rules.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -642,10 +727,11 @@ Smith+Nephew said Rogers would receive no severance payment, and that his outsta
       <content:encoded>&lt;p&gt;La chilena SQM , segundo mayor productor mundial de litio, dijo el miércoles que su utilidad neta del segundo trimestre superó las estimaciones de los analistas debido a los mayores precios y volúmenes de venta del litio.
 La empresa registró una utilidad neta de 660 millones de dólares en el segundo trimestre, frente a los 553,90 millones de dólares estimados por los analistas, según datos recopilados por LSEG.
 La minera obtuvo ingresos de 2.468 millones de dólares en el periodo de abril a junio.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -690,10 +776,11 @@ Recenti contratti sembrano riflettere questo cambiamento. Questo mese Officina S
 L’azienda ha affermato che l’aggiudicazione di questi contratti dimostra la propria capacità di andare oltre lo sviluppo tecnologico e fornire sistemi integrati su scala industriale.
 Per i dirigenti del settore, la domanda non è più se le aziende spaziali italiane debbano crescere.
 Si tratta piuttosto di capire se un settore basato su Pmi specializzate sia in grado di assicurarsi il capitale e le dimensioni necessarie per competere in un mercato europeo in evoluzione, prima che i concorrenti o gli acquirenti stranieri lo facciano al posto loro.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -722,10 +809,11 @@ Burns continues to rely on his elite upper-90s four-seamer and devastating slide
 &amp;quot;Just fill up the zone. I&amp;#x27;m not trying to be too perfect. Line it up. Try to let them put it in play,&amp;quot; Burns said. &amp;quot;I&amp;#x27;m not a big in, out, up, and down guy. I&amp;#x27;m kind of just throw it down the middle and let it eat. Sometimes it works, sometimes it doesn&amp;#x27;t. I think it&amp;#x27;s been working so far.&amp;quot;
 The Cardinals counter with lefty Matthew Liberatore (5-10, 5.07). Since tossing six shutout innings on Aug. 2 in Toronto, Liberatore has dropped his last two starts, including a 3-0 loss to the Cubs in Chicago last Friday in which he gave up two runs in 5 1/3 innings.
 --Field Level Media&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -760,10 +848,11 @@ Trump dijo el lunes que Kim había respondido a su intento de acercamiento, sin 
 Pionyang condena habitualmente los ejercicios militares conjuntos entre EEUU y Corea del Sur calificándolos de ensayos para una invasión, mientras que Washington y Seúl afirman que son defensivos y necesarios para garantizar la preparación frente a las amenazas militares de Corea del Norte.
 Ni los responsables surcoreanos ni los estadounidenses tenían conocimiento previo de la orden de Trump, según dijo el miércoles el ministro de Asuntos Exteriores surcoreano, Cho Hyun, en una audiencia parlamentaria.
 El martes, el presidente Lee Jae-myung dijo que los ejercicios Ulchi eran de carácter defensivo y que Seúl no tenía intención alguna de utilizarlas para atacar a Corea del Norte ni para agravar la tensión en la península.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -780,10 +869,11 @@ El martes, el presidente Lee Jae-myung dijo que los ejercicios Ulchi eran de car
       <content:encoded>&lt;p&gt;L&amp;#x27;inflation en Grande-Bretagne a augmenté de 0,3% sur un mois en juillet, une hausse conforme aux attentes, montrent des données officielles publiées mercredi.
 Les prix à la consommation ont progressé en volume de 0,3% sur le mois après 0,1% en juin. Les économistes interrogés par Reuters tablaient sur une hausse de 0,3%.
 L&amp;#x27;inflation ressort à 2,9% sur une base annuelle, après 2,6%, évolution également en ligne avec les estimations.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -800,10 +890,11 @@ L&amp;#x27;inflation ressort à 2,9% sur une base annuelle, après 2,6%, évolut
       <content:encoded>&lt;p&gt;Oil and gas producer Ithaca Energy (ITH.L) raised its 2026 dividend forecast on Wednesday, buoyed by robust cash generation and growth in half-year production.
 The company said it expects to pay $500 million to $530 million in dividends, compared to its previous guidance of $470 million to $520 million.
 Ithaca Energy reported total production of 128,000 barrels of oil equivalent per day (boed) for the six months ended June 30, 2026, up from 124,000 boed reported a year ago, strengthened by contributions from its Cygnus and Seagull gas fields.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -819,10 +910,11 @@ Ithaca Energy reported total production of 128,000 barrels of oil equivalent per
       <dc:creator>Reuters</dc:creator>
       <content:encoded>&lt;p&gt;Japan&amp;#x27;s foreign ministry said on Wednesday that [USN:L6N44F14S TEXT:&amp;quot;U.S. sanctions &amp;quot;]on the International Criminal Court and its president, Judge Tomoko Akane, were &amp;quot;very unfortunate.&amp;quot;
 In a statement, the ministry said: &amp;quot;Japan has consistently supported the ICC ... in its efforts to prosecute and punish the most serious crimes of concern to the international community and to uphold the rule of law.&amp;quot; It added that Japan would remain committed to strengthening the rule of law in the international community while maintaining communication with related countries.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -855,10 +947,11 @@ Warren picked up a victory May 12 at Baltimore when allowing two runs in 5 2/3 i
 The Orioles will have Chris Bassitt (4-4, 5.11) in a starting role in only his second assignment after spending more than two months on the injured list with low back discomfort. He didn&amp;#x27;t notch a decision Friday at Tampa Bay, holding the Rays to two runs in 5 1/3 innings.
 Bassitt is 5-2 with a 2.06 ERA in nine career starts against the Yankees. He covered 56 2/3 innings in those outings with 64 strikeouts.
 --Field Level Media&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -877,10 +970,11 @@ Sri Lanka captain Dhananjaya de Silva (59) and Sonal Dinusha, batting on 65, str
 Spinner Ravindra Jadeja dismissed de Silva to break the 95-run stand.
 Seamer Prasidh Krishna dismissed Niroshan Dickwella caught behind for 10.
 Sri Lanka are still 197 behind. India need four wickets to go 1-0 up in the two-test series.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -912,10 +1006,11 @@ Urquidy (1-1, 8.10) earned the victory with 3 2/3 innings of three-run, five-hit
 &amp;quot;I was waiting for this chance for a long time,&amp;quot; Urquidy said. &amp;quot;I&amp;#x27;m here right now and enjoying it with this team.&amp;quot;
 Urquidy is 0-1 with a 27.00 ERA versus the Cubs, against whom he made his lone career appearance on April 12 at Wrigley Field. Urquidy allowed one run and three hits in one-third of an inning with one walk and zero strikeouts.
 --Field Level Media&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -949,10 +1044,11 @@ If the organization provides specific names, addresses and supporting evidence, 
 The U.S. Social Security Administration did not respond to a request for comment. The New York City Mayor’s Office said it does not oversee municipal elections and referred Reuters to the BOE.
 VERDICT Misleading. There is no evidence that more than 200,000 fraudulent votes were cast in the New York City mayoral election in 2025. The figure stems from a flawed audit of a small sample of registered-voter names in a commercial database.
 This article was produced by the Reuters Fact Check team. Read more about our fact-checking work.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -973,10 +1069,11 @@ Seúl aún no ha anunciado los detalles del plan de inversión, aunque Cho seña
 &amp;quot;No hemos podido avanzar más rápido en el plan de inversión, ya que teníamos que tener en cuenta factores como la viabilidad comercial y seguir los trámites legales&amp;quot;, explicó Cho. Mencionó otros problemas inesperados, sin dar más detalles.
 Corea del Sur y Estados Unidos anunciaron el miércoles que reducirán las maniobras militares anuales de 11 a cinco días y recortarán parte del entrenamiento sobre el terreno, tras la orden de Trump de reducir sustancialmente la participación estadounidense.
 El ministro de Unificación de Corea del Sur, Chung Dong-young, que asistió a la misma audiencia, dijo que cree que Trump se está acercando a la posibilidad de concertar una nueva reunión con el líder norcoreano Kim Jong-un al recortar los ejercicios que llevan mucho tiempo irritando a Pionyang.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -1019,10 +1116,11 @@ When a snake boat is retired, it is cremated like a person and a ritual is held 
 &amp;quot;He&amp;#x27;s our kid... he decides what to do with himself,&amp;quot; Manikanthan said of Veeyapuram&amp;#x27;s boat.
 &amp;quot;The holy river gives him everything he needs to win this season, that&amp;#x27;s what we pray.&amp;quot;
 ($1 = 95.6575 Indian rupees)&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -1046,10 +1144,11 @@ Gaza fue, con diferencia, el lugar más mortífero para los trabajadores humanit
 Israel, que combate a los milicianos de Hamás en Gaza, ha afirmado que hace todo lo posible por evitar víctimas civiles.
 El exdirector de la UNRWA Philippe Lazzarini dijo este año que estaba tratando de constituir un grupo de alto nivel para investigar las muertes del personal.
 Bushra Khalidi, responsable de política humanitaria global de Oxfam, pidió una mayor protección para los trabajadores humanitarios y dijo: &amp;quot;Estamos siendo testigos de un ataque contra la propia acción humanitaria&amp;quot;.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -1069,10 +1168,11 @@ Statistics South Africa is due to publish July inflation data (ZACPIY=ECI) at ab
 Nedbank economists said lower transport costs, driven by a decline in fuel prices, helped slow inflation.
 They added that easing food price pressures, supported by lower global food prices, strong domestic agricultural output and the fading impact of foot-and-mouth disease on meat prices, provided further relief.
 The statistics agency is also due to publish June retail sales (ZARET=ECI) data at around 1100 GMT. Economists polled by Reuters expect annual retail sales growth to remain unchanged at 2.3%.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -1095,10 +1195,11 @@ British carrier Virgin Atlantic said it was reviewing the concerns and will coop
 The CMA said that if it finds that the businesses had broken the law, it could order them to pay compensation to affected customers, as well as fine them up to 10% of their global turnover.
 &amp;quot;Clear pricing helps people compare offers confidently and choose the option that works best for them. Unexpected mandatory charges make this much harder,&amp;quot; said Emma Cochrane, executive director for consumer protection at the CMA.
 &amp;quot;At a time when many households are watching every pound they spend, it is important that people are not surprised by extra fees.&amp;quot;&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -1124,10 +1225,11 @@ Catcher Adley Rutschman was 1-for-17 with an infield single, five walks and nine
 Arizona has played both games against Boston without second baseman Ketel Marte, who was placed on the restricted list after he didn&amp;#x27;t show up to the field on Monday. Marte returned to Arizona Tuesday to have an MRI on his left knee.
 &amp;quot;That&amp;#x27;s what I&amp;#x27;ve been told, but overall my focus has shifted,&amp;quot; Lovullo said. &amp;quot;My focus (Monday) was squarely on this topic, but right now, it&amp;#x27;s on the 26 players that are inside of the clubhouse.&amp;quot;
 --Field Level Media&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -1159,10 +1261,11 @@ The Twins will send out right-hander Taj Bradley (9-5, 3.98) for the series fina
 Bradley has not earned a victory in his past six starts. He is coming off a bumpy outing against the Philadelphia Phillies, who tagged him for five runs on seven hits in four innings last Thursday.
 In two career starts against Atlanta, Bradley is 1-1 with a 4.09 ERA.
 --Field Level Media&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -1191,10 +1294,11 @@ Expertos en comercio y responsables del sector señalaron anteriormente que los 
 El ministro canadiense responsable del comercio con EEUU, Dominic LeBlanc, y la negociadora jefe de comercio, Janice Charette, se encuentran en Washington desde la semana pasada para mantener conversaciones.
 El lunes, los responsables canadienses se reunieron durante casi dos horas con Greer y el secretario de Comercio, Howard Lutnick.
 Greer ha mencionado en repetidas ocasiones los aranceles canadienses que siguieron a los aranceles iniciales de EEUU, el sistema canadiense de gestión de la oferta de productos lácteos y la negativa de algunas provincias a vender bebidas alcohólicas estadounidenses, entre otras quejas de EEUU.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -1214,10 +1318,11 @@ Lawmakers were expected to vote on Wednesday on the appointment of Yevhenii Khma
 His removal had sent [USN:L6N43X1CI TEXT:&amp;quot;thousands of protesters&amp;quot;] on to the streets in rare wartime protests over the past month demanding that Zelenskiy reinstate the 35-year-old defence innovator, who is credited with trying to reform the ministry.
 The crisis had also forced Zelenskiy to replace Ukraine&amp;#x27;s top military commander with the [USN:L8N43O09F TEXT:&amp;quot;younger Mykhailo Drapatyi&amp;quot;], who was backed by protesters for his more troop-friendly approach, which they hope will lessen losses on the front line.
 Ukraine&amp;#x27;s anti-corruption agencies have waged a high-profile war against graft while Kyiv&amp;#x27;s military fights Russia, targeting senior officials in a campaign they say is critical to preparing for Ukrainian membership in the European Union.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -1240,10 +1345,11 @@ Analysts said policymakers are more likely to lean on faster fiscal implementati
 China&amp;#x27;s leaders [USN:L1N43W0BF TEXT:&amp;quot;pledged&amp;quot;] at July&amp;#x27;s Politburo meeting to support the slowing economy by accelerating fiscal spending on already-budgeted infrastructure projects for the remainder of the year, rather than planning major new stimulus measures.
 The central bank [USN:L1N4490CE TEXT:&amp;quot;said&amp;quot;] last week it would maintain an appropriately loose monetary stance and roll out practical, effective measures as needed, but stopped short of signaling explicit cuts to policy rates or banks&amp;#x27; reserve-requirement ratio.
 Commercial banks&amp;#x27; net interest margin (NIM), a key measure of the sector&amp;#x27;s health, edged up 0.01 percentage point to 1.41% in the second quarter from end-March, marking the first quarterly increase since 2022, although it remained close to a record low.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -1265,10 +1371,11 @@ Lotte Chemical is among several South Korean petrochemical firms undertaking [US
 Lotte Chemical Titan reported a second-quarter loss attributable of 174.2 million ringgit ($42.89 million), slightly wider than the loss reported a year earlier.
 Lotte Chemical Corp has a near 75% stake in the Malaysian unit, according to LSEG-compiled data.
 ($1 = 4.0615 ringgit)&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -1294,10 +1401,11 @@ The centre-right FDP party said it opposed the initiative, saying it was harmful
 &amp;quot;Switzerland must stand on the side of peace, the rule of law, and democracy — not on the side of autocrats.&amp;quot;
 A second proposal to increase Swiss food security by raising domestic production, shifting consumption and farming toward more plant-based food, and better protecting drinking water, soil and biodiversity, also looks set to be rejected.
 The &amp;quot;secure food supply initiative&amp;quot; was supported by 31% of those questioned, with 65% against, the poll said.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -1316,10 +1424,11 @@ La decimoséptima epidemia de ébola en República Democrática del Congo se con
 El instituto ha registrado hasta la fecha 5.021 casos, según su último informe de situación, lo que lo convierte en el segundo brote más grave a nivel mundial, solo por detrás de la epidemia de 2014 a 2016 en África occidental, tanto en número de contagios como de fallecimientos.
 El brote actual está causado por la cepa de Bundibugyo, para la que no existen vacunas ni tratamientos aprobados.
 El brote ha cobrado impulso desde que se declaró el 15 de mayo, ya que la débil infraestructura sanitaria, la resistencia de la comunidad, la inestabilidad y las protestas de los trabajadores de respuesta dificultan los esfuerzos para identificar los casos y actuar ante ellos.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -1350,10 +1459,11 @@ D&amp;#x27;autres mouvements pourraient suivre, à l&amp;#x27;image de Bradley B
 Derrière le Paris Saint-Germain, l&amp;#x27;OM, cinquième et privé de Ligue des champions après une deuxième partie de saison ratée, tentera de retrouver le podium.
 Parmi les promus, Troyes retrouve l&amp;#x27;élite après trois saisons dans l&amp;#x27;antichambre tandis que Le Mans a réussi l&amp;#x27;exploit d&amp;#x27;enchaîner deux promotions consécutives pour s&amp;#x27;installer à nouveau en Ligue 1, 16 ans après sa dernière apparition. Le club sarthois était même retombé en division régionale au début de la décennie précédente.
 La 34e et dernière journée du championnat est programmée le week-end du 29-30 mai.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -1385,10 +1495,11 @@ Jobe, who has never pitched against the Pirates, will make his third start since
 The Pirates optioned right-handed reliever Isaac Mattson to Triple-A Indianapolis and recalled right-hander Antwone Kelly.
 The Tigers outrighted infielder/outfielder Trei Cruz to Triple-A Toledo.
 --Field Level Media&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -1410,10 +1521,11 @@ Las autoridades de Sichuan declararon esta semana una alerta por lluvias intensa
 Las autoridades están investigando la causa del deslizamiento de tierra del lunes en una obra de la región de Guangxi que sepultó a cinco personas, que posteriormente fueron rescatadas sin vida por los equipos de rescate, según la CCTV.
 La arena y la grava sueltas en la zona del cañón de alta montaña podrían provocar deslizamientos de tierra, según habían señalado anteriormente las autoridades.
 Desde el comienzo del verano, Guangxi, al igual que muchas zonas del suroeste de China, ha sufrido fuertes lluvias.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -1436,10 +1548,11 @@ Bad weather, most recently in China, has also dragged on sales, as well as other
 Carlsberg reported first-half operating profit of 7.45 billion Danish crowns ($1.15 billion), missing analyst expectations for 7.55 billion crowns.
 ($1 = 6.4515 Danish crowns)
 ($1 = 0.7383 pounds)&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -1462,10 +1575,11 @@ Esta vía navegable gestionaba una quinta parte de los envíos mundiales de petr
 Dado que las preocupaciones por la seguridad frenan los envíos de petróleo al mayor importador del mundo, dos gigantes navieros chinos que solían transportar la mitad de sus importaciones de petróleo de Oriente Medio antes de la guerra han mantenido sus petroleros alejados del estrecho de Ormuz y de Bab el-Mandeb desde finales de julio, según indican la empresa de seguimiento de petroleros Vortexa y un bróker marítimo.
 En el estrecho de Bab el-Mandeb, en el mar Rojo, donde los hutíes yemeníes declararon un bloqueo naval a Arabia Saudita el 20 de julio, los datos de Kpler mostraron 30 tránsitos de buques de mercancías durante el fin de semana, frente a los 19 de la semana anterior.
 No se registraron envíos de petróleo saudita.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -1497,10 +1611,11 @@ L&amp;#x27;équipe de France a conclu sa préparation la semaine dernière par u
 &amp;quot;Ça soulage et ça rassure de finir par une victoire. Il faut qu&amp;#x27;on arrive à trouver de la constance dans notre jeu&amp;quot;, ne cache pas Amélie Rotar, dont l&amp;#x27;expérience à seulement 25 ans sera essentielle en l&amp;#x27;absence d&amp;#x27;Héléna Cazaute, qui a dû renoncer à l&amp;#x27;Euro en raison d&amp;#x27;une blessure au dos.
 &amp;quot;C&amp;#x27;est un élément très important de l&amp;#x27;équipe, avec énormément d&amp;#x27;expérience, les mots et le volley justes mais ce n&amp;#x27;est pas parce qu&amp;#x27;elle n&amp;#x27;est pas là que l&amp;#x27;équipe meurt, on doit compenser son absence&amp;quot;, ajoute la réceptionneuse-attaquante.
 L&amp;#x27;Euro est prévu du 21 août au 6 septembre en Suède, en Azerbaïdjan, en République tchèque et en Turquie, où se déroulera le dernier carré.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -1526,10 +1641,11 @@ The union said women players often face additional challenges, with some matches
 &amp;quot;Playing under the scorching sun on artificial turf that traps and radiates heat is essentially forcing athletes into a furnace,&amp;quot; KPFA Women&amp;#x27;s President Ji So-yun said.
 &amp;quot;Just as professional baseball proactively cancels games for the heat, football needs to stop mechanically following a rigid schedule and actually prioritise player health and safety.&amp;quot;
 The KPFA said the findings should also prompt a broader discussion on South Korea&amp;#x27;s football calendar, with some players supporting a switch to an autumn-spring schedule.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -1549,10 +1665,11 @@ Economists polled by Reuters had widely expected to see a rise in inflation to 2
 Core inflation, which excludes the impact of energy and food prices, came in a little higher than expected at 2.6% rather than the 2.5% median Reuters poll prediction.
 &amp;quot;Iran war inflation continues to impact prices here at home, but Britain&amp;#x27;s economy is resilient,&amp;quot; finance minister John Healey said in response to the data.
 Sterling and British government bond futures showed little immediate reaction to the data, which was broadly as expected.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -1607,10 +1724,11 @@ Beneath a cover crop of clover, the soil registered 32 degrees Celsius (89.6 deg
 &amp;quot;If I can maintain soil moisture for a fortnight going into the drought, then that gives me an extra fortnight&amp;#x27;s growing compared to everybody else,&amp;quot; said Gray, who farms 150 acres of maize in the southwestern county of Devon.
 &amp;quot;If it&amp;#x27;s green for longer, it&amp;#x27;s producing for longer.&amp;quot;
 ($1 = 0.8644 euros)&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -1654,10 +1772,11 @@ For many currency traders, there&amp;#x27;s only one way to test whether that&am
 Enjoying this column? Check out Reuters Open Interest (ROI), your essential new source for global financial commentary.
 Follow ROI on LinkedIn, and X.
 And listen to the Morning Bid daily podcast on Apple , Spotify , or the Reuters app . Subscribe to hear Reuters journalists discuss the biggest news in markets and finance seven days a week.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -1694,10 +1813,11 @@ Following public consultations, Thanut said he envisages an approach where BRN r
 Restrictive security measures, including village cordons, searches and checkpoints, that could stoke resentment within local communities and fuel the insurgency, also need to be reviewed, he said.
 &amp;quot;We&amp;#x27;ve been fighting for years. They cannot defeat the state, and we cannot eliminate them completely,&amp;quot; Thanut said.
 &amp;quot;So let&amp;#x27;s talk.&amp;quot;&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -1764,10 +1884,11 @@ But because they reinvented nuclear construction.
 The opinions expressed here are those of the author , a columnist for Reuters.
 Enjoying this column? Check out Reuters Open Interest (ROI), your essential new source for global financial commentary. Follow ROI on LinkedIn and X .
 And listen to the Morning Bid daily podcast on Apple , Spotify , or the Reuters app . Subscribe to hear Reuters journalists discuss the biggest news in markets and finance 7 days a week.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -1793,10 +1914,11 @@ The company added that it expects the olefins and derivatives segment to remain 
 &amp;quot;The fertilisers market remains bullish, supported by global food security requirements, tight supply conditions and sustained import demand from key markets such as India and Australia, while the methanol price is expected to remain stable on the back of balanced supply-demand fundamentals,&amp;quot; the company said.
 Petronas Chemicals added that it remains cautious on the specialties segment given subdued construction and automotive end markets, while consumer goods demand showed modest growth.
 ($1 = 4.0610 ringgit)&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -1812,10 +1934,11 @@ Petronas Chemicals added that it remains cautious on the specialties segment giv
       <dc:creator>Reuters</dc:creator>
       <content:encoded>&lt;p&gt;China&amp;#x27;s urban unemployment rate for youths in July rose to 17.9%, data released by the National Bureau of Statistics showed on Wednesday, the worst reading since August 2025 and up from 14.9% in June.
 For people aged 25 to 29, the unemployment rate was 7.2%, up from 7.1% in June. The rate for 30-to-59-year-olds dipped to 3.9% from 4.0%.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -1835,10 +1958,11 @@ The National Company Law Tribunal had prepared a judgment covering eight petitio
 With one member of the current judges panel due to retire on Wednesday, the tribunal said there was not enough time to rewrite and deliver the judgment, a judge said. SpiceJet did not immediately respond to a request for comment.
 The total amount currently claimed by SpiceJet&amp;#x27;s lessors was not immediately clear. SpiceJet&amp;#x27;s finances have been under stress, with the airline delaying salary payments to many of its pilots, Reuters [USN:L6N42C0G8 TEXT:&amp;quot;reported&amp;quot;] in June.
 Its market share sank to just 1.9% in June this year, from about 15% in 2019, and it has [USN:L1N43F0K1 TEXT:&amp;quot;received financing&amp;quot;] under a government-backed credit programme to stabilise operations.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -1862,10 +1986,11 @@ Previously, Seah was the chief executive of Overseas Union Bank until 2001 and a
 During his tenure, DBS became the first Singapore stock to surpass [USN:L1N43F08I TEXT:&amp;quot;S$200 billion&amp;quot;] ($156.60 billion) in market value earlier in July.
 Earlier this month, the lender raised its [USN:L1N4421QF TEXT:&amp;quot;full-year guidance&amp;quot;] while reporting a 9% rise in its second-quarter net profit.
 ($1 = 1.2771 Singapore dollars)&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -1887,10 +2012,11 @@ The company&amp;#x27;s shares were indicated 2.9% higher in premarket activity i
 In its first detailed full-year outlook, Geberit said it expected sales to rise by 5% to 6% when measured in local currencies, and a profit margin similar to 2025 levels.
 The company said it still expected slight growth in the European construction market this year but no widespread recovery yet.
 ($1 = 0.8109 Swiss francs)&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -1910,10 +2036,11 @@ The company&amp;#x27;s revenue grew to 1.38 billion Swiss francs ($1.70 billion)
 Straumann&amp;#x27;s half-year core earnings before interest and taxes were 355 million francs, slightly above consensus of 350 million.
 It continues to target high single-digit organic revenue growth and core EBIT margin expansion of around 140-170 bps at constant 2025 exchange rates.
 ($1 = 0.8110 Swiss francs)&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -1988,10 +2115,11 @@ Bobby Witt Jr. delivered the game-winning single in the ninth inning as Kansas C
 The Royals had the bases loaded in the eighth when Tyler Tolbert appeared to go too far on a check swing, but it was ruled a ball by first-base umpire Alex Tosi. Tolbert then delivered a pinch-hit single that drove in Rave and Massey to tie it 3-3. Later in the inning, Elvis Alvarado gave up a two-out bloop single to Witt that allowed Jensen to come home for the winning run.
 Jeff McNeil had two hits and an RBI for the A&amp;#x27;s, who have lost six of their last eight games. Manager Mark Kotsay was ejected for arguing the call on Tolbert.
 --Field Level Media&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -2010,10 +2138,11 @@ Zur Wochenmitte warten Anleger auf eine Rede von EZB-Chefin Christine Lagarde be
 Jenseits des Atlantiks legt die US-Notenbank Fed die Protokolle zu ihrem intern umstrittenen [USN:L8N43V2IR TEXT:&amp;quot;Zinsentscheid&amp;quot;] vom Juli vor. Dabei hatte sie den Schlüsselsatz trotz der anhaltend hohen Inflation in der Spanne von 3,5 bis 3,75 Prozent belassen. Ein Viertel der stimmberechtigten Mitglieder im Offenmarktausschuss votierte allerdings für eine Erhöhung.
 Ebenfalls am Mittwoch beginnt in Peking eine der weltweit wichtigsten Robotermessen. Neben dem chinesischen Börsenneuling Unitree (688836.SS) sind auch deutsche Unternehmen wie der Chipkonzern Infineon (IFXGn.DE) und der Autozulieferer Schaeffler (SHA0n.DE) mit Ständen vertreten. Wie in den vergangenen Jahren spielen humanoide Roboter eine große Rolle, wobei inzwischen ihr wirtschaftlicher Mehrwert in den Vordergrund rückt.
 Schlusskurse europäischer Aktien-Indizes und&lt;/p&gt;&lt;p&gt;-Futures am Dienstag Stand Dax (.GDAXI) 26.128,36 EuroStoxx50 (.STOXX50E) 6.468,17 EuroStoxx50-Future 6.489,00 ---------- Schlusskurse der US-Indizes am Dienstag Stand Veränderung in Prozent Dow Jones (.DJI) 53.343,40 -0,2% Nasdaq (.IXIC) S&amp;amp;P 500 (.SPX) 7.691,76 -0,7% ---------- Asiatische Indizes am Mittwoch Kurse um 07:00 Uhr Veränderung in Prozent Nikkei (.N225) 65.326,37 -3,2% Shanghai (.SSEC) 3.912,17 -2,0% Hang Seng (.HSI) 25.534,42 +0,3%&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -2032,43 +2161,15 @@ Nach Angaben des Büros des US-Handelsbeauftragten Jamieson Greer umfasst die ge
 UMSTRITTENE PIPELINE SPIELT OFFENBAR AUCH EINE ROLLE Trump stellte in einem Beitrag auf seiner Online-Plattform Truth Social zudem eine Wiederbelebung der umstrittenen Keystone-XL-Pipeline in Aussicht, nannte jedoch keine Details. Das Projekt war 2021 vom damaligen US-Präsidenten Joe Biden nach jahrelangen Protesten unter anderem von Umweltschützern gestoppt worden.
 Carney erklärte, Kanada konzentriere sich weiterhin darauf, die heimische Wirtschaft stärker, unabhängiger und wettbewerbsfähiger zu machen. Zuvor hatten Trump und Carney am Dienstagnachmittag zum zweiten Mal in dieser Woche miteinander telefoniert. Dem waren wochenlange, intensive Verhandlungen auf Arbeitsebene vorausgegangen.
 Die neuen US-Zölle wären unabhängig davon fällig geworden, ob die kanadischen Güter unter das Freihandelsabkommen fallen, das weite Teile der kanadischen Industrie bislang vor US-Zöllen geschützt hat. Insidern zufolge waren bestehende US-Autozölle zuvor ein Hauptstreitpunkt in den Gesprächen gewesen.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
       <wire:canonicalUrl>https://www.reuters.com/de/welt/kanada-und-usa-nhern-sich-an-neue-zlle-vorerst-abgewendet-2026-08-19/</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>Athletics OF Tyler Soderstrom (hip) to have season-ending surgery</title>
-      <link>https://www.reuters.com/sports/athletics-tyler-soderstrom-hip-have-season-ending-surgery--flm-2026-08-19/</link>
-      <guid isPermaLink="false">2debbda5bd275b1d45a637f5</guid>
-      <pubDate>Wed, 19 Aug 2026 05:38:04 +0000</pubDate>
-      <description>Athletics outfielder Tyler Soderstrom is done for the season and will undergo season-ending left hip surgery on Friday.</description>
-      <dc:creator>Reuters</dc:creator>
-      <content:encoded>&lt;p&gt;Athletics outfielder Tyler Soderstrom is done for the season and will undergo season-ending left hip surgery on Friday.
-Soderstrom has been dealing with an impingement in the hip and was placed on the 10-day injured list on Sunday. It marked the second time this season he had gone on the IL due to the hip issues.
-Soderstrom visited a hip specialist in Los Angeles on Monday, leading to the decision to call it a season.
-Soderstrom, 24, batted .245 with 19 homers and 56 RBIs in 109 games. He ends the season with an 11-game hitting streak.
-The injury setback is the latest to plague the A&amp;#x27;s during a disappointing season.
-Two of the team&amp;#x27;s other top players -- All-Star catcher Shea Langeliers (knee), two-time All-Star designated hitter Brent Rooker -- are done for the season, and All-Star first baseman Nick Kurtz (right thumb) is highly unlikely to return.
-Also, shortstop Jacob Wilson (left shoulder) is expected to undergo surgery following the season. He might be shut down prior to the end of the campaign.
-After Soderstrom was placed on the injured list, A&amp;#x27;s manager Mark Kotsay discussed the team&amp;#x27;s bad luck when it comes to its core players.
-&amp;quot;I&amp;#x27;ve never seen it before,&amp;quot; Kotsay said before it was known Soderstrom would need season-ending surgery. &amp;quot;Having four of your Opening Day players having injuries that impact their seasons like this, and all at once.
-&amp;quot;Generally, you can go through timeframes with guys in and out of the lineup. But I&amp;#x27;ve never seen a group of players end up with injuries like this that are impacting the majority of their seasons.&amp;quot;
-In 2025, Soderstrom batted .276 with career highs of 25 homers, 34 doubles and 93 RBIs in 158 games. He signed a seven-year, $86 million extension following the season.
---Field Level Media&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>RSS content:encoded</wire:bodySource>
-      <wire:canonicalUrl>https://www.reuters.com/sports/athletics-tyler-soderstrom-hip-have-season-ending-surgery--flm-2026-08-19/</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Reuters</wire:evidence>
     </item>
     <item>
@@ -2106,56 +2207,15 @@ En France, le rendement de l&amp;#x27;OAT à dix ans cède 1,5 point de base à 
 Sur le marché des changes, le dollar perd 0,20% face à un panier de devises de référence (.DXY) , tandis que l&amp;#x27;euro gagne 0,19% pour s&amp;#x27;établir à 1,1596 dollar .
 PÉTROLE Le Brent avance de 0,58% à 91,55 dollars le baril et le brut léger américain (West Texas Intermediate, WTI) de 0,74% à 85,57 dollars, les négociations entre les Etats-Unis et l&amp;#x27;Iran restant au point mort.
 PRINCIPAUX INDICATEURS ÉCONOMIQUES À L&amp;#x27;AGENDA DU 19 AOÛT: PAYS GMT INDICATEUR PÉRIODE CONSENSUS PRÉCÉDENT EZ 09h00 Inflation (définitive) juillet - sur un mois 0,2% -0,1% - sur un an 2,9% 2,9%&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
       <wire:canonicalUrl>https://www.reuters.com/fr/affaires/point-marchs-leurope-vue-en-lgre-baisse-avec-lincertitude-gopolitique-2026-08-19/</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>VORSCHAU Island vor EU-Referendum - Beitritt im Tandem mit Montenegro?</title>
-      <link>https://www.reuters.com/de/welt/vorschau-island-vor-eu-referendum-beitritt-im-tandem-mit-montenegro-2026-08-19/</link>
-      <guid isPermaLink="false">05edc4f04b0feb85ea9b0745</guid>
-      <pubDate>Wed, 19 Aug 2026 05:32:04 +0000</pubDate>
-      <description>Wenn Island am 29. August über eine Wiederaufnahme von EU-Beitrittsgesprächen abstimmt, könnte auch das eine Weiche für die Zukunft weiterer Kandidaten stellen. Denn falls die Isländer in dem Referendum mehrheitlich dafür votieren, könnten Verhandlungen mit dem wohlhabenden Atlantikstaat die Skepsis vieler EU-Bürger gegenüber einer Erweiterung dämpfen, heißt es in EU-Kreisen. Die Europäische Union steht mittelfristig vor mehreren Aufnahmeentscheidungen: Montenegro hofft auf einen Beitritt im Jahr 2028, und auch Albanien, die Ukraine und die Republik Moldau dringen auf eine rasche Aufnahme in die Staatengemeinschaft.</description>
-      <dc:creator>Reuters</dc:creator>
-      <content:encoded>&lt;p&gt;Wenn Island am 29. August über eine Wiederaufnahme von EU-Beitrittsgesprächen abstimmt, könnte auch das eine Weiche für die Zukunft weiterer Kandidaten stellen. Denn falls die Isländer in dem Referendum mehrheitlich dafür votieren, könnten Verhandlungen mit dem wohlhabenden Atlantikstaat die Skepsis vieler EU-Bürger gegenüber einer Erweiterung dämpfen, heißt es in EU-Kreisen. Die Europäische Union steht mittelfristig vor mehreren Aufnahmeentscheidungen: Montenegro hofft auf einen Beitritt im Jahr 2028, und auch Albanien, die Ukraine und die Republik Moldau dringen auf eine rasche Aufnahme in die Staatengemeinschaft.
-Ein positives Votum in dem nur 400.000 Einwohner zählenden Inselstaat Island würde die Attraktivität der EU demonstrieren, sagte ein hochrangiger EU-Diplomat der Nachrichtenagentur Reuters. Es würde skeptischen EU-Ländern zudem erleichtern, auch einen Beitritt Montenegros zu akzeptieren. Montenegro zählt mit gut 600.000 Einwohnern ebenfalls zu den kleinsten europäischen Ländern und liegt bei der Wirtschaftskraft je Einwohner hinter Island. Experten sehen in einer Tandem-Lösung einen strategischen Vorteil. &amp;quot;Island mit Montenegro zu verbinden, wäre wahrscheinlich erfolgreicher, als Montenegro allein voranzubringen&amp;quot;, erklärte Steven Blockmans vom International Centre for Defence and Security in Tallinn.
-Island hatte frühere Beitrittsgespräche 2013 unter einer EU-skeptischen Regierung abgebrochen. Ein Knackpunkt waren und sind Islands wirtschaftlich bedeutende Fischgründe, die viele Isländer nicht mit den anderen Fischereiflotten anderer Länder teilen wollen. Doch geopolitische Umwälzungen wie Russlands Krieg gegen die Ukraine und die von US-Präsident Donald Trump geäußerte Möglichkeit einer Annexion des dänischen Autonomiegebiets Grönland geben vielen Isländern zu denken. Befürworter argumentieren zudem, mit einer EU-Mitgliedschaft könne Island den hohen Lebenshaltungskosten begegnen und sich gegen große Handelspartner behaupten.
-Die isländische Bevölkerung geht jedoch gespalten in das Referendum. Einer Gallup-Umfrage aus diesem Monat zufolge halten sich Befürworter und Gegner von Beitrittsgesprächen mit jeweils 46 Prozent die Waage. Acht Prozent sind unentschlossen. Einen Beitritt selbst lehnt anderen Umfragen zufolge derzeit sogar eine Mehrheit ab. Sollte es nun zu Gesprächen kommen, müsste über einen Beitritt dann später in einem gesonderten Referendum abgestimmt werden.
-Falls sich die Isländer für Verhandlungen aussprechen, rechnet die zuständige EU-Kommissarin Marta Kos mit einer Dauer von ein bis zwei Jahren. In der Frage der Fischereirechte hält sie einen Kompromiss für möglich. &amp;quot;Ich bin zuversichtlich, dass wir gemeinsam mit den EU-Mitgliedstaaten kreative Lösungen finden würden, die die Befindlichkeiten sowohl Islands als auch unserer Mitgliedstaaten respektieren&amp;quot;, sagt Kos.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>RSS content:encoded</wire:bodySource>
-      <wire:canonicalUrl>https://www.reuters.com/de/welt/vorschau-island-vor-eu-referendum-beitritt-im-tandem-mit-montenegro-2026-08-19/</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>Nach Kushner-Besuch - Sechs Tote bei israelischem Luftangriff in Gaza</title>
-      <link>https://www.reuters.com/de/welt/nach-kushner-besuch-sechs-tote-bei-israelischem-luftangriff-gaza-2026-08-19/</link>
-      <guid isPermaLink="false">688b18dabac664881430ca2b</guid>
-      <pubDate>Wed, 19 Aug 2026 05:31:16 +0000</pubDate>
-      <description>Nur einen Tag nach Gesprächen des US-Sondergesandten Jared Kushner zur Wiederbelebung des Gaza-Friedensplans sind bei israelischen Angriffen in dem Küstenstreifen nach Palästinenser-Angaben erneut sechs Menschen getötet worden. Zudem habe es 14 Verletzte gegeben, als am Dienstag ein israelisches Flugzeug zwei Raketen auf ein Cafe in Gaza-Stadt abgefeuert habe, sagten Sanitäter. Das israelische Militär teilte mit, der Angriff habe bewaffneten Hamas-Kommandeuren gegolten. Diese hätten Angriffe auf israelische Truppen in dem Küstengebiet geplant. Obwohl im Oktober eine Waffenruhe für Gaza vereinbart wurde, sind seitdem nach Angaben der Behörden mehr als 1200 Palästinenser durch israelischen Beschuss getötet worden. Auf israelischer Seite gab es den Angaben zufolge vier Tote.</description>
-      <dc:creator>Reuters</dc:creator>
-      <content:encoded>&lt;p&gt;Nur einen Tag nach Gesprächen des US-Sondergesandten Jared Kushner zur Wiederbelebung des Gaza-Friedensplans sind bei israelischen Angriffen in dem Küstenstreifen nach Palästinenser-Angaben erneut sechs Menschen getötet worden. Zudem habe es 14 Verletzte gegeben, als am Dienstag ein israelisches Flugzeug zwei Raketen auf ein Cafe in Gaza-Stadt abgefeuert habe, sagten Sanitäter. Das israelische Militär teilte mit, der Angriff habe bewaffneten Hamas-Kommandeuren gegolten. Diese hätten Angriffe auf israelische Truppen in dem Küstengebiet geplant. Obwohl im Oktober eine Waffenruhe für Gaza vereinbart wurde, sind seitdem nach Angaben der Behörden mehr als 1200 Palästinenser durch israelischen Beschuss getötet worden. Auf israelischer Seite gab es den Angaben zufolge vier Tote.
-Der Sondergesandte Kushner, Schwiegersohn von US-Präsident Donald Trump, hatte zwei Tage lang mit dem israelischen Ministerpräsidenten Benjamin Netanjahu, Vermittlern und Hamas-Führern über die Umsetzung des US-Friedensplans verhandelt. Sowohl die Hamas als auch Israel beharren jedoch auf ihren Hauptforderungen, die nicht miteinander vereinbar sind. Trump hatte im Juli verkündet, die radikal-islamische Hamas habe den Plan akzeptiert. Dieser sieht vor, dass die Gruppe ihre Waffen schrittweise abgibt, während sich das israelische Militär aus dem Gazastreifen zurückzieht. Netanjahu lehnt das ab und hat erklärt, dass die Armee erst nach einer vollständigen Hamas-Entwaffnung abziehen werde.
-Kushner hatte am Montag dem Sender Fox gesagt, wenn die Hamas ihre Zusage nicht einhalte, werde jeder sehen, dass sie es mit dem Frieden nicht ernst meine. In dem Fall werde Israel deutlich mehr Unterstützung von den USA und anderen erhalten, &amp;quot;um die Sache auf angemessene Weise zu Ende zu bringen&amp;quot;.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>RSS content:encoded</wire:bodySource>
-      <wire:canonicalUrl>https://www.reuters.com/de/welt/nach-kushner-besuch-sechs-tote-bei-israelischem-luftangriff-gaza-2026-08-19/</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Reuters</wire:evidence>
     </item>
     <item>
@@ -2171,10 +2231,11 @@ KKR declined to comment on the deal size, while BookMyShow did not immediately r
 The companies announced the investment early on Wednesday but did not disclose its financial terms. The stake buy implies an estimated valuation of $667 million to $833 million for BookMyShow, the source added, requesting anonymity as they were not authorised to speak to the media.
 Founded in 2007, BookMyShow has evolved from an online movie ticketing platform into a broader entertainment company spanning films, live events and experiences. Its live entertainment division has hosted renowned artists including Coldplay, Ed Sheeran and Travis Scott.
 BookMyShow founder and CEO Ashish Hemrajani said the company was seeing the opportunity in India&amp;#x27;s entertainment economy grow &amp;quot;like never before&amp;quot; as it expands across the live entertainment landscape.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -2194,10 +2255,11 @@ Charles Schwab plans to bring some technology work currently handled by contract
 India has emerged as the world&amp;#x27;s largest global capability centre hub, with more than 2,100 centers employing about 2.36 million people and generating nearly $100 billion in revenue, according to a 2026 report by Nasscom-Zinnov.
 Financial firms including JPMorgan Chase (JPM.N) , Wells Fargo (WFC.N) , Barclays and American Express (AXP.N) account for a fourth of the country&amp;#x27;s overall GCC workforce.
 &amp;quot;Telangana currently hosts more than 475 global capability centres and expects to add another 100 over the next year,&amp;quot; the state&amp;#x27;s Information Technology Minister Sridhar Babu told Reuters on Wednesday.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -2243,10 +2305,11 @@ The company said the awards showed its ability to move beyond technology develop
 For industry executives, the question is no longer whether Italy&amp;#x27;s space companies need to grow.
 It is whether a sector built on specialised SMEs can secure the capital and scale needed to compete in a changing European market before competitors, or foreign acquirers, do it for them.
 ($1 = 0.8640 euros)&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -2274,10 +2337,11 @@ Cubs trainers tended to Gausman two batters later. Gausman threw a series of war
 Gausman scattered three runs and seven hits in 4 1/3 innings. He walked two and struck out five.
 The Cubs capitalized on two walks from Huascar Brazoban to start the bottom of the seventh. After fanning Crow-Armstrong and Suzuki, Grant Taylor allowed Bregman&amp;#x27;s game-tying single to left field.
 --Field Level Media&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -2300,10 +2364,11 @@ As a result of these dynamics, too much money is often shunted to too few target
 Follow Hudson Lockett on Bluesky and X .
 Shares in Chinese humanoid robotics firm Unitree, formally known as Yushu Technology, opened 629% above their IPO price at 1,100 yuan ($163) in their debut on Shanghai’s tech-focused STAR Market on August 19.
 CONTEXT-NEWS&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -2322,10 +2387,11 @@ Congo&amp;#x27;s 17th Ebola epidemic turned into the biggest in the country&amp;
 The institute has so far logged 5,021 cases, according to its latest situation report, making it the second-worst outbreak globally, behind only the 2014 to 2016 epidemic in West Africa in both infections and deaths.
 The ongoing outbreak is caused by the Bundibugyo species of Ebola, which has no approved vaccines or treatments.
 It has gained momentum since it was declared on May 15, as weak health infrastructure, community resistance, instability and protests by response workers hinder efforts to identify and respond to cases.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -2357,10 +2423,11 @@ The firm, led by veteran tech investor Neil Shen, also plans to establish a grow
 HSG declined to comment. Bloomberg first reported HSG&amp;#x27;s fundraising plan on Tuesday.
 All sources declined to be identified as they were not authorised to speak to the media.
 Other firms raising new Asia-focused funds include [USN:L4N3X208G TEXT:&amp;quot;Hillhouse Investment&amp;quot;] which targets $7 billion and KKR &amp;amp; Co which seeks [USN:L4N3WW0R8 TEXT:&amp;quot;at least $15 billion&amp;quot;], Reuters has reported.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -2385,10 +2452,11 @@ On June 22 this year, the stock plunged nearly 20% after [USN:L1N42U05U TEXT:&am
 WiseTech had said then the alleged investigation concerned White in his personal capacity and that the company was unaware of any investigation as outlined in media reports.
 White had said he &amp;quot;strenuously and unequivocally&amp;quot; denies recent media allegations.
 White stepped down as CEO in October 2024 but [USN:L4N43900T TEXT:&amp;quot;stayed on as executive chair until last month&amp;quot;].&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -2422,10 +2490,11 @@ The euro hovered at $1.1586 and the yen traded at 159.23 per dollar, just in the
 European and British inflation data on Wednesday is due along with earnings at Lowe&amp;#x27;s (LOW.N) , Target (TGT.N) and TJX (TJX.N) which will be closely watched after softer-than-expected U.S. retail sales data landed last week.
 [USN:L6N44F0K9 TEXT:&amp;quot;Home Depot&amp;quot;] (HD.N) beat estimates for second-quarter sales and profit on Tuesday, on strong demand from customers for repair and maintenance, though U.S. data showed [USN:L1N44F0EJ TEXT:&amp;quot;homebuilding dived in July&amp;quot;], hit hard by rising mortgage rates.
 ($1 = 1.4128 Australian dollars)&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -2451,10 +2520,11 @@ Gasper&amp;#x27;s home run, his second in as many games, made it a 7-4 game in t
 Boston wrapped up the scoring in the seventh when Gasper drove in Sogard with an RBI single.
 Arizona second baseman Ketel Marte missed his second straight game. He traveled to Phoenix to get an MRI exam on his balky left knee one day after failing to report to Fenway Park.
 --Field Level Media&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -2476,10 +2546,11 @@ Sichuan authorities declared a heavy rain alert this week and warned about disas
 Authorities are investigating the cause of Monday&amp;#x27;s [USN:L6N44E0LC TEXT:&amp;quot;landslide&amp;quot;] at a construction site in Guangxi region that buried five people, later pulled out lifeless by rescue workers, CCTV said.
 Loose sand and gravel in the high mountain canyon area could unleash landslides, authorities said earlier.
 Since the start of summer, Guangxi, like many parts of China&amp;#x27;s southwest, has received heavy rain.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -2505,10 +2576,11 @@ The blast marked Bell&amp;#x27;s 17th homer of the season and his first in the p
 The Braves cut the deficit to 2-1 in the top of the sixth. Baldwin led off the inning with a 383-foot solo shot to left-center field for his 21st homer.
 Jeffers provided a pair of insurance runs for the Twins in the eighth. He stepped to the plate with runners on first and second and one out and delivered a two-run double to right-center to drive in Kaelen Culpepper and Byron Buxton.
 -Field Level Media&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -2533,10 +2605,11 @@ Three batters later, Tyler Phillips was on the mound when Crawford delivered an 
 Phillies left-hander Jose Alvarado got out of the seventh inning thanks to a nifty double play in which Bohm caught a line drive and stepped on first base in one motion.
 Both teams scored a run in the eighth before Brooks Raley logged a perfect ninth for his first save as a Phillie. Stott, who moved to third base earlier this month, made two diving stops in the frame, including one to close out the game.
 --Field Level Media&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -2561,10 +2634,11 @@ Grisham opened the scoring by hammering a two-out home run in the third inning. 
 The Yankees loaded the bases with one out in the seventh before Josh Walker struck out pinch hitter Amed Rosario. But Grisham followed with the go-ahead single off Walker.
 New York batters struck out 14 times. Other than a 4-3, 10-inning win Sunday at Toronto, the Yankees have gone four consecutive games without scoring more than three runs.
 --Field Level Media&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -2591,10 +2665,11 @@ Data released in the past few weeks have pointed to a softer U.S. economy, inclu
 Meanwhile, a stalemate in the Middle East lifted [USN:L1N44E0WW TEXT:&amp;quot;oil prices&amp;quot;] to near three-week highs, keeping inflation risk alive. U.S. President Donald Trump [USN:L8N44F0XM TEXT:&amp;quot;said&amp;quot;] on Tuesday there were no talks with Iran and insisted the Strait of Hormuz was open, contradicting Iran&amp;#x27;s assertion that the waterway remained shut to shipping.
 Elsewhere, the Canadian dollar rose slightly to $1.3880 after U.S. President Donald Trump [USN:L1N44F0K7 TEXT:&amp;quot;paused&amp;quot;] imposing a 50% tariff on Canadian goods for three days, saying the countries had reached a deal.
 The Australian dollar dipped 0.2% to $0.7069 as a selloff across major stock markets pressured risk assets. The New Zealand dollar was little changed at $0.5874.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -2630,10 +2705,11 @@ MORE CHINESE ROBOT MAKERS TO LIST Some 10% of the Unitree shares were sold in th
 The startup also has backing from some of China&amp;#x27;s most influential tech firms including Tencent (0700.HK) , Alibaba (9988.HK) and DeepSeek, while Wang had a coveted front-row seat at a summit with tech business leaders hosted by Chinese President Xi Jinping early last year.
 At least a half dozen Chinese humanoid robotics firms are preparing to go public. Deep Robotics and Leju Robotics have applied to list on mainland Chinese exchanges, while Mech-Mind Robotics, X Square Robot and AgiBot have chosen to pursue a Hong Kong listing.
 ($1 = 6.7420 Chinese yuan)&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -2657,10 +2733,11 @@ Cincinnati starter Andrew Abbott (6-8) managed to work into the seventh inning, 
 Winn, who also had a pair of stellar defensive plays at short, was at the heart of another rally in the seventh when he and Fermin laced back-to-back doubles for a 2-0 lead, chasing Abbott from the game. Abbott was charged with two runs on four hits over 6 1/3 innings, striking out six and walking two.
 St. Louis tacked on its final insurance run in the eighth on Joshua Baez&amp;#x27;s sacrifice fly after Jordan Walker led off with a single and moved to third on Alec Burleson&amp;#x27;s double.
 --Field Level Media&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -2684,10 +2761,11 @@ Montero allowed three runs on four hits and one walk, striking out three over fi
 After Cruz left the yard, Jake Mangum&amp;#x27;s bunt single and a ground-rule double by Rafael Flores Jr. put runners on second and third. Mangum was thrown out at home -- a ruling that was upheld after review after he didn&amp;#x27;t touch home plate -- on a ground ball by Jared Triolo. But Spencer Horwitz drove in Flores with an RBI single to push the Pirates&amp;#x27; lead to 3-1.
 Bryan Reynolds added an insurance run in the eighth with a two-out RBI single to score Triolo. Mason Montgomery pitched a scoreless ninth to pick up his fifth save.
 --Field Level Media&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -2713,10 +2791,11 @@ On the geopolitical front, U.S. President Donald Trump [USN:L8N44F0XM TEXT:&amp;
 Oil prices [USN:L6N44G00F TEXT:&amp;quot;gained&amp;quot;] for a fourth straight session.
 Among other metals, spot silver slid 1% to $62.68 per ounce, platinum edged up 0.1% to $1,714.08 and palladium slipped 0.5% to $1,283.74.
 TD Securities said silver and platinum group metals were expected to benefit from a supportive macroeconomic backdrop in the second half of 2027, with easing inflation risks, a weaker U.S. dollar and lower carry costs likely to drive a stronger price response than gold.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -2744,10 +2823,11 @@ The contracts under the new mechanism will run for three months starting Septemb
 &amp;quot;Traders are likely to remain cautious as long as there is a possibility of another round of talks, but persistent constraints around Hormuz or further evidence of tightening product supplies could change that balance quickly,&amp;quot; she added.
 Meanwhile, U.S. crude oil and distillate inventories fell while gasoline stocks rose last week, market sources said, citing data from the American Petroleum Institute.
 Official inventory numbers from the U.S. Energy Information Administration are due at 10:30 a.m. ET (1430 GMT). Analysts [USN:L1N44F0V6 TEXT:&amp;quot;polled by Reuters&amp;quot;] expect crude stocks fell by about 600,000 barrels in the week ended August 14.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -2774,10 +2854,11 @@ There is currently no time-frame for when the panel of three judges will reach a
 A jury found Patterson lured her mother-in-law Gail Patterson, father-in-law Donald Patterson and Gail&amp;#x27;s sister Heather Wilkinson to a 2023 lunch at her home in Leongatha, a town of about 6,000 people, some 135 km (84 miles) south-east of Melbourne, and fed them the poisoned meal.
 She was also found guilty of the attempted murder of Ian Wilkinson, Heather&amp;#x27;s husband, who [USN:L1N3UH043 TEXT:&amp;quot;survived the lunch.&amp;quot;]
 The 11-week trial in the nearby country town of Morwell drew global interest, while the case has inspired several podcasts and books.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -2814,10 +2895,11 @@ New workplace regulations introduced in 2025 require employers to establish heat
 But on Iijima&amp;#x27;s farm, adaptation remains intensely manual. In the early morning, workers hurriedly check the harvested flowers for wilting leaves before loading them onto trucks. It is not yet 8 a.m., and the morning is still bearable.
 &amp;quot;Look, those leaves are already wilting,&amp;quot; one worker calls out.
 Iijima pauses and glances at the overcast sky. Before long, the heat will return.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -2847,14 +2929,52 @@ That creates a feedback risk: concern about the fiscal trajectory can itself pus
 WHY DO GLOBAL MARKETS CARE? Treasuries are the benchmark &amp;quot;risk-free&amp;quot; asset for global finance, anchoring the pricing of mortgages, corporate bonds, emerging-market debt, private credit and stock valuations worldwide.
 A sustained rise in U.S. yields can pull capital toward dollar assets, strengthening the dollar and tightening financial conditions abroad, which makes it harder for lower-rated companies, indebted governments and emerging-market borrowers to refinance.
 For banks, insurers and pension funds, a fast rise can also erode the market value of existing long-dated bonds. Institutions forced to sell before maturity can lock in losses, even though the securities will repay face value if held to term.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
       <wire:canonicalUrl>https://www.reuters.com/business/finance/treasury-yields-are-rising-why-does-it-matter-2026-08-18/</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>British data group Quantexa exploring UK or US IPO</title>
+      <link>https://www.reuters.com/world/british-data-group-quantexa-explores-uk-or-us-ipo-sources-say-2026-08-18/</link>
+      <guid isPermaLink="false">7f80f3b7e6ea7bd82b96b0c8</guid>
+      <pubDate>Tue, 18 Aug 2026 16:29:45 +0000</pubDate>
+      <description>British artificial intelligence company Quantexa is considering a multibillion-dollar stock market listing in Britain or the United States, its chief executive told Reuters.</description>
+      <dc:creator>Amy-Jo Crowley</dc:creator>
+      <content:encoded>&lt;p&gt;British artificial intelligence company Quantexa is considering a multibillion-dollar stock market listing in Britain or the United States, its chief executive told Reuters.
+&amp;quot;We can list in the UK or the U.S., or both,&amp;quot; Vishal Marria said, adding that the company has not decided when to pursue a public offering and could remain privately held.
+A U.S. listing would deal a further blow to London&amp;#x27;s stock market, which has seen a string of companies opt for U.S. exchanges. Marria said the U.S. offers a deeper pool of capital and the potential for a higher valuation than the UK.
+Marria said Quantexa has been &amp;quot;IPO-ready&amp;quot; since January but declined to comment on the timing of any IPO.
+Founded in 2016, Quantexa&amp;#x27;s AI software helps organisations, including financial institutions, healthcare providers and government agencies, organise and analyse large volumes of data for uses including fraud detection and financial crime prevention.
+&amp;quot;We need to recognise that companies are increasingly mobile and that we need to make it compelling for companies to list in London rather than rely on home-grown sentiment,&amp;quot; said Charles Hall, head of research at Peel Hunt.
+&amp;quot;The reality is that our leading tech companies have a broad range of investors and board members who will advocate for the most appropriate listing venue for the company. If the UK is to thrive we need to ensure that our fast-growing innovative companies list in London.&amp;quot;
+Britain has [USN:L8N44211Q TEXT:&amp;quot;reformed&amp;quot;] its listing rules in a bid to attract more listings.
+UK CONTRACTS Some British politicians and technology executives have [USN:L8N42H0CV TEXT:&amp;quot;argued &amp;quot;]that public bodies should favour domestic technology providers over U.S. rivals such as Palantir, whose federated data platform is used by the UK&amp;#x27;s National Health Service.
+New Prime Minister Andy Burnham said in July that Britain should use public procurement to support domestic industry.
+Marria, however, said data sovereignty depends less on where a supplier is headquartered and more on whether customers can retain ownership and control of their data and move it elsewhere when contracts end.
+Earlier this year, Quantexa announced a £175 million ($223 million) contract with Britain&amp;#x27;s revenue and customs agency to combine internal and external data sources to improve fraud and error detection.
+The company is also competing for the NHS&amp;#x27;s planned single patient record programme, which would allow staff to access a patient&amp;#x27;s medical history through a single system, Marria said.
+He said Quantexa&amp;#x27;s software works with existing systems and reduces the risk of vendor lock-in, helping the NHS to retain control of its data.
+SHARE SALE Meanwhile, minority shareholder Warburg Pincus is working with adviser Citigroup to explore options for its 9% to 10% stake in the London-headquartered company, including a possible sale, two people with knowledge of the matter told Reuters.
+The potential stake sale has not previously been reported. Other investors could also sell shares as part of the process, the sources said, speaking on condition of anonymity because the discussions are private.
+Marria declined to comment on the possible stake sale. Warburg Pincus and Citi also declined to comment.
+The process is at an early stage and Warburg Pincus is expected to launch an auction later this year, the people said, while cautioning a deal is not guaranteed.
+Quantexa was valued at about $2.6 billion last year when it raised $175 million in a Series F funding round led by Teachers&amp;#x27; Venture Growth, part of Ontario Teachers&amp;#x27; Pension Plan, according to a company statement. Warburg Pincus [USN:L8N2OM04F TEXT:&amp;quot;first&amp;quot;] invested in July 2021, leading a $153 million Series D funding round.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>RSS content:encoded</wire:bodySource>
+      <wire:canonicalUrl>https://www.reuters.com/world/british-data-group-quantexa-explores-uk-or-us-ipo-sources-say-2026-08-18/</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Reuters</wire:evidence>
     </item>
     <item>
@@ -2892,10 +3012,11 @@ Thousands of people have been killed in the conflict, mainly in Iran and Lebanon
 Benchmark Brent crude oil futures have surged during the conflict, hitting a peak of $126 a barrel, roughly 75% above pre-war levels. Brent crude futures settled up 20 cents on Tuesday at just over $91 a barrel.
 A U.S. administration official reiterated warnings that Washington could go further on hitting Iran&amp;#x27;s economy following multiple sanctions actions.
 &amp;quot;There are many levers the president can crank harder in the weeks and months ahead.&amp;quot;&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -2931,10 +3052,11 @@ Florida&amp;#x27;s new map, pushed through by the Republican-controlled legislat
 States usually redraw their congressional maps only at the beginning of every decade, to reflect census results. But several have redistricted over the past year at Trump&amp;#x27;s urging to shore up the Republican majority in Congress, prompting some Democratic-led states to redraw their own maps in response.
 Republican Representative Cory Mills, who is embroiled in ethics investigations, was defeated in his central Florida primary for reelection by former broadcast news anchor Ryan Elijah.
 Mills has denied allegations of campaign finance law violations and sexual misconduct now being probed by the House Ethics Committee. Democrats had seen the seat as a potential pickup opportunity if Mills had won the nomination.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -2968,10 +3090,11 @@ GB-Les salaires ont augmenté de 3,5% au cours des trois mois à fin juin
 Les salaires hors primes ont progressé de 3,5% au Royaume-Uni au cours des trois mois à fin juin, plus que prévu, contre une hausse de 3,4% au cours du trimestre clos fin mai, selon les données officielles publiées mardi.
 ArcelorMittal confirme que deux employés ont été tués lors d&amp;#x27;une attaque russe en Ukraine
 ArcelorMittal a confirmé lundi que deux de ses employés avaient été tués et 13 blessés en Ukraine lors d&amp;#x27;attaques de missiles menées par la Russie sur plusieurs villes du pays dans la nuit de samedi à dimanche, et qui ont touché son aciérie de Krivih Rih alors qu&amp;#x27;elle était en activité.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -3005,10 +3128,11 @@ Philippines-Fusillade dans un lycée, diffusée en direct par l&amp;#x27;assaill
 MANILLE, 18 août (Reuters) - Deux élèves ont été tués mardi lors d&amp;#x27;une fusillade dans un lycée du sud des Philippines, dont l&amp;#x27;auteur des tirs, ont annoncé les autorités, précisant que la situation était désormais sous contrôle.
 Syrie-Des frappes israéliennes touchent la base aérienne d&amp;#x27;Abou Douhour
 18 août (Reuters) - La base aérienne militaire d&amp;#x27;Abou Douhour, dans le nord-ouest de la Syrie, a été prise pour cible par des frappes aériennes israéliennes mardi matin, a indiqué la chaîne publique syrienne Al-Ikhbariya, citant une source militaire.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>
@@ -3042,10 +3166,11 @@ Natation-Léon Marchand qualifié pour la finale du 200 m papillon pour son reto
 La star française des bassins Léon Marchand s&amp;#x27;est qualifiée vendredi pour la finale du 200 m papillon des championnats d&amp;#x27;Europe de natation disputés au Centre aquatique olympique de Saint-Denis (Seine-Saint-Denis).
 Football-Jeff Bezos entre officiellement au capital du Liverpool FC
 Un consortium d&amp;#x27;investisseurs incluant le fondateur d&amp;#x27;Amazon, Jeff Bezos, a conclu un accord définitif pour acquérir une part minoritaire au capital du Liverpool FC, a annoncé vendredi Fenway Sports Group (FSG) le propriétaire du club de football anglais.&lt;/p&gt;</content:encoded>
-      <wire:platform>Reuters</wire:platform>
-      <wire:sourceId>reuters_official_msn</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>reuters_official_msn</wire:foundAt>
+      <wire:platform>Reuters</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>RSS content:encoded</wire:bodySource>

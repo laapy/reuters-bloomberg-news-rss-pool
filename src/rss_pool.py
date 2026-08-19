@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Build a provenance-aware Reuters/Bloomberg RSS resource pool.
+"""Build a normalized Reuters/Bloomberg RSS resource pool.
 
-The module deliberately separates a wire-service article from a publisher's
-own article that merely cites a wire report.  Publisher-owned endpoints and
-Yahoo Japan's publisher-specific media pages are treated as structured
-evidence.  On other platforms an exact author/source credit or a retained
-copyright/byline is required for ``wire_syndication``; phrases such as
-"Bloomberg News reports" are classified as ``wire_attribution``.
+Every accepted article uses four consumer-facing dimensions: ``publisher``
+(Reuters/Bloomberg), ``found_at`` (the source connector), ``relation``
+(original/repost/mention/unknown), and ``content_level``
+(full/summary/link_only).  The older detailed ``classification`` value stays
+inside the manifest for compatibility and evidence scoring, but primary feeds
+and HTTP consumers use the smaller model.
 """
 
 from __future__ import annotations
@@ -58,6 +58,24 @@ WIRE_NAMES = {
     "bloombergnews": "Bloomberg",
     "ブルームバーグ": "Bloomberg",
 }
+
+RELATION_BY_CLASSIFICATION = {
+    "wire_original": "original",
+    "wire_syndication": "repost",
+    "wire_attribution": "mention",
+    "discovery_candidate": "unknown",
+    "unrelated": "unknown",
+}
+RELATION_RANK = {"original": 4, "repost": 3, "mention": 2, "unknown": 1}
+PRIMARY_RELATIONS = {"original", "repost"}
+LEGACY_AGGREGATE_FEEDS = (
+    "all.xml",
+    "verified_all.xml",
+    "wire_original.xml",
+    "wire_syndication.xml",
+    "wire_attribution.xml",
+    "discovery_candidates.xml",
+)
 
 WEAK_PATTERNS = {
     "Reuters": [
@@ -226,6 +244,54 @@ def classify_wire_item(item: dict[str, Any]) -> dict[str, Any]:
     }
 
 
+def article_relation(item: dict[str, Any]) -> str:
+    """Return the compact relationship value, including legacy manifests."""
+    relation = clean_text(item.get("relation", "")).casefold()
+    if relation in RELATION_RANK:
+        return relation
+    return RELATION_BY_CLASSIFICATION.get(item.get("classification", ""), "unknown")
+
+
+def article_content_level(item: dict[str, Any]) -> str:
+    """Describe the usable text without coupling it to provenance."""
+    level = clean_text(item.get("content_level", "")).casefold()
+    if level in {"full", "summary", "link_only"}:
+        return level
+    if len(clean_text(item.get("body", ""))) >= 200:
+        return "full"
+    if clean_text(item.get("summary", "")):
+        return "summary"
+    return "link_only"
+
+
+def apply_article_dimensions(item: dict[str, Any]) -> dict[str, Any]:
+    """Attach the four stable fields used by API and RSS consumers."""
+    item["found_at"] = clean_text(
+        item.get("found_at") or item.get("source_id") or item.get("platform")
+    )
+    item["relation"] = article_relation(item)
+    item["content_level"] = article_content_level(item)
+    item["has_full_text"] = item["content_level"] == "full"
+    return item
+
+
+def deduplicate_items(items: Iterable[dict[str, Any]]) -> list[dict[str, Any]]:
+    """Choose the strongest, richest cross-platform copy for each headline."""
+    selected: dict[str, dict[str, Any]] = {}
+    for row in items:
+        apply_article_dimensions(row)
+        key = re.sub(r"\W+", "", row.get("title", "").casefold())[:180]
+        key = key or row.get("id") or stable_id(row.get("link", ""), "")
+        old = selected.get(key)
+        score = (RELATION_RANK[row["relation"]], len(clean_text(row.get("body", ""))))
+        old_score = (
+            RELATION_RANK[article_relation(old)], len(clean_text(old.get("body", "")))
+        ) if old else (-1, -1)
+        if score > old_score:
+            selected[key] = row
+    return sorted(selected.values(), key=lambda row: row.get("published", ""), reverse=True)
+
+
 def extract_json_object(text: str, marker: str) -> dict[str, Any]:
     index = text.find(marker)
     if index < 0:
@@ -367,6 +433,171 @@ def parse_rss(payload: bytes, spec: dict[str, Any]) -> list[dict[str, Any]]:
         if len(rows) >= maximum:
             break
     return rows
+
+
+CGSP_LOCKED_MARKERS = (
+    "subscribe or log in to read the rest of this content",
+    "this content is for subscribers only",
+)
+
+
+def _source_row(spec: dict[str, Any], *, title: str, link: str,
+                published: str = "", summary: str = "", body: str = "",
+                author: str = "", copyright_text: str = "",
+                discovery_method: str = "") -> dict[str, Any]:
+    """Create the common normalized row used by non-RSS source adapters."""
+    return {
+        "id": stable_id(link, title), "title": clean_text(title), "link": link,
+        "canonical_url": link, "platform": spec["platform"],
+        "source_id": spec["id"], "source_kind": spec["kind"],
+        "source_url": spec.get("url", ""), "owned_by": spec.get("owned_by", ""),
+        "publisher_hint": spec.get("publisher_hint", ""),
+        "language": spec.get("language", ""), "published": parse_datetime(published),
+        "author": clean_text(author), "creator": clean_text(author),
+        "rss_source": "", "media_name": spec.get("platform", ""),
+        "summary": clean_text(summary),
+        "summary_source": f"{spec['platform']} source metadata" if summary else "",
+        "body": clean_text(body),
+        "body_source": f"{spec['platform']} public article data" if body else "",
+        "raw_description": clean_text(summary), "copyright": clean_text(copyright_text),
+        "discovery_method": discovery_method or spec["kind"],
+    }
+
+
+def parse_wordpress_posts(payload: bytes | str, spec: dict[str, Any]) -> list[dict[str, Any]]:
+    """Turn a WordPress REST posts response into normalized source rows."""
+    if isinstance(payload, bytes):
+        payload = payload.decode("utf-8", "replace")
+    posts = json.loads(payload)
+    if not isinstance(posts, list):
+        raise ValueError("wordpress_posts_response_not_list")
+    rows: list[dict[str, Any]] = []
+    maximum = int(spec.get("max_items", 100))
+    for post in posts:
+        if not isinstance(post, dict):
+            continue
+        title = clean_text((post.get("title") or {}).get("rendered", ""))
+        link = clean_text(post.get("link", ""))
+        if not title or not link:
+            continue
+        summary = clean_text((post.get("excerpt") or {}).get("rendered", ""))
+        body = clean_text((post.get("content") or {}).get("rendered", ""))
+        folded = body.casefold()
+        positions = [folded.find(marker) for marker in CGSP_LOCKED_MARKERS if marker in folded]
+        marker_at = min(positions) if positions else -1
+        if marker_at >= 0:
+            lead = body[:marker_at].strip()
+            if not summary and len(lead) >= 80:
+                summary = lead[:1200]
+            body = ""
+        embedded = post.get("_embedded") or {}
+        authors = embedded.get("author") or [] if isinstance(embedded, dict) else []
+        author = ", ".join(filter(None, (clean_text(x.get("name", ""))
+                                         for x in authors if isinstance(x, dict))))
+        rows.append(_source_row(
+            spec, title=title, link=link,
+            published=post.get("date_gmt") or post.get("date") or "",
+            summary=summary, body=body, author=author,
+            discovery_method="WordPress REST posts API",
+        ))
+        if len(rows) >= maximum:
+            break
+    return rows
+
+
+def collect_wordpress_rest(spec: dict[str, Any]) -> list[dict[str, Any]]:
+    payload, _, _ = fetch_url(spec["url"])
+    return parse_wordpress_posts(payload, spec)
+
+
+def sitemap_locations(payload: bytes | str) -> list[str]:
+    if isinstance(payload, str):
+        payload = payload.encode("utf-8")
+    root = ET.fromstring(payload)
+    return [clean_text(node.text or "") for node in root.iter()
+            if local_name(node.tag) == "loc" and clean_text(node.text or "")]
+
+
+def parse_bitget_article(payload: bytes | str, url: str,
+                         spec: dict[str, Any]) -> dict[str, Any] | None:
+    """Parse one Bitget News detail page, primarily through NewsArticle JSON-LD."""
+    if isinstance(payload, bytes):
+        payload = payload.decode("utf-8", "replace")
+    article = generic_article_data(payload)
+    marker = '"detailProps":'
+    marker_at = payload.find(marker)
+    if marker_at >= 0:
+        try:
+            detail, _ = json.JSONDecoder().raw_decode(payload[marker_at + len(marker):].lstrip())
+            if isinstance(detail, dict):
+                article["title"] = clean_text(detail.get("title") or article.get("title", ""))
+                article["body"] = clean_text(
+                    detail.get("contentText") or detail.get("content") or article.get("body", ""))
+                article["summary"] = clean_text(
+                    detail.get("abstractContent") or article.get("summary", ""))
+                article["author"] = clean_text(
+                    detail.get("sourceName") or detail.get("originAuthor") or
+                    detail.get("author") or article.get("author", ""))
+                timestamp = detail.get("originPublishTime") or detail.get("showTime")
+                if timestamp and str(timestamp).isdigit():
+                    value = int(timestamp)
+                    if value > 10_000_000_000:
+                        value /= 1000
+                    article["published"] = dt.datetime.fromtimestamp(
+                        value, tz=dt.timezone.utc).isoformat().replace("+00:00", "Z")
+        except (json.JSONDecodeError, TypeError, ValueError, OverflowError):
+            pass
+    title = article.get("title", "")
+    if not title:
+        return None
+    return _source_row(
+        spec, title=title, link=url, published=article.get("published", ""),
+        summary=article.get("summary", ""), body=article.get("body", ""),
+        author=article.get("author", ""), copyright_text=article.get("copyright", ""),
+        discovery_method="Bitget News sitemap + NewsArticle structured data",
+    )
+
+
+def collect_bitget_sitemap(spec: dict[str, Any]) -> list[dict[str, Any]]:
+    """Synthesize a current feed from Bitget's official news sitemap."""
+    payload, _, _ = fetch_url(spec["url"], timeout=40)
+    locations = sitemap_locations(payload)
+    shard_urls = [url for url in locations if re.search(r"-\d+-sitemap\.xml(?:$|\?)", url)]
+    detail_urls = [url for url in locations if re.search(r"/news/detail/\d+", url)]
+    if shard_urls:
+        def shard_number(url: str) -> int:
+            match = re.search(r"-(\d+)-sitemap\.xml", url)
+            return int(match.group(1)) if match else 0
+        # Bitget numbers shards newest-first: shard 1 contains the current
+        # stream while larger shard numbers move back through the archive.
+        for shard in sorted(shard_urls, key=shard_number):
+            shard_payload, _, _ = fetch_url(shard, timeout=40)
+            detail_urls = [url for url in sitemap_locations(shard_payload)
+                           if re.search(r"/news/detail/\d+", url)]
+            if detail_urls:
+                break
+    def article_number(url: str) -> int:
+        match = re.search(r"/news/detail/(\d+)", url)
+        return int(match.group(1)) if match else 0
+    maximum = int(spec.get("max_items", 40))
+    candidate_limit = int(spec.get("candidate_limit", maximum * 2))
+    candidates = sorted(set(detail_urls), key=article_number, reverse=True)[:candidate_limit]
+    rows: list[dict[str, Any]] = []
+    workers = min(int(spec.get("workers", 8)), max(1, len(candidates)))
+    with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as executor:
+        future_map = {executor.submit(fetch_url, url, 25, 1): url for url in candidates}
+        for future in concurrent.futures.as_completed(future_map):
+            url = future_map[future]
+            try:
+                article_payload, final_url, _ = future.result()
+                row = parse_bitget_article(article_payload, final_url or url, spec)
+                if row:
+                    rows.append(row)
+            except Exception:
+                continue
+    rows.sort(key=lambda row: (row.get("published", ""), article_number(row["link"])),
+              reverse=True)
+    return rows[:maximum]
 
 
 def article_time_from_yahoo(entry: dict[str, Any]) -> str:
@@ -700,11 +931,13 @@ def build_rss(items: list[dict[str, Any]], title: str, link: str,
             paragraphs = [p.strip() for p in row["body"].split("\n\n") if p.strip()]
             encoded = "".join(f"<p>{html_lib.escape(p)}</p>" for p in paragraphs)
             ET.SubElement(node, f"{{{CONTENT_NS}}}encoded").text = encoded
+        apply_article_dimensions(row)
         for name, key in (
-            ("platform", "platform"), ("sourceId", "source_id"),
-            ("publisher", "publisher"), ("classification", "classification"),
-            ("confidence", "confidence"), ("summarySource", "summary_source"),
-            ("bodySource", "body_source"), ("canonicalUrl", "canonical_url"),
+            ("publisher", "publisher"), ("foundAt", "found_at"),
+            ("platform", "platform"), ("relation", "relation"),
+            ("contentLevel", "content_level"), ("confidence", "confidence"),
+            ("summarySource", "summary_source"), ("bodySource", "body_source"),
+            ("canonicalUrl", "canonical_url"),
         ):
             value = row.get(key, "")
             if value != "":
@@ -751,6 +984,10 @@ class PoolBuilder:
                 rows = collect_yahoo_news_media(spec)
             elif spec["kind"] == "yahoo_finance_media":
                 rows = collect_yahoo_finance_media(spec)
+            elif spec["kind"] == "wordpress_rest":
+                rows = collect_wordpress_rest(spec)
+            elif spec["kind"] == "bitget_sitemap":
+                rows = collect_bitget_sitemap(spec)
             else:
                 url = spec.get("url") or discovery_url(spec)
                 health["url"] = url
@@ -820,78 +1057,90 @@ class PoolBuilder:
                 row.update(classify_wire_item(row))
                 if row["classification"] == "unrelated":
                     continue
-                row["has_full_text"] = len(row.get("body", "")) >= 200
+                apply_article_dimensions(row)
                 accepted.append(row)
                 all_items.append(row)
             per_source[spec["id"]] = accepted
             health_by_source[spec["id"]]["accepted"] = len(accepted)
-            health_by_source[spec["id"]]["class_counts"] = {
-                name: sum(1 for row in accepted if row["classification"] == name)
-                for name in ("wire_original", "wire_syndication", "wire_attribution",
-                             "discovery_candidate")
+            health_by_source[spec["id"]]["relation_counts"] = {
+                name: sum(1 for row in accepted if row["relation"] == name)
+                for name in RELATION_RANK
+            }
+            health_by_source[spec["id"]]["content_level_counts"] = {
+                name: sum(1 for row in accepted if row["content_level"] == name)
+                for name in ("full", "summary", "link_only")
             }
 
         def sort_key(row: dict[str, Any]) -> str:
             return row.get("published", "")
 
-        all_items.sort(key=sort_key, reverse=True)
-        base_link = "./"
-        feed_dir = self.output_dir / "feeds"
-        for spec in self.sources:
-            rows = sorted(per_source[spec["id"]], key=sort_key, reverse=True)
-            atomic_write(feed_dir / f"{spec['id']}.xml", build_rss(
-                rows, f"{spec['platform']} — Reuters/Bloomberg pool",
-                spec.get("url") or health_by_source[spec["id"]].get("url", ""),
-                "Provenance-aware feed; classification fields distinguish exact wire copies from citations.",
-            ))
-
-        groups = {
-            "all.xml": all_items,
-            "verified_all.xml": [r for r in all_items if r["classification"] != "discovery_candidate"],
-            "wire_original.xml": [r for r in all_items if r["classification"] == "wire_original"],
-            "wire_syndication.xml": [r for r in all_items if r["classification"] == "wire_syndication"],
-            "wire_attribution.xml": [r for r in all_items if r["classification"] == "wire_attribution"],
-            "discovery_candidates.xml": [r for r in all_items if r["classification"] == "discovery_candidate"],
-            "fulltext.xml": [r for r in all_items if r.get("has_full_text")],
-        }
-        for filename, rows in groups.items():
-            atomic_write(self.output_dir / filename, build_rss(
-                rows, f"Reuters/Bloomberg resource pool — {filename[:-4]}",
-                base_link, "Generated resource-pool feed with provenance and confidence metadata.",
-            ))
-
-        deduplicated: dict[str, dict[str, Any]] = {}
-        rank = {"wire_original": 4, "wire_syndication": 3,
-                "wire_attribution": 2, "discovery_candidate": 1}
-        for row in all_items:
-            key = re.sub(r"\W+", "", row["title"].casefold())[:180] or row["id"]
-            old = deduplicated.get(key)
-            score = (rank[row["classification"]], len(row.get("body", "")))
-            old_score = ((rank[old["classification"]], len(old.get("body", "")))
-                         if old else (-1, -1))
-            if score > old_score:
-                deduplicated[key] = row
-        dedup_rows = sorted(deduplicated.values(), key=sort_key, reverse=True)
-        atomic_write(self.output_dir / "deduplicated.xml", build_rss(
-            dedup_rows, "Reuters/Bloomberg resource pool — deduplicated",
-            base_link, "Title-deduplicated cross-platform feed.",
-        ))
-
         health = [health_by_source[spec["id"]] for spec in self.sources]
+        all_items.sort(key=sort_key, reverse=True)
+        dedup_rows = deduplicate_items(all_items)
+        trusted_rows = [r for r in dedup_rows if r["relation"] in PRIMARY_RELATIONS]
+        feeds = {
+            "deduplicated.xml": dedup_rows,
+            "reuters.xml": [r for r in trusted_rows if r.get("publisher") == "Reuters"],
+            "bloomberg.xml": [r for r in trusted_rows if r.get("publisher") == "Bloomberg"],
+            "fulltext.xml": [r for r in trusted_rows if r["content_level"] == "full"],
+        }
+        relation_counts = {
+            name: sum(1 for row in all_items if row["relation"] == name)
+            for name in RELATION_RANK
+        }
+        content_counts = {
+            name: sum(1 for row in all_items if row["content_level"] == name)
+            for name in ("full", "summary", "link_only")
+        }
+        publisher_counts = {
+            name: sum(1 for row in all_items if row.get("publisher") == name)
+            for name in ("Reuters", "Bloomberg")
+        }
         summary = {
             "generated_at": iso_now(), "sources_total": len(self.sources),
             "sources_ok": sum(1 for row in health if row["status"] == "ok"),
             "sources_error": sum(1 for row in health if row["status"] == "error"),
             "items_total": len(all_items), "items_deduplicated": len(dedup_rows),
-            "wire_original": len(groups["wire_original.xml"]),
-            "wire_syndication": len(groups["wire_syndication.xml"]),
-            "wire_attribution": len(groups["wire_attribution.xml"]),
-            "discovery_candidates": len(groups["discovery_candidates.xml"]),
-            "full_text": len(groups["fulltext.xml"]),
+            "publishers": publisher_counts,
+            "relations": relation_counts,
+            "content_levels": content_counts,
+            "primary_feeds": {name: len(rows) for name, rows in feeds.items()},
             "elapsed_seconds": round(time.monotonic() - started, 3),
         }
+
+        rejection_reason = self._rejection_reason(summary)
+        if rejection_reason:
+            atomic_write(self.output_dir / "last_attempt.json", json.dumps({
+                "status": "rejected", "reason": rejection_reason,
+                "attempted_at": summary["generated_at"], "summary": summary,
+                "sources": health,
+            }, ensure_ascii=False, indent=2))
+            raise RuntimeError(f"build rejected; last good snapshot preserved: {rejection_reason}")
+
+        base_link = "./"
+        feed_dir = self.output_dir / "feeds"
+        for spec in self.sources:
+            rows = sorted(per_source[spec["id"]], key=sort_key, reverse=True)
+            atomic_write(feed_dir / f"{spec['id']}.xml", build_rss(
+                rows, f"{spec['platform']} — diagnostic source feed",
+                spec.get("url") or health_by_source[spec["id"]].get("url", ""),
+                "Diagnostic feed grouped by acquisition connector.",
+            ))
+
+        feed_descriptions = {
+            "deduplicated.xml": "All accepted items with cross-platform headline deduplication.",
+            "reuters.xml": "Confirmed Reuters originals and reposts.",
+            "bloomberg.xml": "Confirmed Bloomberg originals and reposts.",
+            "fulltext.xml": "Confirmed Reuters/Bloomberg items with usable full text.",
+        }
+        for filename, rows in feeds.items():
+            atomic_write(self.output_dir / filename, build_rss(
+                rows, f"Reuters/Bloomberg resource pool — {filename[:-4]}",
+                base_link, feed_descriptions[filename],
+            ))
+
         manifest = {
-            "schema_version": 1, "summary": summary, "sources": health,
+            "schema_version": 2, "summary": summary, "sources": health,
             "items": all_items,
         }
         atomic_write(self.output_dir / "resource_pool.json",
@@ -902,16 +1151,55 @@ class PoolBuilder:
         atomic_write(self.output_dir / "source_registry.json",
                      json.dumps(self.sources, ensure_ascii=False, indent=2))
         self._write_opml(health)
+        atomic_write(self.output_dir / "last_attempt.json", json.dumps({
+            "status": "published", "attempted_at": summary["generated_at"],
+            "summary": summary,
+        }, ensure_ascii=False, indent=2))
+        for filename in LEGACY_AGGREGATE_FEEDS:
+            (self.output_dir / filename).unlink(missing_ok=True)
         return manifest
+
+    def _rejection_reason(self, summary: dict[str, Any]) -> str:
+        """Reject a broken refresh before it can replace the last good files."""
+        if summary["sources_ok"] == 0:
+            return "every configured source failed"
+        if summary["items_total"] == 0:
+            return "no accepted Reuters/Bloomberg items"
+
+        manifest_path = self.output_dir / "resource_pool.json"
+        try:
+            previous = json.loads(manifest_path.read_text(encoding="utf-8"))
+            previous_items = int(previous.get("summary", {}).get("items_total", 0))
+        except (OSError, ValueError, TypeError, json.JSONDecodeError):
+            previous_items = 0
+        severe_item_drop = previous_items >= 50 and summary["items_total"] < previous_items * 0.2
+        weak_source_health = summary["sources_ok"] < max(1, summary["sources_total"] * 0.5)
+        if severe_item_drop and weak_source_health:
+            return (
+                f"sharp degradation: {summary['items_total']} items after {previous_items}; "
+                f"only {summary['sources_ok']}/{summary['sources_total']} sources succeeded"
+            )
+        return ""
 
     def _write_opml(self, health: list[dict[str, Any]]) -> None:
         root = ET.Element("opml", {"version": "2.0"})
         head = ET.SubElement(root, "head")
         ET.SubElement(head, "title").text = "Reuters/Bloomberg RSS resource pool"
         body = ET.SubElement(root, "body")
-        generated = ET.SubElement(body, "outline", {"text": "Generated feeds"})
+        primary = ET.SubElement(body, "outline", {"text": "Primary feeds"})
+        for filename, title in (
+            ("deduplicated.xml", "All deduplicated items"),
+            ("reuters.xml", "Reuters originals and reposts"),
+            ("bloomberg.xml", "Bloomberg originals and reposts"),
+            ("fulltext.xml", "Confirmed items with full text"),
+        ):
+            ET.SubElement(primary, "outline", {
+                "type": "rss", "text": title, "title": filename[:-4],
+                "xmlUrl": f"data/{filename}", "htmlUrl": "./",
+            })
+        diagnostics = ET.SubElement(body, "outline", {"text": "Diagnostic source feeds"})
         for spec in self.sources:
-            ET.SubElement(generated, "outline", {
+            ET.SubElement(diagnostics, "outline", {
                 "type": "rss", "text": spec["platform"], "title": spec["id"],
                 "xmlUrl": f"data/feeds/{spec['id']}.xml",
                 "htmlUrl": spec.get("url", health[[x["source_id"] for x in health].index(spec["id"])].get("url", "")),

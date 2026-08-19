@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
-    <title>Bloomberg — Reuters/Bloomberg pool</title>
+    <title>Bloomberg — diagnostic source feed</title>
     <link>https://feeds.bloomberg.com/industries/news.rss</link>
-    <description>Provenance-aware feed; classification fields distinguish exact wire copies from citations.</description>
+    <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 19 Aug 2026 07:42:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:48:30 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>UK Household Energy Costs Forecast to Climb to a Three-Year High</title>
@@ -14,10 +14,11 @@
       <pubDate>Wed, 19 Aug 2026 07:15:48 +0000</pubDate>
       <description>Household energy costs in the UK are expected to rise in October as the Iran war pushes up wholesale gas and electricity prices, compounding inflationary pressures across the economy.</description>
       <dc:creator>Eamon Akil Farhat</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_industries</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_industries</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/uk-household-energy-costs-forecast-to-climb-to-a-three-year-high</wire:canonicalUrl>
@@ -30,10 +31,11 @@
       <pubDate>Wed, 19 Aug 2026 06:16:45 +0000</pubDate>
       <description>Carlsberg A/S narrowed its full-year growth outlook toward the upper end of its range, after a strong performance in soft drinks helped underpin sales volumes in the first half.</description>
       <dc:creator>Martin Alfonsin Larsen</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_industries</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_industries</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/carlsberg-nudges-outlook-higher-amid-strong-soft-drink-demand</wire:canonicalUrl>
@@ -46,10 +48,11 @@
       <pubDate>Wed, 19 Aug 2026 05:00:00 +0000</pubDate>
       <description>A tiny Italian electric vehicle that looks like it’s straight out of the Cars movie franchise is pushing into America’s growing $1 billion golf-cart market.</description>
       <dc:creator>Sasha Draeger-Mazer</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_industries</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_industries</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/fiat-s-little-mouse-micro-car-nibbles-at-us-golf-cart-market</wire:canonicalUrl>
@@ -62,10 +65,11 @@
       <pubDate>Wed, 19 Aug 2026 01:45:00 +0000</pubDate>
       <description>China is mobilizing an often overlooked pool of funds worth 10.9 trillion yuan ($1.6 trillion) to boost a broad range of housing-related consumption, the country’s first policy response after its economic slowdown deepened in July.</description>
       <dc:creator>Bloomberg News</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_industries</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_industries</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/china-widens-use-of-1-6-trillion-fund-to-spur-spending-on-homes</wire:canonicalUrl>
@@ -78,10 +82,11 @@
       <pubDate>Wed, 19 Aug 2026 01:30:21 +0000</pubDate>
       <description>Venezuela signed oil-related contracts with two US companies as the government of the South American country seeks to attract investment and boost crude production.</description>
       <dc:creator>Andreina Itriago</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_industries</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_industries</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/venezuela-signs-deals-with-slb-hunt-in-push-to-boost-oil-output</wire:canonicalUrl>
@@ -94,10 +99,11 @@
       <pubDate>Wed, 19 Aug 2026 00:02:19 +0000</pubDate>
       <description>President Donald Trump has chosen White House policy aide Heidi Overton to lead the Food and Drug Administration, according to people familiar with the matter, after a turbulent year at the agency marked by high-profile staff exits and industry complaints.</description>
       <dc:creator>Rachel Cohrs Zhang</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_industries</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_industries</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/trump-taps-white-house-adviser-to-run-fda-after-months-of-tumult</wire:canonicalUrl>
@@ -110,10 +116,11 @@
       <pubDate>Tue, 18 Aug 2026 23:39:50 +0000</pubDate>
       <description>Santos Ltd. shares rose to a four-year high on optimism that the Australian oil and natural gas producer will boost shareholder returns after starting several key growth projects.</description>
       <dc:creator>Keira Wright</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_industries</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_industries</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-18/santos-profit-misses-expectations-after-delays-to-key-projects</wire:canonicalUrl>
@@ -126,10 +133,11 @@
       <pubDate>Tue, 18 Aug 2026 23:00:00 +0000</pubDate>
       <description>At Singapore casino Resorts World Sentosa’s Lunar New Year lucky draw for high rollers earlier this year, the biggest prize was a bottle of Martell Cognac. Across the harbor at rival Marina Bay Sands, the top sweepstakes winner walked away with a new Mercedes-Benz CLA 200 worth much more.</description>
       <dc:creator>Bernadette Toh and Shirley Zhao</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_industries</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_industries</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-18/singapore-marina-bay-sands-gains-put-resorts-world-s-casino-license-in-focus</wire:canonicalUrl>
@@ -142,10 +150,11 @@
       <pubDate>Tue, 18 Aug 2026 22:17:57 +0000</pubDate>
       <description>LG Energy Solution Ltd. is considering supplying the US government and major defense contractors with batteries for drones and other unmanned weapons systems to capture growing demand for military hardware as demand from electric vehicles sputters.</description>
       <dc:creator>Hyonhee Shin and Gabrielle Coppola</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_industries</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_industries</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-18/south-korea-s-lg-energy-in-talks-with-us-for-drone-batteries</wire:canonicalUrl>
@@ -158,10 +167,11 @@
       <pubDate>Tue, 18 Aug 2026 21:38:09 +0000</pubDate>
       <description>The US Army has selected Hanwha Defense USA to provide its new Mobile Tactical Cannon, a victory for the South Korean conglomerate’s American subsidiary.</description>
       <dc:creator>Jen Judson</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_industries</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_industries</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-18/us-army-turns-to-hanwha-defense-for-new-mobile-artillery</wire:canonicalUrl>
@@ -174,10 +184,11 @@
       <pubDate>Tue, 18 Aug 2026 19:51:43 +0000</pubDate>
       <description>This summer’s cyclospora outbreak left many Americans wary of eating leafy greens. That’s bad news for salad dressing.</description>
       <dc:creator>Kristina Peterson</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_industries</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_industries</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-18/ranch-dressing-s-world-cup-glow-fades-with-salad-safety-worries</wire:canonicalUrl>
@@ -190,10 +201,11 @@
       <pubDate>Tue, 18 Aug 2026 19:41:36 +0000</pubDate>
       <description>Copart Inc. is in talks to acquire CCC Intelligent Solutions Holdings Inc., the car-insurance software provider that has been weighing selling itself, according to people familiar with the matter.</description>
       <dc:creator>Ryan Gould</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_industries</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_industries</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-18/car-seller-copart-is-among-suitors-for-car-insurance-software-firm-ccc</wire:canonicalUrl>
@@ -206,10 +218,11 @@
       <pubDate>Tue, 18 Aug 2026 19:11:33 +0000</pubDate>
       <description>President Donald Trump is interviewing potential nominees for US Food and Drug Administration commissioner in person this week, according to people familiar with the process, as the White House looks to fill multiple leadership roles at one of the nation’s premier health agencies.</description>
       <dc:creator>Rachel Cohrs Zhang, Jessica Nix and Skylar Woodhouse</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_industries</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_industries</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-18/trump-is-interviewing-potential-nominees-for-fda-commissioner</wire:canonicalUrl>
@@ -222,10 +235,11 @@
       <pubDate>Tue, 18 Aug 2026 18:57:26 +0000</pubDate>
       <description>Rob McEwen’s copper venture is in talks with Rio Tinto Group and other potential investors as it seeks a total of $4 billion in financing to build a mine in Argentina.</description>
       <dc:creator>James Attwood</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_industries</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_industries</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-18/mcewen-copper-in-talks-with-rio-as-it-seeks-4-billion-financing</wire:canonicalUrl>
@@ -238,10 +252,11 @@
       <pubDate>Tue, 18 Aug 2026 18:46:07 +0000</pubDate>
       <description>TerraPower LLC, the only company building a utility-scale nuclear power plant in the US, expects to announce its next project this year — one intended for a data center.</description>
       <dc:creator>Will Wade</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_industries</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_industries</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-18/gates-backed-terrapower-to-announce-second-nuke-plant-this-year</wire:canonicalUrl>
@@ -254,10 +269,11 @@
       <pubDate>Tue, 18 Aug 2026 17:53:46 +0000</pubDate>
       <description>La cadena de tiendas departamentales busca nuevas fuentes de crecimiento en servicios financieros y bienes raíces.</description>
       <dc:creator>Valentine Hilaire</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_industries</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_industries</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-18/liverpool-diversifica-su-negocio-ante-menor-gasto-en-mexico-msyyoqqr</wire:canonicalUrl>
@@ -270,10 +286,11 @@
       <pubDate>Tue, 18 Aug 2026 17:08:43 +0000</pubDate>
       <description>Younger shoppers hunting for handbags, jewelry and apparel are increasingly price-checking the resale market before buying new items to gauge their future potential worth, according to RealReal Inc. CEO Rati Sahi Levesque.</description>
       <dc:creator>Marc Davies and Dani Burger</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_industries</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_industries</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-18/gen-z-luxury-buyers-are-scanning-resale-first-realreal-ceo-says</wire:canonicalUrl>
@@ -286,10 +303,11 @@
       <pubDate>Tue, 18 Aug 2026 16:54:47 +0000</pubDate>
       <description>Drama is never far away from the Buss family, so we take a quick look at the latest family drama at the LA Lakers.</description>
       <dc:creator>Randall Williams and Ira Boudway</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_industries</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_industries</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/newsletters/2026-08-18/la-lakers-family-drama-upends-kushner-deal-business-of-sports</wire:canonicalUrl>
@@ -302,10 +320,11 @@
       <pubDate>Tue, 18 Aug 2026 15:44:00 +0000</pubDate>
       <description>The alleged ringleader of a Penn State University cocaine-trafficking ring operating out of two fraternities was denied bail on Tuesday, after he and 13 other defendants were charged in the scheme that involved pledges cutting and packaging drugs for sale on campus.</description>
       <dc:creator>Liz Skalka</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_industries</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_industries</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-18/frat-brothers-accused-of-running-cocaine-trafficking-ring-out-of-penn-state</wire:canonicalUrl>
@@ -318,10 +337,11 @@
       <pubDate>Tue, 18 Aug 2026 13:46:19 +0000</pubDate>
       <description>US natural gas futures ended higher as intense and long-lasting heat in Texas pushed consumers to crank up their air-conditioners, putting pressure on gas-fired power generators and the electricity grid.</description>
       <dc:creator>Julian Hast</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_industries</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_industries</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-18/us-natural-gas-futures-rise-as-texas-heat-boosts-power-demand</wire:canonicalUrl>

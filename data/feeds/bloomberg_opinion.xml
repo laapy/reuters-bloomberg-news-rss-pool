@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
-    <title>Bloomberg — Reuters/Bloomberg pool</title>
+    <title>Bloomberg — diagnostic source feed</title>
     <link>https://feeds.bloomberg.com/bview/news.rss</link>
-    <description>Provenance-aware feed; classification fields distinguish exact wire copies from citations.</description>
+    <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 19 Aug 2026 07:42:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:48:30 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Sentiment: Fund Managers Are Acting Like Summer Will Never End</title>
@@ -14,10 +14,11 @@
       <pubDate>Wed, 19 Aug 2026 04:00:53 +0000</pubDate>
       <description>The latest optimism seems out of sync with both oil and the midterms.</description>
       <dc:creator>John Authers</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_opinion</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_opinion</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/opinion/newsletters/2026-08-19/sentiment-fund-managers-are-acting-like-summer-will-never-end</wire:canonicalUrl>
@@ -30,10 +31,11 @@
       <pubDate>Wed, 19 Aug 2026 04:00:04 +0000</pubDate>
       <description>When football organizations around the world put their heads together to find a solution to the problem of Gianni Infantino, they came up with one answer: a boycott. While the drastic measure may be the strongest card they have to play, it’s women — not FIFA — who would pay the immediate price.</description>
       <dc:creator>Emily Nicolle</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_opinion</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_opinion</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/opinion/articles/2026-08-19/a-fifa-boycott-would-punish-women-footballers-first</wire:canonicalUrl>
@@ -46,10 +48,11 @@
       <pubDate>Wed, 19 Aug 2026 04:00:02 +0000</pubDate>
       <description>It might be hard to imagine that the Middle East is looking beyond Washington at the precise moment it is being massively disrupted by a US-led war. But that is exactly what’s happening – most recently through this month’s signing of the Mecca Agreement, a mutual defense pact between Mohammed bin Salman of Saudi Arabia, Recep Tayyip Erdogan of Turkey and Shehbaz Sharif of Pakistan.</description>
       <dc:creator>Mihir Sharma</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_opinion</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_opinion</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/opinion/articles/2026-08-19/the-mecca-pact-is-no-sunni-nato-but-it-s-a-start</wire:canonicalUrl>
@@ -62,10 +65,11 @@
       <pubDate>Wed, 19 Aug 2026 03:00:01 +0000</pubDate>
       <description>A dragon’s lair isn’t where most people would stash their cash, even in fantasy fiction. But that’s not slowing down the real-world Erebor Bank — named after the mountain home of a treasure-hoarding beast in JRR Tolkien’s The Hobbit. The tech-focused lender, founded by Palmer Luckey and backed by Peter Thiel, wants to conquer the market Silicon Valley Bank dominated before it collapsed in 2023. That’s not necessarily a bright idea.</description>
       <dc:creator>Paul J. Davies</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_opinion</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_opinion</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/opinion/articles/2026-08-19/thiel-backed-erebor-bank-wants-to-echo-svb-that-s-risky</wire:canonicalUrl>
@@ -78,10 +82,11 @@
       <pubDate>Tue, 18 Aug 2026 21:05:05 +0000</pubDate>
       <description>The US military can generally handle one major crisis, and even a second challenge, but a third would stretch its capacity.</description>
       <dc:creator>Jessica Karl</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_opinion</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_opinion</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/opinion/newsletters/2026-08-18/as-the-us-juggles-wars-in-iran-and-ukraine-north-korea-is-a-wildcard</wire:canonicalUrl>
@@ -94,10 +99,11 @@
       <pubDate>Tue, 18 Aug 2026 20:00:02 +0000</pubDate>
       <description>China’s embrace of open-source artificial intelligence is giving Silicon Valley a run for its money. It’s also become a major source of clout for Beijing, luring international developers and emerging as a cornerstone of President Xi Jinping’s pitch for collaboration with the Global South and influence over the next tech revolution.</description>
       <dc:creator>Catherine Thorbecke</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_opinion</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_opinion</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/opinion/articles/2026-08-18/we-re-having-the-wrong-debate-about-ai-safety</wire:canonicalUrl>
@@ -110,10 +116,11 @@
       <pubDate>Tue, 18 Aug 2026 19:00:01 +0000</pubDate>
       <description>The death of a beloved leader has often presented challenges for China’s ruling Communist Party. With few avenues for overtly criticizing the regime, public mourning can become an expression of broader discontent.</description>
       <dc:creator>Juliana Liu</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_opinion</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_opinion</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/opinion/articles/2026-08-18/why-zhu-rongji-s-death-has-made-china-wistful-for-the-1990s</wire:canonicalUrl>
@@ -126,10 +133,11 @@
       <pubDate>Tue, 18 Aug 2026 18:34:22 +0000</pubDate>
       <description>Lacking a coherent or even discernible strategy in geopolitics, Donald Trump has inadvertently reversed the direction in which American foreign and security policy was going for the past three presidential administrations, including his first. Two more veers took place this week in Asia.</description>
       <dc:creator>Andreas Kluth</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_opinion</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_opinion</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/opinion/articles/2026-08-18/under-trump-america-s-pivot-to-asia-takes-a-u-turn</wire:canonicalUrl>
@@ -142,10 +150,11 @@
       <pubDate>Tue, 18 Aug 2026 18:00:02 +0000</pubDate>
       <description>South Korea, home to the world’s two-largest memory chipmakers, is in the midst of an AI-fueled exports boom. Generating wealth and keeping it at home isn’t the same thing, however.</description>
       <dc:creator>Shuli Ren</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_opinion</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_opinion</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/opinion/articles/2026-08-18/south-korea-makes-billions-and-takes-home-little</wire:canonicalUrl>
@@ -158,10 +167,11 @@
       <pubDate>Tue, 18 Aug 2026 11:00:00 +0000</pubDate>
       <description>More than a decade ago, hundreds of US garage entrepreneurs were working on shoestring budgets to develop drones with dreams of scaling the new technology. Then China’s DJI introduced a small, inexpensive drone with a stable built-in camera.</description>
       <dc:creator>Thomas Black</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_opinion</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_opinion</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/opinion/articles/2026-08-18/humanoid-robots-need-a-supply-chain-in-north-america</wire:canonicalUrl>
@@ -174,10 +184,11 @@
       <pubDate>Tue, 18 Aug 2026 10:30:02 +0000</pubDate>
       <description>LinkedIn was in large part designed to help people find jobs. It has inadvertently become a treasure trove for economists studying the modern labor market. One research team, for example, used LinkedIn to fill a gap in traditional data, analyzing layoffs and promotions by race, ethnicity and gender — ultimately finding discrimination at some of the companies it studied. Another used US Census figures and LinkedIn profiles to find that entrepreneurs are significantly more likely to hire workers f</description>
       <dc:creator>Beth Kowitt</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_opinion</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_opinion</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/opinion/articles/2026-08-18/linkedin-profile-revisions-are-their-own-form-of-job-market-data</wire:canonicalUrl>
@@ -190,10 +201,11 @@
       <pubDate>Tue, 18 Aug 2026 10:00:02 +0000</pubDate>
       <description>Overeducated and underpaid: Welcome to the rising faction of voters pushing the Democratic Party to the socialist left and foreshadowing a clash with mainstream liberals in 2028.</description>
       <dc:creator>David M. Drucker</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_opinion</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_opinion</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/opinion/articles/2026-08-18/primary-results-democrats-greatest-divide-for-2028-is-education</wire:canonicalUrl>
@@ -206,10 +218,11 @@
       <pubDate>Tue, 18 Aug 2026 09:30:02 +0000</pubDate>
       <description>California is leading a group of 12 states suing to block Paramount Skydance Corp.’s $110 billion purchase of Warner Bros Discovery Inc., claiming the deal would give the combined company unfair control of movie and cable-TV businesses. Paramount executives responded by threatening to pull its operations out of the Golden State and go to where it’s wanted.</description>
       <dc:creator>Gautam Mukunda</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_opinion</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_opinion</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/opinion/articles/2026-08-18/california-knows-business-friendly-rules-stifle-innovation</wire:canonicalUrl>
@@ -222,10 +235,11 @@
       <pubDate>Tue, 18 Aug 2026 09:00:00 +0000</pubDate>
       <description>Daron Acemoglu’s new book, What Happened to Liberal Democracy?, is deservedly commanding a lot of attention. One of the world’s most eminent economists, the author combines extraordinary historical breadth, cutting-edge technical expertise and a stunning level of academic productivity. He’s co-written excellent popular works on why some countries grew rich and others didn’t, about technology and progress, and about the challenge of creating and sustaining liberty. This time he turns his attentio</description>
       <dc:creator>Clive Crook</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_opinion</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_opinion</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/opinion/articles/2026-08-18/acemoglu-s-new-book-seeks-to-restore-liberalism</wire:canonicalUrl>
@@ -238,10 +252,11 @@
       <pubDate>Mon, 17 Aug 2026 11:00:00 +0000</pubDate>
       <description>“Humpty Dumpty sat on a wall. Humpty Dumpty had a great fall. All the king's horses and all the king's men couldn't put Humpty together again.”</description>
       <dc:creator>Matthew A. Winkler</dc:creator>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:sourceId>bloomberg_opinion</wire:sourceId>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:classification>wire_original</wire:classification>
+      <wire:foundAt>bloomberg_opinion</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/opinion/articles/2026-08-17/texas-municipal-bonds-are-paying-the-price-for-anti-esg-legislation</wire:canonicalUrl>

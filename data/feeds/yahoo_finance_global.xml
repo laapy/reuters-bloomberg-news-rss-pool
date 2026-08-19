@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
-    <title>Yahoo Finance — Reuters/Bloomberg pool</title>
+    <title>Yahoo Finance — diagnostic source feed</title>
     <link>https://finance.yahoo.com/news/rssindex</link>
-    <description>Provenance-aware feed; classification fields distinguish exact wire copies from citations.</description>
+    <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 19 Aug 2026 07:42:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:48:30 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Stocks, dollar fall after weak data; yields rise</title>
@@ -15,8 +15,8 @@
       <description>By Karen Brettell NEW YORK, Aug 17 (Reuters) - U.S. stocks ended down on Monday and the dollar hit a two-month low against the euro as soft U.S. economic dat...</description>
       <dc:creator>By Karen Brettell</dc:creator>
       <content:encoded>&lt;p&gt;Stocks, dollar fall after weak data; yields rise&lt;/p&gt;&lt;p&gt;By Karen Brettell
-Mon, August 17, 2026 at 3:21 PM CDT 3 min read&lt;/p&gt;&lt;p&gt;DX-Y.NYB
--0.18%&lt;/p&gt;&lt;p&gt;WMT
+Mon, August 17, 2026 at 1:21 PM PDT 3 min read&lt;/p&gt;&lt;p&gt;DX-Y.NYB
+-0.19%&lt;/p&gt;&lt;p&gt;WMT
 +0.76%&lt;/p&gt;&lt;p&gt;HD
 -0.12%&lt;/p&gt;&lt;p&gt;Explore stocks on Coinbase Trading disclosure&lt;/p&gt;&lt;p&gt;Trading disclosure The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.
 Learn more&lt;/p&gt;&lt;p&gt;By Karen Brettell
@@ -38,12 +38,14 @@ The yield on benchmark U.S. 10-year notes rose 2.79 basis points to 4.724%. The 
 &amp;quot;Three soft economic releases should have pushed long-end yields lower. Instead, 30y bonds were auctioned at the highest yield since 2001, and yields are now even higher. A worsening fiscal outlook, AI-driven corporate duration supply, and a more price-sensitive buyer base help explain why,&amp;quot; Barclays Capital analyst Anshul Pradhan wrote on Monday in a note.
 In precious metals, spot gold rose 1.02% to $4,420.41 an ounce.
 (Reporting by Karen Brettell, Sinéad Carew, Avinash P, Purvi Agarwa, Lawrence White and Stella Qiu, Editing by Jacqueline Wong, Gareth Jones, Chizu Nomiyama, Will Dunham and Sanjeev Miglani)&lt;/p&gt;&lt;p&gt;View Comments&lt;/p&gt;&lt;p&gt;Terms and Privacy Policy
-Privacy Dashboard
+Your Privacy Choices
+CA Privacy Notice
 More Info&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo Finance</wire:platform>
-      <wire:sourceId>yahoo_finance_global</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_finance_global</wire:foundAt>
+      <wire:platform>Yahoo Finance</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>article page metadata</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>

@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
-    <title>TBS NEWS DIG — Reuters/Bloomberg pool</title>
+    <title>TBS NEWS DIG — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Anewsdig.tbs.co.jp+%28Reuters+OR+Bloomberg+OR+%E3%83%AD%E3%82%A4%E3%82%BF%E3%83%BC+OR+%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%90%E3%83%BC%E3%82%B0%29&amp;format=rss&amp;mkt=en-US</link>
-    <description>Provenance-aware feed; classification fields distinguish exact wire copies from citations.</description>
+    <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 19 Aug 2026 07:42:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:48:30 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>アリババ、音楽生成AIのベータ版公開－指示一つで楽曲制作可能 - TBS NEWS DIG</title>
@@ -13,9 +13,10 @@
       <guid isPermaLink="false">bdbc78d87cea955a239fefc0</guid>
       <pubDate>Wed, 19 Aug 2026 03:23:18 +0000</pubDate>
       <description>アリババ、音楽生成AIのベータ版公開－指示一つで楽曲制作可能    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:sourceId>tbs_news_dig_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE85X2RoYmdBenBrZzIxUkNkTkhYWVh3VlcwRWU4MEVPTWt6SjFNa3NvSW5sc2ZMX1dzcGhrVEJyTWJNZkxQazd1ZlVFeDZsbFNnT0tYOTMyUVl6cjJzdDA2aW14VWoyMW4tSmpsckh1c1c4TnZt?oc=5</wire:canonicalUrl>
@@ -27,9 +28,10 @@
       <guid isPermaLink="false">b75ae0c611f23892613041a3</guid>
       <pubDate>Wed, 19 Aug 2026 02:54:00 +0000</pubDate>
       <description>トランプ氏が今秋にも金正恩氏との会談模索、核問題の打開狙う－報道    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:sourceId>tbs_news_dig_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE1iR2NqTlREMU9xWjNNcVBSWFFIa0lidEhTWEd1TDJleEhRV2dDc3A0aXpyUC10aWJuZF9SQnZPQ2pIZGdac1g5eE9WaVpjMWhTSkJUM2ZpNUZ4SlhYWjZJZHRlVVFqQXYzZnRhU3RHLUJmWU1p?oc=5</wire:canonicalUrl>
@@ -41,9 +43,10 @@
       <guid isPermaLink="false">69f61cae3b9a37d4a2e3baca</guid>
       <pubDate>Wed, 19 Aug 2026 02:53:00 +0000</pubDate>
       <description>中国ヒト型ロボットのユニツリー、上海上場－629%高と株価急騰    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:sourceId>tbs_news_dig_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE1pZXFQeFJ6enplX0IzWFFqcHJENFN2N2R0NC1fMFBtdU5SdjdLdTZ5WGVaV3h5dlBUU3ZCMHJnYWtmdmc0U1daZ0Y5dVBMeGE5U0lheDBsQTBYMi1WRjdHaUV1cThLcXFHVUM2T1FUMHlsTlVK?oc=5</wire:canonicalUrl>
@@ -55,9 +58,10 @@
       <guid isPermaLink="false">074d6e26a95c26b5d7fa10d5</guid>
       <pubDate>Wed, 19 Aug 2026 02:53:00 +0000</pubDate>
       <description>韓国総合株価指数が一時6.8%安、半導体株に売り－金利上昇を警戒    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:sourceId>tbs_news_dig_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTFByT1FWVjhDX0xLNHV4YkU3bVd2aWFscnlVczR2dmZVbGVRdlZ1WThrZjFTS1N3NkFrWnBPNkx0c1YtSnNoaWNhUFdkYm53ZnlNb1RpNHhNQmNwM0pzbDVBWm1wbmd6TE9zRU1RQjd6TmJ5SVd6?oc=5</wire:canonicalUrl>
@@ -69,9 +73,10 @@
       <guid isPermaLink="false">db03e5149a97f2f2a6f20a69</guid>
       <pubDate>Wed, 19 Aug 2026 02:53:00 +0000</pubDate>
       <description>オアシス、カカクコムTOB価格を1株3640円上回る水準に引き上げ要請    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:sourceId>tbs_news_dig_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTFBoUXhJN0YtR2Q0SENhZkxlZ1QyTENMNHpIcFRZTzZYakJXNlp0QUxrUkx5em1hU3VOMWFBbnVSaWQ0LWF4Nmhwck9GTFdMaG50WmU4Qndfekx4REVUeUgtclNlbmVZZENXUU5JVkZNWndJdHhN?oc=5</wire:canonicalUrl>
@@ -83,9 +88,10 @@
       <guid isPermaLink="false">64c671d0d1ae6e1c748d5612</guid>
       <pubDate>Tue, 18 Aug 2026 23:47:00 +0000</pubDate>
       <description>【欧州市況】国債下落、独10・30年債は15年ぶり安値－株は5日続落    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:sourceId>tbs_news_dig_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE1aRGdSWTBnbHFGRDEzWUNZWVpqbU9xU3F5REtoa0pUWElVWTRySXFMamNrRkEteU8wMy1Lck9tUW9LYU9aVEdHbzVNQ1dBTkhEUTQxUXNxSGRvN0I5bHNFeWZmVVZwcUw1UmVRX3otZnlLTDhB?oc=5</wire:canonicalUrl>
@@ -97,9 +103,10 @@
       <guid isPermaLink="false">5b3a16ac1003f7184b3b93e0</guid>
       <pubDate>Tue, 18 Aug 2026 17:40:35 +0000</pubDate>
       <description>ホーム・デポの5－7月期決算、予想上回る－住宅市場低迷の逆風しのぐ フォトギャラリー | TBS CROSS DIG with Bloomberg    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:sourceId>tbs_news_dig_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiiAJBVV95cUxPV01EYmVzc0ZGSkw2MFlKamxCU0ZWdFFtMjc3Z0xGUEU1V2tCVzVkby1vMnBvV3JGYTVTaG1aVGZjN2V4S2p1aF9CQ1RCVTB2SFg3Z1lQRnZKU2NHUlRkSGc2RlFPLUJ4c0U1U0J3b3RDUFg0YU9TTF94aWdudUJqM3VFTVhQbmdZcHhvNmhGb2VuLXNQY3djMlc0UkczQU5kUWpQbERMVnZvOGRqdnRpQU9kU1I4UWloT0hmbEtpeVRzXzNtMS1DMjllam1VVG05QXdCWFhxcGR4N3lrRzZkMHAtUnByVV9RbTFyamcwRUZzdUpaTWV4a0MtMnhqYlkyRlhYQ3lpSEg?oc=5</wire:canonicalUrl>
@@ -111,9 +118,10 @@
       <guid isPermaLink="false">232b16548db85658cd0d4584</guid>
       <pubDate>Tue, 18 Aug 2026 11:03:00 +0000</pubDate>
       <description>中国の百度、売上高が5四半期連続減－AI出遅れ挽回できず    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:sourceId>tbs_news_dig_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE02ajd0M3kxUUNaSE1fRTFqR3ROSVZFWUNHeEZnek5GSVNkOF9OaEhsT01VTXNTZGRBVWJ4a0xkVXE2UF9pOVNKb3NuNFowLS1pNlNhSUxxa1ZyVkxDWmwwUEVCaFQ4ZmlPSl9PSHdrY1AtNGRL?oc=5</wire:canonicalUrl>
@@ -125,9 +133,10 @@
       <guid isPermaLink="false">1e005100c5159b52b216a3ef</guid>
       <pubDate>Tue, 18 Aug 2026 09:29:00 +0000</pubDate>
       <description>日本、豪州で極超音速兵器含むミサイル実験実施へ－枠組み拡充で合意    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:sourceId>tbs_news_dig_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE5zR3gxbExmUGwtZ1RBcUh1MWZ6UFBmM2JyMW9MYXhjS0M3NG45TXpVQWpuRUdNMnNkX0VOay1LM1VIUUZRWTFrX3k2d2ZSWGk3aTN6YWhjVjNhN1pPWWZSejk1ZkE3LW9RQlBKLXN0d0NyXzFW?oc=5</wire:canonicalUrl>
@@ -139,9 +148,10 @@
       <guid isPermaLink="false">d6ca9c0aade04f0d31736cf3</guid>
       <pubDate>Mon, 17 Aug 2026 22:37:00 +0000</pubDate>
       <description>S&amp;P500種は小安い、中東での戦闘激化で原油上昇－円は159円台前半    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:sourceId>tbs_news_dig_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE9QOFg5dmxWUlllaWhUckU2RldPVjFkdU15SjBZbmthcktHMWoyYlVkbm42WVZabkd2ZnB3OTJPcEdEVFQtNk52WU10QTJOX0JOOW9zNVp2TUk0aXByU251YldYVVZMMFNJQVcwa2VTUXJFc2Q0?oc=5</wire:canonicalUrl>
@@ -153,9 +163,10 @@
       <guid isPermaLink="false">0bae77a69a109295851ade62</guid>
       <pubDate>Mon, 17 Aug 2026 21:56:22 +0000</pubDate>
       <description>ロイター通信世論調査 米国人の80％が“イラン戦争”の長期化を予想 支持率は“過去最低”    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:sourceId>tbs_news_dig_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DSTh0THF6SE92aGhKMDFVaW9oN1VTbEtpbW1KWHBjYm1DQ2wxMUYycVM0NGtNWEFRaEdaNWxIVmYyVGduZEdPWldXZC0ydWhYbWdTT2FiOA?oc=5</wire:canonicalUrl>
@@ -167,9 +178,10 @@
       <guid isPermaLink="false">6de5a43db2ec8c2e48526bc1</guid>
       <pubDate>Mon, 17 Aug 2026 18:01:00 +0000</pubDate>
       <description>ソフトバンクグループ、スイスロボット企業グラビスに2億ドル出資    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:sourceId>tbs_news_dig_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE9fVXZqVC16TmlSV2JBUTloQ3ZqckFEVC1JMnlabXA3dzRmRk5QX29SdE5aTnZFdjhHelFjQTVHLTRfaGx4dDdFQkwyTjdBX29GWXlqNEt6UWVUd0kxY2VkNS1mN0ZoVzd4c0hPMFpaMU0zQW5N?oc=5</wire:canonicalUrl>
@@ -181,9 +193,10 @@
       <guid isPermaLink="false">f9a9cfcc1f2b1754b2dc2f5a</guid>
       <pubDate>Mon, 17 Aug 2026 17:29:00 +0000</pubDate>
       <description>【欧州市況】超長期国債が下落、仏30年債は18年ぶり安値－株は小幅安    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:sourceId>tbs_news_dig_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMijAFBVV95cUxPd0pKQWNvZkxNQ0lmQnRlaEh5OFBDSklDbUdsVVVSc3JfLVNiV0NoUVU5Qk9NaFU3TUtWN25Fb1lJcGp6ZF9FR201UEhnM0taZ1NYOW9FNWJROWxFLTN4X0F4MDIxeHBONWYycUFBTUt1dnpBb3haVUtxTzlXVTA5b3AtZkZOSE5nbXRKeA?oc=5</wire:canonicalUrl>
@@ -195,9 +208,10 @@
       <guid isPermaLink="false">9a65059098bc7474784993aa</guid>
       <pubDate>Mon, 17 Aug 2026 12:45:00 +0000</pubDate>
       <description>8月のNY連銀製造業景況指数は20.6に上昇、2021年12月以来の高水準    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:sourceId>tbs_news_dig_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE05ZklSalR2VUk3MmpVb0ZnTE0ycjQ2V0dPb1p5X2ZicVpKZmJwaGlyYmgwN3dITnJMUnV6b0YzNXF6RzE1TUdYcmV5RDR6dU5uSnZ0ZmZDaS1pc0ljOGkyWjk1aFhPV0pTUmhxRXd2M3VkUVU1?oc=5</wire:canonicalUrl>
@@ -209,9 +223,10 @@
       <guid isPermaLink="false">ad5cd2a9cd337e6a9e39c9b2</guid>
       <pubDate>Mon, 17 Aug 2026 11:37:00 +0000</pubDate>
       <description>トランプ氏､オマーンが米国の妨げとなれば攻撃する構え－FOXニュース    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:sourceId>tbs_news_dig_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE1oanAxaEJKSTMzUzFhaWdhVHBacXVKVzlERjhHZDMxWW4tNEZ1b0dFUzdjQkhhU2JfMHRVUktCenhHMjdJQ2lzZldoMUMyaG5kb05rb0RrYkN4QVJnZ1dTTFZYa3hZM2JTLTdyM2pybEY1Vzcz?oc=5</wire:canonicalUrl>
@@ -223,9 +238,10 @@
       <guid isPermaLink="false">7542e893e7787dbef717fb74</guid>
       <pubDate>Mon, 17 Aug 2026 08:48:00 +0000</pubDate>
       <description>S&amp;P、東芝を「BB」に格上げ－アウトルックは「安定的」    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:sourceId>tbs_news_dig_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00dHlzOHdzS2J4NjRYVWx0ODRERVJFei0yeGVxcngwa2N4Q3JmQWI5c3g0QXBiMlJuOU1tUjJpcTVZeXdtN0QyVDgtcHlDUzhZT2lfN1l1ZDVvVkZ3LTh4aFBMQTVGYUk?oc=5</wire:canonicalUrl>
@@ -237,9 +253,10 @@
       <guid isPermaLink="false">0c9c92f08db66310d19b6670</guid>
       <pubDate>Mon, 17 Aug 2026 07:06:00 +0000</pubDate>
       <description>中国アリババ、ゲーム事業を15億ドルで売却へ－AIへの軸足移行進める    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:sourceId>tbs_news_dig_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE1ENEZjWE94d2wxZ2lTUVVIVU1fUU5PeUlla1V0Mk5jMU1CNGpFMGxKYWdldzVGWXpiTVlkd290NnlSeUdMZlRzcnI0TVg5bExNRjhTc1VIRUlWYjJRc2w1QlVvMTBTOU9JZWlISy1aNWUxNG84?oc=5</wire:canonicalUrl>
@@ -251,9 +268,10 @@
       <guid isPermaLink="false">9a4b5abf1a3edbccb79406ef</guid>
       <pubDate>Mon, 17 Aug 2026 07:06:00 +0000</pubDate>
       <description>中国のグローバル政策アピール、習氏が演説－「強風と荒波」に警戒    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:sourceId>tbs_news_dig_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTFBQMTdocGVLWlRzc3NmZHpSS19aMEFZdjdUdU5KMTNLbEQwTUxHUWdMT0ppbFM0RURPR3FpbE1JX0czNUg5TmlNMVQ5ZS1jRXMzSzVHR0s5VEdyVWNVWl9qSEZvOTd0ZjRja25nNXlwUy1iYTdH?oc=5</wire:canonicalUrl>
@@ -265,9 +283,10 @@
       <guid isPermaLink="false">caca06f0c80c39f105d454aa</guid>
       <pubDate>Sun, 16 Aug 2026 23:50:00 +0000</pubDate>
       <description>中国7月の経済統計、日本時間午後4時に発表－通常の午前11時から変更    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:sourceId>tbs_news_dig_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE9RS3pIaVRka3ZFOE4ybjVwTnBnUF9tcGJJTmg0RlB6X2tRT2pveEZNWVZXMUJFRnc0eURCenNUMUI5WWdUZDBFT1gyLUhOU0l5czQ3OXBveW9SRGxCUzgyUEFvUWoxT3A1MkJaZUxHSU1tTUYw?oc=5</wire:canonicalUrl>
@@ -279,9 +298,10 @@
       <guid isPermaLink="false">fdf256680156a50e66bc723b</guid>
       <pubDate>Sat, 15 Aug 2026 01:51:59 +0000</pubDate>
       <description>投資・資産の記事一覧 (738ページ) | TBS CROSS DIG with Bloomberg    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:sourceId>tbs_news_dig_discovery</wire:sourceId>
-      <wire:classification>discovery_candidate</wire:classification>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMipwFBVV95cUxQa0lTVV9PTFMzNFFyMEE0QlBCT2Q2RFFvQ1gwXzBMa3FnSjB0bExvSXNhelJyVmdiZGRpclctOENYS2FSZjBCWFFRU09IU3BXTWZhb25xcmRMQ1M4YzhoYjFYWkJiRXlEbEZqbWtIZXExaFpPSnB1TzVwcDF2QXV6S3FlanZuVHZqRHgxYTl1WDNNd3h5MFJwZk0tQVlhczlsWjZWZkhKcw?oc=5</wire:canonicalUrl>

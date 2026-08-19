@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
-    <title>Yahoo!ニュース日本 — Reuters/Bloomberg pool</title>
+    <title>Yahoo!ニュース日本 — diagnostic source feed</title>
     <link>https://news.yahoo.co.jp/media/reut</link>
-    <description>Provenance-aware feed; classification fields distinguish exact wire copies from citations.</description>
+    <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 19 Aug 2026 07:42:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:48:30 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>ＳＫハイニックス、40兆ウォンの自社株買い・消却へ　株主還元強化</title>
@@ -15,10 +15,11 @@
       <description>[ソウル １９日 ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;[ソウル １９日 ロイター] - 韓国の半導体大手ＳＫハイニックスは１９日、株主還元を強化するため、４０兆ウォン（２８６億１０００万ドル）相当の自社株買いおよび消却を実施すると発表した。&lt;/p&gt;&lt;p&gt;２０２５─２７年に生み出されるフリーキャッシュフロー（ＦＣＦ）の少なくとも５０％を株主還元に充てる方針も示した。自社株買い・消却や配当を通じた追加の株主還元を進める計画だとし、その規模や手法に関する詳細は第３・四半期決算の発表に合わせて公表するとしている。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -35,10 +36,11 @@
 [ロンドン １９日 ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;Emma Rumney&lt;/p&gt;&lt;p&gt;[ロンドン １９日 ロイター] - デンマークのビール大手カールスバーグは１９日、上半期決算が市場予想を下回ったものの、通年の営業利益は従来の予想レンジの上限に近い水準になるとの見通しを示した。２０２５年に英清涼飲料大手ブリトビックを買収した効果が想定よりも早く表れていると指摘した。&lt;/p&gt;&lt;p&gt;通年の営業利益伸び率（買収などの影響除く）は４─６％になると見込んだ。従来予想は２─６％だった。&lt;/p&gt;&lt;p&gt;ブリトビック買収に伴って想定されるシナジー効果の総額１億１０００万ポンド（約１億４９００万ドル）のうち、２６年に約５０％が実現する見通しだとした。実現率は従来は３０─４０％と予想していた。&lt;/p&gt;&lt;p&gt;イラン戦争など地政学的な混乱が需要を脅かす中、カールスバーグはこれまで、通年のガイダンスについて慎重なアプローチを取っていた。紛争は消費者の家計負担を一段と重くし、既に一部の消費者は飲酒を控えるようになっている。直近では中国の悪天候も販売の重しとなっている。&lt;/p&gt;&lt;p&gt;上半期の営業利益は７４億５０００万デンマーククローネ（１１億５０００万ドル）で、アナリスト予想の７５億５０００万クローネを下回った。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -65,10 +67,11 @@
 台湾</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;［東京　１９日　ロイター］ - 日本政府観光局（ＪＮＴＯ）が１９日発表した７月の訪日外国人客数は３４４万２１００人となり、同月として過去最多を記録した。夏季休暇で東アジアや欧米豪・中東などから多くの人々が訪れた。好調だった前年に対しこのところマイナスが続いていたが、前年比０．１％増と小幅ながら４カ月ぶりに増加に転じた。&lt;/p&gt;&lt;p&gt;国・地域別では、韓国が３１．９％増、台湾は２６．４％増えて単月で初めて７０万人を超えた。香港も５４．８％増と大幅に増加。ＪＮＴＯによると、前年に日本で地震が発生するとの情報が拡散していた反動もあったという。中東地域は、一部路線で航空便の再開や増便が寄与し４１．０％増となった。&lt;/p&gt;&lt;p&gt;一方、中国は５６．１％減と引き続き２桁の大幅マイナス。政府による日本への渡航自粛の注意喚起や航空便の減便が影響している。&lt;/p&gt;&lt;p&gt;＜７月　訪日外国人客数トップ５＞&lt;/p&gt;&lt;p&gt;国・地域 客数 前年比&lt;/p&gt;&lt;p&gt;韓国 89万4700人 +31.9%&lt;/p&gt;&lt;p&gt;台湾 76万3800人 +26.4%&lt;/p&gt;&lt;p&gt;中国 42万8200人 -56.1%&lt;/p&gt;&lt;p&gt;米国 28万6200人 +3.3%&lt;/p&gt;&lt;p&gt;香港 27万2500人 +54.8%&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -85,10 +88,11 @@
 [東京 １９日 ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;Hiroko Hamada&lt;/p&gt;&lt;p&gt;[東京 １９日 ロイター] - 東京株式市場で日経平均は大幅続落し、前営業日比３．１６％（２１３４円３１銭）安の６万５３２６円４２銭で取引を終えた。前日の米株安の流れを引き継いだほか、金利の先高観が重しとなり、ＡＩ（人工知能）・半導体関連株を中心に売りが強まった。指数は一時３．４５％（２３２６円）安まで下げ幅を広げた。&lt;/p&gt;&lt;p&gt;日経平均は前営業日比０．９６％（６４８円）安の６万６８００円台でスタートした後、すぐに下げ足を速め取引序盤で６万５３００円台まで下落した。いったん下げ渋る展開となったものの、後場に入ると半導体関連や電線株の売りが強まり指数は一時６万５１３３円９８銭まで押し下げられた。節目の６万５０００円台は維持したが、売りが一巡した後も戻りは鈍かった。物色面では、ディフェンシブ株と目される医薬品株などが底堅かった。&lt;/p&gt;&lt;p&gt;前日に３０年ぶり高水準に達した１０年債利回りはきょうは低下に転じたが、２％台後半で高止まりを続けている。フィリップ証券のアナリスト・笹木和弘氏は「国内金利の上昇基調を受け、足元で調整が一服していた半導体株に買いが入りにくくなっている」と指摘する。長期金利３％を目前に「景気が良くなっている中での金利高なら許容されるが、足元は中東情勢の悪化と原油高に伴うインフレ警戒などが根底にあり、投資家心理は圧迫されやすい」という。&lt;/p&gt;&lt;p&gt;ＴＯＰＩＸは３．０９％安の４０１２．３１ポイントで取引を終えた。東証プライム市場指数は前営業日比３．１％安の２０６９．３５ポイントだった。プライム市場の売買代金は１０兆１１５１億７５００万円だった。&lt;/p&gt;&lt;p&gt;新興株式市場は、東証グロース市場２５０指数が下落し２．１％安の７４２．２８ポイントだった。&lt;/p&gt;&lt;p&gt;個別では、指数寄与度の大きいソフトバンクグループ、キオクシアホールディングスが大幅安。フジクラ、住友電気工業など電線株も売られた。前日に決算を発表したパン・パシフィック・インターナショナルホールディングスは大幅下落。&lt;/p&gt;&lt;p&gt;一方、アステラス製薬、第一三共がしっかり。松屋、メルカリが大幅高となった。&lt;/p&gt;&lt;p&gt;東証プライム市場の騰落数は、値上がりが３６２銘柄（２３％）、値下がりは１１５５銘柄（７４％）、変わらずは３９銘柄（２％）だった。&lt;/p&gt;&lt;p&gt;終値 前日比 寄り付き    安値／高値&lt;/p&gt;&lt;p&gt;日経平均 65326.42 -2,134.3 66812.27  65,133.98&lt;/p&gt;&lt;p&gt;1 ─66,833.51&lt;/p&gt;&lt;p&gt;ＴＯＰＩＸ 4012.31 -127.91 4107.74  4,005.45─&lt;/p&gt;&lt;p&gt;4,107.74&lt;/p&gt;&lt;p&gt;プライム市場指数 2069.35 -66.22 2116.96  2,065.83─&lt;/p&gt;&lt;p&gt;2,117.12&lt;/p&gt;&lt;p&gt;スタンダード市場指数 1658.30 -33.98 1685.30  1,656.38─&lt;/p&gt;&lt;p&gt;1,685.38&lt;/p&gt;&lt;p&gt;グロース市場指数 951.93 -19.45 964.21  946.09─96&lt;/p&gt;&lt;p&gt;4.54&lt;/p&gt;&lt;p&gt;グロース250指数 742.28 -15.91 752.37  737.34─75&lt;/p&gt;&lt;p&gt;2.86&lt;/p&gt;&lt;p&gt;東証出来高(万株) 251136 東証売買代金(億 101151.7&lt;/p&gt;&lt;p&gt;円) 5&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -103,10 +107,11 @@
       <description>[ナイロビ １９日 ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;[ナイロビ １９日 ロイター] - アフリカのコンゴ民主共和国（旧ザイール）で確認されたエボラ出血熱の感染者が５０００人を超えたことが、１８日夜に公表された政府統計で分かった。保健当局者は感染拡大を封じ込められていないと警告している。&lt;/p&gt;&lt;p&gt;同国で１７回目となるエボラ出血熱の流行は、感染者数が７月下旬に過去最高となった。国立公衆衛生研究所によると、週末には死者が２３７８人に達し、これまで最悪だった２０１８─２０年の流行を上回った。&lt;/p&gt;&lt;p&gt;同研究所の最新の状況報告によれば、これまでに確認された感染者は５０２１人で、感染者数、死者数ともに１４─１６年の西アフリカでの流行に次ぐ世界で２番目の規模となった。&lt;/p&gt;&lt;p&gt;現在の流行はエボラウイルスのブンディブギョ型によるもので、承認されたワクチンや治療法はない。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -123,10 +128,11 @@
 ［東京　１９日　ロイター］ -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;Yoshifumi Takemoto&lt;/p&gt;&lt;p&gt;［東京　１９日　ロイター］ - 中谷元元防衛相らが共同代表を務める「人権外交を超党派で考える議員連盟」は１９日、国際刑事裁判所（ＩＣＣ）の赤根智子所長に対する米国政府の制裁措置に対する非難声明を発表した。&lt;/p&gt;&lt;p&gt;米政府は１８日、赤根所長を、米国内資産の凍結、入国禁止、米国人・米国企業との取引遮断の対象とした。声明は非難理由として本措置は「ＩＣＣを機能不全に陥らせること自体を目的としている」ことも挙げている。会見した中谷氏は「戦争犯罪をなくすために作られたＩＣＣの否定は世界の人権、民主主義への挑戦で許されない」と指摘、「日本政府に対して対外的意見表明を促していきたい」と強調した。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -141,10 +147,11 @@
       <description>ベルギー中部の都市ディナンで8月15日、手作りのバスタブ型いかだで川を下る恒例のレガッタ大会が開催された。地元の店主が、ラジオで聞いたアイデアをきっかけに1982年に始めた行事で、デザインにバスタブを取り入れることが条件。参加者は音楽をテーマに装飾されたユニークな船で約1キロのコースを漕ぎ進んだ（ナレーションなし）。</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;ベルギー中部の都市ディナンで8月15日、手作りのバスタブ型いかだで川を下る恒例のレガッタ大会が開催された。地元の店主が、ラジオで聞いたアイデアをきっかけに1982年に始めた行事で、デザインにバスタブを取り入れることが条件。参加者は音楽をテーマに装飾されたユニークな船で約1キロのコースを漕ぎ進んだ（ナレーションなし）。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -159,10 +166,11 @@
       <description>[ロンドン １９日 ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;[ロンドン １９日 ロイター] - 英国立統計局（ＯＮＳ）が１９日発表した７月の消費者物価指数（ＣＰＩ）は前年同月比２．９％上昇し、３月以来の高水準となった。ガス電力市場監督局（Ｏｆｇｅｍ）が定める料金上限が１３％引き上げられ、家庭向けの電気ガス料金が上昇したことが要因となった。&lt;/p&gt;&lt;p&gt;上昇幅は１５カ月ぶり低水準だった６月の２．６％から拡大した。&lt;/p&gt;&lt;p&gt;ロイターがまとめたエコノミスト調査でも２．９％上昇との予想が大勢だった。ただ、イングランド銀行（中央銀行）は先月末に公表した予測で２．８％上昇を見込んでいた。&lt;/p&gt;&lt;p&gt;エネルギーと食品の価格の影響を除いたコアインフレ率は前年比２．６％上昇し、予想中央値の２．５％をやや上回った。&lt;/p&gt;&lt;p&gt;ヒーリー財務相は発表を受けて「イラン戦争に起因するインフレが引き続き国内の物価に影響を及ぼしているが、英経済は底堅い」と述べた。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -177,10 +185,11 @@
       <description>[北京 １９日 ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;[北京 １９日 ロイター] - 中国国営中央テレビ（ＣＣＴＶ）は１９日、中国南西部を襲った豪雨で住宅の倒壊や土砂崩れが発生し、１０人が死亡したと報じた。成都や自貢を含む複数地域で２万人以上が災害に備えて避難した。&lt;/p&gt;&lt;p&gt;ＣＣＴＶによると、四川省長寧県では１８日、たまった雨水が原因で住宅の屋根と壁が崩れ５人が死亡した。&lt;/p&gt;&lt;p&gt;広西チワン族自治区の建設現場では１７日に土砂崩れが発生した。土砂に埋まった５人が救助隊によって収容されたが、全員の死亡が確認された。当局が原因を調べている。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -197,10 +206,11 @@
 [サンティアゴ １８日 ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;Aida Pelaez-Fernandez&lt;/p&gt;&lt;p&gt;[サンティアゴ １８日 ロイター] - チリ中央銀行が１８日に発表した第２・四半期国内総生産（ＧＤＰ）は、前年同期比で０．２％のマイナス成長となった。前期改定値の同０．３％減からはわずかに改善したものの、エコノミスト予想の０．１％増には届かなかった。&lt;/p&gt;&lt;p&gt;前期比は横ばいで、こちらも予想の０．３％増を下回った。ただ、第１・四半期の０．３％減からは改善した。&lt;/p&gt;&lt;p&gt;チリは世界最大の銅生産国だが、第２・四半期は銅の生産減で鉱業部門が６．４％落ち込んだことが重しになった。&lt;/p&gt;&lt;p&gt;中銀はリポートで「鉱石品位の低下と、定期点検に伴う国内主要鉱床の生産減で銅の採掘操業が影響を受けた」と述べた。&lt;/p&gt;&lt;p&gt;キャピタル・エコノミクスのアナリスト、キンバリー・スパーフェヒター氏はノートで「第２・四半期ＧＤＰが予想外に低調だったことは、最近のインフレ鈍化とともに、中銀に対する金融引き締め圧力を和らげるだろう」と述べた。&lt;/p&gt;&lt;p&gt;中銀は９月の次回会合で政策金利を４．５％に据え置いた後、インフレ鈍化と経済の不安定さのバランスを取りつつ、２４カ月にわたってこの水準を維持すると予想されている。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -225,10 +235,11 @@
 ＮＹ午後５時 159.61／159.62 1.1574／1.1577</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;Atsuko Aoyama&lt;/p&gt;&lt;p&gt;[東京 １９日 ロイター] -&lt;/p&gt;&lt;p&gt;ドル／円 ユーロ／ドル ユーロ／円&lt;/p&gt;&lt;p&gt;午後３時現在 159.29／159.31 1.1587／1.1590 184.60／184.61&lt;/p&gt;&lt;p&gt;午前９時現在 159.54／159.57 1.1575／1.1577 184.70／184.71&lt;/p&gt;&lt;p&gt;ＮＹ午後５時 159.61／159.62 1.1574／1.1577 184.73／184.77&lt;/p&gt;&lt;p&gt;午後３時のドル／円は、前日ニューヨーク市場終盤からドル安／円高の１５９円前半で推移している。ドル／円相場で積極的に取引を行う手掛かりに乏しい中、米国の金利高が一服し、上値が重い展開となった。&lt;/p&gt;&lt;p&gt;ドルは朝方の１５９円半ばから徐々に水準を切り下げた。午後にかけて１５９．２１円まで売られたものの、下がったところでは押し目買いの意欲も強いとの声が聞かれた。&lt;/p&gt;&lt;p&gt;前日に一時１年７カ月ぶり高水準に上昇した米１０年金利は足元で４．６％台に下落しているほか、午前中には米国がカナダへの関税発動停止を発表し、米ドルがカナダドルに対して売られた。&lt;/p&gt;&lt;p&gt;米国の指標は軒並み弱く、市場では「ひと頃に比べれば、ドル／円のファンダメンタルズ面で円安の勢いを止める材料の方が多い」（国内銀行の為替ディーラー）との見方があるものの、ドル／円相場は１５９円台での推移が続く。&lt;/p&gt;&lt;p&gt;相場の下押し材料が出てもドル／円の下げは大きく深まらず、「円高材料には反応しない。根本的な円安材料は変わらず、下がったところでは安心して買いが入れられるのではないか」（トレイダーズ証券の井口喜雄・市場部長）との声が聞かれた。&lt;/p&gt;&lt;p&gt;一方、上値追いも限定的で、日米による為替協調介入後で１６０円を超えるドル高／円安は追加介入が警戒され「上は攻められない」（トレイダーズ証券の井口氏）との見方もある。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -245,10 +256,11 @@
 [ヒューストン １８日 ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;Marianna Parraga&lt;/p&gt;&lt;p&gt;[ヒューストン １８日 ロイター] - 米エネルギー省のハウストベイト次官は１８日、ベネズエラの原油生産量の約半分が現在、米国に輸出されていると述べた。&lt;/p&gt;&lt;p&gt;ヒューストンで開かれたイベントで「ここ数カ月、ベネズエラの生産量の約半分に当たる５０万バレル超が、その原油向けに特別に建設された米国の製油所に運ばれている」とした上で、ベネズエラの産油量が足元で日量約１２５万バレルに上っていると述べた。&lt;/p&gt;&lt;p&gt;また、現地生産を支援するため、日量１０万バレル超の米国産ナフサがベネズエラに移送され、重質原油と混合されていると説明。&lt;/p&gt;&lt;p&gt;「これは素晴らしいエネルギーパートナーシップだ。距離的にも理にかなっており、開かれた市場だ。貿易の双方で真の価値が生み出されている。これほどクリーンなパートナーシップはないと思う」と述べた。&lt;/p&gt;&lt;p&gt;さらに、ベネズエラでの進展を強調し、契約は尊重されると述べた。&lt;/p&gt;&lt;p&gt;ベネズエラ国営石油会社ＰＤＶＳＡのバイスプレジデント、ジョバニー・マルティネス氏は同じイベントで、米国は経済を支えるためベネズエラの重質原油を必要としていると述べた。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -265,10 +277,11 @@
 [ロンドン １９日 ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;Alun John　Dhara Ranasinghe&lt;/p&gt;&lt;p&gt;[ロンドン １９日 ロイター] - 最近の米日両国による円相場を支えるための異例の介入は、スイスフラン安という予期せぬ結果をもたらす可能性があり、長年にわたり自国通貨高に悩まされてきたスイスの企業や政策当局者にとって朗報となるだろう。&lt;/p&gt;&lt;p&gt;フランは持続的な経常黒字、健全な財政、低いインフレ率、そして安全資産としての資金流入に支えられ、このところの軟化にもかかわらず、５年前と比べ対ユーロでなお１２％高い水準にある。&lt;/p&gt;&lt;p&gt;円とフランはいずれもキャリートレードの影響を受けており、投資家が低金利のこれらの通貨を借り入れて売却し、新興国といった他の地域で高利回りの資産を購入すると、両通貨は下落する。&lt;/p&gt;&lt;p&gt;円は長らく資金調達通貨として好まれてきたが、トレーダーがさらなる介入リスクを警戒しているため、今後も相場は不安定な動きが続くと予想される。アナリストや投資家によると、これがフランへのローテーションのきっかけとなっており、米日当局が円高に誘導できればこの傾向は継続する可能性が高い。&lt;/p&gt;&lt;p&gt;ニューバーガー・バーマンのグローバル債券・通貨運用チームに所属するシニアポートフォリオマネジャー、フレドリック・レプトン氏は「市場参加者は資金調達ポジションの一部をシフトさせることを検討するだろう」と述べた。&lt;/p&gt;&lt;p&gt;フランは対ユーロで０．９３８５フラン前後と、約１年ぶりの安値圏にある。３月に記録した１１年ぶりの高値０．９フラン付近から約４％下落しているほか、１月に記録した対ドルでの１１年ぶりの高値からは７％近く下落している。&lt;/p&gt;&lt;p&gt;ラボバンクは先週、ユーロ／フランの９─１２カ月先の目標レートを０．９４フランから０．９５フランへと上方修正。さらにフラン安が進むとの見通しが反映された。&lt;/p&gt;&lt;p&gt;スイス国立銀行（中央銀行）によって借入コストが抑制されていることから、フランはキャリートレードにおいて円に代わる選択肢として際立っている。&lt;/p&gt;&lt;p&gt;ＢｏｆＡのグローバルＧ１０ＦＸ戦略担当責任者アダルシュ・シンハ氏は「スイスの金利は日本円よりも低いだけでなく、（フランの）ボラティリティーも低い」と語る。&lt;/p&gt;&lt;p&gt;ＩＮＧのマーケット担当グローバル責任者クリス・ターナー氏は、円に代わってフランを資金調達通貨として使用する動きは依然として初期段階にあるようだが、十分に起こり得ると指摘。「日本側は円高を望み、スイス側はフラン安を望んでいる。したがって、それは理にかなっている」。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -285,10 +298,11 @@
 [ワシントン １８日 ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;Leah Douglas&lt;/p&gt;&lt;p&gt;[ワシントン １８日 ロイター] - 米農務省森林局は１８日、未開発の森林地域で伐採や道路建設、鉱山開発を禁止する「無道路地域保全規則」の撤廃を提案した。山火事のリスクの管理に役立つとしている。これに対し、環境保護団体は、規則撤廃でむしろ山火事のリスクが高まると反発している。&lt;/p&gt;&lt;p&gt;トランプ米大統領は環境規制を相次いで撤回し、エネルギー資源の開発などのために保全対象の土地を開発できるようにしてきた。&lt;/p&gt;&lt;p&gt;森林局の提案は、自然保護を目的に２００１年に設けられた同規則を撤廃し、管理の権限を国有林の現場管理者に移す内容となっている。森林局は９月２１日まで意見を公募する。&lt;/p&gt;&lt;p&gt;米国は近年で最悪レベルの山火事被害に見舞われている。全米省庁間消防センター（ＮＩＦＣ）によると、８月１７日までの山火事発生件数は約４万９０００件で、７３０万エーカー（約３００万ヘクタール）が焼失した。&lt;/p&gt;&lt;p&gt;ロリンズ農務長官は声明で、規則を撤廃すれば山火事のリスク低減につながると主張。一方、環境保護団体は、規則を撤廃すればより多くの森林が人間の活動にさらされ、山火事のリスクが高まると反発している。&lt;/p&gt;&lt;p&gt;環境保護団体ワイルダネス・ソサエティによる２５年の分析によると、山火事の発生密度は原生地域や保護された森林で最も低く、道路に近い地域で最も高かった。&lt;/p&gt;&lt;p&gt;同団体の保全キャンペーン部門ディレクター、ジョシュ・ヒックス氏は、「奥地の森林で道路建設や開発を進めれば、それに伴って出火も増える。開発の増加は山火事対策にはならないし、今後も決して解決策にはならない」と述べた。&lt;/p&gt;&lt;p&gt;農務省によると、無道路地域保全規則で開発が制限されている森林は約５９００万エーカー（約２４００万ヘクタール）と、国有林全体の約３０％に相当する。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -303,10 +317,11 @@
       <description>［１８日　ロイター］ -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;［１８日　ロイター］ - 米大リーグ（ＭＬＢ）は１８日、各地で試合を行い、ドジャースの大谷翔平投手はロッキーズ戦で今季３０号を放ち、６年連続で３０本塁打に到達した。ブルージェイズの岡本和真内野手もレイズ戦で２５号を放ち、球団の新人最多本塁打記録を更新した。&lt;/p&gt;&lt;p&gt;大谷は「１番・指名打者」で先発し、三回無死一塁から初球のカーブを右中間へ運ぶ２ラン。２試合連続本塁打で、前日から３本目となった。この日は５打数１安打２打点、１得点、１三振。ドジャースは７─６で競り勝った。&lt;/p&gt;&lt;p&gt;岡本は「６番・一塁」で先発し、五回に左中間へソロ本塁打。５打数１安打１打点、１得点、１三振で、ブルージェイズはレイズに１０─５で勝利した。&lt;/p&gt;&lt;p&gt;岡本の２５号は、２００２年にエリック・ヒンスキーが記録した２４本を上回るチーム新人最多記録。７月下旬には大谷が１８年に記録した日本出身新人最多の２２本を更新していた。&lt;/p&gt;&lt;p&gt;カブス戦に「２番・一塁」で先発したホワイトソックスの村上宗隆内野手は、１点を追う三回に同点の２９号ソロ本塁打。４打数１安打１打点、１得点、１四球、２三振だった。&lt;/p&gt;&lt;p&gt;カブスの鈴木誠也外野手は「２番・指名打者」で先発し、５打数無安打、３三振だった。試合はカブスが４─３でサヨナラ勝ちした。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -323,10 +338,11 @@
 [ロサンゼルス １８日 ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;Lisa Baertlein&lt;/p&gt;&lt;p&gt;[ロサンゼルス １８日 ロイター] - 米国最大の港湾であるロサンゼルス港は、７月のコンテナ取扱量が過去２番目の高水準となった。消費財に加え、製造業向け設備やデータセンター建設関連機器の需要が堅調だったことが寄与した。ロサンゼルス港湾局のジーン・セロカ事務局長が１８日、記者団との電話会見で明らかにした。&lt;/p&gt;&lt;p&gt;セロカ氏によると、こうした需要を背景に８月も好調な実績が続くと見通しだという。&lt;/p&gt;&lt;p&gt;港湾を通じた海上コンテナ輸入は、米国の景気動向を示す先行指標の一つとして、アナリストや市場関係者から注目されている。&lt;/p&gt;&lt;p&gt;公表されたデータによると、７月のコンテナ貨物取扱量は９６万０４６４ＴＥＵ（１ＴＥＵ＝２０フィートコンテナ１個分換算）だった。このうち輸入は４９万９５５２ＴＥＵを占めた。隣接するロングビーチ港も先週、７月の取扱量が過去２番目の水準だったと発表しており、総取扱量は９２万８５０８ＴＥＵ、輸入は４６万７４６１ＴＥＵだった。&lt;/p&gt;&lt;p&gt;セロカ氏は「現在見えている状況を踏まえると、８月のコンテナ取扱量は９０万ＴＥＵを超える見込みだ」と述べた。&lt;/p&gt;&lt;p&gt;同氏や業界専門家の話では、今年は物流の繁忙期が例年より早く到来し、多くの年末商戦向け商品は既に米国に到着している。一部小売業者は、ほぼ全ての輸入品に一律１０％の追加関税を課したトランプ政権の措置が７月下旬に失効する前に、その後の先行き不透明感を嫌って輸入を前倒しした。&lt;/p&gt;&lt;p&gt;一方でセロカ氏は、現在の高い取扱ペースが長期的に続くわけではないとくぎを刺した。全米小売業協会（ＮＲＦ）の予測を引用し、８月の輸入は引き続き堅調となるものの、その後は年末に向けて徐々に減速するだろうとみている。&lt;/p&gt;&lt;p&gt;市場規模が約１２００億ドルに上る世界のコンテナ海運業界では、これまで取扱貨物の約半分を小売関連商品が占め、家具、靴、衣料品、食品など年末商戦向け商品の輸送需要が例年の繁忙期を支えてきた。しかし業界関係者によると、この構図は変化しつつある。米国をはじめ各国が電力網の強化や、人工知能（ＡＩ）向けデータセンターの建設を急いでいるためだ。&lt;/p&gt;&lt;p&gt;世界第２位のコンテナ船会社マースクのビンセント・クラーク最高経営責任者（ＣＥＯ）は先週の決算説明会で「コンテナの中身は徐々に変化している」と指摘した。従来のアジア発のコンテナの多くには、百貨店向けの家具や靴、衣料品、食品などが積み込まれていたものの、現在は電化の進展や発電能力拡大に向けた動きに関連する製品の輸送が増加している。具体的には、電池、太陽光パネルや風力発電設備、タービンの部品に加え、データセンター向け冷却装置などが含まれるという。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -343,10 +359,11 @@
 [シンガポール １８日 ロイター] - 中国海運大手の中遠海運能源運輸と招商局能源運輸（ＣＭＥＳ）</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;Chen Aizhu　Siyi Liu&lt;/p&gt;&lt;p&gt;[シンガポール １８日 ロイター] - 中国海運大手の中遠海運能源運輸と招商局能源運輸（ＣＭＥＳ） の２社が、中東のエネルギー輸送の要衝となっているホルムズ海峡などで原油を運ぶタンカーの航行を取りやめたことが分かった。代わりにペルシャ湾外で石油を積み込んでいる。業界幹部３人と複数の船舶追跡データ企業関係者、船舶ブローカーが明らかにした。&lt;/p&gt;&lt;p&gt;船舶追跡データ企業ボルテクサと船舶ブローカーによると、２社は７月下旬以降にホルムズ海峡に加え、バベルマンデブ海峡でもタンカーの航行を控えている。イエメンの親イラン武装組織フーシ派が７月２０日にサウジアラビアに対する海上封鎖を宣言し、米国とイランの暫定和平合意の破綻後にホルムズ海峡がほぼ閉鎖されている中で、安全上の懸念があるため。&lt;/p&gt;&lt;p&gt;中国の海運会社幹部２人は、２社の決定は当局との協議の結果だと明らかにした。ＣＭＥＳは７月下旬、同社の船舶が当面の間はホルムズ海峡に入らないと投資家らに伝えた。&lt;/p&gt;&lt;p&gt;海運業界の情報筋によると、２社は１隻当たり２００万バレルの原油を輸送できる超大型タンカー（ＶＬＣＣ）を計１００隻超保有している。米国とイスラエルが２月末にイランを攻撃して中東で紛争が勃発する前、２社は中国が中東から輸入している原油の約半分を取り扱っていた。&lt;/p&gt;&lt;p&gt;中国の税関データによると、米国の制裁対象となっているイラン産原油を除いた中国の中東からの原油輸入量は２０２５年に日量平均４９０万バレルだった。&lt;/p&gt;&lt;p&gt;中国の国営海運会社幹部は、中東での紛争勃発後にＶＬＣＣの利用率が低下していると説明。多くの船舶が大西洋や米州を通るより長い航路に迂回しているとし、「タンカーは引き続き稼働しているが、より長い航海を余儀なくされており、不確実性が高まる中で待機時間も長くなっている」と話した。&lt;/p&gt;&lt;p&gt;ボルテクサによると、７月に中遠海運能源運輸が運航する４隻のＶＬＣＣと、ＣＭＥＳが運航するタンカー１隻が、アラブ首長国連邦（ＵＡＥ）東部フジャイラで洋上移し替えによって原油を積み込んだ。&lt;/p&gt;&lt;p&gt;船舶ブローカーによると、８月から９月中旬にかけて２社がそれぞれ管理する約１２隻のＶＬＣＣが主にフジャイラと、オマーンおよびその周辺の港湾で原油を積む計画になっている。これらは主に中国の精製業者によってチャーターされている。&lt;/p&gt;&lt;p&gt;調査会社ケプラーの船舶追跡データによると、中遠海運能源運輸のタンカー「コスラッキーレイク号」は、フーシ派が封鎖する前にサウジの紅海沿岸にあるヤンブー港から原油を載せるため最後に紅海に入ったタンカーのうちの１隻。８月初旬に航路を変え、何も積載しないままスエズ運河を通過後、エジプトの地中海沿岸シディ・ケリル港でサウジ産原油を積み込んだ。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -361,10 +378,11 @@
       <description>[１９日 ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;[１９日 ロイター] - アジアの主要な債券市場で７月、外国人投資家の資金流入額が４カ月ぶりの水準に落ち込んだ。中東紛争で原油価格が上昇する中、経済への影響を見極めようと投資家が選別姿勢を強めた。&lt;/p&gt;&lt;p&gt;規制当局や債券市場協会のデータによると、外国人投資家はインド、インドネシア、マレーシア、韓国、タイの現地債券を２０億３０００万ドル買い越した。月間の買い越し額としては３月以来の低水準となった。&lt;/p&gt;&lt;p&gt;世界的には新興国債券に対する外国人投資家の需要が堅調を維持したにもかかわらず、アジアへの流入は鈍化した。&lt;/p&gt;&lt;p&gt;国際金融協会（ＩＩＦ）によると、７月の新興国債券への投資額は２６７億ドルに達した。高利回り、ファンダメンタルズの改善、先進国市場からの分散投資を求める動きが背景にある。一方、新興国株式は７８億ドルの流出となった。&lt;/p&gt;&lt;p&gt;アジアはエネルギーコスト上昇の影響を受けやすい国が多いため、相対的に魅力が薄れている。&lt;/p&gt;&lt;p&gt;５カ月に及ぶイラン紛争は、湾岸のエネルギー輸出の要衝であるホルムズ海峡の航行を混乱させ、輸入国のコストを押し上げて成長懸念を高めている。&lt;/p&gt;&lt;p&gt;７月の中国製造業購買担当者景気指数（ＰＭＩ）は景気拡大と縮小の分岐点となる５０を割り込み、インドの製造業ＰＭＩも約５年ぶりの低水準となった。&lt;/p&gt;&lt;p&gt;ただ、インド債券には３０億４０００万ドルの海外資金が流入した。同国政府が６月上旬、海外投資家を対象に国債の利子所得や売却益にかかるキャピタルゲイン税を撤廃したことが背景にある。&lt;/p&gt;&lt;p&gt;韓国債券には約６億ドルが流入し、４カ月連続の買い越しとなった。ＦＴＳＥラッセルの主要債券指数に組み入れられたことが追い風となった。&lt;/p&gt;&lt;p&gt;インドネシア債券への流入は４カ月ぶり低水準の４０００万ドルに落ち込んだ。ペリー・ワルジヨ中央銀行総裁が突如辞任し、中銀の独立性を巡る懸念が高まったことが背景。&lt;/p&gt;&lt;p&gt;マレーシア債券は、投資家が州議会選を前に慎重姿勢を維持したことから１３億８０００万ドルの流出となった。タイ債券も景気減速への懸念から、外国人投資家が２億６８００万ドルを売り越した。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -383,10 +401,11 @@
 カナダとオーストラリアが資金提供し、人道支援従事者に影響を与える主要な治安事件をまとめている「Aid Worker Security</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;Emma Farge&lt;/p&gt;&lt;p&gt;[ジュネーブ １９日 ロイター] - 国連は１９日、武装ドローン（無人機）の使用増加などを背景に、昨年は人道支援従事者に対する攻撃が過去最多を記録したと発表した。&lt;/p&gt;&lt;p&gt;カナダとオーストラリアが資金提供し、人道支援従事者に影響を与える主要な治安事件をまとめている「Aid Worker Security Database」によると、２０２５年には約９０７人の支援従事者が殺害、負傷、または拉致された。前年は８３３人だった。&lt;/p&gt;&lt;p&gt;内訳を見ると、殺害されたのは３５０人で、過去最多だった２４年の３８７人から減少。パレスチナ自治区ガザが支援従事者にとって圧倒的に最も危険な場所となっており、昨年は１８６人が殺害され、次いでスーダンが続いた。&lt;/p&gt;&lt;p&gt;国連のグテレス事務総長は、こうした暴力のレベルに「ぞっとする」と述べ、各国に対し、戦争のルールを尊重し、加害者の責任を問うよう求めた。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -403,10 +422,11 @@
 [ボストン １８日 ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;Nate Raymond&lt;/p&gt;&lt;p&gt;[ボストン １８日 ロイター] - 米東部マサチューセッツ州ボストンの連邦地裁のブライアン・マーフィー判事は１８日、米国での居住・就労を認めてきたエチオピア人５０００人超に対する「一時保護資格（ＴＰＳ）」を取り消すトランプ政権の措置を認める判断を示した。&lt;/p&gt;&lt;p&gt;今回の決定で、国土安全保障省による各国向けＴＰＳ指定終了措置を差し止めていた最後の司法判断が取り除かれた。米連邦最高裁は６月、ハイチやシリア出身者に対する同様の保護措置の終了を認めており、その流れを受けた形だ。&lt;/p&gt;&lt;p&gt;保守派が多数を占める連邦最高裁は６対３で、トランプ政権が進める１３カ国のＴＰＳ指定終了に関し、裁判所による審査権限を制限する判断を示していた。&lt;/p&gt;&lt;p&gt;国土安全保障省のジェームズ・パーシバル法務顧問は交流サイト（ＳＮＳ）への投稿で「全てのＴＰＳ終了措置が発効した」と歓迎した。&lt;/p&gt;&lt;p&gt;エチオピアのＴＰＳ終了を巡って差し止め訴訟を起こしていた複数のエチオピア人と支援団体「アフリカン・コミュニティーズ・トゥギャザー」からは、エチオピアの危機は依然続いており、この判断は米国在住の数千人のエチオピア人を深刻な危険にさらすと懸念する声が出ている。&lt;/p&gt;&lt;p&gt;ＴＰＳは、自然災害や武力紛争、その他の非常事態に見舞われた国の出身者を対象に、就労許可と一時的な強制送還免除を認める制度。バイデン前政権は２０２２年、武力紛争や人道危機からエチオピア国民を保護する必要があるとして、既に米国内に滞在していたエチオピア人にＴＰＳを付与した。&lt;/p&gt;&lt;p&gt;ただ、国土安全保障省は昨年１２月にノーム前長官の下で、エチオピアの情勢は安全な帰国を妨げる深刻な脅威ではなくなったとして保護措置の終了を発表した。&lt;/p&gt;&lt;p&gt;マーフィー氏は４月、国土安全保障省が法定手続きを軽視し、保護終了の理由も「見せかけのものだった」と指摘してＴＰＳ終了の措置を差し止めた。&lt;/p&gt;&lt;p&gt;だが、最高裁判断を受けて改めて審理した結果、「国土安全保障省にＴＰＳ終了の権限はない」などという原告側の主張を退けて差し止めを解除した。一方、国土安全保障省の措置が人種や出身国に対する偏見に基づいて憲法修正第５条に違反するかどうかについては、原告側が引き続き争うことを認めた。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -421,10 +441,11 @@
       <description>[１８日 ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;[１８日 ロイター] - スウェーデンの輸送テクノロジー企業アインライドは、今年下半期の売上高伸び率が前年同期の２倍以上になるとの見通しを示し、米電気自動車（ＥＶ）大手テスラのトラック「セミ」５００台を自社車両に加える契約を発表した。セミの導入は９月に開始される見通し。&lt;/p&gt;&lt;p&gt;セミの導入は第三者からの資金調達によって賄われ、これにより保有車両は３倍増の約７５０台に拡大する見込みだ。&lt;/p&gt;&lt;p&gt;アインライドは２０２８年のキャッシュフロー収支均衡を目指しており、それまでに保有車両を約１５００－２０００台に増やす計画。&lt;/p&gt;&lt;p&gt;米国および欧州での導入加速につれ、２６年下半期には、為替変動の影響を除いた売上高伸び率が前年同期比で２倍超になると見込んでいる。&lt;/p&gt;&lt;p&gt;ルーズベ・チャルリ最高経営責任者（ＣＥＯ）はロイターに「望む形でハードウエアを入手できる段階に差しかかっており、今こそソフトウエアの出番だ。ソフトを活用してそのハードをネットワーク全体に効率的に展開できるようにする」と語った。&lt;/p&gt;&lt;p&gt;テスラが加わったことで、アインライドは現在、オランダ大型トラック大手ＤＡＦを含む５－６のトラックブランドから調達しているという。&lt;/p&gt;&lt;p&gt;アインライドの今年上半期の為替変動の影響を除いた売上高は前年同期比２６％増となった。顧客数の増加と車両導入の拡大が寄与した。一方で、純損失は１１億２０００万スウェーデンクローナ（１億１７５６万ドル）に拡大した。ナスダック上場に伴う一時的な費用、資本再編費用、および株式報酬費用が主な要因。&lt;/p&gt;&lt;p&gt;６月に特別買収目的会社との合併を通じてナスダックに上場した同社は、ＥＶおよび自動運転貨物輸送技術を開発している。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -441,10 +462,11 @@
 [サンフランシスコ １８日 ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;Max A. Cherney&lt;/p&gt;&lt;p&gt;[サンフランシスコ １８日 ロイター] - 人工知能（ＡＩ）向け半導体の米新興企業セレブラス・システムズは１８日、ＡＩチャットボットの推論処理を高速化する新型サーバーシステム「ＣＳ－４」を発表した。&lt;/p&gt;&lt;p&gt;同社が設計した大型チップ３基を搭載する。アーキテクチャにも自社開発の「ネクサス」を採用し、チップを搭載したモジュールの差し替えが可能となっている。&lt;/p&gt;&lt;p&gt;チップはディナープレートほどの大きさで、チップ間のデータ移動で生じる電力消費や処理速度の低下を抑えられる。チップは台湾積体電路製造（ＴＳＭＣ）の５ナノメートル製造プロセスで生産され、第３・四半期に製品の提供を開始する。部品点数を従来比で５０％削減し、データセンター建設の迅速化にもつながるとしている。&lt;/p&gt;&lt;p&gt;アンドリュー・フェルドマン最高経営責任者（ＣＥＯ）によると、セレブラスは２０２７年末までに、総計６００メガワット規模の計算インフラを顧客向けに提供する計画であり、技術開発では次世代のチップやシステムの高速化に重点を置いている。&lt;/p&gt;&lt;p&gt;フェルドマン氏は記者説明会で、「現在から２０２７年末までに処理速度を４倍にし、スループット（単位時間当たりの処理量）を２０倍にする」と述べた。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -461,10 +483,11 @@
 [ストックホルム １８日 ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;Supantha Mukherjee&lt;/p&gt;&lt;p&gt;[ストックホルム １８日 ロイター] - スウェーデンの後払い決済サービス兼オンライン銀行クラーナが１８日発表した第２・四半期決算は、純損益が前年同期の５３００万ドルの赤字から９００万ドルの黒字に転じ、１７４０万ドルの赤字を見込んでいた市場予想よりも業績がずっと大きく改善した。売上高は前年同期比２７％増の１０億４０００万ドルで、市場予想の９億９３８０万ドルを超えた。&lt;/p&gt;&lt;p&gt;調整後営業利益は９１００万ドルと、前年同期の２９００万ドルから増加した。総取扱高（ＧＭＶ）は同１８％増の３６６億ドル。米国のＧＭＶは同２７％増だった。&lt;/p&gt;&lt;p&gt;同社は通期ＧＭＶを１４９０億―１５１０億ドルと見込んでおり、従来予想の１５５０億ドル超から下方修正した。通期売上高見通しは４０億８０００万―４１億６０００万ドルで、従来の４３億４０００万ドルから引き下げた。市場予想は４４億２０００万ドル。理由として同社の最大市場となっているドイツの市場環境を挙げた。&lt;/p&gt;&lt;p&gt;ドイツの小売売上高の上半期の伸びは実質１％未満にとどまっており、クラーナはドイツの景気は下半期を通じて回復するのではなく軟調が続くと予想している。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -481,10 +504,11 @@
 [ワシントン １８日 ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;Jasper Ward&lt;/p&gt;&lt;p&gt;[ワシントン １８日 ロイター] - 米国の労働組合や権利擁護団体などの組織が１８日、外国人留学生や報道関係者が滞在延長を申請せずに米国内に滞在できる期間を制限する規則の施行差し止めを求め、マサチューセッツ州の連邦地方裁判所に連邦政府を提訴した。&lt;/p&gt;&lt;p&gt;トランプ大統領政権下の国土安全保障省が導入したこの新規則は、留学生向けのＦビザ、文化交流プログラム参加者が米国内で就労できるＪビザ、報道関係者向けのＩビザについて滞在期間を固定するものだ。これらのビザは現在、米国内でのプログラムや雇用の期間中は有効となっている。&lt;/p&gt;&lt;p&gt;９月１５日に発効予定の新規則では、学生ビザおよび交流訪問者ビザの有効期間は最長４年となる。また現在は数年間有効な場合もある報道関係者向けビザについては、最長２４０日間、中国国籍者の場合は９０日間に制限される。&lt;/p&gt;&lt;p&gt;原告団体はこの変更が大学、留学生、研究者に「壊滅的な影響」をもたらすと主張した。また多くの報道機関の記者を代表する労働組合である米国ニュースギルドのジョン・シュロイス会長は、この措置を報道関係者への攻撃だと非難した。&lt;/p&gt;&lt;p&gt;原告団体は訴状で「これらの規則は、留学生やその他の非移民が、学業の途中で合法的な在留資格を失うかもしれないという極めて受け入れ難い見通しに直面することで、米国への渡航を思いとどまらせるだろう」と述べた。&lt;/p&gt;&lt;p&gt;さらに「学生は機会を失い、学校は優秀な人材を失い、そして米国の主要な輸出の１つである教育によって支えられてきた数十億ドル規模の経済的貢献を、社会全体が失うことになる」と訴えた。&lt;/p&gt;&lt;p&gt;これに対し、国土安全保障省の報道官はこの訴訟を「パフォーマンス的」だと批判した。&lt;/p&gt;&lt;p&gt;同報道官は「仮にメディアが本当に正当な留学生のことを気にかけるのであれば、米国で学ぶ真の意図を持つ者だけにその特権が与えられるよう、横行する不正行為の取り締まりを強化しているトランプ大統領に感謝すべきだ」と述べた。ただ不正行為が横行しているとの主張についての証拠は示さなかった。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -501,10 +525,11 @@
 [１８日 ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;Prakhar Srivastava　Pragyan Kalita&lt;/p&gt;&lt;p&gt;[１８日 ロイター] - 人工知能（ＡＩ）推論チップを手掛ける米スタートアップ企業エッチドは１８日、自社の企業価値が１カ月足らずで２倍以上に跳ね上がり、２１０億ドルに達したと発表した。&lt;/p&gt;&lt;p&gt;同社は７億ドルの資金を調達。トレーディング会社ジェーン・ストリートが引き続き主導して出資し、クライナー・パーキンス、セコイア、アンドリーセン・ホロウィッツ、タイガー・グローバルなどが参加した。&lt;/p&gt;&lt;p&gt;エッチドはモデルの実行を高速かつ低コストにするよう設計された専用のＡＩ推論システムを構築しており、ＡＩチップ市場におけるエヌビディアの支配的地位に挑戦しようとしている。&lt;/p&gt;&lt;p&gt;７月の資金調達ラウンドでは１０３億ドルの評価額だった。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -519,10 +544,11 @@
       <description>[シドニー　１９日　ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;[シドニー　１９日　ロイター] - オーストラリア準備銀行（中央銀行）のハウザー副総裁は１９日、インフレ上振れリスクが現実のものとなれば、再び利上げを余儀なくされるだろうと述べた。国内のインフレ率は依然として高すぎるとの認識も示した。&lt;/p&gt;&lt;p&gt;クイーンズランドで開催されたイベントで講演し、インフレに対する３つの上振れリスクとして、中東紛争、世界的なＡＩ（人工知能）ブーム、生産性の低さを挙げた。&lt;/p&gt;&lt;p&gt;その上で「これらのインフレ上振れリスクが現実のものとなり、インフレの低下が見られない場合、われわれは再び利上げを行わざるを得ず、実際にそうするだろう」と述べた。&lt;/p&gt;&lt;p&gt;豪中銀は先週、２会合連続で政策金利を４．３５％に据え置いた。根強いインフレ圧力を抑制するため、今年２月以降すでに７５ベーシスポイント（ｂｐ）の利上げを実施していた。その結果、景気は減速し、インフレ指標は予想を下回り、住宅市場は中銀の想定以上に軟化している。&lt;/p&gt;&lt;p&gt;ハウザー氏は、消費と雇用の伸びに若干の減速が見られるものの、さらなる見極めが必要だと指摘した。&lt;/p&gt;&lt;p&gt;「これは不況ではない。恐慌でもない。だが、オーストラリアが過去に経験してきたよりもはるかに緩やかで、直近と比べてもかなり緩やかだ」と述べた。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -537,10 +563,11 @@
       <description>［１８日　ロイター］ -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;［１８日　ロイター］ - テニスのシンシナティ・オープン（ＯＰ）は１８日、米シンシナティで試合を行い、女子シングルス３回戦では世界ランキング１位でベラルーシ出身のアリーナ・サバレンカが４回戦に進出した。&lt;/p&gt;&lt;p&gt;第１シードのサバレンカは王欣瑜（中国）に６─１、６─３のストレート勝ち。５４分で試合を決めた。&lt;/p&gt;&lt;p&gt;第４シードのコリ・ガウフはアン・リーとの米国勢対決を６─１、７─６で制した。第８シードのエリナ・スビトリナ（ウクライナ）は王曦雨（中国）と対戦予定だったが、右足首の負傷により棄権した。&lt;/p&gt;&lt;p&gt;第５シードでロシア出身のミラ・アンドレエワ、第１０シードのマルタ・コスチュク（ウクライナ）は次戦に駒を進めた。&lt;/p&gt;&lt;p&gt;女子ダブルス２回戦では青山修子、梁恩碩（台湾）組が、第７シードのアルディラ・ストジアディ（インドネシア）、エリン・ラウトリフ（ニュージーランド）組に３─６、２─６で敗れ、準々決勝進出はならなかった。&lt;/p&gt;&lt;p&gt;男子シングルス３回戦では第２７シードのブランドン・ナカシマ（米国）が、第４シードでロシア出身のダニル・メドベージェフを６─７、７─６、６─１で下す快進撃。第２シードのフェリックス・オジェアリアシム（カナダ）、第６シードのテーラー・フリッツ（米国）も勝ち進んだ。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -585,10 +612,11 @@
 私は昨晩ここに来た。米国にいたのだ。
 去る前にこれを植えたが、来てみたら全て壊されていた」
 （ナレーションなし）&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -603,10 +631,11 @@
       <description>[東京 １９日 ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;[東京 １９日 ロイター] - 前場の東京株式市場で日経平均は大幅続落し、前営業日比２．５７％（１７３６円４８銭）安の６万５７２４円２５銭となった。中東情勢への不安感で下落した米国株式市場の流れを受けて売り優勢となった。特に、指数寄与度が高い半導体関連株の下げが厳しく、指数は一時は前営業日比３．１６％（２１３３円９７銭）安の６万５３２６円７６銭まで下落。その後いったん戻り歩調になったが、再び押し戻された。&lt;/p&gt;&lt;p&gt;・中東和平への期待が後退、原油価格が上昇。米債利回りの上昇が顕著なことで下落した米株の動きを嫌気。&lt;/p&gt;&lt;p&gt;・前日にフィラデルフィア半導体指数が約５％急落し、日本株も半導体関連株の下げが全体を先導。&lt;/p&gt;&lt;p&gt;・いったん下げ渋ったものの、前場終盤は再び売られる展開に。ＫＯＳＰＩが前日比５％を超す下げとなったことも影響。&lt;/p&gt;&lt;p&gt;・ＴＯＰＩＸは２．７３％安の４０２７．３５ポイントで午前の取引を終了。東証プライム市場の売買代金は５兆００５９億３７００万円。&lt;/p&gt;&lt;p&gt;・東証３３業種では、医薬品を除いて総じて下落。&lt;/p&gt;&lt;p&gt;・個別ではキオクシアＨＤが大幅安となるなど半導体関連が軟調。トヨタ自動車、三菱ＵＦＪフィナンシャル・グループもさえない。半面、武田薬品工業が小高い。&lt;/p&gt;&lt;p&gt;・東証プライム市場の騰落数は、値上がりが２４０銘柄（１５％）、値下がりは１２８２銘柄（８２％）、変わらずは３４銘柄（２％）。&lt;/p&gt;&lt;p&gt;＜野村証券　ストラテジスト　澤田麻希氏＞&lt;/p&gt;&lt;p&gt;「ＳＯＸの大幅下落を受けた半導体株の動きが全体の下げに大きく影響した。ただ、ＶＩＸ指数をみると投資家の不安心理はそれほど悪化しておらず、厳しい調整という感じではない」&lt;/p&gt;&lt;p&gt;「当面は原油高止まり、インフレ懸念による金利先高観が株価を抑える要因に。米経済統計などが注視される」&lt;/p&gt;&lt;p&gt;「予想上回った機械受注は評価できる。企業業績の好調が株価の下支え要因になるのではないか」&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -623,10 +652,11 @@
 [１８日 The Insurer］　 -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;Ashish Tiwari&lt;/p&gt;&lt;p&gt;[１８日 The Insurer］　 - 米再保険ブローカーのギャラガー・リーは１８日、南米コロンビアで１０日発生した地震による保険金支払い対象の損害額が、初期評価で１０億―５０億米ドル程度に達するとの見通しを示した。経済損失の総額はこれを大幅に上回る見込みだとしている。&lt;/p&gt;&lt;p&gt;ギャラガー・リーは、保険金請求の動向や当局による被害査定の完了に伴い、損害額は今後変化する可能性があるとも公表した。&lt;/p&gt;&lt;p&gt;コロンビアのデラエスプリエジャ大統領は１７日、経済損失の総額が初期推計で３０兆ペソ（約９５億８０００万米ドル）に上ると発表している。&lt;/p&gt;&lt;p&gt;地震によりカリやペレイラなどの主要都市を含むコロンビア西部の各地で建物が倒壊し、２８０人が死亡、４０００人以上が負傷、１４３人が行方不明となった。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -641,10 +671,11 @@
       <description>[ボゴタ １８日 ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;[ボゴタ １８日 ロイター] - コロンビア国家統計局が１８日発表した第２・四半期の国内総生産（ＧＤＰ）は、前年同期比３．５％増加した。政府支出のほか、サービス、公益事業、鉱業の伸びがけん引した。中央銀行が９月に政策金利を現行の１２％から引き上げる可能性があるとの見方が強まった。&lt;/p&gt;&lt;p&gt;季節調整済みの前期比では１．３％拡大した。第１・四半期の０．６％から加速し、市場予想をやや上回った。&lt;/p&gt;&lt;p&gt;第２・四半期は、公共行政・国防・教育・保健が前年同期比で１０％増加。芸術・娯楽は９．５２％、公益事業は４．８％、金融業は４．３％、鉱業は４．２％それぞれ増加した。&lt;/p&gt;&lt;p&gt;中銀は７月の前回会合で政策金利を１２％に据え置いたが、ＧＤＰを受けて引き締めが再開されるとの観測が強まった。&lt;/p&gt;&lt;p&gt;キャピタル・エコノミクスの新興国担当上級エコノミスト、キンバリー・シュペルフェヒター氏は「第２・四半期の前期比ＧＤＰが１．３％と力強く伸び、インフレ率も引き続き目標を上回っていることから、９月に利上げが行われる公算が大きい」と指摘。&lt;/p&gt;&lt;p&gt;成長が広範な分野にわたっており、旺盛な内需を背景に輸入が前期比で５．１％増加した一方、輸出の減少が経常赤字の拡大を示唆していると述べた。&lt;/p&gt;&lt;p&gt;中銀は今月、２０２６年の成長率予想を２．４％から２．５％に引き上げた。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -661,10 +692,11 @@
 [ニューヨーク／シンガポール／ロンドン １８日 ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;Gertrude Chavez-Dreyfuss　Ankur Banerjee　Harry Robertson&lt;/p&gt;&lt;p&gt;[ニューヨーク／シンガポール／ロンドン １８日 ロイター] - 米国債の入札で利回りが高止まりしていることで、米政府が債務を借り換えたり、資金調達をしたりする際のコストが増加している。これは投資家が米国債の引き受けにより高いリターンを要求している表れであり、米国債を購入し続ける意欲があるのかどうかに疑問符が付いている。&lt;/p&gt;&lt;p&gt;アナリストらによると、投資家は米政府が今後数年間に調達しなければならない巨額の資金に懸念を抱いている。財務省によれば、債務残高は過去最高となる４０兆ドルに迫り、財政赤字も高水準のままだ。&lt;/p&gt;&lt;p&gt;南部ノースカロライナ州シャーロットに拠点を置くクレジットサイツでマクロ・投資適格債戦略責任者を務めるザカリー・グリフィス氏は「市場環境全体が、財務省に対して金利の上乗せを明らかに求めている」とし、「国内総生産（ＧＤＰ）比で５―６％の財政赤字が続けば、長期的により大きな問題となる。その一因はとりわけ財政やインフレのリスクに対する上乗せ金利にある」と指摘した。&lt;/p&gt;&lt;p&gt;先週２回実施された米国債の入札は、利回りが注目を集めた。１０年物国債の入札では利回りが４．６８３％と１９年ぶりの高水準を付け、３０年物国債の入札では５．２１６％で２５年ぶりの高さを記録した。&lt;/p&gt;&lt;p&gt;一方、米国債の需要は堅調に推移している。利回りを押し上げている要因、すなわちインフレ懸念、財政赤字拡大、そして国債供給量の増加は、投資家が米国債を保有することで得られるリターンを押し上げている。&lt;/p&gt;&lt;p&gt;東部ペンシルベニア州のブリンマー・トラストの債券部門ディレクター、ジム・バーンズ氏は「米国債の需要は引き続き存在しており、問題はどの利回りであればという一点に尽きる」とした上で、「１０年物国債利回りが５％弱、３０年物国債利回りが数十年ぶりの高水準にある状況は、リスクフリーの米国債にさらなる買い手を呼び込むだろう」との見方を示した。&lt;/p&gt;&lt;p&gt;財務省はコメントの要請に応じなかった。&lt;/p&gt;&lt;p&gt;＜利回り上昇＞&lt;/p&gt;&lt;p&gt;今年に入ってからの米国の巨額借り入れ、堅調な経済成長、根強いインフレ、そして政府の借り入れに対する不確実性への対応で投資家が苦慮する中で、長期国債の利回りは上昇している。&lt;/p&gt;&lt;p&gt;このため投資家らは、国債の継続的な発行が資金獲得競争を激化させると予想している。政府は一時的な資金不足を補うというよりも、構造的に巨額の財政赤字と借り入れの必要性に直面しているとみなされるようになってきた。&lt;/p&gt;&lt;p&gt;ピクテ・ウェルス・マネジメントの債券戦略責任者ローレリーヌ・ルノーシャトラン氏は「懸念される傾向がいくつか見受けられる」とし、巨額の財政赤字などによってタームプレミアム（期間プレミアム）が上昇していることを挙げた。期間プレミアムとは、投資家が長期債を保有する場合に要求する上乗せ金利を指す。同氏は、このような状況を踏まえると財務省は、利回り曲線が短期側に偏った国債発行を迫られると指摘した。&lt;/p&gt;&lt;p&gt;財政赤字の拡大と利払い費の増加を背景に、米国の資金調達需要は急増している。財務省が発行を増やしている短期国債は、マネー・マーケット・ファンド（ＭＭＦ）によって迅速に吸収されている。&lt;/p&gt;&lt;p&gt;最近の３０年物国債の入札が特に注目を集めたのは、長期国債が将来のインフレ、財政の持続可能性および国債発行への懸念に、特に敏感に反応するためだ。&lt;/p&gt;&lt;p&gt;シンガポールのＯＣＢＣ銀行の為替・金利戦略責任者フランシス・チャン氏は、３０年物国債の入札結果は「長期債に対する投資家の慎重姿勢」を反映していると話す。&lt;/p&gt;&lt;p&gt;市場は先週の１０年物国債の入札でも、同じようなシグナルを送った。外国の中央銀行や機関投資家などの間接入札者の参加は旺盛だったものの、４．７％に迫る利回りを付けることを強いられた。&lt;/p&gt;&lt;p&gt;＜買い控えはなし＞&lt;/p&gt;&lt;p&gt;米国債の長期債利回りが数十年ぶりの高水準の近辺で推移しているにもかかわらず、需要は堅調に推移し、投資家の撤退が進んでいるわけではないことを示唆する。長期負債を抱える年金基金や保険会社、あるいは資産運用会社にとっては、３０年物のリスクフリー資産で５．３％の利回りを得られることは魅力的な可能性がある。&lt;/p&gt;&lt;p&gt;ハミルトン・キャピタル・パートナーズのアロンソ・ムニョス最高投資責任者（ＣＩＯ）は、米国債購入者の多くは他市場での投資機会に左右されず、政府債を保有することを義務付ける運用指針に縛られていると解説する。&lt;/p&gt;&lt;p&gt;一方、拡大する米国の財政赤字に資金を提供することに外国の買い手が消極的になるのではないかという懸念が繰り返し浮上しており、外国からの需要は引き続き投資家らの注目の的だ。先週の入札結果からは、需要が急激に後退する兆候は見られなかった。&lt;/p&gt;&lt;p&gt;アナリストらは米国の利回りが日本といった多くの先進国市場を大幅に上回る高水準にあり、これが米国債を保有するインセンティブとなっていると指摘した。&lt;/p&gt;&lt;p&gt;またアナリストらは入札結果について、財政やインフレのリスクにより高い利回りを要求する投資家である「債券自警団」が、米国債を積極的に売却していることを示唆するものではなかったと説明する。むしろ市場が引き続き順調に機能している一方で、米政府の資金調達コストが見直されたことを示唆しているとした。&lt;/p&gt;&lt;p&gt;香港のＬ＆Ｇアセット・マネジメントのアジア投資戦略責任者ベン・ベネット氏は「投資家は根強いインフレと巨額の財政赤字を補うため、より高い利回りを求めている」と語った。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -681,10 +713,11 @@
 [ワシントン／オタワ　１８日　ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;Kanishka Singh　Promit Mukherjee　Maria Cheng&lt;/p&gt;&lt;p&gt;[ワシントン／オタワ　１８日　ロイター] - トランプ米大統領は１８日、１９日に発効する予定だったカナダからの輸入品に対する５０％関税を３日間停止したと表明した。両国が合意に達したという。&lt;/p&gt;&lt;p&gt;自身の交流サイト（ＳＮＳ）「トゥルース・ソーシャル」への投稿で、今回の停止は「カナダと米国が文書の最終確定を条件に合意に達したという事実に基づく」と述べた。&lt;/p&gt;&lt;p&gt;その１時間後、カナダのカーニー首相は声明を出し、「まだ重要な作業は残されているものの、実質的な進展が見られた」と説明。「われわれがこの作業を続ける一方で、カナダは国内において、より強く、より自立し、より競争力のある経済を構築することに引き続き注力する」とした。&lt;/p&gt;&lt;p&gt;米通商代表部（ＵＳＴＲ）によると、この合意には「全ての米国製品に関する包括的な市場アクセス、経済安全保障コミットメント、デジタル貿易の整合化」などの条項が含まれる。&lt;/p&gt;&lt;p&gt;ホワイトハウスのウェブサイトに掲載された布告の中で、トランプ氏は、乳製品、アルコール飲料、自動車を巡る関税に関連した米国の懸念に対処するというカナダ側のコミットメントを受けたと述べた。&lt;/p&gt;&lt;p&gt;米当局はこれ以上の詳細を明らかにしておらず、カナダ政府も合意内容を確認していない。&lt;/p&gt;&lt;p&gt;業界関係者２人が先に明らかにしたところによると、既存の米自動車関税が交渉の難航要因となっていた。&lt;/p&gt;&lt;p&gt;トランプ氏はまた、２０２１年に先住民や環境保護団体の長年の反対を受けてバイデン前大統領が中止したキーストーンＸＬパイプライン計画について「墓場から目覚めるかもしれない」とも投稿したが、詳細は明らかにしなかった。&lt;/p&gt;&lt;p&gt;カナダのカーニー首相は１８日午後、関税発動回避に向け、トランプ氏と今週２回目となる電話会談を行っていた。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -699,10 +732,11 @@
       <description>[１８日 ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;[１８日 ロイター] - 米半導体大手エヌビディアの高性能人工知能（ＡＩ）向け半導体「Ｈ２００」が、少量ながら中国本土への搬入を認められたと、英紙フィナンシャル・タイムズ（ＦＴ）が１８日報じた。&lt;/p&gt;&lt;p&gt;ＦＴが事情に詳しい関係者２人の話として報じたところによると、バイトダンス（字節跳動）とテンセント（騰訊控股）がここ数週間でＨ２００をそれぞれ約１万個受け取った。&lt;/p&gt;&lt;p&gt;他の中国テクノロジー企業も間もなく、同規模の出荷承認を得られる可能性があるという。&lt;/p&gt;&lt;p&gt;ＦＴによると、米政府はこれらの企業に対しそれぞれ最大１０万個のＨ２００購入を認めたが、中国政府は国内半導体メーカーの成長を支援するため、企業側にこれらのハードウエアを中国本土の外にとどめるよう求めている。&lt;/p&gt;&lt;p&gt;中国の規制当局は企業に対し、中国本土の税関区域外にある香港に半導体を出荷し、そこで使用することは可能だと伝えているという。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -717,10 +751,11 @@
       <description>[シドニー １９日 ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;[シドニー １９日 ロイター] - オーストラリア統計局が１９日発表したデータによると、第２・四半期の国内賃金は５四半期連続で緩やかなペースで上昇した。ただ、民間部門の前年比伸び率は４年ぶりの低水準に鈍化した。&lt;/p&gt;&lt;p&gt;賃金価格指数（ＷＰＩ）は０．８％上昇。過去４四半期と同水準で、アナリスト予想と一致した。&lt;/p&gt;&lt;p&gt;前年比の伸び率は３．２％。２０２３年後半に記録したパンデミック（新型コロナ大流行）後のピーク４．３％から低下している。&lt;/p&gt;&lt;p&gt;民間部門の伸び率は３．１％に低下し、２２年半ば以来の低水準となった一方、公共部門の上昇率は３．４％。賃金上昇に寄与した主な産業は、行政・安全、ヘルスケア・社会福祉だった。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -737,10 +772,11 @@
 [パリ １８日 ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;Tim Hepher&lt;/p&gt;&lt;p&gt;[パリ １８日 ロイター] - 欧州航空機大手エアバスは、遅延している貨物機Ａ３５０Ｆの初の試験飛行を暫定的に９月下旬に設定した。業界関係者が１８日明らかにした。&lt;/p&gt;&lt;p&gt;このスケジュールは１０月初旬にずれ込む可能性があるが、エアバスは２０２７年までに飛行試験を完了し、顧客への初号機納入を目指しており、非常にタイトな認証取得スケジュールを迫られている。業界関係者よると、飛行試験には通常１２─１５カ月かかるという。&lt;/p&gt;&lt;p&gt;エアバス広報担当者は、今年末までの初飛行、それに続く２７年下半期の初納入という最新の予測に加えるコメントはないと述べた。&lt;/p&gt;&lt;p&gt;業界関係者は、開発チームは９月２４日を優先日程として、直前の技術的不具合や天候次第でその前後を視野に入れた日程を目指しているとしている。&lt;/p&gt;&lt;p&gt;２１年に発表され、４年後の就航を目標としていた長距離ジェット機Ａ３５０シリーズの専用貨物機Ａ３５０Ｆは、競合する米ボーイングが長年優位に立つ航空貨物市場の一角への参入を狙っている。&lt;/p&gt;&lt;p&gt;エアバスはＡ３５０Ｆを１０７機販売しているのに対し、より小型の旧モデルＡ３３０Ｆの販売は３８機にとどまっている。&lt;/p&gt;&lt;p&gt;ロイターは５月、エアバスはスペインの自社工場で製造するＡ３５０Ｆは貨物ドアの納入遅延に直面していると報じた。&lt;/p&gt;&lt;p&gt;航空専門誌リーハム・ニュースは今月、Ａ３５０Ｆの納入が２０２８年までずれ込む可能性があると明らかにした。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -757,10 +793,11 @@
 [ブリュッセル １９日 ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;Kate Abnett&lt;/p&gt;&lt;p&gt;[ブリュッセル １９日 ロイター] - 人為的な気候変動が欧州周辺海域で今年観測された記録的な海水温上昇の主因だったとする分析結果を、国際研究グループ「ワールド・ウェザー・アトリビューション（ＷＷＡ）」が１９日に公表した。研究者らは海洋生態系や沿岸地域社会に深刻な影響を及ぼす恐れがあると警鐘を鳴らしている。&lt;/p&gt;&lt;p&gt;この夏厳しい熱波に見舞われている欧州は、周辺海域でも異例の高水温が続いている。地中海の平均海面水温は７月に摂氏２７度となり、７月として過去最高を記録。スペイン・マヨルカ島沖の観測ブイでは８月上旬に３３度を観測した。&lt;/p&gt;&lt;p&gt;ＷＷＡの分析によると、人為的な気候変動により、海水温が地中海で約２度、欧州西部周辺海域では約１．４度押し上げられた。ＷＷＡは査読済みの手法を用いて、地球温暖化が異常気象に与える影響を評価している。&lt;/p&gt;&lt;p&gt;アイルランドのメイヌース大学の気候科学者で、今回の研究の共同執筆者を務めたクレア・バーギン氏は「沿岸地域社会が食料や収入を依存する生態系を大きく変えてしまう恐れがある。また陸上での破壊的な極端気象を引き起こす要因にもなり得る」と指摘した。&lt;/p&gt;&lt;p&gt;分析では、今年の東地中海、西地中海、ビスケー湾沿岸およびイベリア半島沿岸で記録された海水温のピークは、人為的な気候変動がなければ発生が「事実上不可能」だったと結論付けられた。英国とアイルランド沖のケルト海で観測された極端な高水温についても、人為的な気候変動が存在しない世界では約１００年に１度の頻度でしか発生しない水準だったとしている。&lt;/p&gt;&lt;p&gt;海水温の上昇は沿岸部の湿度や夜間気温を高めるほか、年後半に発生する激しい暴風雨を強める要因にもなる。さらに温度が急上昇すれば、サンゴなどの大量死を引き起こすほか、鳥類や海洋哺乳類の餌資源にも影響を与え、食物連鎖全体に波及しかねない。&lt;/p&gt;&lt;p&gt;世界気象機関（ＷＭＯ）によると、主に化石燃料の燃焼による温室効果ガスの排出によって、地球の平均気温は産業革命前と比べて約１．４度上昇。このため、熱波をもたらす高気圧の影響下で、さらに高温になりやすい状況が生じている。&lt;/p&gt;&lt;p&gt;ノースカロライナ大学の海洋生態学者ジョン・ブルーノ氏は、一部の生物種はより冷たい海域を求めて北上しているものの、全ての種が適応できるわけではないと説明。「多くの種が適応できる生物学的限界に急速に近づいている」と訴えた。&lt;/p&gt;&lt;p&gt;ＷＷＡによると、今年はビスケー湾の約９０％、西地中海の約８０％が海洋熱波の状態を経験した。地球温暖化がなければ、この割合は約４０％程度にとどまっていたとみられる。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -785,10 +822,11 @@
 ルーモスは二足歩行ロボットを開発しているが、商業的には、品質検査や資材運搬など工場業務向けに設計された車輪付き・双腕型の「ＭＯＳ</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;Eduardo Baptista&lt;/p&gt;&lt;p&gt;[北京 １８日 ロイター] - 中国のロボット新興企業ルーモス・ロボティクス（鹿明機器人）の創業者は、来年の株式上場を視野に、新たな資金調達を検討していると明らかにした。人型ロボットの派手な実演ではなく、工場でのコスト削減こそが中国ロボットブームの勝者を決めるとみている。&lt;/p&gt;&lt;p&gt;ルーモスはこれまで７回の資金調達ラウンドで約１０億元（１億４７００万ドル）を調達した。&lt;/p&gt;&lt;p&gt;創業者で最高経営責任者（ＣＥＯ）のユー・チャオ氏はロイターに対し、新たな資金は主に産業分野での展開、ハードウエア開発、コンピューティング基盤を含むＡＩ（人工知能）モデルに充てると述べた。&lt;/p&gt;&lt;p&gt;三菱電機はルーモスの筆頭外部株主で、製造業向けロボティクスソリューションで同社と協業している。&lt;/p&gt;&lt;p&gt;ルーモスは二足歩行ロボットを開発しているが、商業的には、品質検査や資材運搬など工場業務向けに設計された車輪付き・双腕型の「ＭＯＳ 2」に注力している。&lt;/p&gt;&lt;p&gt;ユー氏は北京で１９日に開幕する世界ロボット大会を前に「走ったり跳んだりする段階は基本的に過ぎた」とし、「今最も重要なのは、実際の産業導入における信頼性を高めることだ」と述べた。&lt;/p&gt;&lt;p&gt;上場に向けた動きを来年に開始したい考えも示した。&lt;/p&gt;&lt;p&gt;同氏によると、ルーモスはこれまでに検査・資材運搬用途で約３０台のＭＯＳロボットを導入し、近く５台ほど追加導入する見込みだ。このほか１０社超の顧客が導入や概念実証試験の段階にある。&lt;/p&gt;&lt;p&gt;同社は国内で数十台のＭＯＳロボットを出荷済みで、今後１カ月ほどで約５０台をさらに納入する見込み。今年通年では約３００台の納入を目指しているという。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -805,10 +843,11 @@
 [北京 １８日 ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;Eduardo Baptista　Laurie Chen&lt;/p&gt;&lt;p&gt;[北京 １８日 ロイター] - 中国の北京では１９日から２３日まで「世界ロボット大会」が開かれる。中国メーカーは過去２年間にこの大会で、ブレイクダンスを踊ったり、ボクシングをしたり、マラソンで記録を打ち立てたりする人型ロボットを披露し、投資家の耳目を集めてきた。しかし今年の大会では、人型ロボットは実際に安定して稼働し、経済的な価値を生み出せるのかという、より厳しい試練にさらされそうだ。&lt;/p&gt;&lt;p&gt;今年の大会には３００社余りが参加し、２０００点を超える製品が出展され、１５０を超える新製品が発表される見通しだ。&lt;/p&gt;&lt;p&gt;大会の開催時期は、世界最大級の人型ロボットメーカーの１社である宇樹科技（ユニツリー・ロボティクス）による上海証券取引所への上場ともタイミングが重なる。ユニツリーは新規株式公開（ＩＰＯ）で、個人投資家からの応募倍率が８０００倍を超えた。&lt;/p&gt;&lt;p&gt;今回の大会は、中国の人型ロボットに対する投資家の熱狂が新たな高まりを見せる中で開催される。ただ議論の焦点は、ＳＮＳなどで話題を呼ぶ派手な実演から、商業的に実用化できるのかという現実的な問題へと移りつつある。&lt;/p&gt;&lt;p&gt;投資家や顧客は人型ロボットを評価するに当たり、どれだけ派手に動けるかではなく、どれだけ生産的に働けるか、人間による監督をどの程度必要とするか、そして導入コストに見合う収益を生み出せるかなどに注目するようになってきた。&lt;/p&gt;&lt;p&gt;２２日から２６日まで北京で開催される「世界人型ロボット競技大会」でも、種目が注目を集めやすい短距離走やサッカー、格闘技に加え、実際の仕事を想定した競技に拡大される。工場、ホテル、家庭などの作業環境が想定されており、ロイターが確認した競技日程には、梱包・倉庫作業、産業用組立・部品供給、小売り・オフィス業務、電気自動車（ＥＶ）の充電、ケーブルの接続や工具の使用といった器用さを必要とする作業が含まれている。&lt;/p&gt;&lt;p&gt;華々しい実演を見せるロボットを、採算の取れる製品へと転換する課題は、中国に限ったものではない。&lt;/p&gt;&lt;p&gt;米ＡＩクリプト・ホールディングスのジェリー・ワン最高経営責任者（ＣＥＯ）によると、現在の大きなボトルネックの１つはロボットそのものではなく、それを取り巻くエコシステムにある。熟練したオペレーターが依然として不足しているほか、輸送や導入、保守コストも高く、ロボット労働の採算を悪化させているという。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -823,10 +862,11 @@
       <description>［上海／北京　１９日　ロイター］ -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;［上海／北京　１９日　ロイター］ -  中国で最も知名度の高いヒト型ロボットメーカー、宇樹科技（ユニツリー）が１９日、上海証券取引所の新興ハイテク企業向け株式市場「科創板（スター・マーケット）」に上場した。初値は１１００元となり、公開価格（１５０．８元）を６２９％上回った。その後は上げ幅を縮小し、８８３．８７元で前場の取引を終えた。&lt;/p&gt;&lt;p&gt;伸び悩んだものの、上昇率は、今年の上場初日の平均上昇率２７９％をはるかに上回り、時価総額は約５００億ドルとなった。&lt;/p&gt;&lt;p&gt;ヒト型ロボットの売上高で世界最大の同社は、先週行われた新規株式公開（ＩＰＯ）で約９億ドルを調達。走る、踊る、武術を披露するロボットで世界的な注目を集めている。&lt;/p&gt;&lt;p&gt;また大半の同業他社とは異なり、商業用途で使われているロボット製品はわずかだが、黒字を確保している。&lt;/p&gt;&lt;p&gt;創業者の王興興氏は、２０２５年初めに習近平国家主席が主催したハイテク企業経営者との会合で最前列の席に招かれた。同社は、騰訊控股（テンセント）、アリババ、ディープシークなど中国で最も影響力のあるハイテク企業からも支援を受けている。&lt;/p&gt;&lt;p&gt;ＩＰＯで売り出された株式は約１０％で、王氏は引き続き同社株の約５分の１を保有する。&lt;/p&gt;&lt;p&gt;上海のアイビー・キャピタルのベンチャーキャピタリスト、ヤン・カイ氏は「トップクラスの企業で、その独自性がプレミアムをもたらしている」と指摘。「株価はバリュエーションモデルではなく、政治的・経済的な考慮によって決まっている」と述べた。&lt;/p&gt;&lt;p&gt;折しも、北京ではロボット関連の国際展示会が開催された。中国企業を中心に数百社が新製品を発表し、技術の進歩を披露する。&lt;/p&gt;&lt;p&gt;スプリング・マウンテン・プージャン・インベストメント・マネジメント（春山浦江投資管理）のウィリアム・シン会長は、ユニツリーの大規模な上場により同社の先行者利益はさらに強まり、他社の大半が赤字となっている同業界で生き残る一助になるとみる。「競争の初期段階にある現在、上場して知名度を得た企業が資源を獲得し、持久力を持つことができる」と語った。&lt;/p&gt;&lt;p&gt;ただ、これまでの販売の多くは単発で、商業環境で使用されているロボットはほとんどないとの指摘もある。同社製品の販売先は主に研究機関や大学だ。&lt;/p&gt;&lt;p&gt;さらに米連邦通信委員会（ＦＣＣ）は７月、国家安全保障上の懸念を理由に、外国製の人型および四足歩行ロボットの将来モデルの輸入を禁止した。ユニツリーも対象で、巨大市場から締め出された格好となる。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -841,10 +881,11 @@
       <description>[ソウル １９日 ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;[ソウル １９日 ロイター] - 韓国の趙顕外相は１９日、米韓合同軍事演習を縮小したトランプ米大統領の指示について、韓国側だけでなく米当局者も事前に把握していなかったと明らかにした。また、この指示は投資などの未解決の問題と並び、イラン戦争における米国への支援を韓国に迫る狙いが一部にあるとの見方も示した。&lt;/p&gt;&lt;p&gt;演習縮小に関するトランプ氏の意向について韓国政府が事前に通知を受けていたかと国会の公聴会で問われ、「わが政府当局者はもちろん、米政府当局者も事前に把握していなかった」と答えた。&lt;/p&gt;&lt;p&gt;また、「トランプ大統領のメッセージには、北朝鮮への働きかけや、イラン戦争の膠着状態を打開しようとする米国の意図に加え、韓国政府に関わる幾つかの懸案を巡る圧力が含まれていると考える」と述べた。&lt;/p&gt;&lt;p&gt;摩擦の火種の一つとなり得るのが、２０２５年に締結された貿易合意に基づき韓国が表明した対米投資３５００億ドルの公約だと、趙氏は指摘した。&lt;/p&gt;&lt;p&gt;韓国政府は投資計画の詳細をまだ公表していないが、趙氏によると、米政府は検討対象となり得る事業の提案書を韓国側に送付済みだという。&lt;/p&gt;&lt;p&gt;趙氏は「事業の採算性などの要素を考慮し、法的手続きを取る必要があったため、投資計画をより迅速に進めることができなかった」と語った。さらに、詳細には触れず、他にも想定外の問題があったと述べた。&lt;/p&gt;&lt;p&gt;韓国と米国は１９日、毎年恒例の合同軍事演習の期間を当初予定の１１日間から５日間に短縮し、一部の野外訓練も縮小すると発表した。&lt;/p&gt;&lt;p&gt;同じ公聴会に出席した鄭東泳統一相は、合同演習を縮小したことで、トランプ氏は北朝鮮の金正恩朝鮮労働党総書記との再会談実現に一歩近づいたとの認識を示した。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -865,10 +906,11 @@
 地元メディアによると、このヤギは近所の住民が飼っているもので、飼われていた場所から約400メートル離れたバス停まで逃げてきたとみられている。
 ヤギたちがバスの中にとどまっていたのはわずか20秒ほどで、発車前に乗客らによって降ろされた。
 ヤギたちは近所の人によって保護され、飼い主のもとに連れ戻されたという。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -883,10 +925,11 @@
       <description>[北京 １９日 ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;[北京 １９日 ロイター] - 中国のスタートアップ企業「藍箭航天（ランドスペース）」は１９日、自社ロケット「朱雀３号」の１段目を回収した。これにより、同社は米スペースＸや米ブルーオリジンに次いで軌道級ブースターの着陸に成功した民間企業となり、再利用型ロケット分野における米国との技術格差を縮めた。&lt;/p&gt;&lt;p&gt;朱雀３号はスペースＸの「ファルコン９」に対抗する中国版として位置付けられており、今回の成果は藍箭航天が１段目の着陸に２度目の挑戦を行った際に達成された。&lt;/p&gt;&lt;p&gt;国営メディアによると、全長６６．１メートルの朱雀３号は中国北西部の「東風商業宇宙イノベーション試験区」から打ち上げられ、９基のエンジンを搭載した１段目（ブースター）は、発射台から南東３９０キロ離れた甘粛省の着陸地点に帰還した。&lt;/p&gt;&lt;p&gt;藍箭航天は上海証券取引所の新興ハイテク企業向け株式市場「科創板」への上場を目指しており、今回の着陸成功は投資家の信頼を高めそうだ。同社は新規株式公開（ＩＰＯ）を通じて７５億元（１１億１０００万ドル）の資金調達を目指している。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -901,10 +944,11 @@
       <description>[ドバイ １８日 ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;[ドバイ １８日 ロイター] - クウェート駐在のイラン大使が、クウェートで３カ月間拘束されているイラン人４人と面会した。イラン国営メディアが１８日、イラン大使館の話として伝えた。イランの軍高官は先に、クウェートが４人の消息に関する情報を明らかにしていないと非難していた。&lt;/p&gt;&lt;p&gt;在クウェートのイラン大使館はＸへの投稿で、大使が４人の健康状態や最新の状況について説明を受けたと明らかにした。&lt;/p&gt;&lt;p&gt;イランは５月、革命防衛隊に所属する４人が海上哨戒中に航行トラブルのためクウェート領海に進入したと説明していた。一方でクウェートは、４人が同国に対する敵対行為を計画していた疑いがあるとしている。&lt;/p&gt;&lt;p&gt;イラン軍参謀本部で行方不明者の捜索を担当するモハマド・バゲルザデ氏は１７日、４人の消息に関する情報を開示していないとしてクウェートを非難した。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -919,10 +963,11 @@
       <description>[ソウル １９日 ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;[ソウル １９日 ロイター] - 米陸軍は１９日、新型の機動戦術砲（ＭＴＣ）の供給業者として、韓国のハンファ・エアロスペース傘下のハンファ・ディフェンスＵＳＡを選定したと発表した。ハンファにとって、米国の兵器市場における大きな一歩となる。&lt;/p&gt;&lt;p&gt;合意によると、ハンファは６基のシステムを納入し、追加で１２基を提供するオプションも得る。契約総額は最大で２億６２９０万ドル。&lt;/p&gt;&lt;p&gt;兵士による試験の結果を踏まえ、実戦配備するかどうかを判断する。承認されれば、ハンファのシステムは一部の部隊でけん引式のＭ７７７りゅう弾砲に取って代わることになる。&lt;/p&gt;&lt;p&gt;ハンファ・エアロスペースの株価は１９日序盤の取引で一時９．５％上昇した。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -937,10 +982,11 @@
       <description>［１８日　ロイター］ -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;［１８日　ロイター］ - テニスの四大大会、全米オープン（ＯＰ）主催者は１８日、男子テニスの元世界ランキング４位、錦織圭（３６）に今大会予選のワイルドカード（主催者推薦）を与えたと発表した。&lt;/p&gt;&lt;p&gt;今シーズン限りでの引退を表明している錦織は、２０１４年に全米ＯＰで決勝に進出。日本人男子選手としては初めて四大大会シングルスで決勝を戦った。錦織が最後に四大大会本戦に出場したのは昨年１月の全豪ＯＰ。&lt;/p&gt;&lt;p&gt;予選は２４日から２７日にかけて行われ、３連勝で本戦進出となる。本戦は３０日からスタートする。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -955,10 +1001,11 @@
       <description>[東京 １９日 ロイター] -  香港ファンドのオアシス・マネジメントは１９日、約１９．５％の株式を保有するカカクコムに対する複数の買収提案のうち、現時点でＬＩＮＥヤフー</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;[東京 １９日 ロイター] -  香港ファンドのオアシス・マネジメントは１９日、約１９．５％の株式を保有するカカクコムに対する複数の買収提案のうち、現時点でＬＩＮＥヤフー 連合が提案している最大３６４０円の株式公開買い付け（ＴＯＢ）が少数株主にとって最良との見解を示した。その上で、対抗する欧州系投資会社ＥＱＴによるＴＯＢについて、価格（３５７０円）がＬＩＮＥヤフー陣営のものを下回っている限りはＥＱＴ側に保有株を応募する意向はないと表明した。&lt;/p&gt;&lt;p&gt;ＥＱＴの買収提案にはカカクコムが賛同を表明しており、１３日に価格が１株３４５０円から３５７０円に引き上げられた。&lt;/p&gt;&lt;p&gt;ＬＩＮＥヤフーは米投資ファンドのベイン・キャピタルと組んでカカクコムにＴＯＢを実施する場合の買付価格を１株３５２０円とし、大株主のＫＤＤＩが応募しない契約を結んだ場合の価格は３６４０円に設定。カカクコムが賛同意見を表明することをＴＯＢ実施の条件としている。&lt;/p&gt;&lt;p&gt;ＫＤＤＩは既にＥＱＴ側と不応募契約を結んでおり、ＥＱＴのＴＯＢ価格を２％上回る対抗案が開始された場合のみ対抗案に応募が可能。このため、カカクコム側は３６４０円は「実現不可能」な価格としているが、オアシスはＥＱＴのＴＯＢが不成立となれば既存契約の主要な義務が消滅するため、３６４０円でのＴＯＢが「実現可能」になるとの見方を示した。その上で、カカクコムに対し、ＥＱＴの提案への賛同を撤回するなどの対応を求めた。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -973,10 +1020,11 @@
       <description>［ロンドン　１８日　ロイター］ -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;［ロンドン　１８日　ロイター］ - 自動車レースＦ１のウィリアムズは１８日、アレクサンダー・アルボン（３０、タイ）と契約を延長し、来季も同チームから参戦すると発表した。&lt;/p&gt;&lt;p&gt;元レッドブル所属のアルボンは２０２２年にウィリアムズ入り。８月の夏季休暇前に行われたハンガリー・グランプリ（ＧＰ）で同チームでの通算１００戦目を迎えた。ウィリアムズは今季１１戦を終え、１１ポイントで１１チーム中９位。&lt;/p&gt;&lt;p&gt;アルボンは声明で「今年は厳しい１年になっているが、それが全てを物語っているわけではない。むしろ、ファクトリーやファンとともに成長し、素晴らしい結果を達成しようという意欲がさらに高まった」とコメント。「われわれの物語はまだ終わっていない。今は順位を上げるために必要なことを全てやることに集中している」と述べた。&lt;/p&gt;&lt;p&gt;一方、今季チームの１１ポイント中６ポイントを獲得しているチームメートのカルロス・サインツ（スペイン）は契約延長にまだ合意しておらず、去就を巡る臆測が出ている。&lt;/p&gt;&lt;p&gt;サインツは２５年にフェラーリから複数年契約で加入。別チームへの移籍機会が生じた場合、２シーズン終了後に契約を解除できる成績条項があるとみられている。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -991,10 +1039,11 @@
       <description>[ソウル １９日 ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;[ソウル １９日 ロイター] - 韓国の半導体大手ＳＫハイニックスの労働組合が、経営側との暫定的な賃金協定の文言を最終調整しており、１９日午後に組合員に協定内容を説明する予定だと、交渉に詳しい関係筋が明らかにした。&lt;/p&gt;&lt;p&gt;労使双方は合意に向けて最後の詰めを行ってきた。合意内容は組合員の承認を得る必要がある。&lt;/p&gt;&lt;p&gt;交渉の主な争点は賞与制度で、同社は昨年、年間営業利益の１０％を現金の形で従業員と分配することで合意した。合意は１０年間有効。しかし今年になって、会社側が賞与の半分超を株式で支給し、一定期間は売却を制限する案を提示し、労組からの反発を招いていた。&lt;/p&gt;&lt;p&gt;ロイターの試算によると、２０２６年に同社従業員は１人当たり平均７億７９００万ウォン（５４万７１２７ドル）の支給を受ける見通し。&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
@@ -1011,10 +1060,11 @@
 [東京 １９日 ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
       <content:encoded>&lt;p&gt;Tamiyuki Kihara&lt;/p&gt;&lt;p&gt;[東京 １９日 ロイター] - ルビオ米国務長官が国際刑事裁判所（ＩＣＣ）の赤根智子所長らを制裁対象に加えたと発表したことを受け、日本外務省は１９日午後、「今回の措置は大変残念だ」などとする外務報道官談話を発出した。同省幹部は同日朝、「ＩＣＣにとっていいことであるわけがない」と不快感を示し、日本がＩＣＣを一貫して支持してきた立場に変わりはないと強調した上で、米国との意思疎通を続けていくと述べていた。&lt;/p&gt;&lt;p&gt;外務報道官談話では、「我が国は、国際社会における最も重大な犯罪の処罰と撲滅、法の支配の徹底のため、常設の国際刑事法廷であるＩＣＣを一貫して支持してきている。このような立場から、今回の措置は大変残念だ」とした。その上で、日本として引き続き関係国などと意思疎通を取りつつ、「国際社会における法の支配の強化に取り組んでいく考えだ」と結んだ。&lt;/p&gt;&lt;p&gt;中谷元・元防衛相らが共同代表を務める「人権外交を超党派で考える議員連盟」は１９日、制裁について「ＩＣＣを機能不全に陥らせること自体を目的としている」などとした非難声明を発表した。&lt;/p&gt;&lt;p&gt;赤根氏は２０２４年、日本人として初めて所長に選出された。日本政府はこれまで、「ＩＣＣの発展を支援し、国際社会における法の支配の推進に積極的に貢献していく」との基本的立場をとっている。前出の幹部は談話発出に先立ち、日本の立場に変更はないと説明した上で、「米には日本の姿勢を絶えず伝えてきた」と語った。別の同省幹部は「日米関係全体に悪い影響を及ぼさないようにすることが大事だ」と述べた。&lt;/p&gt;&lt;p&gt;ルビオ氏は今年７月、ＩＣＣについて「米政府が利用できるあらゆる手段を用いて、その脅威を排除していく」などと発表した。これについて茂木敏充外相は同月の記者会見で、「我が国は重大な犯罪行為の撲滅と予防、法の支配の徹底を重視している。その中で常設の国際刑事法廷であるＩＣＣを一貫して支持してきている」と説明。「米の発表について懸念を持って注視している」と語っていた。&lt;/p&gt;&lt;p&gt;米国はＩＣＣに加盟しておらず、ＩＣＣには米国民、とりわけ軍関係者を捜査・訴追する権限はないとの立場をとっている。&lt;/p&gt;&lt;p&gt;（鬼原民幸　編集：橋本浩）&lt;/p&gt;</content:encoded>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:sourceId>yahoo_news_jp_reuters</wire:sourceId>
       <wire:publisher>Reuters</wire:publisher>
-      <wire:classification>wire_syndication</wire:classification>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
