@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Mint — diagnostic source feed</title>
     <link>https://www.livemint.com/rss/news</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 19 Aug 2026 14:38:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 15:35:41 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>US-Iran tensions escalate: Trump rules out talks, UAE halts Iran trade, Tehran warns Gulf allies | Latest developments</title>
+      <link>https://www.livemint.com/news/world/usiran-tensions-escalate-trump-rules-out-talks-uae-halts-iran-trade-tehran-warns-gulf-allies-latest-developments-11787150365510.html</link>
+      <guid isPermaLink="false">3c74b8426aff4ac7b482fcfc</guid>
+      <pubDate>Wed, 19 Aug 2026 14:53:22 +0000</pubDate>
+      <description>UAE halts trade with Tehran after missile strikes, and Iran warns Gulf states against supporting US forces. Meanwhile, Strait of Hormuz shipping remains severely disrupted, keeping oil prices elevated - Latest developments</description>
+      <dc:creator>Ravi Hari</dc:creator>
+      <content:encoded>&lt;p&gt;Tensions between the United States and Iran are intensifying as diplomatic efforts remain stalled and shipping through the Strait of Hormuz continues to face major disruption. The standoff is also widening across the Gulf, with the UAE suspending trade and financial ties with Tehran and Iran warning regional countries against supporting US military operations. The uncertainty has added pressure to global oil markets, with traders closely watching the risk of further supply disruptions.Trump says no talks with IranUS President Donald Trump has said there are no talks or negotiations taking place or scheduled with Iran, despite earlier indications from his envoy Jared Kushner that Washington and Tehran were engaged in active discussions.Trump has also maintained that the US naval blockade of Iranian ports remains in force and that the Strait of Hormuz is “open and operating.” Iran disputes that assessment and says the waterway will remain closed until Washington meets the conditions of the earlier interim understanding.Hormuz remains the central flashpointThe Strait of Hormuz has become the biggest point of confrontation between Washington and Tehran. Iran has insisted that the waterway will not reopen unless the US lifts its naval blockade and sanctions and releases frozen Iranian assets.Shipping remains dramatically below normal levels. Reuters reported that only six commodity vessels crossed the strait on Tuesday, compared with nine the previous day and a recent daily average of 11. Before the conflict, the waterway carried roughly one-fifth of global oil and LNG supplies.Oil prices remain above $90Brent crude remained around $91 a barrel on Wednesday, while US West Texas Intermediate traded around $85. Both benchmarks had earlier reached their highest levels since late July.The uncertainty over Hormuz shipping, along with other supply disruptions, has kept oil prices elevated.UAE cuts economic ties with IranThe regional fallout widened after the United Arab Emirates suspended all trade, commercial exchanges and financial transactions with Iran until further notice.Abu Dhabi said the move followed the detection of two ballistic missiles launched from Iran toward maritime areas near the UAE. Both missiles landed in the sea, and Iran denied launching them.The decision is significant because the UAE has long served as a major commercial and re-export gateway for Iran, helping Tehran access goods, financial services and international markets despite US sanctions.Iran warns Gulf statesIranian armed forces have warned Gulf countries against assisting the US military.Iranian military chief of staff Ali Abdollahi said that any assistance or facilitation provided to US forces would amount to participation in the American military operation. Tehran has particularly focused on Gulf states that host US military bases and facilities.The warning comes as Washington and Abu Dhabi coordinate over security in the Gulf. US Secretary of State Marco Rubio has spoken with the UAE’s national security adviser about attacks attributed to Iran and the need to maintain freedom of navigation through Hormuz.Iran hardens its military postureThe latest developments follow the expiration of a temporary ceasefire framework. Iranian officials have signalled a more aggressive military posture amid the diplomatic deadlock.Tehran continues to insist that any reopening of Hormuz depends on implementation of the earlier US-Iran understanding, including sanctions relief, the release of frozen assets and an end to the US naval blockade.Ghalibaf pushes for a ‘new regional order’Iranian Parliament Speaker and chief negotiator Mohammad Bagher Ghalibaf travelled to Iraq on a three-day visit, calling for a stronger “new order” in the region and greater cooperation without foreign interference.Speaking near the site where Iranian General Qassem Soleimani was killed in a 2020 US strike, Ghalibaf also defended the role of Iran-aligned “resistance” groups.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>mint_news</wire:foundAt>
+      <wire:platform>Mint</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.livemint.com/news/world/usiran-tensions-escalate-trump-rules-out-talks-uae-halts-iran-trade-tehran-warns-gulf-allies-latest-developments-11787150365510.html</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Reuters reported</wire:evidence>
+    </item>
   </channel>
 </rss>
