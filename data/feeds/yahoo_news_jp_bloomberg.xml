@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 19 Aug 2026 19:54:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 20:32:35 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>FOMC議事要旨：利上げは必要になるだろうと多くの参加者が認識</title>
@@ -24,6 +24,25 @@
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://news.yahoo.co.jp/articles/17b552796296f2d99a32f7ae33a245003be8711a</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>グーグルとマーベル、半導体で提携拡大－最大122億ドルのワラントも</title>
+      <link>https://news.yahoo.co.jp/articles/5c0715c64902a487e2b567baf6564e71b4ebda62</link>
+      <guid isPermaLink="false">e9f580e28ad8e1b2b9ae5a37</guid>
+      <pubDate>Wed, 19 Aug 2026 15:55:45 +0000</pubDate>
+      <description>（ブルームバーグ）：</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;（ブルームバーグ）： 米半導体メーカーのマーベル・テクノロジーと、アルファベット傘下のグーグルは19日、半導体の共同開発を巡る提携拡大を発表した。マーベルがグーグルに対し、最大122億ドル（約1兆9300億円）相当の同社株を購入できるワラント（新株引受権）を付与することでも合意した。&lt;/p&gt;&lt;p&gt;マーベルが規制当局へ提出した資料によると、グーグルはマーベル株を1株206.58ドルで最大約5900万株購入できる。契約初年度には約140万株分の権利が確定し、その後はマーベルの2033会計年度末まで240回に分けて権利が確定する。グーグル向けに販売するカスタム半導体の売上高が5億ドルに達するごとに、1回分の権利が確定する仕組みだ。&lt;/p&gt;&lt;p&gt;発表によると、AI推論用アクセラレーター、ストレージコントローラーなどのカスタム半導体は、グーグルの独自のAIチップ「テンソル・プロセッシング・ユニット（TPU）」を支えるものだ。&lt;/p&gt;&lt;p&gt;マーベル株はニューヨーク市場の取引開始時に一時14%高の245.49ドルに上昇した。アルファベット株はほぼ横ばいとなっている。&lt;/p&gt;&lt;p&gt;グーグルをはじめ、AIインフラへ巨額の投資を行う企業は、半導体コストの引き下げを模索している。業界最高性能とされるエヌビディアのAIアクセラレーターもその対象だ。アマゾン・ドット・コムなど他のハイパースケーラーも、AIモデルを実際に動かす推論処理向けに、独自の半導体を開発している。&lt;/p&gt;&lt;p&gt;シチズンズのアナリスト、アンドリュー・ブーン氏は、アルファベットのTPU関連インフラからの売上高が今年約30億ドル、2027年には250億ドルに達するとの見通しを示した。&lt;/p&gt;&lt;p&gt;事業の拡大に伴い、グーグルはカスタム半導体の調達を増やそうとしている。4月にはブロードコムと、カスタムTPUの開発・供給を巡り同様の契約を結んだ。グーグルがマーベルともTPUで提携するとの発表を受け、ブロードコム株は一時5.9%下落した。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_bloomberg</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/5c0715c64902a487e2b567baf6564e71b4ebda62</wire:canonicalUrl>
       <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
@@ -948,27 +967,6 @@
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://news.yahoo.co.jp/articles/eed239b578b27a44a4980aa057b538542d411291</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>米鉱工業生産指数、7月に0.2%上昇－製造業の生産増が押し上げ</title>
-      <link>https://news.yahoo.co.jp/articles/3b1871ca3062a63140f1614b847f79c93b588dea</link>
-      <guid isPermaLink="false">32db3d0f6695e0ebf85d0d5d</guid>
-      <pubDate>Tue, 18 Aug 2026 13:48:21 +0000</pubDate>
-      <description>（ブルームバーグ）： 7月の米鉱工業生産指数は2カ月連続で上昇した。製造業と公益事業の生産増が押し上げた。
-
-原題：US Industrial Production Rises 0.2%, Helped by Factory</description>
-      <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;（ブルームバーグ）： 7月の米鉱工業生産指数は2カ月連続で上昇した。製造業と公益事業の生産増が押し上げた。&lt;/p&gt;&lt;p&gt;原題：US Industrial Production Rises 0.2%, Helped by Factory Output（抜粋）&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_bloomberg</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/3b1871ca3062a63140f1614b847f79c93b588dea</wire:canonicalUrl>
       <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
     </item>
   </channel>
