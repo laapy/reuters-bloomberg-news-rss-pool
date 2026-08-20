@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Mint — diagnostic source feed</title>
     <link>https://www.livemint.com/rss/news</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 20 Aug 2026 04:41:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 05:35:16 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Govt orders large dealers to limit holding sugar inventories to 15 days as prices hit record high</title>
+      <link>https://www.livemint.com/news/india/govt-orders-large-dealers-to-limit-holding-sugar-inventories-to-15-days-as-prices-hit-record-high-11787198414438.html</link>
+      <guid isPermaLink="false">79fe6913d7e10923990098ed</guid>
+      <pubDate>Thu, 20 Aug 2026 04:42:56 +0000</pubDate>
+      <description>The Union government has imposed stricter sugar stockholding limits to combat soaring prices ahead of the festive season, reducing allowable inventories to 15 days for dealers. Details here.</description>
+      <dc:creator>Eshita Gain</dc:creator>
+      <content:encoded>&lt;p&gt;The Union government has tightened sugar stockholding limits once again in a bid to tame record-high prices ahead of the festive season, according to an official notification released on Wednesday (August 19).The order, issued by the Department of Food and Public Distribution, said that dealers using more than 10 metric tons of the sweetener per month will not be allowed to hold inventories for more than 15 days.Last month, the government had ordered dealers to hold sugar stocks for no more than 30 days to boost supplies. The latest stockholding limit will come into effect on September 1 and remain in force until November 30, 2026.Who are covered under this order?The bulk consumers or dealers who are covered under this order include confectioners, soft drink manufacturers, food processing industries, sweetmeat sellers and other institutional buyers consuming at least 10 metric tonnes of sugar a month on average during the last one year, excluding the current month.The order, however, exempts institutions belonging to the central or state governments, Union Territory administrations and local bodies, Business Standard reported.According to the notification, the monthly quantity of sugar sold by each sugar mill to bulk consumers, either directly or through dealers, will be verified. Meanwhile, sugar consumption will be measured with reference to the Goods and Services Tax (GST) returns filed by sellers or buyers, using the relevant Harmonised System of Nomenclature (HSN) code applicable to sugar.Festivals are sweetening India&amp;#x27;s sugar demandSugar demand in India typically rises from August to November as the country celebrates major festivals such as Ganesh Chaturthi, Dussehra and Diwali. This seasonal uptick also prompts bulk dealers, such as biscuit and confectionery makers, to stock up on sugar ahead of the festive season.On Tuesday, Reuters reported that the government is considering measures to boost sugar supplies and rein in record prices. These included limited duty-free imports and tighter stockholding limits for bulk traders, with the measures potentially opening the door to sugar imports for the first time in nearly a decade.Sugar rates continue to riseEven though the government ordered dealers in July to limit holding sugar stocks to 30 days in a bid to bolster supplies, the sweetener&amp;#x27;s price has continued to rise as demand remained strong, according to a news report by Reuters.Indian sugar prices have climbed 10% over the past month to a record high and are expected to remain high for at least the next three months as supplies tighten and festival demand gathers pace.Patchy rains and dry weather conditions have also affected the sugarcane crop, which typically requires large amounts of water for irrigation.Sugar is also politically sensitive in India, where sweets are widely consumed and many low-income households rely on the sweetener as a relatively cheap source of calories, the news agency reported.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>mint_news</wire:foundAt>
+      <wire:platform>Mint</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.livemint.com/news/india/govt-orders-large-dealers-to-limit-holding-sugar-inventories-to-15-days-as-prices-hit-record-high-11787198414438.html</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Reuters reported</wire:evidence>
+    </item>
   </channel>
 </rss>
