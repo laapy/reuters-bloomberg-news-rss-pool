@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 20 Aug 2026 11:58:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 13:00:11 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>米国債買い戻し増額、債券押し上げ効果は限定的－アナリストら</title>
@@ -24,6 +24,33 @@
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://news.yahoo.co.jp/articles/03ea687aef71dc577e3ceb3eb5b60ae5ed578617</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>中国アリババ、利益75%減－フリーキャッシュフロー流出1兆円超</title>
+      <link>https://news.yahoo.co.jp/articles/93aec68f0384e6b843476e3c50c1f3a17cb0d27d</link>
+      <guid isPermaLink="false">72b95b945f0ac6711c173e92</guid>
+      <pubDate>Thu, 20 Aug 2026 10:37:24 +0000</pubDate>
+      <description>（ブルームバーグ）： 中国の電子商取引最大手アリババグループの利益が急減した。AI投資を拡大する中で、国内市場で消費低迷が響いた。同社はオンライン小売りからAI開発へのシフトを進めている。
+
+アリババが20日発表した4－6月（第2四半期）決算では、純利益が前年同期比で約75%減少し105億元（約2470億円）となった。フリーキャッシュフローは66億ドル（約1兆円）を超える流出を記録。AIプロジェクトやコンピューティングインフラのコスト上昇が響いた。
+
+売上高は9%増と、市場予想に沿った水準。クラウド部門が提供するコンピューティング能力への需要が急増したことを反映した。
+
+原題：Alibaba’s Profit Dives 75% After Amping Up AI Spending (1)　（抜粋）
+
+--取材協力：Zheping Huang、Mark</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;（ブルームバーグ）： 中国の電子商取引最大手アリババグループの利益が急減した。AI投資を拡大する中で、国内市場で消費低迷が響いた。同社はオンライン小売りからAI開発へのシフトを進めている。&lt;/p&gt;&lt;p&gt;アリババが20日発表した4－6月（第2四半期）決算では、純利益が前年同期比で約75%減少し105億元（約2470億円）となった。フリーキャッシュフローは66億ドル（約1兆円）を超える流出を記録。AIプロジェクトやコンピューティングインフラのコスト上昇が響いた。&lt;/p&gt;&lt;p&gt;売上高は9%増と、市場予想に沿った水準。クラウド部門が提供するコンピューティング能力への需要が急増したことを反映した。&lt;/p&gt;&lt;p&gt;原題：Alibaba’s Profit Dives 75% After Amping Up AI Spending (1)　（抜粋）&lt;/p&gt;&lt;p&gt;--取材協力：Zheping Huang、Mark Anderson.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_bloomberg</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/93aec68f0384e6b843476e3c50c1f3a17cb0d27d</wire:canonicalUrl>
       <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
@@ -946,25 +973,6 @@
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://news.yahoo.co.jp/articles/844567611ff635ddbca68229f9c3c5db14e6c4e9</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>香港ヘッジファンド減税「狂騒曲」、非課税ボーナス狙い転職も</title>
-      <link>https://news.yahoo.co.jp/articles/873b07e680f86a6e23cf852512cda6b1f798c71c</link>
-      <guid isPermaLink="false">697a77dccff84c9ecf349d07</guid>
-      <pubDate>Wed, 19 Aug 2026 06:06:53 +0000</pubDate>
-      <description>（ブルームバーグ）：</description>
-      <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;（ブルームバーグ）： 香港がヘッジファンドを対象とする減税に動いたことで、現地の金融業界では対応を巡る動きが一気に活発化している。投資銀行は自己勘定トレーダーの流出を懸念し、あるファンドは恩恵を最大限に受けようと、受付係を投資家向け情報提供（IR）担当者として見なすことさえ検討している。&lt;/p&gt;&lt;p&gt;シンガポールやアラブ首長国連邦（UAE）のドバイなどとの運用会社誘致合戦に挑む香港政府は、広範な内容を盛り込んだ新たな税制法案を立法会（議会）に提出した。最も注目を集めているのは、成功報酬の一種であるキャリードインタレストに対する免税措置の大幅な拡充だ。&lt;/p&gt;&lt;p&gt;キャリードインタレストは投資利益の一部を分配する仕組みで、花形ファンドマネジャーに巨額の報酬をもたらす可能性がある。&lt;/p&gt;&lt;p&gt;法案はなお立法会で審議中だが、すでに香港の金融業界ではロビー活動や適用対象に関する臆測、業界内のうわさ話が飛び交っている。&lt;/p&gt;&lt;p&gt;トレーディング各社は自らも対象に含めるよう働きかけたが、政府が急きょ発表した声明では、その要望を退けたように見える。ファミリーオフィスの運用担当者は自分たちが対象になるか見極めようとしている。&lt;/p&gt;&lt;p&gt;事情に詳しい関係者によると、一部の小規模ヘッジファンドは、事務職にまで非課税のボーナス（賞与）を支給できるよう契約を書き換えることを検討している。&lt;/p&gt;&lt;p&gt;こうしたヘッジファンド減税を巡る「狂騒曲」は、香港がファンド向け税制を見直す中で、いかに大きな利害が絡んでいるかを浮き彫りにしている。同時に、資産・ウェルスマネジャーが約5兆4000億ドル（約860兆円）の資産を運用し、金融セクターが経済活動の約4分の1を占める香港で、幅広い波及効果が生じる可能性も示している。&lt;/p&gt;&lt;p&gt;法律事務所チャールズ・ラッセル・スピーチリーズのパートナー、ギャベン・チョン氏は「間違いなく大きなエキサイトがあり、香港でライセンスを取得するための提案依頼が大幅に増えている」と述べた。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_bloomberg</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/873b07e680f86a6e23cf852512cda6b1f798c71c</wire:canonicalUrl>
       <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
     </item>
   </channel>
