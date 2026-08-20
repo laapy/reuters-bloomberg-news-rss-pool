@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Abnnbloomberg.ca+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 20 Aug 2026 07:44:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 08:42:35 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Canada, U.S. both say they made gains in new trade deal that averted tariffs</title>
@@ -122,6 +122,21 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
+      <title>Estee Lauder bets on fragrances and skincare to deliver strong annual profit</title>
+      <link>https://www.bnnbloomberg.ca/business/company-news/2026/08/19/estee-lauder-forecasts-strong-annual-profit-on-resilient-fragrance-demand/</link>
+      <guid isPermaLink="false">02088deacb24efdb4760c2df</guid>
+      <pubDate>Wed, 19 Aug 2026 04:37:00 +0000</pubDate>
+      <description>Estee Lauder forecast annual profit above Wall Street estimates on Wednesday, betting on sustained demand for premium fragrances and strong performance in key market China, as gains from its CEO’s ...</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/08/19/estee-lauder-forecasts-strong-annual-profit-on-resilient-fragrance-demand/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
       <title>Lowe’s second-quarter profit beats on resilient home repair demand</title>
       <link>https://www.bnnbloomberg.ca/business/company-news/2026/08/19/lowes-second-quarter-profit-beats-on-resilient-home-repair-demand/</link>
       <guid isPermaLink="false">06a7433850fb4684b297d045</guid>
@@ -215,21 +230,6 @@ You might already be a millionaire. Average household net worth tops $1M in Cana
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/investing/commodities/2026/08/19/el-nino-fears-drove-record-sugar-futures-open-interest-ice-exchange-says/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>U.S. stocks edge further from their record after oil prices rise</title>
-      <link>https://www.bnnbloomberg.ca/business/2026/08/17/world-shares-are-mixed-and-brent-crude-is-higher-after-worries-over-stagflation-pull-us-stocks-lower/</link>
-      <guid isPermaLink="false">c2f26344c501afafe3a67974</guid>
-      <pubDate>Mon, 17 Aug 2026 04:09:00 +0000</pubDate>
-      <description>U.S. stocks edged further from their record heights after rising oil prices cranked up the pressure on inflation and financial markets.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/2026/08/17/world-shares-are-mixed-and-brent-crude-is-higher-after-worries-over-stagflation-pull-us-stocks-lower/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
