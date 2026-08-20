@@ -1,11 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Investing.com — diagnostic source feed</title>
     <link>https://www.investing.com/rss/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 20 Aug 2026 10:32:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 11:30:34 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Bitcoin, crypto shares climb after Trump pushes Clarity Act</title>
+      <link>https://www.investing.com/news/stock-market-news/bitcoin-crypto-shares-climb-after-trump-pushes-clarity-act-4869341</link>
+      <guid isPermaLink="false">a7b59e638aae47e14e51f3d3</guid>
+      <pubDate>Thu, 20 Aug 2026 11:24:39 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/bitcoin-crypto-shares-climb-after-trump-pushes-clarity-act-4869341</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>Green giant: How Taylor Farms became a top salad supplier before US diarrhea outbreak</title>
+      <link>https://www.investing.com/news/stock-market-news/green-giant-how-taylor-farms-became-a-top-salad-supplier-before-us-diarrhea-outbreak-4869166</link>
+      <guid isPermaLink="false">4c2d83495e22f5798221ed77</guid>
+      <pubDate>Thu, 20 Aug 2026 11:18:50 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/green-giant-how-taylor-farms-became-a-top-salad-supplier-before-us-diarrhea-outbreak-4869166</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>
