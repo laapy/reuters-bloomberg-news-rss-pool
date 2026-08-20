@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Amsn.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 20 Aug 2026 11:30:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 11:58:16 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>EUR / CAD Price, Converter and News - MSN</title>
@@ -83,18 +83,33 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>MXN / JPY Price, Converter and News - MSN</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd2JBZHV2MlB2X29la0FzZWc3SEVnVXBsTnRvWndMN095RlpveEx1ekx1Q1hSam5RZ2NJZW9jRlhENmFsT1JwN3l6ejR5VENSQ1prcU9Sb0gteFBNSVV0ai1EN0pTYWU1SW9NMXFmWmdZTjZoUjB3UnQ1YXpsUlA3MG1jYzhEakhYRmdB?oc=5</link>
-      <guid isPermaLink="false">66ccc5e3844bb21722bf1e37</guid>
-      <pubDate>Wed, 19 Aug 2026 13:41:06 +0000</pubDate>
-      <description>MXN / JPY Price, Converter and News    MSN</description>
+      <title>CAD / KRW Price, Converter and News - MSN</title>
+      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNQkt1c0hjbVFoYUdWX2FMVndnc1FuM3M0TkEtUk9PeUZpckxtY2hBOXRFYVA5V0dzLWxNRVVmZ1NIMzRJb2lteGFCak1Wa1RlVk02VFRadWNjcDNVWDZyVEdTSnhzOWxla1FZQXF2MmkxeUg0X2dxend6QU1kYTl0SkQtX0xpS3NHWkRUSXhlZk4?oc=5</link>
+      <guid isPermaLink="false">7d5eaf7241d114d6a7616e10</guid>
+      <pubDate>Wed, 19 Aug 2026 13:34:21 +0000</pubDate>
+      <description>CAD / KRW Price, Converter and News    MSN</description>
       <wire:foundAt>msn_discovery</wire:foundAt>
       <wire:platform>MSN</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd2JBZHV2MlB2X29la0FzZWc3SEVnVXBsTnRvWndMN095RlpveEx1ekx1Q1hSam5RZ2NJZW9jRlhENmFsT1JwN3l6ejR5VENSQ1prcU9Sb0gteFBNSVV0ai1EN0pTYWU1SW9NMXFmWmdZTjZoUjB3UnQ1YXpsUlA3MG1jYzhEakhYRmdB?oc=5</wire:canonicalUrl>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMikAFBVV95cUxNQkt1c0hjbVFoYUdWX2FMVndnc1FuM3M0TkEtUk9PeUZpckxtY2hBOXRFYVA5V0dzLWxNRVVmZ1NIMzRJb2lteGFCak1Wa1RlVk02VFRadWNjcDNVWDZyVEdTSnhzOWxla1FZQXF2MmkxeUg0X2dxend6QU1kYTl0SkQtX0xpS3NHWkRUSXhlZk4?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>OMR / CNY Price, Converter and News - MSN</title>
+      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxPVHJRRklJYTdveE5VNmtjTklyNjB1ZlItVk93bEt5dHM5akdEbUpOWi1aWXNSdkVxdi0yMzBtbHhBWlQ1TDFvaExDU3A0UVYyaTJSN2s5YWNJaTltU3JnNWF1M2lienlRU2RueFVZZUZpRFV1WVVnSktmYTBxYXNTTElR?oc=5</link>
+      <guid isPermaLink="false">d1ba7901f53d4fa8b16d7b30</guid>
+      <pubDate>Wed, 19 Aug 2026 13:06:36 +0000</pubDate>
+      <description>OMR / CNY Price, Converter and News    MSN</description>
+      <wire:foundAt>msn_discovery</wire:foundAt>
+      <wire:platform>MSN</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiggFBVV95cUxPVHJRRklJYTdveE5VNmtjTklyNjB1ZlItVk93bEt5dHM5akdEbUpOWi1aWXNSdkVxdi0yMzBtbHhBWlQ1TDFvaExDU3A0UVYyaTJSN2s5YWNJaTltU3JnNWF1M2lienlRU2RueFVZZUZpRFV1WVVnSktmYTBxYXNTTElR?oc=5</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -245,21 +260,6 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMijwFBVV95cUxOb0pxZzYwamg0cThwYjZ5MDNtYXRRSVo2OHNNcEZ3YkNKQjJ0SUVGN25BMnlodlVaX2UyNk1LNUx4WHpNdlI5WDhkM091S2xhTnRGOFo4dXIzSGtuWVI3VHlKU1M0NHE5b3Z6Mk5zZ1ZrZHg3V0tRc2YtYzI4TWE0cXNtYXBpUEdRTnlMU0JzSQ?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>GBP / EUR Price, Converter and News - MSN</title>
-      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxNWVM5Q0x4UW1VMG5hSGE0SVU0bFdoaEFuYzdiN3FneGhvbW1nRlJUdHlUSUF4RGlDenJ4MTk4TEJpRDlTeXM0aG5QbmMtRnI0VG15LTdpd0dIM2VBWWlmbVlnQ1hUNE5RSW5NSDhoVnEwVEF1SWRvRVlCaUJSWFo2bkNmaTg?oc=5</link>
-      <guid isPermaLink="false">9f082176cfa7a16f41bc94bc</guid>
-      <pubDate>Wed, 19 Aug 2026 05:06:35 +0000</pubDate>
-      <description>GBP / EUR Price, Converter and News    MSN</description>
-      <wire:foundAt>msn_discovery</wire:foundAt>
-      <wire:platform>MSN</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMihAFBVV95cUxNWVM5Q0x4UW1VMG5hSGE0SVU0bFdoaEFuYzdiN3FneGhvbW1nRlJUdHlUSUF4RGlDenJ4MTk4TEJpRDlTeXM0aG5QbmMtRnI0VG15LTdpd0dIM2VBWWlmbVlnQ1hUNE5RSW5NSDhoVnEwVEF1SWRvRVlCaUJSWFo2bkNmaTg?oc=5</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
