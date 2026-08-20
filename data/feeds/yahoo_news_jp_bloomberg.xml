@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 20 Aug 2026 18:43:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 19:35:43 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>スイス、中国向けの主要輸出品ほぼ無関税に－自由貿易協定改定で合意</title>
@@ -127,6 +127,25 @@
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://news.yahoo.co.jp/articles/a70b9977e1066a8b9e0d3e884ce6f849035db9ec</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>米30年債、買い戻し増額発表後の上げほぼ失う－金利抑制効果に疑問</title>
+      <link>https://news.yahoo.co.jp/articles/dd102d71dfadee007a60209d5d15c4b42a836248</link>
+      <guid isPermaLink="false">c88901f124f672a0f6d9372d</guid>
+      <pubDate>Thu, 20 Aug 2026 11:23:44 +0000</pubDate>
+      <description>（ブルームバーグ）：</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;（ブルームバーグ）： 米財務省が予想外となる長期債の買い戻し増額を発表してから1日で、米国債は上昇分のほぼ全てを失った。政府債務増大への不安が一部の国債利回りを19年ぶりの高水準に押し上げるなか、金利抑制を狙ったベッセント財務長官の措置が、財政懸念を緩和するには力不足であることを示している。&lt;/p&gt;&lt;p&gt;30年債利回りは一時7ベーシスポイント（bp）超上昇の5.26%と、19日の発表直前の水準をつけた。10年債利回りは4.71%を付け、2025年初め以来の高水準に迫った。&lt;/p&gt;&lt;p&gt;その後、ベッセント米財務長官が、市場を支えるための「多くの手段がある」とCNBCとのインタビューで述べたことが支援材料となり、利回りは上昇幅を縮小した。&lt;/p&gt;&lt;p&gt;利回り上昇の背景には、約2兆ドルに上る財政赤字、高止まりするインフレ、AI投資に絡むテック企業の大量起債を巡る懸念がある。ベッセント氏は、短期債による資金調達を増やすことで財政赤字の穴埋めを図り、長期債の発行規模を据え置いてきた。&lt;/p&gt;&lt;p&gt;米財務省は19日、10年―30年の国債を対象に、流動性支援を目的とする買い戻し規模を「少なくとも」倍増すると発表した。市場では、長期債の新規発行を縮小する可能性があるとの観測も出ている。&lt;/p&gt;&lt;p&gt;TDセキュリティーズの米金利ストラテジスト、モリー・ブルックス氏は「金利低下を持続させるには、財務省は長期債の入札規模縮小について、より明確に発信する必要がある。前日に財務省が介入する姿勢を示したことで、その可能性は高まった」と述べた。&lt;/p&gt;&lt;p&gt;20日早朝の取引で、債券売りがピークに達した際、原油価格は3%余り値上がりしていた。利回り上昇の大半は「実際には原油高が要因だ」と、ブルックス氏は指摘。原油高と他のファンダメンタルズ要因を踏まえると、買い戻し増額の方針は、「長期金利上昇への応急処置にすぎない」との見方を示した。&lt;/p&gt;&lt;p&gt;DWSアメリカズの債券部門責任者、ジョージ・カトランボーン氏は「財政赤字の規模や、AIがもたらしているクラウディングアウト効果を考えれば、これは津波にペーパータオルを投げ込むようなものだ」と指摘。「財政悪化を食い止め、利回りを低下させることにはならない」と語った。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_bloomberg</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/dd102d71dfadee007a60209d5d15c4b42a836248</wire:canonicalUrl>
       <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
@@ -966,29 +985,6 @@ TDセキュリティーズのニューヨーク在勤ストラテジスト、ハ
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://news.yahoo.co.jp/articles/45c43723c7018827da8cbe7c65a77db3e14a20a4</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>アルファベットが豪ドル建て社債を起債、最長の20年債発行利回り7%弱</title>
-      <link>https://news.yahoo.co.jp/articles/ec448ac7ab1bae0437f04ace5eed498aefd034d9</link>
-      <guid isPermaLink="false">57ba9bb30923c4af01a8efe7</guid>
-      <pubDate>Wed, 19 Aug 2026 10:00:54 +0000</pubDate>
-      <description>（ブルームバーグ）： アルファベットは豪ドル建て社債を初めて発行し、長期資金を調達した。一部は発行利回りが7%弱に達し、同社の社債として過去最高となった。ハイパースケーラー（大規模クラウド事業者）の旺盛な資金需要が、ほぼ全世界で資金調達コストを押し上げていることを浮き彫りにした。
-
-主幹事の1社であるオーストラリア・ニュージーランド銀行（ANZ）の電子メールによると、アルファベットは複数の年限で合計55億豪ドル（約6200億円）の社債を発行した。このうち最長の20年債の利回りは6.98%に設定された。全体で180億豪ドルを超える買い注文が集まったという。
-
-アルファベットは</description>
-      <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;（ブルームバーグ）： アルファベットは豪ドル建て社債を初めて発行し、長期資金を調達した。一部は発行利回りが7%弱に達し、同社の社債として過去最高となった。ハイパースケーラー（大規模クラウド事業者）の旺盛な資金需要が、ほぼ全世界で資金調達コストを押し上げていることを浮き彫りにした。&lt;/p&gt;&lt;p&gt;主幹事の1社であるオーストラリア・ニュージーランド銀行（ANZ）の電子メールによると、アルファベットは複数の年限で合計55億豪ドル（約6200億円）の社債を発行した。このうち最長の20年債の利回りは6.98%に設定された。全体で180億豪ドルを超える買い注文が集まったという。&lt;/p&gt;&lt;p&gt;アルファベットは S&amp;amp;Pグローバル･レーティングで最高から2番目の信用格付けを得ている。そのアルファベットですら高い調達コストを支払わざるを得なくなったのは、同社の信用力が反映されたというよりも、世界中で債券利回りが十数年ぶりの高水準に上っていることが響いたからだ。&lt;/p&gt;&lt;p&gt;インフレ圧力の再燃に加え、政府と大手テクノロジー企業がいずれも資金調達活動を活発化していることで、大量の債券を市場が消化しきれるのか懸念が強まり、資金調達コストを押し上げている。&lt;/p&gt;&lt;p&gt;テクノロジー巨大企業は自らが抱く壮大なAI計画を支える目的で今年に入り数千億ドル規模の資金を調達したが、まだ初期段階でしかないとみられている。これが投資マネーを吸い上げているため、政府の資金調達コストも上昇し、財政悪化懸念を悪化させている。&lt;/p&gt;&lt;p&gt;通貨や地域を問わず全世界で年初来に発行した社債の合計額で、ハイパースケーラーのうちアルファベットはアマゾン・ドット・コムに次いで2番目に大きい。&lt;/p&gt;&lt;p&gt;ベータシェアーズの債券部門責任者、チャマス・デシルバ氏は「世界屈指の強固なバランスシートを持つ企業への、魅力的な投資機会が提供されていると投資家は認識した」と指摘。同氏はハイパースケーラーとして次にアマゾンがオーストラリア市場で資金を調達しようとするだろうと予想している。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_bloomberg</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/ec448ac7ab1bae0437f04ace5eed498aefd034d9</wire:canonicalUrl>
       <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
     </item>
   </channel>

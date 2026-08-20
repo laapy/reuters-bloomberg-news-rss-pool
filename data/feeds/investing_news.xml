@@ -1,62 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss version="2.0">
   <channel>
     <title>Investing.com — diagnostic source feed</title>
     <link>https://www.investing.com/rss/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 20 Aug 2026 18:43:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 19:35:43 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>US Treasury buyback briefly eases bond rout, but debt worries persist</title>
-      <link>https://www.investing.com/news/stock-market-news/bonds-bounce-on-us-buybacks-but-relief-may-be-brief-4868662</link>
-      <guid isPermaLink="false">7c9047428140758f3b283ef5</guid>
-      <pubDate>Thu, 20 Aug 2026 18:24:52 +0000</pubDate>
-      <description />
-      <dc:creator>Reuters</dc:creator>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>investing_news</wire:foundAt>
-      <wire:platform>Investing.com</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>link_only</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/bonds-bounce-on-us-buybacks-but-relief-may-be-brief-4868662</wire:canonicalUrl>
-      <wire:evidence>structured credit: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>Oil hits more than three-week high as Trump threatens Iran-related retaliation</title>
-      <link>https://www.investing.com/news/commodities-news/oil-prices-steady-as-investors-assess-usiran-war-outlook-4868535</link>
-      <guid isPermaLink="false">3e8e2fa1dc4ed386d465b8f6</guid>
-      <pubDate>Thu, 20 Aug 2026 18:19:08 +0000</pubDate>
-      <description />
-      <dc:creator>Reuters</dc:creator>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>investing_news</wire:foundAt>
-      <wire:platform>Investing.com</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>link_only</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.investing.com/news/commodities-news/oil-prices-steady-as-investors-assess-usiran-war-outlook-4868535</wire:canonicalUrl>
-      <wire:evidence>structured credit: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>Bessent says US will impose toughest ever sanctions on Iran, urges China to cooperate</title>
-      <link>https://www.investing.com/news/commodities-news/us-treasury-secretary-bessent-to-hold-press-conference-on-iranon-monday-4870187</link>
-      <guid isPermaLink="false">fbed6b35afa7d41dbefd8efc</guid>
-      <pubDate>Thu, 20 Aug 2026 18:06:53 +0000</pubDate>
-      <description />
-      <dc:creator>Reuters</dc:creator>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>investing_news</wire:foundAt>
-      <wire:platform>Investing.com</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>link_only</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.investing.com/news/commodities-news/us-treasury-secretary-bessent-to-hold-press-conference-on-iranon-monday-4870187</wire:canonicalUrl>
-      <wire:evidence>structured credit: Reuters</wire:evidence>
-    </item>
   </channel>
 </rss>
