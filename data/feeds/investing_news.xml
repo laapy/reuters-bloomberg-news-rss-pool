@@ -1,11 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Investing.com — diagnostic source feed</title>
     <link>https://www.investing.com/rss/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 20 Aug 2026 16:40:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 17:34:17 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>US Treasury buyback briefly eases bond rout, but debt worries persist</title>
+      <link>https://www.investing.com/news/stock-market-news/bonds-bounce-on-us-buybacks-but-relief-may-be-brief-4868662</link>
+      <guid isPermaLink="false">7c9047428140758f3b283ef5</guid>
+      <pubDate>Thu, 20 Aug 2026 17:24:51 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/bonds-bounce-on-us-buybacks-but-relief-may-be-brief-4868662</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>US Justice Department opposes immediate hearing in Disney ABC license lawsuit</title>
+      <link>https://www.investing.com/news/stock-market-news/us-justice-department-opposes-immediate-hearing-in-disney-abc-license-lawsuit-4870262</link>
+      <guid isPermaLink="false">0321b6f37cd641f9d657aaa8</guid>
+      <pubDate>Thu, 20 Aug 2026 17:18:32 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/us-justice-department-opposes-immediate-hearing-in-disney-abc-license-lawsuit-4870262</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>Nvidia to ship AI chip for China by year-end, The Information reports</title>
+      <link>https://www.investing.com/news/stock-market-news/nvidia-to-ship-ai-chip-for-china-by-yearend-the-information-reports-4870258</link>
+      <guid isPermaLink="false">732a79ebb6dac986d3df84bd</guid>
+      <pubDate>Thu, 20 Aug 2026 17:12:48 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/nvidia-to-ship-ai-chip-for-china-by-yearend-the-information-reports-4870258</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>

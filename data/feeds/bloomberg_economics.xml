@@ -5,7 +5,7 @@
     <link>https://feeds.bloomberg.com/economics/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 20 Aug 2026 16:40:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 17:34:17 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>France Risks Deficit Blowout Without Budget Before Elections</title>
@@ -22,6 +22,23 @@
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-20/france-risks-deficit-blowout-without-budget-before-elections</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Musalem Says Bond Market Pain Not Due to Fed Credibility Concern</title>
+      <link>https://www.bloomberg.com/news/articles/2026-08-20/musalem-says-bond-market-pain-not-due-to-fed-credibility-concern</link>
+      <guid isPermaLink="false">3e284e41df1b9d684bae9fd8</guid>
+      <pubDate>Thu, 20 Aug 2026 15:58:51 +0000</pubDate>
+      <description>Federal Reserve Bank of St. Louis President Alberto Musalem said a selloff in the bond market is being driven by government borrowing and increased demand for financing connected to the build-out of artificial intelligence, not questions of the US central bank’s credibility.</description>
+      <dc:creator>Catarina Saraiva and María Paula Mijares Torres</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_economics</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-20/musalem-says-bond-market-pain-not-due-to-fed-credibility-concern</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
@@ -59,9 +76,9 @@
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
-      <title>Bessent Flags Bigger Debt Buyback Potential, Fiscal Plan Coming</title>
+      <title>Bessent Flags Bigger Debt Buyback Potential, Coming Fiscal Plan</title>
       <link>https://www.bloomberg.com/news/articles/2026-08-20/bessent-says-buybacks-could-be-more-than-4-billion-per-issue</link>
-      <guid isPermaLink="false">5218aeed30c49bbb9bd8d8f5</guid>
+      <guid isPermaLink="false">d40814350578a318e7497bd2</guid>
       <pubDate>Thu, 20 Aug 2026 15:04:29 +0000</pubDate>
       <description>Treasury Secretary Scott Bessent said that he’s prepared to expand efforts to buy back costlier debt and that the administration will be unveiling a new fiscal initiative to address the highest borrowing costs in years.</description>
       <dc:creator>Jorgelina do Rosario</dc:creator>
@@ -328,23 +345,6 @@
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/bessent-becomes-most-interventionist-treasury-chief-in-decades</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>China Wields New Legal Powers Against EU as Trade Talks Near</title>
-      <link>https://www.bloomberg.com/news/articles/2026-08-19/china-criticizes-eu-over-extraterritorial-reach-in-jd-com-probe</link>
-      <guid isPermaLink="false">fd68c3c45f529b54b89aac87</guid>
-      <pubDate>Wed, 19 Aug 2026 12:39:46 +0000</pubDate>
-      <description>China is using new legal powers to block European Union scrutiny of alleged state support for its companies, adding friction ahead of an October deadline to resolve outstanding trade disputes.</description>
-      <dc:creator>Foster Wong and Lucille Liu</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_economics</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-19/china-criticizes-eu-over-extraterritorial-reach-in-jd-com-probe</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
   </channel>
