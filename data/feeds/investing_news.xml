@@ -1,11 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Investing.com — diagnostic source feed</title>
     <link>https://www.investing.com/rss/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 20 Aug 2026 20:33:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 21:32:50 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Brazil launches AI supercomputer push, splits projects between Chinese, US firms</title>
+      <link>https://www.investing.com/news/stock-market-news/brazil-launches-ai-supercomputer-push-splits-projects-between-chinese-us-firms-4870560</link>
+      <guid isPermaLink="false">da87afdb4a29c0c8e8072df1</guid>
+      <pubDate>Thu, 20 Aug 2026 21:12:47 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/brazil-launches-ai-supercomputer-push-splits-projects-between-chinese-us-firms-4870560</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>Trading Day: Can’t get no relief</title>
+      <link>https://www.investing.com/news/economy-news/trading-day-cant-get-no-relief-4870556</link>
+      <guid isPermaLink="false">642baa38477b6adac5181dde</guid>
+      <pubDate>Thu, 20 Aug 2026 21:07:20 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/economy-news/trading-day-cant-get-no-relief-4870556</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>Delta, Aeromexico win court battle to keep joint venture</title>
+      <link>https://www.investing.com/news/stock-market-news/delta-aeromexico-win-court-battle-to-keep-joint-venture-4870555</link>
+      <guid isPermaLink="false">433e7d1b8c319ce852babbdb</guid>
+      <pubDate>Thu, 20 Aug 2026 21:06:48 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/delta-aeromexico-win-court-battle-to-keep-joint-venture-4870555</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>
