@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 20 Aug 2026 21:32:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 21:58:34 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>日清食品HDの「冷しカップヌードル」好調、1－2カ月分が1週間で完売</title>
@@ -45,6 +45,25 @@
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://news.yahoo.co.jp/articles/caf3fc18550fd96d9f450caf6bc82c5c32de4ceb</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>シティがドル弱気に転じる、米国債買い戻し増額受けて予想引き下げ</title>
+      <link>https://news.yahoo.co.jp/articles/3c7deccae5d585d7c29d1590c1f4db139875e710</link>
+      <guid isPermaLink="false">62d475c8fbc75d59e3f722ea</guid>
+      <pubDate>Thu, 20 Aug 2026 17:59:44 +0000</pubDate>
+      <description>（ブルームバーグ）：</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;（ブルームバーグ）： シティグループの通貨ストラテジストは、米連邦準備制度理事会（FRB）のタカ派姿勢が弱まるとの観測や中間選挙、米財務省による国債買い戻し拡大に市場が備える中、短期的なドルの見通しに関して弱気に転じた。&lt;/p&gt;&lt;p&gt;ダニエル・トボン氏らシティのストラテジストチームは20日付リポートで、向こう3カ月のドル指数見通しを102.12から98.34に引き下げた。&lt;/p&gt;&lt;p&gt;シティはこれに先立ち、ベッセント米財務長官による長期借り入れコストの押し下げに向けた最新の取り組みは、短期的にドル安を招く可能性が高いと指摘していた。ブルームバーグ・ドル・スポット指数は19日に5月以来の安値を付け、20日はほぼ変わらずで推移している。&lt;/p&gt;&lt;p&gt;トボン氏らはドルについて、ここ数カ月、「より中立的」な見方をしていたが、今後数カ月でリスクが高まる可能性が高いと分析した。&lt;/p&gt;&lt;p&gt;「最も新しい動きは、米財務省が11月まで国債の買い戻し規模を倍増すると発表したことだ」と指摘。「これは2つの経路を通じ、ドルにとっての新たな弱材料となる。米国債利回りを押し下げるほか、金融抑圧を巡る懸念を生じさせる」と記した。&lt;/p&gt;&lt;p&gt;同ストラテジストらはまた、これまでドル強気の流れを引き起こしていた米利上げ観測が後退していると指摘。先行きについては、「米政治を巡る不透明感の高まりや、選挙結果を巡って対立が起きる可能性といったテールリスクを踏まえ」、11月の中間選挙を通過するまでドルのロングポジションを避ける動きが市場で出かねないとの見方を示した。&lt;/p&gt;&lt;p&gt;一方、ドルの長期見通しは変更しなかった。米国の経済成長見通しは主要10カ国（G10）の他国より良好だとみている。&lt;/p&gt;&lt;p&gt;新たな見通しに対する潜在的なリスクとしては、イラン戦争やAI関連の投資動向を挙げた。ここ数カ月、ホルムズ海峡を通過する原油量の減少やAI関連の大規模な設備投資を背景にインフレ懸念が高まっており、FRBが利上げに動く可能性も意識されている。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_bloomberg</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/3c7deccae5d585d7c29d1590c1f4db139875e710</wire:canonicalUrl>
       <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
@@ -534,7 +553,7 @@ TDセキュリティーズのニューヨーク在勤ストラテジスト、ハ
       <pubDate>Thu, 20 Aug 2026 02:04:12 +0000</pubDate>
       <description>（ブルームバーグ）：</description>
       <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;（ブルームバーグ）： 日本学生支援機構（JASSO）が20日に起債した2年債の発行利率が過去最高を更新した。国内金利の上昇でJASSOの資金調達コストも増しており、その影響は奨学金を利用する学生にも及んでいる。&lt;/p&gt;&lt;p&gt;主幹事のSMBC日興証券によると、発行額は300億円で、スプレッド（国債上乗せ金利）は1ベーシスポイント（bp、1bp＝0.01%）。利率は1.689%と前回債の1.469%を上回り、2004年6月の発行開始以来の最高となった。&lt;/p&gt;&lt;p&gt;金利上昇の影響は、JASSOの調達金利だけでなく奨学金にも表れている。有利子の奨学金では、国からの借入金利などを反映して貸与利率も上がり、既に上限の3%に達した。海外でも学生ローンの負担が重くなる中、日本でも超低金利時代には目立たなかった負担が表面化している。&lt;/p&gt;&lt;p&gt;野村証券市場戦略リサーチ部の林秀昭シニア・クレジット・アナリストは財投機関債について、「ベース金利の上昇により、全般的に投資家需要は堅調」と話す。その上で、「こうした政策金融は民間金融だけでは難しい分野を補完しているものの、金利上昇が利用者のコスト増に波及しており、今後の経済活動への影響も注視される」と指摘した。&lt;/p&gt;</content:encoded>
+      <content:encoded>&lt;p&gt;（ブルームバーグ）： 日本学生支援機構（JASSO）が20日に起債した2年債の発行利率が過去最高を更新した。国内金利の上昇でJASSOの資金調達コストも増しており、その影響は奨学金を利用する学生にも及んでいる。&lt;/p&gt;&lt;p&gt;主幹事のSMBC日興証券によると、発行額は300億円で、スプレッド（国債上乗せ金利）は1ベーシスポイント（bp、1bp＝0.01%）。利率は1.689%と前回債の1.469%を上回り、2004年6月の発行開始以来の最高となった。&lt;/p&gt;&lt;p&gt;金利上昇の影響は、JASSOの調達金利だけでなく奨学金にも表れている。有利子の奨学金では、国からの借入金利などを反映して貸与利率も上がり、既に上限の3%に達した。海外でも学生ローンの負担が重くなる中、日本でも超低金利時代には目立たなかった負担が表面化している。&lt;/p&gt;&lt;p&gt;野村証券市場戦略リサーチ部の林秀昭シニア・クレジット・アナリストは財投機関債について、「ベース金利の上昇により、全般的に投資家需要は堅調」と話す。その上で、「こうした政策金融は民間金融だけでは難しい分野を補完しているものの、金利上昇が利用者のコスト増に波及しており、今後の経済活動への影響も注視される」と指摘した。&lt;/p&gt;&lt;p&gt;20日は政府系金融機関の住宅金融支援機構も103億円の住宅ローン担保証券（RMBS）の発行条件を決めた。利率は3.45%と過去最高を更新した。9月以降、一部の住宅ローン金利が上昇する可能性が高まっている。&lt;/p&gt;&lt;p&gt;JASSOの広報担当者はブルームバーグの取材にメールで、今後の制度や財政支援については2027年度予算に向けて検討されるとの認識を示した。その上で、経済的に修学が困難な学生を支援する奨学金事業の趣旨を踏まえ、国と連携して対応していくと回答した。&lt;/p&gt;</content:encoded>
       <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>yahoo_news_jp_bloomberg</wire:foundAt>
       <wire:platform>Yahoo!ニュース日本</wire:platform>
@@ -962,25 +981,6 @@ TDセキュリティーズのニューヨーク在勤ストラテジスト、ハ
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://news.yahoo.co.jp/articles/283bf2579421aa67bea5f6ef0c4dc86dd588c829</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>原油は不安定ながら続伸、UAE・イラン関係悪化で中東情勢再び緊迫</title>
-      <link>https://news.yahoo.co.jp/articles/adefae44ccbb3d78b92c4d375401236ac43c2207</link>
-      <guid isPermaLink="false">8270d152dd008cdf1c689409</guid>
-      <pubDate>Wed, 19 Aug 2026 13:39:53 +0000</pubDate>
-      <description>（ブルームバーグ）：</description>
-      <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;（ブルームバーグ）： 19日午前のニューヨーク原油先物相場は不安定な値動きとなった。中東情勢が再び緊迫し、ホルムズ海峡を通る原油輸送の見通しが一段と不透明になっている。&lt;/p&gt;&lt;p&gt;UAEはイランとのあらゆる経済関係を断絶すると表明した。ドバイでは前日にミサイル警報が出された。北海ブレント原油先物は一時、3週間ぶりの高値に上昇した後、1バレル＝91ドル近辺で推移している。中東で紛争終結の糸口が見えない中、この2週間で約15%上昇してきた。ウェスト・テキサス・インターミディエート（WTI）先物は同85ドル台前半で取引されている。&lt;/p&gt;&lt;p&gt;トランプ米大統領は前日、イランとの交渉は行われていないと述べた。最新の動きとしては中国系の超大型タンカーがホルムズ海峡内で引き返しており、同海峡を通るリスクの高さが改めて浮き彫りになった。前日には英国海事貿易機関（UKMTO）が、ばら積み貨物船の船体に飛翔体が命中したとの通報を受けたと発表した。&lt;/p&gt;&lt;p&gt;グローバル・リスク・マネジメントのチーフアナリスト、アルネ・ローマン・ラスムセン氏は「UAEとイランの関係悪化に加え、市場はホルムズ海峡封鎖が長期化するシナリオの織り込みを深めており、原油と石油製品の価格を支えている」と述べた。&lt;/p&gt;&lt;p&gt;原題：Oil Swings as Middle East Tensions Flare Up With UAE-Iran Spat（抜粋）&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_bloomberg</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/adefae44ccbb3d78b92c4d375401236ac43c2207</wire:canonicalUrl>
       <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
     </item>
   </channel>
