@@ -1,46 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss version="2.0">
   <channel>
     <title>Yahoo Finance — diagnostic source feed</title>
     <link>https://finance.yahoo.com/news/rssindex</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 20 Aug 2026 21:58:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 22:36:14 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>Instant View: US Treasury will double some bond buy backs</title>
-      <link>https://finance.yahoo.com/news/instant-view-us-treasury-double-134328359.html</link>
-      <guid isPermaLink="false">37b9a135a963cc84757f8576</guid>
-      <pubDate>Wed, 19 Aug 2026 13:43:28 +0000</pubDate>
-      <description>long-dated Treasury yields fell sharply on Wednesday from around their highest level in 19 years, in a move that followed the U. Treasury announcing it woul...</description>
-      <dc:creator>Reuters</dc:creator>
-      <content:encoded>&lt;p&gt;Instant View: US Treasury will double some bond buy backs&lt;/p&gt;&lt;p&gt;Reuters
-Wed, August 19, 2026 at 9:43 AM EDT 2 min read&lt;/p&gt;&lt;p&gt;LONDON, Aug 19 (Reuters) - U.S. long-dated Treasury yields fell sharply on Wednesday from around their highest level in 19 years, in a move that followed the U.S. Treasury announcing it would double the size of liquidity support buy-back operations for longer-dated bonds.
-Thirty-year U.S. bond yields fell almost 10 basis points (bps) to around 5.187%, and were last trading about 7 bps lower on the day.&lt;/p&gt;&lt;p&gt;The U.S. Treasury Department said on Wednesday it would double the size of liquidity support buyback operations for longer-dated nominal coupon securities from $2 billion to at least $4 billion per operation.
-The change, which will apply to the 10-year to 20-year sector and the 20-year to 30-year sector, will be effective Sept. 9 through Nov. 4, it said in a statement.
-COMMENTS:
-JEREMY STRETCH, HEAD OF G10 FX STRATEGY, CIBC, LONDON:
-&amp;quot;What we&amp;#x27;ve seen in the course of recent days is that the long end of the bond market has obviously been selling off and potentially becoming somewhat problematic for the play through to other asset classes.
-&amp;quot;So, clearly, the Treasury Secretary has to be mindful of those risks and has made adjustments. That&amp;#x27;s why we are (now) seeing US 30-year Treasury yields down sharply and the dollar cheapening.
-&amp;quot;The are still concerns about inflation, the debt profile in the G4, the impact of AI.
-&amp;quot;But this measure shows the U.S. Treasury recognises what is going on the bond market and is prepared to adjust policy in order to limit pressures on the market.&amp;quot;&lt;/p&gt;&lt;p&gt;RENE ALBRECHT, SENIOR ANALYST, DZ BANK, GERMANY:
-&amp;quot;I think they fear the pain of 5% or higher yields on the long-end, not only because it raises the interest rate costs for the government but also for the private sector. It&amp;#x27;s only three month until the midterm elections.&amp;quot;
-&amp;quot;There is a connection between the recent rise in yields and this kind of action from the Treasury. &amp;quot;
-&amp;quot;You&amp;#x27;ve seen the market reaction, yields dropped down at the long-end, so that&amp;#x27;s the primary target or aim of this operation.&amp;quot;
-&amp;quot;They have had to grab into the toolkit in order to get a hand on the recent rise in yields.&amp;quot;
-(Compiled by Dhara Ranasinghe and Samuel Indyk in London; Editing by Elisa Martinuzzi )&lt;/p&gt;&lt;p&gt;View Comments&lt;/p&gt;&lt;p&gt;Terms and Privacy Policy
-Your Privacy Choices
-More Info&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_finance_global</wire:foundAt>
-      <wire:platform>Yahoo Finance</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>article page metadata</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://finance.yahoo.com/news/instant-view-us-treasury-double-134328359.html</wire:canonicalUrl>
-      <wire:evidence>structured credit: Reuters</wire:evidence>
-    </item>
   </channel>
 </rss>
