@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Azawya.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 20 Aug 2026 23:29:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 23:54:18 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Mideast Stocks: Gulf shares mixed amid US-Iran uncertainty; oil lends support</title>
@@ -132,6 +132,21 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
+      <title>Alibaba reports 9% rise in quarterly revenue</title>
+      <link>https://www.zawya.com/en/capital-markets/alibaba-reports-9-rise-in-quarterly-revenue-462323</link>
+      <guid isPermaLink="false">e97b24a81641f35990ca4785</guid>
+      <pubDate>Wed, 19 Aug 2026 19:55:00 +0000</pubDate>
+      <description>China's Alibaba on Thursday reported a 9% rise in quarterly revenue, as strong demand for AI services fueled growth in its cloud business, while an extended "618" shopping festival boosted its core ...</description>
+      <wire:foundAt>zawya_discovery</wire:foundAt>
+      <wire:platform>ZAWYA</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.zawya.com/en/capital-markets/alibaba-reports-9-rise-in-quarterly-revenue-462323</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
       <title>Orascom Investment appoints Naguib Sawiris as Chairman</title>
       <link>https://www.zawya.com/en/capital-markets/equities/orascom-investment-appoints-naguib-sawiris-as-chairman-461061</link>
       <guid isPermaLink="false">07ca883af5297ca7b5f64384</guid>
@@ -174,21 +189,6 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.zawya.com/en/capital-markets/mideast-stocks-most-gulf-markets-rise-as-oil-gains-amid-iran-war-jitters-462265</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Oil prices steady as investors assess US-Iran war outlook</title>
-      <link>https://www.zawya.com/en/business/oil-prices-steady-as-investors-assess-us-iran-war-outlook-461890</link>
-      <guid isPermaLink="false">ba06cf60b172ae62b378499e</guid>
-      <pubDate>Wed, 19 Aug 2026 17:54:00 +0000</pubDate>
-      <description>TOKYO: Oil prices steadied in early trade on Thursday as investors assessed the outlook for the U.S.-Iran war and the security of shipping through the Strait of Hormuz. Brent crud ...</description>
-      <wire:foundAt>zawya_discovery</wire:foundAt>
-      <wire:platform>ZAWYA</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.zawya.com/en/business/oil-prices-steady-as-investors-assess-us-iran-war-outlook-461890</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
