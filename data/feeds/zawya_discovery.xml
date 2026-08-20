@@ -1,25 +1,74 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>ZAWYA — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Azawya.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 20 Aug 2026 01:22:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 02:41:11 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>Global bond markets put governments on notice over fiscal, inflation risks</title>
-      <link>https://www.zawya.com/en/capital-markets/global-bond-markets-put-governments-on-notice-over-fiscal-inflation-risks-460392</link>
-      <guid isPermaLink="false">c50cd53e32197bbe52285c51</guid>
-      <pubDate>Wed, 19 Aug 2026 16:57:00 +0000</pubDate>
-      <description>Bond markets are entering an era where the inflation and interest rate outlook is more uncertain and the upside risks are greater, as U.S. President Donald Trump’s policies — from tariffs to war — ...</description>
+      <title>ADNOC offers spot crude in 9th tender issued since June, sources say</title>
+      <link>https://www.zawya.com/en/business/adnoc-offers-spot-crude-in-9th-tender-issued-since-june-sources-say-461309</link>
+      <guid isPermaLink="false">07d193e60f9908782b9f64ed</guid>
+      <pubDate>Wed, 19 Aug 2026 16:04:18 +0000</pubDate>
+      <description>The Abu Dhabi National Oil Company (ADNOC) is offering spot crude in a tender, its ninth issued since the start of June as the UAE state oil company works to move oil from inside the Strait of Hormuz, ...</description>
+      <dc:creator>Nidhi Verma and Siyi Liu</dc:creator>
       <wire:foundAt>zawya_discovery</wire:foundAt>
       <wire:platform>ZAWYA</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.zawya.com/en/capital-markets/global-bond-markets-put-governments-on-notice-over-fiscal-inflation-risks-460392</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.zawya.com/en/business/adnoc-offers-spot-crude-in-9th-tender-issued-since-june-sources-say-461309</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Mideast Stocks: UAE stocks fall; Qatar at over one-year low</title>
+      <link>https://www.zawya.com/en/capital-markets/mideast-stocks-uae-stocks-fall-qatar-at-over-one-year-low-461244</link>
+      <guid isPermaLink="false">dfdd250552090c5ee68c8838</guid>
+      <pubDate>Wed, 19 Aug 2026 15:42:56 +0000</pubDate>
+      <description>Iran's foreign ministry dismissed the allegation as "baseless." UAE later said it was suspending all trade activities, commercial exchanges and financial transactions with Iran until further notice.</description>
+      <dc:creator>Md Manzer Hussain</dc:creator>
+      <wire:foundAt>zawya_discovery</wire:foundAt>
+      <wire:platform>ZAWYA</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.zawya.com/en/capital-markets/mideast-stocks-uae-stocks-fall-qatar-at-over-one-year-low-461244</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>SNB Group launches the first World Legend Mastercard in the Middle East and North Africa region</title>
+      <link>https://www.zawya.com/en/press-release/companies-news/snb-group-launches-the-first-world-legend-mastercard-in-the-middle-east-and-north-africa-region-461194</link>
+      <guid isPermaLink="false">187923dd80b32ef05b27d992</guid>
+      <pubDate>Wed, 19 Aug 2026 13:08:18 +0000</pubDate>
+      <description>Riyadh, Saudi Arabia; SNB Group, in collaboration with Mastercard, today announced the launch of the SNB World Legend Mastercard, becoming the first financial institution in the Middle East and North ...</description>
+      <dc:creator>Zawya</dc:creator>
+      <wire:foundAt>zawya_discovery</wire:foundAt>
+      <wire:platform>ZAWYA</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.zawya.com/en/press-release/companies-news/snb-group-launches-the-first-world-legend-mastercard-in-the-middle-east-and-north-africa-region-461194</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Mideast Stocks: UAE stocks fall after missile scare</title>
+      <link>https://www.zawya.com/en/capital-markets/mideast-stocks-uae-stocks-fall-after-missile-scare-460870</link>
+      <guid isPermaLink="false">2671bc34e44165fbe76166ec</guid>
+      <pubDate>Wed, 19 Aug 2026 08:52:46 +0000</pubDate>
+      <description>The UAE said the missiles, the first such incident since a May 4 strike on Fujairah port, appeared to target maritime traffic and fell into the sea. Iran's foreign ministry dismissed the allegation ...</description>
+      <dc:creator>Md Manzer Hussain</dc:creator>
+      <wire:foundAt>zawya_discovery</wire:foundAt>
+      <wire:platform>ZAWYA</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.zawya.com/en/capital-markets/mideast-stocks-uae-stocks-fall-after-missile-scare-460870</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -38,51 +87,6 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>SNB Group launches the first World Legend Mastercard in the Middle East and North Africa region</title>
-      <link>https://www.zawya.com/en/press-release/companies-news/snb-group-launches-the-first-world-legend-mastercard-in-the-middle-east-and-north-africa-region-461194</link>
-      <guid isPermaLink="false">187923dd80b32ef05b27d992</guid>
-      <pubDate>Wed, 19 Aug 2026 06:07:00 +0000</pubDate>
-      <description>Riyadh, Saudi Arabia; SNB Group, in collaboration with Mastercard, today announced the launch of the SNB World Legend Mastercard, becoming the first financial institution in the Middle East and North ...</description>
-      <wire:foundAt>zawya_discovery</wire:foundAt>
-      <wire:platform>ZAWYA</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.zawya.com/en/press-release/companies-news/snb-group-launches-the-first-world-legend-mastercard-in-the-middle-east-and-north-africa-region-461194</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>ADNOC offers spot crude in 9th tender issued since June, sources say</title>
-      <link>https://www.zawya.com/en/business/adnoc-offers-spot-crude-in-9th-tender-issued-since-june-sources-say-461309</link>
-      <guid isPermaLink="false">07d193e60f9908782b9f64ed</guid>
-      <pubDate>Wed, 19 Aug 2026 02:09:00 +0000</pubDate>
-      <description>The Abu Dhabi National Oil Company (ADNOC) is offering spot crude in a tender, its ninth issued since the start of June as the UAE state oil company works to move oil from inside the Strait of Hormuz, ...</description>
-      <wire:foundAt>zawya_discovery</wire:foundAt>
-      <wire:platform>ZAWYA</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.zawya.com/en/business/adnoc-offers-spot-crude-in-9th-tender-issued-since-june-sources-say-461309</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Mideast Stocks: UAE stocks fall; Qatar at over one-year low</title>
-      <link>https://www.zawya.com/en/capital-markets/mideast-stocks-uae-stocks-fall-qatar-at-over-one-year-low-461244</link>
-      <guid isPermaLink="false">dfdd250552090c5ee68c8838</guid>
-      <pubDate>Wed, 19 Aug 2026 01:43:00 +0000</pubDate>
-      <description>Iran's foreign ministry dismissed the allegation as "baseless." UAE later said it was suspending all trade activities, commercial exchanges and financial transactions with Iran until further notice.</description>
-      <wire:foundAt>zawya_discovery</wire:foundAt>
-      <wire:platform>ZAWYA</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.zawya.com/en/capital-markets/mideast-stocks-uae-stocks-fall-qatar-at-over-one-year-low-461244</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
       <title>UK inflation picks up after July surge in household energy bills</title>
       <link>https://www.zawya.com/en/world/uk-inflation-picks-up-after-july-surge-in-household-energy-bills-460698</link>
       <guid isPermaLink="false">83e589abbdd74a767968bf4d</guid>
@@ -95,6 +99,21 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.zawya.com/en/world/uk-inflation-picks-up-after-july-surge-in-household-energy-bills-460698</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Anthropic prepares supervoting power for founders ahead of IPO, the Information reports</title>
+      <link>https://www.zawya.com/en/capital-markets/ai-shaping-digital-future/anthropic-prepares-supervoting-power-for-founders-ahead-of-ipo-the-information-reports-460399</link>
+      <guid isPermaLink="false">9fedb01db9c7b3cd4e311207</guid>
+      <pubDate>Tue, 18 Aug 2026 22:26:00 +0000</pubDate>
+      <description>Anthropic has been preparing to give CEO Dario Amodei and other co-founders a class of stock with extra voting power to help insulate them from external shareholder pressure, the Information reported ...</description>
+      <wire:foundAt>zawya_discovery</wire:foundAt>
+      <wire:platform>ZAWYA</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.zawya.com/en/capital-markets/ai-shaping-digital-future/anthropic-prepares-supervoting-power-for-founders-ahead-of-ipo-the-information-reports-460399</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -155,21 +174,6 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.zawya.com/en/capital-markets/equities/bond-selloff-slows-but-stocks-sink-460674</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Mideast Stocks: UAE stocks fall after missile scare</title>
-      <link>https://www.zawya.com/en/capital-markets/mideast-stocks-uae-stocks-fall-after-missile-scare-460870</link>
-      <guid isPermaLink="false">2671bc34e44165fbe76166ec</guid>
-      <pubDate>Tue, 18 Aug 2026 18:52:00 +0000</pubDate>
-      <description>The UAE said the missiles, the first such incident since a May 4 strike on Fujairah port, appeared to target maritime traffic and fell into the sea. Iran's foreign ministry dismissed the allegation ...</description>
-      <wire:foundAt>zawya_discovery</wire:foundAt>
-      <wire:platform>ZAWYA</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.zawya.com/en/capital-markets/mideast-stocks-uae-stocks-fall-after-missile-scare-460870</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
