@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Fri, 21 Aug 2026 18:41:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 19:30:58 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>アポロにサイバー攻撃、個人情報にアクセス－ファンドへの攻撃相次ぐ</title>
@@ -24,6 +24,25 @@
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://news.yahoo.co.jp/articles/1fc583821a73ed6f48700b2fb5564b3ea7026aaf</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>米国債買い戻し増額、日銀政策との比較論浮上－通貨安促す「火遊び」</title>
+      <link>https://news.yahoo.co.jp/articles/6e126952936a15e23b4052dc7a9b01ccb03a37d3</link>
+      <guid isPermaLink="false">6364baa849da4ef6161f888c</guid>
+      <pubDate>Fri, 21 Aug 2026 16:21:41 +0000</pubDate>
+      <description>（ブルームバーグ）：</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;（ブルームバーグ）： 今週の金融市場を大きく動かした米国の長期国債買い戻し増額は、イールドカーブコントロール（YCC）など日本銀行が採用した利回り抑制策と同様の措置なのだろうか。市場関係者の間で、こうした比較が行われている。日本は利回り抑制に取り組み、結果として長期にわたる通貨下落を実現させた。&lt;/p&gt;&lt;p&gt;米財務省は週半ば、満期前に長期国債を市場から買い戻すオペの1回当たり実施額をこれまでの2倍に引き上げると発表した。これを受けてドルは下落、21日の取引で3カ月ぶりの安値を付けた。&lt;/p&gt;&lt;p&gt;ブルッキングス研究所のシニアフェロー、ロビン・ブルックス氏は今回の措置について、米国が日本と同じ通貨切り下げの道をたどっていることを示す「これまでで最も明確な兆候」だと指摘した。政権は「火遊び」をしようとしていると語った。&lt;/p&gt;&lt;p&gt;米国債は発表を受けて当初上昇したものの、その24時間後には上昇分を失った。一方、金などの貴金属は上昇を続け、「ディベースメント取引」が戻ってきたとの声もささやかれ始めた。&lt;/p&gt;&lt;p&gt;スタンダード銀行のG10戦略責任者、スティーブン・バロー氏は、国債買い戻しオペで利回りを抑えようとしてもドルへの下押し圧力を強めるだけで、利回り上昇の根底にある財政赤字の問題に対処していないと論じた。&lt;/p&gt;&lt;p&gt;もっとも、ブルームバーグ・ドル指数は年初来で1%の下落にとどまっており、日本との比較には限界がある。安倍晋三元首相が推進した経済政策「アベノミクス」は、成長を促すための積極的な金融緩和に依存していた。&lt;/p&gt;&lt;p&gt;その中には、事実上、円を大量に供給して国債を買い上げ、利回りを低く抑える大規模な量的緩和策も含まれていた。この政策は円相場を大きく押し下げた。&lt;/p&gt;&lt;p&gt;米財務省の国債買い戻しは、こうした金融緩和策とは比較できない。また米国は、利回りを低く抑える代償として通貨安を受け入れることを選択したわけでもない。&lt;/p&gt;&lt;p&gt;バロー氏はその証拠として、米当局が円を支えるために実施した7月の為替介入を挙げた。ドルではなくユーロを使うことで、米当局はドル相場への影響を回避。一方、日本が介入に必要なドルを調達する目的で米国債を売却する必要性も軽減し、米国債利回りを守った。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_bloomberg</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/6e126952936a15e23b4052dc7a9b01ccb03a37d3</wire:canonicalUrl>
       <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
@@ -984,25 +1003,6 @@ TDセキュリティーズのニューヨーク在勤ストラテジスト、ハ
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://news.yahoo.co.jp/articles/93aec68f0384e6b843476e3c50c1f3a17cb0d27d</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>ドルが最大の犠牲に、米財務省の国債支援措置で－市場関係者ら指摘</title>
-      <link>https://news.yahoo.co.jp/articles/c28f6a5b65dc3f62a646104127e7ad3e524ba6e6</link>
-      <guid isPermaLink="false">c7556d65d768a58aac11c1ca</guid>
-      <pubDate>Thu, 20 Aug 2026 10:21:42 +0000</pubDate>
-      <description>（ブルームバーグ）：</description>
-      <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;（ブルームバーグ）： 米国の金利が経済に打撃を与えかねないほど上昇するのを阻止しようと、ベッセント財務長官は大胆な介入措置を打ち出した。だが、その対価を結局はドルが支払うことになると一部の投資家はみている。&lt;/p&gt;&lt;p&gt;今回の介入について、米政府が借り入れコスト抑制により積極的な役割を果たしていく転換点になったと捉える市場参加者もいる。長期金利を抑制する取り組みはこのところ続いており、米国の政策がドルへの信認を弱め、投資家を代替資産へと向かわせるとの懸念が再燃している。&lt;/p&gt;&lt;p&gt;シンガポールのマルチファミリーオフィス、リード・キャピタルのジェラルド・ガン最高投資責任者（CIO）は、「最大の犠牲になるのは間違いなくドルだ」と指摘。ベッセント氏は実質長期金利を意図的に押し下げ、景気を下支えするためにドル安を容認するシグナルを送るだろうとの見方を示した。&lt;/p&gt;&lt;p&gt;こうした背景から、ガン氏は「自分ならドルからさらに分散を進める」と述べた。&lt;/p&gt;&lt;p&gt;ブルームバーグ・ドル・スポット指数は20日、小幅高で取引を終えた。前日には3カ月ぶりの安値まで下落していた。オプション市場の資金フローを見ると、トレーダーは発表直後、主要通貨に対してドル安を見込むポジションを積み増し、特にユーロとポンドに強い需要が集まった。&lt;/p&gt;&lt;p&gt;ベッセント氏は20日、長期債の買い戻しを拡大する用意があるとの考えを示した。また、高水準の借り入れコストに対処するため、政権が新たな財政健全化策を近く打ち出す方針を明らかにした。&lt;/p&gt;&lt;p&gt;米財務省は19日、発行済み10－30年国債の買い戻し予定額を「少なくとも倍増」すると発表した。十数年ぶりの高水準に達していた米長期債利回りを抑え込む目的だが、同省は長年、「定期的かつ予測可能」な債務管理方針を掲げていた。ベッセント氏自身も昨年11月の講演でこれを支持していたが、方針の転換を示した格好だ。&lt;/p&gt;&lt;p&gt;フランクリン・テンプルトンの債券部門ディレクター、アンドリュー・カノビ氏（メルボルン在勤）は、ベッセント氏について「ターム物の金利をある程度抑えるためなら、ドルの強さを多少犠牲にする用意があると事実上言っている」との見解を示し、「どこかにはけ口が向かう」と語った。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_bloomberg</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/c28f6a5b65dc3f62a646104127e7ad3e524ba6e6</wire:canonicalUrl>
       <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
     </item>
   </channel>
