@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>The Economic Times — diagnostic source feed</title>
     <link>https://economictimes.indiatimes.com/rssfeedsdefault.cms</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Fri, 21 Aug 2026 14:39:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 15:38:14 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>US stocks: US market rebounds, but yield surge sets stage for weekly losses</title>
+      <link>https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-but-weekly-losses-loom/articleshow/133406374.cms</link>
+      <guid isPermaLink="false">e71b93d40740fe3b11040552</guid>
+      <pubDate>Fri, 21 Aug 2026 13:49:00 +0000</pubDate>
+      <description>Major Wall Street indexes opened higher on Friday after significant declines. The Dow Jones Industrial Average saw a slight increase at the opening. The S&amp;P 500 also experienced a rise in its opening figures. The Nasdaq Composite index registered a notable gain at the opening bell. Markets are still set to finish the week with losses.</description>
+      <dc:creator>ETMarkets.com</dc:creator>
+      <content:encoded>&lt;p&gt;Wall Street’s major indexes climbed higher on Friday, a day after witnessing heavy losses, even as they were poised for a lower finish for the week amid pressure from rising government bond yields and lingering geopolitical uncertainty, Reuters reported.The S&amp;amp;P 500 and technology-focused Nasdaq were on course to break a run of three consecutive weekly gains. The Dow, meanwhile, was set to record its second weekly loss in a row and its biggest weekly decline since mid-March.Financial companies were the strongest contributors to Friday’s advance. JPMorgan Chase gained 1.2%, Goldman Sachs climbed 2.3%, and the S&amp;amp;P 500 Banks index rose 1.1%.Robinhood shares surged 12.4% while cryptocurrency exchange Coinbase Global advanced 9.5%. Strategy, a major corporate holder of bitcoin, gained 7.4% as the cryptocurrency reached its highest level since late May.Most megacap and growth companies traded higher, with Meta and Tesla each rising more than 1%. Even so, technology stocks were heading for a weaker weekly performance than other sectors after a sharp increase in longer-term Treasury yields. Worries about expanding government debt, rising borrowing costs and persistent inflation had driven the yield on the 30-year Treasury bond to a 19-year high on Tuesday.A brief easing of those concerns followed U.S. Treasury Secretary Scott Bessent’s announcement on Thursday that the government might expand its Treasury repurchase program after Wednesday’s unexpected intervention. The relief, however, proved short-lived.Paul Stanley, managing director and founding adviser at Arca, said the enormous bond market was reflecting expectations of stronger economic growth and higher inflation, limiting the duration of the rebound. It is another brick in the market&amp;#x27;s wall of worry and ultimately, the market will likely resume its focus on the promise of AI and how companies are using this productivity to drive earnings, he said.At 9:50 a.m. ET, the Dow Jones Industrial Average had risen 361.71 points, or 0.68%, to 53,119.88. The S&amp;amp;P 500 was 29.02 points, or 0.39%, higher at 7,670.18, while the Nasdaq Composite had added 49.29 points, or 0.19%, to reach 26,116.66.Ross Stores climbed 4.2% after the discount retailer delivered second-quarter results that exceeded expectations and raised its full-year profit forecast.Geopolitical concerns continued to restrain risk-taking. Bessent said the United States would impose the toughest sanctions in history on Iran, suggesting that doing so could reduce the need for additional large-scale military action.The continuing deadlock between Washington and Tehran has lifted oil prices, although crude edged lower on Friday.UBS Global Wealth Management raised its year-end target for the S&amp;amp;P 500 to 8,100, citing an improved earnings outlook and continued strength in corporate profit growth.S&amp;amp;P Global’s preliminary US purchasing managers’ index reading came in at 53.2 for August, below the 53.9 forecast by economists surveyed by Reuters.Investors will focus next week on personal consumption expenditures data, the Federal Reserve’s preferred measure of inflation. Mild inflation readings released last week had reduced expectations that the central bank would raise interest rates in the near term.Markets will also closely follow Fed Chair Kevin Warsh’s address at the Jackson Hole symposium. Nvidia is due to release its quarterly results next week, providing another important test of investor enthusiasm for artificial intelligence.On the New York Stock Exchange, advancing shares outnumbered declining ones by 2.45 to 1. On the Nasdaq, the ratio was 2.23 to 1. The S&amp;amp;P 500 registered four new 52-week highs and two new lows. The Nasdaq Composite recorded 34 new highs and 33 new lows.(Disclaimer: This article is based on inputs from agencies. These do not represent the views of The Economic Times)&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>economic_times</wire:foundAt>
+      <wire:platform>The Economic Times</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-but-weekly-losses-loom/articleshow/133406374.cms</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Reuters reported</wire:evidence>
+    </item>
   </channel>
 </rss>
