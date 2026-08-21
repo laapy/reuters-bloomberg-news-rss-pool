@@ -1,11 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Investing.com — diagnostic source feed</title>
     <link>https://www.investing.com/rss/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Fri, 21 Aug 2026 11:57:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 12:53:20 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>US equity funds draw inflows despite market pressures</title>
+      <link>https://www.investing.com/news/stock-market-news/us-equity-funds-draw-inflows-despite-market-pressures-4871516</link>
+      <guid isPermaLink="false">a792fa2f5b6a32a27649935e</guid>
+      <pubDate>Fri, 21 Aug 2026 12:31:17 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/us-equity-funds-draw-inflows-despite-market-pressures-4871516</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>Eric Trump-backed Space-Eyes to appoint ex-Delta Force officer and ex-banker, sources say</title>
+      <link>https://www.investing.com/news/stock-market-news/eric-trumpbacked-spaceeyes-to-appoint-exdelta-force-officer-and-exbanker-sources-say-4871527</link>
+      <guid isPermaLink="false">847a8fe055ff9e7b7e79cfdb</guid>
+      <pubDate>Fri, 21 Aug 2026 12:30:49 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/eric-trumpbacked-spaceeyes-to-appoint-exdelta-force-officer-and-exbanker-sources-say-4871527</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>
