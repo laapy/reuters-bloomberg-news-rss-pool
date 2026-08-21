@@ -1,74 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss version="2.0">
   <channel>
     <title>Yahoo Finance — diagnostic source feed</title>
     <link>https://finance.yahoo.com/news/rssindex</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Fri, 21 Aug 2026 05:36:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 06:53:21 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>US CFTC seeks comment on compute derivatives as AI demand grows</title>
-      <link>https://finance.yahoo.com/markets/options/articles/us-cftc-seeks-compute-derivatives-173923161.html</link>
-      <guid isPermaLink="false">5321ab5d20a9529bd617ac1d</guid>
-      <pubDate>Wed, 19 Aug 2026 17:39:23 +0000</pubDate>
-      <description>The U.S. Commodity Futures Trading Commission said on Wednesday it was seeking public comment on compute derivatives contracts, as the AI boom drives deman...</description>
-      <dc:creator>Reuters</dc:creator>
-      <content:encoded>&lt;p&gt;US CFTC seeks comment on compute derivatives as AI demand grows&lt;/p&gt;&lt;p&gt;Signage is seen outside of CFTC in Washington, D.C. · Reuters
-Reuters
-Wed, August 19, 2026 at 1:39 PM EDT 1 min read&lt;/p&gt;&lt;p&gt;Aug 19 (Reuters) - The U.S. Commodity Futures Trading Commission said on Wednesday it was seeking public comment on compute derivatives contracts, as the AI boom drives demand for new market products tied to computing power.
-The request is an early step by the derivatives regulator toward setting rules for markets that could help companies and investors manage the cost and availability of compute, a critical input for artificial intelligence.&lt;/p&gt;&lt;p&gt;Here are some details:
-• Wall Street investors have chased the AI trade for years, betting on companies and assets poised to benefit from the technology&amp;#x27;s rapid adoption.
-• The derivatives regulator said it is seeking comments on compute cash markets, market oversight and manipulation concerns, customer protection and perpetual compute futures.
-• &amp;quot;America cannot win the AI race without a robust derivatives market for compute,&amp;quot; CFTC Chairman Michael Selig said in a statement.
-• &amp;quot;This request for comment is the first step toward establishing clear rules of the road for American compute markets,&amp;quot; he added.
-• The rapid expansion of AI has increased demand for computing power, prompting questions about how companies can hedge exposure to compute costs and availability.
-(Reporting by Manya Saini in Bengaluru; Editing by Tasim Zahid)&lt;/p&gt;&lt;p&gt;View Comments&lt;/p&gt;&lt;p&gt;Terms and Privacy Policy
-Your Privacy Choices
-More Info&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_finance_global</wire:foundAt>
-      <wire:platform>Yahoo Finance</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>article page metadata</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://finance.yahoo.com/markets/options/articles/us-cftc-seeks-compute-derivatives-173923161.html</wire:canonicalUrl>
-      <wire:evidence>structured credit: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>Payments firm Stripe to buy marketplace OpenRouter in AI push</title>
-      <link>https://finance.yahoo.com/technology/ai/articles/payments-firm-stripe-buy-ai-173651437.html</link>
-      <guid isPermaLink="false">1f2f46fd3965f334903a0582</guid>
-      <pubDate>Wed, 19 Aug 2026 17:36:51 +0000</pubDate>
-      <description>Payments firm Stripe said on Wednesday it had agreed to buy OpenRouter, which helps businesses route and optimize token usage, its latest bet on the fast-gr...</description>
-      <dc:creator>Aditya Soni and Arasu Kannagi Basil</dc:creator>
-      <content:encoded>&lt;p&gt;Payments firm Stripe to buy marketplace OpenRouter in AI push&lt;/p&gt;&lt;p&gt;1 / 2
-Payments firm Stripe to buy marketplace OpenRouter in AI push Photo illustration of a Stripe logo&lt;/p&gt;&lt;p&gt;Aditya Soni and Arasu Kannagi Basil
-Wed, August 19, 2026 at 1:36 PM EDT 2 min read&lt;/p&gt;&lt;p&gt;STRI.PVT&lt;/p&gt;&lt;p&gt;By Aditya Soni and Arasu Kannagi Basil
-Aug 19 (Reuters) - Payments firm Stripe said on Wednesday it had agreed to buy OpenRouter, which helps businesses route and optimize token usage, its latest bet on the fast-growing AI industry.
-While the companies did not disclose the value of the deal, a source familiar with the matter, who requested anonymity to discuss confidential information, told Reuters it was worth slightly more than $8 billion.&lt;/p&gt;&lt;p&gt;The deal comes as soaring bills drive companies toward cheaper models and routing tools like OpenRouter, and deepens a year-long push by the fintech into AI . The push has included launching products like token billing to track AI model consumption.
-AI marketplace platforms like OpenRouter allow developers to send queries to dozens of AI models through a single interface, making them a popular testing ground for new systems.
-&amp;quot;Tokens are the central currency for companies building with AI, and it&amp;#x27;s clear that the real-world economic potential will depend on making good use of scarce compute resources,&amp;quot; Stripe CEO Patrick Collison said.
-Stripe declined to comment on the purchase price, while OpenRouter did not immediately respond to Reuters&amp;#x27; request for comment.
-OpenRouter, which was founded in 2023, processes more than 10 trillion tokens per day from more than 400 AI models for a community of over 10 million developers and companies.
-A Deloitte report in March found that most surveyed companies with annual revenue of at least $500 million expect to consume more than 10 billion tokens per month by 2028.&lt;/p&gt;&lt;p&gt;OpenRouter has raised capital from heavyweights such as Menlo Ventures and Andreessen Horowitz. In May, the firm raised $113 million in a funding round led by Alphabet&amp;#x27;s independent growth fund CapitalG.
-Stripe, which was valued at $159 billion in a tender offer earlier this year, has made a joint offer with private equity firm Advent International to buy PayPal for more than $53 billion, Reuters reported last month.
-Businesses running on Stripe generated $1.9 trillion in total volume last year, a 34% jump from 2024.
-(Reporting by Aditya Soni, Arasu Kannagi Basil and Prakhar Srivastava in Bengaluru; Editing by Vijay Kishore)&lt;/p&gt;&lt;p&gt;View Comments&lt;/p&gt;&lt;p&gt;Terms and Privacy Policy
-Your Privacy Choices
-More Info&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_finance_global</wire:foundAt>
-      <wire:platform>Yahoo Finance</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>article page metadata</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://finance.yahoo.com/technology/ai/articles/payments-firm-stripe-buy-ai-173651437.html</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: Reporting by Aditya Soni, Arasu Kannagi Basil and Prakhar Srivastava in Bengaluru; Editing by</wire:evidence>
-    </item>
   </channel>
 </rss>
