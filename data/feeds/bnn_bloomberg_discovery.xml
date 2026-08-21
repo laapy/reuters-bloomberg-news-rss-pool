@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Abnnbloomberg.ca+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Fri, 21 Aug 2026 03:53:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 04:41:59 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>The bond market swings back to worries and knocks U.S. stocks lower</title>
@@ -77,21 +77,6 @@
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/08/20/trump-keeps-embracing-data-centres-even-as-they-become-toxic-in-midterm-races/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Why U.S. Treasury Secretary Bessent’s moves to calm the bond market haven’t worked so far</title>
-      <link>https://www.bnnbloomberg.ca/business/international/2026/08/20/why-us-treasury-secretary-bessents-moves-to-calm-the-bond-market-havent-worked-so-far/</link>
-      <guid isPermaLink="false">41db0a4954bfb9d1be7a8c4d</guid>
-      <pubDate>Thu, 20 Aug 2026 12:51:00 +0000</pubDate>
-      <description>The yield on the 10-year Treasury note, a key benchmark for mortgage rates, rose back to 4.69 per cent Thursday.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/international/2026/08/20/why-us-treasury-secretary-bessents-moves-to-calm-the-bond-market-havent-worked-so-far/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -197,6 +182,21 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/08/20/walmart-strong-again-in-second-quarter-but-its-outlook-is-reserved/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>WestJet ordered to scrap weight cap on power wheelchairs</title>
+      <link>https://www.bnnbloomberg.ca/business/company-news/2026/08/20/westjet-ordered-to-scrap-weight-cap-on-power-wheelchairs/</link>
+      <guid isPermaLink="false">a00e1d815afd1fb8ca8fa80a</guid>
+      <pubDate>Thu, 20 Aug 2026 02:15:00 +0000</pubDate>
+      <description>Canada’s transport regulator says WestJet is imposing an “undue barrier” on travellers living with a disability by effectively barring some power wheelchairs from its planes.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/08/20/westjet-ordered-to-scrap-weight-cap-on-power-wheelchairs/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
