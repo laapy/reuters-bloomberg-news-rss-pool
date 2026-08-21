@@ -1,11 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Investing.com — diagnostic source feed</title>
     <link>https://www.investing.com/rss/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Fri, 21 Aug 2026 16:48:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 17:32:58 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Exclusive-US plans $725 million payment towards its large UN debt</title>
+      <link>https://www.investing.com/news/economy-news/exclusiveus-plans-725-million-payment-towards-its-large-un-debt-4871986</link>
+      <guid isPermaLink="false">5e01fd21c0f280d681bd9f0d</guid>
+      <pubDate>Fri, 21 Aug 2026 17:06:54 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/economy-news/exclusiveus-plans-725-million-payment-towards-its-large-un-debt-4871986</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>Lula, Trump discuss tariffs in phone call, Brazil says</title>
+      <link>https://www.investing.com/news/economy-news/lula-trump-discuss-tariffs-in-phone-call-brazil-says-4871985</link>
+      <guid isPermaLink="false">d1a90e70b13070b70e6804e9</guid>
+      <pubDate>Fri, 21 Aug 2026 17:06:39 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/economy-news/lula-trump-discuss-tariffs-in-phone-call-brazil-says-4871985</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>
