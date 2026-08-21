@@ -1,45 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss version="2.0">
   <channel>
     <title>Investing.com — diagnostic source feed</title>
     <link>https://www.investing.com/rss/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Fri, 21 Aug 2026 15:38:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 16:48:04 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>JPMorgan hiring Bank of America’s David Fishman as head of technology M&amp;A, memo says</title>
-      <link>https://www.investing.com/news/stock-market-news/jpmorgan-hiring-bank-of-americas-david-fishman-as-head-of-technology-ma-memo-says-4871897</link>
-      <guid isPermaLink="false">e4b705140574a0ea84a8dc7f</guid>
-      <pubDate>Fri, 21 Aug 2026 15:25:02 +0000</pubDate>
-      <description />
-      <dc:creator>Reuters</dc:creator>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>investing_news</wire:foundAt>
-      <wire:platform>Investing.com</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>link_only</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/jpmorgan-hiring-bank-of-americas-david-fishman-as-head-of-technology-ma-memo-says-4871897</wire:canonicalUrl>
-      <wire:evidence>structured credit: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>Analysis-US corporate AI debt surge tests investor limits as fatigue emerges</title>
-      <link>https://www.investing.com/news/stock-market-news/analysisus-corporate-ai-debt-surge-tests-investor-limits-as-fatigue-emerges-4871227</link>
-      <guid isPermaLink="false">e3cec15dc3438630b05eff55</guid>
-      <pubDate>Fri, 21 Aug 2026 15:22:15 +0000</pubDate>
-      <description />
-      <dc:creator>Reuters</dc:creator>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>investing_news</wire:foundAt>
-      <wire:platform>Investing.com</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>link_only</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/analysisus-corporate-ai-debt-surge-tests-investor-limits-as-fatigue-emerges-4871227</wire:canonicalUrl>
-      <wire:evidence>structured credit: Reuters</wire:evidence>
-    </item>
   </channel>
 </rss>
