@@ -1,56 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss version="2.0">
   <channel>
     <title>Yahoo Finance — diagnostic source feed</title>
     <link>https://finance.yahoo.com/news/rssindex</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Fri, 21 Aug 2026 19:30:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 19:52:42 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>Alibaba profit falls 75% after ramping up AI infrastructure spending</title>
-      <link>https://finance.yahoo.com/markets/stocks/articles/alibaba-beats-quarterly-revenue-estimates-093547658.html</link>
-      <guid isPermaLink="false">e751c0c2464334e949aca580</guid>
-      <pubDate>Thu, 20 Aug 2026 09:35:47 +0000</pubDate>
-      <description>China's Alibaba reported a 75% fall in quarterly net profit on Thursday as the tech giant heavily ramped up AI capital expenditure, betting future growth on...</description>
-      <dc:creator>Laurie Chen and Harshita Mary Varghese</dc:creator>
-      <content:encoded>&lt;p&gt;Alibaba profit falls 75% after ramping up AI infrastructure spending&lt;/p&gt;&lt;p&gt;China International Fair for Trade in Services, in Beijing · Reuters
-Laurie Chen and Harshita Mary Varghese
-Thu, August 20, 2026 at 2:35 AM PDT 4 min read&lt;/p&gt;&lt;p&gt;BABA
--8.40%&lt;/p&gt;&lt;p&gt;Trade BABA on Coinbase Trading disclosure&lt;/p&gt;&lt;p&gt;Trading disclosure The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.
-Learn more&lt;/p&gt;&lt;p&gt;By Laurie Chen and Harshita Mary Varghese
-Aug 20 (Reuters) - China&amp;#x27;s Alibaba reported a 75% fall in quarterly net profit on Thursday as the tech giant heavily ramped up AI capital expenditure, betting future growth on its enterprise cloud and AI model services.
-The group reported a 9% rise in revenue for April-June, as strong AI demand fuelled growth in its cloud business. Demand for the cloud computing power needed to train and run enterprise AI systems has surged, benefiting China&amp;#x27;s largest technology companies.&lt;/p&gt;&lt;p&gt;CEO Eddie Wu said that the company expects to break even on AI-related capex within the next three years based on current average gross margins, after having already spent this year half of its 380 billion yuan ($56.4 billion) AI investment planned for 2026-29.
-&amp;quot;In order to be able to capture that future growth, we first need to make these capex investments to build out the necessary compute capacity,&amp;quot; Wu told an earnings call.
-&amp;quot;As we ramp up deployment of our own proprietary chips in our data centres ... and replace commercially procured chips, we can expect to see substantially higher gross margin as well as profitability.&amp;quot;
-Alibaba, China&amp;#x27;s biggest cloud services provider, has sharply increased investment in AI infrastructure, proprietary models and applications, positioning the technology as a key growth driver for its cloud and consumer businesses.
-The company&amp;#x27;s AI cloud and compute services revenue rose 45% to 48.44 billion yuan in the June quarter, backed by strong growth in its AI model-as-a-service business, which has surpassed 16 billion yuan in annual recurring revenue.&lt;/p&gt;&lt;p&gt;Alibaba&amp;#x27;s adjusted earnings per American Depositary Share of 8.52 yuan missed estimates of 10.53 yuan and its U.S.-listed shares fell 4.6% in early morning trading.
-Alibaba&amp;#x27;s capital expenditure rose 75% to 67.68 billion yuan in April-June, the group&amp;#x27;s first quarter, as it increased procurement of CPU chips due to AI agent demand and semiconductor component prices went up.
-The company reported revenue of 268.95 billion yuan in the first quarter, compared with an average analyst estimate of 268.88 billion yuan, data compiled by LSEG showed.
-DOMESTIC AI, CHIP RACE
-Alibaba is locked in a battle with other Chinese tech giants and startups to release more capable, low-cost frontier AI models, highlighting the rapid pace of advancement of Chinese AI models and their shorter release cycles.
-But as competition heats up, firms are pivoting towards offering better agentic and coding capabilities to capture more of China&amp;#x27;s lucrative domestic enterprise market.&lt;/p&gt;&lt;p&gt;Story Continues&lt;/p&gt;&lt;p&gt;Alibaba is also a major investor in other Chinese frontier AI startups including Moonshot, and supplies it with cloud computing infrastructure.
-Advanced chips produced by Alibaba&amp;#x27;s in-house unit T-head are already being deployed at scale on &amp;quot;supernodes&amp;quot; - massive server racks linking hundreds of semiconductors together - for AI model training and inference, Wu said. The company is banking on scaling up deployment of its in-house chips to reduce capex costs and to generate future revenue.
-Wu said the company will continue to invest in developing frontier AI models even though current monetisation remains inadequate, because it is committed to reaching artificial general intelligence (AGI) - where autonomous systems surpass human intelligence.
-AI model companies &amp;quot;have their eyes on that ultimate end game, where I think that the monetisation level will be significantly higher, much higher than what you see today,&amp;quot; he said.
-Earlier this year Alibaba split its AI businesses from its cloud computing arm and tasked Wu with leading the &amp;quot;Alibaba Token Hub&amp;quot; group, as it races to make its AI segment profitable.&lt;/p&gt;&lt;p&gt;Alibaba recently reorganised its businesses into four main units: e-commerce, AI cloud and computing services, AI model applications and other units.
-Alibaba expects its quick commerce business to achieve overall profitability in the fiscal year 2029, and acknowledged &amp;quot;short-term macroeconomic challenges&amp;quot; impacting China&amp;#x27;s domestic e-commerce landscape, Chief Financial Officer Toby Xu said on the call.
-Alibaba&amp;#x27;s fintech affiliate Ant Group reported 1% year-on-year growth in quarterly profit, Reuters calculations showed, as it has attempted to pivot towards agentic AI commerce, AI digital health applications and embodied AI models in recent years.
-($1 = 6.7218 Chinese yuan renminbi)
-(Reporting by Harshita Mary Varghese in Bengaluru and Laurie Chen in Beijing; Editing by Maju Samuel, Alexander Smith and Susan Fenton)&lt;/p&gt;&lt;p&gt;View Comments&lt;/p&gt;&lt;p&gt;Terms and Privacy Policy
-Your privacy controls
-WA Consumer Health Privacy Policy
-More Info&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_finance_global</wire:foundAt>
-      <wire:platform>Yahoo Finance</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>article page metadata</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://finance.yahoo.com/markets/stocks/articles/alibaba-beats-quarterly-revenue-estimates-093547658.html</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: Reporting by Harshita Mary Varghese in Bengaluru and Laurie Chen in Beijing; Editing by</wire:evidence>
-    </item>
   </channel>
 </rss>
