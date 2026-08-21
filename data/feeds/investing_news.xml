@@ -1,11 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Investing.com — diagnostic source feed</title>
     <link>https://www.investing.com/rss/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 20 Aug 2026 23:54:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 01:26:36 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Gold steadies, heads for third straight weekly gain</title>
+      <link>https://www.investing.com/news/stock-market-news/gold-steadies-heads-for-third-straight-weekly-gain-4870707</link>
+      <guid isPermaLink="false">c141277226afcf7155e5b980</guid>
+      <pubDate>Fri, 21 Aug 2026 01:00:26 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/gold-steadies-heads-for-third-straight-weekly-gain-4870707</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>
