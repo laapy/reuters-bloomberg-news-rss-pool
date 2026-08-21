@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Aswissinfo.ch+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Fri, 21 Aug 2026 12:53:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 13:48:51 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Stocks and Bonds Rise as Oil Ends Run of Gains: Markets Wrap</title>
@@ -68,20 +68,16 @@
       <title>Swiss Voters Are Set to Reject Stricter Neutrality, Poll Shows</title>
       <link>https://www.swissinfo.ch/eng/swiss-voters-are-set-to-reject-stricter-neutrality%2c-poll-shows/91931512</link>
       <guid isPermaLink="false">d4b135e84bdb8068febef88a</guid>
-      <pubDate>Fri, 21 Aug 2026 04:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 23:00:00 +0000</pubDate>
       <description>A plebiscite on making Switzerland’s traditional neutrality stricter is likely to be rejected by the country’s voters, according to a poll ahead of the Sept. 27 ballot measure.</description>
-      <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;Battle is on to preserve legacy of dying Swiss shoe brand Bally&lt;/p&gt;&lt;p&gt;Read more: Battle is on to preserve legacy of dying Swiss shoe brand Bally&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>swissinfo_discovery</wire:foundAt>
       <wire:platform>SWI swissinfo.ch</wire:platform>
-      <wire:relation>repost</wire:relation>
+      <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
+      <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.swissinfo.ch/eng/swiss-voters-are-set-to-reject-stricter-neutrality%2c-poll-shows/91931512</wire:canonicalUrl>
-      <wire:evidence>structured credit: Bloomberg</wire:evidence>
+      <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
       <title>Asian Bonds Follow Treasuries Lower, Stocks Rise: Markets Wrap</title>
@@ -189,18 +185,21 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Chip Rout Pulls Stocks Down as Bond Angst Lingers: Markets Wrap</title>
-      <link>https://www.swissinfo.ch/eng/chip-rout-pulls-stocks-down-as-bond-angst-lingers%3a-markets-wrap/91912277</link>
-      <guid isPermaLink="false">ae563412e46b1cc8e94741e8</guid>
-      <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
-      <description>A selloff in chipmakers sent stocks lower, with the market also falling as inflation anxiety and rising government debt kept bond yields elevated.</description>
+      <title>Record numbers of cranes are flying over Switzerland this spring</title>
+      <link>https://www.swissinfo.ch/eng/various/record-numbers-of-cranes-are-currently-flying-over-switzerland/91030128</link>
+      <guid isPermaLink="false">71f53510725107af13e12304</guid>
+      <pubDate>Tue, 03 Mar 2026 13:52:00 +0000</pubDate>
+      <description>Read more: When a former Swiss foreign minister turns her hand to acting Swiss drag queen faces Chinese repression Read more: Swiss drag queen faces Chinese repression Switzerland seeks to build role ...</description>
+      <dc:creator>swissinfo.ch</dc:creator>
+      <content:encoded>&lt;p&gt;Battle is on to preserve legacy of dying Swiss shoe brand Bally&lt;/p&gt;&lt;p&gt;Read more: Battle is on to preserve legacy of dying Swiss shoe brand Bally&lt;/p&gt;</content:encoded>
       <wire:foundAt>swissinfo_discovery</wire:foundAt>
       <wire:platform>SWI swissinfo.ch</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.swissinfo.ch/eng/chip-rout-pulls-stocks-down-as-bond-angst-lingers%3a-markets-wrap/91912277</wire:canonicalUrl>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.swissinfo.ch/eng/various/record-numbers-of-cranes-are-currently-flying-over-switzerland/91030128</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
