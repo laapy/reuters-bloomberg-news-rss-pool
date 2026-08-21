@@ -1,11 +1,80 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Yahoo Finance — diagnostic source feed</title>
     <link>https://finance.yahoo.com/news/rssindex</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Fri, 21 Aug 2026 19:52:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 20:30:31 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>3 Harvard dropouts just hit a $21B valuation with a chip they say beats Nvidia's best. Should NVDA investors worry?</title>
+      <link>https://finance.yahoo.com/technology/ai/articles/3-harvard-dropouts-just-hit-110000286.html</link>
+      <guid isPermaLink="false">f1c892d8eb29d99d079a79a2</guid>
+      <pubDate>Thu, 20 Aug 2026 11:00:00 +0000</pubDate>
+      <description>After securing $1 billion in sales, Etched claims its chips are the future of AI inference.</description>
+      <dc:creator>Eric Esposito</dc:creator>
+      <content:encoded>&lt;p&gt;3 Harvard dropouts just hit a $21B valuation with a chip they say beats Nvidia&amp;#x27;s best. Should NVDA investors worry?&lt;/p&gt;&lt;p&gt;Eric Esposito
+Thu, August 20, 2026 at 7:00 AM EDT 5 min read&lt;/p&gt;&lt;p&gt;NVDA
+-0.98%&lt;/p&gt;&lt;p&gt;Trade NVIDIA on Coinbase Trading disclosure&lt;/p&gt;&lt;p&gt;Trading disclosure The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.
+Learn more&lt;/p&gt;&lt;p&gt;It&amp;#x27;s become a bit boring to hear stories of 20-something techies launching multi-billion-dollar startups from their dorms. However, these tales of online riches usually center around software.
+That&amp;#x27;s what makes Etched different.
+Must Read Jeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one&lt;/p&gt;&lt;p&gt;Dave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake.  Here&amp;#x27;s what it is and 3 simple steps to fix it ASAP&lt;/p&gt;&lt;p&gt;The tax breaks in Trump&amp;#x27;s &amp;#x27;big beautiful bill&amp;#x27; expire after 2028. Here are 4 moves to make before the window closes&lt;/p&gt;&lt;p&gt;Gavin Uberti, Robert Wachen and Chris Zhu — a trio of math whiz Harvard dropouts — founded this San Jose startup to build next-gen AI semiconductors. Despite Etched&amp;#x27;s youthful leaders and its short history, some experts are already saying it has a chance of chipping away at giants such as Nvidia [NASDAQ: NVDA].
+What&amp;#x27;s really got people talking about Etched&amp;#x27;s prospects is its latest press release , where the company made two huge announcements related to the quant trading firm Jane Street. Not only is Jane Street the first customer to buy an AI rack from Etched, it&amp;#x27;s leading a $700 million funding round that values the startup at $21 billion . According to Reuters, that&amp;#x27;s double Etched&amp;#x27;s estimated valuation from one month ago.
+Besides Jane Street, plenty of other big-name investment firms like Sequoia Capital, Andreessen Horowitz and Blackstone want an early piece of Etched. Recent reports also show Etched is having an easy time finding demand for its chips. The company says it already inked deals for its products totaling over $1 billion.&lt;/p&gt;&lt;p&gt;Why is everyone ecstatic about Etched? Etched is focused on making &amp;quot;inference&amp;quot; — where a trained AI model responds to your questions or performs a task — more efficient than the now-dominant Nvidia GPUs. To do this, the company highlights two major innovations : Low voltage inference (LVI) and Cluster Scale Memory (CSM).
+LVI focuses on using less electricity to keep AI chips running at high speeds without overheating, while CSM connects chips to a shared pool of memory so they can access information much faster. So, LVI helps the system work harder without getting too hot, while CSM helps it get the data it needs quicker.
+According to initial reports, the so-called &amp;quot;frontier inference clusters&amp;quot; that Etched is building have already produced impressive results. For instance, The Wall Street Journal reported that Etched&amp;#x27;s chips can perform communications tasks within 700 nanoseconds , while it takes Nvidia&amp;#x27;s Blackwell processor 4,000 nanoseconds.&lt;/p&gt;&lt;p&gt;Story Continues&lt;/p&gt;&lt;p&gt;Read More: Vanguard reveals what&amp;#x27;s coming for U.S. stocks — and it could be bad news for this group of investors
+Etched also boasted that it only took 44 days to transition its test chips from Taiwan Semiconductor Manufacturing to running real AI workloads. On average, this process takes roughly 6 months, The Journal reports.
+It&amp;#x27;s this speed that has so many investors excited, including Patrick O&amp;#x27;Shaughnessy, the founder and CEO of venture capitalist firm Positive Sum. As O&amp;#x27;Shaughnessy told The Journal, &amp;quot;They move faster than anyone I&amp;#x27;ve ever dealt with, especially in hardware, which typically moves really slowly.&amp;quot;
+Will Etched erase Nvidia&amp;#x27;s dominance? All of these impressive figures have some investors wondering about Nvidia&amp;#x27;s dominance in the AI inference market — and it&amp;#x27;s not just about Etched&amp;#x27;s hardware.
+Since its founding, Etched has successfully poached top talent from Nvidia (as well as Google, Broadcom and SK Hynix) in its team of more than 400 employees. The Journal claims that approximately 15% of Etched&amp;#x27;s staff came directly from Nvidia.&lt;/p&gt;&lt;p&gt;After reading through all of this news, famed short seller Michael Burry posted a link to The Journal&amp;#x27;s report on X and speculated, &amp;quot; This is serious competition for NVDA .&amp;quot;
+But does that mean Nvidia&amp;#x27;s competitive edge is truly at risk? First off, remember that Burry isn&amp;#x27;t an unbiased observer. An article in The Journal revealed that he profits from his Nvidia short positions if shares fall to $110 by 2027.
+Also, a few financial analysts point out that Etched is still in its early phases and has many unanswered questions. As Cerity Partners&amp;#x27; Investment Strategist Michael Ashley Schulman cautioned in a Reuters interview, &amp;quot;Etched has impressive technology and serious customer interest, but semiconductor history is littered with brilliant chips that never became great businesses.&amp;quot;
+Keep in mind that Etched&amp;#x27;s technology is specialized for inference, whereas Nvidia sells a much broader computing platform that can handle both training and inference . Plus, even though Etched&amp;#x27;s stats are impressive, it&amp;#x27;s still competing with a company that commands a $5.3 trillion market cap .&lt;/p&gt;&lt;p&gt;All of that doesn&amp;#x27;t mean Etched isn&amp;#x27;t worth watching or that it can&amp;#x27;t steal market share in the inference space. But right now, panicking over a long-term Nvidia position might be premature.
+What To Read Next Millionaires under 43 hold only 25% of their wealth in stocks. Here&amp;#x27;s where their money is actually going&lt;/p&gt;&lt;p&gt;Here&amp;#x27;s the average income of Americans by age in 2026. Are you keeping up or falling behind?&lt;/p&gt;&lt;p&gt;Robert Kiyosaki says China is &amp;#x27;dumping&amp;#x27; the US as America piles on debt. Fortify your riches with 4 key assets&lt;/p&gt;&lt;p&gt;This fund has historically paid 8% or higher for 25 months, with just a $100 minimum to start — 4 ways to grow your cash without the stock market&lt;/p&gt;&lt;p&gt;Join 250,000+ readers and get Moneywise&amp;#x27;s best stories and exclusive interviews first — clear insights curated and delivered weekly. Subscribe now .
+This article originally appeared on Moneywise.com under the title: 3 Harvard dropouts just hit a $21B valuation with a chip they say beats Nvidia&amp;#x27;s best. Should NVDA investors worry?
+This article provides information only and should not be construed as advice. It is provided without warranty of any kind.&lt;/p&gt;&lt;p&gt;View Comments&lt;/p&gt;&lt;p&gt;Terms and Privacy Policy
+Your Privacy Choices
+More Info&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_finance_global</wire:foundAt>
+      <wire:platform>Yahoo Finance</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>article page metadata</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://finance.yahoo.com/technology/ai/articles/3-harvard-dropouts-just-hit-110000286.html</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: According to Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>Shein postpones Hong Kong debut to September, SCMP reports</title>
+      <link>https://finance.yahoo.com/markets/stocks/articles/shein-postpones-hong-kong-debut-105012061.html</link>
+      <guid isPermaLink="false">10f2ea87c1efdd728ddf466b</guid>
+      <pubDate>Thu, 20 Aug 2026 10:50:12 +0000</pubDate>
+      <description>Aug 20 () - Shein has pushed back its market debut in Hong Kong until September following a slight delay in taking investor orders for the fast-fashion ret...</description>
+      <dc:creator>Reuters</dc:creator>
+      <content:encoded>&lt;p&gt;Shein postpones Hong Kong debut to September, SCMP reports&lt;/p&gt;&lt;p&gt;FILE PHOTO: Packs of clothing are displayed at a garment factory for Shein in Panyu District, Guangzhou, Guangdong province, China, July 27, 2026. REUTERS/Go Nakamura/File Photo · Reuters
+Reuters
+Thu, August 20, 2026 at 6:50 AM EDT 1 min read&lt;/p&gt;&lt;p&gt;Aug 20 (Reuters) - Shein has pushed back its market debut in Hong Kong until September following a slight delay in taking investor orders for the fast-fashion retailer&amp;#x27;s IPO at a reduced valuation, the South China Morning Post reported on Thursday.
+Shein plans to introduce multiple cornerstone investors, although most positions will be taken up by existing shareholders, the report said, citing sources familiar with the matter.&lt;/p&gt;&lt;p&gt;Shein did not immediately respond to a Reuters request for comment.
+Reuters reported on Monday that Shein is aiming to launch its much-awaited Hong Kong IPO later this week at a valuation just a quarter of the nearly $100 billion number seen in a share sale four years ago. The firm&amp;#x27;s valuation was likely to be around $25 billion in the IPO, Reuters reported, a drop from the $30 billion to $40 billion range speculated at the beginning of this month, just after it began investor meetings on the issue.
+Founded in China in 2012, Shein is best known for selling $5 dresses and $10 jeans to shoppers in about 160 countries.
+The South China Morning Post report said that the company now intends to start book-building from August 24. It had originally aimed to complete the entire IPO process by the end of August.
+Investment banks involved in the deal are considering arranging their own funds to serve as cornerstone investors, the report added.
+(Reporting by Nikita Maria Jino in Bengaluru; Editing by Mrigank Dhaniwala)&lt;/p&gt;&lt;p&gt;View Comments&lt;/p&gt;&lt;p&gt;Terms and Privacy Policy
+Your Privacy Choices
+More Info&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_finance_global</wire:foundAt>
+      <wire:platform>Yahoo Finance</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>article page metadata</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://finance.yahoo.com/markets/stocks/articles/shein-postpones-hong-kong-debut-105012061.html</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>

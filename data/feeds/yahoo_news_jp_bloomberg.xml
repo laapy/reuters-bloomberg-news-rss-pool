@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Fri, 21 Aug 2026 19:52:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 20:30:31 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>アポロにサイバー攻撃、個人情報にアクセス－ファンドへの攻撃相次ぐ</title>
@@ -24,6 +24,25 @@
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://news.yahoo.co.jp/articles/1fc583821a73ed6f48700b2fb5564b3ea7026aaf</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>シタデル、シチュエーショナル関連の投資案件を売却－40億ドル超</title>
+      <link>https://news.yahoo.co.jp/articles/79113ce709c23d173ce7141e2a74dbe1e5128f29</link>
+      <guid isPermaLink="false">fbf6071ce1d464b26492ad6c</guid>
+      <pubDate>Fri, 21 Aug 2026 16:41:49 +0000</pubDate>
+      <description>（ブルームバーグ）：</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;（ブルームバーグ）： 資産家ケン・グリフィン氏率いるシタデルは、一時経営難に陥った米ヘッジファンド、シチュエーショナル・アウェアネスから引き取った株式ポートフォリオのうち、40億ドル（約6300億円）超を売却した。&lt;/p&gt;&lt;p&gt;グリフィン氏は、21日の投資家向け書簡で「これまでに取引先と緊密に連携し、当初のポートフォリオが抱えていたリスクの80%超を解消することができた。この過程で、100件近いブロック取引を実施し、その時価総額は合計40億ドルを超えた」と説明した。&lt;/p&gt;&lt;p&gt;シタデルは7月下旬、レオポルド・アッシェンブレナー氏率いるシチュエーショナル・アウェアネスから株式を買い取ることで合意した。同ファンドは銀行から相次ぎマージンコール（追加証拠金請求）を受けていたが、シタデルとの合意成立後、経営を安定させることができた。&lt;/p&gt;&lt;p&gt;グリフィン氏は書簡で「7月29日、シチュエーショナル・アウェアネスの保有資産の相当部分を取得するため協議に入った。この取引は同社のバランスシートを強化し、テールイベントが発生するリスクを軽減するものだった」と説明した。また、「われわれのチームは数時間のうちに、同社の世界各地にわたるポートフォリオを分析し、価格を算定した」と明らかにした。&lt;/p&gt;&lt;p&gt;シタデルの旗艦ヘッジファンド「シタデル・ウェリントン」は7月に5.94%上昇し、年初来のリターンは12.02%だった。シタデルの広報担当者は、投資家向け書簡についてコメントを控えた。&lt;/p&gt;&lt;p&gt;原題：Citadel Sold More Than $4 Billion of Situational Awareness Bets（抜粋）&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_bloomberg</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/79113ce709c23d173ce7141e2a74dbe1e5128f29</wire:canonicalUrl>
       <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
@@ -976,33 +995,6 @@ TDセキュリティーズのニューヨーク在勤ストラテジスト、ハ
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://news.yahoo.co.jp/articles/5d328c1d62e6602e44be78b21022e76e3d838e0c</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>中国アリババ、利益75%減－フリーキャッシュフロー流出1兆円超</title>
-      <link>https://news.yahoo.co.jp/articles/93aec68f0384e6b843476e3c50c1f3a17cb0d27d</link>
-      <guid isPermaLink="false">72b95b945f0ac6711c173e92</guid>
-      <pubDate>Thu, 20 Aug 2026 10:37:24 +0000</pubDate>
-      <description>（ブルームバーグ）： 中国の電子商取引最大手アリババグループの利益が急減した。AI投資を拡大する中で、国内市場で消費低迷が響いた。同社はオンライン小売りからAI開発へのシフトを進めている。
-
-アリババが20日発表した4－6月（第2四半期）決算では、純利益が前年同期比で約75%減少し105億元（約2470億円）となった。フリーキャッシュフローは66億ドル（約1兆円）を超える流出を記録。AIプロジェクトやコンピューティングインフラのコスト上昇が響いた。
-
-売上高は9%増と、市場予想に沿った水準。クラウド部門が提供するコンピューティング能力への需要が急増したことを反映した。
-
-原題：Alibaba’s Profit Dives 75% After Amping Up AI Spending (1)　（抜粋）
-
---取材協力：Zheping Huang、Mark</description>
-      <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;（ブルームバーグ）： 中国の電子商取引最大手アリババグループの利益が急減した。AI投資を拡大する中で、国内市場で消費低迷が響いた。同社はオンライン小売りからAI開発へのシフトを進めている。&lt;/p&gt;&lt;p&gt;アリババが20日発表した4－6月（第2四半期）決算では、純利益が前年同期比で約75%減少し105億元（約2470億円）となった。フリーキャッシュフローは66億ドル（約1兆円）を超える流出を記録。AIプロジェクトやコンピューティングインフラのコスト上昇が響いた。&lt;/p&gt;&lt;p&gt;売上高は9%増と、市場予想に沿った水準。クラウド部門が提供するコンピューティング能力への需要が急増したことを反映した。&lt;/p&gt;&lt;p&gt;原題：Alibaba’s Profit Dives 75% After Amping Up AI Spending (1)　（抜粋）&lt;/p&gt;&lt;p&gt;--取材協力：Zheping Huang、Mark Anderson.&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_bloomberg</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/93aec68f0384e6b843476e3c50c1f3a17cb0d27d</wire:canonicalUrl>
       <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
     </item>
   </channel>
