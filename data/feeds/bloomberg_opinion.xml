@@ -5,7 +5,7 @@
     <link>https://feeds.bloomberg.com/bview/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Fri, 21 Aug 2026 13:48:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 14:39:34 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Bessent Must Envy When the Grownups Were in Charge</title>
@@ -226,6 +226,23 @@
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/opinion/articles/2026-08-20/unitree-s-humanoids-have-a-long-march-to-usefulness</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Children of Blood and Bone Deserves More Than Social Media Speculation</title>
+      <link>https://www.bloomberg.com/opinion/articles/2026-08-13/children-of-blood-and-bone-deserves-more-than-social-media-speculation</link>
+      <guid isPermaLink="false">14e6452c5d37f48491b51a6a</guid>
+      <pubDate>Thu, 13 Aug 2026 11:00:19 +0000</pubDate>
+      <description>A lot could be riding on whether the film adaptation of the Black fantasy Children of Blood and Bone succeeds. It’s a familiar narrative: Black films are too often expected to justify the industry’s investment, leaving a single movie to determine whether another gets greenlit at all.The dearth of Black films on the big screen has been obvious to many moviegoers who have raised questions about it on social media, but studies have also shown how the industry has retreated from some of its diversit</description>
+      <dc:creator>Candice Frederick</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_opinion</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/opinion/articles/2026-08-13/children-of-blood-and-bone-deserves-more-than-social-media-speculation</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
   </channel>
