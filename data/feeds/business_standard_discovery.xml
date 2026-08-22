@@ -1,27 +1,39 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Business Standard — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Abusiness-standard.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 22 Aug 2026 04:37:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 05:32:48 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Tesla recalls nearly 3 mn vehicles in China over door handle safety risks</title>
+      <link>https://www.business-standard.com/world-news/tesla-recalls-nearly-3-mn-vehicles-in-china-over-door-handle-safety-risks-126082101582_1.html</link>
+      <guid isPermaLink="false">d2c66e7fa69c6a6bc76a00e5</guid>
+      <pubDate>Fri, 21 Aug 2026 21:04:00 +0000</pubDate>
+      <description>China has stepped up scrutiny recently on hidden, or flush, car door handles following EV accidents, in which cars' hidden electronic doors failed and trapped people inside ...</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.business-standard.com/world-news/tesla-recalls-nearly-3-mn-vehicles-in-china-over-door-handle-safety-risks-126082101582_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
     <item>
       <title>US set to impose 50% tariffs on $20 billion worth of Canadian products</title>
       <link>https://www.business-standard.com/world-news/us-set-to-impose-50-tariffs-on-20-billion-worth-of-canadian-products-126082200122_1.html</link>
       <guid isPermaLink="false">04234815dbba74a523f5adbd</guid>
-      <pubDate>Sat, 22 Aug 2026 03:55:43 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 20:55:00 +0000</pubDate>
       <description>President Donald Trump's import taxes will hit about 5% of what Canada ships to the United States every year, including products ranging from hockey sticks to tongue depressors ...</description>
-      <dc:creator>AP</dc:creator>
-      <content:encoded>&lt;p&gt;The United States was set to impose 50% tariffs on $20 billion worth of Canadian products early Saturday after last-ditch negotiations failed to resolve the latest strain in already tense relations between the historic allies.President Donald Trump&amp;#x27;s import taxes will hit about 5% of what Canada ships to the United States every year, including products ranging from hockey sticks to tongue depressors.But the political impact will likely be even bigger than the economic fallout. Canada has threatened to retaliate against any new tariffs with levies of its own, aggravating a trade fight between countries that sold each other $880 billion worth of goods and services last year.The tariffs were initially supposed to kick in at 12:01 a.m. Wednesday. But Trump extended the deadline for three days to allow talks to continue, but the two countries still could not reach an agreement in time.&lt;/p&gt;</content:encoded>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.business-standard.com/world-news/us-set-to-impose-50-tariffs-on-20-billion-worth-of-canadian-products-126082200122_1.html</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
@@ -29,58 +41,46 @@
       <title>OpenAI cuts developer pricing for GPT-5.6 Sol model by more than 20%</title>
       <link>https://www.business-standard.com/technology/tech-news/openai-cuts-developer-pricing-for-gpt-5-6-sol-model-by-more-than-20-126082200107_1.html</link>
       <guid isPermaLink="false">89e10338497ddb893cba92ab</guid>
-      <pubDate>Sat, 22 Aug 2026 03:20:07 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 20:20:00 +0000</pubDate>
       <description>The price cuts are effective on OpenAI's application programming interface, or API, and are rolling out across eligible plans for credits on its agentic AI product ChatGPT Work and Codex ...</description>
-      <dc:creator>Reuters</dc:creator>
-      <content:encoded>&lt;p&gt;OpenAI said on Friday ??it is cutting the prices of its frontier GPT-5.6 Sol model for developers by more than ??20% for the next three months, as the ChatGPT maker faces growing competition from Anthropic and Chinese AI models. The price cuts are effective on OpenAI&amp;#x27;s application programming interface, or API, and are rolling out across eligible plans for credits on its agentic AI product ChatGPT Work and its coding tool Codex, OpenAI said. Pricing for Pro, Plus and Business subscriptions remains unchanged, the company said. GPT-5.6 Sol is now priced at $4 per 1 million input tokens and $20 per 1 million output tokens for standard short-context use, according to OpenAI&amp;#x27;s pricing table. That compares with previous prices of $5 and $30, respectively. OpenAI late last month slashed ??prices of its smaller models. It cut pricesfor the mid-tier GPT-5.6 Terra model by 20% and for the lower-cost Luna model by 80%. Anthropic lists its frontier Claude Fable 5 model at $10 per 1 million input tokens and $50 per 1 million output tokens, while its Claude Opus 5 model is listed at $5 per 1 million input tokens and $25 per 1 million output tokens.  (Only the headline and picture of this report may have been reworked by the Business Standard staff; the rest of the content is auto-generated from a syndicated feed.)&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.business-standard.com/technology/tech-news/openai-cuts-developer-pricing-for-gpt-5-6-sol-model-by-more-than-20-126082200107_1.html</wire:canonicalUrl>
-      <wire:evidence>structured credit: Reuters</wire:evidence>
+      <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
       <title>Anthropic taps Google chip veteran Amir Salek as part of push into hardware</title>
       <link>https://www.business-standard.com/technology/tech-news/anthropic-taps-google-chip-veteran-amir-salek-as-part-of-push-into-hardware-126082200097_1.html</link>
       <guid isPermaLink="false">706a42ebbcbaf324e530e3ac</guid>
-      <pubDate>Sat, 22 Aug 2026 02:56:53 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 19:56:00 +0000</pubDate>
       <description>Anthropic, which buys chips from a variety of sources, including Nvidia Corp., Google and Amazon.com Inc., has indicated recently that it wants to build an in-house silicon business ...</description>
-      <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;By Dina Bass Anthropic PBC has hired Amir Salek, a founder of the custom chip programme at Alphabet Inc.’s Google, as the AI lab lays the groundwork for a push into making its own semiconductors.  Salek is joining the compute team of Anthropic, maker of the Claude platform, the AI company said Friday. The executive ran Google’s tensor processing unit business until 2022 and delivered the first seven generations of those chips. In the new role, Salek will report to James Bradbury.  Anthropic, which buys chips from a variety of sources, including Nvidia Corp., Google and Amazon.com Inc., has indicated recently that it wants to build an in-house silicon business. The San Francisco-based company has begun hiring and listing jobs for the effort.  Like other AI giants, Anthropic is scrambling to get enough data center infrastructure to support its ambitions. Custom chips would potentially help it cope with supply shortages and tailor designs to better meet its needs. Rival OpenAI, the company behind ChatGPT, is taking similar steps. It has unveiled a chip called Jalapeno, co-developed with Broadcom Inc., and plans to begin using it later this year. Read More: OpenAI, Broadcom Unveil Chip to Run Models Faster, Cheaper Anthropic is signing chip and data center capacity deals at a rapid clip — working with both established and emerging vendors. The company has an agreement with UK-based chip startup Fractile for an initial order of roughly $250 million of its chips, with the intention to expand that contract in the future, Bloomberg News has reported. The AI lab also recently signed capacity deals with Riot Platforms Inc. and Volta Infra Holdings Ltd. After leaving Google, Salek has been senior managing director at Cerberus Capital Management, a private equity firm co-founded by Deputy Secretary of Defense Stephen Feinberg. He also previously worked at Nvidia, the leading maker of AI processors.&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.business-standard.com/technology/tech-news/anthropic-taps-google-chip-veteran-amir-salek-as-part-of-push-into-hardware-126082200097_1.html</wire:canonicalUrl>
-      <wire:evidence>structured credit: Bloomberg</wire:evidence>
+      <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
       <title>Apple cuts jobs in Siri, Vision Pro immersive video, and gaming teams</title>
       <link>https://www.business-standard.com/technology/tech-news/apple-cuts-jobs-in-siri-vision-pro-immersive-video-and-gaming-teams-126082200095_1.html</link>
       <guid isPermaLink="false">3fcb4abacabebfa323f3fe94</guid>
-      <pubDate>Sat, 22 Aug 2026 02:50:53 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 19:50:00 +0000</pubDate>
       <description>Apple is also laying off employees in its Intelligent Systems Experience, a team within its software engineering organisation responsible for some of the AI features on its devices ...</description>
-      <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;By Mark Gurman Apple Inc. is cutting jobs across teams responsible for the Siri digital assistant and the Vision Pro headset, part of an effort to focus on new devices and artificial intelligence.  Apple is also laying off employees in its Intelligent Systems Experience, a team within its software engineering organisation responsible for some of the AI features on its devices, according to people with knowledge of the matter.  As part of the changes, the company is largely shutting down a Vision Pro team focused on gaming for the headset and reducing the size of a unit responsible for producing the device’s immersive video content, said the people, who asked not to be identified because the personnel moves haven’t been announced.  Altogether, the cuts affect more than 200 people, with about 100 positions eliminated from the Vision Pro organization and another 100 from the Siri and software teams. In a statement, Apple acknowledged that it was realigning some teams “to evolve our business to deliver the best experiences for our users.” “While we will create new roles as part of this change, it will also impact a limited number of existing roles,” the company said. “We are grateful to these team members for their contributions, and we are committed to supporting them throughout their transition, including opportunities to apply for other roles at Apple.” The Siri reshuffling is tied to an upcoming AI-infused version of the assistant, which is built on a new technical architecture. That shift requires a change in the necessary expertise, prompting the company to eliminate a small number of existing roles, reallocate resources and create new positions supporting the updated Siri. The changes to the Intelligent Systems Experience team reflect an effort to reorganize work on AI-powered capabilities. As more groups bring AI functions to apps, features and services, Apple is realigning teams to match priorities and accelerate development. The restructuring will eliminate some existing positions while creating new roles. The Vision Pro changes were described to employees as an effort to realign priorities based on how customers are using the device and to better direct resources toward other future products. Immersive video has been a key selling point for the Vision Pro since its launch. But producing each 3D video requires multiple crews of Apple employees and contractors, and an episode in an immersive video series can cost several million dollars to film. Those expenses have strained the business given the limited number of active Vision Pro users. The Vision Pro was seen as a groundbreaking product when it launched in February 2024, but the cumbersome nature of the headset and its now-$3,699 price have made it a hard sell.  Apple isn’t abandoning immersive video entirely. The company plans to produce a smaller number of videos in-house while encouraging third-party companies to develop content for the device. Although Apple has maintained a team focused on gaming features for the Vision Pro, the headset has gained limited traction among gamers. The company has told employees that the Vision Pro and its visionOS operating system aren’t going away. In the near term, however, Apple is focused on launching smart glasses that wouldn’t support immersive video or advanced gaming titles. The company is still considering a new Vision Pro model for release as early as the end of 2028, Bloomberg News has reported.&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.business-standard.com/technology/tech-news/apple-cuts-jobs-in-siri-vision-pro-immersive-video-and-gaming-teams-126082200095_1.html</wire:canonicalUrl>
-      <wire:evidence>structured credit: Bloomberg</wire:evidence>
+      <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
       <title>US SC allows Trump's $400 mn White House ballroom work to continue for now</title>
@@ -110,21 +110,6 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.business-standard.com/world-news/tiktok-reaches-400-mn-settlement-with-us-doj-over-children-s-privacy-126082200079_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>US plans to pay $850 million of $5 billion it owes United Nations</title>
-      <link>https://www.business-standard.com/world-news/us-plans-to-pay-850-million-of-5-billion-it-owes-united-nations-126082200057_1.html</link>
-      <guid isPermaLink="false">ca57bd37418abfcd2b35b514</guid>
-      <pubDate>Fri, 21 Aug 2026 18:49:00 +0000</pubDate>
-      <description>The US is behind on about $ 5 billion in dues related to its UN membership, with more than $ 2 billion owed toward the regular budget and $ 3 billion for peacekeeping operations ...</description>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/world-news/us-plans-to-pay-850-million-of-5-billion-it-owes-united-nations-126082200057_1.html</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
