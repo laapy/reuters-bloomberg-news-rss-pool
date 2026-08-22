@@ -1,12 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>BNN Bloomberg — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Abnnbloomberg.ca+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 22 Aug 2026 15:24:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 15:49:46 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>LIVE: Prime Minister Mark Carney delivers remarks after suspending trade negotiations</title>
+      <link>https://www.bnnbloomberg.ca/video/live/2026/08/22/live-prime-minister-mark-carney-delivers-remarks-after-suspending-trade-negotiations/</link>
+      <guid isPermaLink="false">c27dc0bc98f03ee2c6376a77</guid>
+      <pubDate>Sat, 22 Aug 2026 08:16:00 +0000</pubDate>
+      <description>Prime Minister Mark Carney speaks to the media after failing to reach a trade deal with the United States. WATCH LIVE.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/live/2026/08/22/live-prime-minister-mark-carney-delivers-remarks-after-suspending-trade-negotiations/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>‘They asked too much and they offered too little’: Carney on suspended U.S. trade deal</title>
+      <link>https://www.bnnbloomberg.ca/video/economics/2026/08/22/they-asked-too-much-and-they-offered-too-little-carney-on-suspended-us-trade-deal/</link>
+      <guid isPermaLink="false">146ebe0e9f471f08a3dabea6</guid>
+      <pubDate>Sat, 22 Aug 2026 03:46:00 +0000</pubDate>
+      <description>PM Carney gives more information on why this tariff fell through, and why he believes pulling out entirely was the best option available.</description>
+      <content:encoded>&lt;p&gt;Opens in new window
+Canada promises retaliatory ‘dollar for dollar’ tariffs, trade war sharply escalates Opens in new window 06:46 · August 22, 2026 at 10:00a.m. EDT&lt;/p&gt;</content:encoded>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/08/22/they-asked-too-much-and-they-offered-too-little-carney-on-suspended-us-trade-deal/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
     <item>
       <title>Canada promises retaliatory ‘dollar for dollar’ tariffs, trade war sharply escalates</title>
       <link>https://www.bnnbloomberg.ca/video/economics/2026/08/22/canada-promises-retaliatory-dollar-for-dollar-tariffs-trade-war-sharply-escalates/</link>
@@ -29,7 +62,7 @@
       <pubDate>Fri, 21 Aug 2026 21:49:00 +0000</pubDate>
       <description>International trade lawyer John Boscariol reacts to the unexpected announcement that trade negotiations fell through, and what comes next.</description>
       <content:encoded>&lt;p&gt;Opens in new window
-‘We are on the precipice of a spiraling escalation’: analyst on U.S.-Canada trade war Opens in new window 04:52 · August 22, 2026 at 9:20a.m. EDT&lt;/p&gt;</content:encoded>
+Canada promises retaliatory ‘dollar for dollar’ tariffs, trade war sharply escalates Opens in new window 06:46 · August 22, 2026 at 10:00a.m. EDT&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
@@ -46,16 +79,49 @@
       <guid isPermaLink="false">c28da8b603807054c958dec2</guid>
       <pubDate>Fri, 21 Aug 2026 21:49:00 +0000</pubDate>
       <description>Prime Minister Carney says that he will match U.S. tariffs ‘dollar for dollar’ as weeks long negotiations have failed to secure a deal.</description>
-      <content:encoded>&lt;p&gt;Opens in new window
-‘We are on the precipice of a spiraling escalation’: analyst on U.S.-Canada trade war Opens in new window 04:52 · August 22, 2026 at 9:20a.m. EDT&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/08/22/us-canada-tariff-negotiations-failed-carney-vows-to-match-tariffs-dollar-for-dollar/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Transat’s fuel costs surge by over $100 million as Iran war takes ongoing toll</title>
+      <link>https://www.bnnbloomberg.ca/business/company-news/2026/08/21/transat-sees-105m-in-additional-jet-fuel-costs-in-third-quarter/</link>
+      <guid isPermaLink="false">60948b8595ca8b27532a37da</guid>
+      <pubDate>Fri, 21 Aug 2026 20:08:42 +0000</pubDate>
+      <description>The parent company of Air Transat says it paid $105 million in additional jet fuel costs in the third quarter compared with a year ago due to higher prices.</description>
+      <dc:creator>The Canadian Press</dc:creator>
+      <content:encoded>&lt;p&gt;MONTREAL — The parent company of Air Transat paid more than ever for jet fuel in its latest quarter due to the ripple effects of the Iran war, prompting the company to seek further federal aid. The cost of fuel bought by Transat A.T. Inc. climbed by $105 million in the three months ended July 31, compared with a year earlier, the travel company said. The amount also marked a 50 per cent increase from the additional expense Transat paid in the preceding second quarter, according to chief executive Annick Guérard. Combined, the two quarters saw the Montreal-based company pay an extra $175 million for the refined kerosene that powers its 42 planes. For an outfit that made $242 million in total last year — and that lost nearly $140 million in 2023 and 2024 combined — the expense stands out on the income statement. Blue skies have yet to emerge for airlines. Energy market volatility is expected to keep up the pressure on jet fuel costs across the industry, the company said. In North America, jet fuel costs nearly US$160 per barrel, up almost 75 per cent from the year before, according to the International Air Transport Association. However, prices are down from their April peaks. Transat’s ability to pass higher fuel costs on to passengers remains “very limited,” the company said in a statement. As a result, it is in talks with the federal government “to explore potential solutions.” Last month, Transat secured up to $150 million in federal aid to help offset the soaring price of jet fuel. At first, customers could stomach the increased fares that resulted, which roughly balanced out the spike in fuel expenses, Guérard told analysts on a second-quarter conference call earlier this summer. “But more recent increases resulted in a slowdown in the booking momentum ... the demand went down,” prompting the airline to tamp down fares and remove some fees, she said on June 11. The size of Transat’s loan from July will be based on the difference in the cost of fuel in the window between late July and Oct. 31 and the same period last year. The financial relief came less than two months after Ottawa announced a loan lifeline available to airlines struggling to cope with sky-high oil prices and the slashed flight schedules and lower profit forecasts that followed. Air Canada suggested earlier in the summer it would not need to draw on the aid, while WestJet said it “strongly opposes” the move because of its market-distorting effects. Headwinds closer to home have also taken a toll. All three airlines have indefinitely suspended all flights and vacation packages to Cuba as the country grapples with an increasingly desperate fuel shortage triggered by a U.S. oil blockade. Cuba marks a major market for Transat, which is a popular destination for Canadians. About 861,000 Canadians visited the island in 2024, according to the country’s statistics office. Trips there accounted for nine per cent of Transat’s flights in the first half of 2025, with Cuba particularly popular among vacationers in Quebec, Transat’s home base. The airline first halted Cuba voyages in mid-February. Air Transat, like most other Canadian carriers, also slashed its flight capacity to the U.S. after demand plummeted following the election of President Donald Trump. Last month, Air Transat cancelled a weekly Halifax-Fort Lauderdale, Fla., route and five-days-a-week service between Montreal and Fort Lauderdale for the upcoming winter season. That left the thrice weekly Quebec City-Fort Lauderdale route as Air Transat’s only service between Canada and a U.S. state. --- This report by The Canadian Press was first published Aug. 21, 2026.&lt;/p&gt;</content:encoded>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/08/21/transat-sees-105m-in-additional-jet-fuel-costs-in-third-quarter/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Alcohol ban ‘had its time’ and must end for deal with U.S., says trade advisor</title>
+      <link>https://www.bnnbloomberg.ca/business/economics/2026/08/21/booze-ban-had-its-time-ending-it-may-be-the-key-in-reaching-deal-trade-advisor/</link>
+      <guid isPermaLink="false">ca7743a32ea4c68379707e23</guid>
+      <pubDate>Fri, 21 Aug 2026 20:00:31 +0000</pubDate>
+      <description>The alcohol ban imposed in retaliation to Trump’s first round tariffs on Canada’s steel and aluminum, was effective in getting U.S. attention, says trade advisor.</description>
+      <dc:creator>Anam Khan</dc:creator>
+      <content:encoded>&lt;p&gt;The decision to reverse provincial bans on U.S. alcohol may be the reason why Canada reaches a last-minute deal with the U.S., says Lisa Raitt, member of the Advisory Committee on Canada-U.S. Economic Relations. She says U.S. President Donald Trump has made it very clear that he views the removal of American alcohol from Canadian store shelves as a discriminatory measure, and as a result, threatened 50 per cent tariffs on vulnerable industries. “You have to do whatever you can to ensure that that didn’t happen and that doesn’t happen tonight,” Raitt, also the former deputy leader of the Conservative Party of Canada, told BNN Bloomberg. “Asking the premiers to reverse their booze bans, I do believe, is an important part of the entire deal.” Her comments come after Prime Minister Mark Carney asked premiers to put U.S. alcohol back on their shelves to help finalize a pending trade agreement and avert looming American tariffs set to take effect Friday night unless a deal is reached. She says while the alcohol ban imposed in retaliation to Trump’s first round tariffs on Canada’s steel and aluminum, was effective in getting U.S. attention, “it had its time.” “The reality is that the leverage on this negotiation going around really did come from the U.S.,” says Raitt. She says tariff pressure forced the two countries into important negotiations that have likely yielded results and “hopefully a deal that both sides can live with and can prosper with going forward.” She says whatever deal Canada ends up agreeing on during that extended negotiation period, is better than absorbing the 50 per cent tariffs. “You’re better to have an agreement, than not have an agreement,” says Raitt. She says even if Trump changes his mind in the future, that doesn’t negate the importance of businesses having stability now. “I do believe that it’s the industry and the sectors that will make sure that both sides keep their bargain, and that the flow of goods will continue across the border, and investment will continue across the border,” says Raitt. She also adds that reaching a trade deal with the U.S. is not enough to protect the economy and Canada must also reform its internal policies so investing in Canadian businesses becomes more attractive than the U.S. While Canada enjoys the best access to the American markets, she says it’s important to diversify its economy and there is already a lot of buzz around the inaugural Canada Investment Summit, organized by Carney’s government. The goal of the summit is meet with global investors and attract $1 trillion in economic, energy and infrastructure projects. “He (Carney)understands and knows that we need to drive our economy in a new direction. That new direction being diversification, not only geographically, but in terms of the kinds of things we do in this country,” says Raitt.&lt;/p&gt;</content:encoded>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/economics/2026/08/21/booze-ban-had-its-time-ending-it-may-be-the-key-in-reaching-deal-trade-advisor/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -74,21 +140,6 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Transat’s fuel costs surge by over $100 million as Iran war takes ongoing toll</title>
-      <link>https://www.bnnbloomberg.ca/business/company-news/2026/08/21/transat-sees-105m-in-additional-jet-fuel-costs-in-third-quarter/</link>
-      <guid isPermaLink="false">60948b8595ca8b27532a37da</guid>
-      <pubDate>Fri, 21 Aug 2026 07:08:00 +0000</pubDate>
-      <description>The parent company of Air Transat says it paid $105 million in additional jet fuel costs in the third quarter compared with a year ago due to higher prices.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/08/21/transat-sees-105m-in-additional-jet-fuel-costs-in-third-quarter/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
       <title>Long-term outlook for equities unfavorable, says BCA</title>
       <link>https://www.bnnbloomberg.ca/video/shows/the-close/2026/08/21/long-term-outlook-for-equities-unfavorable-says-bca/</link>
       <guid isPermaLink="false">28206e6b0db17d2a2de3b4f8</guid>
@@ -104,21 +155,6 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Can the U.S. fix its national debt crisis?</title>
-      <link>https://www.bnnbloomberg.ca/video/shows/the-close/2026/08/21/can-the-us-fix-its-national-debt-crisis/</link>
-      <guid isPermaLink="false">0008a4c18af6f76b3cf81ff5</guid>
-      <pubDate>Fri, 21 Aug 2026 02:52:00 +0000</pubDate>
-      <description>Richard Francis, co-head of Americas sovereigns and senior director at Fitch Ratings, joins BNN Bloomberg to discuss the economic impacts of rising nat. debt.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/the-close/2026/08/21/can-the-us-fix-its-national-debt-crisis/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
       <title>CTV National News: Trade war threatens iconic Montreal pairing of Schwartz’s and Cott’s Soda</title>
       <link>https://www.bnnbloomberg.ca/video/investing/2026/08/21/ctv-national-news-trade-war-threatens-iconic-montreal-pairing-of-schwartzs-and-cotts-soda/</link>
       <guid isPermaLink="false">28b24c65db9a370168579459</guid>
@@ -131,21 +167,6 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/08/21/ctv-national-news-trade-war-threatens-iconic-montreal-pairing-of-schwartzs-and-cotts-soda/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>'I think it's really important that we avoid additional tariffs': Smith on U.S. booze decision</title>
-      <link>https://www.bnnbloomberg.ca/video/investing/2026/08/21/i-think-its-really-important-that-we-avoid-additional-tariffs-smith-on-us-booze-decision/</link>
-      <guid isPermaLink="false">9ae4e6bf8af8c4ff5676c65c</guid>
-      <pubDate>Thu, 20 Aug 2026 22:49:00 +0000</pubDate>
-      <description>Alberta Premier Danielle Smith says her province has already put U.S. alcohol back on the shelves as Canada-U.S. trade negotiations continue.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/08/21/i-think-its-really-important-that-we-avoid-additional-tariffs-smith-on-us-booze-decision/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -176,21 +197,6 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/08/21/ctv-national-news-two-injured-after-stabbing-at-sikh-temple-in-edmonton/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>LIVE @ 11 a.m. ET: Prime Minister Mark Carney delivers remarks after suspending trade negotiations</title>
-      <link>https://www.bnnbloomberg.ca/video/live/2026/08/14/live-11-am-et-prime-minister-mark-carney-delivers-remarks-after-suspending-trade-negotiations/</link>
-      <guid isPermaLink="false">2fcf4c686e50a83ad898968d</guid>
-      <pubDate>Thu, 05 Feb 2026 06:00:00 +0000</pubDate>
-      <description>Prime Minister Mark Carney speaks to the media after failing to reach a trade deal with the United States. WATCH LIVE.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/live/2026/08/14/live-11-am-et-prime-minister-mark-carney-delivers-remarks-after-suspending-trade-negotiations/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
