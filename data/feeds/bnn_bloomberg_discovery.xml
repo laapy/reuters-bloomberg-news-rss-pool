@@ -1,57 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>BNN Bloomberg — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Abnnbloomberg.ca+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 22 Aug 2026 17:49:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 18:35:31 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>PM Carney: ‘You’re at war when you get attacked. We got attacked.’ Live trade war updates.</title>
-      <link>https://www.bnnbloomberg.ca/tariffs/2026/08/22/pm-carney-says-canada-intends-to-match-the-us-tariffs-dollar-for-dollar-after-suspending-trade-negotiations-live-updates-here/</link>
-      <guid isPermaLink="false">954682a918b916b3bc29486e</guid>
-      <pubDate>Sat, 22 Aug 2026 06:11:00 +0000</pubDate>
-      <description>A new round of punishing U.S. tariffs on Canada went into effect early Saturday morning, as the two countries failed to reach a deal ahead of the midnight deadline.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/tariffs/2026/08/22/pm-carney-says-canada-intends-to-match-the-us-tariffs-dollar-for-dollar-after-suspending-trade-negotiations-live-updates-here/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>‘They asked too much and they offered too little’: Carney on suspended U.S. trade deal</title>
-      <link>https://www.bnnbloomberg.ca/video/economics/2026/08/22/they-asked-too-much-and-they-offered-too-little-carney-on-suspended-us-trade-deal/</link>
-      <guid isPermaLink="false">146ebe0e9f471f08a3dabea6</guid>
-      <pubDate>Sat, 22 Aug 2026 03:46:00 +0000</pubDate>
-      <description>PM Carney gives more information on why this tariff fell through, and why he believes pulling out entirely was the best option available.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/08/22/they-asked-too-much-and-they-offered-too-little-carney-on-suspended-us-trade-deal/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
     <item>
       <title>How will the Canadian government protect workers from becoming ‘collateral damage’ in trade war?</title>
       <link>https://www.bnnbloomberg.ca/video/economics/2026/08/22/how-will-the-canadian-government-protect-workers-from-becoming-collateral-damage-in-trade-war/</link>
       <guid isPermaLink="false">bdb60339ab132dab14c52cb7</guid>
       <pubDate>Fri, 21 Aug 2026 22:33:00 +0000</pubDate>
       <description>PM Carney addresses a question about the protection of workers and small businesses in vulnerable sectors such as steel and dairy.</description>
-      <content:encoded>&lt;p&gt;Opens in new window
-Carney responds to trade deal collapse | Watch the full press conference Opens in new window 51:10 · August 22, 2026 at 12:46p.m. EDT&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/08/22/how-will-the-canadian-government-protect-workers-from-becoming-collateral-damage-in-trade-war/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
@@ -77,7 +44,7 @@ Carney responds to trade deal collapse | Watch the full press conference Opens i
       <pubDate>Fri, 21 Aug 2026 21:56:00 +0000</pubDate>
       <description>PM Carney offers a message of strength and unity for Canadians amid steep challenges with the nation that was its closest trading partner.</description>
       <content:encoded>&lt;p&gt;Opens in new window
-Carney responds to trade deal collapse | Watch the full press conference Opens in new window 51:10 · August 22, 2026 at 12:46p.m. EDT&lt;/p&gt;</content:encoded>
+‘This was not a good faith deal’: analyst on why tariff deal collapsed Opens in new window 06:36 · August 22, 2026 at 12:56p.m. EDT&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
@@ -95,7 +62,7 @@ Carney responds to trade deal collapse | Watch the full press conference Opens i
       <pubDate>Fri, 21 Aug 2026 21:49:00 +0000</pubDate>
       <description>Political analyst Lori Turnbull gives more information on why the PM seemed to have changed course on the U.S. trade deal so suddenly.</description>
       <content:encoded>&lt;p&gt;Opens in new window
-Carney responds to trade deal collapse | Watch the full press conference Opens in new window 51:10 · August 22, 2026 at 12:46p.m. EDT&lt;/p&gt;</content:encoded>
+‘This was not a good faith deal’: analyst on why tariff deal collapsed Opens in new window 06:36 · August 22, 2026 at 12:56p.m. EDT&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
@@ -113,7 +80,7 @@ Carney responds to trade deal collapse | Watch the full press conference Opens i
       <pubDate>Fri, 21 Aug 2026 21:49:00 +0000</pubDate>
       <description>PM Carney explains why, and how, he is taking a war-like stance towards the United States’ trade attacks.</description>
       <content:encoded>&lt;p&gt;Opens in new window
-Carney responds to trade deal collapse | Watch the full press conference Opens in new window 51:10 · August 22, 2026 at 12:46p.m. EDT&lt;/p&gt;</content:encoded>
+‘This was not a good faith deal’: analyst on why tariff deal collapsed Opens in new window 06:36 · August 22, 2026 at 12:56p.m. EDT&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
@@ -122,6 +89,21 @@ Carney responds to trade deal collapse | Watch the full press conference Opens i
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/08/22/weve-got-the-reserves-weve-got-the-resilience-weve-got-the-plan-weve-got-the-focus-carney/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>‘They asked too much and they offered too little’: Carney on suspended U.S. trade deal</title>
+      <link>https://www.bnnbloomberg.ca/video/economics/2026/08/22/they-asked-too-much-and-they-offered-too-little-carney-on-suspended-us-trade-deal/</link>
+      <guid isPermaLink="false">146ebe0e9f471f08a3dabea6</guid>
+      <pubDate>Fri, 21 Aug 2026 21:49:00 +0000</pubDate>
+      <description>PM Carney gives more information on why this tariff fell through, and why he believes pulling out entirely was the best option available.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/08/22/they-asked-too-much-and-they-offered-too-little-carney-on-suspended-us-trade-deal/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -170,17 +152,35 @@ Carney responds to trade deal collapse | Watch the full press conference Opens i
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Transat’s fuel costs surge by over $100 million as Iran war takes ongoing toll</title>
-      <link>https://www.bnnbloomberg.ca/business/company-news/2026/08/21/transat-sees-105m-in-additional-jet-fuel-costs-in-third-quarter/</link>
-      <guid isPermaLink="false">60948b8595ca8b27532a37da</guid>
-      <pubDate>Fri, 21 Aug 2026 07:08:00 +0000</pubDate>
-      <description>The parent company of Air Transat says it paid $105 million in additional jet fuel costs in the third quarter compared with a year ago due to higher prices.</description>
+      <title>Carney responds to trade deal collapse | Watch the full press conference</title>
+      <link>https://www.bnnbloomberg.ca/video/economics/2026/08/22/carney-responds-to-trade-deal-collapse-watch-the-full-press-conference/</link>
+      <guid isPermaLink="false">20daae0e699f69f0ae492f52</guid>
+      <pubDate>Fri, 21 Aug 2026 21:49:00 +0000</pubDate>
+      <description>Watch Prime Minister Mark carney’s full response after trade negotiations with the U.S. were suspended. August 22, 2026 at 12:46p.m. EDT ...</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/08/22/carney-responds-to-trade-deal-collapse-watch-the-full-press-conference/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Transat’s fuel costs surge by over $100 million as Iran war takes ongoing toll</title>
+      <link>https://www.bnnbloomberg.ca/business/company-news/2026/08/21/transat-sees-105m-in-additional-jet-fuel-costs-in-third-quarter/</link>
+      <guid isPermaLink="false">60948b8595ca8b27532a37da</guid>
+      <pubDate>Fri, 21 Aug 2026 20:08:42 +0000</pubDate>
+      <description>The parent company of Air Transat says it paid $105 million in additional jet fuel costs in the third quarter compared with a year ago due to higher prices.</description>
+      <dc:creator>The Canadian Press</dc:creator>
+      <content:encoded>&lt;p&gt;MONTREAL — The parent company of Air Transat paid more than ever for jet fuel in its latest quarter due to the ripple effects of the Iran war, prompting the company to seek further federal aid. The cost of fuel bought by Transat A.T. Inc. climbed by $105 million in the three months ended July 31, compared with a year earlier, the travel company said. The amount also marked a 50 per cent increase from the additional expense Transat paid in the preceding second quarter, according to chief executive Annick Guérard. Combined, the two quarters saw the Montreal-based company pay an extra $175 million for the refined kerosene that powers its 42 planes. For an outfit that made $242 million in total last year — and that lost nearly $140 million in 2023 and 2024 combined — the expense stands out on the income statement. Blue skies have yet to emerge for airlines. Energy market volatility is expected to keep up the pressure on jet fuel costs across the industry, the company said. In North America, jet fuel costs nearly US$160 per barrel, up almost 75 per cent from the year before, according to the International Air Transport Association. However, prices are down from their April peaks. Transat’s ability to pass higher fuel costs on to passengers remains “very limited,” the company said in a statement. As a result, it is in talks with the federal government “to explore potential solutions.” Last month, Transat secured up to $150 million in federal aid to help offset the soaring price of jet fuel. At first, customers could stomach the increased fares that resulted, which roughly balanced out the spike in fuel expenses, Guérard told analysts on a second-quarter conference call earlier this summer. “But more recent increases resulted in a slowdown in the booking momentum ... the demand went down,” prompting the airline to tamp down fares and remove some fees, she said on June 11. The size of Transat’s loan from July will be based on the difference in the cost of fuel in the window between late July and Oct. 31 and the same period last year. The financial relief came less than two months after Ottawa announced a loan lifeline available to airlines struggling to cope with sky-high oil prices and the slashed flight schedules and lower profit forecasts that followed. Air Canada suggested earlier in the summer it would not need to draw on the aid, while WestJet said it “strongly opposes” the move because of its market-distorting effects. Headwinds closer to home have also taken a toll. All three airlines have indefinitely suspended all flights and vacation packages to Cuba as the country grapples with an increasingly desperate fuel shortage triggered by a U.S. oil blockade. Cuba marks a major market for Transat, which is a popular destination for Canadians. About 861,000 Canadians visited the island in 2024, according to the country’s statistics office. Trips there accounted for nine per cent of Transat’s flights in the first half of 2025, with Cuba particularly popular among vacationers in Quebec, Transat’s home base. The airline first halted Cuba voyages in mid-February. Air Transat, like most other Canadian carriers, also slashed its flight capacity to the U.S. after demand plummeted following the election of President Donald Trump. Last month, Air Transat cancelled a weekly Halifax-Fort Lauderdale, Fla., route and five-days-a-week service between Montreal and Fort Lauderdale for the upcoming winter season. That left the thrice weekly Quebec City-Fort Lauderdale route as Air Transat’s only service between Canada and a U.S. state. --- This report by The Canadian Press was first published Aug. 21, 2026.&lt;/p&gt;</content:encoded>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/08/21/transat-sees-105m-in-additional-jet-fuel-costs-in-third-quarter/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
