@@ -5,8 +5,27 @@
     <link>https://www.bing.com/news/search?q=site%3Aswissinfo.ch+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 22 Aug 2026 20:52:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 21:25:44 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Switzerland’s Big Food Question Keeps Voters Busy at Ballot Box</title>
+      <link>https://www.swissinfo.ch/eng/switzerlands-big-food-question-keeps-voters-busy-at-ballot-box/91938399</link>
+      <guid isPermaLink="false">6012c7246a7c4ea39367a23e</guid>
+      <pubDate>Sat, 22 Aug 2026 07:00:00 +0000</pubDate>
+      <description>Switzerland will soon go to the polls on the issue of food, in yet another test of voters’ appetites to answer big questions at the ballot box.</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;Switzerland’s crackdown on dirty money has a blind spot&lt;/p&gt;&lt;p&gt;Read more: Switzerland’s crackdown on dirty money has a blind spot&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>swissinfo_discovery</wire:foundAt>
+      <wire:platform>SWI swissinfo.ch</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.swissinfo.ch/eng/switzerlands-big-food-question-keeps-voters-busy-at-ballot-box/91938399</wire:canonicalUrl>
+      <wire:evidence>structured credit: Bloomberg</wire:evidence>
+    </item>
     <item>
       <title>Stocks Bounce at End of Wild Week as Bitcoin Jumps: Markets Wrap</title>
       <link>https://www.swissinfo.ch/eng/stocks-bounce-at-end-of-wild-week-as-bitcoin-jumps%3a-markets-wrap/91930924</link>
@@ -24,25 +43,6 @@
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.swissinfo.ch/eng/stocks-bounce-at-end-of-wild-week-as-bitcoin-jumps%3a-markets-wrap/91930924</wire:canonicalUrl>
-      <wire:evidence>structured credit: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Asian Stocks Set to Fall as Bonds Resume Decline: Markets Wrap</title>
-      <link>https://www.swissinfo.ch/eng/asian-stocks-set-to-fall-as-bonds-resume-decline%3a-markets-wrap/91930924</link>
-      <guid isPermaLink="false">166bb3856c4661771acaa798</guid>
-      <pubDate>Fri, 21 Aug 2026 20:04:11 +0000</pubDate>
-      <description>Stocks in Asia were set to drop after US equities fell as oil prices and benchmark bond yields climbed, with investors betting that the Treasury’s efforts to contain borrowing costs may offer only a ...</description>
-      <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;Switzerland’s crackdown on dirty money has a blind spot&lt;/p&gt;&lt;p&gt;Read more: Switzerland’s crackdown on dirty money has a blind spot&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>swissinfo_discovery</wire:foundAt>
-      <wire:platform>SWI swissinfo.ch</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.swissinfo.ch/eng/asian-stocks-set-to-fall-as-bonds-resume-decline%3a-markets-wrap/91930924</wire:canonicalUrl>
       <wire:evidence>structured credit: Bloomberg</wire:evidence>
     </item>
     <item>
@@ -82,6 +82,21 @@
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.swissinfo.ch/eng/swiss-voters-are-set-to-reject-stricter-neutrality%2c-poll-shows/91931512</wire:canonicalUrl>
       <wire:evidence>structured credit: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Asian Stocks Set to Fall as Bonds Resume Decline: Markets Wrap</title>
+      <link>https://www.swissinfo.ch/eng/asian-stocks-set-to-fall-as-bonds-resume-decline%3a-markets-wrap/91930924</link>
+      <guid isPermaLink="false">166bb3856c4661771acaa798</guid>
+      <pubDate>Thu, 20 Aug 2026 15:05:00 +0000</pubDate>
+      <description>Stocks in Asia were set to drop after US equities fell as oil prices and benchmark bond yields climbed, with investors betting that the Treasury’s efforts to contain borrowing costs may offer only a ...</description>
+      <wire:foundAt>swissinfo_discovery</wire:foundAt>
+      <wire:platform>SWI swissinfo.ch</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.swissinfo.ch/eng/asian-stocks-set-to-fall-as-bonds-resume-decline%3a-markets-wrap/91930924</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
       <title>Stocks, Bonds Fall as ‘Bessent Put’ Relief Fades: Markets Wrap</title>
@@ -141,21 +156,6 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.swissinfo.ch/eng/swiss-to-reject-stricter-neutrality-in-vote-russia-wants-to-sway/91918028</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Treasuries, Asian Bonds Extend Losses; Oil Gains: Markets Wrap</title>
-      <link>https://www.swissinfo.ch/eng/treasuries%2c-asian-bonds-extend-losses%3b-oil-gains%3a-markets-wrap/91912277</link>
-      <guid isPermaLink="false">1f025c997bb33c722b08e56f</guid>
-      <pubDate>Mon, 17 Aug 2026 23:53:00 +0000</pubDate>
-      <description>Treasuries extended recent declines and Asian bonds followed as concerns over US government spending and a flood of long-dated debt weighed on sentiment, while higher oil prices stoked fears of ...</description>
-      <wire:foundAt>swissinfo_discovery</wire:foundAt>
-      <wire:platform>SWI swissinfo.ch</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.swissinfo.ch/eng/treasuries%2c-asian-bonds-extend-losses%3b-oil-gains%3a-markets-wrap/91912277</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
