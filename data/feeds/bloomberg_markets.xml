@@ -5,8 +5,24 @@
     <link>https://feeds.bloomberg.com/markets/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 22 Aug 2026 19:49:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 20:26:23 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Bloomberg Previews Jackson Hole Symposium</title>
+      <link>https://www.bloomberg.com/news/videos/2026-08-22/bloomberg-previews-jackson-hole-symposium-video</link>
+      <guid isPermaLink="false">bb409d0928fba285de24be6c</guid>
+      <pubDate>Sat, 22 Aug 2026 19:40:52 +0000</pubDate>
+      <description>Bloomberg's Joe Weisenthal, Lisa Abramowicz, Tracy Alloway and Tom Keene preview the Jackson Hole Symposium as all eyes will be on Fed Chairman Kevin Marsh and his first annual symposium address. (Source: Bloomberg)</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_markets</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/videos/2026-08-22/bloomberg-previews-jackson-hole-symposium-video</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
     <item>
       <title>Juicy Yields Draw Junk Bond Buyers to Investment-Grade AI Debt</title>
       <link>https://www.bloomberg.com/news/articles/2026-08-22/juicy-yields-draw-junk-bond-buyers-to-investment-grade-ai-debt</link>
@@ -314,23 +330,6 @@
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-22/india-s-foreign-minister-to-visit-russia-amid-us-tariff-threat</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>India’s Central Bank Says Forex Deposit Inflows at $65.4 Billion</title>
-      <link>https://www.bloomberg.com/news/articles/2026-08-22/india-s-central-bank-says-forex-deposit-inflows-at-65-4-billion</link>
-      <guid isPermaLink="false">42b0dfba73ef46c9b1f2ca9c</guid>
-      <pubDate>Sat, 22 Aug 2026 09:58:03 +0000</pubDate>
-      <description>India garnered over $65 billion through special foreign currency deposits from its 35 million-strong diaspora, latest figures from the central bank showed Saturday.</description>
-      <dc:creator>Mihir Mishra</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_markets</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-22/india-s-central-bank-says-forex-deposit-inflows-at-65-4-billion</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
   </channel>
