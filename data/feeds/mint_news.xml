@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Mint — diagnostic source feed</title>
     <link>https://www.livemint.com/rss/news</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 22 Aug 2026 09:55:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 10:27:51 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Keeping the UN afloat: Trump admin plans $725 million payment as global body battles funding crisis — will it help?</title>
+      <link>https://www.livemint.com/news/us-news/keeping-the-un-afloat-trump-admin-plans-725-million-payment-as-global-body-battles-funding-crisis-will-it-help-11787391726062.html</link>
+      <guid isPermaLink="false">64d94f15259ec5eb34ffe30d</guid>
+      <pubDate>Sat, 22 Aug 2026 10:02:11 +0000</pubDate>
+      <description>The Trump administration plans to pay $725 million to the UN, less than 20% of the over $4 billion Washington says it owes. Experts say the payment could help keep the UN running, as the organisation faces a severe funding crisis and cuts.</description>
+      <dc:creator>Prabhakar Jha</dc:creator>
+      <content:encoded>&lt;p&gt;The Trump administration has notified the US Congress of its intention to provide $725 million to the United Nations, a move that aid experts say could help the global body manage its mounting financial pressures, Reuters reported.The proposed payment comes as the United Nations faces a funding crisis caused by unpaid contributions from member states. UN Secretary-General Antonio Guterres said earlier this year that the organisation faced an &amp;quot;imminent financial collapse&amp;quot; because of outstanding payments.A US State Department notification to Congress dated August 4, seen by Reuters, said the administration was obligating $725 million for the UN&amp;#x27;s regular budget.However, a US official told Reuters that the payment would be contingent on continued reforms at the organisation and that no funds had been transferred as of Friday.&amp;#x27;Keep the ship afloat&amp;#x27;The proposed payment would cover less than 20% of the more than $4 billion that the UN said Washington owed in May. The US disputes that figure, saying its outstanding dues are considerably lower and that it has made some payments.Eugene Chen, a former UN official, told Reuters that a transfer of the proposed amount would help the organisation pay salaries for a period, although it might not cover all its expenses.&amp;quot;It keeps the ship afloat a little longer,&amp;quot; Chen said.He added that if the US did not make further payments, it could potentially lose its voting rights in the UN General Assembly in January.Under Article 19 of the UN Charter, a member state can lose its General Assembly voting rights if its arrears exceed the amount of contributions due for the preceding two full years, although grace periods are possible.Ronny Patz, an expert in UN finance at German think tank IDOS, said a significant payment could help the organisation avoid immediate spending cuts.&amp;quot;If they pay a big chunk, the UN still runs on zero reserves but it gets through the year,&amp;quot; Patz told Reuters. US demands UN reformsThe proposed funding comes despite the Trump administration&amp;#x27;s criticism of the UN and its agencies. Washington has reduced funding to several UN bodies and refused to make some mandatory payments to the regular and peacekeeping budgets.A State Department official said the US had achieved what it described as &amp;quot;historic reforms&amp;quot; at the UN over the past six months, including the first real cut to the organisation&amp;#x27;s budget, resulting in nearly $1 billion in reductions.Devex reported in April that the administration had set conditions for releasing funds, including further cost-cutting and measures to counter China&amp;#x27;s influence.The planned payment also comes ahead of Trump&amp;#x27;s expected speech to the UN General Assembly in New York next month.How big is the UN&amp;#x27;s funding gap?The UN said in May that Washington owed more than $4 billion, including $2.04 billion for the regular budget, $2.2 billion for current and past peacekeeping missions and $44 million for UN tribunals.The US is the largest contributor to the UN budget. However, the Trump administration has also withdrawn from dozens of UN and other international organisations and sharply reduced voluntary funding to UN agencies.As of August 18, 129 of the UN&amp;#x27;s 193 member states had paid their contributions in full, according to a UN document reviewed by Reuters. China, the second-largest contributor after the US, was not among them.The UN is undergoing a reform and cost-cutting programme known as &amp;quot;UN80&amp;quot; amid the financial crisis. It has already reduced its 2026 budget by 9.2% and moved more than 2,000 jobs from expensive locations such as Geneva and New York to lower-cost hubs.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>mint_news</wire:foundAt>
+      <wire:platform>Mint</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.livemint.com/news/us-news/keeping-the-un-afloat-trump-admin-plans-725-million-payment-as-global-body-battles-funding-crisis-will-it-help-11787391726062.html</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Reuters reported</wire:evidence>
+    </item>
   </channel>
 </rss>
