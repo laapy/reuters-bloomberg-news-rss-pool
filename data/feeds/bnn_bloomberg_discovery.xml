@@ -1,27 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>BNN Bloomberg — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Abnnbloomberg.ca+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 22 Aug 2026 20:26:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 20:52:14 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>Carney responds to trade deal collapse | Watch the full press conference</title>
-      <link>https://www.bnnbloomberg.ca/video/economics/2026/08/22/carney-responds-to-trade-deal-collapse-watch-the-full-press-conference/</link>
-      <guid isPermaLink="false">20daae0e699f69f0ae492f52</guid>
-      <pubDate>Sat, 22 Aug 2026 03:36:00 +0000</pubDate>
-      <description>Watch Prime Minister Mark carney’s full response after trade negotiations with the U.S. were suspended. August 22, 2026 at 12:46p.m. EDT ...</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/08/22/carney-responds-to-trade-deal-collapse-watch-the-full-press-conference/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
     <item>
       <title>How will the Canadian government protect workers from becoming ‘collateral damage’ in trade war?</title>
       <link>https://www.bnnbloomberg.ca/video/economics/2026/08/22/how-will-the-canadian-government-protect-workers-from-becoming-collateral-damage-in-trade-war/</link>
@@ -71,6 +56,24 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
+      <title>‘We’ve got the reserves, we’ve got the resilience, we’ve got the plan, we’ve got the focus’: Carney</title>
+      <link>https://www.bnnbloomberg.ca/video/economics/2026/08/22/weve-got-the-reserves-weve-got-the-resilience-weve-got-the-plan-weve-got-the-focus-carney/</link>
+      <guid isPermaLink="false">2788d94b9d735fc37699cec8</guid>
+      <pubDate>Fri, 21 Aug 2026 21:49:00 +0000</pubDate>
+      <description>PM Carney explains why, and how, he is taking a war-like stance towards the United States’ trade attacks.</description>
+      <content:encoded>&lt;p&gt;Opens in new window
+‘This was not a good faith deal’: analyst on why tariff deal collapsed Opens in new window 06:36 · August 22, 2026 at 12:56p.m. EDT&lt;/p&gt;</content:encoded>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/08/22/weve-got-the-reserves-weve-got-the-resilience-weve-got-the-plan-weve-got-the-focus-carney/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
       <title>‘This was not a good faith deal’: analyst on why tariff deal collapsed</title>
       <link>https://www.bnnbloomberg.ca/video/economics/2026/08/22/this-was-not-a-good-faith-deal-analyst-on-why-tariff-deal-collapsed/</link>
       <guid isPermaLink="false">f8a66c080fcef6895597ac7c</guid>
@@ -89,39 +92,6 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>‘They asked too much and they offered too little’: Carney on suspended U.S. trade deal</title>
-      <link>https://www.bnnbloomberg.ca/video/economics/2026/08/22/they-asked-too-much-and-they-offered-too-little-carney-on-suspended-us-trade-deal/</link>
-      <guid isPermaLink="false">146ebe0e9f471f08a3dabea6</guid>
-      <pubDate>Fri, 21 Aug 2026 21:49:00 +0000</pubDate>
-      <description>PM Carney gives more information on why this tariff fell through, and why he believes pulling out entirely was the best option available.</description>
-      <content:encoded>&lt;p&gt;Opens in new window
-‘This was not a good faith deal’: analyst on why tariff deal collapsed Opens in new window 06:36 · August 22, 2026 at 12:56p.m. EDT&lt;/p&gt;</content:encoded>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/08/22/they-asked-too-much-and-they-offered-too-little-carney-on-suspended-us-trade-deal/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>‘We’ve got the reserves, we’ve got the resilience, we’ve got the plan, we’ve got the focus’: Carney</title>
-      <link>https://www.bnnbloomberg.ca/video/economics/2026/08/22/weve-got-the-reserves-weve-got-the-resilience-weve-got-the-plan-weve-got-the-focus-carney/</link>
-      <guid isPermaLink="false">2788d94b9d735fc37699cec8</guid>
-      <pubDate>Fri, 21 Aug 2026 21:49:00 +0000</pubDate>
-      <description>PM Carney explains why, and how, he is taking a war-like stance towards the United States’ trade attacks.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/08/22/weve-got-the-reserves-weve-got-the-resilience-weve-got-the-plan-weve-got-the-focus-carney/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
       <title>How will Trump respond to Canada firing back reciprocal trade attacks?</title>
       <link>https://www.bnnbloomberg.ca/video/economics/2026/08/22/how-will-trump-respond-to-canada-firing-back-reciprocal-trade-attacks/</link>
       <guid isPermaLink="false">fe3b13790951086b26dd1909</guid>
@@ -134,6 +104,21 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/08/22/how-will-trump-respond-to-canada-firing-back-reciprocal-trade-attacks/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>‘They asked too much and they offered too little’: Carney on suspended U.S. trade deal</title>
+      <link>https://www.bnnbloomberg.ca/video/economics/2026/08/22/they-asked-too-much-and-they-offered-too-little-carney-on-suspended-us-trade-deal/</link>
+      <guid isPermaLink="false">146ebe0e9f471f08a3dabea6</guid>
+      <pubDate>Fri, 21 Aug 2026 21:49:00 +0000</pubDate>
+      <description>PM Carney gives more information on why this tariff fell through, and why he believes pulling out entirely was the best option available.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/08/22/they-asked-too-much-and-they-offered-too-little-carney-on-suspended-us-trade-deal/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -167,21 +152,18 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>U.S. stocks rise, even as the bond market applies more pressure</title>
-      <link>https://www.bnnbloomberg.ca/markets/2026/08/21/us-stocks-rise-as-the-bond-markets-big-swings-ease-a-bit/</link>
-      <guid isPermaLink="false">37c1ac69194c9272f569a16e</guid>
-      <pubDate>Fri, 21 Aug 2026 20:23:49 +0000</pubDate>
-      <description>U.S. stocks rose Friday. The S&amp;P 500 rose 0.4 per cent for just its second gain in the six days since setting its all-time high last week.</description>
-      <dc:creator>The Associated Press</dc:creator>
-      <content:encoded>&lt;p&gt;NEW YORK — U.S. stocks rose Friday and trimmed their losses from a shaky week. That was even though the bond market, which has been the center of Wall Street’s action, remained jumpy and continued to add pressure. The S&amp;amp;P 500 rose 0.4 per cent for just its second gain in the six days since setting its all-time high last week. The Dow Jones Industrial Average jumped 517 points, or 1 per cent, and the Nasdaq composite climbed 0.4 per cent. Ross Stores helped lead the way and rose 4.4 per cent after reporting stronger profit and revenue for the latest quarter than analysts expected. CEO Jim Conroy said it saw both an increase in new customers and more interest from existing customers, while the off-price retailer at the same time benefited from refunds on tariffs. Most U.S. companies have reported bigger profits for the spring than analysts expected, which has helped drive stocks to records recently. Stock prices tend to follow the path of corporate profits over the long term. Hopes for continued profit growth got a boost from a preliminary report by S&amp;amp;P Global suggesting growth for U.S. business activity hit a 52-month high. But the other big lever that helps set stock prices, interest rates, has been much shakier. After soaring through the summer and then hesitating following this week’s surprise move by the U.S. Treasury Department to repurchase more U.S. government bonds, yields climbed further on Friday. The yield on the 10-year Treasury rose to 4.73 per cent from 4.69 per cent late Thursday. It’s back above its level from before the Treasury market made its move, which analysts said at the time would likely have only a temporary effect. The 30-year Treasury yield, which the Fed is also targeting with its bond repurchases, also rose and is near its highest level since 2007. Contributing to Friday’s gains for bond yields was continued uncertainty about when the war with Iran will allow oil tankers to freely exit the Persian Gulf again. That caused oil prices to rise, which affects Treasury yields because they increase worries about inflation. The price for a barrel of Brent crude oil settled at US$92.67, up 0.8 per cent. Besides inflation, concerns about the fast-rising debt for the U.S. government have also been sending yields upward. Higher yields can slow the economy and undercut prices for all kinds of investments. One of the biggest beneficiaries of U.S. Treasury Secretary Scott Bessent’s move to try to get longer-term yields lower is bitcoin. Cryptocurrencies often rise when interest rates are lower and more money is flowing through the financial system. Hopes for legislation in Washington to help the crypto industry have also helped it. Bitcoin has climbed above US$77,000 from less than US$63,000 a week ago. That helped stocks in the crypto industry lead Wall Street. Robinhood Markets jumped 13.7 per cent, and Coinbase Global gained 8.2 per cent. The price of gold also climbed and briefly topped US$4,690 per ounce from less than US$4,440 a week earlier. The Treasury Department’s buyback announcement has helped weaken the U.S. dollar’s value against other currencies, which tends to give gold’s price a boost. That helped drive stocks of miners higher. Newmont climbed 3.1 per cent, and Freeport-McMoRan jumped 7.6 per cent. They helped offset a 5.2 per cent drop for OSI Systems, which sells security screening equipment to airports and other specialized electronic systems. It reported weaker revenue for the latest quarter than analysts expected, and CEO Ajay Mehra said it was hurt by “the Middle East conflicts which shifted the timing of certain planned deliveries.” Boston Beer sank 2.6 per cent after the seller of Samuel Adams and Dogfish Head said its chief financial officer is leaving the company and announced an interim replacement. All told, the S&amp;amp;P 500 rose 33.21 points to 7,674.37. The Dow Jones Industrial Average jumped 517.80 to 53,277.01, and the Nasdaq composite added 113.29 to 26,180.45. In stock markets abroad, indexes rose in much of Asia and Europe. Hong Kong’s Hang Seng rose 1.2 per cent, and South Korea’s Kospi climbed 0.9 per cent for two of the world’s bigger moves. ___ Stan Choe, The Associated Press AP Business Writers Chan Ho-him and Michelle Chapman contributed to this report.&lt;/p&gt;</content:encoded>
+      <title>CTV National News: Trade war threatens iconic Montreal pairing of Schwartz’s and Cott’s Soda</title>
+      <link>https://www.bnnbloomberg.ca/video/investing/2026/08/21/ctv-national-news-trade-war-threatens-iconic-montreal-pairing-of-schwartzs-and-cotts-soda/</link>
+      <guid isPermaLink="false">28b24c65db9a370168579459</guid>
+      <pubDate>Thu, 20 Aug 2026 22:50:00 +0000</pubDate>
+      <description>Schwartz’s Deli’s famous smoked meat sandwich and Cott’s Black Cherry soda have been falling victim to the ongoing trade war. Matt Grillo explains.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/2026/08/21/us-stocks-rise-as-the-bond-markets-big-swings-ease-a-bit/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/08/21/ctv-national-news-trade-war-threatens-iconic-montreal-pairing-of-schwartzs-and-cotts-soda/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -197,6 +179,21 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/08/21/ctv-national-news-canada-us-trade-talks-go-down-to-the-wire-as-tariff-deadline-looms/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>CTV National News: Two injured after stabbing at Sikh temple in Edmonton</title>
+      <link>https://www.bnnbloomberg.ca/video/investing/2026/08/21/ctv-national-news-two-injured-after-stabbing-at-sikh-temple-in-edmonton/</link>
+      <guid isPermaLink="false">dd6c7759d5c17f1913693d5a</guid>
+      <pubDate>Thu, 20 Aug 2026 21:50:00 +0000</pubDate>
+      <description>Police are investigating after a man reportedly entered an Edmonton Sikh temple and stabbed people inside, leaving two injured. Kathy Le has more.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/08/21/ctv-national-news-two-injured-after-stabbing-at-sikh-temple-in-edmonton/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>

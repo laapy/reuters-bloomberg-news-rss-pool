@@ -1,28 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss version="2.0">
   <channel>
     <title>Bloomberg — diagnostic source feed</title>
     <link>https://feeds.bloomberg.com/crypto/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 22 Aug 2026 20:26:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 20:52:14 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>Bitcoin Nears $80,000 Amid Biggest Weekly Rally In Three Years</title>
-      <link>https://www.bloomberg.com/news/articles/2026-08-21/bitcoin-leaps-past-75-000-as-crypto-rally-continues-in-asia</link>
-      <guid isPermaLink="false">0232a85aa1cd74a0769d9c59</guid>
-      <pubDate>Fri, 21 Aug 2026 02:05:01 +0000</pubDate>
-      <description>Bitcoin is on pace for its best weekly gain in more than three years as traders assess the fallout from a recent spike in bond yields and a new initiative from the US aimed at fiscal consolidation.</description>
-      <dc:creator>Suvashree Ghosh and Sidhartha Shukla</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_crypto</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-21/bitcoin-leaps-past-75-000-as-crypto-rally-continues-in-asia</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
   </channel>
 </rss>
