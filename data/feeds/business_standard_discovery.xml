@@ -1,29 +1,77 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Business Standard — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Abusiness-standard.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 22 Aug 2026 02:37:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 03:46:31 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>OpenAI cuts developer pricing for GPT-5.6 Sol model by more than 20%</title>
+      <link>https://www.business-standard.com/technology/tech-news/openai-cuts-developer-pricing-for-gpt-5-6-sol-model-by-more-than-20-126082200107_1.html</link>
+      <guid isPermaLink="false">89e10338497ddb893cba92ab</guid>
+      <pubDate>Sat, 22 Aug 2026 03:20:07 +0000</pubDate>
+      <description>The price cuts are effective on OpenAI's application programming interface, or API, and are rolling out across eligible plans for credits on its agentic AI product ChatGPT Work and Codex ...</description>
+      <dc:creator>Reuters</dc:creator>
+      <content:encoded>&lt;p&gt;OpenAI said on Friday ??it is cutting the prices of its frontier GPT-5.6 Sol model for developers by more than ??20% for the next three months, as the ChatGPT maker faces growing competition from Anthropic and Chinese AI models. The price cuts are effective on OpenAI&amp;#x27;s application programming interface, or API, and are rolling out across eligible plans for credits on its agentic AI product ChatGPT Work and its coding tool Codex, OpenAI said. Pricing for Pro, Plus and Business subscriptions remains unchanged, the company said. GPT-5.6 Sol is now priced at $4 per 1 million input tokens and $20 per 1 million output tokens for standard short-context use, according to OpenAI&amp;#x27;s pricing table. That compares with previous prices of $5 and $30, respectively. OpenAI late last month slashed ??prices of its smaller models. It cut pricesfor the mid-tier GPT-5.6 Terra model by 20% and for the lower-cost Luna model by 80%. Anthropic lists its frontier Claude Fable 5 model at $10 per 1 million input tokens and $50 per 1 million output tokens, while its Claude Opus 5 model is listed at $5 per 1 million input tokens and $25 per 1 million output tokens.  (Only the headline and picture of this report may have been reworked by the Business Standard staff; the rest of the content is auto-generated from a syndicated feed.)&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.business-standard.com/technology/tech-news/openai-cuts-developer-pricing-for-gpt-5-6-sol-model-by-more-than-20-126082200107_1.html</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>Anthropic taps Google chip veteran Amir Salek as part of push into hardware</title>
+      <link>https://www.business-standard.com/technology/tech-news/anthropic-taps-google-chip-veteran-amir-salek-as-part-of-push-into-hardware-126082200097_1.html</link>
+      <guid isPermaLink="false">706a42ebbcbaf324e530e3ac</guid>
+      <pubDate>Sat, 22 Aug 2026 02:56:53 +0000</pubDate>
+      <description>Anthropic, which buys chips from a variety of sources, including Nvidia Corp., Google and Amazon.com Inc., has indicated recently that it wants to build an in-house silicon business ...</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;By Dina Bass Anthropic PBC has hired Amir Salek, a founder of the custom chip programme at Alphabet Inc.’s Google, as the AI lab lays the groundwork for a push into making its own semiconductors.  Salek is joining the compute team of Anthropic, maker of the Claude platform, the AI company said Friday. The executive ran Google’s tensor processing unit business until 2022 and delivered the first seven generations of those chips. In the new role, Salek will report to James Bradbury.  Anthropic, which buys chips from a variety of sources, including Nvidia Corp., Google and Amazon.com Inc., has indicated recently that it wants to build an in-house silicon business. The San Francisco-based company has begun hiring and listing jobs for the effort.  Like other AI giants, Anthropic is scrambling to get enough data center infrastructure to support its ambitions. Custom chips would potentially help it cope with supply shortages and tailor designs to better meet its needs. Rival OpenAI, the company behind ChatGPT, is taking similar steps. It has unveiled a chip called Jalapeno, co-developed with Broadcom Inc., and plans to begin using it later this year. Read More: OpenAI, Broadcom Unveil Chip to Run Models Faster, Cheaper Anthropic is signing chip and data center capacity deals at a rapid clip — working with both established and emerging vendors. The company has an agreement with UK-based chip startup Fractile for an initial order of roughly $250 million of its chips, with the intention to expand that contract in the future, Bloomberg News has reported. The AI lab also recently signed capacity deals with Riot Platforms Inc. and Volta Infra Holdings Ltd. After leaving Google, Salek has been senior managing director at Cerberus Capital Management, a private equity firm co-founded by Deputy Secretary of Defense Stephen Feinberg. He also previously worked at Nvidia, the leading maker of AI processors.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.business-standard.com/technology/tech-news/anthropic-taps-google-chip-veteran-amir-salek-as-part-of-push-into-hardware-126082200097_1.html</wire:canonicalUrl>
+      <wire:evidence>structured credit: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Apple cuts jobs in Siri, Vision Pro immersive video, and gaming teams</title>
+      <link>https://www.business-standard.com/technology/tech-news/apple-cuts-jobs-in-siri-vision-pro-immersive-video-and-gaming-teams-126082200095_1.html</link>
+      <guid isPermaLink="false">3fcb4abacabebfa323f3fe94</guid>
+      <pubDate>Fri, 21 Aug 2026 19:50:00 +0000</pubDate>
+      <description>Apple is also laying off employees in its Intelligent Systems Experience, a team within its software engineering organisation responsible for some of the AI features on its devices ...</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.business-standard.com/technology/tech-news/apple-cuts-jobs-in-siri-vision-pro-immersive-video-and-gaming-teams-126082200095_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
     <item>
       <title>US SC allows Trump's $400 mn White House ballroom work to continue for now</title>
       <link>https://www.business-standard.com/world-news/us-sc-allows-trump-s-400-mn-white-house-ballroom-work-to-continue-for-now-126082101589_1.html</link>
       <guid isPermaLink="false">44d191fdba9e57bee621af5a</guid>
       <pubDate>Fri, 21 Aug 2026 18:59:00 +0000</pubDate>
       <description>The administration has argued that the president has total authority to renovate the White House and other federal buildings as he sees fit and that the ballroom project must be completed ...</description>
-      <content:encoded>&lt;p&gt;Home / World News / US SC allows Trump&amp;#x27;s $400 mn White House ballroom work to continue for now&lt;/p&gt;&lt;p&gt;US SC allows Trump&amp;#x27;s $400 mn White House ballroom work to continue for now The administration has argued that the president has total authority to renovate the White House and other federal buildings as he sees fit and that the ballroom project must be completed&lt;/p&gt;&lt;p&gt;US President Donald Trump | Image: Bloomberg&lt;/p&gt;&lt;p&gt;AP Washington 3 min read Last Updated : Aug 22 2026 | 7:28 AM IST&lt;/p&gt;&lt;p&gt;Listen to This Article&lt;/p&gt;&lt;p&gt;Supreme Court Chief Justice John Roberts is allowing the White House to continue construction on President Donald Trump&amp;#x27;s $ 400 million ballroom project for now.&lt;/p&gt;&lt;p&gt;Roberts signed a temporary order on Friday allowing work to continue while the court considers an emergency appeal from the Trump administration.&lt;/p&gt;&lt;p&gt;Lower courts had ordered a halt to the project, finding that it must have congressional approval. That ruling was set to take effect on Friday. Roberts signed the order because he oversees appeals of Washington-based cases.&lt;/p&gt;&lt;p&gt;The case comes before the nation&amp;#x27;s highest court as Trump, a Republican, exercises unparalleled assertions of presidential power and increasingly seeks to mold the capital in his own image.&lt;/p&gt;&lt;p&gt;The Trump administration has scored a series of victories on the high court&amp;#x27;s emergency docket, though the justices have ruled against some of the president&amp;#x27;s signature policies after fuller review.
-Also Read&lt;/p&gt;&lt;p&gt;US plans to pay $850 million of $5 billion it owes United Nations&lt;/p&gt;&lt;p&gt;Trump calls Hormuz &amp;#x27;US territory&amp;#x27;, says Iran will never have nuclear weapon&lt;/p&gt;&lt;p&gt;What&amp;#x27;s the message behind Trump&amp;#x27;s threats of economic warfare against Iran&lt;/p&gt;&lt;p&gt;Canadian provincial leader calls Trump a &amp;#x27;bad person&amp;#x27; amid trade talks&lt;/p&gt;&lt;p&gt;Trump declares &amp;#x27;Economic D-Day&amp;#x27; on Iran, warns those helping Tehran will pay&lt;/p&gt;&lt;p&gt;The administration has argued that the president has total authority to renovate the White House and other federal buildings as he sees fit and that the ballroom project must be completed due to national security concerns.&lt;/p&gt;&lt;p&gt;When Trump first announced the plans for a new ballroom, he did not emphasise national security. He said the project would be funded by private donations, including from himself.&lt;/p&gt;&lt;p&gt;The National Trust for Historic Preservation argues that Trump has no unilateral authority to undertake the work, which has included demolishing the East Wing. Lawyers for the preservation group accused the White House of trying to &amp;quot;outrun the courts&amp;quot; by accelerating construction.&lt;/p&gt;&lt;p&gt;The Trump administration says 65 per cent of work has already been completed on the planned 90,000-square-foot ballroom, where the East Wing stood before the president ordered its demolition.&lt;/p&gt;&lt;p&gt;Crews are working 20 hours a day, seven days a week on the project, where about $ 200 million in private donations has been spent or committed, Justice Department attorneys said in court documents.&lt;/p&gt;&lt;p&gt;A district court judge ordered a stop to aboveground construction of the planned ballroom in April in a ruling that was suspended before being upheld by an appeals court panel. The order from US District Judge Richard Leon in Washington allows belowground work on bunkers and military installations to continue. Leon was nominated by President George W. Bush, a Republican.&lt;/p&gt;&lt;p&gt;Two appeals-court judges appointed by Democratic presidents found the project was for Congress to decide and &amp;quot;not a matter for Executive self-help.&amp;quot; A third judge, appointed by Trump, found that the preservationist group that challenged the project had no legal right to sue.&lt;/p&gt;&lt;p&gt;Solicitor General D. John Sauer picked up on that argument, calling the decision halting the work &amp;quot;extraordinary and unlawful.&amp;quot; He said the completion of the project was &amp;quot;vitally required by national security.&lt;/p&gt;&lt;p&gt;(Only the headline and picture of this report may have been reworked by the Business Standard staff; the rest of the content is auto-generated from a syndicated feed.)&lt;/p&gt;&lt;p&gt;More From This Section&lt;/p&gt;&lt;p&gt;TikTok reaches $400 mn settlement with US DOJ over children&amp;#x27;s privacy&lt;/p&gt;&lt;p&gt;South Korea plans chip windfall fund to back youth, AI investment&lt;/p&gt;&lt;p&gt;How the AI borrowing binge helps drive US government bond yields&lt;/p&gt;&lt;p&gt;Mirza Fakhrul Islam Alamgir takes oath as Bangladesh&amp;#x27;s President&lt;/p&gt;&lt;p&gt;China moves to wrap up saga of troubled property giant Evergrande&lt;/p&gt;&lt;p&gt;Topics : Donald Trump White House Trump administration
-Don&amp;#x27;t miss the most important news and views of the day. Get them on our Telegram channel
-First Published: Aug 22 2026 | 7:27 AM IST&lt;/p&gt;</content:encoded>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.business-standard.com/world-news/us-sc-allows-trump-s-400-mn-white-house-ballroom-work-to-continue-for-now-126082101589_1.html</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
@@ -33,17 +81,12 @@ First Published: Aug 22 2026 | 7:27 AM IST&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">570f7373f3e3db3993e157d5</guid>
       <pubDate>Fri, 21 Aug 2026 18:51:00 +0000</pubDate>
       <description>The DOJ said Friday that TikTok will pay $300 million immediately and another $100 million after an order vacates an earlier consent decree against its predecessor company, Musical.ly ...</description>
-      <content:encoded>&lt;p&gt;Home / World News / TikTok reaches $400 mn settlement with US DOJ over children&amp;#x27;s privacy&lt;/p&gt;&lt;p&gt;TikTok reaches $400 mn settlement with US DOJ over children&amp;#x27;s privacy The DOJ said Friday that TikTok will pay $300 million immediately and another $100 million after an order vacates an earlier consent decree against its predecessor company, Musical.ly&lt;/p&gt;&lt;p&gt;Since the DOJ&amp;#x27;s lawsuit in 2024, TikTok has undergone major changes, most notably in the ownership structure of its US arm Photo: Bloomberg&lt;/p&gt;&lt;p&gt;AP Washington 2 min read Last Updated : Aug 22 2026 | 7:21 AM IST&lt;/p&gt;&lt;p&gt;Listen to This Article&lt;/p&gt;&lt;p&gt;TikTok has reached a $400 million settlement with the US Department of Justice, ending a 2024 lawsuit alleging the company violated federal children&amp;#x27;s privacy laws.&lt;/p&gt;&lt;p&gt;The DOJ said Friday that TikTok will pay $300 million immediately and another $100 million after an order vacates an earlier consent decree against its predecessor company, Musical.ly.&lt;/p&gt;&lt;p&gt;&amp;quot;This settlement is a major victory for American children and parents,&amp;quot; said US Associate Attorney General Stanley E. Woodward Jr. in a statement. &amp;quot;The Department&amp;#x27;s priority is ensuring that children are protected online and that companies entrusted with their personal information meet their legal obligations. This resolution secures a substantial recovery while reinforcing the protections that families expect and deserve.&amp;quot;  
-Since the DOJ&amp;#x27;s lawsuit in 2024, TikTok has undergone major changes, most notably in the ownership structure of its US arm. In January, the social video platform company signed agreements with major investors including Oracle, Silver Lake and the Emirati investment firm MGX to form the new TikTok US joint venture.&lt;/p&gt;&lt;p&gt;Representatives for TikTok did not immediately respond to a message for comment Friday.&lt;/p&gt;&lt;p&gt;The latest lawsuit focused on allegations that TikTok and its China-based parent company ByteDance violated a federal law that requires kid-oriented apps and websites to get parental consent before collecting personal information of children under 13. It also says the companies failed to honor requests from parents who wanted their children&amp;#x27;s accounts deleted, and chose not to delete accounts even when the firms knew they belonged to kids under 13.&lt;/p&gt;&lt;p&gt;The settlement comes as social media companies face an avalanche of lawsuits over children&amp;#x27;s safety and privacy and a growing number of countries are banning young kids and teens from social media apps. Instagram&amp;#x27;s parent company, Meta Platforms, is currently on trial in federal court in Oakland, California, over allegations it violated the 1998 Children&amp;#x27;s Online Privacy Protection Act, or COPPA, along with various state statutes.&lt;/p&gt;&lt;p&gt;(Only the headline and picture of this report may have been reworked by the Business Standard staff; the rest of the content is auto-generated from a syndicated feed.)&lt;/p&gt;&lt;p&gt;More From This Section&lt;/p&gt;&lt;p&gt;US plans to pay $850 million of $5 billion it owes United Nations&lt;/p&gt;&lt;p&gt;Trump calls Hormuz &amp;#x27;US territory&amp;#x27;, says Iran will never have nuclear weapon&lt;/p&gt;&lt;p&gt;South Korea plans chip windfall fund to back youth, AI investment&lt;/p&gt;&lt;p&gt;How the AI borrowing binge helps drive US government bond yields&lt;/p&gt;&lt;p&gt;Mirza Fakhrul Islam Alamgir takes oath as Bangladesh&amp;#x27;s President&lt;/p&gt;&lt;p&gt;Topics : TikTok US Department of Justice online video apps
-Don&amp;#x27;t miss the most important news and views of the day. Get them on our Telegram channel
-First Published: Aug 22 2026 | 7:21 AM IST&lt;/p&gt;</content:encoded>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.business-standard.com/world-news/tiktok-reaches-400-mn-settlement-with-us-doj-over-children-s-privacy-126082200079_1.html</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
@@ -53,16 +96,12 @@ First Published: Aug 22 2026 | 7:21 AM IST&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">ca57bd37418abfcd2b35b514</guid>
       <pubDate>Fri, 21 Aug 2026 18:49:00 +0000</pubDate>
       <description>The US is behind on about $ 5 billion in dues related to its UN membership, with more than $ 2 billion owed toward the regular budget and $ 3 billion for peacekeeping operations ...</description>
-      <content:encoded>&lt;p&gt;Home / World News / US plans to pay $850 million of $5 billion it owes United Nations&lt;/p&gt;&lt;p&gt;US plans to pay $850 million of $5 billion it owes United Nations The US is behind on about $ 5 billion in dues related to its UN membership, with more than $ 2 billion owed toward the regular budget and $ 3 billion for peacekeeping operations&lt;/p&gt;&lt;p&gt;The State Department laid out its plans to transfer $725 million as part of its dues to the regular UN budget and $ 125 million toward UN peacekeeping operations | Image: Bloomberg&lt;/p&gt;&lt;p&gt;AP Washington 2 min read Last Updated : Aug 22 2026 | 7:19 AM IST&lt;/p&gt;&lt;p&gt;Listen to This Article&lt;/p&gt;&lt;p&gt;The US government has notified Congress of its plans to pay $ 850 million of the several billion it owes to the United Nations, the largest payment the Trump administration would make to the world body since it demanded sweeping reforms in exchange for continued support as its largest donor.&lt;/p&gt;&lt;p&gt;The State Department laid out its plans to transfer $725 million as part of its dues to the regular UN budget and $ 125 million toward UN peacekeeping operations in Haiti and the Democratic Republic of Congo, according to notifications sent to lawmakers this month and obtained by The Associated Press.&lt;/p&gt;&lt;p&gt;The US is behind on about $ 5 billion in dues related to its UN membership, with more than $ 2 billion owed toward the regular budget and $ 3 billion for peacekeeping operations, the United Nations says.&lt;/p&gt;&lt;p&gt;In February, the Trump administration made a single payment of $ 160 million shortly after UN Secretary-General Antonio Guterres warned that the institution was facing &amp;quot;imminent financial collapse&amp;quot; unless its financial rules were overhauled or all 193 member nations paid their dues, a message clearly directed at the United States.&lt;/p&gt;&lt;p&gt;President Donald Trump and his allies have spent the past year and a half demanding drastic changes across the UN, alarming many humanitarian workers and leading to severe reductions in programs and services.&lt;/p&gt;&lt;p&gt;Also Read&lt;/p&gt;&lt;p&gt;Threatening friends and courting enemies in Trump&amp;#x27;s &amp;#x27;upside-down world&amp;#x27;&lt;/p&gt;&lt;p&gt;Trump admin sanctions International Criminal Court president, prosecutor&lt;/p&gt;&lt;p&gt;Kushner meets Israeli PM Netanyahu in effort to break logjam over Gaza&lt;/p&gt;&lt;p&gt;Big, bold step: Trump welcomes Saudi-Turkey-Pak defence pact amid Iran war&lt;/p&gt;&lt;p&gt;Trump orders Pentagon to scale back US-South Korea joint military drills&lt;/p&gt;&lt;p&gt;Trump has publicly called out the world body for not living up to its potential. His administration did not pay anything to the United Nations in 2025, and it has withdrawn from UN organizations, including the World Health Organization and the cultural agency UNESCO, while pulling funding from dozens of others.&lt;/p&gt;&lt;p&gt;The notices sent Aug. 4 - first reported by Reuters - received some initial pushback from Republicans on Capitol Hill who argued that the appropriations do not fully address the administration&amp;#x27;s concerns about what it claims is bloated UN staffing and ideological positions that run counter to Trump&amp;#x27;s anti-woke agenda.&lt;/p&gt;&lt;p&gt;In particular, a GOP congressional aide, who spoke on condition of anonymity because lawmakers have not yet decided how or if to respond to the notifications, said the notifications did not appear to be strong enough on the withholding of US assistance to the UN agency for Palestinian refugees.&lt;/p&gt;&lt;p&gt;The US mission to the United Nations did not immediately respond to a request for comment.&lt;/p&gt;&lt;p&gt;(Only the headline and picture of this report may have been reworked by the Business Standard staff; the rest of the content is auto-generated from a syndicated feed.)&lt;/p&gt;&lt;p&gt;More From This Section&lt;/p&gt;&lt;p&gt;Trump calls Hormuz &amp;#x27;US territory&amp;#x27;, says Iran will never have nuclear weapon&lt;/p&gt;&lt;p&gt;South Korea plans chip windfall fund to back youth, AI investment&lt;/p&gt;&lt;p&gt;How the AI borrowing binge helps drive US government bond yields&lt;/p&gt;&lt;p&gt;Mirza Fakhrul Islam Alamgir takes oath as Bangladesh&amp;#x27;s President&lt;/p&gt;&lt;p&gt;China moves to wrap up saga of troubled property giant Evergrande&lt;/p&gt;&lt;p&gt;Topics : United Nations Trump administration Trump govt
-Don&amp;#x27;t miss the most important news and views of the day. Get them on our Telegram channel
-First Published: Aug 22 2026 | 7:19 AM IST&lt;/p&gt;</content:encoded>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.business-standard.com/world-news/us-plans-to-pay-850-million-of-5-billion-it-owes-united-nations-126082200057_1.html</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
@@ -72,33 +111,28 @@ First Published: Aug 22 2026 | 7:19 AM IST&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">950084477a5c4f993b560a44</guid>
       <pubDate>Fri, 21 Aug 2026 18:46:00 +0000</pubDate>
       <description>Addressing a rally in Myrtle Beach, South Carolina, Trump said, "We cannot let them have a nuclear weapon; we cannot let Iran have a nuclear weapon, or you will see some very bad things ...</description>
-      <content:encoded>&lt;p&gt;Home / World News / Trump calls Hormuz &amp;#x27;US territory&amp;#x27;, says Iran will never have nuclear weapon&lt;/p&gt;&lt;p&gt;Trump calls Hormuz &amp;#x27;US territory&amp;#x27;, says Iran will never have nuclear weapon Addressing a rally in Myrtle Beach, South Carolina, Trump said, &amp;quot;We cannot let them have a nuclear weapon; we cannot let Iran have a nuclear weapon, or you will see some very bad things&lt;/p&gt;&lt;p&gt;Trump said Iran wanted to reach an agreement but questioned whether Washington would accept a deal. (Photo: Reuters)&lt;/p&gt;&lt;p&gt;ANI US 3 min read Last Updated : Aug 22 2026 | 7:16 AM IST&lt;/p&gt;&lt;p&gt;Listen to This Article&lt;/p&gt;&lt;p&gt;US President Donald Trump on Friday (local time) said Iran must never be allowed to obtain a nuclear weapon and described the Strait of Hormuz as &amp;quot;American territory&amp;quot; amid escalating tensions between Washington and Tehran, Al Jazeera reported.&lt;/p&gt;&lt;p&gt;Addressing a rally in Myrtle Beach, South Carolina, Trump said, &amp;quot;We cannot let them have a nuclear weapon; we cannot let Iran have a nuclear weapon, or you will see some very bad things.&amp;quot;&lt;/p&gt;&lt;p&gt;&amp;quot;We went down, and we stopped them; they will never have a nuclear weapon,&amp;quot; he added.&lt;/p&gt;&lt;p&gt;Trump said Iran wanted to reach an agreement but questioned whether Washington would accept a deal, asserting control over the strategic waterway.&lt;/p&gt;&lt;p&gt;&amp;quot;They want to make a deal so badly, we don&amp;#x27;t even know if we want [a deal] because I view the Strait of Hormuz as an American territory right now, it&amp;#x27;s an American territory,&amp;quot; Trump said, as per Al Jazeera.
-Also Read&lt;/p&gt;&lt;p&gt;Best of BS Opinion: Asim Munir, power, and paranoia premium&lt;/p&gt;&lt;p&gt;Stock Market Close: Sensex settles flat, Nifty ends at 24,252; IT, FMCG, auto shares weigh&lt;/p&gt;&lt;p&gt;What&amp;#x27;s the message behind Trump&amp;#x27;s threats of economic warfare against Iran&lt;/p&gt;&lt;p&gt;Canadian provincial leader calls Trump a &amp;#x27;bad person&amp;#x27; amid trade talks&lt;/p&gt;&lt;p&gt;Iran calls new US sanctions &amp;#x27;economic terrorism, crimes against humanity&amp;#x27;&lt;/p&gt;&lt;p&gt;Earlier, speaking to reporters at Joint Base Andrews before departing for Myrtle Beach, Trump had claimed that the United States had &amp;quot;total control&amp;quot; over the Strait of Hormuz and supported the idea of declaring the strategic waterway a US territory.&lt;/p&gt;&lt;p&gt;He said Washington had control over the region linked to the Strait of Hormuz amid its blockade against Iran.&lt;/p&gt;&lt;p&gt;&amp;quot;We&amp;#x27;re just going to sort of see what happens, and we have total control, as you know, of the border; we have total control -- if you look at the blockade, we have total control of that entire region having to do with the Strait of Hormuz,&amp;quot; Trump said.&lt;/p&gt;&lt;p&gt;He also said Iran wanted a deal but was not ready for what he called the &amp;quot;right deal&amp;quot;.&lt;/p&gt;&lt;p&gt;&amp;quot;So they would love to make a deal, but they&amp;#x27;re not ready to make the right deal in my opinion,&amp;quot; Trump said.&lt;/p&gt;&lt;p&gt;The remarks came amid continued tensions between Washington and Tehran over the strategic waterway, through which a significant share of global energy supplies passes.&lt;/p&gt;&lt;p&gt;Earlier, Trump shared an AI-generated image on his Truth Social platform depicting the strategic waterway as &amp;quot;NEW U.S. Territory&amp;quot;, while continuing to assert that the United States had control over the region.&lt;/p&gt;&lt;p&gt;Iran rejected Trump&amp;#x27;s claims, with Iranian Deputy Foreign Minister Kazem Gharibabadi saying the US President&amp;#x27;s assertions over the Strait of Hormuz would be &amp;quot;corrected&amp;quot; either by circumstances or by Iran.&lt;/p&gt;&lt;p&gt;&amp;quot;Just as Trump correctly wrote the name of the eternal Persian Gulf, soon his delusion regarding the Strait of Hormuz will either be corrected or we will correct the delusions of this deluded man,&amp;quot; Gharibabadi said in a post on X.&lt;/p&gt;&lt;p&gt;Iran&amp;#x27;s Supreme National Security Council head Mohsen Rezaei also criticised Trump&amp;#x27;s remarks, saying, &amp;quot;The gap between America&amp;#x27;s inability to reopen the Strait of Hormuz and its claim to own it is greater than the 7,000-mile distance between Washington and the Strait itself. Welcome to the post-American order in the Persian Gulf,&amp;quot; according to his post on X.&lt;/p&gt;&lt;p&gt;Trump had recently announced what he called the &amp;quot;most crushing economic operation ever taken&amp;quot; against Iran and warned countries providing financial, business or government support to Tehran of &amp;quot;tremendous economic consequences.&amp;quot;&lt;/p&gt;&lt;p&gt;Meanwhile, Iranian Parliament Speaker Mohammad Bagher Ghalibaf said Tehran would not reopen the Strait of Hormuz until the United States fulfils commitments under a 14-point memorandum of understanding, including lifting the blockade, releasing frozen Iranian assets and easing oil sanctions.&lt;/p&gt;&lt;p&gt;(Only the headline and picture of this report may have been reworked by the Business Standard staff; the rest of the content is auto-generated from a syndicated feed.)&lt;/p&gt;&lt;p&gt;More From This Section&lt;/p&gt;&lt;p&gt;South Korea plans chip windfall fund to back youth, AI investment&lt;/p&gt;&lt;p&gt;How the AI borrowing binge helps drive US government bond yields&lt;/p&gt;&lt;p&gt;Mirza Fakhrul Islam Alamgir takes oath as Bangladesh&amp;#x27;s President&lt;/p&gt;&lt;p&gt;China moves to wrap up saga of troubled property giant Evergrande&lt;/p&gt;&lt;p&gt;Samsung Electronics expects shareholder returns up to $80 billion this year&lt;/p&gt;&lt;p&gt;Topics : Donald Trump West Asia US-Iran tensions
-Don&amp;#x27;t miss the most important news and views of the day. Get them on our Telegram channel
-First Published: Aug 22 2026 | 7:16 AM IST&lt;/p&gt;</content:encoded>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.business-standard.com/world-news/trump-calls-hormuz-us-territory-says-iran-will-never-have-nuclear-weapon-126082200089_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Sebi proposes distribution model to deepen corporate bond market reach</title>
-      <link>https://www.business-standard.com/economy/news/sebi-proposes-distribution-model-to-deepen-corporate-bond-market-reach-126082100923_1.html</link>
-      <guid isPermaLink="false">0defa1f3dca5707eaf286f3c</guid>
-      <pubDate>Fri, 21 Aug 2026 06:50:00 +0000</pubDate>
-      <description>Fixed Income Channel Partners would work with online bond platforms to distribute permitted securities and facilitate retail transactions, particularly in smaller cities ...</description>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/economy/news/sebi-proposes-distribution-model-to-deepen-corporate-bond-market-reach-126082100923_1.html</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.business-standard.com/world-news/trump-calls-hormuz-us-territory-says-iran-will-never-have-nuclear-weapon-126082200089_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Home ministry asks Google to remove fake bank pages on Firebase</title>
+      <link>https://www.business-standard.com/industry/news/govt-asks-google-to-remove-firebase-accounts-impersonating-banks-websites-126082101300_1.html</link>
+      <guid isPermaLink="false">13b85156350bed633dfa2c58</guid>
+      <pubDate>Fri, 21 Aug 2026 10:54:00 +0000</pubDate>
+      <description>I4C notices said websites and databases were impersonating Android apps of major banks and using offers of reward-point redemption and credit limit upgrades to defraud users ...</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.business-standard.com/industry/news/govt-asks-google-to-remove-firebase-accounts-impersonating-banks-websites-126082101300_1.html</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -117,21 +151,6 @@ First Published: Aug 22 2026 | 7:16 AM IST&lt;/p&gt;</content:encoded>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>No decision yet on PM Tarique Rahman's visit to India: B'desh govt official</title>
-      <link>https://www.business-standard.com/world-news/no-decision-yet-on-pm-tarique-rahman-s-visit-to-india-b-desh-govt-official-126082101086_1.html</link>
-      <guid isPermaLink="false">7fb4c2e7e9c8b0dc9b7137c2</guid>
-      <pubDate>Fri, 21 Aug 2026 06:27:00 +0000</pubDate>
-      <description>The South Asian neighbours have been in talks for weeks regarding Rahman's first trip to New Delhi since taking office in February ...</description>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/world-news/no-decision-yet-on-pm-tarique-rahman-s-visit-to-india-b-desh-govt-official-126082101086_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
       <title>Indonesia, China discuss increasing defence cooperation and energy security</title>
       <link>https://www.business-standard.com/world-news/indonesia-china-discuss-increasing-defence-cooperation-and-energy-security-126082100613_1.html</link>
       <guid isPermaLink="false">4dd1551a45b0b79c02b872c9</guid>
@@ -147,48 +166,18 @@ First Published: Aug 22 2026 | 7:16 AM IST&lt;/p&gt;</content:encoded>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>FSSAI's labelling rules could have wider ramifications for food brands</title>
-      <link>https://www.business-standard.com/industry/news/fssai-food-labelling-rules-energy-drinks-health-claims-food-brands-126082000770_1.html</link>
-      <guid isPermaLink="false">31f7ab3d4054160958f20789</guid>
-      <pubDate>Fri, 21 Aug 2026 03:26:00 +0000</pubDate>
-      <description>Scrutiny of terms such as healthy, natural and 100 per cent, restrictions on 'energy drink' branding and possible front-of-pack warnings could force companies to rethink packaging and positioning ...</description>
+      <title>Elon Musk pitches Starlink as way to connect 'least served' in rural India</title>
+      <link>https://www.business-standard.com/india-news/elon-musk-pitches-starlink-to-connect-least-served-in-rural-india-126082100128_1.html</link>
+      <guid isPermaLink="false">4c82396b74c77a09406ce97b</guid>
+      <pubDate>Thu, 20 Aug 2026 21:56:00 +0000</pubDate>
+      <description>SpaceX founder Elon Musk has pitched Starlink's satellite internet services as a way to connect underserved parts of India, particularly rural areas.</description>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/industry/news/fssai-food-labelling-rules-energy-drinks-health-claims-food-brands-126082000770_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Govt set to approve $1.2 billion incentive plan to make building equipment</title>
-      <link>https://www.business-standard.com/industry/news/govt-set-to-approve-1-2-billion-incentive-plan-to-make-building-equipment-126082100524_1.html</link>
-      <guid isPermaLink="false">4851fd7bd3fcbb224b4b9ef2</guid>
-      <pubDate>Fri, 21 Aug 2026 00:48:00 +0000</pubDate>
-      <description>The new scheme has been designed after assessing the incentives required to make local production viable against the country's existing import dependence ...</description>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/industry/news/govt-set-to-approve-1-2-billion-incentive-plan-to-make-building-equipment-126082100524_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Canada's Fairfax may get 2 years to consolidate holdings for IDBI Bank deal</title>
-      <link>https://www.business-standard.com/companies/news/canada-s-fairfax-may-get-2-years-to-consolidate-holdings-for-idbi-bank-deal-126082100381_1.html</link>
-      <guid isPermaLink="false">675dba5c0a85dac9d4be3a47</guid>
-      <pubDate>Fri, 21 Aug 2026 00:23:00 +0000</pubDate>
-      <description>A long-delayed sale of a majority stake in IDBI Bank, held by the federal government and state insurer Life Insurance Corp of India, is in its final stages ...</description>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/companies/news/canada-s-fairfax-may-get-2-years-to-consolidate-holdings-for-idbi-bank-deal-126082100381_1.html</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.business-standard.com/india-news/elon-musk-pitches-starlink-to-connect-least-served-in-rural-india-126082100128_1.html</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>

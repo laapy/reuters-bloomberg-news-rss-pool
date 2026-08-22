@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 22 Aug 2026 02:37:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 03:46:31 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>トランプ米大統領、ベッセント財務長官に国債市場への介入指示せず</title>
@@ -462,6 +462,25 @@
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://news.yahoo.co.jp/articles/eb896972f3370a91a4c293093f64b20e756c8b25</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>ビットコイン8万ドルに迫る、週間上昇率は3年超ぶり大きさへ</title>
+      <link>https://news.yahoo.co.jp/articles/91e4965ca182c75821387d064b72db581a655e90</link>
+      <guid isPermaLink="false">a204fbb8485c56aae9c215f9</guid>
+      <pubDate>Fri, 21 Aug 2026 03:52:33 +0000</pubDate>
+      <description>（ブルームバーグ）：</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;（ブルームバーグ）： 暗号資産（仮想通貨）のビットコインは3年超ぶりの大幅な週間上昇率となる勢いだ。トレーダーは最近の米国債利回り急上昇の余波や、財政健全化を目指す米国の新たな取り組みを見極めている。&lt;/p&gt;&lt;p&gt;ビットコインは21日に一時9.4%上昇し、ニューヨーク市場終盤には7万7500ドル前後で取引された。今週は約23%上昇しており、このまま維持すれば2023年3月以来最大の週間上昇率となる。ビットコインが最後に8万ドルを付けたのは5月だった。&lt;/p&gt;&lt;p&gt;ベッセント米財務長官が19日、米財務省による長期国債買い戻しの規模を少なくとも2倍にすると発表すると、暗号資産市場に再び高揚感が広がった。相場上昇を受け、トレーダーは数十億ドル規模のショートポジションの清算を余儀なくされた。同日にはトランプ米大統領が暗号資産業界の幹部らと会談し、楽観的な見方が一段と強まった。一方、債券市場への介入がドルの重しになるとの投資家の懸念を背景に、金は5月以来の高値に達した。&lt;/p&gt;&lt;p&gt;ヘッジファンド会社、ブリッジウォーター・アソシエーツの創業者レイ・ダリオ氏は21日のリンクトインへの投稿で、投資家は財務基盤が強固な国や資産に分散投資すべきだと述べた。債券の保有比率を低めにし、ポートフォリオの約10－15%を金に、「少量」をビットコインに振り向けることで、リスクを抑えリターンを高められる可能性があると指摘した。&lt;/p&gt;&lt;p&gt;BTCマーケッツのアナリスト、レイチェル・ルーカス氏は、「本当のけん引役となったのは、米財務省が長期国債の買い戻しを倍増させる方針を示し、それによって長期金利が低下し、リスク選好が幅広く高まったことだ」と指摘。「ビットコインの長期的な投資テーマは何も変わっておらず、そのボラティリティーの大きさも変わっていない」と語った。&lt;/p&gt;&lt;p&gt;ロンドンを拠点とするデジタル資産の流動性・市場データ会社LO:TECHの主任研究員、アダム・モーガン・マッカーシー氏によると、ショートスクイーズは引き続きビットコイン価格上昇の主な要因となっている。コイングラスのデータによると、過去3日間にビットコインではレバレッジをかけた弱気のポジション約25億ドル、暗号資産全体では45億ドル相当が清算された。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_bloomberg</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/91e4965ca182c75821387d064b72db581a655e90</wire:canonicalUrl>
       <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
@@ -966,33 +985,6 @@ SKハイニックスはブルームバーグ・ニュースの問い合わせに
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://news.yahoo.co.jp/articles/5ce2fcf3a3ea47cdff7b1704c549e204f9b1853c</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>米新規失業保険申請は減少、予想も下回る－レイオフ引き続き抑制</title>
-      <link>https://news.yahoo.co.jp/articles/a70b9977e1066a8b9e0d3e884ce6f849035db9ec</link>
-      <guid isPermaLink="false">7f8375281e9fb36ca7d319bc</guid>
-      <pubDate>Thu, 20 Aug 2026 12:43:25 +0000</pubDate>
-      <description>（ブルームバーグ）： 先週の米新規失業保険申請件数は減少し、市場予想も下回った。件数は歴史的な低水準付近にとどまっており、レイオフが全般に抑えられていることが示唆された。
-
-新規失業保険申請件数は7月18日終了週には18万9000件と、1969年以来の少なさとなった。その後は増加傾向にあるものの、件数は過去の水準から見て依然として低い。
-
-より変動の少ない新規申請件数の4週移動平均は、20万4000件に増加した。
-
-季節調整前ベースでは17万2080件に減少。ミシガン州やサウスカロライナ州、カリフォルニア州などでの減少が特に目立った。
-
-原題：US Jobless Claims Edge Lower in Sign of Steady Job Market</description>
-      <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;（ブルームバーグ）： 先週の米新規失業保険申請件数は減少し、市場予想も下回った。件数は歴史的な低水準付近にとどまっており、レイオフが全般に抑えられていることが示唆された。&lt;/p&gt;&lt;p&gt;新規失業保険申請件数は7月18日終了週には18万9000件と、1969年以来の少なさとなった。その後は増加傾向にあるものの、件数は過去の水準から見て依然として低い。&lt;/p&gt;&lt;p&gt;より変動の少ない新規申請件数の4週移動平均は、20万4000件に増加した。&lt;/p&gt;&lt;p&gt;季節調整前ベースでは17万2080件に減少。ミシガン州やサウスカロライナ州、カリフォルニア州などでの減少が特に目立った。&lt;/p&gt;&lt;p&gt;原題：US Jobless Claims Edge Lower in Sign of Steady Job Market (1)（抜粋）&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_bloomberg</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/a70b9977e1066a8b9e0d3e884ce6f849035db9ec</wire:canonicalUrl>
       <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
     </item>
   </channel>
