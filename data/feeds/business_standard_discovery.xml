@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Abusiness-standard.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 23 Aug 2026 14:27:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 14:53:10 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Panama-flagged cargo ship sinks in Bay of Bengal, 22 crew members missing</title>
@@ -26,22 +26,23 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>VW Group India weighs global EVs, local assembly for India market</title>
-      <link>https://www.business-standard.com/industry/auto/vw-group-india-global-evs-local-assembly-india-market-126082300218_1.html</link>
-      <guid isPermaLink="false">3d88276d2452947c4c48e03c</guid>
-      <pubDate>Sun, 23 Aug 2026 06:53:13 +0000</pubDate>
-      <description>Volkswagen Group’s retail sales rose 29.8 per cent year-on-year (Y-o-Y) to 110,000 units in FY26 from 84,810 units in FY25, according to Federation of Automobile Dealers Associations (Fada) data. Its ...</description>
-      <dc:creator>Anjali Singh</dc:creator>
-      <content:encoded>&lt;p&gt;Škoda Auto Volkswagen India is evaluating multiple routes to enter India’s growing electric vehicle (EV) market, including importing global models as fully built units, assembling vehicles locally and developing highly localised products.&lt;/p&gt;</content:encoded>
+      <title>China's Sinopec first-half profit rises 12% after surge in energy prices</title>
+      <link>https://www.business-standard.com/world-news/china-s-sinopec-first-half-profit-rises-12-after-surge-in-energy-prices-126082300345_1.html</link>
+      <guid isPermaLink="false">d8c6c6645e2a9734cb63c7f5</guid>
+      <pubDate>Sun, 23 Aug 2026 09:15:21 +0000</pubDate>
+      <description>The company, officially known as China Petroleum &amp; Chemical Corp., earned 23.8 billion yuan in the first half of last year ...</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;China’s biggest oil refiner saw its first-half profit rise 12% from a year ago, as a surge in global energy prices benefited upstream revenues even as it squeezed fuel sales.  Sinopec’s preliminary net income was 26.6 billion yuan ($4 billion) for the six months through June, it said in an exchange filing on Sunday. The company, officially known as China Petroleum &amp;amp; Chemical Corp., earned 23.8 billion yuan in the first half of last year.  Brent crude averaged about $87 a barrel from January through June, compared with around $71 in the same period in 2025. Prices touched a four-year high above $126 in late April, two months after the US and Israel began a military campaign against Iran. Prices remain volatile as the conflict, now in its sixth month, shows little sign of stopping. The higher prices boosted revenue for the company’s well-head production, and also increased the value of its oil stored in tanks.  But Sinopec also has a major refining business to produce fuels, chemicals and plastics. Higher oil prices mean higher feedstock costs, and the company wasn’t able to pass those along to consumers, as the government curbed fuel exports and capped domestic prices to shield the economy from inflation.  Sinopec said it plans capital spending of 82.9 billion yuan to 99.9 billion yuan in the second half. It’s targeting production of 141.8 million barrels of crude oil and 746.3 billion cubic feet of natural gas.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
+      <wire:relation>repost</wire:relation>
       <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
+      <wire:confidence>0.99</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.business-standard.com/industry/auto/vw-group-india-global-evs-local-assembly-india-market-126082300218_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
+      <wire:canonicalUrl>https://www.business-standard.com/world-news/china-s-sinopec-first-half-profit-rises-12-after-surge-in-energy-prices-126082300345_1.html</wire:canonicalUrl>
+      <wire:evidence>structured credit: Bloomberg</wire:evidence>
     </item>
     <item>
       <title>Swiggy gears up for inventory-led qcom model after shareholder nod</title>
@@ -61,6 +62,21 @@ First Published: Aug 23 2026 | 7:22 PM IST&lt;/p&gt;</content:encoded>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.business-standard.com/companies/news/swiggy-gears-up-for-inventory-led-qcom-model-after-shareholder-nod-126082300610_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>VW Group India weighs global EVs, local assembly for India market</title>
+      <link>https://www.business-standard.com/industry/auto/vw-group-india-global-evs-local-assembly-india-market-126082300218_1.html</link>
+      <guid isPermaLink="false">3d88276d2452947c4c48e03c</guid>
+      <pubDate>Sun, 23 Aug 2026 06:41:00 +0000</pubDate>
+      <description>Volkswagen Group’s retail sales rose 29.8 per cent year-on-year (Y-o-Y) to 110,000 units in FY26 from 84,810 units in FY25, according to Federation of Automobile Dealers Associations (Fada) data. Its ...</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.business-standard.com/industry/auto/vw-group-india-global-evs-local-assembly-india-market-126082300218_1.html</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -171,21 +187,6 @@ First Published: Aug 23 2026 | 5:04 PM IST&lt;/p&gt;</content:encoded>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.business-standard.com/world-news/israeli-settler-siege-of-palestinian-homes-shows-grave-reality-of-west-bank-126082300411_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>China's Sinopec first-half profit rises 12% after surge in energy prices</title>
-      <link>https://www.business-standard.com/world-news/china-s-sinopec-first-half-profit-rises-12-after-surge-in-energy-prices-126082300345_1.html</link>
-      <guid isPermaLink="false">d8c6c6645e2a9734cb63c7f5</guid>
-      <pubDate>Sun, 23 Aug 2026 02:16:00 +0000</pubDate>
-      <description>The company, officially known as China Petroleum &amp; Chemical Corp., earned 23.8 billion yuan in the first half of last year ...</description>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/world-news/china-s-sinopec-first-half-profit-rises-12-after-surge-in-energy-prices-126082300345_1.html</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
