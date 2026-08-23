@@ -5,8 +5,24 @@
     <link>https://feeds.bloomberg.com/markets/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 23 Aug 2026 17:24:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 17:49:21 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Bloomberg This Weekend 8/23/2026</title>
+      <link>https://www.bloomberg.com/news/videos/2026-08-23/bloomberg-this-weekend-8-23-2026-video</link>
+      <guid isPermaLink="false">8293b04a3ff6cafc1c8ea8d6</guid>
+      <pubDate>Sun, 23 Aug 2026 16:19:56 +0000</pubDate>
+      <description>The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Alexis Christoforous bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Former Canadian Finance Minister Chrystia Freeland, RUV Defense and Security Correspondent Ingólfur Sigfússon, PIMCO Executive Vice President, Market Strategist and Generalist Portfolio Manager Tony Crescenzi, “London Falling” Author Patrick Radden Keefe, Ohio Rep. Greg Landsman, Georgia Rep. Rich McCormick, Veda Partners Director of Economic Policy Henrietta Treyz, IBM Senior Vice President and Chief Global Affairs Officer Jonathan Adashek, and Retired Tennis Player and “Nothing Major” Co-Host Sam Querrey. (Source: Bloomberg)</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_markets</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/videos/2026-08-23/bloomberg-this-weekend-8-23-2026-video</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
     <item>
       <title>BTW: Headlines You May Have Missed</title>
       <link>https://www.bloomberg.com/news/videos/2026-08-23/btw-headlines-you-may-have-missed-video</link>
@@ -317,23 +333,6 @@
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-23/f1-reviews-china-boy-band-s-logo-for-similarities-global-times</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Mexican Governor Wanted by US Over Cartel Ties Seeks Leave Again</title>
-      <link>https://www.bloomberg.com/news/articles/2026-08-23/mexican-governor-wanted-by-us-over-cartel-ties-seeks-leave-again</link>
-      <guid isPermaLink="false">411c19b2ea1377839770ea3a</guid>
-      <pubDate>Sun, 23 Aug 2026 04:54:59 +0000</pubDate>
-      <description>The Mexican governor accused by the US of conspiring with a cartel and abetting drug trafficking has once again requested leave, after returning to his post on Friday.</description>
-      <dc:creator>Maya Averbuch</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_markets</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-08-23/mexican-governor-wanted-by-us-over-cartel-ties-seeks-leave-again</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
   </channel>

@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Aswissinfo.ch+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 23 Aug 2026 17:24:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 17:49:21 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Switzerland’s Big Food Question Keeps Voters Busy at Ballot Box</title>
@@ -24,6 +24,25 @@
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.swissinfo.ch/eng/switzerlands-big-food-question-keeps-voters-busy-at-ballot-box/91938399</wire:canonicalUrl>
+      <wire:evidence>structured credit: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Holcim Is Buying Part of James Hardie’s European Business</title>
+      <link>https://www.swissinfo.ch/eng/holcim-is-buying-part-of-james-hardies-european-business/91930883</link>
+      <guid isPermaLink="false">4033efd4419cbc3150f9a46c</guid>
+      <pubDate>Fri, 21 Aug 2026 07:36:09 +0000</pubDate>
+      <description>Holcim Ltd. is acquiring part of the European business of James Hardie Industries Plc for €840 million ($981 million), expanding its building, sustainable flooring and walling solution offerings.</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;Switzerland’s crackdown on dirty money has a blind spot&lt;/p&gt;&lt;p&gt;Read more: Switzerland’s crackdown on dirty money has a blind spot&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>swissinfo_discovery</wire:foundAt>
+      <wire:platform>SWI swissinfo.ch</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.swissinfo.ch/eng/holcim-is-buying-part-of-james-hardies-european-business/91930883</wire:canonicalUrl>
       <wire:evidence>structured credit: Bloomberg</wire:evidence>
     </item>
     <item>
@@ -46,38 +65,19 @@
       <wire:evidence>structured credit: Bloomberg</wire:evidence>
     </item>
     <item>
-      <title>Holcim Is Buying Part of James Hardie’s European Business</title>
-      <link>https://www.swissinfo.ch/eng/holcim-is-buying-part-of-james-hardies-european-business/91930883</link>
-      <guid isPermaLink="false">4033efd4419cbc3150f9a46c</guid>
-      <pubDate>Fri, 21 Aug 2026 02:36:00 +0000</pubDate>
-      <description>Holcim Ltd. is acquiring part of the European business of James Hardie Industries Plc for €840 million ($981 million), expanding its building, sustainable flooring and walling solution offerings.</description>
+      <title>Stocks, Bonds Fall as ‘Bessent Put’ Relief Fades: Markets Wrap</title>
+      <link>https://www.swissinfo.ch/eng/stocks%2c-bonds-fall-as-bessent-put-relief-fades%3a-markets-wrap/91923793</link>
+      <guid isPermaLink="false">a2d99c359753c137a153b1f0</guid>
+      <pubDate>Thu, 20 Aug 2026 14:02:00 +0000</pubDate>
+      <description>A rally in bonds fizzled out and stocks fell on bets the Treasury’s plan to curb borrowing costs is just a short-term fix, with higher energy prices stoking worries about inflation.</description>
       <wire:foundAt>swissinfo_discovery</wire:foundAt>
       <wire:platform>SWI swissinfo.ch</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.swissinfo.ch/eng/holcim-is-buying-part-of-james-hardies-european-business/91930883</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Stocks, Bonds Fall as ‘Bessent Put’ Relief Fades: Markets Wrap</title>
-      <link>https://www.swissinfo.ch/eng/stocks%2c-bonds-fall-as-bessent-put-relief-fades%3a-markets-wrap/91923793</link>
-      <guid isPermaLink="false">a2d99c359753c137a153b1f0</guid>
-      <pubDate>Thu, 20 Aug 2026 20:13:36 +0000</pubDate>
-      <description>A rally in bonds fizzled out and stocks fell on bets the Treasury’s plan to curb borrowing costs is just a short-term fix, with higher energy prices stoking worries about inflation.</description>
-      <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;Switzerland’s crackdown on dirty money has a blind spot&lt;/p&gt;&lt;p&gt;Read more: Switzerland’s crackdown on dirty money has a blind spot&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>swissinfo_discovery</wire:foundAt>
-      <wire:platform>SWI swissinfo.ch</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.swissinfo.ch/eng/stocks%2c-bonds-fall-as-bessent-put-relief-fades%3a-markets-wrap/91923793</wire:canonicalUrl>
-      <wire:evidence>structured credit: Bloomberg</wire:evidence>
+      <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
       <title>China, Switzerland Agree to New Trade Deal Scrapping Most Levies</title>
