@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Amsn.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 23 Aug 2026 14:53:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 15:26:26 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Thomson Reuters Corp (TRI) Stock, Price, News, Quotes, Forecast and Insights - MSN</title>
@@ -140,6 +140,21 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMikAFBVV95cUxONEJta1BZMmVvb19JWGUtakY0c0FyQ2FLbHF6cXB6TW14Wkc2UHhPNVpwemR4SmhzY09WWnJoelVjUFBZOGw4YklKbFV1SVA0a3BYVjRMTDIxX3piMExYMjFEc0RVZW9JOTN6TlIyekVYaHBuUFJSOTdFb21lM2hTVkRBNFZUdWJSZ1E0ckItRm4?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>EUR / CNY Price, Converter and News - MSN</title>
+      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXN0Tk9WZVJTWTRpdjIxanNYbWVoYThwQ2g5QkloM1phSElOS1pCaWNVUEFVNldjOUYyUUNha1NXaUhyc3RORnVrMnNuLTEwT1ljcTlHOGdBZTFsV1ZVY3pkYTNTcnhFNHdoU0lyaUNDNk01WWtIOE1LTVo1Yk1Ia2tnT1JRd1pyZmV2ZkR4dHc?oc=5</link>
+      <guid isPermaLink="false">f136c805b223c459705889c5</guid>
+      <pubDate>Wed, 19 Aug 2026 21:20:28 +0000</pubDate>
+      <description>EUR / CNY Price, Converter and News    MSN</description>
+      <wire:foundAt>msn_discovery</wire:foundAt>
+      <wire:platform>MSN</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXN0Tk9WZVJTWTRpdjIxanNYbWVoYThwQ2g5QkloM1phSElOS1pCaWNVUEFVNldjOUYyUUNha1NXaUhyc3RORnVrMnNuLTEwT1ljcTlHOGdBZTFsV1ZVY3pkYTNTcnhFNHdoU0lyaUNDNk01WWtIOE1LTVo1Yk1Ia2tnT1JRd1pyZmV2ZkR4dHc?oc=5</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -290,21 +305,6 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMijwFBVV95cUxOb0pxZzYwamg0cThwYjZ5MDNtYXRRSVo2OHNNcEZ3YkNKQjJ0SUVGN25BMnlodlVaX2UyNk1LNUx4WHpNdlI5WDhkM091S2xhTnRGOFo4dXIzSGtuWVI3VHlKU1M0NHE5b3Z6Mk5zZ1ZrZHg3V0tRc2YtYzI4TWE0cXNtYXBpUEdRTnlMU0JzSQ?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Personalized News, Top Headlines, Live Updates and more - MSN</title>
-      <link>https://news.google.com/rss/articles/CBMiPkFVX3lxTE9wN2pSeGc0VjJ4U3dqSi1yVXlFTnJHak9KWWpWaEVIN2xqV1pTUGxNSlJUaXcyM2VPalZ0VXpR?oc=5</link>
-      <guid isPermaLink="false">d73450ce378b59c7b8141c70</guid>
-      <pubDate>Tue, 09 Jun 2015 18:21:50 +0000</pubDate>
-      <description>Personalized News, Top Headlines, Live Updates and more    MSN</description>
-      <wire:foundAt>msn_discovery</wire:foundAt>
-      <wire:platform>MSN</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiPkFVX3lxTE9wN2pSeGc0VjJ4U3dqSi1yVXlFTnJHak9KWWpWaEVIN2xqV1pTUGxNSlJUaXcyM2VPalZ0VXpR?oc=5</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
