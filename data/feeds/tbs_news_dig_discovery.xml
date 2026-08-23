@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Anewsdig.tbs.co.jp+%28Reuters+OR+Bloomberg+OR+%E3%83%AD%E3%82%A4%E3%82%BF%E3%83%BC+OR+%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%90%E3%83%BC%E3%82%B0%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 23 Aug 2026 03:54:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 04:40:41 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>ナイジェリアの川でボートが転覆 少なくとも50人死亡</title>
@@ -23,6 +23,25 @@
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/-/2888791?display=1</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>イラン経済孤立化、中国対応が試金石－トランプ政権に手詰まり感</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2886680</link>
+      <guid isPermaLink="false">ed6a2f1e29b056ceec6576d0</guid>
+      <pubDate>Fri, 21 Aug 2026 00:18:00 +0000</pubDate>
+      <description>中国政府向け「ウィンドウズ10」利用停止前倒し－外国製品の排除加速 インスタフォロワー2700万人 インド「ゴキブリ人民党」 モディ政権を揺るがす若者の雇用危機 ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;2時間前
+韓国の個人投資家、年率40%の仕組み商品に食指－株安でもリスク選好&lt;/p&gt;</content:encoded>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2886680</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -44,14 +63,14 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>中国政府向け「ウィンドウズ10」利用停止前倒し－外国製品の排除加速</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2881363</link>
-      <guid isPermaLink="false">3b0a159a990d405bb1cd8f75</guid>
-      <pubDate>Wed, 19 Aug 2026 02:10:38 +0000</pubDate>
-      <description>（ブルームバーグ）：中国は、政府機関向けにカスタマイズされた米マイクロソフトの基本ソフト（OS）「ウィンドウズ10」の利用を停止する。外国製テクノロジーへの依存を減らす取り組み ...</description>
+      <title>世界で長期金利が急騰する3つの理由－日本は利上げ遅れで金利差拡大</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2884912</link>
+      <guid isPermaLink="false">7d4dcf8aab7df3b9cd99590b</guid>
+      <pubDate>Thu, 20 Aug 2026 02:49:59 +0000</pubDate>
+      <description>（ブルームバーグ）：世界各地で長期金利が急上昇している。投資家が償還までの期間が長い債券を保有する見返りとして、より高い利回りを求めているためだ。主要7カ国（G7）の平均国債 ...</description>
       <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;4時間前
-【タッカー･カールソン】「トランプ氏は弱い」「米国を裏切った」「イスラエルに操られている」／バンス氏が大統領ならイラン戦争はなかった／中間選挙で共和党は代償を払う／MAGA派インフルエンサーが決別宣言【CROSS DIG DOCUMENT】&lt;/p&gt;</content:encoded>
+      <content:encoded>&lt;p&gt;2時間前
+韓国の個人投資家、年率40%の仕組み商品に食指－株安でもリスク選好&lt;/p&gt;</content:encoded>
       <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
@@ -60,18 +79,63 @@
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2881363</wire:canonicalUrl>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2884912</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>米公的債務残高、初の40兆ドル突破－「破滅の連鎖」のリスク高まる</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2883700</link>
+      <guid isPermaLink="false">2ca534a12205bed05e43c04d</guid>
+      <pubDate>Thu, 20 Aug 2026 00:40:00 +0000</pubDate>
+      <description>（ブルームバーグ）：米国の公的債務残高が初めて40兆ドル（約6324兆円）を突破した。30兆ドルの大台を突破したのは2022年1月に過ぎず、連邦政府の借り入れ需要が急速に膨らんでいることを ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2883700</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>グーグルとマーベル、半導体で提携拡大－最大122億ドルのワラントも</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2883596</link>
+      <guid isPermaLink="false">6a32d1e252f4c6ce88790746</guid>
+      <pubDate>Wed, 19 Aug 2026 17:55:00 +0000</pubDate>
+      <description>（ブルームバーグ）：米半導体メーカーのマーベル・テクノロジーと、アルファベット傘下のグーグルは19日、半導体の共同開発を巡る提携拡大を発表した。マーベルがグーグルに対し ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2883596</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>原油は約3週間ぶり高値、UAE・イラン関係悪化で中東情勢再び緊迫</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2883481</link>
+      <guid isPermaLink="false">c8b776e15dfa3b501b7447b5</guid>
+      <pubDate>Wed, 19 Aug 2026 15:39:00 +0000</pubDate>
+      <description>（ブルームバーグ）：原油先物相場は上昇し、約3週ぶり高値。米製油所での原油消費が増えたほか、アラブ首長国連邦（UAE）とイランの対立で中東情勢が再び緊迫した。UAEはイランとの ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2883481</wire:canonicalUrl>
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
       <title>ロシアの海上原油輸出が5週連続減少、ウクライナのドローン攻撃響く</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2880712</link>
       <guid isPermaLink="false">eadb0c48a126efade725cefa</guid>
-      <pubDate>Tue, 18 Aug 2026 16:02:48 +0000</pubDate>
+      <pubDate>Tue, 18 Aug 2026 18:02:00 +0000</pubDate>
       <description>（ブルームバーグ）：ロシアの海上原油輸出は減少が続き、4月末以来の水準に低下した。黒海でウクライナのドローン（無人機）にロシアの船舶の通航が脅かされる状態が続いており、実際 ...</description>
-      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;4時間前
-【タッカー･カールソン】「トランプ氏は弱い」「米国を裏切った」「イスラエルに操られている」／バンス氏が大統領ならイラン戦争はなかった／中間選挙で共和党は代償を払う／MAGA派インフルエンサーが決別宣言【CROSS DIG DOCUMENT】&lt;/p&gt;</content:encoded>
       <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
@@ -79,82 +143,30 @@
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2880712</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
-      <title>債券自警団の動き注視も、パニックに陥る理由ない－エド・ヤルデニ氏</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2879179</link>
-      <guid isPermaLink="false">79f8aebb645629ad7ae8f55c</guid>
-      <pubDate>Tue, 18 Aug 2026 07:04:00 +0000</pubDate>
-      <description>（ブルームバーグ）：米ヤルデニ・リサーチは、米政府債務の増大を巡って投資家の不安が強まっている兆候が見られると指摘した。ただ、米国債市場について現時点でパニックに陥る理由 ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2879179</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
-      <title>米カナダ関税交渉、自動車分野巡り難航－新関税発動期限迫る</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2878518</link>
-      <guid isPermaLink="false">e77918c6828aabdb76362d6e</guid>
-      <pubDate>Tue, 18 Aug 2026 03:59:00 +0000</pubDate>
-      <description>（ブルームバーグ）：カナダに対する米国の新たな関税発動期限が迫る中、自動車分野を巡る問題が交渉の大きな障害となっていることが、事情に詳しい関係者の話で分かった。匿名を条件 ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2878518</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
-      <title>米アンソロピック売上高、年換算で10.4兆円突破のペース－IPO後押し</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2877918</link>
-      <guid isPermaLink="false">419890d68b4b94136b4c47cc</guid>
-      <pubDate>Mon, 17 Aug 2026 23:36:00 +0000</pubDate>
-      <description>（ブルームバーグ）：米アンソロピックは、現在の業績を基にすると年間換算売上高が650億ドル（約10兆3600億円）を超えるペースにある。事情に詳しい複数の関係者が明らかにした。</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2877918</wire:canonicalUrl>
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
       <title>ロイター通信世論調査 米国人の80％が“イラン戦争”の長期化を予想 支持率は“過去最低”</title>
       <link>https://newsdig.tbs.co.jp/articles/-/2877878</link>
       <guid isPermaLink="false">4d1fcd56b3d8a3be39a44d6b</guid>
-      <pubDate>Mon, 17 Aug 2026 21:56:22 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 23:56:00 +0000</pubDate>
       <description>ロイター通信が行った世論調査で、「イランでの戦争が長期化する」と考えるアメリカ人が80％に上り、トランプ大統領の支持率は過去最低の33％となったことがわかりました。ロイター通信 ...</description>
-      <dc:creator>TBS NEWS DIG</dc:creator>
-      <content:encoded>&lt;p&gt;ロイター通信世論調査　米国人の80％が“イラン戦争”の長期化を予想　支持率は“過去最低”&lt;/p&gt;&lt;p&gt;TBSテレビ&lt;/p&gt;&lt;p&gt;2026年8月18日(火) 06:56&lt;/p&gt;&lt;p&gt;国際&lt;/p&gt;&lt;p&gt;ロイター通信が行った世論調査で、「イランでの戦争が長期化する」と考えるアメリカ人が80％に上り、トランプ大統領の支持率は過去最低の33％となったことがわかりました。ロイター通信などがアメリカの成人を対象…&lt;/p&gt;&lt;p&gt;続きを読む&lt;/p&gt;</content:encoded>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/-/2877878</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>AI投資の巨額社債、米政府と投資マネー争奪－長期国債利回り押し上げ</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2877857</link>
-      <guid isPermaLink="false">82dd23a834be3db1f4fd0732</guid>
-      <pubDate>Mon, 17 Aug 2026 19:01:00 +0000</pubDate>
-      <description>（ブルームバーグ）：政府が過剰に借り入れると、企業が金融市場から調達できる資金が縮小し、社債利回りが懲罰的な水準まで押し上げられる可能性があるというのが、従来からある経済 ...</description>
+      <title>銅価格、ロンドン市場で過去最高値に迫る－米国に流入続き需給ひっ迫</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2877692</link>
+      <guid isPermaLink="false">167a23c5fbfe981dc3833004</guid>
+      <pubDate>Mon, 17 Aug 2026 11:04:00 +0000</pubDate>
+      <description>（ブルームバーグ）：ロンドン金属取引所（LME）で17日、銅相場が一時1.7%高の1トン＝1万4396ドルとなり、過去最高値の1万4527.50ドルに迫る水準となった。週ベースでは7週連続上昇している。</description>
       <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
@@ -162,52 +174,26 @@
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2877857</wire:canonicalUrl>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2877692</wire:canonicalUrl>
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
-      <title>ベルギー 過去最大規模の山火事 27平方キロ焼失 600人余りが避難 ヨーロッパ各地は先週から熱波</title>
-      <link>https://newsdig.tbs.co.jp/articles/-/2874803</link>
-      <guid isPermaLink="false">fed54a90f8e1eb8d976c4151</guid>
-      <pubDate>Sun, 16 Aug 2026 02:44:00 +0000</pubDate>
-      <description>ベルギー東部で山火事が発生し、過去最大規模となる27平方キロが焼失しました。ロイター通信によりますと、ベルギー東部のドイツ国境に近いハイフェンズ自然保護区で14日、山火事が発生 ...</description>
+      <title>「若者の大移動」は合理的判断。国勢調査が暴いた、人口減少ニッポンの厳しい現実</title>
+      <link>https://newsdig.tbs.co.jp/articles/gallery/2824339?station=withbloomberg</link>
+      <guid isPermaLink="false">cc2658553276bec951704375</guid>
+      <pubDate>Sun, 26 Jul 2026 01:00:00 +0000</pubDate>
+      <description>【冒頭全文】東武鉄道が謝罪会見 「態勢を整えれば、昼間も安全に作業ができると考えて実施」スペーシアXが除草作業中の作業員と接触する事故で4人死亡 “なぜ夜ではなく昼間に作業？” ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;画像 1/5&lt;/p&gt;&lt;p&gt;写真の記事を読む
+スクロールで次の画像へ&lt;/p&gt;</content:encoded>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/-/2874803</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>高市総理 靖国神社に直接参拝はせず「遥拝」 全国戦没者追悼式前に</title>
-      <link>https://newsdig.tbs.co.jp/articles/-/2874555</link>
-      <guid isPermaLink="false">e9ff89caf79ca4119e24d9ed</guid>
-      <pubDate>Sat, 15 Aug 2026 10:03:00 +0000</pubDate>
-      <description>高市総理はきょう（15日）、全国戦没者追悼式に出席するため訪れた日本武道館の駐車場から靖国神社に向かって遥拝しました。高市総理はきょう、全国戦没者追悼式に出席するため会場で ...</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/-/2874555</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>【速報】インドネシア付近でM7.7の地震 日本への津波の影響なし 太平洋で津波発生の可能性</title>
-      <link>https://newsdig.tbs.co.jp/articles/-/2874100</link>
-      <guid isPermaLink="false">755b38b49092ea5a2a38b5c4</guid>
-      <pubDate>Sat, 15 Aug 2026 00:42:00 +0000</pubDate>
-      <description>【LIVE】朝のニュース（Japan News Digest Live）最新情報など（8月23日） 【全国活断層一覧】最も危険な「Sランク」と「S＊ランク」都道府県別 【独自】客のクレカ盗み化粧品購入か バイト先の ...</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/-/2874100</wire:canonicalUrl>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/gallery/2824339?station=withbloomberg</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>

@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 23 Aug 2026 03:54:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 04:40:41 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>韓国の個人投資家、年率40%の仕組み商品に食指－株安でもリスク選好</title>
@@ -24,6 +24,25 @@
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://news.yahoo.co.jp/articles/622257eaf8e3f2d2b52a74ce83892b45864fca4a</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>高利回りのAI関連債、投資適格級にもジャンク債マネー流入</title>
+      <link>https://news.yahoo.co.jp/articles/57e284ea06118e233b3500fc2e2c75a9d7123cde</link>
+      <guid isPermaLink="false">9ba634c460dfbff40bd4cf37</guid>
+      <pubDate>Sun, 23 Aug 2026 00:26:31 +0000</pubDate>
+      <description>（ブルームバーグ）：</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;（ブルームバーグ）： データセンター事業に必要な巨額資金を調達するため、企業が投資適格級の債券でもジャンク債投資家に買い手を求める動きが広がっている。&lt;/p&gt;&lt;p&gt;QTSリアルティ・トラストは今週、マイクロソフトに関連するジョージア州の施設向けに39億ドル（約6200億円）の債券を発行した。債券は投資適格級の格付けを得ていたが、利回りは約7.23%と、中位格付けのジャンク債をも上回る水準だった。ブラックロックが7月にテキサス州のデータセンター事業向けに発行した優良債も、利回りは7.53%だった。&lt;/p&gt;&lt;p&gt;事情に詳しい関係者によると、いずれの案件でも、引受会社は投資適格債を中心に運用する投資家だけでなく、ハイイールド債を中心に運用する投資家にも債券を販売した。&lt;/p&gt;&lt;p&gt;投資適格級の案件でさえ、債券発行でジャンク債投資家の資金を取り込む必要が出ている。企業がAIインフラに数千億ドルを投じる中、それだけ資金調達を巡る競争が激しくなっていることを示している。ブルームバーグ・ニュースがまとめたデータによると、企業は今年、データセンターなどAI関連投資向けにすでに4100億ドル超を借り入れている。&lt;/p&gt;&lt;p&gt;アドベント・キャピタル・マネジメントのハイイールド債ポートフォリオマネジャー、スティーブン・シュバイツァー氏は「ハイイールド債投資家が、投資適格級のテクノロジー債に出向くようになっている」と指摘。「盤石なバランスシートを持つ企業の債券を、ダブルB格のような利回りとスプレッドで買えるなら、足を運ばない手はない」と述べた。&lt;/p&gt;&lt;p&gt;ジャンク債投資家が好機を捉えて投資適格債を買うこと自体は、特に目新しいことではない。例えば新型コロナウイルスのパンデミック時には、多くの運用担当者が割安に見えた比較的高格付けの債券を積極的に買い入れた。&lt;/p&gt;&lt;p&gt;ただ、大手テクノロジー企業の借り入れは前例のない規模に膨らんでおり、これまでの資金調達のあり方とは大きく異なる。数十年にわたり、必要な投資資金はまず株式で、その後は収益性の高い事業が生み出すキャッシュフローで賄うことができた。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_bloomberg</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/57e284ea06118e233b3500fc2e2c75a9d7123cde</wire:canonicalUrl>
       <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
@@ -964,27 +983,6 @@ SKハイニックスはブルームバーグ・ニュースの問い合わせに
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://news.yahoo.co.jp/articles/c6723b953410e7c6e5f6ff7ec0d0ede5f851e353</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>日清食品HDの「冷しカップヌードル」好調、1－2カ月分が1週間で完売</title>
-      <link>https://news.yahoo.co.jp/articles/0043f0745f4e7b57db495d631dc76b4d813ed354</link>
-      <guid isPermaLink="false">08083e45267266d24fd667ce</guid>
-      <pubDate>Thu, 20 Aug 2026 21:00:00 +0000</pubDate>
-      <description>（ブルームバーグ）： 日清食品ホールディングスがこの夏に数量限定で発売した、冷水で作れるカップヌードルが話題を呼んでいる。これまでの常識を覆す新商品として注目され、販売数量こそ公表されていないものの、1－2カ月は持つと見込んでいた当初の供給分が、わずか1週間で完売した。
-
-同社が7月に発売したのは「冷しカップヌードル ピリ辛キムチ味」と「冷しカップヌードル</description>
-      <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;（ブルームバーグ）： 日清食品ホールディングスがこの夏に数量限定で発売した、冷水で作れるカップヌードルが話題を呼んでいる。これまでの常識を覆す新商品として注目され、販売数量こそ公表されていないものの、1－2カ月は持つと見込んでいた当初の供給分が、わずか1週間で完売した。&lt;/p&gt;&lt;p&gt;同社が7月に発売したのは「冷しカップヌードル ピリ辛キムチ味」と「冷しカップヌードル 鶏塩レモン味」の2種類。冷水を注いで5分間待つだけで食べられる。開発には5年を要した。&lt;/p&gt;&lt;p&gt;1958年に日清創業者の安藤百福氏がインスタントラーメンを発明して以来、その調理には基本的に熱湯が欠かせなかった。暑い時期に冷たい食品への需要が高まる中、冷水だけで作れる新商品は長年の常識を覆す試みとなる。&lt;/p&gt;&lt;p&gt;新商品はソーシャルメディア（SNS）で大きな話題となった。インフルエンサーによる試食のほか、冷水の代わりに豆乳やお茶を使って調理するさまざまな楽しみ方が投稿されている。&lt;/p&gt;&lt;p&gt;盛り上がりは香港にも飛び火した。現地最大の無料英字日刊紙「ザ・スタンダード」によると、ある食品店が１日限定で販売したところ、同商品を求める人が列を作った。&lt;/p&gt;&lt;p&gt;新たな用途としても注目される。日清食HDの広報担当者によると、熱湯を用意する必要がないため、非常食として利用できるとの声も寄せられた。増産や通年販売の有無、新たな味の投入については未定で、今回の販売状況などを踏まえ、今後検討していくという。&lt;/p&gt;&lt;p&gt;株式市場では、同社のこうした取り組みを前向きに評価する見方がある。マッコーリー・エクイティ・リサーチのアナリスト、リンダ・ホアン氏らはリポートで、「多様化が進む食文化に合わせた革新的な商品やフレーバーの投入を加速するとともに、複数の販売チャネルにバランスよく展開することに注力している」と指摘した。&lt;/p&gt;&lt;p&gt;岩井コスモ証券投資調査部シニアアナリストの有沢正一氏も、ユニークな商品を打ち出す同社の姿勢がブランドに好影響を与えていると評価した。「価格を訴求するのではなく、価値を訴求する」戦略が定着しており、世間を驚かせる商品を投入することが同社らしさにつながっていると指摘。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_bloomberg</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/0043f0745f4e7b57db495d631dc76b4d813ed354</wire:canonicalUrl>
       <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
     </item>
   </channel>
