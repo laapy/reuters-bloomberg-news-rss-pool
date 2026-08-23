@@ -1,11 +1,1595 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Google News — diagnostic source feed</title>
     <link>https://news.google.com/rss/search?hl=en-US&amp;gl=US&amp;ceid=US%3Aen&amp;q=Bloomberg+when%3A2d</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 23 Aug 2026 07:37:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 08:32:41 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Zelenskyy Says Putin Rejected Offer of Black Sea Shipping Truce - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxOLVoyeXFuYjdueWMwODhLLUVJWWZGYVBpR1hhMzdpOWs5T29VNlc4NUx1cmJSeDVUMlp6RTkxdDBQMGhEWXZoZXhZWlhTVEtiLXdvcEtfSEFQY25kdnZwT1VnWkRWVV9ncmpJRkNuczNraXg4YjBmcHlpWGxxMFN6QlZGa09rMjVSLXFYMVdFOXdZYlJnOU9qN0YyUHJ0MEpTc3gweW1nRUdGMk9lX2ZiRGxhQ2M?oc=5</link>
+      <guid isPermaLink="false">86060a1af469c32d2f68bc7c</guid>
+      <pubDate>Sun, 23 Aug 2026 08:03:23 +0000</pubDate>
+      <description>Zelenskyy Says Putin Rejected Offer of Black Sea Shipping Truce    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMitAFBVV95cUxOLVoyeXFuYjdueWMwODhLLUVJWWZGYVBpR1hhMzdpOWs5T29VNlc4NUx1cmJSeDVUMlp6RTkxdDBQMGhEWXZoZXhZWlhTVEtiLXdvcEtfSEFQY25kdnZwT1VnWkRWVV9ncmpJRkNuczNraXg4YjBmcHlpWGxxMFN6QlZGa09rMjVSLXFYMVdFOXdZYlJnOU9qN0YyUHJ0MEpTc3gweW1nRUdGMk9lX2ZiRGxhQ2M?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Sinopec First-Half Profit Rises 12% After Surge in Energy Prices - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxNUlM5c0xjTndCM1hrSUNMbHRyX0gyS2tKa2ttRy1ORWFnNk1kbktjb1IwMTBSckYtQWh3QnV2eC1IWThOV01ETXJDSkdxUzhSLWotQkNMTXVYdjVLWkRqb1hfUEdwM1p3TVBjUmFaNXg0dm5qS092QmVrMUJVOHhxR05LWnVqR3NwYzBMWXlQS3k0YkotRzBkM2lUUG9MMmNPVFBUdjFUcEc0YzZUeml6ZmxuTW0?oc=5</link>
+      <guid isPermaLink="false">1e599448142b3f4b750cfae0</guid>
+      <pubDate>Sun, 23 Aug 2026 08:03:18 +0000</pubDate>
+      <description>Sinopec First-Half Profit Rises 12% After Surge in Energy Prices    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMitAFBVV95cUxNUlM5c0xjTndCM1hrSUNMbHRyX0gyS2tKa2ttRy1ORWFnNk1kbktjb1IwMTBSckYtQWh3QnV2eC1IWThOV01ETXJDSkdxUzhSLWotQkNMTXVYdjVLWkRqb1hfUEdwM1p3TVBjUmFaNXg0dm5qS092QmVrMUJVOHhxR05LWnVqR3NwYzBMWXlQS3k0YkotRzBkM2lUUG9MMmNPVFBUdjFUcEc0YzZUeml6ZmxuTW0?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Gen Z Is the Canary in AI’s Coal Mine - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNTDZaNUh6bjVxZjBiVjVoUHptUU41SUtnYm9zRWpLSWNVS0s0MVlHVW81dWFGTzhwa1VEVWNpczI2dGJHRGNfNmppNzliZlBXNXcxcTFIbjdCLWhtTTFZVkZmTXhnLUxGcFY5S2tfa1FOdWxadmhmdlZPLWk2bWpJR29ScF9kSnc2Y2VSalB2cTJHZGRuOVFwd2ZweEZKdF8ySDJudDJWVC1OWmEyVHhKeHNaYw?oc=5</link>
+      <guid isPermaLink="false">8f9fc9ffbfdfe80bc2c05d0f</guid>
+      <pubDate>Sun, 23 Aug 2026 08:00:01 +0000</pubDate>
+      <description>Gen Z Is the Canary in AI’s Coal Mine    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiswFBVV95cUxNTDZaNUh6bjVxZjBiVjVoUHptUU41SUtnYm9zRWpLSWNVS0s0MVlHVW81dWFGTzhwa1VEVWNpczI2dGJHRGNfNmppNzliZlBXNXcxcTFIbjdCLWhtTTFZVkZmTXhnLUxGcFY5S2tfa1FOdWxadmhmdlZPLWk2bWpJR29ScF9kSnc2Y2VSalB2cTJHZGRuOVFwd2ZweEZKdF8ySDJudDJWVC1OWmEyVHhKeHNaYw?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Londoners Find ‘Horrendous’ Cracks in Their Homes After Successive Heat Waves - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxONjZ1eVBiMjRmbXdCMkhqR0hPTWRVb2FYXzh5b0NwOU5BT0pJTXlESUR0LWFVc0pPNktMb2QxZXJONVdlUWxvdVluRXpWcTF2T1hNZWhXOFNVaFpEamdsdFNSdFZneWJCMHFMaTF0WDZaNTR0R0xWTVVEbjVNSnoxWTFGWm52WlVHN0FqOVhpQnV2NnpWa195bDBoQU05N2gyekdFeDJiRWhwTWxqWFE?oc=5</link>
+      <guid isPermaLink="false">fe21a46631ffe9e66ff0052f</guid>
+      <pubDate>Sun, 23 Aug 2026 08:00:00 +0000</pubDate>
+      <description>Londoners Find ‘Horrendous’ Cracks in Their Homes After Successive Heat Waves    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMirgFBVV95cUxONjZ1eVBiMjRmbXdCMkhqR0hPTWRVb2FYXzh5b0NwOU5BT0pJTXlESUR0LWFVc0pPNktMb2QxZXJONVdlUWxvdVluRXpWcTF2T1hNZWhXOFNVaFpEamdsdFNSdFZneWJCMHFMaTF0WDZaNTR0R0xWTVVEbjVNSnoxWTFGWm52WlVHN0FqOVhpQnV2NnpWa195bDBoQU05N2gyekdFeDJiRWhwTWxqWFE?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Alibaba to Raise $10 Billion by Selling Shares for AI Expansion - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPU3duTE1FdlVBUFZLNDRQZzByclktNWhNSmtKc2QxcUU1ZnNuSlBvOHlLS0wxMVFsYkNMaG1aMDVFbFY0WGUtTWF1X2JaVlRwcDVKZERCNFlRdTllTjZ1ak90SExFNGFNd3Z1amt1SzJmNTE4eG5sS0xaeGpvWnBvV1ktTUZBbVRKZm83dTVPLWMtd2ZQU0dTVlQ2cHAtV0RGZXBYcndpV0JyaUR4UGwtSDNxWQ?oc=5</link>
+      <guid isPermaLink="false">7cd9d89a6dd0b09e8858a453</guid>
+      <pubDate>Sun, 23 Aug 2026 07:35:32 +0000</pubDate>
+      <description>Alibaba to Raise $10 Billion by Selling Shares for AI Expansion    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiswFBVV95cUxPU3duTE1FdlVBUFZLNDRQZzByclktNWhNSmtKc2QxcUU1ZnNuSlBvOHlLS0wxMVFsYkNMaG1aMDVFbFY0WGUtTWF1X2JaVlRwcDVKZERCNFlRdTllTjZ1ak90SExFNGFNd3Z1amt1SzJmNTE4eG5sS0xaeGpvWnBvV1ktTUZBbVRKZm83dTVPLWMtd2ZQU0dTVlQ2cHAtV0RGZXBYcndpV0JyaUR4UGwtSDNxWQ?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Humanoid Robot Beats Usain Bolt’s 100m World Record in Beijing - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNWlF4S25MY0hsbWdXOFNib3hFd2xveFZKQnh1XzFpWG8ydTFVN3YyM0lPdXhMQlZLbW03UUxiX2VSVkE2SkpOQ21aNlgzNG5IeWZmaDA4UzAwMERFUHJ6cWpQakVnY2dZZUxBUnNWcWwtX1p0blg1Zlo2N3NTTVR6dkhlR2lXNWJXb29sQ012VW9ZR3M4MHB2MmVTWURtNENFU0ZhSG9kSHk0UmlrcUhWVG0tOA?oc=5</link>
+      <guid isPermaLink="false">3417437c3386030c931a635d</guid>
+      <pubDate>Sun, 23 Aug 2026 07:07:21 +0000</pubDate>
+      <description>Humanoid Robot Beats Usain Bolt’s 100m World Record in Beijing    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiswFBVV95cUxNWlF4S25MY0hsbWdXOFNib3hFd2xveFZKQnh1XzFpWG8ydTFVN3YyM0lPdXhMQlZLbW03UUxiX2VSVkE2SkpOQ21aNlgzNG5IeWZmaDA4UzAwMERFUHJ6cWpQakVnY2dZZUxBUnNWcWwtX1p0blg1Zlo2N3NTTVR6dkhlR2lXNWJXb29sQ012VW9ZR3M4MHB2MmVTWURtNENFU0ZhSG9kSHk0UmlrcUhWVG0tOA?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Putin Is Betting Russia Can Out-Suffer Ukraine - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxQSGxnQVU4VUU4X05ZTkFuQTZ6RTFxZVcwMF9ITUY5QWZKbzlhX0t5aDB6X185MXRIN0JiNkwzS1JOVnVPNEgxX3FYOUVubEdDVjFVbWhmb0VCRzllbXFqZlVNVFNkUk9aZEVGTUdzcmJWWXdtdGR2bXBzcGsyT2NxV2FlV1g5LW9vbC1CSTF0eWZ5ZG9iLVM2NDY5dEloUUUyd1phQkZLM0RLS25UbnBF?oc=5</link>
+      <guid isPermaLink="false">19cfee4625142b3b0a29e2b4</guid>
+      <pubDate>Sun, 23 Aug 2026 07:00:02 +0000</pubDate>
+      <description>Putin Is Betting Russia Can Out-Suffer Ukraine    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMirwFBVV95cUxQSGxnQVU4VUU4X05ZTkFuQTZ6RTFxZVcwMF9ITUY5QWZKbzlhX0t5aDB6X185MXRIN0JiNkwzS1JOVnVPNEgxX3FYOUVubEdDVjFVbWhmb0VCRzllbXFqZlVNVFNkUk9aZEVGTUdzcmJWWXdtdGR2bXBzcGsyT2NxV2FlV1g5LW9vbC1CSTF0eWZ5ZG9iLVM2NDY5dEloUUUyd1phQkZLM0RLS25UbnBF?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Europe’s Luxury Giants Discern Green Shoots in Key China Market - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxObXVPU3BMWVVoQnNodVVxMWdETmR0NlhGVmZwbFVYRXp2OHBtYTNMZi1Rdms2MjVRc3dha0h4NzRhRGhhNkNRWjc4UW04YWNPQ2RuVFRMRzhoaE5oR3BVMVl4NnZmZTFLWnplRGJteWN0SkZoeDVUd2g5aG1Tb2tGWVZvQ2x0T0hfdzJSYmo4UUhwbmtYYWY3RnhDVFVLVzhvTzZOT2dDbFFmdWctSmZ5VUwtQ0NJYnFnRGVUUGJScTZBTGJrRG1nY2M5Zw?oc=5</link>
+      <guid isPermaLink="false">536f256ec1226991b1dc5d3f</guid>
+      <pubDate>Sun, 23 Aug 2026 07:00:00 +0000</pubDate>
+      <description>Europe’s Luxury Giants Discern Green Shoots in Key China Market    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiywFBVV95cUxObXVPU3BMWVVoQnNodVVxMWdETmR0NlhGVmZwbFVYRXp2OHBtYTNMZi1Rdms2MjVRc3dha0h4NzRhRGhhNkNRWjc4UW04YWNPQ2RuVFRMRzhoaE5oR3BVMVl4NnZmZTFLWnplRGJteWN0SkZoeDVUd2g5aG1Tb2tGWVZvQ2x0T0hfdzJSYmo4UUhwbmtYYWY3RnhDVFVLVzhvTzZOT2dDbFFmdWctSmZ5VUwtQ0NJYnFnRGVUUGJScTZBTGJrRG1nY2M5Zw?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Burnham Needs to Avoid Messy UK Budget to Keep Good Vibes Alive - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxNNlExdzktSGJMc2E4b1JxZldWTW44WWZyLVpwd0dGcjBYUjV4TUl4a3N4eEV6V0otYkxZTU1VVnVuWWZYb2N0SjctUTdobnRQanE0Z3NZZlZ4bl93VmZpNUo3X2dEWHh5cWlvVzFxV3FGQ0VYcUdGM3ZtOG1YLXhoU3o4R0NRNzFxWnNwVENIQlp2T244TEs2QWY4aW1YSXlxWW82SkR6QXVUU3pvREh2YkxtcTI?oc=5</link>
+      <guid isPermaLink="false">28df31d058002de5274b9223</guid>
+      <pubDate>Sun, 23 Aug 2026 07:00:00 +0000</pubDate>
+      <description>Burnham Needs to Avoid Messy UK Budget to Keep Good Vibes Alive    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMitAFBVV95cUxNNlExdzktSGJMc2E4b1JxZldWTW44WWZyLVpwd0dGcjBYUjV4TUl4a3N4eEV6V0otYkxZTU1VVnVuWWZYb2N0SjctUTdobnRQanE0Z3NZZlZ4bl93VmZpNUo3X2dEWHh5cWlvVzFxV3FGQ0VYcUdGM3ZtOG1YLXhoU3o4R0NRNzFxWnNwVENIQlp2T244TEs2QWY4aW1YSXlxWW82SkR6QXVUU3pvREh2YkxtcTI?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>DeepSeek Ends Weekend Peak Pricing for API Users From Today - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxOeFNQSEZZUWJBaFd0UjhxczRNcWJacndYSG91UGgyVUtXMjNjYmctV2t3VnBPWXFaZFFER3IxMHo3ZVVpRWdULXdkbWVYemxXSlZaZkZyRTVSY0NsLS1pVnNWY1ZCdnpLdWhLeXUxYUxWSUM2cUYtal8tdHpCWmhJUkY0X21PeGczaEM2a3VjNGZGd2dLTUc0cVN4bGhLNWxmZkc5aVhzbWxhaEY2eUI4?oc=5</link>
+      <guid isPermaLink="false">9a87990fb3ab646943c2014a</guid>
+      <pubDate>Sun, 23 Aug 2026 05:57:00 +0000</pubDate>
+      <description>DeepSeek Ends Weekend Peak Pricing for API Users From Today    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMirwFBVV95cUxOeFNQSEZZUWJBaFd0UjhxczRNcWJacndYSG91UGgyVUtXMjNjYmctV2t3VnBPWXFaZFFER3IxMHo3ZVVpRWdULXdkbWVYemxXSlZaZkZyRTVSY0NsLS1pVnNWY1ZCdnpLdWhLeXUxYUxWSUM2cUYtal8tdHpCWmhJUkY0X21PeGczaEM2a3VjNGZGd2dLTUc0cVN4bGhLNWxmZkc5aVhzbWxhaEY2eUI4?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Mystery AI Model Ox Alpha Draws Developers With Free Access - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxQc29aQ2VnX2hNVmtsOENoUWVtRW8wcm82MUt4Uld4SWlzZzM2R1lsTnhWbk9qbUtzcXhfMGV4dlFWT3BlWEVjdF9yNzlLS1JBSTRrMEgtaXhBaFFGVG9rX0NrTk9ZLXF6bUVRTWl5ejlHTWx1b2FlTEVoWkNUR2VvVGNMd1p5T3JnalpKU003LVFHbk1YX3ZPNWM1SWNzQy1mb0xsRHJCTXp0QU1qLWpn?oc=5</link>
+      <guid isPermaLink="false">a5cee35409d747d42d20753f</guid>
+      <pubDate>Sun, 23 Aug 2026 05:55:00 +0000</pubDate>
+      <description>Mystery AI Model Ox Alpha Draws Developers With Free Access    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMirwFBVV95cUxQc29aQ2VnX2hNVmtsOENoUWVtRW8wcm82MUt4Uld4SWlzZzM2R1lsTnhWbk9qbUtzcXhfMGV4dlFWT3BlWEVjdF9yNzlLS1JBSTRrMEgtaXhBaFFGVG9rX0NrTk9ZLXF6bUVRTWl5ejlHTWx1b2FlTEVoWkNUR2VvVGNMd1p5T3JnalpKU003LVFHbk1YX3ZPNWM1SWNzQy1mb0xsRHJCTXp0QU1qLWpn?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Bloomberg IPO: Everything You Need to Know About Bloomberg - FOREX.com</title>
+      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxQaHZWVk5XT252T1FDQXBDdjVVOVk4T0pZejg2eGtlZXAtUW9fYzl5THFmZUE3TFJxNk04cFE5VHppc05HbFhISVBwbGtlemJBMGZtb1U2ZDlLN3FwaUZza21wTnhZLWtSNkR4UDl6V0dSV0cyWkMtcUdKYmFkZTNxNW5LSWk1RHY3ZmFycnNrbGZydWphXzVwc0oyRlRxYlNpUlZOZE1BZw?oc=5</link>
+      <guid isPermaLink="false">a8b25ad0a76071bd7d17cd96</guid>
+      <pubDate>Sun, 23 Aug 2026 05:21:06 +0000</pubDate>
+      <description>Bloomberg IPO: Everything You Need to Know About Bloomberg    FOREX.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMipwFBVV95cUxQaHZWVk5XT252T1FDQXBDdjVVOVk4T0pZejg2eGtlZXAtUW9fYzl5THFmZUE3TFJxNk04cFE5VHppc05HbFhISVBwbGtlemJBMGZtb1U2ZDlLN3FwaUZza21wTnhZLWtSNkR4UDl6V0dSV0cyWkMtcUdKYmFkZTNxNW5LSWk1RHY3ZmFycnNrbGZydWphXzVwc0oyRlRxYlNpUlZOZE1BZw?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>F1 Reviews China Boy Band’s Logo for Similarities: Global Times - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPNmdfb2h0dEltWHA3a0o4Z1JGQUIwbGRuMmVvQTlJbWJTUV9GLVpqeHAtSE9FNHFvTkN5ZUlfbGFZVzZVUFplbmoyb1hsNUYtNjZ0alZfYm42eHVHMTlBdGlkUEVCOWV4cEp4UE9ON0p3UHdLNFZHRFduZW8zY3dCeHBNQUU3c3dGMGxMemlHTWxDZ29EMHdONmJtc1lCblBjUHd2al9kTWZpdVhBT0g3UTlVcw?oc=5</link>
+      <guid isPermaLink="false">208566290f8e56457fa045f8</guid>
+      <pubDate>Sun, 23 Aug 2026 05:15:00 +0000</pubDate>
+      <description>F1 Reviews China Boy Band’s Logo for Similarities: Global Times    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiswFBVV95cUxPNmdfb2h0dEltWHA3a0o4Z1JGQUIwbGRuMmVvQTlJbWJTUV9GLVpqeHAtSE9FNHFvTkN5ZUlfbGFZVzZVUFplbmoyb1hsNUYtNjZ0alZfYm42eHVHMTlBdGlkUEVCOWV4cEp4UE9ON0p3UHdLNFZHRFduZW8zY3dCeHBNQUU3c3dGMGxMemlHTWxDZ29EMHdONmJtc1lCblBjUHd2al9kTWZpdVhBT0g3UTlVcw?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Mexican Governor Wanted by US Over Cartel Ties Seeks Leave Again - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPX05udnNuUWs3c1hIZUkyT3dHMkVHTzc5ZWE0ZTN6azdCQi1haEs2bG1XNDJqUzNMNjU2T3M5VVNiZ0N2WFd6cGZMa3lpSUgtLUV3NTZmZzF3N3FTZ2s0WDJHYnpOd0YyM2xGM2JXbnhfV2NsVVVxRDdreDhWNkJTWkl5VU1tUHl4bWZLT3RpaDZMM2Z5OVMwVkdmaDZ5TjBSV2VwMTBfcXJIc3RYRXpCdkpZWFRCZw?oc=5</link>
+      <guid isPermaLink="false">82a3ba003ca93d929f7f0594</guid>
+      <pubDate>Sun, 23 Aug 2026 04:54:00 +0000</pubDate>
+      <description>Mexican Governor Wanted by US Over Cartel Ties Seeks Leave Again    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMitgFBVV95cUxPX05udnNuUWs3c1hIZUkyT3dHMkVHTzc5ZWE0ZTN6azdCQi1haEs2bG1XNDJqUzNMNjU2T3M5VVNiZ0N2WFd6cGZMa3lpSUgtLUV3NTZmZzF3N3FTZ2s0WDJHYnpOd0YyM2xGM2JXbnhfV2NsVVVxRDdreDhWNkJTWkl5VU1tUHl4bWZLT3RpaDZMM2Z5OVMwVkdmaDZ5TjBSV2VwMTBfcXJIc3RYRXpCdkpZWFRCZw?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Australia Reports First Bird Flu Case in a Mammal as Seal Dies - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ05taDRCQ0hZR0EzWU9lX3hndXUxZUtNaTMwZ05scTNSX0NORm5rX2otQWpmQTJySkM5aEVWTTMzbXpRbVRzczlLVEhHYXpGX0JfdVEyWWduOVNwbDFaNGhYcTJOdTZZS2Y5bFJ6UGc0bDRjZVMxNzl1UG9xMHh3X3BhMUlFV2JaVFFqRV9Da1dHTDk4Ym1BZV9HT3gzcmVTZ0o0Nl91VTBZRXhmVFFiN1RtTQ?oc=5</link>
+      <guid isPermaLink="false">267302ae7b39e5c691036e26</guid>
+      <pubDate>Sun, 23 Aug 2026 04:21:00 +0000</pubDate>
+      <description>Australia Reports First Bird Flu Case in a Mammal as Seal Dies    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ05taDRCQ0hZR0EzWU9lX3hndXUxZUtNaTMwZ05scTNSX0NORm5rX2otQWpmQTJySkM5aEVWTTMzbXpRbVRzczlLVEhHYXpGX0JfdVEyWWduOVNwbDFaNGhYcTJOdTZZS2Y5bFJ6UGc0bDRjZVMxNzl1UG9xMHh3X3BhMUlFV2JaVFFqRV9Da1dHTDk4Ym1BZV9HT3gzcmVTZ0o0Nl91VTBZRXhmVFFiN1RtTQ?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>India Rescues Two of Ship’s 24 Crew Members After Distress Alert - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxNVGFyay12ZGwyM3JRWm1JZFRMd0J0eXh5dC1FU1FJc1ZnUGxxZzVUOVBiZnZIOG0ycEdHcXlwZjByTEZIZ083ZTZwSkNKdlowZUJHb0hReFBBZ0ptM2d6dXJZaHZaZVgxa3V6OFJZR001YkxOcGgwVkZPNGlVVmN0VWJLRUFHcjJyQV8teXJYZHhMRGVUR1lSd1ZVLVNBaE5VOGFUQlVIWnUwYlJfMDdYdGRWRlpRUQ?oc=5</link>
+      <guid isPermaLink="false">3e977cdb94fb932799c1ca5c</guid>
+      <pubDate>Sun, 23 Aug 2026 04:09:00 +0000</pubDate>
+      <description>India Rescues Two of Ship’s 24 Crew Members After Distress Alert    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMitgFBVV95cUxNVGFyay12ZGwyM3JRWm1JZFRMd0J0eXh5dC1FU1FJc1ZnUGxxZzVUOVBiZnZIOG0ycEdHcXlwZjByTEZIZ083ZTZwSkNKdlowZUJHb0hReFBBZ0ptM2d6dXJZaHZaZVgxa3V6OFJZR001YkxOcGgwVkZPNGlVVmN0VWJLRUFHcjJyQV8teXJYZHhMRGVUR1lSd1ZVLVNBaE5VOGFUQlVIWnUwYlJfMDdYdGRWRlpRUQ?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports By Reuters - Investing.com</title>
+      <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbDZPaFpyN010dm5LaWcwWUxiaE1Zc2hQaWRCVWFZX0Z6NDY1dko4c1I1SWFvbU5Qd2pmMDV1cUZGWnRKY1J0MmhlVjZUVS14UktXQVJvTnc4dVJvRG1ydTBqNkJnX1RJV2I4bU5KV2p3UHBURFJjR0FFQnVJVFlsY3hDN0VMOURzNlgzaTQ5R0RaN1pwaGtKRnViaEwxdTdYZ1VaZG40Nk5zVV9LNy1aNkd1WUtGYTFvekJrY0NITGFWb2FaYnlhVUlwU1ZhNXNwbDRXb1RsSTBVQQ?oc=5</link>
+      <guid isPermaLink="false">8ef869c408dd055eb72bcac5</guid>
+      <pubDate>Sun, 23 Aug 2026 03:55:03 +0000</pubDate>
+      <description>Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports By Reuters    Investing.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbDZPaFpyN010dm5LaWcwWUxiaE1Zc2hQaWRCVWFZX0Z6NDY1dko4c1I1SWFvbU5Qd2pmMDV1cUZGWnRKY1J0MmhlVjZUVS14UktXQVJvTnc4dVJvRG1ydTBqNkJnX1RJV2I4bU5KV2p3UHBURFJjR0FFQnVJVFlsY3hDN0VMOURzNlgzaTQ5R0RaN1pwaGtKRnViaEwxdTdYZ1VaZG40Nk5zVV9LNy1aNkd1WUtGYTFvekJrY0NITGFWb2FaYnlhVUlwU1ZhNXNwbDRXb1RsSTBVQQ?oc=5</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Bloomberg News reports</wire:evidence>
+    </item>
+    <item>
+      <title>New Zealand Opposition Vows to Restore RBNZ Dual Mandate - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxNZG5zeGw3YnV2dWlIY21OQ2hLTGpRZXo0UF93dFBCWU1NRDJTekJzYzZnRm4zaHdVaFFOZ09RNnloNWZJOVVLYlFTZjJ2MmFEZE81bjVVTnpxX0VCRmdxQmpTSGpfOU9hamkyZElCRHh2d2ZMazJXQU81b3Q2YUVWZHJrRVJGYThhTnhNYnJGM0dUaHFoOWJTMEQwSHowLWJmVWdWREp1cTZrTDk1Tk9GMVZBdHQ?oc=5</link>
+      <guid isPermaLink="false">d6382ec643a102d5a712a060</guid>
+      <pubDate>Sun, 23 Aug 2026 03:11:00 +0000</pubDate>
+      <description>New Zealand Opposition Vows to Restore RBNZ Dual Mandate    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMitAFBVV95cUxNZG5zeGw3YnV2dWlIY21OQ2hLTGpRZXo0UF93dFBCWU1NRDJTekJzYzZnRm4zaHdVaFFOZ09RNnloNWZJOVVLYlFTZjJ2MmFEZE81bjVVTnpxX0VCRmdxQmpTSGpfOU9hamkyZElCRHh2d2ZMazJXQU81b3Q2YUVWZHJrRVJGYThhTnhNYnJGM0dUaHFoOWJTMEQwSHowLWJmVWdWREp1cTZrTDk1Tk9GMVZBdHQ?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Mark Walter’s Financial Empire Faces Scrutiny After Probes - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxQMG5kSk44RVJsM2tQWnFlUi1EWHdmdDBZQ0xtanRNdUNNSjBMaEdkdV83MlRsalY5WUNFSFVJSEtuV2dxYXVfeF92aHlLYmNlY3ZuOWFlczlsMzg1OGYybFh3VDNzUGZfUGlxa29mQlhDbE44cE1YVDRQWldEbmR2aDIwaGhjUEJoS29NZUZ3T09PNG02MnhvSjl0aU55RS0zWEFxQlJMMnIxcG42YTk0UzBB?oc=5</link>
+      <guid isPermaLink="false">26568a93c2e4dd9e73f40025</guid>
+      <pubDate>Sun, 23 Aug 2026 03:04:37 +0000</pubDate>
+      <description>Mark Walter’s Financial Empire Faces Scrutiny After Probes    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMisgFBVV95cUxQMG5kSk44RVJsM2tQWnFlUi1EWHdmdDBZQ0xtanRNdUNNSjBMaEdkdV83MlRsalY5WUNFSFVJSEtuV2dxYXVfeF92aHlLYmNlY3ZuOWFlczlsMzg1OGYybFh3VDNzUGZfUGlxa29mQlhDbE44cE1YVDRQWldEbmR2aDIwaGhjUEJoS29NZUZ3T09PNG02MnhvSjl0aU55RS0zWEFxQlJMMnIxcG42YTk0UzBB?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Kazakhstan Votes for New Parliament as Tokayev Presses Reforms - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlAxWDc4QlVsSVA2MC04YVBuMi1uVVRxYmVnZ2lYMkNlbC0yNHRjeHVVdE9NTjJMcGVveFM2U1VONnNnLV9CUGwxUGJJRXZFRzMzcTFSdE92b0xwUVR2WHJkRTNBcklGZG9jdE5fNkxNQ211WDBmSUZiQm9WWWpsSXhqYzBSdlRiUGVJQlFrSWNtOWpqZl9QWGw5TjdLRndlVGNFRy1DUTJIamFrcDc4UmpGQQ?oc=5</link>
+      <guid isPermaLink="false">4d1e69778d760c133ccbf66f</guid>
+      <pubDate>Sun, 23 Aug 2026 02:00:00 +0000</pubDate>
+      <description>Kazakhstan Votes for New Parliament as Tokayev Presses Reforms    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlAxWDc4QlVsSVA2MC04YVBuMi1uVVRxYmVnZ2lYMkNlbC0yNHRjeHVVdE9NTjJMcGVveFM2U1VONnNnLV9CUGwxUGJJRXZFRzMzcTFSdE92b0xwUVR2WHJkRTNBcklGZG9jdE5fNkxNQ211WDBmSUZiQm9WWWpsSXhqYzBSdlRiUGVJQlFrSWNtOWpqZl9QWGw5TjdLRndlVGNFRy1DUTJIamFrcDc4UmpGQQ?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Malaysia Rules Out $1.9 Billion Takeover of Passport Supplier - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQRHFjOExhcHNnLU50VjE0ZS1ZNlNQM3ZPcHlUelFNdk9Xam1XbnpleEhWY19zNkJxN2dBNWJnOFdod0p3bC1vVEhpT2pKM09jMlF1SXZJcmxmdE1aOV90MU5fTFZFYVBLY0JjSVVvVWtrR3N4YmFSRmxzc2xOejh4OWZ2TE9mTTdjSklKYWh2aFo0SEZxYzRHeWt1T0ZnMHk4dENVRW1SWEJ3UC1fTFYwMQ?oc=5</link>
+      <guid isPermaLink="false">8c6e211b7cbbf42cabda141e</guid>
+      <pubDate>Sun, 23 Aug 2026 01:51:00 +0000</pubDate>
+      <description>Malaysia Rules Out $1.9 Billion Takeover of Passport Supplier    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMisAFBVV95cUxQRHFjOExhcHNnLU50VjE0ZS1ZNlNQM3ZPcHlUelFNdk9Xam1XbnpleEhWY19zNkJxN2dBNWJnOFdod0p3bC1vVEhpT2pKM09jMlF1SXZJcmxmdE1aOV90MU5fTFZFYVBLY0JjSVVvVWtrR3N4YmFSRmxzc2xOejh4OWZ2TE9mTTdjSklKYWh2aFo0SEZxYzRHeWt1T0ZnMHk4dENVRW1SWEJ3UC1fTFYwMQ?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Trump’s Stock Disclosure Shows More Than 1,000 Trades in June - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxOa0tvdEJYUG5VUzZMLWhzQUNDcFlnQzlucEZFMjVXZ1pLVndMdTN0bXpoTjdRSUdnd0ZZQldXa2RRaFc0eUtOTmRISEdidTlrV19MbFRaX3l0TzVFM1B2RzVOZDU1a0licnNMZ2k1ZlkyMGRjaE1yaVJnZ0FMMUZxTS1jU00ta1hNWWdUVmlrTFdMTVlfUnRXdTR6cXptSXI4dWd6YnFYWlg3djZXMzVkTDFR?oc=5</link>
+      <guid isPermaLink="false">c3240397fed1ae9dc66a6ea9</guid>
+      <pubDate>Sun, 23 Aug 2026 01:06:00 +0000</pubDate>
+      <description>Trump’s Stock Disclosure Shows More Than 1,000 Trades in June    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMisgFBVV95cUxOa0tvdEJYUG5VUzZMLWhzQUNDcFlnQzlucEZFMjVXZ1pLVndMdTN0bXpoTjdRSUdnd0ZZQldXa2RRaFc0eUtOTmRISEdidTlrV19MbFRaX3l0TzVFM1B2RzVOZDU1a0licnNMZ2k1ZlkyMGRjaE1yaVJnZ0FMMUZxTS1jU00ta1hNWWdUVmlrTFdMTVlfUnRXdTR6cXptSXI4dWd6YnFYWlg3djZXMzVkTDFR?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Angola’s Peatlands Raise Hopes for More Hidden Carbon Sinks in Africa - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxOODgxcHRZWjFMX2Z1clhKZW0zbUxFb2Y4ZjVLeEhPYzNwcEhzUWh5RFl2SmJzTkJJSUJkaVdLblUxTXFMOGRyWUlJWEFxNVNLcUhmZmlLZzd4RWNGMWNiN3A1YlVKM0Z0N3Z0dC1kY0ozWEhERmxZRFZvRmFFbERtMG1CbkJJTWRQV0hMSmNfQ3BveXVLRmVXeVp0eW41ZEhaTlBXSXBsZWl0NmxCU0o3NXZubnktU01SRFVjVl9RVF8?oc=5</link>
+      <guid isPermaLink="false">17f2c7900cdb885da6d931c9</guid>
+      <pubDate>Sun, 23 Aug 2026 00:02:32 +0000</pubDate>
+      <description>Angola’s Peatlands Raise Hopes for More Hidden Carbon Sinks in Africa    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiwAFBVV95cUxOODgxcHRZWjFMX2Z1clhKZW0zbUxFb2Y4ZjVLeEhPYzNwcEhzUWh5RFl2SmJzTkJJSUJkaVdLblUxTXFMOGRyWUlJWEFxNVNLcUhmZmlLZzd4RWNGMWNiN3A1YlVKM0Z0N3Z0dC1kY0ozWEhERmxZRFZvRmFFbERtMG1CbkJJTWRQV0hMSmNfQ3BveXVLRmVXeVp0eW41ZEhaTlBXSXBsZWl0NmxCU0o3NXZubnktU01SRFVjVl9RVF8?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Korean Traders Chase 40% Coupons as Risk Appetite Survives Rout - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxOMkJkZUdxWXVjNXJQdnZ0WVc2bXZJY09sUS00eTFKX2RORXhEdWROVUN5cExPeExERnh6VHB2c3lxb2tod0M3OXBVcUJXYTFlNUJIRTRra29ZTy1FUnZWZGU0cmI1UG9mTDhDOTdxSVlWWjNVQzRwbjlLVFlMcmpYMVNMZ1RnTTRMb3VYYXFjc3pKb0NLSXlLb1doMlZUTVRiaUJ4T2l4bmtuQnNGbWpCbC1fRQ?oc=5</link>
+      <guid isPermaLink="false">c9984f77caeb40ca3da94b58</guid>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Korean Traders Chase 40% Coupons as Risk Appetite Survives Rout    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiswFBVV95cUxOMkJkZUdxWXVjNXJQdnZ0WVc2bXZJY09sUS00eTFKX2RORXhEdWROVUN5cExPeExERnh6VHB2c3lxb2tod0M3OXBVcUJXYTFlNUJIRTRra29ZTy1FUnZWZGU0cmI1UG9mTDhDOTdxSVlWWjNVQzRwbjlLVFlMcmpYMVNMZ1RnTTRMb3VYYXFjc3pKb0NLSXlLb1doMlZUTVRiaUJ4T2l4bmtuQnNGbWpCbC1fRQ?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Reuters</title>
+      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5</link>
+      <guid isPermaLink="false">e4ed43726ef8abcf7af2b8cd</guid>
+      <pubDate>Sat, 22 Aug 2026 20:00:21 +0000</pubDate>
+      <description>Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports    Reuters</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Bloomberg News reports</wire:evidence>
+    </item>
+    <item>
+      <title>Kevin Warsh to Make First Jackson Hole Speech as Fed Chair - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxNVEVPbGNlWlprdllRS05ISmRyVHhxVGlmYkxuaG55OURubkVfTEUxN01jek1oR3JCbFotMFdPUFhzTGtXZl9saWhHSHdxVEJSRjVLbXhibDh5V2x4MDRmQWpjTG1xeUJLZVZxQmNmZ0lhOW9jWU5CbDdtZUlWZk00bWtuMU9rdElRMHlZcTNlbkdWTkxBaWh2cmwwY0pMNkJjMTNaTkE3aURDQ1hiQnc?oc=5</link>
+      <guid isPermaLink="false">1269d70717517ff1811f8cd3</guid>
+      <pubDate>Sat, 22 Aug 2026 20:00:00 +0000</pubDate>
+      <description>Kevin Warsh to Make First Jackson Hole Speech as Fed Chair    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMirgFBVV95cUxNVEVPbGNlWlprdllRS05ISmRyVHhxVGlmYkxuaG55OURubkVfTEUxN01jek1oR3JCbFotMFdPUFhzTGtXZl9saWhHSHdxVEJSRjVLbXhibDh5V2x4MDRmQWpjTG1xeUJLZVZxQmNmZ0lhOW9jWU5CbDdtZUlWZk00bWtuMU9rdElRMHlZcTNlbkdWTkxBaWh2cmwwY0pMNkJjMTNaTkE3aURDQ1hiQnc?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Canada Demand for Trucks Tariff Relief Imperiled Trade Talks - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxONnZiWFF1Q2RUeU51TVZsazhPMTlRa2tHeXg0WWV6QkgyV2M5SXhBdFZ2T3BwOUVMbGgyaTYxUTgtMzA2U0k1WDA1S1pmek14UUtRWFI3MElIVlRCbGNHdjJ5em9LczhMOTNFdUI1c2l2aUpsbnNrWVVId2ZuMjVxN2ZCd2dfRGMwS2QxTzF0SWxmdnVjY0hyTU9SVWJtdC13N0RDY1V5eXBmU0hXSW9LbTZSWkM?oc=5</link>
+      <guid isPermaLink="false">f9a8e52d2a5c706d5080e8b2</guid>
+      <pubDate>Sat, 22 Aug 2026 19:58:00 +0000</pubDate>
+      <description>Canada Demand for Trucks Tariff Relief Imperiled Trade Talks    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMitAFBVV95cUxONnZiWFF1Q2RUeU51TVZsazhPMTlRa2tHeXg0WWV6QkgyV2M5SXhBdFZ2T3BwOUVMbGgyaTYxUTgtMzA2U0k1WDA1S1pmek14UUtRWFI3MElIVlRCbGNHdjJ5em9LczhMOTNFdUI1c2l2aUpsbnNrWVVId2ZuMjVxN2ZCd2dfRGMwS2QxTzF0SWxmdnVjY0hyTU9SVWJtdC13N0RDY1V5eXBmU0hXSW9LbTZSWkM?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>GOP Lawmaker Urges Trump to Restore South Korea Military Drills - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxQM25NN3NlLVl0cE14Y2pQbkt0MkRRTU5fNmxYckFKVmgyUy1WSFFMUjBGRVlwZUNfV0Fsa2p3RmZRX1dnZnBvbGhfSUxkZklsSXpWcG1GVFJHYUlkbVJPTHZSZHE4MWhWUXNSRnI4cXE2QWpxYUljSlM5NUVaUl92RURJSDFwa01tS1RRVTJtNEtlSHhZc21HenNIQy1jbE94Rk1KaWRPM2pWTlVCWjFkSzk3M3E?oc=5</link>
+      <guid isPermaLink="false">1bb3155dea3422ba77cbb0f6</guid>
+      <pubDate>Sat, 22 Aug 2026 19:51:06 +0000</pubDate>
+      <description>GOP Lawmaker Urges Trump to Restore South Korea Military Drills    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMitAFBVV95cUxQM25NN3NlLVl0cE14Y2pQbkt0MkRRTU5fNmxYckFKVmgyUy1WSFFMUjBGRVlwZUNfV0Fsa2p3RmZRX1dnZnBvbGhfSUxkZklsSXpWcG1GVFJHYUlkbVJPTHZSZHE4MWhWUXNSRnI4cXE2QWpxYUljSlM5NUVaUl92RURJSDFwa01tS1RRVTJtNEtlSHhZc21HenNIQy1jbE94Rk1KaWRPM2pWTlVCWjFkSzk3M3E?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Canada to Apply Dollar-for-Dollar US Counter-Tariffs as Trade Feud Escalates - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQZE0yeXRuMFhfMHhrcnhHdWdjVUZSZ2czbjJDSUs4MVNDeWxhQkd4VWhqTFNqekJlMmRSMXpwdDlUanJ0Z1RfblBuUUJfODYxa3pxVlVfb1J5bkZpWFRQeW8tSnotODhGbUNwREg0RUdPX3o2VFhfRFJ3OVE3Z0JaMURubENWVGdiRkNSYkdrQUUwYzJHdUx4cU9MSmtqMHRpVTdCbHo1NDF4bnBoVW1IanpNdw?oc=5</link>
+      <guid isPermaLink="false">ab6eddffd8ab3002f19f7829</guid>
+      <pubDate>Sat, 22 Aug 2026 19:45:42 +0000</pubDate>
+      <description>Canada to Apply Dollar-for-Dollar US Counter-Tariffs as Trade Feud Escalates    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiswFBVV95cUxQZE0yeXRuMFhfMHhrcnhHdWdjVUZSZ2czbjJDSUs4MVNDeWxhQkd4VWhqTFNqekJlMmRSMXpwdDlUanJ0Z1RfblBuUUJfODYxa3pxVlVfb1J5bkZpWFRQeW8tSnotODhGbUNwREg0RUdPX3o2VFhfRFJ3OVE3Z0JaMURubENWVGdiRkNSYkdrQUUwYzJHdUx4cU9MSmtqMHRpVTdCbHo1NDF4bnBoVW1IanpNdw?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Yahoo Finance</title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxQUF9oRExlOUE1eWZncXFtUDktNDlVR2JkRlliWjVoVkNnMHptWDBETk1tRUcxaTZrVk1OX2V3YURQX1YyaFNmZGRzdGhkOFltRmtWU0dsaXE4NEFweG1zSE5MdkRmX2I0eUlHZWtRSnpfQ3U4RGlTdVJ2am9XTmo2c1FpT1A5T2ZKTVZnQzF4V1BxdWVaZ0xfdGF1TUc1RjNRVHc?oc=5</link>
+      <guid isPermaLink="false">65b29556f7fa9ed1e88511a6</guid>
+      <pubDate>Sat, 22 Aug 2026 19:20:53 +0000</pubDate>
+      <description>Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports    Yahoo Finance</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiogFBVV95cUxQUF9oRExlOUE1eWZncXFtUDktNDlVR2JkRlliWjVoVkNnMHptWDBETk1tRUcxaTZrVk1OX2V3YURQX1YyaFNmZGRzdGhkOFltRmtWU0dsaXE4NEFweG1zSE5MdkRmX2I0eUlHZWtRSnpfQ3U4RGlTdVJ2am9XTmo2c1FpT1A5T2ZKTVZnQzF4V1BxdWVaZ0xfdGF1TUc1RjNRVHc?oc=5</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Bloomberg News reports</wire:evidence>
+    </item>
+    <item>
+      <title>Watch Scenes From the 2026 Beijing World Humanoid Robot Games - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxOS0tGbm9Yb2tfRUp1b1RqaHNLUjZ4ZTA0elZSUGw0amNDZ09abHdfZ01GMF9EZnJVSU9qYk1BSTBobFR0ZGpJaXZsUmZuNlpxb3JwUEVUeHVRTW9BZDc2aEQ1V1hjU252RWxndWxRNTJmU2RSaTVLRHRzeEhUMFhROVJzdGo2c05mcGVKdVFNTE5ZV3h0MVJBcmRSTk5RazBxdjBjdndoU1pvYUNiZlNn?oc=5</link>
+      <guid isPermaLink="false">bb1411e8fa56411167c92d61</guid>
+      <pubDate>Sat, 22 Aug 2026 19:15:53 +0000</pubDate>
+      <description>Watch Scenes From the 2026 Beijing World Humanoid Robot Games    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMirwFBVV95cUxOS0tGbm9Yb2tfRUp1b1RqaHNLUjZ4ZTA0elZSUGw0amNDZ09abHdfZ01GMF9EZnJVSU9qYk1BSTBobFR0ZGpJaXZsUmZuNlpxb3JwUEVUeHVRTW9BZDc2aEQ1V1hjU252RWxndWxRNTJmU2RSaTVLRHRzeEhUMFhROVJzdGo2c05mcGVKdVFNTE5ZV3h0MVJBcmRSTk5RazBxdjBjdndoU1pvYUNiZlNn?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Juicy Yields Draw Junk Bond ‘Tourists’ to High-Grade AI Debt - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNdGM4LVl5N1E4Y1FCemMwQ19KTkpHVnFBVHhCSUpPQklwQVFvdmtZS0gzY2xHb2NQd0FxR19US0wyS0VRRlpNNE1IUS1DVE80TkJhTEVWMWNiV3VOYjRkYnlfYjdvZ2toOV92TEozaklsNXNmNjFfMzl3N3B3aDZQd1FTQXNORXYxZFRDVmVpY0FaTU1Gdmh3VmtjTDlOeFZmcjBBVlllRlN2azRKSlNpUnhjNA?oc=5</link>
+      <guid isPermaLink="false">314f1d2a98b3513bbd57b565</guid>
+      <pubDate>Sat, 22 Aug 2026 19:00:00 +0000</pubDate>
+      <description>Juicy Yields Draw Junk Bond ‘Tourists’ to High-Grade AI Debt    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiswFBVV95cUxNdGM4LVl5N1E4Y1FCemMwQ19KTkpHVnFBVHhCSUpPQklwQVFvdmtZS0gzY2xHb2NQd0FxR19US0wyS0VRRlpNNE1IUS1DVE80TkJhTEVWMWNiV3VOYjRkYnlfYjdvZ2toOV92TEozaklsNXNmNjFfMzl3N3B3aDZQd1FTQXNORXYxZFRDVmVpY0FaTU1Gdmh3VmtjTDlOeFZmcjBBVlllRlN2azRKSlNpUnhjNA?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Nvidia Customers Notified About AI-Related Price Hikes Above 15% - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxNeWxlMlJjV3JZVWZoeTJhRzlhTDJOenZaS195ZEl4a1NkWERBQUwyU2hQcXlTOEk2RkpqLW5OeWhybzlFbzFONVkyWHhjNWhnSEhZQUpJS2xlSU0wOUQ3b2NsZXd0RTdGMHZsQ25rYTI4aDNNOU05OEVHMHVuaXQ0N2NyUXQtN194VXhqQ0g1SlpwdFZrM3JEeTZvYjFfVWhJaC12NkRfWTE5bzZkMXNyTC1Xbk8?oc=5</link>
+      <guid isPermaLink="false">ae404ce8a89cb7a38989a6a8</guid>
+      <pubDate>Sat, 22 Aug 2026 18:42:34 +0000</pubDate>
+      <description>Nvidia Customers Notified About AI-Related Price Hikes Above 15%    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMitAFBVV95cUxNeWxlMlJjV3JZVWZoeTJhRzlhTDJOenZaS195ZEl4a1NkWERBQUwyU2hQcXlTOEk2RkpqLW5OeWhybzlFbzFONVkyWHhjNWhnSEhZQUpJS2xlSU0wOUQ3b2NsZXd0RTdGMHZsQ25rYTI4aDNNOU05OEVHMHVuaXQ0N2NyUXQtN194VXhqQ0g1SlpwdFZrM3JEeTZvYjFfVWhJaC12NkRfWTE5bzZkMXNyTC1Xbk8?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Trump-Aligned Mail Ballot Rules Readied for High Court Decision - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxPOU5ZVlY2am1Pa256QklMYVFESUU4ODV6SFNvVWp5QVFKb0xaUlVtOGo0bmpWR1NyX1ZFM2dsQndsUlpnSTRvOXdaM0dxV1ptQzhsVDE1QnRvVDhqSWxWVDRzVUJwVVBZT0I0Q2ppSm1QLURlZ2FrZl9RMzdhcUtWNnNzV2RaZzZXZ194TGtMZDBFazVsam1GS2ZlY3BOUkgyOFc1eGN2dFBXSFRQTkRhWElSTC0?oc=5</link>
+      <guid isPermaLink="false">b031e3905ba07443e615de92</guid>
+      <pubDate>Sat, 22 Aug 2026 18:00:38 +0000</pubDate>
+      <description>Trump-Aligned Mail Ballot Rules Readied for High Court Decision    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMitAFBVV95cUxPOU5ZVlY2am1Pa256QklMYVFESUU4ODV6SFNvVWp5QVFKb0xaUlVtOGo0bmpWR1NyX1ZFM2dsQndsUlpnSTRvOXdaM0dxV1ptQzhsVDE1QnRvVDhqSWxWVDRzVUJwVVBZT0I0Q2ppSm1QLURlZ2FrZl9RMzdhcUtWNnNzV2RaZzZXZ194TGtMZDBFazVsam1GS2ZlY3BOUkgyOFc1eGN2dFBXSFRQTkRhWElSTC0?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Hungary to Restart a Nuclear Reactor as Danube Starts to Rise - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWJXVm5HNm8zSEJBakhKNTFia0hLRjZEaklEMFlTV05oay1oS21DbXMxWnY5YW5YMnVvZnk5OTVyM0h0RDBrSVRsRVQ4MVNXY3h1cE04bG9TcV9sZ21LOHBTUnBEWUw1WkNOeEtpVkZnWWdtYTJqTk5pZEdoN09IeHJMTDczQ3lLUmJERDhjVmJPOVd1RlVzdnNoQTNENXB2cWxKUzc4YVFqQmhqQWZTX2R3?oc=5</link>
+      <guid isPermaLink="false">b3db8ec057a32e075ee8388f</guid>
+      <pubDate>Sat, 22 Aug 2026 16:14:49 +0000</pubDate>
+      <description>Hungary to Restart a Nuclear Reactor as Danube Starts to Rise    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWJXVm5HNm8zSEJBakhKNTFia0hLRjZEaklEMFlTV05oay1oS21DbXMxWnY5YW5YMnVvZnk5OTVyM0h0RDBrSVRsRVQ4MVNXY3h1cE04bG9TcV9sZ21LOHBTUnBEWUw1WkNOeEtpVkZnWWdtYTJqTk5pZEdoN09IeHJMTDczQ3lLUmJERDhjVmJPOVd1RlVzdnNoQTNENXB2cWxKUzc4YVFqQmhqQWZTX2R3?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Ukraine Drones Strike Samara Oil Refinery, E-Commerce Warehouse - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPQnMwLUYtT3BRVWoyUmt6bFBBZkV1N3VYMXhXMWtOM2lDNTB4bW9YcWRaNkNDdlZXZWx5ZHZPWmNrTnlvWV8tRVhxLV9wVExXMDltQzl5ei1CSFg2c3h5clh0TE8zbjI4WVNscU1TdWNXaDM5UVlZLVBmUDV6TzVzZFJDRDFRdlRuMWFla083UHFjcG5naGd0Y0RyLWVHemlZMm5GOVVfdHNKMHdvenRRUFA2OA?oc=5</link>
+      <guid isPermaLink="false">d6402d14985e922dcc84ac13</guid>
+      <pubDate>Sat, 22 Aug 2026 15:50:15 +0000</pubDate>
+      <description>Ukraine Drones Strike Samara Oil Refinery, E-Commerce Warehouse    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiswFBVV95cUxPQnMwLUYtT3BRVWoyUmt6bFBBZkV1N3VYMXhXMWtOM2lDNTB4bW9YcWRaNkNDdlZXZWx5ZHZPWmNrTnlvWV8tRVhxLV9wVExXMDltQzl5ei1CSFg2c3h5clh0TE8zbjI4WVNscU1TdWNXaDM5UVlZLVBmUDV6TzVzZFJDRDFRdlRuMWFla083UHFjcG5naGd0Y0RyLWVHemlZMm5GOVVfdHNKMHdvenRRUFA2OA?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Why Moderna’s Cancer Vaccine Is a Breakthrough for mRNA - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMEgwelNGQml6TXltSXRlTzM3TzVlUzBVcUNnZDNrdkg4XzlOa042bmcwbkpBb0Y0X2w1UFdJRi1yQ1FybmtKYXpwYUlMTmk0VDk3UWpycUpCMVpKN1h1QmlSaHc0RFJhUEJJLVdIS2w3VUJKRXA1Q0x2d1ZLdGlxNTlTUFUxTmNSbS15OVY0U1BSckR6dHVoa1hXWUZZQVFEVHo2WDRPZWlhdw?oc=5</link>
+      <guid isPermaLink="false">1bce322d538ee3beed1ad095</guid>
+      <pubDate>Sat, 22 Aug 2026 14:30:00 +0000</pubDate>
+      <description>Why Moderna’s Cancer Vaccine Is a Breakthrough for mRNA    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMEgwelNGQml6TXltSXRlTzM3TzVlUzBVcUNnZDNrdkg4XzlOa042bmcwbkpBb0Y0X2w1UFdJRi1yQ1FybmtKYXpwYUlMTmk0VDk3UWpycUpCMVpKN1h1QmlSaHc0RFJhUEJJLVdIS2w3VUJKRXA1Q0x2d1ZLdGlxNTlTUFUxTmNSbS15OVY0U1BSckR6dHVoa1hXWUZZQVFEVHo2WDRPZWlhdw?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Russia Considers Grain Purchases to Offset Export Disruptions - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxPSjdzVng0T2dFUURzRXJoeE5nV2xQN0lYb2U5RTBrazFzeHJNdkdrbkJiV21nNGtRRVNKMEhPQkZ2WTdzcGs0QWEzel90TU14OG5kaldlZUxlZ3ZpLXJpc1NWVmVuMEgwN1VwOHdmWmdrRmxGRjBFRDg3Q1FMZVY0QUVSNDdfTEFkU0xzeWtUZ0RJdTJKZGU2MUFjU0MtcGZobF9JcXVrYlc0T3RkSlJfMGJ3?oc=5</link>
+      <guid isPermaLink="false">e5342bd7c975c9a64f368f6b</guid>
+      <pubDate>Sat, 22 Aug 2026 14:03:26 +0000</pubDate>
+      <description>Russia Considers Grain Purchases to Offset Export Disruptions    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMisgFBVV95cUxPSjdzVng0T2dFUURzRXJoeE5nV2xQN0lYb2U5RTBrazFzeHJNdkdrbkJiV21nNGtRRVNKMEhPQkZ2WTdzcGs0QWEzel90TU14OG5kaldlZUxlZ3ZpLXJpc1NWVmVuMEgwN1VwOHdmWmdrRmxGRjBFRDg3Q1FMZVY0QUVSNDdfTEFkU0xzeWtUZ0RJdTJKZGU2MUFjU0MtcGZobF9JcXVrYlc0T3RkSlJfMGJ3?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Casinos Look to Sports, Spas and Street Food to Attract Gen Zs - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWmNEcEVqdFY4Q1ctX0ZjYklndEFlUy1aUWVXMk5lUGlpbDZ3dllud0JGQmU2ekh3YnZPZjR1eUwzSnZRdHJMZEFKamlRdHJlTE5ndG5fVXJCZThKTm5sX3hONVpsdG9aV0p6MWh6aHhvdE0zWERuWUxlNWQweEJkWnM4aF9JNGtMNFptWEVkNEYxZk1UZ01kSGNiaGIyeXotTVVFYklwUm5mbWpNUGVKM3k1R2JkbHdP?oc=5</link>
+      <guid isPermaLink="false">687fa1764c87108b23a2d0c7</guid>
+      <pubDate>Sat, 22 Aug 2026 14:00:00 +0000</pubDate>
+      <description>Casinos Look to Sports, Spas and Street Food to Attract Gen Zs    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWmNEcEVqdFY4Q1ctX0ZjYklndEFlUy1aUWVXMk5lUGlpbDZ3dllud0JGQmU2ekh3YnZPZjR1eUwzSnZRdHJMZEFKamlRdHJlTE5ndG5fVXJCZThKTm5sX3hONVpsdG9aV0p6MWh6aHhvdE0zWERuWUxlNWQweEJkWnM4aF9JNGtMNFptWEVkNEYxZk1UZ01kSGNiaGIyeXotTVVFYklwUm5mbWpNUGVKM3k1R2JkbHdP?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Watch MI6 Veteran Warns Against Politicizing Intelligence - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR2xFWktnQXVxbGhrcmVvSGpfYnN4MEg0T3ZFblp0Z2EyMGNLcGFuOWlpZnNmTnVnLUZ4bFlodGxmYmZJRXkyU0Q4ZlJCSDdIbkdzU1IzRnMwc3k4U1FkZV91NzQxd3N3TUtPZlhLUTNPUW9Ob1d3bHYzRTZMX0ZiSVpIeDJFckx0UktCZWxxRXZqR0lmN0pGcEJ1ZlpCMFg2ekVmWEJFc3NRdw?oc=5</link>
+      <guid isPermaLink="false">edc1337f24c542ab37a8e2f6</guid>
+      <pubDate>Sat, 22 Aug 2026 13:42:13 +0000</pubDate>
+      <description>Watch MI6 Veteran Warns Against Politicizing Intelligence    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR2xFWktnQXVxbGhrcmVvSGpfYnN4MEg0T3ZFblp0Z2EyMGNLcGFuOWlpZnNmTnVnLUZ4bFlodGxmYmZJRXkyU0Q4ZlJCSDdIbkdzU1IzRnMwc3k4U1FkZV91NzQxd3N3TUtPZlhLUTNPUW9Ob1d3bHYzRTZMX0ZiSVpIeDJFckx0UktCZWxxRXZqR0lmN0pGcEJ1ZlpCMFg2ekVmWEJFc3NRdw?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>US Hits Canada With 50% Tariffs as Carney Vows to Retaliate - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPSEY3M1NIYzdENFFoNFVfZWZJN29XczZmWUlxNldNVGRiV0duRkpUdFZqNzFvZEtFQng2WkVBNW9lS2dRUWNJUEIwbzdBSmVBSlo0Z2lrak9oY1lqb2xIZmVVN05aWnUxUU9mWjlzbVpMQ3ZxcGx1amxMWGZmMGhUcnVQOG5TVjNYUmxNNXJYUmhlUml0MWVSem9ZZUlyci1laXVhendDWGhMUlVzZ0FxSA?oc=5</link>
+      <guid isPermaLink="false">eac9b1707a91f98e9965f376</guid>
+      <pubDate>Sat, 22 Aug 2026 13:40:36 +0000</pubDate>
+      <description>US Hits Canada With 50% Tariffs as Carney Vows to Retaliate    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMisAFBVV95cUxPSEY3M1NIYzdENFFoNFVfZWZJN29XczZmWUlxNldNVGRiV0duRkpUdFZqNzFvZEtFQng2WkVBNW9lS2dRUWNJUEIwbzdBSmVBSlo0Z2lrak9oY1lqb2xIZmVVN05aWnUxUU9mWjlzbVpMQ3ZxcGx1amxMWGZmMGhUcnVQOG5TVjNYUmxNNXJYUmhlUml0MWVSem9ZZUlyci1laXVhendDWGhMUlVzZ0FxSA?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Russia’s Rosatom Returns Workers to Iran’s Bushehr Nuclear Plant - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxQbmlHVnlKQlJEd3UtZ3V1Y0hvNUdkMlhQTzNzb1luRkpDR3NHZTBhRkt1Yl83VHE3N3YyZS0xUFBjN3JnZnlLbkh3RFJEWEYzYXl4UHl1eEZGYndGZHpBQzVvN2FGbmpiMmxLdG04a3ZCNE9EcUlxSkN0NXRmV0dWOW52UnJOZHluRDFCTmQyOE9IeEdvemtaSnJ2SU1QN28ybkp0eGJMc0JnMVk1ZHBZanViaDR3Zw?oc=5</link>
+      <guid isPermaLink="false">d8b1f0cf996a52a6accca301</guid>
+      <pubDate>Sat, 22 Aug 2026 13:15:26 +0000</pubDate>
+      <description>Russia’s Rosatom Returns Workers to Iran’s Bushehr Nuclear Plant    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMitgFBVV95cUxQbmlHVnlKQlJEd3UtZ3V1Y0hvNUdkMlhQTzNzb1luRkpDR3NHZTBhRkt1Yl83VHE3N3YyZS0xUFBjN3JnZnlLbkh3RFJEWEYzYXl4UHl1eEZGYndGZHpBQzVvN2FGbmpiMmxLdG04a3ZCNE9EcUlxSkN0NXRmV0dWOW52UnJOZHluRDFCTmQyOE9IeEdvemtaSnJ2SU1QN28ybkp0eGJMc0JnMVk1ZHBZanViaDR3Zw?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Trump’s Economic Isolation Plan Risks Iran Strikes Across Gulf - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQc3ljN2pDcWlPaVBoQ21nV3dpb0UyZUhEelA5UEhBVzFiSlVnTV9FeTE3X2hlbkJZRy1pd2FsT3p2UkJXOVdYU2RuLV9ZZWFDRkFOdEtDSlBwM1VmcjBoZVViNlBMY1YzSm5CRzhoSGd1c3pyQ09lUkhoTmlPYmsyR1hJOWdNZzdQeE16X0RYbUhSdjZTTHNIbVRtckMzWFNvYWx0bHhrSFBtYzNOeWlCYWRtWQ?oc=5</link>
+      <guid isPermaLink="false">f4f7b3ce6d8751b45751aeb6</guid>
+      <pubDate>Sat, 22 Aug 2026 13:01:45 +0000</pubDate>
+      <description>Trump’s Economic Isolation Plan Risks Iran Strikes Across Gulf    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiswFBVV95cUxQc3ljN2pDcWlPaVBoQ21nV3dpb0UyZUhEelA5UEhBVzFiSlVnTV9FeTE3X2hlbkJZRy1pd2FsT3p2UkJXOVdYU2RuLV9ZZWFDRkFOdEtDSlBwM1VmcjBoZVViNlBMY1YzSm5CRzhoSGd1c3pyQ09lUkhoTmlPYmsyR1hJOWdNZzdQeE16X0RYbUhSdjZTTHNIbVRtckMzWFNvYWx0bHhrSFBtYzNOeWlCYWRtWQ?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>South Carolina Will Test Trump’s Waning Endorsement Power - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVGFoRHNZREdWMmpHazl6WE51LTJETV9lbk5zMVJ6QUl1OFUxNXZudWJnWlY4VTlCcnVTWm44WTE0cTRPNm9kS2J6SmlQS0g1R2tyTmFyUFkxd0ZiaU01ei1jS3Z6ajdoaUw0b0owRm0yVS1nMDRUZzdsN3BzVGhUdjRsUDRqUngwUWd5NFg3YmQ0RFhCVjRLN1RiU0pkR0NSM1hDbEJ5LVNEc0ZDSEhTZ3g2R2lMZndId1Nr?oc=5</link>
+      <guid isPermaLink="false">e85fe977b9ff2adf9b5cc79e</guid>
+      <pubDate>Sat, 22 Aug 2026 12:00:05 +0000</pubDate>
+      <description>South Carolina Will Test Trump’s Waning Endorsement Power    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVGFoRHNZREdWMmpHazl6WE51LTJETV9lbk5zMVJ6QUl1OFUxNXZudWJnWlY4VTlCcnVTWm44WTE0cTRPNm9kS2J6SmlQS0g1R2tyTmFyUFkxd0ZiaU01ei1jS3Z6ajdoaUw0b0owRm0yVS1nMDRUZzdsN3BzVGhUdjRsUDRqUngwUWd5NFg3YmQ0RFhCVjRLN1RiU0pkR0NSM1hDbEJ5LVNEc0ZDSEhTZ3g2R2lMZndId1Nr?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Can Congress Pass Big Reforms Anymore? Paul Ryan Isn’t Sure - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQTnFHckpEZWhoYVVTa0VsbllWajRCd3phYnAxelhLNDlWejYzemdGSHN6LXBId1N5YzgzLTF0U2NVaE9jUUxLS3NpSzNFRWZ2akV2OU1Ib1VQZmdQeUpyT1ZBcWtYVlVNVnF3bkRES24zeWR6ZVpjeE5vMVJBVUxqRjBBd09NbnJrYjFpNlZPRzBqWV9DNGJBaFVPZWdGbm44eEhKYjhSR2U3dUc5eVNCb2FoZ0NWanM?oc=5</link>
+      <guid isPermaLink="false">64bc8657f678abdbdf854b21</guid>
+      <pubDate>Sat, 22 Aug 2026 12:00:02 +0000</pubDate>
+      <description>Can Congress Pass Big Reforms Anymore? Paul Ryan Isn’t Sure    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMitwFBVV95cUxQTnFHckpEZWhoYVVTa0VsbllWajRCd3phYnAxelhLNDlWejYzemdGSHN6LXBId1N5YzgzLTF0U2NVaE9jUUxLS3NpSzNFRWZ2akV2OU1Ib1VQZmdQeUpyT1ZBcWtYVlVNVnF3bkRES24zeWR6ZVpjeE5vMVJBVUxqRjBBd09NbnJrYjFpNlZPRzBqWV9DNGJBaFVPZWdGbm44eEhKYjhSR2U3dUc5eVNCb2FoZ0NWanM?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Investing in AI for More Jobs, Less Pay - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxNZjc2amdKdDhWX0JYNEtUUHNDWENvaGNXb2ktOUNaWDlZS0xxSWMza0M1QzVXR1RRVUdHSGdVNkVMaFVLLXlManlmQk93eG9IeVFZN2U4YkpoTnBGNk04VmhoV2hwXzc4ZHZ5bFZrSFlobXZhRndIdC1ZVjBXWUY0alpiQ3RZd1czd2tidnA5STBwT2JxZ2tF?oc=5</link>
+      <guid isPermaLink="false">1b82a9fee3ca0667217c9b0d</guid>
+      <pubDate>Sat, 22 Aug 2026 12:00:01 +0000</pubDate>
+      <description>Investing in AI for More Jobs, Less Pay    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMilwFBVV95cUxNZjc2amdKdDhWX0JYNEtUUHNDWENvaGNXb2ktOUNaWDlZS0xxSWMza0M1QzVXR1RRVUdHSGdVNkVMaFVLLXlManlmQk93eG9IeVFZN2U4YkpoTnBGNk04VmhoV2hwXzc4ZHZ5bFZrSFlobXZhRndIdC1ZVjBXWUY0alpiQ3RZd1czd2tidnA5STBwT2JxZ2tF?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Rent or Buy a Home? Strategies in 2026 - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxNRHVrX0hWRXJRODkyNlRQaXNpcGpqQ1FZbjhUak5Ic3hIUFN3ZVJnbHpDT2E1VVlVOUt0YkJ3alhLaHRpZGhuaDlRYTNKdzMtc3ZyaDNVaS1QM1VEZnRLOFdvbE9ZdVNsZTBOZ0liY3drTjU5cm8ya21oUzNmVFNvTUcybjhVQUdRWVBMTlhLdzR1Zm9wZ1V0VWpvTnJPeFRhc0R5azk0QkVtTThtcTlvdWk2VUw?oc=5</link>
+      <guid isPermaLink="false">b4c2da377fb23e3eecca283a</guid>
+      <pubDate>Sat, 22 Aug 2026 12:00:01 +0000</pubDate>
+      <description>Rent or Buy a Home? Strategies in 2026    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMitAFBVV95cUxNRHVrX0hWRXJRODkyNlRQaXNpcGpqQ1FZbjhUak5Ic3hIUFN3ZVJnbHpDT2E1VVlVOUt0YkJ3alhLaHRpZGhuaDlRYTNKdzMtc3ZyaDNVaS1QM1VEZnRLOFdvbE9ZdVNsZTBOZ0liY3drTjU5cm8ya21oUzNmVFNvTUcybjhVQUdRWVBMTlhLdzR1Zm9wZ1V0VWpvTnJPeFRhc0R5azk0QkVtTThtcTlvdWk2VUw?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>If You So Much as Breathe on the AI Stock Bubble, It Might Burst - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN19vRXhzcEpmd3U1TkluUmlPODJXUVRtTXM4Tmt5SW9qckVtSVRLU1RqdkJPYzl6dnRkc0duNktLR0FEY1pJRGhwUGdIVzdkY0h2Qlhyd1BIM1pSUmRLTmpVbm90Y19qTGw4QW1ac3lUX2lUQ1ZRQjZkb29GTkdGZkJqZ0pBdmp2M2QzMnpqMGJpcVhuVWhGY3lUOXp4TGUwdnNxTG5zem96cHc?oc=5</link>
+      <guid isPermaLink="false">2712722ec5604020c9e2b74b</guid>
+      <pubDate>Sat, 22 Aug 2026 12:00:01 +0000</pubDate>
+      <description>If You So Much as Breathe on the AI Stock Bubble, It Might Burst    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN19vRXhzcEpmd3U1TkluUmlPODJXUVRtTXM4Tmt5SW9qckVtSVRLU1RqdkJPYzl6dnRkc0duNktLR0FEY1pJRGhwUGdIVzdkY0h2Qlhyd1BIM1pSUmRLTmpVbm90Y19qTGw4QW1ac3lUX2lUQ1ZRQjZkb29GTkdGZkJqZ0pBdmp2M2QzMnpqMGJpcVhuVWhGY3lUOXp4TGUwdnNxTG5zem96cHc?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Apollo’s Slok Says AI Weighs On Pay Without Cutting Jobs — Yet - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQYlJjNlExcVIxd0E5T1pmZXdyX2c4Q2RiT0lOZFlrMmlkb0kyblVQVjZjeTRzTFhQNTlwN3FwNUFKUnlEd25vMW10dW5TZmQtd0dFeUlQTVFIMEdJbVoxZjNIR3FCRXpLNVQ3VGR5TXF3UkdqZUkxcE0tQ1Y1NG5tS3FFanZkdng4Mjl1ZjdpUlVoOVd0enV5WUlsX3BqOUVtUzliczRncy1EQW9lbTEtZw?oc=5</link>
+      <guid isPermaLink="false">79c479ad722027369646353b</guid>
+      <pubDate>Sat, 22 Aug 2026 12:00:00 +0000</pubDate>
+      <description>Apollo’s Slok Says AI Weighs On Pay Without Cutting Jobs — Yet    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMisAFBVV95cUxQYlJjNlExcVIxd0E5T1pmZXdyX2c4Q2RiT0lOZFlrMmlkb0kyblVQVjZjeTRzTFhQNTlwN3FwNUFKUnlEd25vMW10dW5TZmQtd0dFeUlQTVFIMEdJbVoxZjNIR3FCRXpLNVQ3VGR5TXF3UkdqZUkxcE0tQ1Y1NG5tS3FFanZkdng4Mjl1ZjdpUlVoOVd0enV5WUlsX3BqOUVtUzliczRncy1EQW9lbTEtZw?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Ferrari’s $40 Million EV Is Just the Beginning - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxPdU5vZVNJaEU3RTZlOGwxLWtpV0p4eDVJR1RSal92R3BuMVhnQW9rZENPNkZKVjlPbkFFeGNobG55NmpBVlA3dzNxZEtLOGJ2bjlqS3RTTWIzSXhjQWJrRVJxNnliTzRJSW9QMUdKLWo2YTgzYmhSREhZU0Y1a2lWLWpzczI5ZUFhMTBqTDg3QlZfYWdzVTR2a2pxUDdfMWl4NVRyaG9WT19uOTl3?oc=5</link>
+      <guid isPermaLink="false">44a3c9999550f61e332ceeb7</guid>
+      <pubDate>Sat, 22 Aug 2026 11:30:02 +0000</pubDate>
+      <description>Ferrari’s $40 Million EV Is Just the Beginning    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMirAFBVV95cUxPdU5vZVNJaEU3RTZlOGwxLWtpV0p4eDVJR1RSal92R3BuMVhnQW9rZENPNkZKVjlPbkFFeGNobG55NmpBVlA3dzNxZEtLOGJ2bjlqS3RTTWIzSXhjQWJrRVJxNnliTzRJSW9QMUdKLWo2YTgzYmhSREhZU0Y1a2lWLWpzczI5ZUFhMTBqTDg3QlZfYWdzVTR2a2pxUDdfMWl4NVRyaG9WT19uOTl3?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>As Germany Falters, Central Europe Looks to China for Growth - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxNNXYyLUQxTVJ0S1VBUl85M0NIeU5FUUlyLXNXeDVHRGlZME5MQlByWDNyR1R6aGpxamZDaU1EZE5pR0pRRWliM3pkMmtoNk84TlBTWG9ndUswM3p6RDFtaThSdkZ2TFNnd3h1UlMxcFdORjFWOXRCaENRM2tmVFpuSHhoN1ROazdfSHZpVTJ6NEJDbk95X2tSX0haRGlaZ0ZuM3NreVVldEVHQjVWZm9wTjl4bUg?oc=5</link>
+      <guid isPermaLink="false">f3deae4bd213e346804ce502</guid>
+      <pubDate>Sat, 22 Aug 2026 10:45:01 +0000</pubDate>
+      <description>As Germany Falters, Central Europe Looks to China for Growth    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMitAFBVV95cUxNNXYyLUQxTVJ0S1VBUl85M0NIeU5FUUlyLXNXeDVHRGlZME5MQlByWDNyR1R6aGpxamZDaU1EZE5pR0pRRWliM3pkMmtoNk84TlBTWG9ndUswM3p6RDFtaThSdkZ2TFNnd3h1UlMxcFdORjFWOXRCaENRM2tmVFpuSHhoN1ROazdfSHZpVTJ6NEJDbk95X2tSX0haRGlaZ0ZuM3NreVVldEVHQjVWZm9wTjl4bUg?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Sweden’s Kristersson Cancels Campaign Speech After School Attack - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxQTC1CdjhBV1VTa2EzUDJ3VE01TE9YRElYM01HVHJsN3pXc29WWldYRVA4bGE3REswbmJrSURVajNrVFhZd0xTSThDRjRaUmJPN2VKeU84LTVRSDI3UnVEMm1ra3VtblpJNGQ2bjNpOGpzTlZnejlGZC13bHlzLVZJQUVvd2dIc3JmNnhpQkEybXJncHNpdURBMld6ZzIxbUVLZnMycS1XWU4taldVdU5BdjZEOW1TUQ?oc=5</link>
+      <guid isPermaLink="false">14e00292facc27b5b660f2bc</guid>
+      <pubDate>Sat, 22 Aug 2026 10:34:15 +0000</pubDate>
+      <description>Sweden’s Kristersson Cancels Campaign Speech After School Attack    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMitgFBVV95cUxQTC1CdjhBV1VTa2EzUDJ3VE01TE9YRElYM01HVHJsN3pXc29WWldYRVA4bGE3REswbmJrSURVajNrVFhZd0xTSThDRjRaUmJPN2VKeU84LTVRSDI3UnVEMm1ra3VtblpJNGQ2bjNpOGpzTlZnejlGZC13bHlzLVZJQUVvd2dIc3JmNnhpQkEybXJncHNpdURBMld6ZzIxbUVLZnMycS1XWU4taldVdU5BdjZEOW1TUQ?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>India’s Foreign Minister to Visit Russia Amid US Tariff Threat - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxOcHMzcDYzSHpzYTFuUGtSTnlLVzZ2OVhyZkg4OTlhZHVwd01nTzhCN194bkJRVUR0cHRIVkJ0QWhGMEFidzN6NVdsS2pjWkJzaUZjYWZGODBoUk9SQjJoRGlBRUQ5bl9SVmZmWUhDVVZWYzRYc0lTUTN2VG12dktyb01kaGF5eDhmdE9lN1VUdmtCdUNuT1gwamMwQUdTVE80SlhWOHlwNGg2NHNHaFotcmdWTQ?oc=5</link>
+      <guid isPermaLink="false">a1afa178975c73e429780b6f</guid>
+      <pubDate>Sat, 22 Aug 2026 10:20:05 +0000</pubDate>
+      <description>India’s Foreign Minister to Visit Russia Amid US Tariff Threat    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiswFBVV95cUxOcHMzcDYzSHpzYTFuUGtSTnlLVzZ2OVhyZkg4OTlhZHVwd01nTzhCN194bkJRVUR0cHRIVkJ0QWhGMEFidzN6NVdsS2pjWkJzaUZjYWZGODBoUk9SQjJoRGlBRUQ5bl9SVmZmWUhDVVZWYzRYc0lTUTN2VG12dktyb01kaGF5eDhmdE9lN1VUdmtCdUNuT1gwamMwQUdTVE80SlhWOHlwNGg2NHNHaFotcmdWTQ?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>India’s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxPLXJuUGhZamM5YmE0aVRteEhpVWQ5WUVNd3BoVFhWMURiMmJLWkx1MnAtT2N3cV9YLVZtUzZqUmI0YW1wdXhqOS1XSTE0RFV5SU16eEF6ZFFod0p0TnNvRFZYQWNrYWJ2YkpTNExSTVp2aHJGbk1sTGNZUVgtTWhwS2pxQWpkNXNXZ1dKUTR5UWFWM3NkTGRBeFc5TmdCaktJTmw2WkVvRlNPTF9faUVBQ0wyYzY?oc=5</link>
+      <guid isPermaLink="false">70a9f88259d97eb810293ac6</guid>
+      <pubDate>Sat, 22 Aug 2026 09:58:03 +0000</pubDate>
+      <description>India’s Central Bank Says Forex Deposit Inflows at $65.4 Billion    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMitAFBVV95cUxPLXJuUGhZamM5YmE0aVRteEhpVWQ5WUVNd3BoVFhWMURiMmJLWkx1MnAtT2N3cV9YLVZtUzZqUmI0YW1wdXhqOS1XSTE0RFV5SU16eEF6ZFFod0p0TnNvRFZYQWNrYWJ2YkpTNExSTVp2aHJGbk1sTGNZUVgtTWhwS2pxQWpkNXNXZ1dKUTR5UWFWM3NkTGRBeFc5TmdCaktJTmw2WkVvRlNPTF9faUVBQ0wyYzY?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>US Seen Mimicking Japan on Currency Debasement - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPTk5LcHNobGdPZXFfZUJPSU9Oc3RfVHRWcVgwaTBDZnd3LTVieWpTWVJUdm1uemR4YllWckphMllpQWFxRVpCenFCMDdnS2RZTnFpNk9mZzJJbUVhcl9VWUNWUjNuUkZrUXk2QVhfcFpodmhBdGFHTER2Z2xNV3pYdzdnZWRXMGktWkYzSmJsWjVwQ1luN1VCZllzS3czOUlrSm9QOThJT1RBdDFUd28tMlFMVjlCZw?oc=5</link>
+      <guid isPermaLink="false">de7a40d5aee07ab50e32bb8e</guid>
+      <pubDate>Sat, 22 Aug 2026 09:49:43 +0000</pubDate>
+      <description>US Seen Mimicking Japan on Currency Debasement    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMitgFBVV95cUxPTk5LcHNobGdPZXFfZUJPSU9Oc3RfVHRWcVgwaTBDZnd3LTVieWpTWVJUdm1uemR4YllWckphMllpQWFxRVpCenFCMDdnS2RZTnFpNk9mZzJJbUVhcl9VWUNWUjNuUkZrUXk2QVhfcFpodmhBdGFHTER2Z2xNV3pYdzdnZWRXMGktWkYzSmJsWjVwQ1luN1VCZllzS3czOUlrSm9QOThJT1RBdDFUd28tMlFMVjlCZw?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Charting the Global Economy: UK Payrolls Slide, Inflation Rises - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxPWmFmdzVsa0pqdlZLSFVxN2RwdXFUeEQ1YUhCS053YWdCNEpUWC1ld1loTHdETExmQzBhMTQtbTZ0OUowVTdOVGN2eFJ2X3lFX253ZzI0alloZmRUT1hPTUVzUEJjQ3B0dWdEdzhpX0Y3SFlhZ2ppakRPbHNMREs4NW9FVWJGTVlXWmFCZU1TNXAxaGQwa1c3V3Jfb080YVNNUDY3MmhINllxS3U1aVRndDdPdDZ1cDdDbXJkS190SQ?oc=5</link>
+      <guid isPermaLink="false">e97420951e0cd8b9da39595c</guid>
+      <pubDate>Sat, 22 Aug 2026 09:00:00 +0000</pubDate>
+      <description>Charting the Global Economy: UK Payrolls Slide, Inflation Rises    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMivwFBVV95cUxPWmFmdzVsa0pqdlZLSFVxN2RwdXFUeEQ1YUhCS053YWdCNEpUWC1ld1loTHdETExmQzBhMTQtbTZ0OUowVTdOVGN2eFJ2X3lFX253ZzI0alloZmRUT1hPTUVzUEJjQ3B0dWdEdzhpX0Y3SFlhZ2ppakRPbHNMREs4NW9FVWJGTVlXWmFCZU1TNXAxaGQwa1c3V3Jfb080YVNNUDY3MmhINllxS3U1aVRndDdPdDZ1cDdDbXJkS190SQ?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Switzerland’s Big Food Question Keeps Voters Busy at Ballot Box - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWo1T1RTcGh0eTljQTJ2SzAtSGxkcUhuc3JRT2dwR3lGYlNVM19GNVFsVk4xT1FQYUZPbE0tMmljZHNWYndsc3RBMHBmclVDbmhNZ0ZveC12cTlZakJ4QkdZeE9ORVhuS2I4M29nbHkxWTc5MnhOWlNzZXhGVUxwWl83dXQ5cFc0YXNaMzB5NE1wVXZzVFh5c3R6Y0hsd2J5eHpiZFB4NmVCci1mdWtvWW9VNW8?oc=5</link>
+      <guid isPermaLink="false">1c8151badff63502d1f707a6</guid>
+      <pubDate>Sat, 22 Aug 2026 07:00:00 +0000</pubDate>
+      <description>Switzerland’s Big Food Question Keeps Voters Busy at Ballot Box    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWo1T1RTcGh0eTljQTJ2SzAtSGxkcUhuc3JRT2dwR3lGYlNVM19GNVFsVk4xT1FQYUZPbE0tMmljZHNWYndsc3RBMHBmclVDbmhNZ0ZveC12cTlZakJ4QkdZeE9ORVhuS2I4M29nbHkxWTc5MnhOWlNzZXhGVUxwWl83dXQ5cFc0YXNaMzB5NE1wVXZzVFh5c3R6Y0hsd2J5eHpiZFB4NmVCci1mdWtvWW9VNW8?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Romania Moves to Safeguard Nuclear Plant on Record Low Danube - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxPNEJLMWNzWlpLbnZYUENUZWxHQ1JZWWx2c1Ata1Blb3hKeU0zN25vV3dwMXVMaWV2UGNiVWtiTFVlblZObFFHay1NWThxOFdaWEwzeGU1cXAxUzhydGd4MVUyQjE5bzg1ZjQxWVN5bkllaTRzdVlibWR0Ml9LNFBwN0RNMFg1UzFrQkZsUHJLankxZzBBWHNBWS13OWNUTVZTMS1XWm9VZUMzbDVmUi03Nk9n?oc=5</link>
+      <guid isPermaLink="false">420aa6050ca986988a8fb29a</guid>
+      <pubDate>Sat, 22 Aug 2026 06:46:00 +0000</pubDate>
+      <description>Romania Moves to Safeguard Nuclear Plant on Record Low Danube    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMisgFBVV95cUxPNEJLMWNzWlpLbnZYUENUZWxHQ1JZWWx2c1Ata1Blb3hKeU0zN25vV3dwMXVMaWV2UGNiVWtiTFVlblZObFFHay1NWThxOFdaWEwzeGU1cXAxUzhydGd4MVUyQjE5bzg1ZjQxWVN5bkllaTRzdVlibWR0Ml9LNFBwN0RNMFg1UzFrQkZsUHJLankxZzBBWHNBWS13OWNUTVZTMS1XWm9VZUMzbDVmUi03Nk9n?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Mexico Optimistic it Can Achieve Lower US Tariffs on Cars, Steel - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxQbXEwdHlOVjU5N1dDbWtsVVZpeDhpbjlmdURFc1lRQ0p3RDhtTmo0RUd2dUNIYW1qdWc1U0VOMlJ5dXJuSTNfLXltMGZwcHZjNkVha3JHQXU3UjNEcXpTVEZrYnZlSVpkd2dqdEhxNTkyRndtdXRoY25iTkw1Q0kxNUdpaUhLRWF4U0lGNWZDQmZZU1k4YVB1SDlYVXhNOEJsVFZHN05lMjRfZVRxS0R2a0tMbUc?oc=5</link>
+      <guid isPermaLink="false">f35423aa0200a1e5f21908a4</guid>
+      <pubDate>Sat, 22 Aug 2026 00:16:00 +0000</pubDate>
+      <description>Mexico Optimistic it Can Achieve Lower US Tariffs on Cars, Steel    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMitAFBVV95cUxQbXEwdHlOVjU5N1dDbWtsVVZpeDhpbjlmdURFc1lRQ0p3RDhtTmo0RUd2dUNIYW1qdWc1U0VOMlJ5dXJuSTNfLXltMGZwcHZjNkVha3JHQXU3UjNEcXpTVEZrYnZlSVpkd2dqdEhxNTkyRndtdXRoY25iTkw1Q0kxNUdpaUhLRWF4U0lGNWZDQmZZU1k4YVB1SDlYVXhNOEJsVFZHN05lMjRfZVRxS0R2a0tMbUc?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Watch Trade Breakdown Deepens US Canada Rift - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxNR0MwamNvaXNENzNBX2xJSlQzRzlXMmUtR0lzX0RGZGxNTno0S0pXcWQ1dmxzNXN6c056SVNwMGc0SzRDejBFMzZyU18tejlOYV90Q01hTEFsbTJSeFFRNXg0cmpsMTc5ODFLM3ZOZzkwMDZQc3BacEhWeTFYWThvMWtPTWhIU1hzQWxLNXhlZzhkcUtWMkp3Xw?oc=5</link>
+      <guid isPermaLink="false">0e4e1af7b180d3070c77b35b</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Watch Trade Breakdown Deepens US Canada Rift    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMimAFBVV95cUxNR0MwamNvaXNENzNBX2xJSlQzRzlXMmUtR0lzX0RGZGxNTno0S0pXcWQ1dmxzNXN6c056SVNwMGc0SzRDejBFMzZyU18tejlOYV90Q01hTEFsbTJSeFFRNXg0cmpsMTc5ODFLM3ZOZzkwMDZQc3BacEhWeTFYWThvMWtPTWhIU1hzQWxLNXhlZzhkcUtWMkp3Xw?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Watch Bloomberg This Weekend 8/22/2026 - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNdUhoNFlYcnhCMjdicTBlQkZsWHI3azgwM0o4MF9tWmtsYUlub0hSNlM3UmlYcDdmellYLVNLM3h1Rzl1cVZpM0RObl92SzJobW5fTXh3NlpPZ0dQTEdFalNVRVFJcGVsNXFDQlN0LXhqaXJsVHBWR21FX1hyWnl3SGo1YktIcXAzZEp0UkstWjI?oc=5</link>
+      <guid isPermaLink="false">a2f75894a576b22557f43c0c</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Watch Bloomberg This Weekend 8/22/2026    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMikAFBVV95cUxNdUhoNFlYcnhCMjdicTBlQkZsWHI3azgwM0o4MF9tWmtsYUlub0hSNlM3UmlYcDdmellYLVNLM3h1Rzl1cVZpM0RObl92SzJobW5fTXh3NlpPZ0dQTEdFalNVRVFJcGVsNXFDQlN0LXhqaXJsVHBWR21FX1hyWnl3SGo1YktIcXAzZEp0UkstWjI?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Watch Pointed! Bloomberg's Weekly News Quiz For Risk-Takers - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb0ZWRG4yalVqU1I3XzBUU3B4ZndxUWRLbVk4b1VhS05xQ2VhUmNJN1MyV2FCaXl4alp4U0dPSGMzUXJwcEc4cGh3bVc4ZmY0Q2FfLVN2S2RVdG1tSmlYc3BQSHNrWGxTN0U0TEs3eEFjVERtbTd1MDNDTGQyN1I5Rl93cXdFRGp3enViVkIxZnkzQTEtdzFWYkhzbmtDQmpKcEhjU1FxcHU4T0k?oc=5</link>
+      <guid isPermaLink="false">ca51479be9626e560329ae7f</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Watch Pointed! Bloomberg's Weekly News Quiz For Risk-Takers    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb0ZWRG4yalVqU1I3XzBUU3B4ZndxUWRLbVk4b1VhS05xQ2VhUmNJN1MyV2FCaXl4alp4U0dPSGMzUXJwcEc4cGh3bVc4ZmY0Q2FfLVN2S2RVdG1tSmlYc3BQSHNrWGxTN0U0TEs3eEFjVERtbTd1MDNDTGQyN1I5Rl93cXdFRGp3enViVkIxZnkzQTEtdzFWYkhzbmtDQmpKcEhjU1FxcHU4T0k?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Watch Bloomberg Previews Jackson Hole Symposium - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxORUd2a3ZYNmdWcjJxTkowOXl0X2dFNXl3ak9rT19qajAxQVRVQ2FvSEVsakxQYW5nYVc4bXdCb05wc2JUbzMwc1p6d3g2ZWdOZnNsb0RTTmtYN1dTNjBDcFV5akRwLUh1VXNlclR4U1IzOUNJRmQ5Q29tRENuNW9XM3FoQnB6NjJnVVE4ZnRnM3lFcFdjUDZMRWMzaGY?oc=5</link>
+      <guid isPermaLink="false">9665d24b949e45490386b81c</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Watch Bloomberg Previews Jackson Hole Symposium    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMinAFBVV95cUxORUd2a3ZYNmdWcjJxTkowOXl0X2dFNXl3ak9rT19qajAxQVRVQ2FvSEVsakxQYW5nYVc4bXdCb05wc2JUbzMwc1p6d3g2ZWdOZnNsb0RTTmtYN1dTNjBDcFV5akRwLUh1VXNlclR4U1IzOUNJRmQ5Q29tRENuNW9XM3FoQnB6NjJnVVE4ZnRnM3lFcFdjUDZMRWMzaGY?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Lula Calls Trump to Seek Renewed Talks Over US Tariffs on Brazil - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDQ4MG9ramNJSjFBelRudDE2VnI2dVlocmw1aThMMVBDc21QcUozU0VELU1QTnJ4VzVQU0Q2SGN0dC1LV2IwSlJ4ZGZZdF8zSkU5d1VEdktVTUJoRVY4U2dONnJQb2NFQzdpSEJqeUlGaXU2andid3FqM0tQdkVlUndmNEk0V25FdUNuWEQ2V3JTVXpKYnJTY18xSGZmaFJNWUFlMEhVcFhyQ0lJWm9Kc1lsN0NxZw?oc=5</link>
+      <guid isPermaLink="false">587de712fb09d4d457fe6d13</guid>
+      <pubDate>Fri, 21 Aug 2026 23:46:09 +0000</pubDate>
+      <description>Lula Calls Trump to Seek Renewed Talks Over US Tariffs on Brazil    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDQ4MG9ramNJSjFBelRudDE2VnI2dVlocmw1aThMMVBDc21QcUozU0VELU1QTnJ4VzVQU0Q2SGN0dC1LV2IwSlJ4ZGZZdF8zSkU5d1VEdktVTUJoRVY4U2dONnJQb2NFQzdpSEJqeUlGaXU2andid3FqM0tQdkVlUndmNEk0V25FdUNuWEQ2V3JTVXpKYnJTY18xSGZmaFJNWUFlMEhVcFhyQ0lJWm9Kc1lsN0NxZw?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>US and Canada Race to Beat Tariff Deadline With Metals a Focus - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQTWxzR0puend4ZXo3MEdYUVZJY1lVa21IRkpyTHdfZUg0bDA3cGd4T0o4NVhIQkVRQ1JaTTZrT09xZFRsZGFlUTBtYWlKanNTMk52WmZ5QVBDcUdFYUhJVUNQLTZiVnZYTXhKVG9RUHZfSnU5UXZZdVJ6a3lEbjA3X3BVblRhb2Zmc09weGJSdlRiLWd0RU1IaEl2VDJjNXYtRkpKU2JSRXUyNENmREVreVNiWQ?oc=5</link>
+      <guid isPermaLink="false">1330ba267120dae98afaae48</guid>
+      <pubDate>Fri, 21 Aug 2026 23:45:16 +0000</pubDate>
+      <description>US and Canada Race to Beat Tariff Deadline With Metals a Focus    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiswFBVV95cUxQTWxzR0puend4ZXo3MEdYUVZJY1lVa21IRkpyTHdfZUg0bDA3cGd4T0o4NVhIQkVRQ1JaTTZrT09xZFRsZGFlUTBtYWlKanNTMk52WmZ5QVBDcUdFYUhJVUNQLTZiVnZYTXhKVG9RUHZfSnU5UXZZdVJ6a3lEbjA3X3BVblRhb2Zmc09weGJSdlRiLWd0RU1IaEl2VDJjNXYtRkpKU2JSRXUyNENmREVreVNiWQ?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Watch Wall Street Week | AI Hits Wages, USMCA Under Pressure, Colorado River Crisis - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMmliQzZiNWdyUmFtSG5pRllQTVpsNDMzSmxLaHRkcEE5aDJlN0hUSUhMWWhTUGg0T0lIdGZYdTNURGV2YTFnMUJjVmtzQ0p2RnJpQTRSWUhaeW43YmV0dFNya3FPZm1iNVJueWZyUG1Ob0oyT3lHZE5jNERlZ3Z0aXlzZW0tX2pJaDlIZFR3NnZ5UExHdU1rQkx1V09CN3hhd0ozZjlfbnltTjA?oc=5</link>
+      <guid isPermaLink="false">587faef8aad428d2a0682467</guid>
+      <pubDate>Fri, 21 Aug 2026 23:43:47 +0000</pubDate>
+      <description>Watch Wall Street Week | AI Hits Wages, USMCA Under Pressure, Colorado River Crisis    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMmliQzZiNWdyUmFtSG5pRllQTVpsNDMzSmxLaHRkcEE5aDJlN0hUSUhMWWhTUGg0T0lIdGZYdTNURGV2YTFnMUJjVmtzQ0p2RnJpQTRSWUhaeW43YmV0dFNya3FPZm1iNVJueWZyUG1Ob0oyT3lHZE5jNERlZ3Z0aXlzZW0tX2pJaDlIZFR3NnZ5UExHdU1rQkx1V09CN3hhd0ozZjlfbnltTjA?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Leavitt Says She’ll Return to MAGA Inc. After White House - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdlFkdmlodS1oQ2Flak0wVExleXd4MXdvVW93VHlsYUI0enNvSXc5THBwVGxqNTZUd29OemNmYXpUZzNxdTRzS1UxM3l4aEY5NjdmYnZiTnJIemIxZUZkV0hmZnlvNFVHemtyT0pQbldpNm1SZEtJY0w0OUpNU21NLTctU3J0TS1GYzkzZlpLWVpzbXRnOTZtZ001Z01ral9pUXlkSkdmc1ZBQzA?oc=5</link>
+      <guid isPermaLink="false">99b0e56dd29b1347d7da24a4</guid>
+      <pubDate>Fri, 21 Aug 2026 22:44:09 +0000</pubDate>
+      <description>Leavitt Says She’ll Return to MAGA Inc. After White House    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdlFkdmlodS1oQ2Flak0wVExleXd4MXdvVW93VHlsYUI0enNvSXc5THBwVGxqNTZUd29OemNmYXpUZzNxdTRzS1UxM3l4aEY5NjdmYnZiTnJIemIxZUZkV0hmZnlvNFVHemtyT0pQbldpNm1SZEtJY0w0OUpNU21NLTctU3J0TS1GYzkzZlpLWVpzbXRnOTZtZ001Z01ral9pUXlkSkdmc1ZBQzA?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>US Chief Justice Lets Trump Keep Building Ballroom for Now - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQX2dRTktHM1h2WDBuTXU4N2VZMmFiekNsb3E5SWloQ1d5bVFGYl9MNWR3VldkV1lmQ0t6TW83Y1ZLX2Y0MnlEYzV3aWFOR21kWTFfdjVqa24tOUdwdGZCWU1Sd2h1N2kzcmhsVFBpRzdVU1R3bHh2R0RmVDNtbVR2VE1SUldWQjBQbURaNXNPLUhIYWRpUFJaR3MyT0RRb256R3RjUDNhbFFRbkFNZUE?oc=5</link>
+      <guid isPermaLink="false">76ebc6f63f89a4dc8dd15f7d</guid>
+      <pubDate>Fri, 21 Aug 2026 22:15:11 +0000</pubDate>
+      <description>US Chief Justice Lets Trump Keep Building Ballroom for Now    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMirgFBVV95cUxQX2dRTktHM1h2WDBuTXU4N2VZMmFiekNsb3E5SWloQ1d5bVFGYl9MNWR3VldkV1lmQ0t6TW83Y1ZLX2Y0MnlEYzV3aWFOR21kWTFfdjVqa24tOUdwdGZCWU1Sd2h1N2kzcmhsVFBpRzdVU1R3bHh2R0RmVDNtbVR2VE1SUldWQjBQbURaNXNPLUhIYWRpUFJaR3MyT0RRb256R3RjUDNhbFFRbkFNZUE?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Morocco Holds All the Cards in Spat With EU Over Migration - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmVEOUZiVFNydDAwUGVRMGJWc0I4TlpEMGpWdHFBRFprVDdoYW1GLWs2TVZXVmI0c3ZpUDBNQTV4cnRMZEZzSHEzeFNNOC1CcklBYy1YQTVQUlBpM21mYmNrWUZpc0dBdjQ2Tzh5Q1RMVHRxNmZlV0FwdjdLQU9tbVZtanlHeFphcXMzLWNBSDVXcXlrMklGVVF0T01ZQjliZV9SZGdfZUhHODh1TmFZOTRBTVdyd3R0VF9xMDNIajlLakk?oc=5</link>
+      <guid isPermaLink="false">d900588058c4db7dc42d1c23</guid>
+      <pubDate>Fri, 21 Aug 2026 22:00:34 +0000</pubDate>
+      <description>Morocco Holds All the Cards in Spat With EU Over Migration    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmVEOUZiVFNydDAwUGVRMGJWc0I4TlpEMGpWdHFBRFprVDdoYW1GLWs2TVZXVmI0c3ZpUDBNQTV4cnRMZEZzSHEzeFNNOC1CcklBYy1YQTVQUlBpM21mYmNrWUZpc0dBdjQ2Tzh5Q1RMVHRxNmZlV0FwdjdLQU9tbVZtanlHeFphcXMzLWNBSDVXcXlrMklGVVF0T01ZQjliZV9SZGdfZUhHODh1TmFZOTRBTVdyd3R0VF9xMDNIajlLakk?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Lula Holds Lead Over Bolsonaro Six Weeks From Brazilian Election - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxOUEc3cXJuZm0wazJ0LTQwTEtKaGR4NXhuaVBtSU5uQWZvY0xfTlo1ajNteEZGUUZYWVJrTXZ5VFdCX0lGSGxBMmdhZlpFX1p2U2tqZ3BRcDVZSzkyc2d3M1Y2SWF5TjFYMTlkQXotMENyM2RyTmRabUNHTndnTzhTeTF6UmJiZXZVeFVtemJmU28xY3JudDJ6LVBBZTZWM05ja05VQlpZcGZ5MHJjaWk5T0tjckM4Zw?oc=5</link>
+      <guid isPermaLink="false">af028dccbdd4e6e59c776e70</guid>
+      <pubDate>Fri, 21 Aug 2026 21:57:02 +0000</pubDate>
+      <description>Lula Holds Lead Over Bolsonaro Six Weeks From Brazilian Election    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMitgFBVV95cUxOUEc3cXJuZm0wazJ0LTQwTEtKaGR4NXhuaVBtSU5uQWZvY0xfTlo1ajNteEZGUUZYWVJrTXZ5VFdCX0lGSGxBMmdhZlpFX1p2U2tqZ3BRcDVZSzkyc2d3M1Y2SWF5TjFYMTlkQXotMENyM2RyTmRabUNHTndnTzhTeTF6UmJiZXZVeFVtemJmU28xY3JudDJ6LVBBZTZWM05ja05VQlpZcGZ5MHJjaWk5T0tjckM4Zw?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Trump Says It Was Bessent’s Choice to Intervene in Bond Market - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNeW9SS0V5R05FbWdCel9PS2JJZ2xmYjdDbGptaFhYNHlhbzNIYVZnV1lRem9wTzl3Mk5XVmpGT2d0TFRsMEpaXzVFT1l2alJSM1F0UUJoaGVsX2RjendEOHBPN2lxSUpjLVFJVUR2dXJ0NGMxR3VCRVNnOHhNdk5TaExsTWlaTnlrV2VsRm1sbTFtb0ZHYXNJTlloTkRMRHZRbkIyZWNwbnJlNENiLUFVYjVKSQ?oc=5</link>
+      <guid isPermaLink="false">2e64678fa6a13d859b68adfa</guid>
+      <pubDate>Fri, 21 Aug 2026 21:24:26 +0000</pubDate>
+      <description>Trump Says It Was Bessent’s Choice to Intervene in Bond Market    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiswFBVV95cUxNeW9SS0V5R05FbWdCel9PS2JJZ2xmYjdDbGptaFhYNHlhbzNIYVZnV1lRem9wTzl3Mk5XVmpGT2d0TFRsMEpaXzVFT1l2alJSM1F0UUJoaGVsX2RjendEOHBPN2lxSUpjLVFJVUR2dXJ0NGMxR3VCRVNnOHhNdk5TaExsTWlaTnlrV2VsRm1sbTFtb0ZHYXNJTlloTkRMRHZRbkIyZWNwbnJlNENiLUFVYjVKSQ?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Ground Beef Prices Targeted With New Trump Tariff Relief - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPM2J4TlJ3M0cxbmtaYVpPSDZranZzUDh3UTZDT3FNakNkM0ViUWRzTmNTVjdJYUhkaVh2cjB5NERseVhqTGx1anE5SjhSZnNJM3NHQmR5UERzd3VGNEFJeG84S2ZSVEJCYlRaOEhxTWJ1bjgtamVybXduQXNNNHFTOE5QQjZNZjlYRXZ5ZVp2N0Z6X2RESllnb1Rfb2VyTThGUDFEdlAtczZ6bjJiUFpKVA?oc=5</link>
+      <guid isPermaLink="false">0d96189f43c1464878ca532b</guid>
+      <pubDate>Fri, 21 Aug 2026 20:57:11 +0000</pubDate>
+      <description>Ground Beef Prices Targeted With New Trump Tariff Relief    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMisAFBVV95cUxPM2J4TlJ3M0cxbmtaYVpPSDZranZzUDh3UTZDT3FNakNkM0ViUWRzTmNTVjdJYUhkaVh2cjB5NERseVhqTGx1anE5SjhSZnNJM3NHQmR5UERzd3VGNEFJeG84S2ZSVEJCYlRaOEhxTWJ1bjgtamVybXduQXNNNHFTOE5QQjZNZjlYRXZ5ZVp2N0Z6X2RESllnb1Rfb2VyTThGUDFEdlAtczZ6bjJiUFpKVA?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>SpaceX Is Hiring for Natural Gas Trading to Support Energy Needs - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxONEpETUVEZEl1NDVjbTlZdnlNV00yR0ptc1BybzRNZ2cwSzRBanE1WlJRU25yelBPbUJaU01VSnVKcU5yeFFtWGF0VC1JSTJNZ1hsOTlNTkdTSDJXV0hsU2o2T2t2dDFrOUdTZnN6TTROTkNfRmNXcjlVZFJVRWhXLVRON1ZpRUtTQ0dFSmRZLVg0UHN2eXdkbHJielQxN2lxcmFEQ3pjeFRlUVByaHd1MDhIc19Mdw?oc=5</link>
+      <guid isPermaLink="false">96fbabe862ce88594ccdb6a0</guid>
+      <pubDate>Fri, 21 Aug 2026 20:48:42 +0000</pubDate>
+      <description>SpaceX Is Hiring for Natural Gas Trading to Support Energy Needs    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMitgFBVV95cUxONEpETUVEZEl1NDVjbTlZdnlNV00yR0ptc1BybzRNZ2cwSzRBanE1WlJRU25yelBPbUJaU01VSnVKcU5yeFFtWGF0VC1JSTJNZ1hsOTlNTkdTSDJXV0hsU2o2T2t2dDFrOUdTZnN6TTROTkNfRmNXcjlVZFJVRWhXLVRON1ZpRUtTQ0dFSmRZLVg0UHN2eXdkbHJielQxN2lxcmFEQ3pjeFRlUVByaHd1MDhIc19Mdw?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Bitcoin Leaps Past $75,000 as Crypto Rally Continues in Asia - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxOcDE4Rmt1TzR5TmJrdWNQVlNibEw5TjNVU2RCaXNrOE5hRTZidUJJT2JuazBNLUU5OHF0dnBkTTZhZENEeDVYcXhmNjMyQ3FKNTk0dk41V3dSX0tVeVFONFhxRnZqRDFOVWk0WURlZ2lLa0huYzdTYV9xRnlILTBXRDFLNmt1V1JLcnJnYUdiSmZ0RktDRThBeG1VWXZIRlJ3MUJybjJKOFJsdm1YWXlj?oc=5</link>
+      <guid isPermaLink="false">3cdb07ea2f4a61e7943d93f9</guid>
+      <pubDate>Fri, 21 Aug 2026 20:35:19 +0000</pubDate>
+      <description>Bitcoin Leaps Past $75,000 as Crypto Rally Continues in Asia    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMirwFBVV95cUxOcDE4Rmt1TzR5TmJrdWNQVlNibEw5TjNVU2RCaXNrOE5hRTZidUJJT2JuazBNLUU5OHF0dnBkTTZhZENEeDVYcXhmNjMyQ3FKNTk0dk41V3dSX0tVeVFONFhxRnZqRDFOVWk0WURlZ2lLa0huYzdTYV9xRnlILTBXRDFLNmt1V1JLcnJnYUdiSmZ0RktDRThBeG1VWXZIRlJ3MUJybjJKOFJsdm1YWXlj?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Anthropic Taps Google Chip Veteran as Part of Push Into Hardware - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxQTEtlVWN3QmU2bFF2QzRyZDBJTUliblExZnM3d1JqcjBLN1V3TDI3MXFnaFdfV1Z5Yl9xRDJ4SkViQVhabEpVQVB4a2tuQ2xDV1doS0ZwWDBBVTJpcXJoS1c2Sk1WQ3p2aDNKYklaYjJpbTZPSENmSzBTQTVodndSWDBWUkJPWml6djBXNWJIazI5dkUtNENLQXZmM0puMzlidExXZnp4aG43WXcwZGZIc3NOR1A0Zw?oc=5</link>
+      <guid isPermaLink="false">37f5c62bd8fbe3caa212e03e</guid>
+      <pubDate>Fri, 21 Aug 2026 19:59:55 +0000</pubDate>
+      <description>Anthropic Taps Google Chip Veteran as Part of Push Into Hardware    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMitgFBVV95cUxQTEtlVWN3QmU2bFF2QzRyZDBJTUliblExZnM3d1JqcjBLN1V3TDI3MXFnaFdfV1Z5Yl9xRDJ4SkViQVhabEpVQVB4a2tuQ2xDV1doS0ZwWDBBVTJpcXJoS1c2Sk1WQ3p2aDNKYklaYjJpbTZPSENmSzBTQTVodndSWDBWUkJPWml6djBXNWJIazI5dkUtNENLQXZmM0puMzlidExXZnp4aG43WXcwZGZIc3NOR1A0Zw?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Trump Administration Dismisses a Dozen Officials From Fannie Mae - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxQTHZqd0NRYlBsZEVfRS1OejRxeWZXcEVaSERzY2lyV3FJYTBkNG9fVzJuSlhzRFlvaGxqYl85RHNjcVVOLUpkLTQtLU1ZcmRvVHkzTkFQMnFrcnRzenBLb0pzakFENGxxdFM0OXF5SWNIR09za1RMN1huVzJNOVFuWl9KTFQ0d3MxU2tTXzR0THRTelppSzNMRk40ZGpZSTRRWk9wX29oMms1WW5ybVo3REVpZzFQUQ?oc=5</link>
+      <guid isPermaLink="false">60687c0dad271935e913908f</guid>
+      <pubDate>Fri, 21 Aug 2026 19:40:58 +0000</pubDate>
+      <description>Trump Administration Dismisses a Dozen Officials From Fannie Mae    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMitgFBVV95cUxQTHZqd0NRYlBsZEVfRS1OejRxeWZXcEVaSERzY2lyV3FJYTBkNG9fVzJuSlhzRFlvaGxqYl85RHNjcVVOLUpkLTQtLU1ZcmRvVHkzTkFQMnFrcnRzenBLb0pzakFENGxxdFM0OXF5SWNIR09za1RMN1huVzJNOVFuWl9KTFQ0d3MxU2tTXzR0THRTelppSzNMRk40ZGpZSTRRWk9wX29oMms1WW5ybVo3REVpZzFQUQ?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Watch Wall Street Struggles to Absorb AI’s Debt Boom - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxPM0JYaXg5VXM2WFBwOV9BdFdlWjNPNHpEYnU3SnZwX3p1NkZIZy1BTXBWVDNXYWFtY29MOVRNbVY2aUNWTGhIZEdhckktZ2JPU0hfVllMaTRkWFk5SEVSZU9HTTdWQmstZWZIelJuc1dPbnJFd3JYWVFOWmFDVGFVcjRTLVJVNHd1dnBTT3hiMnhuM05NWk4ydnc0dUhNaFAyaGJn?oc=5</link>
+      <guid isPermaLink="false">433feda2254e48e5f603f626</guid>
+      <pubDate>Fri, 21 Aug 2026 19:16:39 +0000</pubDate>
+      <description>Watch Wall Street Struggles to Absorb AI’s Debt Boom    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiowFBVV95cUxPM0JYaXg5VXM2WFBwOV9BdFdlWjNPNHpEYnU3SnZwX3p1NkZIZy1BTXBWVDNXYWFtY29MOVRNbVY2aUNWTGhIZEdhckktZ2JPU0hfVllMaTRkWFk5SEVSZU9HTTdWQmstZWZIelJuc1dPbnJFd3JYWVFOWmFDVGFVcjRTLVJVNHd1dnBTT3hiMnhuM05NWk4ydnc0dUhNaFAyaGJn?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>US Natural Gas Rises on Hotter Weather, Texas Power Forecasts - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNYnZGT25xVldBR0RLZU9Yd21wSzBXZXRkVm9BVkNsRUtUeDRUVmZQb0JEUHFlOWVIN0Z1UjFrdjRjZDRpTDV4TXJkZFhZZVkyNy14R0lGZzJ6UmZTQVptRFktajFKRTNSZDM5c0ZfY3JNTTNnNjFMUXozNUlzZDlZY2ZwNTJaSWpxUnJSNXhkQmpfbnVOTUw4NjFhUnAyOGFPZXNSbk95enRRY3FodDJwMQ?oc=5</link>
+      <guid isPermaLink="false">7bb284def327fd6f3e906e67</guid>
+      <pubDate>Fri, 21 Aug 2026 19:12:56 +0000</pubDate>
+      <description>US Natural Gas Rises on Hotter Weather, Texas Power Forecasts    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMisAFBVV95cUxNYnZGT25xVldBR0RLZU9Yd21wSzBXZXRkVm9BVkNsRUtUeDRUVmZQb0JEUHFlOWVIN0Z1UjFrdjRjZDRpTDV4TXJkZFhZZVkyNy14R0lGZzJ6UmZTQVptRFktajFKRTNSZDM5c0ZfY3JNTTNnNjFMUXozNUlzZDlZY2ZwNTJaSWpxUnJSNXhkQmpfbnVOTUw4NjFhUnAyOGFPZXNSbk95enRRY3FodDJwMQ?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Apple Cuts Jobs in Siri, Vision Pro Immersive Video and Gaming Teams - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxQOEY0T0xmU2N1UmtxZHFIaXRVb2Q1bmhiaG1KR1RyYlBRTjZ3TnN3ZWlLZjFvTDNrMnJIYS1qcnU4ak0zMk5lUDV3T1NaRUVyZ2tRUktYODVTSnBUOG1vZEV5MkRKeFowdjhjTlp0Vm0wbkhKUzlOVEVlUjFZTkc4ZG84Q2I4RVliZEx6UUtWWnQ0LTdYYWlpZ3Y2RVRIbnVuVmRfNzFLM2JsOEhmYzJqU0RVeDBKdmloakE?oc=5</link>
+      <guid isPermaLink="false">fd276edd04b834ed29dba9a4</guid>
+      <pubDate>Fri, 21 Aug 2026 18:45:32 +0000</pubDate>
+      <description>Apple Cuts Jobs in Siri, Vision Pro Immersive Video and Gaming Teams    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiugFBVV95cUxQOEY0T0xmU2N1UmtxZHFIaXRVb2Q1bmhiaG1KR1RyYlBRTjZ3TnN3ZWlLZjFvTDNrMnJIYS1qcnU4ak0zMk5lUDV3T1NaRUVyZ2tRUktYODVTSnBUOG1vZEV5MkRKeFowdjhjTlp0Vm0wbkhKUzlOVEVlUjFZTkc4ZG84Q2I4RVliZEx6UUtWWnQ0LTdYYWlpZ3Y2RVRIbnVuVmRfNzFLM2JsOEhmYzJqU0RVeDBKdmloakE?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Rockstar Rattled As ‘Grand Theft Auto VI’ Leaks Again - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWUp2b3REQlpjNXpfTVFzeTd1MGhQX3dSQjN2NjhzUm9DbHlZazFhN1FvMEJKdVZLd01yWjNXVHYzVEZFcWZCVDVNSUtXQ003QTlzTTZOUExKY1lYUUZOY3JkaWVSNkRjSmNPX2dlSXFFREpBd1RiampydWhGMTFWUXN2OHdUVmtCcVVCZlBoNWgzWjhfLWxtTmxXbGZhSFpLNEs4NXhmVDk?oc=5</link>
+      <guid isPermaLink="false">e989ff16ca6b32c2207790d8</guid>
+      <pubDate>Fri, 21 Aug 2026 18:43:47 +0000</pubDate>
+      <description>Rockstar Rattled As ‘Grand Theft Auto VI’ Leaks Again    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWUp2b3REQlpjNXpfTVFzeTd1MGhQX3dSQjN2NjhzUm9DbHlZazFhN1FvMEJKdVZLd01yWjNXVHYzVEZFcWZCVDVNSUtXQ003QTlzTTZOUExKY1lYUUZOY3JkaWVSNkRjSmNPX2dlSXFFREpBd1RiampydWhGMTFWUXN2OHdUVmtCcVVCZlBoNWgzWjhfLWxtTmxXbGZhSFpLNEs4NXhmVDk?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Trade Deal to Leave ‘Bad Outcome’ for Canada and US, Ex-Minister Says - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQTktcG9ONkxVcTlNWkluOGN1Tmlnc3RtdXVMNGtNYmRRSVlTVEZHbkV4MW9uZWwxQjZQd2hsekp5c1UzVnJDN3hYcW9zMFc1WUVEaXZqMmFqYm55VHZnUzZvNXRMTENDQW8wcXpua2xiYVpLeVRjQUVyZzFOVlhuc3g0NGZ1UndpdVE0V2dkTXlYUS13U3MzSU9TZU5MeFJoem1iSE5IdWFLb1RWck9RaEVidUpERGxN?oc=5</link>
+      <guid isPermaLink="false">f9bf7b7083e46daf0948be4e</guid>
+      <pubDate>Fri, 21 Aug 2026 17:44:33 +0000</pubDate>
+      <description>Trade Deal to Leave ‘Bad Outcome’ for Canada and US, Ex-Minister Says    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQTktcG9ONkxVcTlNWkluOGN1Tmlnc3RtdXVMNGtNYmRRSVlTVEZHbkV4MW9uZWwxQjZQd2hsekp5c1UzVnJDN3hYcW9zMFc1WUVEaXZqMmFqYm55VHZnUzZvNXRMTENDQW8wcXpua2xiYVpLeVRjQUVyZzFOVlhuc3g0NGZ1UndpdVE0V2dkTXlYUS13U3MzSU9TZU5MeFJoem1iSE5IdWFLb1RWck9RaEVidUpERGxN?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>What to Look Out for at the Fed’s Jackson Hole Gathering - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPNnA3R0p3THhJS3ZYRzRMVGRNaXgybzhNd2RiX0oxU3ViX0ZCcnV6NDVGdVpsWk1qdTdQS0NBak82VmoxdTZqTmRxaFRRZmRQSzJYRmhrX1RvdnRYbHRFS2hDNURMcjhQTXJwSzdqeW15eWZWaHVqY2VDbFY3X25xVGRGME1HRjNuNmlfTGFBZ1EzMHR1RHFjSjh3NE1YeGJFYnVHN3g2Ul9TWkxTWGY4?oc=5</link>
+      <guid isPermaLink="false">9b02ea2f127f93d0195cf12e</guid>
+      <pubDate>Fri, 21 Aug 2026 17:13:31 +0000</pubDate>
+      <description>What to Look Out for at the Fed’s Jackson Hole Gathering    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMirwFBVV95cUxPNnA3R0p3THhJS3ZYRzRMVGRNaXgybzhNd2RiX0oxU3ViX0ZCcnV6NDVGdVpsWk1qdTdQS0NBak82VmoxdTZqTmRxaFRRZmRQSzJYRmhrX1RvdnRYbHRFS2hDNURMcjhQTXJwSzdqeW15eWZWaHVqY2VDbFY3X25xVGRGME1HRjNuNmlfTGFBZ1EzMHR1RHFjSjh3NE1YeGJFYnVHN3g2Ul9TWkxTWGY4?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxOOFNlaXRxVm9ULW11VjZ0VXNpLXNBYy1tVTVsUDNQQndtZW0zNjJ6TzBZUTNJT2hEeUI0OHZZQkh0QWlEd0tJbVFjck1paXRkaE9WUy1aT3IzaWNpOVNFRWhKRzd5VXNuXzNpX3VkVll6T05Sb3NhY01IV1MtdkNvWDkzNW9oN1FqaWJiRks5WTlLaDhvMGpkTXRUVHFocmptTHZwSzFXZjBJRGh4bDJB?oc=5</link>
+      <guid isPermaLink="false">101b612f711b7061cf923492</guid>
+      <pubDate>Fri, 21 Aug 2026 17:04:14 +0000</pubDate>
+      <description>Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMirwFBVV95cUxOOFNlaXRxVm9ULW11VjZ0VXNpLXNBYy1tVTVsUDNQQndtZW0zNjJ6TzBZUTNJT2hEeUI0OHZZQkh0QWlEd0tJbVFjck1paXRkaE9WUy1aT3IzaWNpOVNFRWhKRzd5VXNuXzNpX3VkVll6T05Sb3NhY01IV1MtdkNvWDkzNW9oN1FqaWJiRks5WTlLaDhvMGpkTXRUVHFocmptTHZwSzFXZjBJRGh4bDJB?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>AI Cloud Firm Nscale Is Said to Seek Up to $3 Billion in US IPO - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQOFFrbUItWTB6ek1Rd2N0WlBidjhpRXZDeTlqSlhzNlVxaG10b3JBSklzNWxKWnVrNG9HSlV0N0pucUpZbERScFppMUlGUHVidTBXT1NYeVVnWjBaNnQtcFhlNGRFM0o3QnUzMTFLUmpkOXZ3MzRFTVJ4SjlfZU5COHdOeW1iLVczNVFNcW9RR1JUQzFfX3RjelNuQVVnOGszVnpPV3ZoVmh6Qng1a0Y0QXlrOA?oc=5</link>
+      <guid isPermaLink="false">75271b5cde7c3754be3d1aa8</guid>
+      <pubDate>Fri, 21 Aug 2026 16:42:30 +0000</pubDate>
+      <description>AI Cloud Firm Nscale Is Said to Seek Up to $3 Billion in US IPO    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiswFBVV95cUxQOFFrbUItWTB6ek1Rd2N0WlBidjhpRXZDeTlqSlhzNlVxaG10b3JBSklzNWxKWnVrNG9HSlV0N0pucUpZbERScFppMUlGUHVidTBXT1NYeVVnWjBaNnQtcFhlNGRFM0o3QnUzMTFLUmpkOXZ3MzRFTVJ4SjlfZU5COHdOeW1iLVczNVFNcW9RR1JUQzFfX3RjelNuQVVnOGszVnpPV3ZoVmh6Qng1a0Y0QXlrOA?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Citadel Sold More Than 80% of Situational Awareness Bets - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNa1N3RWJmSm9tUVZiQVNQcjBFMUo4VU91REdOa1NCQWExeW1ENUVOY2tRRzhIODNsUXhMbnRNQXlWSm9LNTNxalVBNS0wTTN1ampINk9xbVZBLW5NdXIyTWRCNmNvT0Q3LWFkbWxuSi1Hblo1aGxST09SUGdUQm9aYWJVVXU3NjN4QmlIdDBDUFNnT0wwWi0yemUtT1ViM0d3cENHejNwMEJ5UFhDdVQ0UkNjRQ?oc=5</link>
+      <guid isPermaLink="false">fa026caa54706d7d21af425e</guid>
+      <pubDate>Fri, 21 Aug 2026 16:37:09 +0000</pubDate>
+      <description>Citadel Sold More Than 80% of Situational Awareness Bets    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiswFBVV95cUxNa1N3RWJmSm9tUVZiQVNQcjBFMUo4VU91REdOa1NCQWExeW1ENUVOY2tRRzhIODNsUXhMbnRNQXlWSm9LNTNxalVBNS0wTTN1ampINk9xbVZBLW5NdXIyTWRCNmNvT0Q3LWFkbWxuSi1Hblo1aGxST09SUGdUQm9aYWJVVXU3NjN4QmlIdDBDUFNnT0wwWi0yemUtT1ViM0d3cENHejNwMEJ5UFhDdVQ0UkNjRQ?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Uber Faces €825 Million Dutch Fine Over Driver Suspensions - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxPSU5lU3VNdWp5UDVrekZzVHZ5UHdKUTJlYTFqSjlsWkJFY2xITGtUUmM0UmxwZ29MR24yUEhwd2pHdWxYMXJGWlF1VHJVdnBrYlpKTHNLSjl6ek5zLUt0ZHg0QTBaVnVWT0dFUmdld2wyWkVPTS00MEdYcnJtRXVLUlBOem5PVlBxZ0IzVmp5U254RHRMOVV0c1JLX0hJRVNWYTd5dWVYTTI4WlVi?oc=5</link>
+      <guid isPermaLink="false">d47d4753badef57ba80553f4</guid>
+      <pubDate>Fri, 21 Aug 2026 16:29:31 +0000</pubDate>
+      <description>Uber Faces €825 Million Dutch Fine Over Driver Suspensions    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMirAFBVV95cUxPSU5lU3VNdWp5UDVrekZzVHZ5UHdKUTJlYTFqSjlsWkJFY2xITGtUUmM0UmxwZ29MR24yUEhwd2pHdWxYMXJGWlF1VHJVdnBrYlpKTHNLSjl6ek5zLUt0ZHg0QTBaVnVWT0dFUmdld2wyWkVPTS00MEdYcnJtRXVLUlBOem5PVlBxZ0IzVmp5U254RHRMOVV0c1JLX0hJRVNWYTd5dWVYTTI4WlVi?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Gold Set for Third Weekly Gain on US Treasury Buyback Plans - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxOUVZsUkRuazRYWVFSejYteGl5R3BJdXZBQS1Id3JodW5ZU2ZOWmI0djlIWTVuQU1MTlpoREx5OFUzd3NDNlgxUXBSTUlWNE9kYnJ5Z00zcUVjR2RWeDAydGc3OTF4QzJKMkdDaUFWbFJwdW9FbnA5OUlvQjMxd29Ca2hNOTlKTUc5UU9oc0I2LWJFVzdJY1dicTVFR3pxaWM3ajkzMVlxTHppeDVnckhr?oc=5</link>
+      <guid isPermaLink="false">90fdf0b3da01ede5799f3a71</guid>
+      <pubDate>Fri, 21 Aug 2026 16:16:39 +0000</pubDate>
+      <description>Gold Set for Third Weekly Gain on US Treasury Buyback Plans    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMirwFBVV95cUxOUVZsUkRuazRYWVFSejYteGl5R3BJdXZBQS1Id3JodW5ZU2ZOWmI0djlIWTVuQU1MTlpoREx5OFUzd3NDNlgxUXBSTUlWNE9kYnJ5Z00zcUVjR2RWeDAydGc3OTF4QzJKMkdDaUFWbFJwdW9FbnA5OUlvQjMxd29Ca2hNOTlKTUc5UU9oc0I2LWJFVzdJY1dicTVFR3pxaWM3ajkzMVlxTHppeDVnckhr?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Walmart to Offer Apple Pay in Push for Contactless Payments - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPd0xtNUlwcEpVSG5nTndrcjJrWnNSSlVVeUVOTHhMdW9Bd0hRbnc4SkVaSG1Ic21nYVFLTHc2Q3BiLVpxRE9iUGF0eDh5bS05TGI0c2dlTHU0dG1JejA3ZzF6SzNKS3BoTF93VTdIM25vcW1RYXRjZEZJRWdQYXNHU2xUc0pWckMwSWk2Ry1tcFNRckRoZmNmdG9DekFHTDNRdWZhTndJdWtjRnpESWZZ?oc=5</link>
+      <guid isPermaLink="false">bcdd271d04d8f7e34697428a</guid>
+      <pubDate>Fri, 21 Aug 2026 16:15:51 +0000</pubDate>
+      <description>Walmart to Offer Apple Pay in Push for Contactless Payments    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMirwFBVV95cUxPd0xtNUlwcEpVSG5nTndrcjJrWnNSSlVVeUVOTHhMdW9Bd0hRbnc4SkVaSG1Ic21nYVFLTHc2Q3BiLVpxRE9iUGF0eDh5bS05TGI0c2dlTHU0dG1JejA3ZzF6SzNKS3BoTF93VTdIM25vcW1RYXRjZEZJRWdQYXNHU2xUc0pWckMwSWk2Ry1tcFNRckRoZmNmdG9DekFHTDNRdWZhTndJdWtjRnpESWZZ?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>US ‘Playing With Fire’ as Dollar Risks Yen-Style Debasement - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1BSNWF1YXZERWRmbjg2aUhQeWdoVk15RkxiSGFVaDZldG9Tc29FYUNUR1RxSEFpQ0RrdUd1ZXVnY3ZkUVVCR1hUUFV3blRQYVN2RkRnakkzSk95NVdkNms0TVl1Z2lOaldDaThpdVlRTHAzX1h2UHpGZGxRLUNfWGs4MkJMQXpZTEx6dVlXRlNEdHBVeDljV1NYSURMakpoOFp0cEdmWEZ1akVYc1RuQ3A4RQ?oc=5</link>
+      <guid isPermaLink="false">9093a85449e7b2e4e019c359</guid>
+      <pubDate>Fri, 21 Aug 2026 15:53:10 +0000</pubDate>
+      <description>US ‘Playing With Fire’ as Dollar Risks Yen-Style Debasement    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1BSNWF1YXZERWRmbjg2aUhQeWdoVk15RkxiSGFVaDZldG9Tc29FYUNUR1RxSEFpQ0RrdUd1ZXVnY3ZkUVVCR1hUUFV3blRQYVN2RkRnakkzSk95NVdkNms0TVl1Z2lOaldDaThpdVlRTHAzX1h2UHpGZGxRLUNfWGs4MkJMQXpZTEx6dVlXRlNEdHBVeDljV1NYSURMakpoOFp0cEdmWEZ1akVYc1RuQ3A4RQ?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Tesla Recalls 3 Million EVs in China Over Door Handle Safety - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxQTXdIVXg2SkZ5SmNteFZuejlURnlDWmxrUVBreXFYSXo1eWV6SjBsY0JTN3diUU5NVlhUSnJEUS1kakFyYUJER1RYamF6Tkp3aWpxb0lxN0YwdHREUE5PX2JfbU94N2VXa2VPc2FzUHhsUlc1b0pGNzdSWnpYRWtiVUlPZVR0TDBHN3lXWWdMY005Q3VpUk5jYWhRTlFjbE5ldUZ6eGR2S2dvcllPNm8taHZWeXV4UQ?oc=5</link>
+      <guid isPermaLink="false">7f60ff86955a96d6b3042d23</guid>
+      <pubDate>Fri, 21 Aug 2026 15:41:51 +0000</pubDate>
+      <description>Tesla Recalls 3 Million EVs in China Over Door Handle Safety    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMitgFBVV95cUxQTXdIVXg2SkZ5SmNteFZuejlURnlDWmxrUVBreXFYSXo1eWV6SjBsY0JTN3diUU5NVlhUSnJEUS1kakFyYUJER1RYamF6Tkp3aWpxb0lxN0YwdHREUE5PX2JfbU94N2VXa2VPc2FzUHhsUlc1b0pGNzdSWnpYRWtiVUlPZVR0TDBHN3lXWWdMY005Q3VpUk5jYWhRTlFjbE5ldUZ6eGR2S2dvcllPNm8taHZWeXV4UQ?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>NATO’s Eastern Allies Plan to Cut US Base Costs to Placate Trump - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxOaGNTREtyMmxpNktaX1RNNlkwS2JRbjRVUUdVLWgxVDNFcmdhXzY3NUN1UGdDR3JIYlpvaWo3MkJhOEFiRzd6c0RVN04wUGkwWGVFazhWcGp3UTc2RHNxRktRXzBadjFGdTM4YlRSNzBKaEVQOGFHMF92NFdQNHJXaVQ4ZFp4eTFncjk2akplbHJQUjMwTXQ4b05XVVBiWldDYWcweDFyUU5CQWpwWXRNSWVTUG1ldw?oc=5</link>
+      <guid isPermaLink="false">5762762748c462502d15e405</guid>
+      <pubDate>Fri, 21 Aug 2026 15:36:08 +0000</pubDate>
+      <description>NATO’s Eastern Allies Plan to Cut US Base Costs to Placate Trump    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMitgFBVV95cUxOaGNTREtyMmxpNktaX1RNNlkwS2JRbjRVUUdVLWgxVDNFcmdhXzY3NUN1UGdDR3JIYlpvaWo3MkJhOEFiRzd6c0RVN04wUGkwWGVFazhWcGp3UTc2RHNxRktRXzBadjFGdTM4YlRSNzBKaEVQOGFHMF92NFdQNHJXaVQ4ZFp4eTFncjk2akplbHJQUjMwTXQ4b05XVVBiWldDYWcweDFyUU5CQWpwWXRNSWVTUG1ldw?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>AI Jitters Have Suppliers Preparing for Data Center Boom to Go Bust - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZUszSkJmYXUzTmpFaF9YZVhnZEF0NzZIZFlJWUJsMEFlNmgzTG1PMlpPaE5NQUtXVi12aXVZcTlINjFyc2Z3MGlrMWFuaFBNeTFaR19iLWx4ZHJWbjNRS0VRN2Vsb1hXMGRpLWJVc2xrVld6N3FiV011dEkzWklrcVRmbnBhQWRqMEpibGJtX2lsN19scVFVWFR4ZFhXUEdXR0RTZnc3ZXVkMmg0U25fQTh3dVUyRUVjQnpHTjVjNHdZUQ?oc=5</link>
+      <guid isPermaLink="false">5c29e3a007ccfac1b8fcc4c2</guid>
+      <pubDate>Fri, 21 Aug 2026 14:00:26 +0000</pubDate>
+      <description>AI Jitters Have Suppliers Preparing for Data Center Boom to Go Bust    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZUszSkJmYXUzTmpFaF9YZVhnZEF0NzZIZFlJWUJsMEFlNmgzTG1PMlpPaE5NQUtXVi12aXVZcTlINjFyc2Z3MGlrMWFuaFBNeTFaR19iLWx4ZHJWbjNRS0VRN2Vsb1hXMGRpLWJVc2xrVld6N3FiV011dEkzWklrcVRmbnBhQWRqMEpibGJtX2lsN19scVFVWFR4ZFhXUEdXR0RTZnc3ZXVkMmg0U25fQTh3dVUyRUVjQnpHTjVjNHdZUQ?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Iranian President Calls for End to US War While Tehran Is Ahead - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxOdVpETFQ4dWI2U29jaE4tZXdiX2VLY1l6S0FHX1ZlM1pHeXd1RU00OWwxNklGSWxBLTdGdXA0V0IwQllaUHdPNXVFeFhuTk5hb1drSkxSWnZYV2dZWGZzSEI3dU1yVXFCVFhNRWx6cE5pLWFVM0o3N2pON3lsUHctVXczaGlrV1hlZDB3NEJmZnRQbDRZQk5TT19hMHlmN2cxYWxDdlRCellSdGtfMGlGc3lHaDQ?oc=5</link>
+      <guid isPermaLink="false">2f2dd9b71ad07f20b6906b65</guid>
+      <pubDate>Fri, 21 Aug 2026 13:01:51 +0000</pubDate>
+      <description>Iranian President Calls for End to US War While Tehran Is Ahead    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMitAFBVV95cUxOdVpETFQ4dWI2U29jaE4tZXdiX2VLY1l6S0FHX1ZlM1pHeXd1RU00OWwxNklGSWxBLTdGdXA0V0IwQllaUHdPNXVFeFhuTk5hb1drSkxSWnZYV2dZWGZzSEI3dU1yVXFCVFhNRWx6cE5pLWFVM0o3N2pON3lsUHctVXczaGlrV1hlZDB3NEJmZnRQbDRZQk5TT19hMHlmN2cxYWxDdlRCellSdGtfMGlGc3lHaDQ?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>China Said to Weigh Potential Bid to Host UN Climate Summit - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxNUjBkeGU4TU5fejUwRkxhbWdSc3BNV1dzd0d0cklTNGlYNzYzVFJjbFItdTlMZUhCRUtHT1g5WjFRRkFxVGRRNHVjcWtTckYwcEZ3TXlLZ1J0RlBTb3RRbDQtTVkxcTZqTFVZeVpjU1MwYkVWbjFlaDBWQWUtTmhidDhqVjU3NjVIdmpScEtZSGQ3U29XNV95TGxNb1JtbmRKcWctSTRxMU9TZnZoR1FQSkVnSlNXUQ?oc=5</link>
+      <guid isPermaLink="false">80843f8bc956681a2cfce4f2</guid>
+      <pubDate>Fri, 21 Aug 2026 12:47:32 +0000</pubDate>
+      <description>China Said to Weigh Potential Bid to Host UN Climate Summit    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMitgFBVV95cUxNUjBkeGU4TU5fejUwRkxhbWdSc3BNV1dzd0d0cklTNGlYNzYzVFJjbFItdTlMZUhCRUtHT1g5WjFRRkFxVGRRNHVjcWtTckYwcEZ3TXlLZ1J0RlBTb3RRbDQtTVkxcTZqTFVZeVpjU1MwYkVWbjFlaDBWQWUtTmhidDhqVjU3NjVIdmpScEtZSGQ3U29XNV95TGxNb1JtbmRKcWctSTRxMU9TZnZoR1FQSkVnSlNXUQ?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Sector &amp; Industry Performance - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxOMGxtc1ZoRnhfTUxmUGVjdC1Qdkd5SjEwaUhaRmtTdTllY2lOekdPNGVzazlnNDBQYmxLejNNR2VpVDZWUTRNNkVHLW1kYng1ZlJueGl2TUw1N0xVc2tIakVmdGI5WTlYTTRWOXJNUTJDelFaZFpvSUNoNklTNHAwODlpS21ybjFPVzZDbE41OGo4eWc?oc=5</link>
+      <guid isPermaLink="false">ce8c83b4d68c2d3f2fc32794</guid>
+      <pubDate>Fri, 21 Aug 2026 11:07:23 +0000</pubDate>
+      <description>Sector &amp; Industry Performance    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMikwFBVV95cUxOMGxtc1ZoRnhfTUxmUGVjdC1Qdkd5SjEwaUhaRmtTdTllY2lOekdPNGVzazlnNDBQYmxLejNNR2VpVDZWUTRNNkVHLW1kYng1ZlJueGl2TUw1N0xVc2tIakVmdGI5WTlYTTRWOXJNUTJDelFaZFpvSUNoNklTNHAwODlpS21ybjFPVzZDbE41OGo4eWc?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Sell America? This Time, the Trader Hyperbole Risks Bearing Out - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPWUVhZEhMOEVkbVl3bWJPTDJPa0lzcnlxQ19WRExGVzliMldnaWdHYUlCZnRTQVo3QTd4VDZ0NFpIVFh6TkNKeHJHclltNkJZbEdxVkIzenRDQ2VTWjFMYWJ1ZFNLM3I1bWtzMXByb0hublZEZEc3cE9lcTVaWlFIZF9qSWlQdTFPclBlYjExVGVTV1MtUUNjRGU1VXpSREpFcDV4RnFHMTVUSm9ZaWFZVGt1ck5uZw?oc=5</link>
+      <guid isPermaLink="false">dbd98ca2b2a9794f9b5f5a5c</guid>
+      <pubDate>Fri, 21 Aug 2026 11:00:01 +0000</pubDate>
+      <description>Sell America? This Time, the Trader Hyperbole Risks Bearing Out    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMitgFBVV95cUxPWUVhZEhMOEVkbVl3bWJPTDJPa0lzcnlxQ19WRExGVzliMldnaWdHYUlCZnRTQVo3QTd4VDZ0NFpIVFh6TkNKeHJHclltNkJZbEdxVkIzenRDQ2VTWjFMYWJ1ZFNLM3I1bWtzMXByb0hublZEZEc3cE9lcTVaWlFIZF9qSWlQdTFPclBlYjExVGVTV1MtUUNjRGU1VXpSREpFcDV4RnFHMTVUSm9ZaWFZVGt1ck5uZw?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Carney Bets Canada Can Live With Tariffs to Unlock Investment - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxOSzBlR1diR2ZGVE1EdGRod0dHZllRWm1iZWFROHNGZnltSGJ6VmtjS2hJMDhxa0hGNkR6WmhvcDRZa2c3emZPODJMaDNMa2E0ZzliLW5xTktXWWp4ZTlOVm1jczJCd2J4U3FTalJTQTU4X3ZqQWFGV09ObHlSVjVTNWdNVzhoejh1RlNHSktMRHU4VUhCUWRuaHlhUHFmRnpreFlSeUN0YzJkWnlUX0tkWEhB?oc=5</link>
+      <guid isPermaLink="false">57539dfe1770c987c5af61c4</guid>
+      <pubDate>Fri, 21 Aug 2026 10:30:19 +0000</pubDate>
+      <description>Carney Bets Canada Can Live With Tariffs to Unlock Investment    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMisgFBVV95cUxOSzBlR1diR2ZGVE1EdGRod0dHZllRWm1iZWFROHNGZnltSGJ6VmtjS2hJMDhxa0hGNkR6WmhvcDRZa2c3emZPODJMaDNMa2E0ZzliLW5xTktXWWp4ZTlOVm1jczJCd2J4U3FTalJTQTU4X3ZqQWFGV09ObHlSVjVTNWdNVzhoejh1RlNHSktMRHU4VUhCUWRuaHlhUHFmRnpreFlSeUN0YzJkWnlUX0tkWEhB?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Economists Boost US Growth Forecasts for Third Quarter - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNEttMEY3VktDLW9pWklDVU1td2owalhCNHc1aF8ta244WWlGd05VZGRWVjdsRllWcjFLVENnSElHWXY3SXRUUG5LZWFZaloyeU43bHgtVUVoYnltTUVOT3VWRWdpVDF4aldXZFhadnZUVlR6dFNUVS11bnpvUlpQQzJXNlZoc2xrZnNXTF81Q0xrYUJLd3hQMzI4NEVkZkY1cmVLMlhVcmE?oc=5</link>
+      <guid isPermaLink="false">a3c45917a2ada45679e9acf3</guid>
+      <pubDate>Fri, 21 Aug 2026 10:00:00 +0000</pubDate>
+      <description>Economists Boost US Growth Forecasts for Third Quarter    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNEttMEY3VktDLW9pWklDVU1td2owalhCNHc1aF8ta244WWlGd05VZGRWVjdsRllWcjFLVENnSElHWXY3SXRUUG5LZWFZaloyeU43bHgtVUVoYnltTUVOT3VWRWdpVDF4aldXZFhadnZUVlR6dFNUVS11bnpvUlpQQzJXNlZoc2xrZnNXTF81Q0xrYUJLd3hQMzI4NEVkZkY1cmVLMlhVcmE?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Stay, Leave or Fight: The Choices Reshaping Ukraine - Bloomberg.com</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRGNBYS01VHFwQkZNME51bkg3ZDhSOUYzV29VUk1tQmlTQkc5VzZQUjRnUjFNNWswUDNvdERqaFVuc1drbFFQZlZ0MDJXbkRxSzF2clh2TVV2Y3BGZ0I0TlVlYlFsMzJxOHROTW13WHQyTm5JSGQ0M1MyMzVyaXdySkU1cWFYRms3UWZ2UGV3R09TQ2Q2YjlPcXZSNy1KOXhadXhKaW4zYmFBY3d3VHlPU0NIQzN2dW1h?oc=5</link>
+      <guid isPermaLink="false">2a4293b70192d776fa8631b9</guid>
+      <pubDate>Fri, 21 Aug 2026 09:04:58 +0000</pubDate>
+      <description>Stay, Leave or Fight: The Choices Reshaping Ukraine    Bloomberg.com</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>google_news_bloomberg_pool</wire:foundAt>
+      <wire:platform>Google News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRGNBYS01VHFwQkZNME51bkg3ZDhSOUYzV29VUk1tQmlTQkc5VzZQUjRnUjFNNWswUDNvdERqaFVuc1drbFFQZlZ0MDJXbkRxSzF2clh2TVV2Y3BGZ0I0TlVlYlFsMzJxOHROTW13WHQyTm5JSGQ0M1MyMzVyaXdySkU1cWFYRms3UWZ2UGV3R09TQ2Q2YjlPcXZSNy1KOXhadXhKaW4zYmFBY3d3VHlPU0NIQzN2dW1h?oc=5</wire:canonicalUrl>
+      <wire:evidence>google discovery query match only</wire:evidence>
+    </item>
   </channel>
 </rss>
