@@ -1,28 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss version="2.0">
   <channel>
     <title>Investing.com — diagnostic source feed</title>
     <link>https://www.investing.com/rss/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 24 Aug 2026 11:57:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 12:56:32 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>Dollar hovers near multi-month lows as debt nerves unnerve investors</title>
-      <link>https://www.investing.com/news/economy-news/dollar-trading-near-multimonth-lows-restrained-by-debt-nerves-4872572</link>
-      <guid isPermaLink="false">f299a32eab4b2baec3331062</guid>
-      <pubDate>Mon, 24 Aug 2026 11:36:37 +0000</pubDate>
-      <description />
-      <dc:creator>Reuters</dc:creator>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>investing_news</wire:foundAt>
-      <wire:platform>Investing.com</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>link_only</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.investing.com/news/economy-news/dollar-trading-near-multimonth-lows-restrained-by-debt-nerves-4872572</wire:canonicalUrl>
-      <wire:evidence>structured credit: Reuters</wire:evidence>
-    </item>
   </channel>
 </rss>
