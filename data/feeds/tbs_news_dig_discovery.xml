@@ -1,11 +1,197 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>TBS NEWS DIG — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Anewsdig.tbs.co.jp+%28Reuters+OR+Bloomberg+OR+%E3%83%AD%E3%82%A4%E3%82%BF%E3%83%BC+OR+%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%90%E3%83%BC%E3%82%B0%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 24 Aug 2026 22:56:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 23:27:25 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>中国アリババ、新株発行で約1兆6000億円調達－香港上場株8.1%安</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2890564</link>
+      <guid isPermaLink="false">9ede573017125e1f94643f71</guid>
+      <pubDate>Sun, 23 Aug 2026 06:41:43 +0000</pubDate>
+      <description>（ブルームバーグ）：中国のアリババグループはAI分野で世界の主導権を争う中、新株発行で約800億香港ドル（約1兆6000億円）を調達した。香港での1社による追加の新株発行としては過去 ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;1時間前
+スマートリングのオーラ、米IPOで最大30億ドル調達目指す－関係者&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2890564</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>将来を軽視する人ほど未納に？最新データで読み解く、国民年金納付の「壁」</title>
+      <link>https://newsdig.tbs.co.jp/articles/gallery/2873332?station=withbloomberg</link>
+      <guid isPermaLink="false">371dfbad6a6365337523133d</guid>
+      <pubDate>Sat, 22 Aug 2026 02:00:00 +0000</pubDate>
+      <description>中国・北京で2回目の人型ロボットのスポーツ大会開幕 666チーム2056体が参加予定、実用化に焦点を当てた競技も ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;画像 1/5&lt;/p&gt;&lt;p&gt;写真の記事を読む
+スクロールで次の画像へ&lt;/p&gt;</content:encoded>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/gallery/2873332?station=withbloomberg</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>原油200ドルなぜ回避？ホルムズ海峡封鎖と世界市場の適応力</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2876191</link>
+      <guid isPermaLink="false">0b2489fa153adb4d2889afe7</guid>
+      <pubDate>Sat, 22 Aug 2026 01:00:00 +0000</pubDate>
+      <description>要旨・中東ホルムズ海峡の封鎖が招いた過去最大の石油供給危機。・各国の備蓄放出や迂回パイプラインの活用で市場は混乱を回避。・中国の輸入削減やEV普及も原油価格の高騰抑制に ...</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2876191</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>「預金」から「国債」へ。利回り上昇で起きる、かつてない資産の大移動</title>
+      <link>https://newsdig.tbs.co.jp/articles/gallery/2873266?station=withbloomberg</link>
+      <guid isPermaLink="false">9bfc8eca359f7bb6d1436942</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <description>為替協調介入に、米国債買い戻し。『ベッセント・サプライズ』はどこまで続く？【播摩卓士の経済コラム】 米政府シリアのテロ支援国家指定を解除 復興支援の一環で ベッセント財務長官 ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;画像 1/13&lt;/p&gt;&lt;p&gt;写真の記事を読む
+スクロールで次の画像へ&lt;/p&gt;</content:encoded>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/gallery/2873266?station=withbloomberg</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>経済制裁も外貨収入は約4倍 「過去35年で今が最強」北朝鮮の復活</title>
+      <link>https://newsdig.tbs.co.jp/articles/gallery/2876142?station=withbloomberg</link>
+      <guid isPermaLink="false">36224d074263b7648e05338d</guid>
+      <pubDate>Fri, 21 Aug 2026 22:00:00 +0000</pubDate>
+      <description>日本の財政・金融政策の論点整理G7データが示す「財政再建」の実態 マツキヨココカラ、オーガニック化粧品のジョン ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;画像 1/24&lt;/p&gt;&lt;p&gt;写真の記事を読む
+スクロールで次の画像へ&lt;/p&gt;</content:encoded>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/gallery/2876142?station=withbloomberg</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>なぜ日本で「預金」が減っているのか。マクロ経済から読み解く「貯蓄から投資へ」のリアル</title>
+      <link>https://newsdig.tbs.co.jp/articles/gallery/2873417?station=withbloomberg</link>
+      <guid isPermaLink="false">d7ff9e66276f5647964bfc49</guid>
+      <pubDate>Fri, 21 Aug 2026 20:00:00 +0000</pubDate>
+      <description>中国アリババ、新株発行で1.6兆円を調達－AI投資を拡大 韓国の個人投資家、年率40%の仕組み商品に食指－株安でもリスク選好 トップページ経済なぜ日本で「預金」が減っているのか。</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/gallery/2873417?station=withbloomberg</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>日経平均7万円台は「バブル」か？ 業績が裏付ける株高の実態</title>
+      <link>https://newsdig.tbs.co.jp/articles/gallery/2882154?station=withbloomberg</link>
+      <guid isPermaLink="false">01dc87763fddbdce3206f003</guid>
+      <pubDate>Fri, 21 Aug 2026 17:29:00 +0000</pubDate>
+      <description>中国アリババ、新株発行で1.6兆円を調達－AI投資を拡大 プーチン大統領、ウクライナの製油所攻撃による経済的影響を認める ...</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/gallery/2882154?station=withbloomberg</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>原油200ドルなぜ回避？ホルムズ海峡封鎖と世界市場の適応力</title>
+      <link>https://newsdig.tbs.co.jp/articles/gallery/2876191?station=withbloomberg</link>
+      <guid isPermaLink="false">b5c66b07be9b9db3f54632c5</guid>
+      <pubDate>Fri, 21 Aug 2026 16:00:00 +0000</pubDate>
+      <description>日本の財政・金融政策の論点整理G7データが示す「財政再建」の実態 「ウクライナを忘れないで」ミサイルで左脚切断…10歳の義足新体操選手が来日 日本で伝えた平和への祈り ...</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/gallery/2876191?station=withbloomberg</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>若年層で「うつ病」による日常生活への影響が顕在化 高齢層とは対照的な健康動向</title>
+      <link>https://newsdig.tbs.co.jp/articles/gallery/2873178?station=withbloomberg</link>
+      <guid isPermaLink="false">bcafd3fc9372d07b4709e590</guid>
+      <pubDate>Fri, 21 Aug 2026 15:01:00 +0000</pubDate>
+      <description>「預金」から「国債」へ。利回り上昇で起きる、かつてない資産の大移動 プーチン大統領、ウクライナの製油所攻撃による ...</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/gallery/2873178?station=withbloomberg</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>ナイジェリアの川でボートが転覆 少なくとも50人死亡</title>
+      <link>https://newsdig.tbs.co.jp/articles/-/2888791?display=1</link>
+      <guid isPermaLink="false">7b44a14ddb237bd0ebafa483</guid>
+      <pubDate>Fri, 21 Aug 2026 08:46:04 +0000</pubDate>
+      <description>西アフリカ・ナイジェリアの川でボートが転覆し、多くの子どもたちを含む、少なくとも50人が死亡しました。 ロイター通信によりますと、ナイジェリア北西部ソコト州で20日、積載量を超えたボートが転覆し、少なくとも50人が死亡したということです。 国家内陸水路庁の地域担当者は、およそ40人の子どもが遺体で確認されたとしているほか、乗っていた人の多くが10歳から15歳で、そのうち16人が救助されたとの情報も ...</description>
+      <dc:creator>TBS NEWS DIG</dc:creator>
+      <content:encoded>&lt;p&gt;ナイジェリアの川でボートが転覆　少なくとも50人死亡&lt;/p&gt;&lt;p&gt;TBSテレビ&lt;/p&gt;&lt;p&gt;2026年8月21日(金) 17:46&lt;/p&gt;&lt;p&gt;国際&lt;/p&gt;&lt;p&gt;西アフリカ・ナイジェリアの川でボートが転覆し、多くの子どもたちを含む、少なくとも50人が死亡しました。&lt;/p&gt;&lt;p&gt;ロイター通信によりますと、ナイジェリア北西部ソコト州で20日、積載量を超えたボートが転覆し、少なくとも50人が死亡したということです。&lt;/p&gt;&lt;p&gt;国家内陸水路庁の地域担当者は、およそ40人の子どもが遺体で確認されたとしているほか、乗っていた人の多くが10歳から15歳で、そのうち16人が救助されたとの情報もあります。&lt;/p&gt;&lt;p&gt;ある地元住民は、この船には農場所有者や稲の収穫のために雇われた労働者が乗っており、転覆した際には70人を超える人が乗船していたと話しています。&lt;/p&gt;&lt;p&gt;ナイジェリアでは、特に雨季になると過密な乗船や整備不良、安全規制の取り締まりの不備などにより、河川などでこうした事故が頻発しているということです。&lt;/p&gt;&lt;p&gt;この記事を読んでいかがでしたか？&lt;/p&gt;&lt;p&gt;参考になる&lt;/p&gt;&lt;p&gt;もっと知りたい&lt;/p&gt;&lt;p&gt;学びがある&lt;/p&gt;&lt;p&gt;シェア&lt;/p&gt;&lt;p&gt;X&lt;/p&gt;&lt;p&gt;LINE&lt;/p&gt;&lt;p&gt;コピー&lt;/p&gt;&lt;p&gt;URLをコピーしました&lt;/p&gt;</content:encoded>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/-/2888791?display=1</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>中国ヒト型ロボットのユニツリー、上場初日に株価一時7倍超</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2881037</link>
+      <guid isPermaLink="false">d6bd406da87c173b27d2977a</guid>
+      <pubDate>Wed, 19 Aug 2026 03:34:00 +0000</pubDate>
+      <description>（ブルームバーグ）：中国のユニツリー・ロボティクス（宇樹科技）は19日、上海株式市場に上場し、株価が一時629%高と急騰した。約61億元（約1440億円）規模の新規株式公開（IPO）を経て ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2881037</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
   </channel>
 </rss>
