@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 24 Aug 2026 11:04:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 11:57:40 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>イラン産原油、中国向け供給は既にほぼ途絶－通貨リアルは過去最安値</title>
@@ -24,6 +24,25 @@
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://news.yahoo.co.jp/articles/88caa19f3a4d8e99d250195aca51f4ba00b3a2f4</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>原油再急騰が米株最大のリスク、エネルギー株でヘッジを－モルガンS</title>
+      <link>https://news.yahoo.co.jp/articles/0e3e47b6977c71f6b9f3a42378f1a1a2960585f2</link>
+      <guid isPermaLink="false">4729cf69c83811be289249c8</guid>
+      <pubDate>Mon, 24 Aug 2026 10:36:22 +0000</pubDate>
+      <description>（ブルームバーグ）：</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;（ブルームバーグ）： モルガン・スタンレーのマイケル・ウィルソン氏は、原油価格の再急騰が米国株にとって最大のリスクだとの見方を示し、ポートフォリオのリスクを低減する手段として、エネルギー株を活用するよう推奨している。&lt;/p&gt;&lt;p&gt;ウィルソン氏によると、原油価格がさらに上昇すれば債券利回りを押し上げ、米連邦準備制度理事会（FRB）のウォーシュ議長は、インフレ率を目標に戻すために対応を迫られる可能性がある。&lt;/p&gt;&lt;p&gt;ウィルソン氏は「対応の中心は財務省よりもFRBになるだろう。最終的にFRBが対応することにほとんど疑いはないが、その前に市場がさらに不安定になる可能性が高い」と述べた。&lt;/p&gt;&lt;p&gt;米イランの戦闘再燃や和平協議の遅れを背景に、北海ブレント原油は7月初旬から約30%上昇し、1バレル＝93ドル前後で取引されている。米30年債利回りは先週、約20年ぶりの高水準近くまで上昇し、米財務省は国債の買い戻しを拡大する方針を発表した。&lt;/p&gt;&lt;p&gt;ウィルソン氏によると、原油価格が上昇した際の株式への打撃は、下落の際の恩恵より大きく、原油相場の安定が株式市場にとって一段と重要になっている。同氏は、原油価格が急騰するリスクへのヘッジとして、エネルギー株を活用することを推奨した。エクソンモービル・ホールディングスとシェブロンの株価は今年30%超上昇し、S&amp;amp;P500種株価指数の上昇率の2倍超となっている。&lt;/p&gt;&lt;p&gt;また、利益が安定し、利益率が高く、効率的な事業運営を行う「クオリティー株」を選好する姿勢も改めて示した。S&amp;amp;P500はクオリティー企業の比重が高く、7月に半導体株主導で相場が下落した際にも、より大幅な下落を免れたという。S&amp;amp;P500は21日、過去最高値を2%弱下回る水準で取引を終えた。&lt;/p&gt;&lt;p&gt;S&amp;amp;P500などの指数の構成も、ウィルソン氏が米国株を海外株より選好する理由の一つだ。同氏は、半導体株が短期的に再び相場の主導役となる可能性は低いとの見通しを示した。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_bloomberg</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/0e3e47b6977c71f6b9f3a42378f1a1a2960585f2</wire:canonicalUrl>
       <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
@@ -962,25 +981,6 @@
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://news.yahoo.co.jp/articles/79113ce709c23d173ce7141e2a74dbe1e5128f29</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>米国債買い戻し増額、日銀政策との比較論浮上－通貨安促す「火遊び」</title>
-      <link>https://news.yahoo.co.jp/articles/6e126952936a15e23b4052dc7a9b01ccb03a37d3</link>
-      <guid isPermaLink="false">6364baa849da4ef6161f888c</guid>
-      <pubDate>Fri, 21 Aug 2026 16:21:41 +0000</pubDate>
-      <description>（ブルームバーグ）：</description>
-      <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;（ブルームバーグ）： 今週の金融市場を大きく動かした米国の長期国債買い戻し増額は、イールドカーブコントロール（YCC）など日本銀行が採用した利回り抑制策と同様の措置なのだろうか。市場関係者の間で、こうした比較が行われている。日本は利回り抑制に取り組み、結果として長期にわたる通貨下落を実現させた。&lt;/p&gt;&lt;p&gt;米財務省は週半ば、満期前に長期国債を市場から買い戻すオペの1回当たり実施額をこれまでの2倍に引き上げると発表した。これを受けてドルは下落、21日の取引で3カ月ぶりの安値を付けた。&lt;/p&gt;&lt;p&gt;ブルッキングス研究所のシニアフェロー、ロビン・ブルックス氏は今回の措置について、米国が日本と同じ通貨切り下げの道をたどっていることを示す「これまでで最も明確な兆候」だと指摘した。政権は「火遊び」をしようとしていると語った。&lt;/p&gt;&lt;p&gt;米国債は発表を受けて当初上昇したものの、その24時間後には上昇分を失った。一方、金などの貴金属は上昇を続け、「ディベースメント取引」が戻ってきたとの声もささやかれ始めた。&lt;/p&gt;&lt;p&gt;スタンダード銀行のG10戦略責任者、スティーブン・バロー氏は、国債買い戻しオペで利回りを抑えようとしてもドルへの下押し圧力を強めるだけで、利回り上昇の根底にある財政赤字の問題に対処していないと論じた。&lt;/p&gt;&lt;p&gt;もっとも、ブルームバーグ・ドル指数は年初来で1%の下落にとどまっており、日本との比較には限界がある。安倍晋三元首相が推進した経済政策「アベノミクス」は、成長を促すための積極的な金融緩和に依存していた。&lt;/p&gt;&lt;p&gt;その中には、事実上、円を大量に供給して国債を買い上げ、利回りを低く抑える大規模な量的緩和策も含まれていた。この政策は円相場を大きく押し下げた。&lt;/p&gt;&lt;p&gt;米財務省の国債買い戻しは、こうした金融緩和策とは比較できない。また米国は、利回りを低く抑える代償として通貨安を受け入れることを選択したわけでもない。&lt;/p&gt;&lt;p&gt;バロー氏はその証拠として、米当局が円を支えるために実施した7月の為替介入を挙げた。ドルではなくユーロを使うことで、米当局はドル相場への影響を回避。一方、日本が介入に必要なドルを調達する目的で米国債を売却する必要性も軽減し、米国債利回りを守った。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_bloomberg</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/6e126952936a15e23b4052dc7a9b01ccb03a37d3</wire:canonicalUrl>
       <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
     </item>
   </channel>
