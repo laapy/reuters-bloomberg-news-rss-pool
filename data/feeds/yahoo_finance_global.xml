@@ -1,11 +1,51 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Yahoo Finance — diagnostic source feed</title>
     <link>https://finance.yahoo.com/news/rssindex</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 24 Aug 2026 10:13:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 11:04:48 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Exclusive-India plans first tokenised bond issue in September, sources say</title>
+      <link>https://finance.yahoo.com/markets/crypto/articles/exclusive-india-plans-first-tokenised-102445401.html</link>
+      <guid isPermaLink="false">866260b5e36bbcf1816017c6</guid>
+      <pubDate>Mon, 24 Aug 2026 10:24:45 +0000</pubDate>
+      <description>India will launch tokenised corporate bonds next month, as it tests the use of blockchain technology to enable instant settlement of bond transactions, thre...</description>
+      <dc:creator>Khushi Malhotra</dc:creator>
+      <content:encoded>&lt;p&gt;Exclusive-India plans first tokenised bond issue in September, sources say&lt;/p&gt;&lt;p&gt;A man walks past an Indian Rupee symbol installation at the RBI headquarters in Mumbai · Reuters
+Khushi Malhotra
+Mon, August 24, 2026 at 5:24 AM CDT 2 min read&lt;/p&gt;&lt;p&gt;By Khushi Malhotra
+MUMBAI, Aug 24 (Reuters) - India will launch tokenised corporate bonds next month, as it tests the use of blockchain technology to enable instant settlement of bond transactions, three sources with direct knowledge of the matter said on Monday.
+The notes, to be issued for the first time by state-owned power financier REC, would place India alongside markets such as Europe and Hong Kong in using the technology for issuance and settlement.&lt;/p&gt;&lt;p&gt;Tokenised bonds are securities whose ownership, issuance, trading and settlement are recorded digitally on a blockchain or distributed ledger, allowing transactions to be completed almost instantly.
+India&amp;#x27;s markets regulator and central bank are working together on pushing the technology, according to the sources, who spoke on the condition of anonymity as the discussions are ongoing and confidential.
+REC will issue tokenised bonds worth less than 5 billion rupees ($57 million) in the offering, the sources said.
+The offering is expected to be unveiled at an annual financial technology event in Mumbai next month, one of the sources said.
+India&amp;#x27;s central bank digital currency will be used to buy the tokenised bonds, one of the sources said.
+Details about the issuer, timeline and framework have not been reported previously.
+&amp;quot;The offering would be made available to only a select group of investors at the pilot stage,&amp;quot; one of the sources said.&lt;/p&gt;&lt;p&gt;Reuters could not ascertain the names of the investors.
+The central bank, markets regulator and REC did not respond to emails seeking comment.
+NEW BOND FRAMEWORK
+To tap the bonds, investors will need to access two digital accounts: a wholesale digital currency wallet provided by a bank, and a new electronic securities wallet, the sources said.
+Indian depositories are developing an e-wallet, a first of its kind, called DEMAT 2.0, which will record bond holdings on a distributed ledger technology chain.
+&amp;quot;Subsequent trades can take place only between participants that hold both compatible CBDC and securities wallets,&amp;quot; one of the sources said.
+The bonds will have an initial three-month lock-in and exchanges are expected to develop a secondary market for the tokenised bonds by December, one of the sources said.
+The securities will not be traded on the conventional electronic book provider platform, the sources said.
+Depositories NSDL and CDSL did not immediately respond to Reuters queries.
+(Reporting by Khushi Malhotra, editing by Jayshree P Upadhyay and Mrigank Dhaniwala)&lt;/p&gt;&lt;p&gt;View Comments&lt;/p&gt;&lt;p&gt;Terms and Privacy Policy
+Your Privacy Choices
+More Info&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_finance_global</wire:foundAt>
+      <wire:platform>Yahoo Finance</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>article page metadata</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://finance.yahoo.com/markets/crypto/articles/exclusive-india-plans-first-tokenised-102445401.html</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: Reporting by Khushi Malhotra, editing by</wire:evidence>
+    </item>
   </channel>
 </rss>
