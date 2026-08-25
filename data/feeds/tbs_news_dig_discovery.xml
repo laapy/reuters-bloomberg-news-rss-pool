@@ -1,311 +1,195 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>TBS NEWS DIG — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Anewsdig.tbs.co.jp+%28Reuters+OR+Bloomberg+OR+%E3%83%AD%E3%82%A4%E3%82%BF%E3%83%BC+OR+%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%90%E3%83%BC%E3%82%B0%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 25 Aug 2026 17:59:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 18:50:20 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>米国株は上昇、エヌビディア8日ぶり反発－原油安で米債利回り低下 - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE9LUVpycG51dTJGQWdpSHFVcDF2dWpGSXViN0Ztd3BMSnVGWGpJeGs5QXdsRnZFa1pqN0M0QjlYUzZyblZURnU0ZGlLUmZPWTZwRGhxcm5lY2ZTakp2UVczTDRuRk5hZ2lseFBwaUo3anZYa3BO?oc=5</link>
-      <guid isPermaLink="false">449dec7978505bf26c4e7648</guid>
-      <pubDate>Tue, 25 Aug 2026 16:54:00 +0000</pubDate>
-      <description>米国株は上昇、エヌビディア8日ぶり反発－原油安で米債利回り低下    TBS NEWS DIG</description>
+      <title>中国アリババ、新株発行で約1兆6000億円調達－香港上場株8.1%安</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2890564</link>
+      <guid isPermaLink="false">9ede573017125e1f94643f71</guid>
+      <pubDate>Sun, 23 Aug 2026 06:41:43 +0000</pubDate>
+      <description>（ブルームバーグ）：中国のアリババグループはAI分野で世界の主導権を争う中、新株発行で約800億香港ドル（約1兆6000億円）を調達した。香港での1社による追加の新株発行としては過去 ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;52分前
+米政権が外国人20万人のビザ取り消しへ､過去最大規模-ホワイトハウス&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2890564</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>将来を軽視する人ほど未納に？最新データで読み解く、国民年金納付の「壁」</title>
+      <link>https://newsdig.tbs.co.jp/articles/gallery/2873332?station=withbloomberg</link>
+      <guid isPermaLink="false">371dfbad6a6365337523133d</guid>
+      <pubDate>Sat, 22 Aug 2026 02:00:00 +0000</pubDate>
+      <description>為替協調介入に、米国債買い戻し。『ベッセント・サプライズ』はどこまで続く？【播摩卓士の経済コラム】 ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;画像 1/5&lt;/p&gt;&lt;p&gt;写真の記事を読む
+スクロールで次の画像へ&lt;/p&gt;</content:encoded>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE9LUVpycG51dTJGQWdpSHFVcDF2dWpGSXViN0Ztd3BMSnVGWGpJeGs5QXdsRnZFa1pqN0M0QjlYUzZyblZURnU0ZGlLUmZPWTZwRGhxcm5lY2ZTakp2UVczTDRuRk5hZ2lseFBwaUo3anZYa3BO?oc=5</wire:canonicalUrl>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/gallery/2873332?station=withbloomberg</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>トランプ氏、オンタリオ湖の「アメリカ湖」改称を検討－舌戦も激化 - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZdUhvWDJ5MHFSbTV6eEJQMU5rdzgzZlpSREtMa0JSa3RteHpPRWJnd2xpWGpxZGRZc2hVYXhjQlAyd092aXl1alV0M1ZnT2gxdnU4clduSVVzNC1MWGx5N0gtOF9qUHZ2aFJidE02N1RpMkhS?oc=5</link>
-      <guid isPermaLink="false">20d14214a8deebb862f966bc</guid>
-      <pubDate>Tue, 25 Aug 2026 16:53:00 +0000</pubDate>
-      <description>トランプ氏、オンタリオ湖の「アメリカ湖」改称を検討－舌戦も激化    TBS NEWS DIG</description>
+      <title>原油200ドルなぜ回避？ホルムズ海峡封鎖と世界市場の適応力</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2876191</link>
+      <guid isPermaLink="false">0b2489fa153adb4d2889afe7</guid>
+      <pubDate>Fri, 21 Aug 2026 23:00:00 +0000</pubDate>
+      <description>要旨・中東ホルムズ海峡の封鎖が招いた過去最大の石油供給危機。・各国の備蓄放出や迂回パイプラインの活用で市場は混乱を回避。・中国の輸入削減やEV普及も原油価格の高騰抑制に ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;1時間前
+米ペンシルベニア州　はしかで2人死亡　アメリカで今年初の死者&lt;/p&gt;</content:encoded>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZdUhvWDJ5MHFSbTV6eEJQMU5rdzgzZlpSREtMa0JSa3RteHpPRWJnd2xpWGpxZGRZc2hVYXhjQlAyd092aXl1alV0M1ZnT2gxdnU4clduSVVzNC1MWGx5N0gtOF9qUHZ2aFJidE02N1RpMkhS?oc=5</wire:canonicalUrl>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2876191</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>VWの人員削減、最大で14万人規模に膨らむ恐れ－労組が警告 - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE85T0lqd0JoYnJLLVgtaUJqN2RWQkN0ekdHV01RYzNEc3Z4MFQzV3VvbU5LbFFBa0dsSzVHc3RlRDhYTXQ4SVNzMmM4MV9MTkNqVU5xOUFWS19LOWtBRi1IdmxTbENVTDhnM1RNR01PblhHdEFV?oc=5</link>
-      <guid isPermaLink="false">99c7b2d4565817d36a65e81b</guid>
-      <pubDate>Tue, 25 Aug 2026 16:53:00 +0000</pubDate>
-      <description>VWの人員削減、最大で14万人規模に膨らむ恐れ－労組が警告    TBS NEWS DIG</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE85T0lqd0JoYnJLLVgtaUJqN2RWQkN0ekdHV01RYzNEc3Z4MFQzV3VvbU5LbFFBa0dsSzVHc3RlRDhYTXQ4SVNzMmM4MV9MTkNqVU5xOUFWS19LOWtBRi1IdmxTbENVTDhnM1RNR01PblhHdEFV?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>ドイツ企業の景気見通し、4カ月連続で改善－経済回復の進展を示唆 - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE5rN3hROHZYeTVuVGR6LTlPZkNIRUtTSThRTnoyRGtLeUFVZkZDSUFTQjZLdGhmamE0N2RPZi12QVd6dWJsZjlmSDZRT05GX3pVT0M0V1ZGTnR1TUVXNFNuNG1ndnE0UEFyUG1HUVBaVXdmRlNH?oc=5</link>
-      <guid isPermaLink="false">d38f9a6f029576abbce9b173</guid>
-      <pubDate>Tue, 25 Aug 2026 11:27:00 +0000</pubDate>
-      <description>ドイツ企業の景気見通し、4カ月連続で改善－経済回復の進展を示唆    TBS NEWS DIG</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE5rN3hROHZYeTVuVGR6LTlPZkNIRUtTSThRTnoyRGtLeUFVZkZDSUFTQjZLdGhmamE0N2RPZi12QVd6dWJsZjlmSDZRT05GX3pVT0M0V1ZGTnR1TUVXNFNuNG1ndnE0UEFyUG1HUVBaVXdmRlNH?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>韓国のレバレッジ型ETFから10億ドル流出－AI関連投資への熱狂冷める - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE11enNEM3ZsZXNTNmpaNy1qa3pkVVdyRTdGTFhUZGZyaXJWWWtNNHEzRzd1d3BaZEp3TmhmWWE5ajRselBXb3ZBYm96X2VrNW9LSlhERmJzaDZYdjB2cHNodnJJV01GOGNrSmQwMVZTbnpIQUwt?oc=5</link>
-      <guid isPermaLink="false">0d3676c3ba23c4f75de608f2</guid>
-      <pubDate>Tue, 25 Aug 2026 11:26:00 +0000</pubDate>
-      <description>韓国のレバレッジ型ETFから10億ドル流出－AI関連投資への熱狂冷める    TBS NEWS DIG</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE11enNEM3ZsZXNTNmpaNy1qa3pkVVdyRTdGTFhUZGZyaXJWWWtNNHEzRzd1d3BaZEp3TmhmWWE5ajRselBXb3ZBYm96X2VrNW9LSlhERmJzaDZYdjB2cHNodnJJV01GOGNrSmQwMVZTbnpIQUwt?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>金融の記事一覧 (845ページ) | TBS CROSS DIG with Bloomberg - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxNT3pqWTh3X2dqNTdWMDk4bHl0bThKeFVZOEE5T21nWUVjdUNvbU9IbnhQYVFTcG9UNVdlbk1NYy1wTE9nMFBaM0luSUhpOS1fblFZQUltTWs3LVp6TXRhWnpQdm9kQ1RZZXBuRk1FX2FSSWFvb0xSZVR2ZzVZMXRHSGNZbw?oc=5</link>
-      <guid isPermaLink="false">20a9af91f8b01dd566bcb563</guid>
-      <pubDate>Tue, 25 Aug 2026 10:14:56 +0000</pubDate>
-      <description>金融の記事一覧 (845ページ) | TBS CROSS DIG with Bloomberg    TBS NEWS DIG</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMigwFBVV95cUxNT3pqWTh3X2dqNTdWMDk4bHl0bThKeFVZOEE5T21nWUVjdUNvbU9IbnhQYVFTcG9UNVdlbk1NYy1wTE9nMFBaM0luSUhpOS1fblFZQUltTWs3LVp6TXRhWnpQdm9kQ1RZZXBuRk1FX2FSSWFvb0xSZVR2ZzVZMXRHSGNZbw?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>中国EV小鵬汽車のロボット部門、アリババなどから9億ドル調達へ - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE9ibzJZUVlyNXJQQWxMbm1ZLUpMVlBBSUJhWVBURzA5alJHTm5QenU5OVF0aVFvNEljX0pZdWc3MVplaHd3cER5Ukc5RmhBRjUwWFg3Ulp4MFNjZV95Yy00ZE8yQkx1ZGMtYWhVUmw1djZpVHRx?oc=5</link>
-      <guid isPermaLink="false">e73bfcefb475fe052bc831da</guid>
-      <pubDate>Tue, 25 Aug 2026 03:08:56 +0000</pubDate>
-      <description>中国EV小鵬汽車のロボット部門、アリババなどから9億ドル調達へ    TBS NEWS DIG</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE9ibzJZUVlyNXJQQWxMbm1ZLUpMVlBBSUJhWVBURzA5alJHTm5QenU5OVF0aVFvNEljX0pZdWc3MVplaHd3cER5Ukc5RmhBRjUwWFg3Ulp4MFNjZV95Yy00ZE8yQkx1ZGMtYWhVUmw1djZpVHRx?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>上野 剛志の記事一覧 (2ページ) | TBS CROSS DIG with Bloomberg - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxOMGlidFp5akVJcFdqQUEzYVpkSkJlU2Qwdkt4MmJUVVRCM25hMGxtS2t0SXFwQnMwc2FJeDlaOGdpbTlIc3RlR2F5REVqVGdvZEZzM2dOZ1BOOTRQUHI3YUNpTlZ1NTVrWEdlWnM5M1AwcTZMbkI4Sm1WMnJqTmJkdDhQbWFpdWJZdVIwOVhRYUFQUjBGZVZGZ2RWTEVZbWotQ1E?oc=5</link>
-      <guid isPermaLink="false">cc0e54f3493b34e6d0de9163</guid>
-      <pubDate>Mon, 24 Aug 2026 19:08:05 +0000</pubDate>
-      <description>上野 剛志の記事一覧 (2ページ) | TBS CROSS DIG with Bloomberg    TBS NEWS DIG</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiogFBVV95cUxOMGlidFp5akVJcFdqQUEzYVpkSkJlU2Qwdkt4MmJUVVRCM25hMGxtS2t0SXFwQnMwc2FJeDlaOGdpbTlIc3RlR2F5REVqVGdvZEZzM2dOZ1BOOTRQUHI3YUNpTlZ1NTVrWEdlWnM5M1AwcTZMbkI4Sm1WMnJqTmJkdDhQbWFpdWJZdVIwOVhRYUFQUjBGZVZGZ2RWTEVZbWotQ1E?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>ドジャース会長のグッゲンハイム、調査に協力－会計処理は「適切」 - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE5sZ1h4M2JDQTVxLXRFaVl2c21idVFldy1oRUJlRlBmTWEtcXV5MjRhVDJvX3p3UWlfN0h6Nl8xb29SS09MTmU2MW5FWlFLWjYwVDRBcjZrQjVQOVN6U0hNOXMxQi1rOTB6ZWZUaW1DcXpkaUE3?oc=5</link>
-      <guid isPermaLink="false">4859929c918a71776979cf13</guid>
-      <pubDate>Mon, 24 Aug 2026 17:39:33 +0000</pubDate>
-      <description>ドジャース会長のグッゲンハイム、調査に協力－会計処理は「適切」    TBS NEWS DIG</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE5sZ1h4M2JDQTVxLXRFaVl2c21idVFldy1oRUJlRlBmTWEtcXV5MjRhVDJvX3p3UWlfN0h6Nl8xb29SS09MTmU2MW5FWlFLWjYwVDRBcjZrQjVQOVN6U0hNOXMxQi1rOTB6ZWZUaW1DcXpkaUE3?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>みずほ銀行などが日本空港ビルデング株売り出し、最大約660億円（1） - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE42Z2hWelFvYjFWTmk3dExES2tWVFMyMHZvbTA4ZFNfbjlFcXBIdDc5ZkdkaUlFSWZjWkNwekFrZmo5dVJLZm5EOFBCbU93b1p2d3VmNkJRZzZVNUMtR2Jrdzk5b0FWZ2l1UFR3MDhhZFVsWkN3?oc=5</link>
-      <guid isPermaLink="false">27203993aca36075f9bd2516</guid>
-      <pubDate>Mon, 24 Aug 2026 08:43:00 +0000</pubDate>
-      <description>みずほ銀行などが日本空港ビルデング株売り出し、最大約660億円（1）    TBS NEWS DIG</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE42Z2hWelFvYjFWTmk3dExES2tWVFMyMHZvbTA4ZFNfbjlFcXBIdDc5ZkdkaUlFSWZjWkNwekFrZmo5dVJLZm5EOFBCbU93b1p2d3VmNkJRZzZVNUMtR2Jrdzk5b0FWZ2l1UFR3MDhhZFVsWkN3?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>マツキヨココカラ、オーガニック化粧品のジョンマスターHDを買収へ - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTFA1aFo2ajZHOV9mRTJyM19BbkpONS1SZURGQ2E3YWt3X0xtTS12d2h6bkFYRlRPbHNpczJDN04xODdZYlZBZTBZbUM5M0RHWVhVT2RPUkV5SUJVWEFMcFlTeW9OS2I0aW5RMFN5YTRmMDZWcS1t?oc=5</link>
-      <guid isPermaLink="false">e3b7046c048f3020c9523d37</guid>
-      <pubDate>Mon, 24 Aug 2026 08:04:00 +0000</pubDate>
-      <description>マツキヨココカラ、オーガニック化粧品のジョンマスターHDを買収へ    TBS NEWS DIG</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTFA1aFo2ajZHOV9mRTJyM19BbkpONS1SZURGQ2E3YWt3X0xtTS12d2h6bkFYRlRPbHNpczJDN04xODdZYlZBZTBZbUM5M0RHWVhVT2RPUkV5SUJVWEFMcFlTeW9OS2I0aW5RMFN5YTRmMDZWcS1t?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>ローソン、おにぎりを一律10円値下げへ－コメ価格の下落を受けて - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTFBQY1dROC1QS1UzdERHeTRJZC1nbDdMbVJkd0ppZmlTMHJGd2owYS1rSzdjMmx1bnlCbUVxSkFlcmtnZldPTGdUYXVQWUpUd2hudkEyU0tLc2Vqeml0UkY0TWVlMFpyLXZhcjAxODBSV0wyU2VW?oc=5</link>
-      <guid isPermaLink="false">d7932b0c42f0d38c80b2cc36</guid>
-      <pubDate>Mon, 24 Aug 2026 08:04:00 +0000</pubDate>
-      <description>ローソン、おにぎりを一律10円値下げへ－コメ価格の下落を受けて    TBS NEWS DIG</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTFBQY1dROC1QS1UzdERHeTRJZC1nbDdMbVJkd0ppZmlTMHJGd2owYS1rSzdjMmx1bnlCbUVxSkFlcmtnZldPTGdUYXVQWUpUd2hudkEyU0tLc2Vqeml0UkY0TWVlMFpyLXZhcjAxODBSV0wyU2VW?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>エクソン、カザフ最大油田がピーク接近と警告－新たな巨額投資を模索 - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE5XUVZMZVBlU3JIVHN6ZTFWSzJ0X19LVDR2RTlhTnR2Ymh2b0hTQkM4dXI2UGNkR1E3Z1R2Y2JOYWRyU3RYaVVQVl9WM3JobHR4ZDlRbmo2a2ZkTGZWV010clJWS3lUTnA2cVdnNUhKRzA5RGE1?oc=5</link>
-      <guid isPermaLink="false">cde8b4520a42170271489f29</guid>
-      <pubDate>Mon, 24 Aug 2026 05:31:00 +0000</pubDate>
-      <description>エクソン、カザフ最大油田がピーク接近と警告－新たな巨額投資を模索    TBS NEWS DIG</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE5XUVZMZVBlU3JIVHN6ZTFWSzJ0X19LVDR2RTlhTnR2Ymh2b0hTQkM4dXI2UGNkR1E3Z1R2Y2JOYWRyU3RYaVVQVl9WM3JobHR4ZDlRbmo2a2ZkTGZWV010clJWS3lUTnA2cVdnNUhKRzA5RGE1?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>エヌビディア、パープレキシティAIに追加出資検討－米メディア - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE5HT3gxd3VfRUlYbUN3Y3IzNFRqQmVPdHFxWmVnY3llUy1EVk9wQkFwTHc3SV9FS1ZLeFlKS1JKREdqaDRydnVqbEo4c3hyRTN4Y0J4YWkwLTFrYzVLdkVDQ2VaM1RMa0dkcXdodjVOQzltQkxW?oc=5</link>
-      <guid isPermaLink="false">50084352d0207bdda35c969f</guid>
-      <pubDate>Mon, 24 Aug 2026 03:57:00 +0000</pubDate>
-      <description>エヌビディア、パープレキシティAIに追加出資検討－米メディア    TBS NEWS DIG</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE5HT3gxd3VfRUlYbUN3Y3IzNFRqQmVPdHFxWmVnY3llUy1EVk9wQkFwTHc3SV9FS1ZLeFlKS1JKREdqaDRydnVqbEo4c3hyRTN4Y0J4YWkwLTFrYzVLdkVDQ2VaM1RMa0dkcXdodjVOQzltQkxW?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>イラン孤立へ「前例のない規模の金融攻勢」－ベッセント氏がFT投稿 - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE55UmFwVzEzV1dVYkF2M0F0TnJMZTAzMTRJTE1Ra2pXb1Zyem51Z1lwSTlwMzN4dmxlV053d3BVVmY3eHR4c1dHYjNodFpBaFJlbFVra2VnVEdmR2xJRlA0dkVwSjJOOG1rc09vRDlWc0NlSDk3?oc=5</link>
-      <guid isPermaLink="false">1152d328879798995cb841e5</guid>
-      <pubDate>Mon, 24 Aug 2026 01:54:00 +0000</pubDate>
-      <description>イラン孤立へ「前例のない規模の金融攻勢」－ベッセント氏がFT投稿    TBS NEWS DIG</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE55UmFwVzEzV1dVYkF2M0F0TnJMZTAzMTRJTE1Ra2pXb1Zyem51Z1lwSTlwMzN4dmxlV053d3BVVmY3eHR4c1dHYjNodFpBaFJlbFVra2VnVEdmR2xJRlA0dkVwSjJOOG1rc09vRDlWc0NlSDk3?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>ソフトバンクG、個人向けに1兆円の社債発行へ－国内リテール債で最大 - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTFB5OGJiWUNMeTBTcVV0MmlxYk9KaWpLWnAydTNKSWwwNHNwSHpsVHB0bWY0ekNMSVlVRkpRWGo2VDJ3MzhBRjlmMmJ2YjRPNGpneGplSGgxTkw5bVkzZjQ4bnlEaC11MUZ3bFRISWxiejhpU1Jt?oc=5</link>
-      <guid isPermaLink="false">3aed60d21b7f3bcd286f2907</guid>
-      <pubDate>Mon, 24 Aug 2026 01:54:00 +0000</pubDate>
-      <description>ソフトバンクG、個人向けに1兆円の社債発行へ－国内リテール債で最大    TBS NEWS DIG</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTFB5OGJiWUNMeTBTcVV0MmlxYk9KaWpLWnAydTNKSWwwNHNwSHpsVHB0bWY0ekNMSVlVRkpRWGo2VDJ3MzhBRjlmMmJ2YjRPNGpneGplSGgxTkw5bVkzZjQ4bnlEaC11MUZ3bFRISWxiejhpU1Jt?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>カナダ・ドルが対米ドルで下落､円は159円付近で小動き－シドニー市場 - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE9nRExNRkhmTWJ3RWdyencxT0k4b2x3a1BtNGxkZklYOVgxMU11RUMzTHdnZG9fNVkxNkRRV2Q4cGE0UzFyMzJvWHk3d2RDOW5RcHhQdldTSnpwTEY5RldneWZKRU5acThzVThIVWpjWXppR0gy?oc=5</link>
-      <guid isPermaLink="false">f756e159629e26359a73ab11</guid>
-      <pubDate>Sun, 23 Aug 2026 23:11:00 +0000</pubDate>
-      <description>カナダ・ドルが対米ドルで下落､円は159円付近で小動き－シドニー市場    TBS NEWS DIG</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE9nRExNRkhmTWJ3RWdyencxT0k4b2x3a1BtNGxkZklYOVgxMU11RUMzTHdnZG9fNVkxNkRRV2Q4cGE0UzFyMzJvWHk3d2RDOW5RcHhQdldTSnpwTEY5RldneWZKRU5acThzVThIVWpjWXppR0gy?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>中国、米イラン和平協議促進に「注力」－トランプ政権の制裁発表控え - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE05SFg3OGJXM1V6Q0FwclBDcTZkQXdyMkIyTFNRSWRxNzRsY3R4YUdqZG9xWF9OdkYySmhIbjJ4c1Zubk9JU25yNExWbXZPT3QzdTdFRHhUeE5vSVdfY3loVWJ2a2taUzRnWkE2anZsZWVuTjVC?oc=5</link>
-      <guid isPermaLink="false">1319680c9d58397640e5e9aa</guid>
-      <pubDate>Sun, 23 Aug 2026 17:49:00 +0000</pubDate>
-      <description>中国、米イラン和平協議促進に「注力」－トランプ政権の制裁発表控え    TBS NEWS DIG</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE05SFg3OGJXM1V6Q0FwclBDcTZkQXdyMkIyTFNRSWRxNzRsY3R4YUdqZG9xWF9OdkYySmhIbjJ4c1Zubk9JU25yNExWbXZPT3QzdTdFRHhUeE5vSVdfY3loVWJ2a2taUzRnWkE2anZsZWVuTjVC?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>カナダが米国に報復関税で対抗－カーニー首相、貿易で「戦争状態に」 | TBS CROSS DIG with Bloomberg - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yU1RwZWlpaXBsRnE4UVNCUng1Y3hoZTFRWWxheE5xZFlpVUxZNUJfYzZXcjByeXAwa1lZSmRSSERJR3REZUtZRHhFWnpRLUNEMTFVUWs2YThRN3V1d3VBdWpCZk5HcE0?oc=5</link>
-      <guid isPermaLink="false">796fbaebd3129f4cdadeffe2</guid>
-      <pubDate>Sat, 22 Aug 2026 15:52:53 +0000</pubDate>
-      <description>カナダが米国に報復関税で対抗－カーニー首相、貿易で「戦争状態に」 | TBS CROSS DIG with Bloomberg    TBS NEWS DIG</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yU1RwZWlpaXBsRnE4UVNCUng1Y3hoZTFRWWxheE5xZFlpVUxZNUJfYzZXcjByeXAwa1lZSmRSSERJR3REZUtZRHhFWnpRLUNEMTFVUWs2YThRN3V1d3VBdWpCZk5HcE0?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>若年層で「うつ病」による日常生活への影響が顕在化 高齢層とは対照的な健康動向 - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTMklITElYWTJkNFVZTVVRTHBnbjVGdklSZ2hxUWgxZXViQWR1cWpLS2NSUGJKbWNwNVRTNHNaV3NpcDB4UFIwcGVqTVhKOVpVSkw2a3hZbzZMbUVqXzloaDAybklreWc?oc=5</link>
-      <guid isPermaLink="false">717505ce97134aa3f741d6dc</guid>
+      <title>経済制裁も外貨収入は約4倍 「過去35年で今が最強」北朝鮮の復活</title>
+      <link>https://newsdig.tbs.co.jp/articles/gallery/2876142?station=withbloomberg</link>
+      <guid isPermaLink="false">36224d074263b7648e05338d</guid>
       <pubDate>Fri, 21 Aug 2026 22:00:00 +0000</pubDate>
-      <description>若年層で「うつ病」による日常生活への影響が顕在化 高齢層とは対照的な健康動向    TBS NEWS DIG</description>
+      <description>日本の財政・金融政策の論点整理G7データが示す「財政再建」の実態 ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;画像 1/24&lt;/p&gt;&lt;p&gt;写真の記事を読む
+スクロールで次の画像へ&lt;/p&gt;</content:encoded>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTMklITElYWTJkNFVZTVVRTHBnbjVGdklSZ2hxUWgxZXViQWR1cWpLS2NSUGJKbWNwNVRTNHNaV3NpcDB4UFIwcGVqTVhKOVpVSkw2a3hZbzZMbUVqXzloaDAybklreWc?oc=5</wire:canonicalUrl>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/gallery/2876142?station=withbloomberg</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>なぜ日本で「預金」が減っているのか。マクロ経済から読み解く「貯蓄から投資へ」のリアル</title>
+      <link>https://newsdig.tbs.co.jp/articles/gallery/2873417?station=withbloomberg</link>
+      <guid isPermaLink="false">d7ff9e66276f5647964bfc49</guid>
+      <pubDate>Fri, 21 Aug 2026 20:00:00 +0000</pubDate>
+      <description>為替協調介入に、米国債買い戻し。『ベッセント・サプライズ』はどこまで続く？【播摩卓士の経済コラム】 SEC、大手米銀に召喚状－シチュエーショナル･アウェアネスの取引巡り ...</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/gallery/2873417?station=withbloomberg</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>「預金」から「国債」へ。利回り上昇で起きる、かつてない資産の大移動</title>
+      <link>https://newsdig.tbs.co.jp/articles/gallery/2873266?station=withbloomberg</link>
+      <guid isPermaLink="false">9bfc8eca359f7bb6d1436942</guid>
+      <pubDate>Fri, 21 Aug 2026 17:00:00 +0000</pubDate>
+      <description>日本の財政・金融政策の論点整理G7データが示す「財政再建」の実態 37分前 ...</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/gallery/2873266?station=withbloomberg</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>若年層で「うつ病」による日常生活への影響が顕在化 高齢層とは対照的な健康動向</title>
+      <link>https://newsdig.tbs.co.jp/articles/gallery/2873178?station=withbloomberg</link>
+      <guid isPermaLink="false">bcafd3fc9372d07b4709e590</guid>
+      <pubDate>Fri, 21 Aug 2026 15:01:00 +0000</pubDate>
+      <description>「預金」から「国債」へ。利回り上昇で起きる、かつてない資産の大移動 プーチン大統領、ウクライナの製油所攻撃による ...</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/gallery/2873178?station=withbloomberg</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>ナイジェリアの川でボートが転覆 少なくとも50人死亡</title>
+      <link>https://newsdig.tbs.co.jp/articles/-/2888791?display=1</link>
+      <guid isPermaLink="false">7b44a14ddb237bd0ebafa483</guid>
+      <pubDate>Fri, 21 Aug 2026 10:45:00 +0000</pubDate>
+      <description>西アフリカ・ナイジェリアの川でボートが転覆し、多くの子どもたちを含む、少なくとも50人が死亡しました。 ロイター通信によりますと、ナイジェリア北西部ソコト州で20日、積載量を超えたボートが転覆し、少なくとも50人が死亡したということです。 国家内陸水路庁の地域担当者は、およそ40人の子どもが遺体で確認されたとしているほか、乗っていた人の多くが10歳から15歳で、そのうち16人が救助されたとの情報も ...</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/-/2888791?display=1</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>中央アフリカ共和国 金鉱山で崩落事故 少なくとも100人死亡</title>
+      <link>https://newsdig.tbs.co.jp/articles/-/2885217</link>
+      <guid isPermaLink="false">317aa1e39a4bab88987a9605</guid>
+      <pubDate>Thu, 20 Aug 2026 09:02:00 +0000</pubDate>
+      <description>中央アフリカ共和国にある金鉱山で崩落事故が発生し、少なくとも100人が死亡しました。ロイター通信などによりますと、中央アフリカ共和国の西部にある金鉱山で18日、崩落事故があり ...</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/-/2885217</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>米長期金利に財務省の警戒鮮明、買い戻し増額巡り市場の見方交錯</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2883643</link>
+      <guid isPermaLink="false">46251debc97307489927dc1e</guid>
+      <pubDate>Thu, 20 Aug 2026 01:20:00 +0000</pubDate>
+      <description>（ブルームバーグ）：米財務省が19日に発表した予想外の措置は、長期国債の最近の売りがベッセント財務長官にとって懸念材料になっていることを示す、これまでで最も具体的な証拠だ。</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2883643</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>鉄鉱石商社ラディアントが人員削減、取引打ち切りや調査で圧力強まる</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2880706</link>
+      <guid isPermaLink="false">85157a5fd00c8aec2d1a835b</guid>
+      <pubDate>Tue, 18 Aug 2026 18:57:00 +0000</pubDate>
+      <description>（ブルームバーグ）：鉄鉱石商社ラディアント・ワールドは、世界各地の拠点で複数の従業員を削減した。事情に詳しい関係者が明らかにした。一部の銀行や取引先が取引を打ち切ったこと ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2880706</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
   </channel>
 </rss>

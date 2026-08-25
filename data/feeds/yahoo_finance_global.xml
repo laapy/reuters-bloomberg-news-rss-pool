@@ -1,11 +1,44 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Yahoo Finance — diagnostic source feed</title>
     <link>https://finance.yahoo.com/news/rssindex</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 25 Aug 2026 17:59:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 18:50:20 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Xpeng's robotics unit valued at over $6.3 billion after record funding round</title>
+      <link>https://finance.yahoo.com/technology/articles/xpeng-says-robotics-business-raised-094034493.html</link>
+      <guid isPermaLink="false">e736b2a4cbda9408fd52de1c</guid>
+      <pubDate>Mon, 24 Aug 2026 09:40:34 +0000</pubDate>
+      <description>Chinese automaker Xpeng said on Monday its robotics unit had raised more than $900 million in its first funding round, setting a new record for a single pr...</description>
+      <dc:creator>Reuters</dc:creator>
+      <content:encoded>&lt;p&gt;Xpeng&amp;#x27;s robotics unit valued at over $6.3 billion after record funding round&lt;/p&gt;&lt;p&gt;The 2024 Paris Auto Show · Reuters
+Reuters
+Mon, August 24, 2026 at 2:40 AM MST 1 min read&lt;/p&gt;&lt;p&gt;XPEV
++4.53%&lt;/p&gt;&lt;p&gt;0700.HK
++0.45%&lt;/p&gt;&lt;p&gt;BABA
++0.59%&lt;/p&gt;&lt;p&gt;Explore stocks on Coinbase Trading disclosure&lt;/p&gt;&lt;p&gt;Trading disclosure The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.
+Learn more&lt;/p&gt;&lt;p&gt;BEIJING, Aug 24 (Reuters) - Chinese automaker Xpeng said on Monday its robotics unit had raised more than $900 million in its first funding round, setting a new record for a single private financing in China&amp;#x27;s embodied AI sector.
+The funding round, led by IDG Capital and backed by strategic investors Tencent and Alibaba, values the robotics business at more than $6.3 billion, Xpeng said in a statement.&lt;/p&gt;&lt;p&gt;Gaorong Ventures, an early investor in autonomous driving company Momenta and humanoid robot startup AgiBot, also participated in the funding.
+The proceeds will be used to develop robotics hardware and software, train and refine physical AI models, collect high-quality data, build end-to-end mass-production facilities, and support global expansion, the company said.
+Xpeng has aimed to reach a monthly output of 1,000 units of its IRON humanoid robot by the end of the year, with initial deployments at its retail stores and industrial campuses. Commercial sales and deliveries in China and overseas markets are scheduled to begin in 2027.
+CEO He Xiaopeng announced in June that he would personally lead the robotics business as the electric vehicle maker, seen as one of the leading automaker-backed developers of humanoid robots, pushes towards mass production.
+The robotics sector has attracted growing interest from automakers, which see parallels with intelligent vehicle development, including expertise in sensors, software, batteries and supply-chain management.&lt;/p&gt;&lt;p&gt;In April, Shanghai-based embodied AI startup TARS Robotics raised more than $455 million in a pre-A funding round, a deal that was then billed as the largest single private financing in China&amp;#x27;s embodied AI sector.
+(Reporting by Qiaoyi Li, Xiuhao Chen, Yukun Zhang and Ryan Woo; Editing by Susan Fenton and Mark Potter)&lt;/p&gt;&lt;p&gt;View Comments&lt;/p&gt;&lt;p&gt;Terms and Privacy Policy
+Privacy Dashboard
+More Info&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_finance_global</wire:foundAt>
+      <wire:platform>Yahoo Finance</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>article page metadata</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://finance.yahoo.com/technology/articles/xpeng-says-robotics-business-raised-094034493.html</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>
