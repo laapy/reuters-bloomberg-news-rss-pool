@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 25 Aug 2026 22:31:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 23:01:05 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>イランとオマーン、ホルムズ海峡通航再開へ「暫定的」枠組み巡り協議</title>
@@ -66,6 +66,25 @@
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://news.yahoo.co.jp/articles/1a0eb45f8a729f5951258f58efa6c1db467f98bf</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>【欧州市況】株、債券ともに上昇－原油価格下落が投資家心理を後押し</title>
+      <link>https://news.yahoo.co.jp/articles/1d802ad9e723fe1ce3d73c10d6f7187b6839ff0e</link>
+      <guid isPermaLink="false">14bda12824375fbef416717c</guid>
+      <pubDate>Tue, 25 Aug 2026 17:27:50 +0000</pubDate>
+      <description>（ブルームバーグ）：</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;（ブルームバーグ）： 25日の欧州債券市場は買いが優勢で、複数の年限の国債で利回りが1週間超ぶりの低水準となった。北海ブレント原油が3%超下落して1バレル＝90ドルを割り込んだことで、インフレへの懸念が後退し、利上げ観測が縮小したことが背景にある。&lt;/p&gt;&lt;p&gt;イタリアとフランスの国債は、中期ゾーンを中心に、他の国債を上回る上げ幅を見せた。両国の5年債利回りはそれぞれ8ベーシスポイント（bp、1bp＝0.01%）低下して、イタリアは3.39%、フランスは3.45%と、約1週間ぶりの低水準となった。&lt;/p&gt;&lt;p&gt;短期金融市場は欧州中央銀行（ECB）の利上げ観測を後退させ、年末までの利上げ幅の見込みは41bpとなった。取引開始時は44bpだった。&lt;/p&gt;&lt;p&gt;英国債利回りは全年限で7bp低下した。2年債利回りは4.31%、5年債利回りは4.52%と、いずれも14日以来の低水準をつけた。&lt;/p&gt;&lt;p&gt;トレーダーが織り込むイングランド銀行（英中央銀行）の年末までの利上げ幅は、取引開始時の30bpから25bpに縮小した。&lt;/p&gt;&lt;p&gt;欧州株は荒い値動きとなる中、上昇した。ストックス欧州600指数は0.3%高で取引を終えた。原油価格の下落により、ここ数日域内市場の重しとなっていたインフレや債券市場への圧力が一部和らいだ。&lt;/p&gt;&lt;p&gt;イラン戦争がこれ以上激化しない可能性を示す兆候も出ている。米ニューヨーク・タイムズ紙は、米国が早ければ今週にも、中東に外交官を戻す可能性があると報じた。&lt;/p&gt;&lt;p&gt;原題：Euro Yields Surpass One-Week Low on Oil Slump: End-of-Day Curves、European Stocks Rise as Pullback in Oil Lifts Investor Sentiment　（抜粋）&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_bloomberg</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/1d802ad9e723fe1ce3d73c10d6f7187b6839ff0e</wire:canonicalUrl>
       <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
@@ -962,25 +981,6 @@ Ifo研究所が25日発表した8月の期待指数は89.1と前月の改定値�
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://news.yahoo.co.jp/articles/2edcf63bf2b28d8878860ce2ee72e01955670597</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>9月の相次ぐ社債発行、消化への懸念は行き過ぎ－JPモルガン</title>
-      <link>https://news.yahoo.co.jp/articles/c31ae87569d1fdd58609bda3adbca8d79ab5ddcb</link>
-      <guid isPermaLink="false">c68cc17a338264f2957fa1b1</guid>
-      <pubDate>Mon, 24 Aug 2026 15:11:07 +0000</pubDate>
-      <description>（ブルームバーグ）：</description>
-      <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;（ブルームバーグ）： 投資適格級社債市場では、9月に社債発行が相次ぐ見通しだ。JPモルガン・アセット・マネジメントのポートフォリオマネジャー、ケルシー・ベロ氏は、ブルームバーグテレビジョンとのインタビューで、社債への旺盛な需要を踏まえれば、大量発行への懸念は行き過ぎの可能性があるとの見方を示した。&lt;/p&gt;&lt;p&gt;ベロ氏によると、9月の発行額については、1750億－2500億ドル（約27兆8400億－39兆7700億円）と幅広い予想が出ている。クレジットのポートフォリオマネジャーからは、発行額が2500億ドルに達しても「実際にはそれほど問題ではない」との声が聞かれるという。ただ、ベロ氏は、最終的な発行額を巡る不確実性が、市場関係者にとって事前の対応を難しくしていると指摘した。&lt;/p&gt;&lt;p&gt;市場では予想のばらつき自体が緊張の要因となっている。発行額予想の下限と上限には750億ドルの開きがあり、例年、社債発行が最も活発になる月の一つである9月を前に、ポートフォリオマネジャーはポジションを取りにくくなっている。&lt;/p&gt;&lt;p&gt;AIインフラ整備への支出を賄うため企業の借り入れが膨らむ中、社債発行は過去最速のペースが続いている。米国の優良企業による社債発行額は8月、3カ月連続で月間最高を更新した。&lt;/p&gt;&lt;p&gt;借り入れ急増の影響が表れる中、投資家は購入する債券やその価格を以前より厳しく選別するようになっている。データセンター事業の資金調達を目指す企業の中には、投資適格級の債券であっても、数十億ドルを調達するためにジャンク債投資家への依存を強めるところも出ている。&lt;/p&gt;&lt;p&gt;8月の社債発行額はすでに1570億ドルに達した。アルファベットによる250億ドルの起債に加え、アッヴィやアドバンスト・マイクロ・デバイセズ（AMD）による大型案件が発行額を押し上げた。&lt;/p&gt;&lt;p&gt;ベロ氏は「記録的な供給がある一方、需要も過去最高となっている」と述べた。こうした需給関係により、9月の大量発行は懸念されるほど大きな問題にはならない可能性があるという。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_bloomberg</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/c31ae87569d1fdd58609bda3adbca8d79ab5ddcb</wire:canonicalUrl>
       <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
     </item>
   </channel>
