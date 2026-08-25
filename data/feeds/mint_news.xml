@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Mint — diagnostic source feed</title>
     <link>https://www.livemint.com/rss/news</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 25 Aug 2026 15:26:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 16:11:06 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Indian IT companies unaffected by Donald Trump’s new H-1B rules as US plans to earn $8.8 billion from visa applications</title>
+      <link>https://www.livemint.com/news/us-news/indian-it-companies-unaffected-by-donald-trump-s-new-h-1b-rules-as-us-plans-to-earn-8-8-billion-from-visa-applications-11787671549227.html</link>
+      <guid isPermaLink="false">efd1679dd9fde3b81e53917b</guid>
+      <pubDate>Tue, 25 Aug 2026 15:47:32 +0000</pubDate>
+      <description>Analysis suggests new H-1B visa fees may not significantly impact Indian technology companies, which have increased local hiring.</description>
+      <dc:creator>Sounak Mukhopadhyay</dc:creator>
+      <content:encoded>&lt;p&gt;Donald Trump’s new H-1B visa rules may not affect Indian technology companies much. Indian IT companies seem to be less exposed to new US visa restrictions. This follows years of reducing dependence on H-1B visas.Nasscom, representing India&amp;#x27;s $315 billion IT industry, confirmed this shift on 25 August, according to Bloomberg. Companies have expanded local hiring significantly over the past five years.The group noted growing investment in US STEM education, too. It framed the new $103,000 sponsorship fee in terms of its original policy goals.The White House announced this new fee proposal on Monday, 24 August. It marks the latest attempt at tightening the H-1B programme.This programme has long served as a pathway for skilled foreign workers. Indian-born workers account for roughly 71% of approved petitions recently. The Department of Homeland Security said, “H-1B petitioners are willing to pay and can afford an additional $103,265 fee.”“The addition of this proposed fee to H-1B cap-subject petitions is intended to provide a dedicated source of revenue to reimburse the federal government for some of the costs of administering the lawful immigration system, including certain costs incurred by other departments and agencies,” DHS said in a draft notice.DHS, along with the Department of Labour, the State Department and the Department of Justice, expects to earn an estimated $8.8 billion in revenue from 85,000 visa applications.A federal court previously struck down Trump&amp;#x27;s earlier $100,000 fee policy. The administration is currently appealing that decision through regulatory channels.Monday&amp;#x27;s announcement drew comparatively-muted concern across India&amp;#x27;s technology sector. The Nifty IT Index actually rose 0.6% after the announcement.Major Indian outsourcing firms have repeatedly emphasised a reduced dependence on H-1B visas in recent times. Tata Consultancy Services (TCS) reported localising its American workforce.Only around 500 TCS employees currently travel on H-1B visas. Wipro similarly reported over 80% local staffing in America. Infosys confirmed that most American employees no longer require visa sponsorship.These shifts reflect broader trends predating Trump&amp;#x27;s latest visa proposals. Companies expanded hiring in the US following earlier immigration restrictions during his first term.The pandemic further accelerated the adoption of remote work capabilities in India. This reduced reliance on physical worker relocation considerably over time.Higher fees may still increase costsDespite these adaptations, analysts warn that higher fees could still increase costs. BOB Capital Markets&amp;#x27; Girish Pai suggested onsite revenue shares might rise, Bloomberg reported. This could weigh on the company&amp;#x27;s profit margins going forward.Interestingly, research suggests that previous US visa restrictions actually benefited India&amp;#x27;s tech sector. A 2026 study found visa caps encouraged skilled workers to return home. This helped build India&amp;#x27;s domestic technology workforce substantially over time.Around 15,100 technology professionals returned to India during 2025, according to Bloomberg. This exceeded the 9,800 who had returned during the previous year.Also, 7,300 professionals have already returned throughout the 2026 covered period. This data comes from Bengaluru-based talent consultancy Xpheno.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>mint_news</wire:foundAt>
+      <wire:platform>Mint</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.livemint.com/news/us-news/indian-it-companies-unaffected-by-donald-trump-s-new-h-1b-rules-as-us-plans-to-earn-8-8-billion-from-visa-applications-11787671549227.html</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: according to Bloomberg</wire:evidence>
+    </item>
   </channel>
 </rss>
