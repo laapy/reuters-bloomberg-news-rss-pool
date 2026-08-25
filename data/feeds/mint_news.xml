@@ -1,30 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss version="2.0">
   <channel>
     <title>Mint — diagnostic source feed</title>
     <link>https://www.livemint.com/rss/news</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 25 Aug 2026 05:33:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 06:54:01 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>Taiwan Floods Kill One, Disrupt Flights as More Rain Predicted</title>
-      <link>https://www.livemint.com/news/taiwan-floods-kill-one-disrupt-flights-as-more-rain-predicted-11787629480363.html</link>
-      <guid isPermaLink="false">ca46298585a4b90e0eb7b345</guid>
-      <pubDate>Tue, 25 Aug 2026 03:44:39 +0000</pubDate>
-      <description>Torrential rain in Taiwan has killed one person and injured at least 164 people, with authorities bracing for more bad weather as Typhoon Saudel approaches.</description>
-      <dc:creator>list.metadata.agency</dc:creator>
-      <content:encoded>&lt;p&gt;(Bloomberg) -- Torrential rain in Taiwan has killed one person and injured at least 164 people, with authorities bracing for more bad weather as Typhoon Saudel approaches.Rescuers are searching for four people missing due to heavy rains, which have mostly affected central, southern and eastern Taiwan. Landslides and road damage having disrupted travel and forced the evacuation of more than 6,100 people from high-risk areas, mainly in Kaohsiung, Pingtung and Hualien, where some districts have suspended work and classes.The southern city of Kaohsiung recorded 913mm — roughly three feet — of rainfall in just three days, shattering both 24-hour and three-day accumulated rainfall records, the city government said in a Facebook post. There have been no major disruptions to industrial production on the island, where Taiwan Semiconductor Manufacturing Co. produces some of the world’s most advanced chips. TSMC said Monday that it has completed routine heavy rain protection procedures and all wafer fabs are operating normally.Still, several airlines have amended flight plans to Okinawa due to the approach of Typhoon Saudel, even as the storm is not expected to make landfall in Taiwan. Advisories warning of very heavy rain remain in force for much of the island. Authorities said flooding has been reported in 35 locations in Taiwan, with 21,071 households experiencing power outages. Taiwan Railway Corp. announced that all express trains on the Eastern Line and South Link Line would resume normal operations after being suspended on Monday.--With assistance from Debby Wu.More stories like this are available on bloomberg.com©2026 Bloomberg L.P.&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>mint_news</wire:foundAt>
-      <wire:platform>Mint</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.livemint.com/news/taiwan-floods-kill-one-disrupt-flights-as-more-rain-predicted-11787629480363.html</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: ©2026 Bloomberg</wire:evidence>
-    </item>
   </channel>
 </rss>
