@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Abnnbloomberg.ca+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 25 Aug 2026 06:54:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 07:47:46 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Wall Street drifts at the start of a week that could swing stocks and bonds</title>
@@ -56,6 +56,21 @@
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/tariffs/2026/08/24/their-word-is-not-their-bond-policy-expert-slams-last-minute-us-trade-demands/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Taiwan charges nine over illegal AI server exports to China, including Nvidia and Super Micro staff</title>
+      <link>https://www.bnnbloomberg.ca/business/company-news/2026/08/24/taiwan-charges-nine-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff/</link>
+      <guid isPermaLink="false">d3a711a0b7ff195851a463b1</guid>
+      <pubDate>Mon, 24 Aug 2026 12:41:00 +0000</pubDate>
+      <description>Taiwanese prosecutors charged nine people Monday, including Nvidia and Super Micro, for illegally exporting “high-end AI servers” to mainland China.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/08/24/taiwan-charges-nine-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -134,39 +149,6 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Trump’s recent tariff threats ‘very revealing’ of the U.S. agenda: PM Carney</title>
-      <link>https://www.bnnbloomberg.ca/video/economics/2026/08/24/trumps-recent-tariff-threats-very-revealing-of-the-us-agenda-pm-carney/</link>
-      <guid isPermaLink="false">b0df1389687a7d5f4bbde996</guid>
-      <pubDate>Mon, 24 Aug 2026 04:36:00 +0000</pubDate>
-      <description>Prime Minister Carney says ‘it’s not a surprise’ that the U.S. caused the break down of trade talks and addresses Ford’s comments on cutting power to the U.S.</description>
-      <content:encoded>&lt;p&gt;Opens in new window
-CTV National News: U.S. tightens rules on P.E.I. potato imports amid trade tensions Opens in new window 01:55 · August 24, 2026 at 5:59p.m. EDT&lt;/p&gt;</content:encoded>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/08/24/trumps-recent-tariff-threats-very-revealing-of-the-us-agenda-pm-carney/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>CTV National News: How 50 per cent art tariffs are putting Canadian artists’ jobs at risk</title>
-      <link>https://www.bnnbloomberg.ca/video/investing/2026/08/24/ctv-national-news-how-50-per-cent-art-tariffs-are-putting-canadian-artists-jobs-at-risk/</link>
-      <guid isPermaLink="false">b6075d4d27d190366edd056a</guid>
-      <pubDate>Mon, 24 Aug 2026 04:36:00 +0000</pubDate>
-      <description>Canadian artists and small businesses face lost customers and jobs as U.S. tariffs take a toll on cross-border business. John Vennavally-Rao explains.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/08/24/ctv-national-news-how-50-per-cent-art-tariffs-are-putting-canadian-artists-jobs-at-risk/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
       <title>'The U.S. is not interested in building a real North American economic partnership': LeBlanc</title>
       <link>https://www.bnnbloomberg.ca/video/shows/the-close/2026/08/24/the-us-is-not-interested-in-building-a-real-north-american-economic-partnership-leblanc/</link>
       <guid isPermaLink="false">f9c6314535412119bfec0a57</guid>
@@ -185,18 +167,36 @@ Investing in AI infrastructure bottleneck removers Opens in new window 07:16 · 
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>CTV National News: U.S. tightens rules on P.E.I. potato imports amid trade tensions</title>
-      <link>https://www.bnnbloomberg.ca/video/investing/2026/08/24/ctv-national-news-us-tightens-rules-on-pei-potato-imports-amid-trade-tensions/</link>
-      <guid isPermaLink="false">35fe4d4c26787fccfaaaa430</guid>
-      <pubDate>Sun, 23 Aug 2026 23:01:00 +0000</pubDate>
-      <description>New U.S. import rules for P.E.I. potatoes are drawing backlash from local growers, who call the restrictions unfair. Maria Sarrouh has more.</description>
+      <title>Trump’s recent tariff threats ‘very revealing’ of the U.S. agenda: PM Carney</title>
+      <link>https://www.bnnbloomberg.ca/video/economics/2026/08/24/trumps-recent-tariff-threats-very-revealing-of-the-us-agenda-pm-carney/</link>
+      <guid isPermaLink="false">b0df1389687a7d5f4bbde996</guid>
+      <pubDate>Sun, 23 Aug 2026 22:55:00 +0000</pubDate>
+      <description>Prime Minister Carney says ‘it’s not a surprise’ that the U.S. caused the break down of trade talks and addresses Ford’s comments on cutting power to the U.S.</description>
+      <content:encoded>&lt;p&gt;Opens in new window
+CTV National News: U.S. tightens rules on P.E.I. potato imports amid trade tensions Opens in new window 01:55 · August 24, 2026 at 5:59p.m. EDT&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/08/24/ctv-national-news-us-tightens-rules-on-pei-potato-imports-amid-trade-tensions/</wire:canonicalUrl>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/08/24/trumps-recent-tariff-threats-very-revealing-of-the-us-agenda-pm-carney/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>‘I don’t respond to a dictator like President Trump’: Ford</title>
+      <link>https://www.bnnbloomberg.ca/video/live/2026/08/24/i-dont-respond-to-a-dictator-like-president-trump-ford/</link>
+      <guid isPermaLink="false">8c2848becba1fb0e4d6c232b</guid>
+      <pubDate>Sun, 23 Aug 2026 22:55:00 +0000</pubDate>
+      <description>Ontario Premier Doug Ford calls Trump ‘a dictator,’ ‘a bully,’ and ‘the king of bankruptcy.’ ...</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/live/2026/08/24/i-dont-respond-to-a-dictator-like-president-trump-ford/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
