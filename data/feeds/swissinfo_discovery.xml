@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Aswissinfo.ch+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 25 Aug 2026 23:01:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 23:34:25 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Asian Stocks Set to Gain as Oil Extends Declines: Markets Wrap</title>
@@ -27,11 +27,11 @@
       <wire:evidence>structured credit: Bloomberg</wire:evidence>
     </item>
     <item>
-      <title>Stocks Rise Before Nvidia as Oil Drop Lifts Bonds: Markets Wrap</title>
-      <link>https://www.swissinfo.ch/eng/stocks-rise-before-nvidia-as-oil-drop-lifts-bonds%3a-markets-wrap/91948594</link>
-      <guid isPermaLink="false">c40549bf73304e5b1cbdc122</guid>
+      <title>Global Stocks Rise as Bitcoin Pushes Past $80,000: Markets Wrap</title>
+      <link>https://www.swissinfo.ch/eng/global-stocks-rise-as-bitcoin-pushes-past-%2480%2c000%3a-markets-wrap/91948594</link>
+      <guid isPermaLink="false">5b29c300a3f439b305331093</guid>
       <pubDate>Tue, 25 Aug 2026 20:55:22 +0000</pubDate>
-      <description>Stocks rose as a decline in oil prices sent bond yields lower, with traders awaiting Nvidia Corp.’s earnings for clues on whether the outlook for artificial intelligence remains intact.</description>
+      <description>Stocks rose as a selloff in chipmakers fizzled in a session marked by mostly modest moves across asset classes. The main exception was Bitcoin, which surged past $80,000.</description>
       <dc:creator>Bloomberg</dc:creator>
       <content:encoded>&lt;p&gt;Ebola vaccine: ‘In an outbreak situation we’re racing against time’&lt;/p&gt;&lt;p&gt;Read more: Ebola vaccine: ‘In an outbreak situation we’re racing against time’&lt;/p&gt;</content:encoded>
       <wire:publisher>Bloomberg</wire:publisher>
@@ -42,7 +42,7 @@
       <wire:confidence>0.99</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.swissinfo.ch/eng/stocks-rise-before-nvidia-as-oil-drop-lifts-bonds%3a-markets-wrap/91948594</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.swissinfo.ch/eng/global-stocks-rise-as-bitcoin-pushes-past-%2480%2c000%3a-markets-wrap/91948594</wire:canonicalUrl>
       <wire:evidence>structured credit: Bloomberg</wire:evidence>
     </item>
     <item>
@@ -80,21 +80,6 @@
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.swissinfo.ch/eng/global-trade/iran-linked-swiss-oil-trader-hit-by-us-sanctions/91950759</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Global Stocks Rise as Bitcoin Pushes Past $80,000: Markets Wrap</title>
-      <link>https://www.swissinfo.ch/eng/global-stocks-rise-as-bitcoin-pushes-past-%2480%2c000%3a-markets-wrap/91948594</link>
-      <guid isPermaLink="false">5b29c300a3f439b305331093</guid>
-      <pubDate>Tue, 25 Aug 2026 02:39:00 +0000</pubDate>
-      <description>Stocks rose as a selloff in chipmakers fizzled in a session marked by mostly modest moves across asset classes. The main exception was Bitcoin, which surged past $80,000.</description>
-      <wire:foundAt>swissinfo_discovery</wire:foundAt>
-      <wire:platform>SWI swissinfo.ch</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.swissinfo.ch/eng/global-stocks-rise-as-bitcoin-pushes-past-%2480%2c000%3a-markets-wrap/91948594</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -200,6 +185,21 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.swissinfo.ch/eng/various/swiss-gymnast-se-first-time-in-75-years/90209560</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Swiss lawmakers reject population control initiative</title>
+      <link>https://www.swissinfo.ch/eng/swiss-democracy/national-council-rejects-no-10-million-swiss-initiative/90069653</link>
+      <guid isPermaLink="false">b5ac45d0851704cd0698ad8b</guid>
+      <pubDate>Fri, 26 Sep 2025 03:12:00 +0000</pubDate>
+      <description>Read more: Hostage in the desert: situation of kidnapped Swiss woman remains dire Five years of Taliban rule leave Afghanistan facing hunger, repression and a lost generation Read more: Five years of ...</description>
+      <wire:foundAt>swissinfo_discovery</wire:foundAt>
+      <wire:platform>SWI swissinfo.ch</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.swissinfo.ch/eng/swiss-democracy/national-council-rejects-no-10-million-swiss-initiative/90069653</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
