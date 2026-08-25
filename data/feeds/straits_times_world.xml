@@ -1,11 +1,42 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>The Straits Times — diagnostic source feed</title>
     <link>https://www.straitstimes.com/news/world/rss.xml</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 25 Aug 2026 19:35:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 20:33:28 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>US Secret Service aware of Iran video threat against Trump’s son, Barron</title>
+      <link>https://www.straitstimes.com/world/united-states/u-s-secret-service-aware-of-iranian-video-threat-against-barron-trump</link>
+      <guid isPermaLink="false">676cc16770c2ad934329c083</guid>
+      <pubDate>Tue, 25 Aug 2026 19:48:53 +0000</pubDate>
+      <description>A potential plot to assassinate Trump’s youngest son was discussed on Iranian state TV.</description>
+      <content:encoded>&lt;p&gt;US Secret Service aware of Iran video threat against Trump’s son, Barron
+Sign up now: Get ST&amp;#x27;s newsletters delivered to your inbox&lt;/p&gt;&lt;p&gt;Barron Trump at the inauguration of his father, Donald Trump, as US president for a second term in January 2025.
+PHOTO: REUTERS&lt;/p&gt;&lt;p&gt;Published   Aug 26, 2026, 03:48 AM&lt;/p&gt;&lt;p&gt;Updated   Aug 26, 2026, 04:19 AM&lt;/p&gt;&lt;p&gt;Set as preferred source&lt;/p&gt;&lt;p&gt;Listen
+Summarise&lt;/p&gt;&lt;p&gt;The US Secret Service is aware of an Iranian state TV video threatening to assassinate Barron Trump and is investigating the potential threat.
+The video claims Barron Trump is being monitored and a $10 million bounty has been offered for his killing.
+Tensions between the US and Iran remain high, with previous warnings about assassination plots against Donald Trump and his family.&lt;/p&gt;&lt;p&gt;AI generated&lt;/p&gt;&lt;p&gt;WASHINGTON - The US Secret Service is aware of a video broadcast by Iranian state television discussing a potential plot to assassinate US President Donald Trump’s youngest son, a spokesperson said on Aug 25.
+“The US Secret Service is aware of the video and investigates anything that can be perceived as a threat toward our protectees. Out of concern for operational security, we do not discuss matters of protective intelligence,” Secret Service spokesperson Nate Herring said in an email.
+A three-minute video broadcast by Iranian state TV discussed a potential plot to assassinate Barron Trump, 20, claiming that he was being monitored and alleging that a US$10 million (S$12.7 million) bounty had been offered for his killing.&lt;/p&gt;&lt;p&gt;The United States and Iran have kept up hostile rhetoric during a nearly six-month-old war started by the US and Israel in February.
+Reuters reported earlier this month that the US has received several warnings from Israel over the past year that Iran intended to assassinate Trump, according to officials, including before a secret Air Force One ruse in Turkey.
+Trump has described himself as “number one on the kill list for Iran”. REUTERS&lt;/p&gt;&lt;p&gt;More on this topic&lt;/p&gt;&lt;p&gt;US could not verify Israeli warnings of Iran plots against Trump, say sources&lt;/p&gt;&lt;p&gt;Israel’s Netanyahu says Iran ‘tried to kill’ one of his sons&lt;/p&gt;&lt;p&gt;See more on&lt;/p&gt;&lt;p&gt;United States
+Donald Trump
+Iran
+Iran war
+Israel&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>straits_times_world</wire:foundAt>
+      <wire:platform>The Straits Times</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.straitstimes.com/world/united-states/u-s-secret-service-aware-of-iranian-video-threat-against-barron-trump</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Reuters reported</wire:evidence>
+    </item>
   </channel>
 </rss>
