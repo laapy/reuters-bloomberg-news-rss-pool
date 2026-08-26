@@ -1,11 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Investing.com — diagnostic source feed</title>
     <link>https://www.investing.com/rss/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 26 Aug 2026 13:58:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 14:51:25 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Iran and Oman still working on Strait of Hormuz accord, says senior Iranian source</title>
+      <link>https://www.investing.com/news/commodities-news/iran-and-oman-discuss-temporary-hormuz-corridor-as-impasse-with-us-drags-on-4876021</link>
+      <guid isPermaLink="false">b2492be79998b207174616f7</guid>
+      <pubDate>Wed, 26 Aug 2026 14:43:14 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/commodities-news/iran-and-oman-discuss-temporary-hormuz-corridor-as-impasse-with-us-drags-on-4876021</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>US imposes sanctions on Palestine Action group</title>
+      <link>https://www.investing.com/news/stock-market-news/us-imposes-sanctions-on-palestine-action-group-4877520</link>
+      <guid isPermaLink="false">14df00b9da5889d4319e6d95</guid>
+      <pubDate>Wed, 26 Aug 2026 14:42:34 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/us-imposes-sanctions-on-palestine-action-group-4877520</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>
