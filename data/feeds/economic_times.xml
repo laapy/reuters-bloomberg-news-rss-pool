@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>The Economic Times — diagnostic source feed</title>
     <link>https://economictimes.indiatimes.com/rssfeedsdefault.cms</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 26 Aug 2026 09:43:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 10:39:34 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Adani’s Cemindia is said to near up to $524 million share sale</title>
+      <link>https://economictimes.indiatimes.com/markets/stocks/news/adanis-cemindia-is-said-to-near-up-to-524-million-share-sale/articleshow/133536591.cms</link>
+      <guid isPermaLink="false">c81e4ac4f8588638f24a864a</guid>
+      <pubDate>Wed, 26 Aug 2026 09:46:00 +0000</pubDate>
+      <description>Adani Group-backed Cemindia Projects, formerly known as ITD Cementation India, is preparing to launch a qualified institutional placement (QIP) to raise up to Rs 5,000 crore. The company has appointed ICICI Securities and SBI Capital Markets as advisers and has been meeting institutional investors ahead of the potential share sale.</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;Adani Group-backed Cemindia Projects Ltd. has appointed banks as it nears the launch of a share sale to institutional investors to raise as much as 50 billion rupees ($524 million), according to people familiar with the matter.The company, formerly known as ITD Cementation India Ltd., has been meeting institutional investors and could launch the qualified institutional placement in the coming days, the people said, asking not to be identified because the information is private. ICICI Securities Ltd. and SBI Capital Markets Ltd. are working on the transaction, they said.Deliberations are ongoing and details including the timing and size of the offering could change, the people said. Representatives for Cemindia Projects and the banks didn’t immediately respond to requests for comment.The company’s board on July 23 approved raising as much as 50 billion rupees through the issuance of equity shares via a qualified institutional placement.India’s equity capital market is on track for its strongest month on record despite a lackluster stock market, fueled by a flurry of block trades and institutional placements. Almost $10 billion of deals have priced in August, led by the government’s $3.2 billion sale of shares in Life Insurance Corp. of India, as ample domestic liquidity continues to support demand for new stock.Adani Group, through its Renew Exim DMCC unit, acquired control of Cemindia Projects in 2024 and subsequently increased its holding through an open offer. The group held a 67.46% stake following the transaction.Cemindia Projects focuses on heavy civil, infrastructure and engineering, procurement and construction projects in India, according to its website.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>economic_times</wire:foundAt>
+      <wire:platform>The Economic Times</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://economictimes.indiatimes.com/markets/stocks/news/adanis-cemindia-is-said-to-near-up-to-524-million-share-sale/articleshow/133536591.cms</wire:canonicalUrl>
+      <wire:evidence>structured credit: Bloomberg</wire:evidence>
+    </item>
   </channel>
 </rss>
