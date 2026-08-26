@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Mint — diagnostic source feed</title>
     <link>https://www.livemint.com/rss/news</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 26 Aug 2026 08:46:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 09:43:43 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>‘Like a volcano erupting’: Massive flash flood in Nepal kills 8 while 400 tourists unreachable</title>
+      <link>https://www.livemint.com/news/world/like-a-volcano-erupting-massive-flash-flood-in-nepal-kills-8-heavy-casualties-loss-of-property-feared-11787734047936.html</link>
+      <guid isPermaLink="false">d54ab0c719b48b457b11fc12</guid>
+      <pubDate>Wed, 26 Aug 2026 08:49:27 +0000</pubDate>
+      <description>A massive flash flood in Nepal killed eight and caused significant damage to infrastructure. Helicopters are grounded due to rising waters, and residents near the Bhote Koshi river have been urged to seek higher ground.&amp;nbsp;</description>
+      <dc:creator>Sounak Mukhopadhyay</dc:creator>
+      <content:encoded>&lt;p&gt;A massive flash flood in Nepal struck villages near Tibet on Wednesday, 26 August. So far, eight people have been killed. Authorities have sent helicopters for rescue purposes, Reuters reported.Roads, bridges and power projects have sustained significant damage in affected areas. Tibet also reported major casualties after a mudslide.The Nepal Tourism Board cited information received from travel agencies to report that nearly 400 tourists remain unreachable.Those missing include 291 foreign tourists and 93 Nepali tourists. The Board verified the figures with travel agencies, guides, local authorities and security agencies, according to local media.Rising waters prevented helicopters from landing in Nepal&amp;#x27;s Rasuwa district. Officials warned of potential heavy casualties or significant property loss.Residents near the Bhote Koshi river were urged to seek higher ground. A witness described hearing a loud sound before chaos erupted.&amp;quot;It all came suddenly. We heard a loud sound, like a volcano erupting. People started to scream and ran away,&amp;quot; the Onlinekhabar quoted the witness as saying.Army officials confirmed that rescue helicopters remained grounded until the waters receded. The flood&amp;#x27;s exact cause remains unclear at this stage.&amp;quot;There could be heavy casualties or loss of property. But I cannot say for sure now,&amp;quot; district administrator Narendra Pariyar told Reuters.Nepal Oil Corporation has sent aviation fuel to Nuwakot for rescue helicopters. These helicopters are supporting flood rescue and relief operations in Rasuwa, according to Onlinekhabar.Refuelling tanker sentA refuelling tanker is carrying 16,000 litres of fuel to Nuwakot. It will serve the Nepal Army and private helicopters operating in flood-affected areas. This arrangement will prevent unnecessary returns to Kathmandu for refuelling.According to Pradeep Yadav, who heads the Aviation Fuel Depot in Sinamangal, such tankers usually operate only within airport premises.“We are sending a refueller with a capacity of 16,000 litres to fuel helicopters operated by the Army and others involved in rescue efforts,” Yadav told Onlinekhabar.“Although this vehicle is ordinarily not permitted to operate outside the airport, given the exceptional circumstances, we have dispatched it under the security and supervision of two Nepal Army representatives and three representatives of the Corporation.”Officials consulted the Civil Aviation Authority and Nepal Army before dispatching the tanker. It will first attempt to reach the Army barracks in Nuwakot. Otherwise, it will remain at the Gajuri barracks in Dhading.Allowing helicopters to refuel in Nuwakot is expected to make it faster and more effective to rescue people in flood- and landslide-affected areas.This emergency measure by Nepal Oil Corporation is expected to provide significant logistical support to the rescue operation.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>mint_news</wire:foundAt>
+      <wire:platform>Mint</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.livemint.com/news/world/like-a-volcano-erupting-massive-flash-flood-in-nepal-kills-8-heavy-casualties-loss-of-property-feared-11787734047936.html</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Reuters reported</wire:evidence>
+    </item>
   </channel>
 </rss>
