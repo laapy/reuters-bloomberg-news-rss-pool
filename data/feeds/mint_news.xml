@@ -1,30 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss version="2.0">
   <channel>
     <title>Mint — diagnostic source feed</title>
     <link>https://www.livemint.com/rss/news</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 26 Aug 2026 16:20:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 18:18:27 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>US disrupts Chinese hacking operation targeting NASA, Federal Reserve, Senate and other agencies</title>
-      <link>https://www.livemint.com/news/us-news/us-disrupts-chinese-hacking-operation-targeting-nasa-federal-reserve-senate-and-other-agencies-11787755880541.html</link>
-      <guid isPermaLink="false">91a0a504f27fb1a560bb5912</guid>
-      <pubDate>Wed, 26 Aug 2026 14:53:30 +0000</pubDate>
-      <description>The Justice Department said it had seized domains linked to two hacking platforms, known as “QScan” and “QTRouter,” which were allegedly used in the cyber campaign.</description>
-      <dc:creator>Ravi Hari</dc:creator>
-      <content:encoded>&lt;p&gt;The United States has disrupted a Chinese hacking operation that allegedly carried out cyber intrusions against several sensitive US government agencies, including the Justice Department, NASA, the Federal Reserve and the US Senate, Reuters reported on Wednesday (August 26).According to Reuters, the US Justice Department said it had seized domains used by two hacking platforms, QScan and QTRouter, which investigators said were part of the campaign.The operation allegedly targeted government agencies and companies in both the United States and South Korea.The Justice Department said it had seized domains associated with QScan and QTRouter as part of efforts to disrupt the alleged hacking campaign.Several US agencies among alleged victimsThe alleged campaign reached multiple sensitive US institutions.According to the affidavit cited by Reuters, the victims included:-US Department of Justice-NASA-Federal Reserve-US Senate-Department of Energy-Department of Health and Human Services-National Institutes of Health-Four unnamed companies in the US and South KoreaChina-based firm allegedly operated platformsThe Justice Department said the hacking platforms were operated by Nanjing Xinjiuwei Network Technology Company, a China-based firm.US authorities alleged that the company&amp;#x27;s clients included China&amp;#x27;s Ministry of State Security, the country&amp;#x27;s civilian intelligence agency, and the People&amp;#x27;s Liberation Army.Private contractors play growing roleExperts who track Chinese cyber activity told Reuters that private contractors have increasingly become involved in sophisticated hacking operations conducted on behalf of Chinese government agencies.Dakota Cary, a China analyst at cybersecurity company SentinelOne, said the number of Chinese companies offering specialised offensive cyber services had grown significantly over the past decade.“Over the last decade, the number of companies offering niche offensive services has exploded,” Cary said, according to Reuters.China has not respondedThe Chinese Embassy in Washington did not immediately respond to Reuters&amp;#x27; request for comment.Beijing routinely denies responsibility for cyberattacks attributed to Chinese government-linked actors and has previously rejected US accusations of state-sponsored hacking.&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>mint_news</wire:foundAt>
-      <wire:platform>Mint</wire:platform>
-      <wire:relation>mention</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.86</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.livemint.com/news/us-news/us-disrupts-chinese-hacking-operation-targeting-nasa-federal-reserve-senate-and-other-agencies-11787755880541.html</wire:canonicalUrl>
-      <wire:evidence>reporting reference, not an exact wire credit: According to Reuters</wire:evidence>
-    </item>
   </channel>
 </rss>
