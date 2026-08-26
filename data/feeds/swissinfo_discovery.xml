@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Aswissinfo.ch+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 26 Aug 2026 06:54:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 07:50:39 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Stocks Rise in Runup to Nvidia, Oil Extends Slide: Markets Wrap</title>
@@ -186,6 +186,21 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.swissinfo.ch/eng/partners-group-exits-bubble-tea-brand-gong-cha-after-bain-buyout/91942571</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Human rights centre launches in Geneva</title>
+      <link>https://www.swissinfo.ch/eng/foreign-affairs/human-rights-a-new-player-in-geneva-to-breathe-new-life-into-human-rights/91264199</link>
+      <guid isPermaLink="false">038a73f5b58fe86769abfcdb</guid>
+      <pubDate>Thu, 16 Apr 2026 01:32:00 +0000</pubDate>
+      <description>Read more: Ebola vaccine: ‘In an outbreak situation we’re racing against time’ US price pressure ‘threatens new drugs’ in Switzerland Read more: US price pressure ‘threatens new drugs’ in Switzerland ...</description>
+      <wire:foundAt>swissinfo_discovery</wire:foundAt>
+      <wire:platform>SWI swissinfo.ch</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.swissinfo.ch/eng/foreign-affairs/human-rights-a-new-player-in-geneva-to-breathe-new-life-into-human-rights/91264199</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
