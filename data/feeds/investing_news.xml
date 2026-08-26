@@ -1,11 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Investing.com — diagnostic source feed</title>
     <link>https://www.investing.com/rss/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 26 Aug 2026 11:34:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 12:58:45 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Iran and Oman plan for temporary Hormuz corridor as impasse with US persists</title>
+      <link>https://www.investing.com/news/commodities-news/iran-and-oman-discuss-temporary-hormuz-corridor-as-impasse-with-us-drags-on-4876021</link>
+      <guid isPermaLink="false">4f0fba91967dbb199022e4a2</guid>
+      <pubDate>Wed, 26 Aug 2026 12:43:29 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/commodities-news/iran-and-oman-discuss-temporary-hormuz-corridor-as-impasse-with-us-drags-on-4876021</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>
