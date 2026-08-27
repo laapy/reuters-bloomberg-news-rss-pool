@@ -1,30 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss version="2.0">
   <channel>
     <title>The Economic Times — diagnostic source feed</title>
     <link>https://economictimes.indiatimes.com/rssfeedsdefault.cms</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 27 Aug 2026 00:33:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 11:00:50 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>Tata Power loses challenge to $490 million arbitration award</title>
-      <link>https://economictimes.indiatimes.com/markets/stocks/news/tata-power-loses-challenge-to-490-million-arbitration-award/articleshow/133553293.cms</link>
-      <guid isPermaLink="false">c12f4ca0a9b02a24b5bd3593</guid>
-      <pubDate>Wed, 26 Aug 2026 18:57:00 +0000</pubDate>
-      <description>Tata Power's challenge to a $490 million arbitration award was rejected by Singapore's court. The court upheld damages awarded to Kleros Capital Partners regarding a Russian coal asset bid. Disagreements over leadership and ownership soured the partnership in 2015. Kleros alleged Tata Power misused confidential information and acted in bad faith. The company must now pay Kleros' legal costs, which are yet to be determined.</description>
-      <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;Singapore: Tata Power Co., one of India&amp;#x27;s largest non-state power producers, has lost its challenge to a $490 million arbitration award over a dispute with investor Kleros Capital Partners concerning a proposed bid for a coal asset in Russia.The Singapore International Commercial Court rejected Tata Power&amp;#x27;s challenge to the quantum of damages awarded to Kleros, as well as its argument that the majority arbitral order breached natural justice, according to an order delivered Wednesday.A Tata Power spokesperson did not immediately respond to a request for comment.The case dates back to 2013, when Kleros approached Tata Power with a proposal to jointly bid for a Russian coal deposit that it estimated had reserves worth $1.1 billion. The two companies entered into a non-disclosure agreement effective for four years from September 2013.The relationship began to sour in 2015 amid disagreements over who would lead the bid and the ownership structure of the proposed project, according to the court document. The relationship ended the following year.Kleros subsequently did not bid for the mine in federal auctions held in Russia in December 2017 and wound down its operations in the country. Tata Power submitted a bid through a Russian subsidiary and won the mining licence after the non-disclosure agreement with Kleros had expired. It later surrendered the licence after determining that the project was not viable.Kleros then initiated arbitration proceedings, alleging that Tata Power had breached the non-disclosure agreements by misusing confidential information and acting in bad faith to exclude Kleros from the project.The court upheld the arbitral award and rejected Tata Power&amp;#x27;s challenge on all grounds. It also ordered the company to pay Kleros&amp;#x27; costs, with the amount yet to be determined.&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>economic_times</wire:foundAt>
-      <wire:platform>The Economic Times</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://economictimes.indiatimes.com/markets/stocks/news/tata-power-loses-challenge-to-490-million-arbitration-award/articleshow/133553293.cms</wire:canonicalUrl>
-      <wire:evidence>structured credit: Bloomberg</wire:evidence>
-    </item>
   </channel>
 </rss>
