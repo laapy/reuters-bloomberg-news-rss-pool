@@ -1,11 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Investing.com — diagnostic source feed</title>
     <link>https://www.investing.com/rss/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 27 Aug 2026 11:00:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 21:01:01 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Workday’s outlook meets estimates despite AI demand, shares slip</title>
+      <link>https://www.investing.com/news/stock-market-news/workday-beats-secondquarter-revenue-estimates-4880121</link>
+      <guid isPermaLink="false">8158b3b04b4c33e073449dbb</guid>
+      <pubDate>Thu, 27 Aug 2026 20:36:46 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/workday-beats-secondquarter-revenue-estimates-4880121</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>Build-A-Bear shares drop most ever on weak annual revenue outlook</title>
+      <link>https://www.investing.com/news/stock-market-news/buildabear-shareson-track-for-biggest-drop-ever-on-weak-revenue-outlook-4880037</link>
+      <guid isPermaLink="false">b10995c05b90ffbe1ce210f5</guid>
+      <pubDate>Thu, 27 Aug 2026 20:36:31 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/buildabear-shareson-track-for-biggest-drop-ever-on-weak-revenue-outlook-4880037</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>
