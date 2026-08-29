@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Aswissinfo.ch+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 29 Aug 2026 01:35:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 08:46:40 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Private Jet Firm Vista Explores $1 Billion Europe IPO</title>
@@ -128,8 +128,23 @@
       <title>US Expands Sanctions on Oil Mogul’s Network in Iran Crackdown</title>
       <link>https://www.swissinfo.ch/eng/us-expands-sanctions-on-oil-moguls-network-in-iran-crackdown/91948793</link>
       <guid isPermaLink="false">9b609c2d0422a33408eeef45</guid>
-      <pubDate>Tue, 25 Aug 2026 02:53:12 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 21:53:00 +0000</pubDate>
       <description>The Trump administration has extended sanctions against the sprawling network of Iranian oil trader Hossein Shamkhani, targeting his Wellbred group of commodities businesses as part of a wide-ranging ...</description>
+      <wire:foundAt>swissinfo_discovery</wire:foundAt>
+      <wire:platform>SWI swissinfo.ch</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.swissinfo.ch/eng/us-expands-sanctions-on-oil-moguls-network-in-iran-crackdown/91948793</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Partners Group Exits Bubble-Tea Brand Gong Cha After Bain Buyout</title>
+      <link>https://www.swissinfo.ch/eng/partners-group-exits-bubble-tea-brand-gong-cha-after-bain-buyout/91942571</link>
+      <guid isPermaLink="false">edd39ff5bc9827bed67dc91c</guid>
+      <pubDate>Mon, 24 Aug 2026 03:01:24 +0000</pubDate>
+      <description>Partners Group will exit its private credit investment in Gong cha after Bain Capital bought the Taiwanese bubble-tea brand from TA Associates this month.</description>
       <dc:creator>Bloomberg</dc:creator>
       <content:encoded>&lt;p&gt;Russia sanctions at heart of Swiss neutrality vote&lt;/p&gt;&lt;p&gt;Read more: Russia sanctions at heart of Swiss neutrality vote&lt;/p&gt;</content:encoded>
       <wire:publisher>Bloomberg</wire:publisher>
@@ -140,23 +155,8 @@
       <wire:confidence>0.99</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.swissinfo.ch/eng/us-expands-sanctions-on-oil-moguls-network-in-iran-crackdown/91948793</wire:canonicalUrl>
-      <wire:evidence>structured credit: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Partners Group Exits Bubble-Tea Brand Gong Cha After Bain Buyout</title>
-      <link>https://www.swissinfo.ch/eng/partners-group-exits-bubble-tea-brand-gong-cha-after-bain-buyout/91942571</link>
-      <guid isPermaLink="false">edd39ff5bc9827bed67dc91c</guid>
-      <pubDate>Sun, 23 Aug 2026 22:01:00 +0000</pubDate>
-      <description>Partners Group will exit its private credit investment in Gong cha after Bain Capital bought the Taiwanese bubble-tea brand from TA Associates this month.</description>
-      <wire:foundAt>swissinfo_discovery</wire:foundAt>
-      <wire:platform>SWI swissinfo.ch</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.swissinfo.ch/eng/partners-group-exits-bubble-tea-brand-gong-cha-after-bain-buyout/91942571</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
+      <wire:evidence>structured credit: Bloomberg</wire:evidence>
     </item>
     <item>
       <title>Switzerland’s Big Food Question Keeps Voters Busy at Ballot Box</title>
