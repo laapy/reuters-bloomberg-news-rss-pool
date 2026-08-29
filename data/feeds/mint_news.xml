@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Mint — diagnostic source feed</title>
     <link>https://www.livemint.com/rss/news</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 29 Aug 2026 14:16:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 17:48:41 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Trump speech bets land ex-White House teleprompter operator in trouble, fined ₹1.65 crore: What CFTC found</title>
+      <link>https://www.livemint.com/news/us-news/trump-speech-bets-land-ex-white-house-teleprompter-operator-in-trouble-fined-rs-1-65-crore-what-cftc-found-11788011952281.html</link>
+      <guid isPermaLink="false">2054e844d3a64886b2f6880d</guid>
+      <pubDate>Sat, 29 Aug 2026 15:13:48 +0000</pubDate>
+      <description>A White House teleprompter operator, Gabriel Perez, will pay over $172,000 or nearly ₹1.65 crore to settle a federal investigation into prediction-market bets linked to Trump’s speeches. He faces a $65,000 penalty and forfeit of $107,000 in profits.</description>
+      <dc:creator>Garvit Bhirani</dc:creator>
+      <content:encoded>&lt;p&gt;A former White House teleprompter operator Gabriel Perez has agreed to pay $172,539 ( approximately ₹1,64,66,182) to settle a federal investigation into allegedly timed prediction-market bets linked to President Donald Trump’s speeches, reported Bloomberg.He will pay a $65,000 (nearly ₹6,180,518) penalty to the Commodity Futures Trading Commission (CFTC) and forfeit more than $107,000 (nearly ₹1,01,81,724) in profits. Perez did not admit to the regulator’s allegations that he improperly used inside information to make profitable trades on the prediction-market platform Kalshi.What CFTC foundThe CFTC said in a press release that the penalty was reduced through a “substantial discount” in recognition of Perez’s cooperation with the agency’s investigation. The regulator also said Perez had agreed to a three-year ban on trading.In its cease-and-desist order, the CFTC said, “As someone working at the White House, Perez understood the information that he learned during his work was confidential and not to be shared with anyone outside of the White House.”An attorney representing Perez was not immediately available for comment, as per the report.According to the CFTC, Perez allegedly placed the trades between December 2025 and February 2026, with most of his wagers focused on sports and Trump-related events. His bets included questions such as “What will Trump say during his remarks at the Detroit Economic Club?”The CFTC said Perez typically had access to Trump’s speeches roughly an hour before they were delivered.Kalshi detected what it considered unusual trading activity in March and reported it to the CFTC, Bloomberg reported in July. At the time, a White House spokesperson stated the employee had been placed on unpaid administrative leave but did not identify the person. The CFTC considers prediction-market platforms to be derivatives exchanges that fall under its regulatory authority.Kalshi’s head of enforcement, Robert DeNault, said in a post on X on Friday night that the company had detected trading activity that violated its rules. DeNault said the platform would hold traders accountable regardless of their status, warning that anyone who breaches its rules or federal law would face consequences.The case has added to growing concerns over the potential for prediction markets to create new avenues for insider trading.US lawmakers have introduced legislation seeking to restrict certain types of prediction-market wagers, while the White House has cautioned its employees against using confidential information to make trades on such platforms.Kalshi and PolymarketPrediction markets such as Kalshi and Polymarket have reportedly gained significant popularity over the past 18 months, offering users the ability to wager on outcomes ranging from sporting events to elections. Among these are so-called mention markets, which Perez traded in and allow users to bet on whether prominent individuals will say specific words or phrases during speeches, earnings calls or post-game media interactions.Both Kalshi and Polymarket have stated that they do not support insider trading and said they monitor their platforms for suspicious activity, reporting potential violations to law enforcement agencies and federal regulators.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>mint_news</wire:foundAt>
+      <wire:platform>Mint</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.livemint.com/news/us-news/trump-speech-bets-land-ex-white-house-teleprompter-operator-in-trouble-fined-rs-1-65-crore-what-cftc-found-11788011952281.html</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Bloomberg reported</wire:evidence>
+    </item>
   </channel>
 </rss>
