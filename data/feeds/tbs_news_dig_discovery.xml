@@ -1,11 +1,213 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>TBS NEWS DIG — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Anewsdig.tbs.co.jp+%28Reuters+OR+Bloomberg+OR+%E3%83%AD%E3%82%A4%E3%82%BF%E3%83%BC+OR+%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%90%E3%83%BC%E3%82%B0%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 29 Aug 2026 17:48:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 20:38:02 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ホルムズ海峡に機雷が残存の可能性 同盟国が米国に伝達 米通信社報道 海流で流されたか トランプ氏は「全て除去」と改めて主張</title>
+      <link>https://newsdig.tbs.co.jp/articles/-/2899737</link>
+      <guid isPermaLink="false">f8e70c3a87acf43f42584b62</guid>
+      <pubDate>Wed, 26 Aug 2026 22:50:34 +0000</pubDate>
+      <description>イランがホルムズ海峡に敷設した機雷について、まだ残されている可能性が高いとの警告を同盟国がアメリカに伝えたと報じられました。ブルームバーグ通信は26日、アメリカのトランプ ...</description>
+      <dc:creator>TBS NEWS DIG</dc:creator>
+      <content:encoded>&lt;p&gt;ホルムズ海峡に機雷が残存の可能性　同盟国が米国に伝達　米通信社報道　海流で流されたか　トランプ氏は「全て除去」と改めて主張&lt;/p&gt;&lt;p&gt;TBSテレビ&lt;/p&gt;&lt;p&gt;2026年8月27日(木) 07:50&lt;/p&gt;&lt;p&gt;国際&lt;/p&gt;&lt;p&gt;イランがホルムズ海峡に敷設した機雷について、まだ残されている可能性が高いとの警告を同盟国がアメリカに伝えたと報じられました。ブルームバーグ通信は26日、アメリカのトランプ大統領が全てを取り除いたと主張…&lt;/p&gt;&lt;p&gt;続きを読む&lt;/p&gt;</content:encoded>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/-/2899737</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>ゲイツ氏、AIの「取り返しがつかない危害」を警告－直ちに規制措置を</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2899464</link>
+      <guid isPermaLink="false">b750945ac20282125303526f</guid>
+      <pubDate>Wed, 26 Aug 2026 15:02:45 +0000</pubDate>
+      <description>（ブルームバーグ）：ビル・ゲイツ氏はAIが人類にもたらす危険をテクノロジー企業が過小評価していると指摘した。マイクロソフトの共同創業者であるゲイツ氏は26日、自身のウェブサイト ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;13時間前
+イラン大統領、戦争終結へ妥協の用意を示唆&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2899464</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>米財政不安で「ディベースメント取引」再注目－ドル離れ進む理由とは</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2893933</link>
+      <guid isPermaLink="false">b87cdca0c5b86feb52f11204</guid>
+      <pubDate>Tue, 25 Aug 2026 04:56:00 +0000</pubDate>
+      <description>（ブルームバーグ）：米国の政治・財政を巡る不透明感から、投資家の間でドルへの警戒感が再び強まっている。一部の投資家がドルを手放す中、暗号資産（仮想通貨）ビットコインや金 ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2893933</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>トランプ政権 対中追加関税の7.5％上乗せを検討 過剰生産理由に 米紙報道</title>
+      <link>https://newsdig.tbs.co.jp/articles/-/2893433</link>
+      <guid isPermaLink="false">3b90a302a028ceb66dc42c05</guid>
+      <pubDate>Tue, 25 Aug 2026 01:19:00 +0000</pubDate>
+      <description>アメリカのトランプ政権が過剰生産を理由に、中国に対して7.5％、追加関税の上乗せを検討していると報道されました。アメリカのブルームバーグ通信は24日、トランプ政権が中国からの ...</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/-/2893433</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>【ベッセントが恐れるAI株"逆回転"】エコノミスト末廣徹／突然の「倍バイバック」でも金利は再上昇／FRBには頭痛のタネ "ほぼ ...</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2893189?display=1</link>
+      <guid isPermaLink="false">eea1d902c37bebd67220d13b</guid>
+      <pubDate>Mon, 24 Aug 2026 13:02:00 +0000</pubDate>
+      <description>The Priority － いま、知っておきたい経済。 突然の「バイバック」に踏み切ってまで金利上昇を抑えたかった米ベッセント財務長官。しかし、いったん低下した長期金利は無情にも再上昇して ...</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2893189?display=1</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>イスラエルがパレスチナ自治区ガザを空爆 4歳の男の子含む2人が死亡</title>
+      <link>https://newsdig.tbs.co.jp/articles/-/2890811</link>
+      <guid isPermaLink="false">9e27ca8e9f8ee92c533eb4f6</guid>
+      <pubDate>Sun, 23 Aug 2026 23:10:00 +0000</pubDate>
+      <description>【LIVE】朝のニュース（Japan News Digest Live）最新情報など（8月29日） 【全国活断層一覧】最も危険な「Sランク」と「S＊ランク」都道府県別 【倒産情報】俳優・布施博さんが社長務める芸能 ...</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/-/2890811</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>イラン､7.5兆立方フィートのガス田発見－戦争がエネルギー供給圧迫</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2890814</link>
+      <guid isPermaLink="false">18ef25e55b3d1a8b7d06ab1b</guid>
+      <pubDate>Sun, 23 Aug 2026 23:04:00 +0000</pubDate>
+      <description>（ブルームバーグ）：イランは、7.5兆立方フィート超の天然ガスを発見したと明らかにした。イランでは、米国やイスラエルとの数カ月にわたる戦争でエネルギー部門が深刻な打撃を受けて ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2890814</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>原油200ドルなぜ回避？ホルムズ海峡封鎖と世界市場の適応力</title>
+      <link>https://newsdig.tbs.co.jp/articles/gallery/2876191?station=withbloomberg</link>
+      <guid isPermaLink="false">b5c66b07be9b9db3f54632c5</guid>
+      <pubDate>Fri, 21 Aug 2026 23:00:00 +0000</pubDate>
+      <description>米イラン協議期間終了で高まる“戦闘再開”リスク 世界経済への悪影響は長期化か ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;画像 1/12&lt;/p&gt;&lt;p&gt;写真の記事を読む
+スクロールで次の画像へ&lt;/p&gt;</content:encoded>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/gallery/2876191?station=withbloomberg</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>「消費税減税」で経済はどう動く？2026-27年度の日本経済、停滞から回復へのシナリオ</title>
+      <link>https://newsdig.tbs.co.jp/articles/gallery/2882103?station=withbloomberg</link>
+      <guid isPermaLink="false">2ecb48f352c5c8ecd9f581f0</guid>
+      <pubDate>Fri, 21 Aug 2026 22:30:00 +0000</pubDate>
+      <description>ウォーシュ議長が物価抑制で強いメッセージ－9月FOMC会合が正念場に ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;画像 1/16&lt;/p&gt;&lt;p&gt;写真の記事を読む
+スクロールで次の画像へ&lt;/p&gt;</content:encoded>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/gallery/2882103?station=withbloomberg</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>経済制裁も外貨収入は約4倍 「過去35年で今が最強」北朝鮮の復活</title>
+      <link>https://newsdig.tbs.co.jp/articles/gallery/2876142?station=withbloomberg</link>
+      <guid isPermaLink="false">36224d074263b7648e05338d</guid>
+      <pubDate>Fri, 21 Aug 2026 22:00:00 +0000</pubDate>
+      <description>「夫がいなくなって2日」発生72時間のネパール・中国の土石流 水力発電所作業員ら約900人の安否不明も判明 日本人5人含む2980人が行方不明 650億バレル超のベネズエラ産石油「過半の支配権 ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;画像 1/24&lt;/p&gt;&lt;p&gt;写真の記事を読む
+スクロールで次の画像へ&lt;/p&gt;</content:encoded>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/gallery/2876142?station=withbloomberg</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>「預金」から「国債」へ。利回り上昇で起きる、かつてない資産の大移動</title>
+      <link>https://newsdig.tbs.co.jp/articles/gallery/2873266?station=withbloomberg</link>
+      <guid isPermaLink="false">9bfc8eca359f7bb6d1436942</guid>
+      <pubDate>Fri, 21 Aug 2026 17:00:00 +0000</pubDate>
+      <description>「預金」から「国債」へ。利回り上昇で起きる、かつてない資産の大移動のフォトギャラリーです。TBSとBloombergというタッグだからこそ生まれるもの。進みつづけるビジネスパーソンに、学びの深さがちがうニュースメディアを。経済、金融、投資、資産運用、キャリア、テクノロジーなど各 ...</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/gallery/2873266?station=withbloomberg</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>ナイジェリアの川でボートが転覆 少なくとも50人死亡</title>
+      <link>https://newsdig.tbs.co.jp/articles/-/2888791?display=1</link>
+      <guid isPermaLink="false">7b44a14ddb237bd0ebafa483</guid>
+      <pubDate>Fri, 21 Aug 2026 10:45:00 +0000</pubDate>
+      <description>西アフリカ・ナイジェリアの川でボートが転覆し、多くの子どもたちを含む、少なくとも50人が死亡しました。 ロイター通信によりますと、ナイジェリア北西部ソコト州で20日、積載量を超えたボートが転覆し、少なくとも50人が死亡したということです。 国家内陸水路庁の地域担当者は、およそ40人の子どもが遺体で確認されたとしているほか、乗っていた人の多くが10歳から15歳で、そのうち16人が救助されたとの情報も ...</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/-/2888791?display=1</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
   </channel>
 </rss>
