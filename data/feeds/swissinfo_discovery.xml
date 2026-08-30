@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Aswissinfo.ch+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 29 Aug 2026 23:06:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 01:31:49 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Swiss Economic Outlook Brightens After Strong Quarterly Growth</title>
@@ -171,6 +171,21 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.swissinfo.ch/eng/switzerlands-big-food-question-keeps-voters-busy-at-ballot-box/91938399</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Swiss army orders new artillery from Germany</title>
+      <link>https://www.swissinfo.ch/eng/various/swiss-army-receives-new-artillery-from-germany/91547231</link>
+      <guid isPermaLink="false">b7564c1615f2b97c727bf227</guid>
+      <pubDate>Mon, 08 Jun 2026 06:27:00 +0000</pubDate>
+      <description>Read more: Russia sanctions at heart of Swiss neutrality vote Less testing was a choice – so is the future Read more: Less testing was a choice – so is the future Restricted postal voting, US-Canada ...</description>
+      <wire:foundAt>swissinfo_discovery</wire:foundAt>
+      <wire:platform>SWI swissinfo.ch</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.swissinfo.ch/eng/various/swiss-army-receives-new-artillery-from-germany/91547231</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
