@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Mint — diagnostic source feed</title>
     <link>https://www.livemint.com/rss/news</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 31 Aug 2026 15:59:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 21:27:06 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Grand Canyon Under Storm Threat After Deadly Weekend Floods</title>
+      <link>https://www.livemint.com/news/grand-canyon-under-storm-threat-after-deadly-weekend-floods-11788205873570.html</link>
+      <guid isPermaLink="false">57e1bbd833dbe6fb2815b0c7</guid>
+      <pubDate>Mon, 31 Aug 2026 19:51:13 +0000</pubDate>
+      <description>Another round of heavy rain is threatening to complicate search-and-rescue efforts in the Grand Canyon, where two people died and more than a dozen are still missing after catastrophic floods swept through popular hiking areas Saturday.</description>
+      <dc:creator>list.metadata.agency</dc:creator>
+      <content:encoded>&lt;p&gt;(Bloomberg) -- Another round of heavy rain is threatening to complicate search-and-rescue efforts in the Grand Canyon, where two people died and more than a dozen are still missing after catastrophic floods swept through popular hiking areas Saturday.Seasonal monsoon rains dropped roughly a month’s worth of moisture over steep, mountainous terrain in Grand Canyon National Park this weekend, according to estimates from the US National Weather Service. Flood alerts now cover much of Arizona, with rainfall rates of more than 1 inch (2.5 centimeters) per hour possible through Monday night local time.“After recent heavy rain and significant flash flooding, the region is extremely vulnerable,” Weather Prediction Center forecaster Joshua Weiss wrote in an update Monday. “Any additional heavy rain today will likely lead to flash flood impacts, which locally could be significant.”Flash floods swept through the park beginning Saturday at around 2:30 p.m. local time in Bright Angel Canyon, triggering evacuations in the Phantom Ranch area nearby. The ranch — a collection of dormitories and cabins located on the canyon floor — is a key destination for hikers traveling from rim to rim across the park.As of Sunday evening, the body of a 46-year-old man was recovered near Crystal Rapids along the Colorado River, the National Park Service said in an update. The death toll increased to two on Monday morning as search and recovery efforts continued, according to a post on X. The National Park Service did not provide further updates on the number of missing people.The parks service said in an X post Saturday that it was conducting air evacuations for roughly 50 people in the area near Phantom Ranch, which is only accessible by river raft, on foot or by mule.Both the Arizona Department of Public Safety and the Grand Canyon National Park staff responded to the event on Sunday and are aiding in evacuations and accounting for those who may have been in the affected areas. The Coconino County Medical Examiner’s Office was also onsite.Flooding damaged approximately 40% of the Transcanyon Waterline, leaving the park with limited water reserves, it said Monday. The National Park Service has been gradually replacing the 1960s-era pipeline that supplies campgrounds and lodging areas due to frequent failures and leaks. Due to water shortages, the park is set to remain open for day use and “dry camping” only.--With assistance from Sarah Gray and Linus Chua.More stories like this are available on bloomberg.com©2026 Bloomberg L.P.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>mint_news</wire:foundAt>
+      <wire:platform>Mint</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.livemint.com/news/grand-canyon-under-storm-threat-after-deadly-weekend-floods-11788205873570.html</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: ©2026 Bloomberg</wire:evidence>
+    </item>
   </channel>
 </rss>
