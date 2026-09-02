@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Mint — diagnostic source feed</title>
     <link>https://www.livemint.com/rss/news</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 02 Sep 2026 08:58:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 13:32:58 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Tukaram Mundhe's FDA action: Maggi, Lay’s, Kurkure packs found with fake expiry dates in Mumbai were meant for export</title>
+      <link>https://www.livemint.com/news/india/tukaram-mundhes-fda-action-maggi-lay-s-kurkure-packs-found-with-fake-expiry-dates-in-mumbai-were-meant-for-export-11788341137573.html</link>
+      <guid isPermaLink="false">7b8649122eb419ed93b1be6d</guid>
+      <pubDate>Wed, 02 Sep 2026 11:14:45 +0000</pubDate>
+      <description>A raid by the Maharashtra FDA uncovered a Mumbai warehouse reportedly modifying packaging details of food products, including altering original expiry dates of Lay's potato chips, Kurkure and Maggi noodles. The seized materials amounted to approximately $80,000.&amp;nbsp;</description>
+      <dc:creator>Garvit Bhirani</dc:creator>
+      <content:encoded>&lt;p&gt;The Maharashtra Food and Drug Administration, led by IAS officer Tukaram Mundhe, stepped up its food safety drive on Tuesday by raiding a Mumbai warehouse allegedly involved in tampering with packaging details on branded food products meant for export.The illegal operation, which was raided, erased manufacturers&amp;#x27; original expiry dates using chemicals and altered nutritional information on products made by major companies such as PepsiCo and Nestlé, including Lay&amp;#x27;s potato chips, Kurkure and Maggi noodles, according to Reuters.Investigators also found machinery capable of producing and applying replacement labels. During a six-day inspection last week, officials seized goods and other materials estimated to be worth nearly $80,000 (approximately ₹7,601,184).The news agency found that at least one relabelled PepsiCo packet carried information in both English and French. The photographer spotted a can of chemical solvent at the unhygienic warehouse. The officials said it was used to remove dates printed on the packaging.Officials discovered nearly 5,000 cartons of consumer goods, including PepsiCo’s Lay’s and Kurkure chips, and Nestlé’s Maggi Masala Noodles. Dates had been removed from several Kurkure and Maggi packets, as well as Thums Up cans.According to officials, an operator would use a stylus on a computer screen to enter fabricated manufacturing and expiry dates. Workers would then allegedly use a machine mounted on a metal table, which bore a small &amp;quot;I love my India&amp;quot; sticker, to print replacement labels on the products and cans.‘Absoluetly shocked by scale’: MundheWhile describing the findings from the probe into the warehouse, Mundhe told Reuters on Tuesday, “I am absolutely shocked by the scale. It is like organised activity. It&amp;#x27;s been done systematically.” He mentioned it was unclear which countries the products were intended for, but confirmed that the entire stock was meant for export.Authorities said the majority of the food items found at the facility had either already crossed their expiry dates or were close to doing so. The police case document stated that by altering the dates, “harmful food products are being exported for sale, thereby defrauding customers.”The facility was situated in an industrial zone in Navi Mumbai, roughly 25 km from Mumbai’s international airport. It was operated by privately owned Sadhana Enterprises. According to a state government media release and a police case document, the company’s owner told authorities that the work was being carried out for 19 relatively obscure exporters. The gated warehouse consisted of four large rooms covered by a tin roof.Mundhe stresses need for greater accountability&amp;quot;The original date of manufacture and expiry date on the packaging of the food articles had been scratched out, erased ... (and) new information printed over them,&amp;quot; the police document said. The police case did not allege wrongdoing by any of the global companies.However, Mundhe stressed the need for greater accountability across supply chains, adding that companies have to abide by rules and ensure that branding, packaging and sale are done as per regulations.Meanwhile, PepsiCo and Nestlé did not respond to Reuters’ requests for comment. Its calls to warehouse co-owners, Jayprakash Sanchatiram Singh and Jaya Navrang Bahadur Singh, went unanswered. It also remained unclear whether anyone had been arrested in connection with the case.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>mint_news</wire:foundAt>
+      <wire:platform>Mint</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.livemint.com/news/india/tukaram-mundhes-fda-action-maggi-lay-s-kurkure-packs-found-with-fake-expiry-dates-in-mumbai-were-meant-for-export-11788341137573.html</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: according to Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>
