@@ -1,11 +1,48 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>The Straits Times — diagnostic source feed</title>
     <link>https://www.straitstimes.com/news/world/rss.xml</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 02 Sep 2026 17:43:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 20:44:32 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Google escapes ad tech breakup in third Big Tech antitrust loss for US</title>
+      <link>https://www.straitstimes.com/world/united-states/google-escapes-ad-tech-breakup-in-third-big-tech-antitrust-loss-for-us</link>
+      <guid isPermaLink="false">8ace6e7a0f617ebb7a059d3c</guid>
+      <pubDate>Wed, 02 Sep 2026 19:05:12 +0000</pubDate>
+      <description>A judge ruled that Google must make changes to address its advertising technology monopoly, but would not need to break up that business.</description>
+      <dc:creator>The Straits Times</dc:creator>
+      <content:encoded>&lt;p&gt;Google escapes ad tech breakup in third Big Tech antitrust loss for US
+Sign up now: Get ST&amp;#x27;s newsletters delivered to your inbox&lt;/p&gt;&lt;p&gt;An ad for Google, at New York’s Times Square. A US federal judge ruled on Sept 2 that Google must make changes to address its advertising technology monopoly, but would not need to break up that business.
+PHOTO: LUCIA VAZQUEZ/NYTIMES&lt;/p&gt;&lt;p&gt;Published   Sep 03, 2026, 03:05 AM&lt;/p&gt;&lt;p&gt;Updated   Sep 03, 2026, 03:08 AM&lt;/p&gt;&lt;p&gt;Set as preferred source&lt;/p&gt;&lt;p&gt;Listen&lt;/p&gt;&lt;p&gt;Alphabet’s Google escaped a breakup of its advertising technology business on Sept 2, marking the third time in recent years that US antitrust enforcers have tried to force a Big Tech breakup and lost.
+US Judge Leonie Brinkema in Alexandria, Virginia, declined to make Google sell AdX, where publishers pay Google a 20 per cent fee to sell ads in auctions that happen instantly when users load websites. The Department of Justice (DOJ) had argued Google could not be trusted to run the online advertising exchange after Brinkema ruled that Google had illegally quashed competition.
+The judge accepted behavioural remedies. She will release a detailed ruling in 14 days to give time to redact confidential information. Google had proposed fixes including providing real-time bid access to competitors.&lt;/p&gt;&lt;p&gt;The ruling fuelled questions about whether courts are up to the task of checking the industry’s unprecedented power over the US economy, and the fate of a crackdown that started during President Donald Trump’s first term.
+Cases against Amazon and Apple involving smartphone and online retail markets have not yet gone to trial. And while two judges found Google engaged in anticompetitive conduct in separate markets, they rejected the strongest measure of requiring it to sell assets.
+AdX is a small part of Google’s business. Google shares pared gains slightly after the ruling and were up 0.6 per cent.&lt;/p&gt;&lt;p&gt;Google welcomed the court decision. “We’re very pleased the Court rejected the DOJ’s proposal to break apart tools that help small businesses reach new customers and grow,” said executive Lee-Anne Mulholland.
+The DOJ is “pleased that the court ordered substantial relief,” it said in a social media post on X.
+“We are one step closer to restoring competition and bringing relief for the American people in online advertising markets. The Department is evaluating appropriate next steps,” the DOJ said.&lt;/p&gt;&lt;p&gt;Google argued divestiture would hurt customers The DOJ and a broad coalition of states sued Google in 2023 over its dominance in markets for advertising technology used by online publishers and websites.
+In April 2025, Brinkema ruled that Google holds illegal monopolies on servers that host publisher ads and ad exchanges which sit between buyers and sellers. Google unlawfully locked publishers on its ad server into using its AdX, the judge found.
+The tech giant’s anticompetitive conduct “substantially harmed Google’s publisher customers, the competitive process, and, ultimately, consumers of information on the open web,” Brinkema said at the time.
+At a trial in 2025 on remedies in the case, the DOJ argued that Google cannot be trusted to run AdX, given its past behaviour.
+Google argued that a forced sale would be technically difficult and result in a long and painful transition that would hurt customers. The company also sought to show the DOJ’s demand was different from Google’s own previous offer to sell AdX to end an EU antitrust investigation, which Reuters reported in 2024.
+Ad Manager represented 4.1 per cent of Google’s overall revenue and 1.5 per cent of operating profit in 2020, according to Wedbush research and analysis of court documents. More recent figures were redacted from court documents.
+US tech crackdown in jeopardy While Google has been ordered to change some business practices, the ruling is the third time in a row that a judge has rejected a bid by US antitrust enforcers to break up Big Tech.
+Sacha Haworth, executive director of The Tech Oversight Project, said the rulings “prove that the courts alone will not save us from Big Tech.” The advocacy group has proposed legislation aimed at restoring competition in digital advertising.
+A federal judge in Washington in 2025 rejected the Federal Trade Commission’s attempt to make Meta Platforms sell off Instagram and WhatsApp, saying the agency failed to prove that Meta holds a monopoly in a social media landscape that has shifted drastically since the case was brought in 2020. The FTC has filed an appeal. REUTERS&lt;/p&gt;&lt;p&gt;More on this topic&lt;/p&gt;&lt;p&gt;Google hit with $1.3 billion EU fine, in ‘constructive’ talks to avoid more penalties&lt;/p&gt;&lt;p&gt;Indian court ruling on Google keyword ads could reshape online advertising&lt;/p&gt;&lt;p&gt;See more on&lt;/p&gt;&lt;p&gt;Google
+Advertising and marketing
+Media&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>straits_times_world</wire:foundAt>
+      <wire:platform>The Straits Times</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.straitstimes.com/world/united-states/google-escapes-ad-tech-breakup-in-third-big-tech-antitrust-loss-for-us</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Reuters reported</wire:evidence>
+    </item>
   </channel>
 </rss>
