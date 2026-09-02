@@ -1,11 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Yahoo Finance — diagnostic source feed</title>
     <link>https://finance.yahoo.com/news/rssindex</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 02 Sep 2026 00:01:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 04:18:59 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Trump's Venezuela Deal Leaves $100 Billion Question Unanswered</title>
+      <link>https://finance.yahoo.com/video/trumps-venezuela-deal-leaves-100-163430116.html</link>
+      <guid isPermaLink="false">821d35c19417c2b5e376ba65</guid>
+      <pubDate>Mon, 31 Aug 2026 16:34:30 +0000</pubDate>
+      <description>President Trump is framing the deal for a US stake in 65 billion barrels of Venezuelan oil as a victory that will lower gasoline prices and replenish deplete...</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;Trump&amp;#x27;s Venezuela Deal Leaves $100 Billion Question Unanswered&lt;/p&gt;&lt;p&gt;Bloomberg
+Mon, August 31, 2026 at 12:34 PM EDT&lt;/p&gt;&lt;p&gt;CL=F
++0.54%&lt;/p&gt;&lt;p&gt;COP
++2.79%&lt;/p&gt;&lt;p&gt;Trade COP on Coinbase Trading disclosure&lt;/p&gt;&lt;p&gt;Trading disclosure The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.
+Learn more&lt;/p&gt;&lt;p&gt;President Trump is framing the deal for a US stake in 65 billion barrels of Venezuelan oil as a victory that will lower gasoline prices and replenish depleted crude reserves. It&amp;#x27;s far from certain the plan will lead to either during his presidency if at all.Trump pushed for a blockbuster move after growing frustrated that private oil companies, including ExxonMobil Holdings Corp. and ConocoPhillips, weren&amp;#x27;t moving quickly enough to boost production in Venezuela, according to people familiar with the matter. By starting a new venture directly controlled by the US, his administration is seeking to give producers more confidence to commit to developing the 17 oil fields involved in the deal.For more, we speak with Ellen Wald, President and Founder of Transversal Consulting &amp;amp; Senior Fellow at the Atlantic Council Global Energy Center.&lt;/p&gt;&lt;p&gt;View Comments&lt;/p&gt;&lt;p&gt;Terms and Privacy Policy
+Your Privacy Choices
+More Info&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>yahoo_finance_global</wire:foundAt>
+      <wire:platform>Yahoo Finance</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>article page metadata</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://finance.yahoo.com/video/trumps-venezuela-deal-leaves-100-163430116.html</wire:canonicalUrl>
+      <wire:evidence>structured credit: Bloomberg</wire:evidence>
+    </item>
   </channel>
 </rss>
