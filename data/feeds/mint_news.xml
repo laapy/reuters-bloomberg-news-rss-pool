@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Mint — diagnostic source feed</title>
     <link>https://www.livemint.com/rss/news</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 01 Sep 2026 22:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 00:01:48 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Tropical Storm Edouard Makes Landfall on Louisiana Coast</title>
+      <link>https://www.livemint.com/news/tropical-storm-edouard-makes-landfall-on-louisiana-coast-11788305489473.html</link>
+      <guid isPermaLink="false">d9e1257d9c099fb44f44028d</guid>
+      <pubDate>Tue, 01 Sep 2026 23:31:29 +0000</pubDate>
+      <description>Tropical Storm Edouard made landfall along a remote stretch of Louisiana coastline Tuesday afternoon on a track that will take it near key waterways for transporting chemicals, natural gas and oil from the Gulf.</description>
+      <dc:creator>list.metadata.agency</dc:creator>
+      <content:encoded>&lt;p&gt;(Bloomberg) -- Tropical Storm Edouard made landfall along a remote stretch of Louisiana coastline Tuesday afternoon on a track that will take it near key waterways for transporting chemicals, natural gas and oil from the Gulf.Despite traveling through warm Gulf waters, Edouard failed to reach hurricane strength on its final approach to shore around 3:20 pm New York time. The storm’s sustained winds topped out around 60 miles (97 kilometers) per hour, with forecasters predicting “rapid weakening” once Edouard pushes further inland.Earlier hurricane warnings have been replaced by an array of tropical storm warnings posted from Port Bolivar, Texas, just west of Galveston Island, to the Vermilion-Iberia parish line in Louisiana roughly 150 miles away. The warning area still includes the Sabine Pass waterway leading to Port Arthur, home to a large LNG export terminal. Flood watches will remain in effect for the Houston area through Wednesday evening as Edouard wrings itself out over Texas. The heaviest rains are expected along and east of Interstate 45, with the potential for rainfall totals near 15 inches in some areas.Tropical-storm-force winds span about 25 miles from Edouard’s compact center. Three LNG vessels were docked at Cheniere Energy Inc.’s Sabine Pass export plant in Louisiana Tuesday morning, according to data compiled by Bloomberg. Four other vessels were shown waiting offshore.Edouard is approaching an area near Hurricane Ike’s landfall in 2008. That storm, which became the tenth-costliest tropical system to hit the US, was significantly stronger and larger than Edouard. Even a weaker system can disrupt shipping in the energy production and processing corridor from Houston to Cameron, but impacts so far have been muted. Storm surge from Edouard is expected to crest up to 3 feet (0.9 meters) above ground level along parts of the coast, down slightly from earlier forecasts.Edouard is still expected to drop up to 6 inches (15 centimeters) of rain across a large area of Texas, including flood-prone Houston, the center said. Some isolated areas could get as much as 9 inches.“This rainfall is likely to produce flash flooding, especially in low-lying and urban areas,” the hurricane center said.--With assistance from Cedric Sam and Chloe Whiteaker.(An earlier version corrected the spelling of Edouard in seventh paragraph.)More stories like this are available on bloomberg.com©2026 Bloomberg L.P.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>mint_news</wire:foundAt>
+      <wire:platform>Mint</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.livemint.com/news/tropical-storm-edouard-makes-landfall-on-louisiana-coast-11788305489473.html</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: ©2026 Bloomberg</wire:evidence>
+    </item>
   </channel>
 </rss>
