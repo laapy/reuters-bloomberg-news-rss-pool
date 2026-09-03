@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Mint — diagnostic source feed</title>
     <link>https://www.livemint.com/rss/news</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 03 Sep 2026 06:18:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 11:35:11 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Tibet hit by magnitude 5 earthquake days after deadly glacier collapse wreaked havoc near Nepal border</title>
+      <link>https://www.livemint.com/news/world/tibet-hit-by-magnitude-5-earthquake-days-after-deadly-glacier-collapse-wreaked-havoc-near-nepal-border-11788425845596.html</link>
+      <guid isPermaLink="false">12adb89dd04f23d86489e2e7</guid>
+      <pubDate>Thu, 03 Sep 2026 09:10:51 +0000</pubDate>
+      <description>A magnitude 5 earthquake struck Tibet on Thursday (local time), nearly 10 days after flash floods devastated a town near the Nepal border. There have been no immediate reports of damage or casualties so far.</description>
+      <dc:creator>Swati Gandhi, Sounak Mukhopadhyay</dc:creator>
+      <content:encoded>&lt;p&gt;A magnitude 5 earthquake struck Tibet on Thursday (local time), nearly 10 days after flash floods devastated a town near the Nepal border.According to the German Research Center for Geosciences (GFZ), the earthquake occurred at a depth of 110 km. There were no immediate reports of casualties or damage following the latest tremor.According to a screenshot shared by the National Center for Seismology, the earthquake occurred on 3 September 2026 at 1:46:38 PM (Indian time).The location is labelled Tibet, near the Himalayan region. It was reported 128 kilometres northeast of Joshimath in Uttarakhand, India. Joshimath is mentioned as a reference point for locating the earthquake.The reported coordinates are 31.479 degrees north latitude and 80.370 degrees east longitude. The earthquake started at a depth of 14 kilometres below the ground.The earthquake comes more than a week after a glacier collapsed near the Tibet-Nepal border, triggering a powerful flow of ice, rocks and water that caused extensive damage across settlements and valleys on both sides. Media reports said the disaster has claimed at least 1,268 lives so far, while more than 4,200 people are still missing.Rebuilding NepalNepal needs to rebuild around 20,000 houses after devastating floods near its border with China. A glacier collapsed on 26 August, sending ice, rocks and mud through settlements. Authorities estimate 7,500 houses were completely destroyed while others became unsafe for habitation.Officials plan to rebuild homes in safer locations for families affected by the disaster. At least 1,252 people died in Nepal, and over 4,200 remain missing, according to Reuters. Thousands were displaced. Tibet reported 21 deaths; another 541 people were listed missing.Over 9,300 Nepali soldiers are supporting rescue operations across several affected districts. They are presently searching for survivors, recovering bodies, clearing roads and providing emergency medical treatment. Nepal also reported 583 missing foreign nationals, including pilgrims and trekkers visiting the region.Rescuers are now searching hydropower tunnels where at least 900 people are believed to be trapped. Experts from India, South Korea and China are supporting these efforts. Two bodies were recovered from Langtang Khola’s tunnel. Officials promised searches would continue while hope remained.China sent more tents, blankets, protective medical clothing and satellite communication equipment. It also promised further assistance based on Nepal’s needs.Following highway reopening, rescuers entered Tibet’s destroyed Gyirong crossing with excavators. Reporting remains limited because foreign journalists face access restrictions, according to Reuters.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>mint_news</wire:foundAt>
+      <wire:platform>Mint</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.livemint.com/news/world/tibet-hit-by-magnitude-5-earthquake-days-after-deadly-glacier-collapse-wreaked-havoc-near-nepal-border-11788425845596.html</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: according to Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>
