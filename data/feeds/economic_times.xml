@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>The Economic Times — diagnostic source feed</title>
     <link>https://economictimes.indiatimes.com/rssfeedsdefault.cms</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 03 Sep 2026 16:02:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 19:18:06 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Calcutta exchange’s unlisted shares double on revival hopes</title>
+      <link>https://economictimes.indiatimes.com/markets/stocks/news/calcutta-exchanges-unlisted-shares-double-on-revival-hopes/articleshow/133740959.cms</link>
+      <guid isPermaLink="false">cedbfce3adcbce094381f7b9</guid>
+      <pubDate>Thu, 03 Sep 2026 16:09:00 +0000</pubDate>
+      <description>Calcutta Stock Exchange shares have more than doubled in the unlisted market in three months as hopes of a revival gain momentum. The exchange is seeking to pause its voluntary exit process and explore opportunities across equities, derivatives, bonds, currencies and commodities, though any revival will require regulatory approvals and potential anchor investors.</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;Shares of the Calcutta Stock Exchange Ltd. or CSE, have more than doubled on the unlisted market in the past three months as efforts to revive the long-dormant bourse gather momentum.CSE shares are trading at about 2,100 rupees, up from near 900 rupees in early June, when transactions were sporadic after years of inactivity, according to Dharawat Securities. UnlistedZone, another platform that facilitates transactions in unlisted shares, quoted CSE at 2,175 rupees.Interest picked up after Swapan Dasgupta, the new finance minister of West Bengal, said on June 25 that the government was working toward reviving the exchange in the state capital. The rally gained further momentum after CSE outlined a broader strategy in its annual report released Aug. 19. The exchange’s board decided to approach the Securities and Exchange Board of India to request that its February 2025 application for a voluntary exit be put on hold, according to the report.“Demand remains strong,” said Hitesh Dharawat of Dharawat Securities, which deals in unlisted stocks. The shares “have surged since the West Bengal government signaled plans to revive the exchange.”CSE said in its annual report that it sees opportunities across bond markets, equity derivatives, currencies, commodities, carbon trading and mutual funds, while also developing offerings for small and medium-sized enterprises. CSE had 1,507 companies listed and about 500 registered stockbrokers as of March 2026, though there was no active trading on the exchange, the report showed.The renewed interest comes as the National Stock Exchange of India prepares for its long-awaited initial public offering, putting a spotlight on India’s exchange industry.Investors have previously piled into unlisted shares of another Indian bourse on expectations of a turnaround. Metropolitan Stock Exchange of India attracted investments from firms including Billionbrains Garage Ventures Ltd., the parent of online brokerage Groww, and Zerodha’s Rainmatter Investments as part of a revival effort, local media reported.MSEI’s unlisted shares surged about 5-fold between December 2024 and January 2025 before losing about half their value since then, according to UnlistedZone. The exchange has yet to establish a significant presence in India’s equity trading market.Any CSE revival would require regulatory approvals and potentially anchor investors that meet capital-adequacy and “fit and proper” requirements, according to the annual report.A representative for CSE didn’t respond to requests for comment.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>economic_times</wire:foundAt>
+      <wire:platform>The Economic Times</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://economictimes.indiatimes.com/markets/stocks/news/calcutta-exchanges-unlisted-shares-double-on-revival-hopes/articleshow/133740959.cms</wire:canonicalUrl>
+      <wire:evidence>structured credit: Bloomberg</wire:evidence>
+    </item>
   </channel>
 </rss>
