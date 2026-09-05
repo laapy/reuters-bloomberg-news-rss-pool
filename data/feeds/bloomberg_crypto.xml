@@ -1,45 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss version="2.0">
   <channel>
     <title>Bloomberg — diagnostic source feed</title>
     <link>https://feeds.bloomberg.com/crypto/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 05 Sep 2026 19:21:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 21:35:10 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>Stablecoins y cripto en América Latina ayudan al dólar</title>
-      <link>https://www.bloomberg.com/news/articles/2026-09-04/stablecoins-y-cripto-en-america-latina-ayudan-al-dolar</link>
-      <guid isPermaLink="false">f880859d7791742c18f92124</guid>
-      <pubDate>Fri, 04 Sep 2026 14:19:19 +0000</pubDate>
-      <description>Las stablecoins están extendiendo el uso del dólar en la región. La paradoja es que la misma infraestructura facilita que los inversores luego salten a bitcoin y oro.</description>
-      <dc:creator>Maria Clara Cobo</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_crypto</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-09-04/stablecoins-y-cripto-en-america-latina-ayudan-al-dolar</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Bitcoin Drops Below $80,000 as Hot Jobs Data Spurs Fed-Hike Bets</title>
-      <link>https://www.bloomberg.com/news/articles/2026-09-04/bitcoin-drops-below-80-000-as-hot-jobs-data-spurs-fed-hike-bets</link>
-      <guid isPermaLink="false">b88c7ea52ffba526f153c353</guid>
-      <pubDate>Fri, 04 Sep 2026 13:30:50 +0000</pubDate>
-      <description>Bitcoin dropped as much as 3.5% after stronger-than-expected US jobs data revived bets on a September Federal Reserve rate hike, abruptly reversing the cryptocurrency’s latest push above $80,000.</description>
-      <dc:creator>Sidhartha Shukla</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_crypto</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-09-04/bitcoin-drops-below-80-000-as-hot-jobs-data-spurs-fed-hike-bets</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
   </channel>
 </rss>
