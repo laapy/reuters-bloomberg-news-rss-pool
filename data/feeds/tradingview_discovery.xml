@@ -1,312 +1,234 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>TradingView News — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Atradingview.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 05 Sep 2026 08:12:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 11:58:18 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>New Iceland Arctic Acquisition Launches $125 Million IPO Of 12.5 Million Units, SEC Filing - TradingView</title>
-      <link>https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOFVIb2dDeWFFVVBKSmoxNW5PTlRDWFg3UU0zYTR1YldLZllUZXQtWUZwYWJLUEpGcWNnZkZfRzZ0S3dEQ3dlRWlqRmFueU9janJWNVNXcFVZV0lqbkkxbE5mbzh4UnBtdnhZMXM2YXl1UkhHV2RfVENub3VScTliWS10YTV3d2xNTjFaZW0yVmZ1LUpibXo1bFB2akFpOVM3UExfY2Y1a0pmOEN5SHNDSWt6dXRaeE1DYUNzNU9QcnBianJzcnNuMDJjMWtLcFQ0TGFtX3lxOGYzMDRuUjU2VmtXWTA1M0w3clZQaFdLSQ?oc=5</link>
-      <guid isPermaLink="false">095348a06fe555c4eccd6542</guid>
-      <pubDate>Fri, 04 Sep 2026 21:41:00 +0000</pubDate>
-      <description>New Iceland Arctic Acquisition Launches $125 Million IPO Of 12.5 Million Units, SEC Filing    TradingView</description>
+      <title>Key facts: CRYPTO:BTCUSD levels; Company 845,050 BTC; River 10% advice</title>
+      <link>https://www.tradingview.com/news/tradingview:7926233cdadfb:0-key-facts-crypto-btcusd-levels-company-845-050-btc-river-10-advice/</link>
+      <guid isPermaLink="false">d3a31a746d66ad664141e4e9</guid>
+      <pubDate>Thu, 03 Sep 2026 12:14:28 +0000</pubDate>
+      <description>BTCUSD: resistance ~82,793; immediate support 75,674; secondary support 71,781. Close below supports targets ~62,677 and ~57,776; move above 82,793 opens path to ...</description>
+      <content:encoded>&lt;p&gt;News
+/ TradingView
+/ Key facts: CRYPTO:BTCUSD levels; Company 845,050 BTC; River 10% advice&lt;/p&gt;&lt;p&gt;Key facts: CRYPTO:BTCUSD levels; Company 845,050 BTC; River 10% advice Less than 1 min read&lt;/p&gt;&lt;p&gt;BTCUSD
+BTCUSD: resistance ~82,793; immediate support 75,674; secondary support 71,781. Close below supports targets ~62,677 and ~57,776; move above 82,793 opens path to 90,000–97,867.
+Reuters
+Company holds 845,050 BTC (~$65.8B) and $6.71B cash. In June it launched a Digital Credit Capital Framework offering up to $1.25B BTC monetization to fund reserves, dividends, interest, buybacks.
+Benzinga
+River advises 10% Bitcoin allocation; RIAs currently hold 0.008% on average. Models show 2%–4% adoption by 20%–40% of portfolios could drive $1.3T–$5.3T inflows.
+Beincrypto
+Arthur Hayes says he holds a structural long in Bitcoin vs US Dollar (Spot CFD BTCUSD) and Maelstrom keeps a bullish allocation to BTCUSD; no price target was given.
+Beincrypto
+Analysis of 143 months (since 2014) shows BTC monthly gains modestly precede S&amp;amp;P moves; short-lived S&amp;amp;P response fades by week four. Sharpe of BTC signal ≈ buy‑and‑hold for BTCUSD spot CFD.
+Stocktwits
+Remixpoint reported post-sale holdings focused on BTCUSD Spot CFD and recorded 14.92 BTC in lending income from Feb 24–Aug 31, valued about ¥164.2M (~$1M).
+Cointelegraph
+Disclaimer This is an AI-generated summary and may contain inaccuracies. Please verify any important information with the original sources.&lt;/p&gt;&lt;p&gt;Crypto TradingView&lt;/p&gt;&lt;p&gt;BTCUSD chart&lt;/p&gt;&lt;p&gt;Analyze on Supercharts
+Latest news&lt;/p&gt;&lt;p&gt;More news from TradingView&lt;/p&gt;</content:encoded>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOFVIb2dDeWFFVVBKSmoxNW5PTlRDWFg3UU0zYTR1YldLZllUZXQtWUZwYWJLUEpGcWNnZkZfRzZ0S3dEQ3dlRWlqRmFueU9janJWNVNXcFVZV0lqbkkxbE5mbzh4UnBtdnhZMXM2YXl1UkhHV2RfVENub3VScTliWS10YTV3d2xNTjFaZW0yVmZ1LUpibXo1bFB2akFpOVM3UExfY2Y1a0pmOEN5SHNDSWt6dXRaeE1DYUNzNU9QcnBianJzcnNuMDJjMWtLcFQ0TGFtX3lxOGYzMDRuUjU2VmtXWTA1M0w3clZQaFdLSQ?oc=5</wire:canonicalUrl>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.tradingview.com/news/tradingview:7926233cdadfb:0-key-facts-crypto-btcusd-levels-company-845-050-btc-river-10-advice/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>News by ACCESS Newswire on TradingView, 2026-09-04 - TradingView</title>
-      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxQRHlua2NPWl9ZZXpmb0d0eDU5NXNZcXhOd0xQU0tIZnNPa2poeE9US1VkYkNSVWhJNnU5dWFLQUpRdGVQU054QjhuSGNMOVg0dl8xWjRCVzdUN3pCVWlYLWhEUU8zTHdxaTBmenZNbmxTYldTVUZGNTE3YW5MMlhKZg?oc=5</link>
-      <guid isPermaLink="false">896d6eca63b3b08fd50a92a8</guid>
-      <pubDate>Fri, 04 Sep 2026 17:30:00 +0000</pubDate>
-      <description>News by ACCESS Newswire on TradingView, 2026-09-04    TradingView</description>
+      <title>Key facts: HPE Posts Record Q3; Flags Memory Supply Bottleneck</title>
+      <link>https://www.tradingview.com/news/tradingview:992c29c892fd2:0-key-facts-hpe-posts-record-q3-flags-memory-supply-bottleneck/</link>
+      <guid isPermaLink="false">df51207a956bd8d0edeffb53</guid>
+      <pubDate>Thu, 03 Sep 2026 07:14:31 +0000</pubDate>
+      <description>HPE posted record Q3: strong Cloud &amp; AI and Networking demand, record orders/backlog, robust operating and free cash flow, and raised fiscal guidance. 3 sources Hewlett Packard Enterprise (HPE) cites ...</description>
+      <content:encoded>&lt;p&gt;News
+/ TradingView
+/ Key facts: HPE Posts Record Q3; Flags Memory Supply Bottleneck&lt;/p&gt;&lt;p&gt;Key facts: HPE Posts Record Q3; Flags Memory Supply Bottleneck Less than 1 min read&lt;/p&gt;&lt;p&gt;HPE
+HPE posted record Q3: strong Cloud &amp;amp; AI and Networking demand, record orders/backlog, robust operating and free cash flow, and raised fiscal guidance.&lt;/p&gt;&lt;p&gt;3 sources
+Hewlett Packard Enterprise (HPE) cites memory as its main supply bottleneck, plus shortages in NAND, CPUs and drives; HPE says it has signed longer-term supply deals to improve component access.
+Reuters
+Disclaimer This is an AI-generated summary and may contain inaccuracies. Please verify any important information with the original sources.&lt;/p&gt;&lt;p&gt;TradingView US stocks&lt;/p&gt;&lt;p&gt;HPE chart&lt;/p&gt;&lt;p&gt;Analyze on Supercharts
+Latest news&lt;/p&gt;&lt;p&gt;More news from TradingView&lt;/p&gt;</content:encoded>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMigAFBVV95cUxQRHlua2NPWl9ZZXpmb0d0eDU5NXNZcXhOd0xQU0tIZnNPa2poeE9US1VkYkNSVWhJNnU5dWFLQUpRdGVQU054QjhuSGNMOVg0dl8xWjRCVzdUN3pCVWlYLWhEUU8zTHdxaTBmenZNbmxTYldTVUZGNTE3YW5MMlhKZg?oc=5</wire:canonicalUrl>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.tradingview.com/news/tradingview:992c29c892fd2:0-key-facts-hpe-posts-record-q3-flags-memory-supply-bottleneck/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>News by ACCESS Newswire on TradingView, 2026-09-04 - TradingView</title>
-      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxOZEpBLXpMaEphdjJvUlZWaGtNdFQzS1JValpxWnZNQXBFTDJHSmZHeUpDT1gwRTg4SS1KbGpWaUhPcmZab3hVYU5jTzNSR1JRSy1OcFhuWHJLRVhFcUlQNWF5T3JuQVlSUjQxcV9TMWppdlRlYXhicDJUTUZmYWpUVQ?oc=5</link>
-      <guid isPermaLink="false">a2730c2ff25a0ca24c0ed317</guid>
-      <pubDate>Fri, 04 Sep 2026 12:57:00 +0000</pubDate>
-      <description>News by ACCESS Newswire on TradingView, 2026-09-04    TradingView</description>
+      <title>Key facts: Blackstone Inc. Waymo lender; owns HIP; $27M Huskeys</title>
+      <link>https://www.tradingview.com/news/tradingview:c8c7de34fb4e7:0-key-facts-blackstone-inc-waymo-lender-owns-hip-27m-huskeys/</link>
+      <guid isPermaLink="false">ec9e6d4acc14a8b070a36538</guid>
+      <pubDate>Thu, 03 Sep 2026 07:14:17 +0000</pubDate>
+      <description>Blackstone (BX) joined a $3 billion debt package as a lender for Waymo’s first reported debt financing, participating alongside other institutional lenders. Reuters Blackstone (BX) owns HIP, a ...</description>
+      <content:encoded>&lt;p&gt;News
+/ TradingView
+/ Key facts: Blackstone Inc. Waymo lender; owns HIP; $27M Huskeys&lt;/p&gt;&lt;p&gt;Key facts: Blackstone Inc. Waymo lender; owns HIP; $27M Huskeys Less than 1 min read&lt;/p&gt;&lt;p&gt;BX
+Blackstone (BX) joined a $3 billion debt package as a lender for Waymo’s first reported debt financing, participating alongside other institutional lenders.
+Reuters
+Blackstone (BX) owns HIP, a 61‑hotel, ~20,000‑room portfolio across Spain, Greece, Italy and Portugal; the 2017 acquisition was financed with backing from major banks.
+Reuters
+Blackstone (BX) led a $27M Series A in cybersecurity startup Huskeys, valuing it above $100M. BX joined as a major external investor in an AI web-traffic security platform.
+Dow Jones Newswires
+Disclaimer This is an AI-generated summary and may contain inaccuracies. Please verify any important information with the original sources.&lt;/p&gt;&lt;p&gt;TradingView US stocks&lt;/p&gt;&lt;p&gt;BX chart&lt;/p&gt;&lt;p&gt;Analyze on Supercharts
+Latest news&lt;/p&gt;&lt;p&gt;More news from TradingView&lt;/p&gt;</content:encoded>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMigAFBVV95cUxOZEpBLXpMaEphdjJvUlZWaGtNdFQzS1JValpxWnZNQXBFTDJHSmZHeUpDT1gwRTg4SS1KbGpWaUhPcmZab3hVYU5jTzNSR1JRSy1OcFhuWHJLRVhFcUlQNWF5T3JuQVlSUjQxcV9TMWppdlRlYXhicDJUTUZmYWpUVQ?oc=5</wire:canonicalUrl>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.tradingview.com/news/tradingview:c8c7de34fb4e7:0-key-facts-blackstone-inc-waymo-lender-owns-hip-27m-huskeys/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>News by ACCESS Newswire on TradingView, 2026-09-04 - TradingView</title>
-      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxQaEplSXFaVGttXzlOVGpiTjdtdGFIOUdzTVFxdE1pNGFnTUNWM2JfU3g2aUJfcHRjMmxBeUFmYTlFRFFfM0ViNllrMThSX18tNGpFakp1M2dZekNPYTRmakVPd1gxZUQ5ZVpGbUtyNjRCZzdnelhhNVRBS05LdEllRA?oc=5</link>
-      <guid isPermaLink="false">571e6e53afb4f8856e3abafe</guid>
-      <pubDate>Fri, 04 Sep 2026 12:18:00 +0000</pubDate>
-      <description>News by ACCESS Newswire on TradingView, 2026-09-04    TradingView</description>
+      <title>Gold falls to two-week low as rising Treasury yields, dollar weigh</title>
+      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L6N44T0QI:0-gold-falls-to-two-week-low-as-rising-treasury-yields-dollar-weigh/</link>
+      <guid isPermaLink="false">982919149bbdef93ad283ed1</guid>
+      <pubDate>Tue, 01 Sep 2026 14:17:19 +0000</pubDate>
+      <description>Get unlimited access to articles from Reuters and every other news source on TradingView.</description>
+      <content:encoded>&lt;p&gt;News
+/ Reuters
+/ Gold falls to two-week low as rising Treasury yields, dollar weigh&lt;/p&gt;&lt;p&gt;Gold falls to two-week low as rising Treasury yields, dollar weigh&lt;/p&gt;&lt;p&gt;Read the full article Get unlimited access to articles from Reuters and every other news source on TradingView.
+Keep reading&lt;/p&gt;</content:encoded>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMigAFBVV95cUxQaEplSXFaVGttXzlOVGpiTjdtdGFIOUdzTVFxdE1pNGFnTUNWM2JfU3g2aUJfcHRjMmxBeUFmYTlFRFFfM0ViNllrMThSX18tNGpFakp1M2dZekNPYTRmakVPd1gxZUQ5ZVpGbUtyNjRCZzdnelhhNVRBS05LdEllRA?oc=5</wire:canonicalUrl>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L6N44T0QI:0-gold-falls-to-two-week-low-as-rising-treasury-yields-dollar-weigh/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Yen heads for best week in a month, dollar firm ahead of US payrolls - TradingView</title>
-      <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd1duaG9wMXBjdkhYTVQ2SDhQMHVOMGRlQnFoLWloMjRSV2wxQXp2LVRTVTZmLTVuTzZRRUhyZjFkNUNFMDEwQnM5aHo1Rk1Pd3o4a2FCMlVtVFNYNjNGR0RnNm5GRWxESjQ4VjlnV3ljWXU0UDhid25pTFAtenlpRXRDUjZSaTlTTjFXb1lWXzl3c1NFWXAwZldkb3dsRE02ajczTk8xTlJGZ25lVUZxV19JTzFxeDZuaWREeUF1WVAxZllWV2szVF9lcGRTNHlVeEJV?oc=5</link>
-      <guid isPermaLink="false">38ce1445d75cb6002b7e3ff1</guid>
-      <pubDate>Fri, 04 Sep 2026 11:39:49 +0000</pubDate>
-      <description>Yen heads for best week in a month, dollar firm ahead of US payrolls    TradingView</description>
+      <title>Commodities intraday targets/key levels</title>
+      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N44T00L:0-commodities-intraday-targets-key-levels/</link>
+      <guid isPermaLink="false">1ae3adb5bb0ca13e5ce7a70d</guid>
+      <pubDate>Mon, 31 Aug 2026 17:00:00 +0000</pubDate>
+      <description>Get unlimited access to articles from Reuters and every other news source on TradingView.</description>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd1duaG9wMXBjdkhYTVQ2SDhQMHVOMGRlQnFoLWloMjRSV2wxQXp2LVRTVTZmLTVuTzZRRUhyZjFkNUNFMDEwQnM5aHo1Rk1Pd3o4a2FCMlVtVFNYNjNGR0RnNm5GRWxESjQ4VjlnV3ljWXU0UDhid25pTFAtenlpRXRDUjZSaTlTTjFXb1lWXzl3c1NFWXAwZldkb3dsRE02ajczTk8xTlJGZ25lVUZxV19JTzFxeDZuaWREeUF1WVAxZllWV2szVF9lcGRTNHlVeEJV?oc=5</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N44T00L:0-commodities-intraday-targets-key-levels/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>German power prices gain on forecast drop in Monday wind - TradingView</title>
-      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZnJuVGdmTEJ6NmVBM1k2M25ZcWh2aTNoOXVILXhHTWF4blZxVlhCTE9pNERfbS1nUTdiQXBMNDA3TnNSbUhVUFctaXRQTGhjcW9DVGhTNDNORVhRdWhBMXh1NFkyakVuZkVDTXE1LW9iaHNZbWYxbnhVWDhWdzkzZ2Y1bURkT1V2MXZSWGl3ckN2RnpxWE9XVDN0ckNuSENJajNSSHpNWEpyMUhjM0JPU1VtdWRhdWlkVWQzeG40X2NDaHM?oc=5</link>
-      <guid isPermaLink="false">89d0dc1b15111fec9eb518f9</guid>
-      <pubDate>Fri, 04 Sep 2026 08:53:21 +0000</pubDate>
-      <description>German power prices gain on forecast drop in Monday wind    TradingView</description>
+      <title>Weekly Recap: MIMRYLO license terms and Orzeyful FDA approval</title>
+      <link>https://www.tradingview.com/news/tradingview:7ebe4478ae7fe:0-weekly-recap-mimrylo-license-terms-and-orzeyful-fda-approval/</link>
+      <guid isPermaLink="false">4ae7d85fe698f50e40412451</guid>
+      <pubDate>Mon, 31 Aug 2026 08:13:00 +0000</pubDate>
+      <description>Takeda Pharmaceutical Co. Ltd. Sponsored ADR (TSE:4502) won FDA approval for Orzeyful for adult narcolepsy type 1 and struck a global commercialization deal for MIMRYLO with Protagonist—triggering a ...</description>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZnJuVGdmTEJ6NmVBM1k2M25ZcWh2aTNoOXVILXhHTWF4blZxVlhCTE9pNERfbS1nUTdiQXBMNDA3TnNSbUhVUFctaXRQTGhjcW9DVGhTNDNORVhRdWhBMXh1NFkyakVuZkVDTXE1LW9iaHNZbWYxbnhVWDhWdzkzZ2Y1bURkT1V2MXZSWGl3ckN2RnpxWE9XVDN0ckNuSENJajNSSHpNWEpyMUhjM0JPU1VtdWRhdWlkVWQzeG40X2NDaHM?oc=5</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.tradingview.com/news/tradingview:7ebe4478ae7fe:0-weekly-recap-mimrylo-license-terms-and-orzeyful-fda-approval/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>News by ACCESS Newswire on TradingView, 2026-09-03 - TradingView</title>
-      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxNQnpTQkJoWWxYalZtQWpDVmc5NkI2bnU2SURwZ2RyenVaLWVRckRUSC1XSnBqcGtBUktjcHBtVndST2h0LURfb3ZqSXVnVGFOc084YTdmRUEta2htUnV2TmZNMnBzajN6eUl2YlVBd1hDVldfU3FJRHpyR283OTBZZQ?oc=5</link>
-      <guid isPermaLink="false">c2f00b02a2780e3e0b55954b</guid>
-      <pubDate>Thu, 03 Sep 2026 10:30:02 +0000</pubDate>
-      <description>News by ACCESS Newswire on TradingView, 2026-09-03    TradingView</description>
+      <title>Adani Power, Adani Enterprises to Adani Energy: Gautam Adani-owned stocks crash up to 8% in trade today; here's why</title>
+      <link>https://www.tradingview.com/news/moodys:fe502890ee6e7:0-adani-power-adani-enterprises-to-adani-energy-gautam-adani-owned-stocks-crash-up-to-8-in-trade-today-here-s-why/</link>
+      <guid isPermaLink="false">2d7b1c78a67cef54c943cfd8</guid>
+      <pubDate>Mon, 31 Aug 2026 00:19:00 +0000</pubDate>
+      <description>New Delhi, Aug. 31 -- Adani Group stocks came under heavy selling pressure on Monday, with several group companies witnessing sharp declines amid heightened volatility surrounding the Morgan Stanley ...</description>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMigAFBVV95cUxNQnpTQkJoWWxYalZtQWpDVmc5NkI2bnU2SURwZ2RyenVaLWVRckRUSC1XSnBqcGtBUktjcHBtVndST2h0LURfb3ZqSXVnVGFOc084YTdmRUEta2htUnV2TmZNMnBzajN6eUl2YlVBd1hDVldfU3FJRHpyR283OTBZZQ?oc=5</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.tradingview.com/news/moodys:fe502890ee6e7:0-adani-power-adani-enterprises-to-adani-energy-gautam-adani-owned-stocks-crash-up-to-8-in-trade-today-here-s-why/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Elliott built stake in Deutsche Telekom and opposes T-Mobile merger, Bloomberg News reports - TradingView</title>
-      <link>https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQmJUejhnbmhUVmZvbHQ2S1lVaU5TaUZzaGFObFI5azM1RXlzWm9rR1hDenNZMUMzUndxenhsTm5Ydy1QNnBmSGZnMkx0d0dpc0tLZnRxLXJ6NmljQ0tBMFRoLXBSaDlwTkNyVjhOYlpxWEs0cXhfWGxlQTJIZXRlcmY0U3d3ODVXakhMQUVWTkh0NUtxODlUUmZKaF9EblllckJEN08wcnlOUVpDNnVKVm9YVTNrV3gxRjNSUGxraFJyRDJPVU1EejVpSXExeDhjNEU0a3NXZVhVcl9TZFk1XzlVblVaWG9ETVNSWkRtam5lQQ?oc=5</link>
-      <guid isPermaLink="false">c36debf30ece3977f058064a</guid>
-      <pubDate>Wed, 02 Sep 2026 21:10:33 +0000</pubDate>
-      <description>Elliott built stake in Deutsche Telekom and opposes T-Mobile merger, Bloomberg News reports    TradingView</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tradingview_discovery</wire:foundAt>
-      <wire:platform>TradingView News</wire:platform>
-      <wire:relation>mention</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.86</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQmJUejhnbmhUVmZvbHQ2S1lVaU5TaUZzaGFObFI5azM1RXlzWm9rR1hDenNZMUMzUndxenhsTm5Ydy1QNnBmSGZnMkx0d0dpc0tLZnRxLXJ6NmljQ0tBMFRoLXBSaDlwTkNyVjhOYlpxWEs0cXhfWGxlQTJIZXRlcmY0U3d3ODVXakhMQUVWTkh0NUtxODlUUmZKaF9EblllckJEN08wcnlOUVpDNnVKVm9YVTNrV3gxRjNSUGxraFJyRDJPVU1EejVpSXExeDhjNEU0a3NXZVhVcl9TZFk1XzlVblVaWG9ETVNSWkRtam5lQQ?oc=5</wire:canonicalUrl>
-      <wire:evidence>reporting reference, not an exact wire credit: Bloomberg News reports</wire:evidence>
-    </item>
-    <item>
-      <title>Elliott has built stake in Deutsche Telekom, opposes T-Mobile merger, Bloomberg News reports - TradingView</title>
-      <link>https://news.google.com/rss/articles/CBMi8gFBVV95cUxOX0JqdUI0TGdBUHhCNlJpRTZmV1VvaTlLSzVmbWZ2R19lNEpIWndIZ0J5dFl2UGtwWjdfS2J0bm5ZQjJFbEZWRXEyZXpWOGhfWGxsR3o1RjVVUEJYdkNzZ1ZydWowUV9tODN5U0pBVms3c09nUGZOMGp0a0wxYk5ybEZKMTgxZnNJcHd2cUZURk45VXFxMUlmU2Z4QWtCRzJ6cThUVVZnemt5U2dHTWxTQjNodWVOT2NVejBxc1RrS195WFdtamt4MVVIbWVmUUJPUlVvOGJSek1QVWRvSE0yTXc3dkNuQTMwUWUxRGFrcnZ3UQ?oc=5</link>
-      <guid isPermaLink="false">e20304c5bf2b1162dfd193d2</guid>
-      <pubDate>Wed, 02 Sep 2026 20:00:54 +0000</pubDate>
-      <description>Elliott has built stake in Deutsche Telekom, opposes T-Mobile merger, Bloomberg News reports    TradingView</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tradingview_discovery</wire:foundAt>
-      <wire:platform>TradingView News</wire:platform>
-      <wire:relation>mention</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.86</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMi8gFBVV95cUxOX0JqdUI0TGdBUHhCNlJpRTZmV1VvaTlLSzVmbWZ2R19lNEpIWndIZ0J5dFl2UGtwWjdfS2J0bm5ZQjJFbEZWRXEyZXpWOGhfWGxsR3o1RjVVUEJYdkNzZ1ZydWowUV9tODN5U0pBVms3c09nUGZOMGp0a0wxYk5ybEZKMTgxZnNJcHd2cUZURk45VXFxMUlmU2Z4QWtCRzJ6cThUVVZnemt5U2dHTWxTQjNodWVOT2NVejBxc1RrS195WFdtamt4MVVIbWVmUUJPUlVvOGJSek1QVWRvSE0yTXc3dkNuQTMwUWUxRGFrcnZ3UQ?oc=5</wire:canonicalUrl>
-      <wire:evidence>reporting reference, not an exact wire credit: Bloomberg News reports</wire:evidence>
-    </item>
-    <item>
-      <title>GOOGL Wins Big In Antitrust Fight — Judge Blocks DOJ’s Push To Break Up Google’s Ad Business - TradingView</title>
-      <link>https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRkdQd1RfQWNMRmVxZGFJSmdPeHZVTU1qWVpYWEt3NzdMaXZZUGtwUHFETnRMV0JRR3lTZFZCbXhiNTQ1M212eDc4czRSOUozd0Q2bEREaWlWUF9CSC1ldEtGU2ZCd05Td3NwOVlUR1U0UnFwQUh2QjB0TURrQ2Z4SXlGUFZjV255RU9CZFZ5U1dBelpxZFVpSkRJcXIzd3Mycm55NlVSaTRLRTRSMGlmME5nSEMwbmxVUDkweEIwUzJUd212RjdFWHFRU1NyNWQ5RHVmZ2NPLUtOb01QdUZxLVhQdzY?oc=5</link>
-      <guid isPermaLink="false">35b11819cd9ce74da135d5f8</guid>
-      <pubDate>Wed, 02 Sep 2026 17:24:56 +0000</pubDate>
-      <description>GOOGL Wins Big In Antitrust Fight — Judge Blocks DOJ’s Push To Break Up Google’s Ad Business    TradingView</description>
+      <title>Hormel Foods Corp reports results for the quarter ended July 31 - Earnings Summary</title>
+      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L8N44O1B2:0-hormel-foods-corp-reports-results-for-the-quarter-ended-july-31-earnings-summary/</link>
+      <guid isPermaLink="false">2e6f1e194cd8d61f2a64904c</guid>
+      <pubDate>Thu, 27 Aug 2026 06:30:00 +0000</pubDate>
+      <description>Get unlimited access to articles from Reuters and every other news source on TradingView.</description>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRkdQd1RfQWNMRmVxZGFJSmdPeHZVTU1qWVpYWEt3NzdMaXZZUGtwUHFETnRMV0JRR3lTZFZCbXhiNTQ1M212eDc4czRSOUozd0Q2bEREaWlWUF9CSC1ldEtGU2ZCd05Td3NwOVlUR1U0UnFwQUh2QjB0TURrQ2Z4SXlGUFZjV255RU9CZFZ5U1dBelpxZFVpSkRJcXIzd3Mycm55NlVSaTRLRTRSMGlmME5nSEMwbmxVUDkweEIwUzJUd212RjdFWHFRU1NyNWQ5RHVmZ2NPLUtOb01QdUZxLVhQdzY?oc=5</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L8N44O1B2:0-hormel-foods-corp-reports-results-for-the-quarter-ended-july-31-earnings-summary/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Private equity firm American Industrial Partners to consider seeking $8 billion - Bloomberg News - TradingView</title>
-      <link>https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZE11dFY2SWxZenFwbm52djFLY1hhTDREaHJSeVBFNzVzVWxCVFhoTW1rX2ZEY1VIbDBTeHVVQnhhNnVxcHU1V0U1Y0FaU0VGM3A4aURuMGhRb0xGMmhITmUwdzJPR0tocUt1dEtudUMtUDIwZkNHamdSQ1pVbVpjb1dBclZFcnFIUVYzMFA0emJIRjlLeXp2NTluZGdyZndWbHo5Vjc1T2dwbkhzSlZKU19YRWhoblQ1TW53TllKdmFYQ0F3d3dpVk91QmJ3MFhwRWxLNkwycy16RlNacjdqdVFxTzBfaDA4dnQ4QTQweTZnX2hRd1E?oc=5</link>
-      <guid isPermaLink="false">6ca45588459c9c2628017f49</guid>
-      <pubDate>Tue, 01 Sep 2026 21:45:41 +0000</pubDate>
-      <description>Private equity firm American Industrial Partners to consider seeking $8 billion - Bloomberg News    TradingView</description>
+      <title>China's CGN New Energy H1 profit halves on weak wind projects</title>
+      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N44N0CW:0-china-s-cgn-new-energy-h1-profit-halves-on-weak-wind-projects/</link>
+      <guid isPermaLink="false">fcd2fe582a65a976bc46f851</guid>
+      <pubDate>Wed, 26 Aug 2026 03:13:00 +0000</pubDate>
+      <description>Get unlimited access to articles from Reuters and every other news source on TradingView.</description>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZE11dFY2SWxZenFwbm52djFLY1hhTDREaHJSeVBFNzVzVWxCVFhoTW1rX2ZEY1VIbDBTeHVVQnhhNnVxcHU1V0U1Y0FaU0VGM3A4aURuMGhRb0xGMmhITmUwdzJPR0tocUt1dEtudUMtUDIwZkNHamdSQ1pVbVpjb1dBclZFcnFIUVYzMFA0emJIRjlLeXp2NTluZGdyZndWbHo5Vjc1T2dwbkhzSlZKU19YRWhoblQ1TW53TllKdmFYQ0F3d3dpVk91QmJ3MFhwRWxLNkwycy16RlNacjdqdVFxTzBfaDA4dnQ4QTQweTZnX2hRd1E?oc=5</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N44N0CW:0-china-s-cgn-new-energy-h1-profit-halves-on-weak-wind-projects/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>BioLargo, Inc. to Present at the Inaugural Nasdaq / LD Micro Summit on September 9, 2026 - TradingView</title>
-      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxPdTEwR2RkSi1FQmZCOTRZNDlYa0lDZlZpaXFwd2o3WW1kbG1hSjdjZmtvMENmczJURlROaXNjc3FPLUVRQzNlYi1URkpVNlZ2anhGQk83M0pLOGtvbXJ3UHcyN3Z4eWNUVkdwRVdHQmo4QVVUTy0tMFJCSHdPR1VUQw?oc=5</link>
-      <guid isPermaLink="false">46d925cd66b4dfa9bea0d4d7</guid>
-      <pubDate>Tue, 01 Sep 2026 10:00:00 +0000</pubDate>
-      <description>BioLargo, Inc. to Present at the Inaugural Nasdaq / LD Micro Summit on September 9, 2026    TradingView</description>
+      <title>Efora Energy Says Liquidation Application Brought Against Co By Seodi Coal In High Court</title>
+      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_TUC4CMD4C:0-efora-energy-says-liquidation-application-brought-against-co-by-seodi-coal-in-high-court/</link>
+      <guid isPermaLink="false">d3fcbd801b5e8a2bff420122</guid>
+      <pubDate>Mon, 24 Aug 2026 01:47:00 +0000</pubDate>
+      <description>Get unlimited access to articles from Reuters and every other news source on TradingView.</description>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMigAFBVV95cUxPdTEwR2RkSi1FQmZCOTRZNDlYa0lDZlZpaXFwd2o3WW1kbG1hSjdjZmtvMENmczJURlROaXNjc3FPLUVRQzNlYi1URkpVNlZ2anhGQk83M0pLOGtvbXJ3UHcyN3Z4eWNUVkdwRVdHQmo4QVVUTy0tMFJCSHdPR1VUQw?oc=5</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_TUC4CMD4C:0-efora-energy-says-liquidation-application-brought-against-co-by-seodi-coal-in-high-court/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Why Are XOM, CVX, GEV Stocks Rising Overnight? - TradingView</title>
-      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxPREc1QWkzYW9aMmpGZGtPODBpU242SVRjTHpzbE94emdEbWJJOTJKRWhYTnZadVZ0QmpxaVlRZURSUVM3SGtleDgxalpJeUlZdFlIb0NHQU9VdkRHZ2wtWDFiWkxMUTdwX3lzNnQtakdtRC1iTHNvbk9wTU9fZFZOc3J0UTg4ZUl2dXVSZFRMUkJrbW1qRTg2QnZlMWRJbG1qZVBmNlBB?oc=5</link>
-      <guid isPermaLink="false">484f0ca39dedbd900c14551d</guid>
-      <pubDate>Tue, 01 Sep 2026 07:03:27 +0000</pubDate>
-      <description>Why Are XOM, CVX, GEV Stocks Rising Overnight?    TradingView</description>
+      <title>GAMMA SQUEEZE: Why Gold Prices Will Hit $7,500 in 2027</title>
+      <link>https://www.tradingview.com/chart/GLD/aJaGZD5n-GAMMA-SQUEEZE-Why-Gold-Prices-Will-Hit-7-500-in-2027/</link>
+      <guid isPermaLink="false">a8b3bddbca03f57d6a931a32</guid>
+      <pubDate>Sun, 23 Aug 2026 04:00:00 +0000</pubDate>
+      <description>⬛ GAMMA SQUEEZE: Why Gold Prices Will Hit $7,500 in 2027 2026 update, data as of August 22, 2026 Bottom line Last year's version of this note made one call. A 1% rotation out of U.S. Treasuries could ...</description>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMipgFBVV95cUxPREc1QWkzYW9aMmpGZGtPODBpU242SVRjTHpzbE94emdEbWJJOTJKRWhYTnZadVZ0QmpxaVlRZURSUVM3SGtleDgxalpJeUlZdFlIb0NHQU9VdkRHZ2wtWDFiWkxMUTdwX3lzNnQtakdtRC1iTHNvbk9wTU9fZFZOc3J0UTg4ZUl2dXVSZFRMUkJrbW1qRTg2QnZlMWRJbG1qZVBmNlBB?oc=5</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.tradingview.com/chart/GLD/aJaGZD5n-GAMMA-SQUEEZE-Why-Gold-Prices-Will-Hit-7-500-in-2027/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Why Is PYPL Stock Crashing Nearly 12% Overnight? - TradingView</title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYUV0Wkw0cEE4UTF2YVZzX00tRVFNRWQ0WHFpb2trX2dTNWRlbUNWOHdHX3BzUVdrRF9Vdk41aHhvamRqVEVpejJUcEthRWdJMmw1SGdsRkF0OVlUNGtXLV9Dc19wWEJURkRBVG1KcXc5T1ZpckJZVFRwTDZRaUZLS0g2UDNpaHgyakVlWGtJU2t6ZjRuOHpxcFp5djEyY2lrT0RlV2ZTNmQ3Zw?oc=5</link>
-      <guid isPermaLink="false">8ae1f3c5cca425d1449bfa11</guid>
-      <pubDate>Fri, 28 Aug 2026 02:37:49 +0000</pubDate>
-      <description>Why Is PYPL Stock Crashing Nearly 12% Overnight?    TradingView</description>
+      <title>SNOW trade ideas</title>
+      <link>https://www.tradingview.com/symbols/NYSE-SNOW/ideas/</link>
+      <guid isPermaLink="false">abdd37a5ab7e53c6877f0766</guid>
+      <pubDate>Tue, 26 Aug 2025 17:00:00 +0000</pubDate>
+      <description>$SNOW about to make a MASSIVE MOVE Scenario A (Base Case) Support bounce: Price held at ~$214.87, then nearly filled a gap. Next leg up: Target $228.87—likely to ...</description>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYUV0Wkw0cEE4UTF2YVZzX00tRVFNRWQ0WHFpb2trX2dTNWRlbUNWOHdHX3BzUVdrRF9Vdk41aHhvamRqVEVpejJUcEthRWdJMmw1SGdsRkF0OVlUNGtXLV9Dc19wWEJURkRBVG1KcXc5T1ZpckJZVFRwTDZRaUZLS0g2UDNpaHgyakVlWGtJU2t6ZjRuOHpxcFp5djEyY2lrT0RlV2ZTNmQ3Zw?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>News by ACCESS Newswire on TradingView, 2026-08-26 - TradingView</title>
-      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxNRERxWFVzLUpsUkRqUW5XejBueUxPcGFHOXFEUHBsb2VvTkVQSURKYmNFTTZlaUdRb2ZpcldxeGs1bXVsMTFpU05aUFVUU1F6X0ZYNUdSbzg0Yk50LXQ2REJuRkg4MDREdFNJM3RqeXBHZXRqbUJvek1WZS1iVGFKaw?oc=5</link>
-      <guid isPermaLink="false">9ae7d994146cd517e6f4c608</guid>
-      <pubDate>Wed, 26 Aug 2026 06:00:00 +0000</pubDate>
-      <description>News by ACCESS Newswire on TradingView, 2026-08-26    TradingView</description>
-      <wire:foundAt>tradingview_discovery</wire:foundAt>
-      <wire:platform>TradingView News</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMigAFBVV95cUxNRERxWFVzLUpsUkRqUW5XejBueUxPcGFHOXFEUHBsb2VvTkVQSURKYmNFTTZlaUdRb2ZpcldxeGs1bXVsMTFpU05aUFVUU1F6X0ZYNUdSbzg0Yk50LXQ2REJuRkg4MDREdFNJM3RqeXBHZXRqbUJvek1WZS1iVGFKaw?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Why DOCU, TRI Stocks Slid Over 3% After Google Cloud’s Latest AI Release - TradingView</title>
-      <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxQZWx5Yjh4cjJ2VDk3eTZIMFltNHg2eEpkZW9EQU9sUk0yWjhBZ3JtMnRodGNMdTl0amUwMVdLQnVCQ25UQWFDMEM5VkFMSjdsNHd4LVVCSFZoVFVnWEtZNWl6bmtGY1d6TV92NHVkRGhGbERDYkt6aXNQZ1FzYXAxWF9jTFNtVXNwVFR0QjJXMTRSbzNGRWpnRy12dGdkNGpDT1cyQkgwNUtJZHlsOXdtT05IdHNDR0h1OE1fOTJVbXFhcjNZS1Jtb21R?oc=5</link>
-      <guid isPermaLink="false">a0089e2ccde403560fe56d1c</guid>
-      <pubDate>Wed, 26 Aug 2026 04:36:00 +0000</pubDate>
-      <description>Why DOCU, TRI Stocks Slid Over 3% After Google Cloud’s Latest AI Release    TradingView</description>
-      <wire:foundAt>tradingview_discovery</wire:foundAt>
-      <wire:platform>TradingView News</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiygFBVV95cUxQZWx5Yjh4cjJ2VDk3eTZIMFltNHg2eEpkZW9EQU9sUk0yWjhBZ3JtMnRodGNMdTl0amUwMVdLQnVCQ25UQWFDMEM5VkFMSjdsNHd4LVVCSFZoVFVnWEtZNWl6bmtGY1d6TV92NHVkRGhGbERDYkt6aXNQZ1FzYXAxWF9jTFNtVXNwVFR0QjJXMTRSbzNGRWpnRy12dGdkNGpDT1cyQkgwNUtJZHlsOXdtT05IdHNDR0h1OE1fOTJVbXFhcjNZS1Jtb21R?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>US voters favor Democratic Party on cost of living, Reuters/Ipsos poll finds - TradingView</title>
-      <link>https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVlI0NGFqcndOZmJXNkZlbFI0RkVsT3FSazBHRWllcUYzNzViM2FqN3pSeUdBdEhWdU1lX3BVM3hQS2F6cENodUZtbUdBSWxjODN0dVV1bEhRZklMZVZSaFdlT0VmOE5nRjBkRllhbFJRSHI0NDBIbk5yNC14WmN1V29hNTdQMDVlV3RCSm4zOVhsazktUFd0S2dLQk1NQXAzc2ZlaVBxS3JkWm8ySDNqVWdXV3oyVENuS2tvcDZwUDMwWHJjWGx2Q2ZEbWZxeDVzalExZG9mUjBuakt1Smc?oc=5</link>
-      <guid isPermaLink="false">ba8b4e4609075450b211a864</guid>
-      <pubDate>Tue, 25 Aug 2026 18:44:08 +0000</pubDate>
-      <description>US voters favor Democratic Party on cost of living, Reuters/Ipsos poll finds    TradingView</description>
-      <wire:foundAt>tradingview_discovery</wire:foundAt>
-      <wire:platform>TradingView News</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVlI0NGFqcndOZmJXNkZlbFI0RkVsT3FSazBHRWllcUYzNzViM2FqN3pSeUdBdEhWdU1lX3BVM3hQS2F6cENodUZtbUdBSWxjODN0dVV1bEhRZklMZVZSaFdlT0VmOE5nRjBkRllhbFJRSHI0NDBIbk5yNC14WmN1V29hNTdQMDVlV3RCSm4zOVhsazktUFd0S2dLQk1NQXAzc2ZlaVBxS3JkWm8ySDNqVWdXV3oyVENuS2tvcDZwUDMwWHJjWGx2Q2ZEbWZxeDVzalExZG9mUjBuakt1Smc?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Gold retreats from three-month high as investors await US inflation data - TradingView</title>
-      <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMWppX3pvV0p4OERHZmthV0ZUdlVWZHRjaWxrNEZoTDZlX25MX3BtdEp0dUl1dzRMXzZFS0pRV2JwY0hzMEszaDQ3R2RQa0FIZktaQUtmNnFZX3R5QmFyejZvdElVa0ROb3ZzT3dJWlQ0NEthT2ktU3NJd3R2ekRHdXhqYkNvRl81bC1fQXNOR1psZE9HZXFPQTBIX3EzYzhEMzJZYWF2SWpoRVYweXBoeF80eTY1ZlNjUXFyZWk2VGNMM0dBb0drQ0ZGa3I0OGRhRUFfTklTYlhqdw?oc=5</link>
-      <guid isPermaLink="false">564aca85c7507ce09f422590</guid>
-      <pubDate>Mon, 24 Aug 2026 07:00:00 +0000</pubDate>
-      <description>Gold retreats from three-month high as investors await US inflation data    TradingView</description>
-      <wire:foundAt>tradingview_discovery</wire:foundAt>
-      <wire:platform>TradingView News</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMWppX3pvV0p4OERHZmthV0ZUdlVWZHRjaWxrNEZoTDZlX25MX3BtdEp0dUl1dzRMXzZFS0pRV2JwY0hzMEszaDQ3R2RQa0FIZktaQUtmNnFZX3R5QmFyejZvdElVa0ROb3ZzT3dJWlQ0NEthT2ktU3NJd3R2ekRHdXhqYkNvRl81bC1fQXNOR1psZE9HZXFPQTBIX3EzYzhEMzJZYWF2SWpoRVYweXBoeF80eTY1ZlNjUXFyZWk2VGNMM0dBb0drQ0ZGa3I0OGRhRUFfTklTYlhqdw?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>News by ACCESS Newswire on TradingView, 2026-08-24 - TradingView</title>
-      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUxTZTRzZ1pFOUR2ajhMbEJ4OHJ2RnVHZ1B2bXhNclIwSWM2MG80bTdNVVJJakxpaW9WOE5ncjllazVzSmhqRXRqR1AyTVJnTzNSM1BqOHd6U0IwRUViZlhDOVRhYkdfbnNUX0g0V256QmNrbHo3dkh1X2ZCMHJabQ?oc=5</link>
-      <guid isPermaLink="false">57c5d6e0ca80cdc5c76cf67e</guid>
-      <pubDate>Mon, 24 Aug 2026 05:45:00 +0000</pubDate>
-      <description>News by ACCESS Newswire on TradingView, 2026-08-24    TradingView</description>
-      <wire:foundAt>tradingview_discovery</wire:foundAt>
-      <wire:platform>TradingView News</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUxTZTRzZ1pFOUR2ajhMbEJ4OHJ2RnVHZ1B2bXhNclIwSWM2MG80bTdNVVJJakxpaW9WOE5ncjllazVzSmhqRXRqR1AyTVJnTzNSM1BqOHd6U0IwRUViZlhDOVRhYkdfbnNUX0g0V256QmNrbHo3dkh1X2ZCMHJabQ?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Anthropic Reportedly Expects Public Debut To Match Or Surpass SpaceX’s Record IPO - TradingView</title>
-      <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTVZjX3NIQ0hsS3VnY0VBdndvNzlBcDNLeUtGSFlJTHl2dEJaUFFXbzdDcVctbUpqRkdKVl9ucHRXZVpCdVdHeV81WDAzb1lUZDI1UXNOU1d3Ynp0MW1OOU1tcEg0VkRSbXJaM3FsQ080dVVYSlQ4eW1CdDNxZ3BSWFM4Nno1azhIdUxYeDdWNWxBSjRuUE1iSExPaHZrVnF0TnQ5VGRDOFp3anluZTJXcmNNVndFaFhPaE5kSFExNkl2U0k4N09fM2lBR0ZVc1VDVXp6LW0zZno?oc=5</link>
-      <guid isPermaLink="false">d5bf2319eb0039207ff24a0b</guid>
-      <pubDate>Thu, 20 Aug 2026 20:17:47 +0000</pubDate>
-      <description>Anthropic Reportedly Expects Public Debut To Match Or Surpass SpaceX’s Record IPO    TradingView</description>
-      <wire:foundAt>tradingview_discovery</wire:foundAt>
-      <wire:platform>TradingView News</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTVZjX3NIQ0hsS3VnY0VBdndvNzlBcDNLeUtGSFlJTHl2dEJaUFFXbzdDcVctbUpqRkdKVl9ucHRXZVpCdVdHeV81WDAzb1lUZDI1UXNOU1d3Ynp0MW1OOU1tcEg0VkRSbXJaM3FsQ080dVVYSlQ4eW1CdDNxZ3BSWFM4Nno1azhIdUxYeDdWNWxBSjRuUE1iSExPaHZrVnF0TnQ5VGRDOFp3anluZTJXcmNNVndFaFhPaE5kSFExNkl2U0k4N09fM2lBR0ZVc1VDVXp6LW0zZno?oc=5</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.tradingview.com/symbols/NYSE-SNOW/ideas/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
