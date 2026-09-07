@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Mint — diagnostic source feed</title>
     <link>https://www.livemint.com/rss/news</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 07 Sep 2026 11:55:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 18:53:37 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Carney-Trump trade war: Canada set to impose retaliatory tariffs on US products</title>
+      <link>https://www.livemint.com/news/world/trumpcarney-trade-war-canada-set-to-impose-retaliatory-tariffs-on-us-products-11788795162465.html</link>
+      <guid isPermaLink="false">96fd716bba00d96704674209</guid>
+      <pubDate>Mon, 07 Sep 2026 16:12:37 +0000</pubDate>
+      <description>Unless there is a last-minute reprieve, Carney’s government will raise tariffs on several US steel products to 50% from 25%. The new measures will also cover a range of consumer goods, including motorcycles, cosmetics and cheese.</description>
+      <dc:creator>Ravi Hari</dc:creator>
+      <content:encoded>&lt;p&gt;Canada is set to impose tariffs of 15% to 50% on hundreds of US products from Tuesday (September 8), escalating its trade dispute with the Trump administration as Prime Minister Mark Carney seeks to strengthen Ottawa’s negotiating position with Washington.Unless there is a last-minute reprieve, Carney’s government will raise tariffs on several US steel products to 50% from 25%. The new measures will also cover a range of consumer goods, including motorcycles, cosmetics and cheese.Carney bets on pressure to bring US back to talksThe move represents a calculated risk for Carney, who had previously removed many of the counter-tariffs imposed by former Prime Minister Justin Trudeau.Brian Clow, a former senior Canadian adviser on trade and US relations under Trudeau, said the measures are intended to increase pressure on US businesses and consumers.“Canada’s retaliatory tariffs are meant to make the cost of this trade war real enough for American businesses and consumers that Washington sees a clear incentive to return to the table,” Clow said, according to Bloomberg.“Canada isn’t imposing these tariffs because it wants a trade war. It’s imposing the tariffs because it wants the trade war to end,” he added.US-Canada trade talks collapseUS and Canadian negotiators had spent weeks trying to reach an agreement to ease trade tensions and appeared to have reached terms.US President Donald Trump said on August 18 that the two sides had reached a preliminary deal and gave negotiators three days to finalise the details. The agreement subsequently collapsed.The breakdown triggered two weeks of criticism and accusations from both governments, with each side blaming the other for the failure.Trump issues fresh warning over Canadian dollarTrump also issued a veiled warning on Sunday over the Canadian currency.“Canada’s (currency) Dollar imbalance with the U.S. is unacceptable,”Trump wrote in a Truth Social post.“It has been that way for years — but no longer!”The White House has not clarified what Trump meant by the reference to a currency “imbalance”.US tariffs already hitting Canadian goodsThe Trump administration imposed 50% tariffs on about $20 billion worth of Canadian goods on August 22.Three days later, Canada announced counter-tariffs targeting roughly the same dollar value of US products.The latest Canadian measures raise the prospect of another round of retaliation from Washington.US Trade Representative Jamieson Greer has indicated that the Trump administration could impose additional tariffs or even ban certain Canadian imports, although no timeline has been given.Auto tariffs remain a major threatTrump has also threatened to raise tariffs on automobiles to 50% from 25% from January 1, 2027.However, he has not yet formally implemented the measures, leaving uncertainty over whether they will form part of Washington’s next response to Canada.Carney has said Canada is seeking a “durable” agreement with the US and remains ready to resume negotiations.“We’re ready to sit down and strike that deal when the Americans are ready,” Carney said, while insisting that any agreement must allow Canada’s automotive, steel and aluminium industries to remain competitive.Lake America row adds to tensionsThe trade dispute has also spilled into political and diplomatic rhetoric.Trump signed an order to rename Lake Ontario as “Lake America” on US maps and has posted several social media messages criticising Canada.Canadian officials have accused the US administration of making demands that could undermine Canadian sovereignty and damage key industries.US lawmakers call for talks to resumeHouse Speaker Mike Johnson has also urged Washington and Ottawa to return to negotiations.“We need Canada to come to the table, and be in good faith, and work through this, because it’s very important for both countries,” Johnson said after Greer briefed House Republicans.(With Bloomberg inputs)&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>mint_news</wire:foundAt>
+      <wire:platform>Mint</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.livemint.com/news/world/trumpcarney-trade-war-canada-set-to-impose-retaliatory-tariffs-on-us-products-11788795162465.html</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: according to Bloomberg</wire:evidence>
+    </item>
   </channel>
 </rss>
