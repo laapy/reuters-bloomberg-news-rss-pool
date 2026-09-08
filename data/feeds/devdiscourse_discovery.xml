@@ -1,30 +1,99 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Devdiscourse — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Adevdiscourse.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 08 Sep 2026 11:38:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 16:16:16 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Deportees Under Fire: Migrants Face Hostility in Equatorial Guinea</title>
+      <link>https://www.devdiscourse.com/article/law-order/3974426-deportees-under-fire-migrants-face-hostility-in-equatorial-guinea</link>
+      <guid isPermaLink="false">cdbecaabfd2b8d39f3c3fbc7</guid>
+      <pubDate>Tue, 08 Sep 2026 08:30:00 +0000</pubDate>
+      <description>Migrant deportees from the USA to Equatorial Guinea experienced severe hostility, including being threatened with firearms by police. The incident, captured on video, has intensified concerns about ...</description>
+      <wire:foundAt>devdiscourse_discovery</wire:foundAt>
+      <wire:platform>Devdiscourse</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.devdiscourse.com/article/law-order/3974426-deportees-under-fire-migrants-face-hostility-in-equatorial-guinea</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Impending Strikes in French Energy Sector Over Wage and Benefit Cuts</title>
+      <link>https://www.devdiscourse.com/article/science-environment/3974404-impending-strikes-in-french-energy-sector-over-wage-and-benefit-cuts</link>
+      <guid isPermaLink="false">28b0c834bdcdad39765371b6</guid>
+      <pubDate>Tue, 08 Sep 2026 07:48:00 +0000</pubDate>
+      <description>Unions in the French energy sector are set to strike over Court of Auditors' recommendations to limit wage growth and benefits, potentially disrupting European gas deliveries and power supplies. Talks ...</description>
+      <wire:foundAt>devdiscourse_discovery</wire:foundAt>
+      <wire:platform>Devdiscourse</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.devdiscourse.com/article/science-environment/3974404-impending-strikes-in-french-energy-sector-over-wage-and-benefit-cuts</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>China's Sweeping Security Laws Raise Alarms in Taiwan</title>
+      <link>https://www.devdiscourse.com/article/international/3974347-chinas-sweeping-security-laws-raise-alarms-in-taiwan</link>
+      <guid isPermaLink="false">d810780feefa285a01177d60</guid>
+      <pubDate>Tue, 08 Sep 2026 06:25:00 +0000</pubDate>
+      <description>China's updated national security laws create concerns for Taiwan by extending Beijing's control over business, information, and cross-border activities. Taipei officials fear broad interpretations ...</description>
+      <wire:foundAt>devdiscourse_discovery</wire:foundAt>
+      <wire:platform>Devdiscourse</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.devdiscourse.com/article/international/3974347-chinas-sweeping-security-laws-raise-alarms-in-taiwan</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Escalating Tensions: Ukrainian Drone Strikes Impact Russian Regions</title>
+      <link>https://www.devdiscourse.com/article/politics/3974309-escalating-tensions-ukrainian-drone-strikes-impact-russian-regions</link>
+      <guid isPermaLink="false">a9c90a1ebfee64de904efd9c</guid>
+      <pubDate>Tue, 08 Sep 2026 05:28:00 +0000</pubDate>
+      <description>Three civilians have died in reported Ukrainian drone attacks in Russia's Kursk and Bryansk regions. While local officials provided details, Reuters could not independently verify the information, and ...</description>
+      <wire:foundAt>devdiscourse_discovery</wire:foundAt>
+      <wire:platform>Devdiscourse</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.devdiscourse.com/article/politics/3974309-escalating-tensions-ukrainian-drone-strikes-impact-russian-regions</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Royal Shock: King Charles Declares Harry and Meghan as Private Citizens</title>
+      <link>https://www.devdiscourse.com/article/entertainment/3974285-royal-shock-king-charles-declares-harry-and-meghan-as-private-citizens</link>
+      <guid isPermaLink="false">3aa7863e23bfb390afb722af</guid>
+      <pubDate>Tue, 08 Sep 2026 04:53:00 +0000</pubDate>
+      <description>Prince Harry and Meghan Markle were taken aback by King Charles' recent declaration that they should be considered private citizens. The statement was issued to clarify their status amid their return ...</description>
+      <wire:foundAt>devdiscourse_discovery</wire:foundAt>
+      <wire:platform>Devdiscourse</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.devdiscourse.com/article/entertainment/3974285-royal-shock-king-charles-declares-harry-and-meghan-as-private-citizens</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
     <item>
       <title>Man Detained in German Power Grid Sabotage Scandal</title>
       <link>https://www.devdiscourse.com/article/law-order/3974238-man-detained-in-german-power-grid-sabotage-scandal</link>
       <guid isPermaLink="false">000e548350665086814de407</guid>
       <pubDate>Tue, 08 Sep 2026 03:51:00 +0000</pubDate>
       <description>German police have detained a man suspected of sabotaging the country's power grid in opposition to fossil fuels. Identified as Daniel V., the suspect was captured in Weisweiler near Cologne. Police ...</description>
-      <content:encoded>&lt;p&gt;Man Detained in German Power Grid Sabotage Scandal German police have detained a man suspected of sabotaging the country&amp;#x27;s power grid in opposition to fossil fuels. Identified as Daniel V., the suspect was captured in Weisweiler near Cologne. Police had been searching for the 48-year-old following letters claiming responsibility for the attacks.
-Devdiscourse News Desk | Updated: 08-09-2026 16:21 IST | Created: 08-09-2026 16:21 IST&lt;/p&gt;&lt;p&gt;SHARE&lt;/p&gt;&lt;p&gt;Key Takeaways
-AI Summary&lt;/p&gt;&lt;p&gt;Analyzing article...&lt;/p&gt;&lt;p&gt;German police have detained a man suspected of being behind a series of sabotage attacks on the country&amp;#x27;s electricity grid, according to a security source who spoke to Reuters on Tuesday.
-A police spokesperson confirmed the detention of one suspect, but declined to provide additional details. The suspect, known as Daniel V. in German media, was detained in Weisweiler, about 50 kilometers west of Cologne, a location where he allegedly attempted one of his attacks.
-Authorities had been seeking the 48-year-old man since receiving letters in which he claimed responsibility for sabotaging the power grid, citing his opposition to fossil fuels as a driving motive.&lt;/p&gt;&lt;p&gt;(With inputs from agencies.)&lt;/p&gt;&lt;p&gt;READ MORE ON:&lt;/p&gt;&lt;p&gt;German&lt;/p&gt;&lt;p&gt;police&lt;/p&gt;&lt;p&gt;sabotage&lt;/p&gt;&lt;p&gt;power&lt;/p&gt;&lt;p&gt;grid&lt;/p&gt;&lt;p&gt;Daniel V.&lt;/p&gt;&lt;p&gt;detention&lt;/p&gt;&lt;p&gt;fossil fuels&lt;/p&gt;&lt;p&gt;Cologne&lt;/p&gt;&lt;p&gt;Weisweiler&lt;/p&gt;&lt;p&gt;POST / READ COMMENTS&lt;/p&gt;</content:encoded>
       <wire:foundAt>devdiscourse_discovery</wire:foundAt>
       <wire:platform>Devdiscourse</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.devdiscourse.com/article/law-order/3974238-man-detained-in-german-power-grid-sabotage-scandal</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
@@ -34,18 +103,12 @@ Authorities had been seeking the 48-year-old man since receiving letters in whic
       <guid isPermaLink="false">5db9e6e5935145ad6d205395</guid>
       <pubDate>Tue, 08 Sep 2026 03:15:00 +0000</pubDate>
       <description>Bay has initiated an internal review after Reuters revealed that gender-testing kits were available on its platform for delivery to India, where their sale is illegal. This move came after nine such ...</description>
-      <content:encoded>&lt;p&gt;eBay Reevaluates Policies after Gender-Testing Kits Listed for India Delivery eBay has initiated an internal review after Reuters revealed that gender-testing kits were available on its platform for delivery to India, where their sale is illegal. This move came after nine such listings were flagged, leading to their removal. The incident highlights ongoing scrutiny over e-commerce platforms in India.
-Devdiscourse News Desk | Updated: 08-09-2026 15:45 IST | Created: 08-09-2026 15:45 IST&lt;/p&gt;&lt;p&gt;SHARE&lt;/p&gt;&lt;p&gt;Key Takeaways
-AI Summary&lt;/p&gt;&lt;p&gt;Analyzing article...&lt;/p&gt;&lt;p&gt;eBay has launched an internal review of its e-commerce policies after Reuters flagged gender-testing kits listed for delivery in India, where their use is illegal. eBay quickly removed the nine listings in question, asserting that they violated both local laws and company policies.
-India&amp;#x27;s stringent laws against prenatal gender prediction aim to address issues of female foeticide. Violations can lead to severe legal consequences, including imprisonment. Despite no official presence in India, brands like Peekaboo were listed by third-party sellers on eBay for Indian consumers.
-The Indian government&amp;#x27;s intensified focus on controlling such listings and Google&amp;#x27;s search results for these products reflects its commitment to enforcing the law. Both Google and India&amp;#x27;s health ministry have not provided any comments on these developments.&lt;/p&gt;&lt;p&gt;(With inputs from agencies.)&lt;/p&gt;&lt;p&gt;READ MORE ON:&lt;/p&gt;&lt;p&gt;eBay&lt;/p&gt;&lt;p&gt;gender-testing kits&lt;/p&gt;&lt;p&gt;India&lt;/p&gt;&lt;p&gt;illegal sale&lt;/p&gt;&lt;p&gt;prenatal law&lt;/p&gt;&lt;p&gt;Peekaboo&lt;/p&gt;&lt;p&gt;gender-prediction&lt;/p&gt;&lt;p&gt;Google search&lt;/p&gt;&lt;p&gt;Indian government&lt;/p&gt;&lt;p&gt;female foeticide&lt;/p&gt;&lt;p&gt;ALSO READ&lt;/p&gt;&lt;p&gt;Russia-India Relations Enter New Era: Peskov Highlights Key Partnerships&lt;/p&gt;&lt;p&gt;Areion Growth Fund Secures $50M, Eyes India&amp;#x27;s Stressed Asset Market&lt;/p&gt;&lt;p&gt;India Gears Up for 2028 Los Angeles Paralympics with Optimism and Support&lt;/p&gt;&lt;p&gt;Revolutionizing Logistics: Western Dedicated Freight Corridor Unveiled&lt;/p&gt;&lt;p&gt;Riyansh Multitrade Celebrates Milestone Anniversary with Grand Event in Delhi&lt;/p&gt;&lt;p&gt;POST / READ COMMENTS&lt;/p&gt;</content:encoded>
       <wire:foundAt>devdiscourse_discovery</wire:foundAt>
       <wire:platform>Devdiscourse</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.devdiscourse.com/article/law-order/3974211-ebay-reevaluates-policies-after-gender-testing-kits-listed-for-india-delivery</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
@@ -55,18 +118,12 @@ The Indian government&amp;#x27;s intensified focus on controlling such listings 
       <guid isPermaLink="false">5a3008f8e33d9ae4738f6d72</guid>
       <pubDate>Tue, 08 Sep 2026 00:55:00 +0000</pubDate>
       <description>Coco Gauff advances to the US Open quarterfinals, eyeing her second Grand Slam title, while Kazakhstan's Elena Rybakina edges closer to the world number one ranking, both impressively progressing in ...</description>
-      <content:encoded>&lt;p&gt;Coco Gauff and Elena Rybakina: Stars Shining Bright at US Open Quarterfinals Coco Gauff advances to the US Open quarterfinals, eyeing her second Grand Slam title, while Kazakhstan&amp;#x27;s Elena Rybakina edges closer to the world number one ranking, both impressively progressing in their respective matches. Gauff is on a winning streak and Rybakina aims for the top spot with consistent performances.
-Devdiscourse News Desk | Updated: 08-09-2026 13:25 IST | Created: 08-09-2026 13:25 IST&lt;/p&gt;&lt;p&gt;Coco Gauff. (Photo: Reuters). Image Credit: ANI&lt;/p&gt;&lt;p&gt;SHARE&lt;/p&gt;&lt;p&gt;Key Takeaways
-AI Summary&lt;/p&gt;&lt;p&gt;Analyzing article...&lt;/p&gt;&lt;p&gt;American tennis sensation Coco Gauff has confidently secured her spot in the US Open quarterfinals, strengthening her quest for a second Grand Slam title on home turf. Gauff defeated compatriot Iva Jovic 6-1, 6-4 in 1 hour and 33 minutes, marking her first US Open quarterfinals appearance in three years and her 12th Grand Slam quarterfinal overall.
-Gauff&amp;#x27;s exceptional form is further highlighted by her winning streak of 20 consecutive sets, last losing a set at the Cincinnati Open against Liudmila Samsonova. Awaiting her next challenge, Gauff will face Mirra Andreeva, who she has consistently defeated in their past encounters on clay.
-Simultaneously, Kazakh tennis star Elena Rybakina advances towards the world number one ranking by reaching the US Open quarterfinals for the first time. With a decisive win over Naomi Osaka, Rybakina has secured quarterfinal spots across all major tournaments. She has dominated the competition, dropping only 25 games in four rounds, and will face Zheng Qinwen in the semifinals, aiming for the top spot.&lt;/p&gt;&lt;p&gt;(With inputs from agencies.)&lt;/p&gt;&lt;p&gt;READ MORE ON:&lt;/p&gt;&lt;p&gt;Coco Gauff&lt;/p&gt;&lt;p&gt;Elena Rybakina&lt;/p&gt;&lt;p&gt;US Open&lt;/p&gt;&lt;p&gt;quarterfinals&lt;/p&gt;&lt;p&gt;Grand Slam&lt;/p&gt;&lt;p&gt;women&amp;#x27;s tennis&lt;/p&gt;&lt;p&gt;Mirra Andreeva&lt;/p&gt;&lt;p&gt;Naomi Osaka&lt;/p&gt;&lt;p&gt;Zheng Qinwen&lt;/p&gt;&lt;p&gt;world ranking&lt;/p&gt;&lt;p&gt;ALSO READ&lt;/p&gt;&lt;p&gt;US Open Drama: Intense Quarter-Finals and Heated Clashes&lt;/p&gt;&lt;p&gt;Zverev and van de Zandschulp Set Up High-Stakes US Open Quarter-Final Showdown&lt;/p&gt;&lt;p&gt;Arthur Fils Withdraws from Davis Cup Amid Health Concerns&lt;/p&gt;&lt;p&gt;Intense Showdowns Mark US Open&amp;#x27;s Quarter-Final Intrigue&lt;/p&gt;&lt;p&gt;Tennis Titans Advance Amidst Epic U.S. Open Battles&lt;/p&gt;&lt;p&gt;POST / READ COMMENTS&lt;/p&gt;</content:encoded>
       <wire:foundAt>devdiscourse_discovery</wire:foundAt>
       <wire:platform>Devdiscourse</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.devdiscourse.com/article/sports-games/3974122-coco-gauff-and-elena-rybakina-stars-shining-bright-at-us-open-quarterfinals</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
@@ -76,18 +133,12 @@ Simultaneously, Kazakh tennis star Elena Rybakina advances towards the world num
       <guid isPermaLink="false">a2cd70fdb638362b3b27f602</guid>
       <pubDate>Mon, 07 Sep 2026 22:29:00 +0000</pubDate>
       <description>Canada has implemented new retaliatory tariffs on nearly 700 US products, deepening the ongoing trade dispute. While economic impacts loom, businesses brace for financial strains. Majorly affected are ...</description>
-      <content:encoded>&lt;p&gt;Canada Hits Back: Fresh Tariffs Target $28 Billion in US Goods Canada has implemented new retaliatory tariffs on nearly 700 US products, deepening the ongoing trade dispute. While economic impacts loom, businesses brace for financial strains. Majorly affected are small and medium enterprises, with potential shifts in market dynamics, but everyday consumers may see minimal immediate changes.
-Devdiscourse News Desk | Updated: 08-09-2026 10:59 IST | Created: 08-09-2026 10:59 IST&lt;/p&gt;&lt;p&gt;US President Donald Trump and Canadian Prime Minister Mark Carney (File Photo/Reuters). Image Credit: ANI&lt;/p&gt;&lt;p&gt;SHARE&lt;/p&gt;&lt;p&gt;Key Takeaways
-AI Summary&lt;/p&gt;&lt;p&gt;Analyzing article...&lt;/p&gt;&lt;p&gt;Canada officially commenced its retaliatory tariffs on American merchandise early Tuesday, targeting $28 billion worth of U.S. imports following failed negotiations last month, deepening the long-standing trade conflict with its primary trading partner.
-These newly imposed levies affect nearly 700 American goods, with a tariff rate as high as 50%, spanning products from industrial steel to household essentials. The response is aimed at countering previous tariffs set by the Trump administration in August.
-For Canadian businesses, this step brings new challenges. Dan Kelly of the CFIB voices concern for small and medium businesses, already strained by previous trade actions. Meanwhile, companies like JS Furniture in Manitoba face the burden of increased costs on American-made goods, compelling them to navigate complex financial landscapes.&lt;/p&gt;&lt;p&gt;(With inputs from agencies.)&lt;/p&gt;&lt;p&gt;READ MORE ON:&lt;/p&gt;&lt;p&gt;Canada&lt;/p&gt;&lt;p&gt;retaliatory tariffs&lt;/p&gt;&lt;p&gt;US merchandise&lt;/p&gt;&lt;p&gt;trade dispute&lt;/p&gt;&lt;p&gt;economic impact&lt;/p&gt;&lt;p&gt;American imports&lt;/p&gt;&lt;p&gt;small businesses&lt;/p&gt;&lt;p&gt;trade war&lt;/p&gt;&lt;p&gt;Canadian market&lt;/p&gt;&lt;p&gt;consumer impact&lt;/p&gt;&lt;p&gt;POST / READ COMMENTS&lt;/p&gt;</content:encoded>
       <wire:foundAt>devdiscourse_discovery</wire:foundAt>
       <wire:platform>Devdiscourse</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.devdiscourse.com/article/international/3974043-canada-hits-back-fresh-tariffs-target-28-billion-in-us-goods</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
@@ -134,81 +185,6 @@ For Canadian businesses, this step brings new challenges. Dan Kelly of the CFIB 
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.devdiscourse.com/article/sports-games/3973922-ambidextrous-ace-teodor-davidovs-unique-us-open-journey</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Mexico's August Inflation Surge: A Central Bank Dilemma</title>
-      <link>https://www.devdiscourse.com/article/business/3973903-mexicos-august-inflation-surge-a-central-bank-dilemma</link>
-      <guid isPermaLink="false">3585854a0e3ed67ae3ddba11</guid>
-      <pubDate>Mon, 07 Sep 2026 12:43:00 +0000</pubDate>
-      <description>Inflation in Mexico experienced an expected acceleration in August, the first in five months, according to a Reuters poll. Despite underlying price pressures easing, this trend supports the central ...</description>
-      <wire:foundAt>devdiscourse_discovery</wire:foundAt>
-      <wire:platform>Devdiscourse</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.devdiscourse.com/article/business/3973903-mexicos-august-inflation-surge-a-central-bank-dilemma</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Controversy Erupts over Mandatory News Viewing in Hainan School</title>
-      <link>https://www.devdiscourse.com/article/international/3973835-controversy-erupts-over-mandatory-news-viewing-in-hainan-school</link>
-      <guid isPermaLink="false">1f1bdd51be897e9c5e3fc853</guid>
-      <pubDate>Mon, 07 Sep 2026 08:21:00 +0000</pubDate>
-      <description>A Chinese high school in Hainan is under scrutiny for reportedly mandating students to watch state news, causing concerns over political indoctrination in education. Social media criticism likens the ...</description>
-      <wire:foundAt>devdiscourse_discovery</wire:foundAt>
-      <wire:platform>Devdiscourse</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.devdiscourse.com/article/international/3973835-controversy-erupts-over-mandatory-news-viewing-in-hainan-school</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Syria’s Secret Nuclear Reactor: A Historical Discovery</title>
-      <link>https://www.devdiscourse.com/article/law-order/3973813-syrias-secret-nuclear-reactor-a-historical-discovery</link>
-      <guid isPermaLink="false">b35485ab2c4ec2fcd79867c8</guid>
-      <pubDate>Mon, 07 Sep 2026 07:15:00 +0000</pubDate>
-      <description>Israeli jets destroyed a Syrian nuclear reactor in 2007, capable of quickly producing fissile material for nuclear weapons. Despite the initial secrecy, recent investigations by the IAEA have exposed ...</description>
-      <wire:foundAt>devdiscourse_discovery</wire:foundAt>
-      <wire:platform>Devdiscourse</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.devdiscourse.com/article/law-order/3973813-syrias-secret-nuclear-reactor-a-historical-discovery</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Attack on Jazan: Saudi Aramco's Refinery Under Siege</title>
-      <link>https://www.devdiscourse.com/article/science-environment/3973727-attack-on-jazan-saudi-aramcos-refinery-under-siege</link>
-      <guid isPermaLink="false">ce521527b3900bf4d533ed58</guid>
-      <pubDate>Mon, 07 Sep 2026 04:05:00 +0000</pubDate>
-      <description>The Jazan oil refinery, owned by Saudi Aramco, suffered an attack on Monday, and the extent of the damage is currently being assessed. This incident was reported by the Financial Times through ...</description>
-      <wire:foundAt>devdiscourse_discovery</wire:foundAt>
-      <wire:platform>Devdiscourse</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.devdiscourse.com/article/science-environment/3973727-attack-on-jazan-saudi-aramcos-refinery-under-siege</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>China's Uyghur crackdown leaves intellectuals missing, refugees at risk of forced return</title>
-      <link>https://www.devdiscourse.com/article/international/3970075-chinas-uyghur-crackdown-leaves-intellectuals-missing-refugees-at-risk-of-forced-return</link>
-      <guid isPermaLink="false">ec86bb7d0b6de40797dabaef</guid>
-      <pubDate>Mon, 31 Aug 2026 05:59:00 +0000</pubDate>
-      <description>The World Uyghur Congress (WUC) has raised fresh concerns over the fate of Uyghurs who have disappeared into what it described as a vast system of internment camps, prisons and other forms of ...</description>
-      <wire:foundAt>devdiscourse_discovery</wire:foundAt>
-      <wire:platform>Devdiscourse</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.devdiscourse.com/article/international/3970075-chinas-uyghur-crackdown-leaves-intellectuals-missing-refugees-at-risk-of-forced-return</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>

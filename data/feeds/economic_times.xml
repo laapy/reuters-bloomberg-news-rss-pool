@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>The Economic Times — diagnostic source feed</title>
     <link>https://economictimes.indiatimes.com/rssfeedsdefault.cms</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 08 Sep 2026 11:38:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 16:16:16 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>IDBI Bank shares crash 11% as Fairfax deal moves closer</title>
+      <link>https://economictimes.indiatimes.com/markets/stocks/news/idbi-bank-shares-crash-11-amid-price-concerns-as-fairfax-deal-moves-closer/articleshow/133918985.cms</link>
+      <guid isPermaLink="false">8cc39a0ba98919f601b5a979</guid>
+      <pubDate>Tue, 08 Sep 2026 09:49:00 +0000</pubDate>
+      <description>IDBI Bank shares fell sharply as investors focused on Fairfax Financial Holdings’ reported Rs 81-per-share offer for a 60.72% controlling stake. The proposed Rs 53,000-crore deal and potential CSB Bank merger are key developments for investors.</description>
+      <dc:creator>Akash Podishetti</dc:creator>
+      <content:encoded>&lt;p&gt;Shares of IDBI Bank fell sharply on Tuesday, dropping as much as about 10%, as investors focused on the price at which Canada-based Fairfax Financial Holdings may acquire a controlling stake in the lender. The fall was much steeper than the broader market, with the Sensex and Nifty also trading lower amid rising crude oil prices and geopolitical concerns.The sharp decline comes as the long-running IDBI Bank privatisation process moves closer to a conclusion. Fairfax has emerged as the frontrunner to acquire a combined 60.72% stake being sold by the government and Life Insurance Corporation. The government plans to sell 30.48%, while LIC is looking to offload another 30.24%.ET reported earlier in July that Fairfax raised its offer to around Rs 81 per share, valuing the stake at roughly Rs 53,000 crore, or about $5.5 billion. At Rs 81, the reported acquisition price is around 11% below IDBI Bank&amp;#x27;s Monday closing price of Rs 90.7, bringing the valuation gap into focus for investors.The proposed transaction would rank among the largest foreign investments in an Indian bank if completed. The deal is still subject to final government and regulatory approvals, including those required from banking and competition regulators.The stake-sale story gathered further momentum this week after reports said Fairfax was preparing to reorganise its existing financial-services investments in India ahead of the IDBI Bank acquisition.Also Read: FCNR(B) windfall for banks explained: Who got highest inflows and what it means for investorsFairfax is considering selling its holding in IIFL Finance, with Blackstone among global investment firms interested in buying the stake. Fairfax held 15.2% of IIFL Finance as of June 30, although subsequent share sales have reportedly reduced its holding. The proposed exit would help Fairfax simplify its Indian lending interests and could also provide funds for the IDBI Bank acquisition.Fairfax, controlled by Indian-born Canadian billionaire Prem Watsa, also owns around 40% of private-sector lender CSB Bank. Reserve Bank of India rules create complications for Fairfax owning large stakes in two separate banks after the IDBI acquisition.Reuters reported last month that Indian authorities could give Fairfax up to two years to resolve the overlap by either selling its CSB Bank holding or combining the lender with IDBI Bank. More recent reports said Fairfax has informed the government that it plans to merge CSB Bank with IDBI Bank after completing the acquisition.Fairfax has also been expanding its presence in other parts of India&amp;#x27;s financial sector, including capital markets and wealth management. The proposed IDBI transaction would place a large commercial bank at the centre of its Indian financial-services operations.The IDBI Bank privatisation process has been in the works for several years. The government and LIC together own more than 94% of the lender. The sale process faced delays after earlier financial bids were reported to be below the government&amp;#x27;s expected valuation, prompting revised offers from bidders including Fairfax and Emirates NBD.(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of Economic Times.)&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>economic_times</wire:foundAt>
+      <wire:platform>The Economic Times</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://economictimes.indiatimes.com/markets/stocks/news/idbi-bank-shares-crash-11-amid-price-concerns-as-fairfax-deal-moves-closer/articleshow/133918985.cms</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Reuters reported</wire:evidence>
+    </item>
   </channel>
 </rss>
