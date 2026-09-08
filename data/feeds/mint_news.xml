@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Mint — diagnostic source feed</title>
     <link>https://www.livemint.com/rss/news</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 08 Sep 2026 16:16:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 19:33:34 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Earthquake hits Tibet again: Magnitude 5.3 this time at a depth of 35 km; Nepal feels tremor</title>
+      <link>https://www.livemint.com/news/world/earthquake-hits-tibet-again-magnitude-5-3-this-time-at-a-depth-of-35-km-nepal-feels-tremor-11788889363182.html</link>
+      <guid isPermaLink="false">7df8d00f3f37751ead6d6b58</guid>
+      <pubDate>Tue, 08 Sep 2026 17:52:55 +0000</pubDate>
+      <description>A magnitude 5.3 earthquake hit Tibet on 8 September at a depth of 35 km, as reported by the EMSC. This follows a magnitude 5 quake on 3 September, occurring after recent flash floods near the Nepal-Tibet border. The situation is ongoing.</description>
+      <dc:creator>Sounak Mukhopadhyay</dc:creator>
+      <content:encoded>&lt;p&gt;A magnitude 5.3 earthquake struck Tibet on 8 September at a depth of 35 km (21.75 miles), according to the European-Mediterranean Seismological Centre (EMSC). Reuters reported the development. The development comes as the National Center for Seismology reported an earthquake of magnitude 5.0 hitting Nepal at 9.38 PM.The earthquake struck the Mustang district in northwestern Nepal, according to PTI. Its epicentre was Lomanthang, 375 kilometres northwest of Kathmandu, according to Nepal’s earthquake monitoring centre.No damage was immediately reported. Tremors were also felt in neighbouring Manang, Dolpa and Myagdi districts.Mustang lies around 250 kilometres from areas hit by major flash floods. An ice-rock avalanche near the Nepal-Tibet border triggered those floods on 26 August. The swollen Bhotekoshi River swept away homes, vehicles, roads, and bridges, and damaged hydropower projects. The supplied report puts flood deaths at 1,357, with over 5,326 people missing.Separately, a landslide blocked the Kimrung River in Parbat district, raising concerns about downstream flooding. Authorities issued a flood alert at 8 pm Tuesday.Residents in Nayapul, Birethanti, and nearby residential settlements were urged to move to a safer location. Communities downstream towards the Kaligandaki confluence were also advised to remain on high alert.On 3 September, a magnitude 5 earthquake struck Tibet. It was nearly 10 days after flash floods devastated a town near the Nepal-Tibet border.That time, the earthquake occurred at a depth of 110 km, according to the German Research Center for Geosciences (GFZ).&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>mint_news</wire:foundAt>
+      <wire:platform>Mint</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.livemint.com/news/world/earthquake-hits-tibet-again-magnitude-5-3-this-time-at-a-depth-of-35-km-nepal-feels-tremor-11788889363182.html</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Reuters reported</wire:evidence>
+    </item>
   </channel>
 </rss>
