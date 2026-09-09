@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Atheprint.in+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 09 Sep 2026 21:07:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 23:29:48 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Spain’s spy agency warned of plans to storm Ceuta before mass migrant crossing, documents show</title>
@@ -35,6 +35,21 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://theprint.in/world/uk-man-charged-with-assisting-russian-intelligence-linked-group/3038528/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>IAEA board passes resolution reporting Iran to UN Security Council</title>
+      <link>https://theprint.in/world/iaea-board-passes-resolution-reporting-iran-to-un-security-council/3038495/</link>
+      <guid isPermaLink="false">d8a77c1fa605c7ebef73cb89</guid>
+      <pubDate>Wed, 09 Sep 2026 09:31:00 +0000</pubDate>
+      <description>The U.N. nuclear watchdog's 35-nation board of governors has passed a resolution reporting Iran to the U.N. Security Council for the first time in 20 years for breaching its ...</description>
+      <wire:foundAt>theprint_discovery</wire:foundAt>
+      <wire:platform>ThePrint</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://theprint.in/world/iaea-board-passes-resolution-reporting-iran-to-un-security-council/3038495/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -170,21 +185,6 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://theprint.in/world/analysis-as-trump-takes-center-stage-in-dallas-republicans-debate-a-future-without-him/3038152/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Malaysia PM’s coalition says graft convicts should serve full terms amid reports of Najib clemency bid</title>
-      <link>https://theprint.in/world/malaysia-pms-coalition-says-graft-convicts-should-serve-full-terms-amid-reports-of-najib-clemency-bid/3037847/</link>
-      <guid isPermaLink="false">ca822c19e93951fc3f110559</guid>
-      <pubDate>Wed, 09 Sep 2026 01:00:00 +0000</pubDate>
-      <description>Malaysia's ruling coalition on Wednesday said people convicted in high-profile graft cases should serve their sentences in full, amid media reports that jailed former ...</description>
-      <wire:foundAt>theprint_discovery</wire:foundAt>
-      <wire:platform>ThePrint</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://theprint.in/world/malaysia-pms-coalition-says-graft-convicts-should-serve-full-terms-amid-reports-of-najib-clemency-bid/3037847/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>

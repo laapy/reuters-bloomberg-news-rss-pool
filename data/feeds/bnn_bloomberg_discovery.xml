@@ -1,185 +1,65 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>BNN Bloomberg — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Abnnbloomberg.ca+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 09 Sep 2026 21:07:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 23:29:48 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>Canadian pump prices creep higher as Mideast fighting escalates</title>
-      <link>https://www.bnnbloomberg.ca/markets/oil/2026/09/09/canadian-pump-prices-creep-higher-as-mideast-fighting-escalates/</link>
-      <guid isPermaLink="false">1fe25bd00ce238730d54dfb4</guid>
-      <pubDate>Wed, 09 Sep 2026 20:34:07 +0000</pubDate>
-      <description>Fuel prices tend to ease off around this time of year, but one industry expert says drivers should expect no such relief this time.</description>
-      <dc:creator>The Canadian Press</dc:creator>
-      <content:encoded>&lt;p&gt;CALGARY — Fuel prices tend to ease off around this time of year, but one industry expert says drivers should expect no such relief this time. The high-demand summer driving season winds down after Labour Day and refineries will soon switch to producing cheaper winter fuels. But international crude oil prices have surged above US$100 a barrel as fighting once again escalates in the Strait of Hormuz, a vital shipping route out of the Persian Gulf. Price-tracking website Gasbuddy.com says the national average for a litre of regular unleaded gasoline in Canada is almost $1.80, a more than three-cent jump from a day earlier. Patrick De Haan, head of petroleum analysis at Gasbuddy, says pump prices could further creep up as high as $1.85 a litre in the next week or two. He says diesel prices are also seeing a surge at a particularly bad time for farmers who are in the middle of their fall harvest. --- Lauren Krugel, The Canadian Press This report by The Canadian Press was first published Sept. 9, 2026.&lt;/p&gt;</content:encoded>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/oil/2026/09/09/canadian-pump-prices-creep-higher-as-mideast-fighting-escalates/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Most Canadian Job Seekers Adapt Their Personality to Fit in at Work, But Say It’s Not Fair</title>
-      <link>https://www.bnnbloomberg.ca/press-releases/2026/09/09/most-canadian-job-seekers-adapt-their-personality-to-fit-in-at-work-but-say-its-not-fair/</link>
-      <guid isPermaLink="false">2e45d9d95ef735ffc175ea60</guid>
+      <title>CMiC Expands NEXUS with New AI Capabilities Across Job Costing, Project Operations</title>
+      <link>https://www.bnnbloomberg.ca/press-releases/2026/09/09/cmic-expands-nexus-with-new-ai-capabilities-across-job-costing-project-operations/</link>
+      <guid isPermaLink="false">1d7ad1d40cf2edcc071809bc</guid>
       <pubDate>Wed, 09 Sep 2026 12:28:00 +0000</pubDate>
-      <description>Job seekers say adapting their personality to fit workplace culture is important for success, but more than half call the expectation unfair. Despite perceptions about younger workers, Gen Z and ...</description>
+      <description>CMiC, a leading provider of enterprise software for the construction industry, today announced significant upgrades to NEXUS, its AI-powered construction ERP platform. Building on its existing ...</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/press-releases/2026/09/09/most-canadian-job-seekers-adapt-their-personality-to-fit-in-at-work-but-say-its-not-fair/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/press-releases/2026/09/09/cmic-expands-nexus-with-new-ai-capabilities-across-job-costing-project-operations/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>CCIB Appoints Peter Dinsdale as Incoming President and CEO</title>
-      <link>https://www.bnnbloomberg.ca/press-releases/2026/09/09/ccib-appoints-peter-dinsdale-as-incoming-president-and-ceo/</link>
-      <guid isPermaLink="false">b818a3c0da6c089a423e94ba</guid>
-      <pubDate>Wed, 09 Sep 2026 12:25:00 +0000</pubDate>
-      <description>Canadian Council for Indigenous Business (CCIB) announces the appointment of Peter Dinsdale as incoming President and CEO effective Nov. 16, 2026. His values-driven, strategic leadership will be an ...</description>
+      <title>Growth Through Acquisition: Club M&amp;A Opens Registration for Fall 2026 Cohort</title>
+      <link>https://www.bnnbloomberg.ca/press-releases/2026/09/09/growth-through-acquisition-club-ma-opens-registration-for-fall-2026-cohort/</link>
+      <guid isPermaLink="false">73b8b67b054463f52a8b4bce</guid>
+      <pubDate>Wed, 09 Sep 2026 12:23:00 +0000</pubDate>
+      <description>Club M&amp;A Canada announced registration for the Fall 2026 cohort of its Growth Through Acquisition program, designed for established business leaders seeking to structure and execute acquisitions more ...</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/press-releases/2026/09/09/ccib-appoints-peter-dinsdale-as-incoming-president-and-ceo/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/press-releases/2026/09/09/growth-through-acquisition-club-ma-opens-registration-for-fall-2026-cohort/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Trump says Iran war will end ‘immediately’ after U.S. midterms</title>
-      <link>https://www.bnnbloomberg.ca/business/international/2026/09/09/trump-says-oil-prices-that-spiked-because-of-iran-war-likely-wont-come-down-until-after-midterms/</link>
-      <guid isPermaLink="false">f3379460b56fcd06314ce2cf</guid>
-      <pubDate>Wed, 09 Sep 2026 11:55:00 +0000</pubDate>
-      <description>U.S. President Donald Trump said Wednesday that oil prices that have surged because of the Iran war likely won’t come down until after U.S. midterm elections.</description>
+      <title>What to know about Europe’s push to compete in space</title>
+      <link>https://www.bnnbloomberg.ca/business/international/2026/09/09/what-to-know-about-europes-push-to-compete-in-space/</link>
+      <guid isPermaLink="false">02ae1828caca596c491a9003</guid>
+      <pubDate>Wed, 09 Sep 2026 08:50:00 +0000</pubDate>
+      <description>Key figures from Europe’s space industry and other international players have converged on Paris to discuss how to advance the continent’s ambitions.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/international/2026/09/09/trump-says-oil-prices-that-spiked-because-of-iran-war-likely-wont-come-down-until-after-midterms/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/international/2026/09/09/what-to-know-about-europes-push-to-compete-in-space/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>WATCH LIVE: Minister of Finance Francois-Philippe Champagne on trade and tariffs</title>
-      <link>https://www.bnnbloomberg.ca/video/live/2026/09/09/watch-live-minister-of-finance-francois-philippe-champagne-on-trade-and-tariffs/</link>
-      <guid isPermaLink="false">12b85e5916f269349572c621</guid>
-      <pubDate>Wed, 09 Sep 2026 11:09:00 +0000</pubDate>
-      <description>Philippe Champagne sits for a fireside chat to talk global trade tensions, tariff uncertainty and the upcoming fiscal budget.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/live/2026/09/09/watch-live-minister-of-finance-francois-philippe-champagne-on-trade-and-tariffs/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Gordon Reid’s Top Picks for Sept. 9, 2026</title>
-      <link>https://www.bnnbloomberg.ca/markets/2026/09/09/gordon-reids-top-picks-for-sept-9-2026/</link>
-      <guid isPermaLink="false">2e4899381b8e89e075ea7e58</guid>
-      <pubDate>Wed, 09 Sep 2026 10:18:00 +0000</pubDate>
-      <description>A year ago, it was almost universally accepted that the next move in central bank interest rates would be in a downward direction. Now the opposite is true. Adding to the intrigue are the upcoming mid ...</description>
-      <content:encoded>&lt;p&gt;Gordon Reid, President &amp;amp; CEO, Goodreid Investment Counsel
-Focus: U.S. Equities&lt;/p&gt;&lt;p&gt;Top Picks: Dycom , Verizon , WESCO International
-MARKET OUTLOOK:
-The market is quietly rotating, away from the drivers of the last couple of years, namely communication service and technology stocks to more defensive issues that have been under owned, particularly healthcare.
-The result is serious stock action under the surface but on the face of things, large capitalization indexes are steady.
-The rotation appears to us to be in the latter stages, based on technical indicators and valuation but, as we have witnessed over the past year, the macro landscape is changing.
-A year ago, it was almost universally accepted that the next move in central bank interest rates would be in a downward direction. Now the opposite is true. Adding to the intrigue are the upcoming mid-term elections in the United States, which potentially could neuter the current U.S. administration.
-For now, we are preaching and practising balance in our portfolios. Goodreid’s U.S. large cap portfolio is benefitting from an under weighted position in mega cap tech in favour of a more defensive posture, while the U.S. small cap portfolio, a big beneficiary over the past couple of years of outstanding results within artificial intelligence (AI) related industrial names, is taking a breather.
-Market-moving news, fast:  Get the BNN Bloomberg App now
-Sign up for the Market Call Top Picks newsletter at  bnnbloomberg.ca/newsletters
-TOP PICKS:
-Gordon Reid&amp;#x27;s Top Picks: Dycom, Verizon &amp;amp; WESCO International Gordon Reid, President &amp;amp; CEO of Goodreid Investment Counsel, shares his top stock picks to watch in the market.&lt;/p&gt;&lt;p&gt;Dycom (DY NYSE)
-Dycom is recognized as a second derivative AI stock, as it supports hyper-scalers in providing the latest connectivity across North America.
-This issue has suffered recently along with the entire space, but we note that earnings are accelerating, and revisions are positive while valuations become increasingly more attractive.
-Although financial progress tends to be lumpy because of weather disruptions and uneven capital allocations from the large telecom companies, we believe this issue will again be priced with a premium valuation.
-Verizon (VZ NYSE)
-Verizon has performed well under the more entrepreneurial direction of Dan Schulman, former CEO at PayPal.
-Mobility and broadband divisions are growing well and under the new model cashflow is expanding because of a volume-based versus a subsidy-based approach.
-At less than 10 times forward earnings and paying a 5.6 per cent dividend yield this defensive gem is a stock for the times.
-WESCO International (WCC NYSE)
-Wesco is a distributor of electrical, industrial, and communication products.
-Once a staid industry, it is now a lynchpin in data center development, which account for about a quarter of its revenue.
-All in all, at just over 20 times earnings and mid-teens annual percentage growth of earnings ahead, we are excited.
-DISCLOSURE PERSONAL FAMILY PORTFOLIO/FUND DY NYSE N Y Y VZ NYSE Y N Y WCC NYSE N Y Y PAST PICKS: SEPT. 17, 2025
-Gordon Reid&amp;#x27;s Past Picks: Amgen, Qualcomm &amp;amp; United Rentals Gordon Reid, President &amp;amp; CEO of Goodreid Investment Counsel, discusses his past stock picks and how they&amp;#x27;re doing in the market today.&lt;/p&gt;&lt;p&gt;Amgen (AMGN NASD)
-Then: US$274.71
-Now: US$394.08
-Return: 43%
-Total Return: 47%
-Qualcomm (QCOM NASD)
-Then: US$165.26
-Now: US$176.25
-Return: 7%
-Total Return: 9%
-United Rentals (URI NYSE)
-Then: US$931.01
-Now: US$1040.80
-Return: 12%
-Total Return: 13%
-Total Return Average: 23%
-DISCLOSURE PERSONAL FAMILY PORTFOLIO/FUND AMGN NASD Y N Y QCOM NASD Y N Y URI NYSE N Y Y&lt;/p&gt;</content:encoded>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/2026/09/09/gordon-reids-top-picks-for-sept-9-2026/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>S&amp;P/TSX composite down more than 200 points, oil up after latest U.S.-Iran attacks</title>
-      <link>https://www.bnnbloomberg.ca/markets/2026/09/09/sptsx-composite-down-more-than-200-points-oil-up-after-latest-us-iran-attacks/</link>
-      <guid isPermaLink="false">1843b4f9add8773bc048ad40</guid>
-      <pubDate>Wed, 09 Sep 2026 08:44:00 +0000</pubDate>
-      <description>Canada’s main stock index was down more than 200 points as the price of oil pushed higher following the latest attacks between the U.S. and Iran.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/2026/09/09/sptsx-composite-down-more-than-200-points-oil-up-after-latest-us-iran-attacks/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Tariff price hikes may take time to hit shelves as retailers work through inventory</title>
-      <link>https://www.bnnbloomberg.ca/tariffs/2026/09/09/tariff-price-hikes-may-take-time-to-hit-shelves-as-retailers-work-through-inventory/</link>
-      <guid isPermaLink="false">2a90523985ffdac57c54c378</guid>
-      <pubDate>Wed, 09 Sep 2026 07:15:00 +0000</pubDate>
-      <description>Canada’s counter-tariffs on U.S. goods have retaliatory measures, but retail experts say there will be a lag before shoppers see price increases in stores ...</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/tariffs/2026/09/09/tariff-price-hikes-may-take-time-to-hit-shelves-as-retailers-work-through-inventory/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>'Our number one concern always is safety': Minister Solomon on industry fears over AI</title>
-      <link>https://www.bnnbloomberg.ca/video/live/2026/09/09/our-number-one-concern-always-is-safety-minister-solomon-on-industry-fears-over-ai/</link>
-      <guid isPermaLink="false">aeb97af2465443250b916f11</guid>
-      <pubDate>Wed, 09 Sep 2026 01:32:00 +0000</pubDate>
-      <description>Artificial Intelligence Minister Evan Solomon comments on the resignation of an Anthropic researcher over fears that AI could 'kill us all.' ...</description>
+      <title>AC/DC concert in Toronto in jeopardy as Rogers Stadium remains damaged from a severe storm</title>
+      <link>https://www.bnnbloomberg.ca/video/live/2026/09/09/acdc-concert-in-toronto-in-jeopardy-as-rogers-stadium-remains-damaged-from-a-severe-storm/</link>
+      <guid isPermaLink="false">aceb5932f6be9205aec3557a</guid>
+      <pubDate>Wed, 09 Sep 2026 06:20:00 +0000</pubDate>
+      <description>Top-billed performances like AC/DC are now in limbo as Rogers Stadium continues to assess the damage caused by last week’s storm. Jon Woodward reports.</description>
       <content:encoded>&lt;p&gt;Opens in new window
-Alberta &amp;#x27;front and centre in the growth of our nation&amp;#x27;: finance minister Opens in new window 02:55 · September 09, 2026 at 4:12p.m. EDT&lt;/p&gt;</content:encoded>
+&amp;#x27;The government needs to deliver on its core promise&amp;#x27;: Analyst on Champagne&amp;#x27;s trade war comments Opens in new window 09:20 · September 09, 2026 at 5:58p.m. EDT&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
@@ -187,7 +67,55 @@ Alberta &amp;#x27;front and centre in the growth of our nation&amp;#x27;: financ
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/live/2026/09/09/our-number-one-concern-always-is-safety-minister-solomon-on-industry-fears-over-ai/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/live/2026/09/09/acdc-concert-in-toronto-in-jeopardy-as-rogers-stadium-remains-damaged-from-a-severe-storm/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Late-night comedians lay into Trump over trade war with Canada</title>
+      <link>https://www.bnnbloomberg.ca/video/live/2026/09/09/late-night-comedians-lay-into-trump-over-trade-war-with-canada/</link>
+      <guid isPermaLink="false">0cc5cd363dd459dcab5a9126</guid>
+      <pubDate>Wed, 09 Sep 2026 06:20:00 +0000</pubDate>
+      <description>As many late-night hosts return from summer break, U.S. President Donald Trump's trade war with Canada was a main talking point. Joy Malbon explains.</description>
+      <content:encoded>&lt;p&gt;Opens in new window
+&amp;#x27;The government needs to deliver on its core promise&amp;#x27;: Analyst on Champagne&amp;#x27;s trade war comments Opens in new window 09:20 · September 09, 2026 at 5:58p.m. EDT&lt;/p&gt;</content:encoded>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/live/2026/09/09/late-night-comedians-lay-into-trump-over-trade-war-with-canada/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>‘What a joke!’: Bill Carroll reacts to Trump’s executive orders barring certain Canadian goods</title>
+      <link>https://www.bnnbloomberg.ca/video/economics/2026/09/09/what-a-joke-bill-carroll-reacts-to-trumps-executive-orders-barring-certain-canadian-goods/</link>
+      <guid isPermaLink="false">31a1e51b3a200b36e79d4911</guid>
+      <pubDate>Wed, 09 Sep 2026 01:32:00 +0000</pubDate>
+      <description>HeartRadio's Bill Carroll says Trump ‘has nothing but those memes’ in the wake of the U.S. banning certain Canadian goods.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/09/09/what-a-joke-bill-carroll-reacts-to-trumps-executive-orders-barring-certain-canadian-goods/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>PM Carney is ‘the adult in the room’ dealing with a ‘spoiled, blubbering child’: Mulcair</title>
+      <link>https://www.bnnbloomberg.ca/video/economics/2026/09/09/pm-carney-is-the-adult-in-the-room-dealing-with-a-spoiled-blubbering-child-mulcair/</link>
+      <guid isPermaLink="false">6ac5aba2a36916ea666bbf8b</guid>
+      <pubDate>Wed, 09 Sep 2026 01:32:00 +0000</pubDate>
+      <description>CTV News Political Commentator Tom Mulcair on why he believes both sides are ‘heading towards a reopening of proper discussions,’ despite recent escalations.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/09/09/pm-carney-is-the-adult-in-the-room-dealing-with-a-spoiled-blubbering-child-mulcair/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -206,6 +134,21 @@ Alberta &amp;#x27;front and centre in the growth of our nation&amp;#x27;: financ
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
+      <title>'Our number one concern always is safety': Minister Solomon on industry fears over AI</title>
+      <link>https://www.bnnbloomberg.ca/video/live/2026/09/09/our-number-one-concern-always-is-safety-minister-solomon-on-industry-fears-over-ai/</link>
+      <guid isPermaLink="false">aeb97af2465443250b916f11</guid>
+      <pubDate>Wed, 09 Sep 2026 01:32:00 +0000</pubDate>
+      <description>Artificial Intelligence Minister Evan Solomon comments on the resignation of an Anthropic researcher over fears that AI could 'kill us all.' ...</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/live/2026/09/09/our-number-one-concern-always-is-safety-minister-solomon-on-industry-fears-over-ai/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
       <title>Alberta 'front and centre in the growth of our nation': finance minister</title>
       <link>https://www.bnnbloomberg.ca/video/investing/2026/09/09/alberta-front-and-centre-in-the-growth-of-our-nation-finance-minister/</link>
       <guid isPermaLink="false">55ce768d5c1f15f73408e303</guid>
@@ -221,18 +164,36 @@ Alberta &amp;#x27;front and centre in the growth of our nation&amp;#x27;: financ
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Trump’s trade war with Canada is ‘making America expensive again’: O’Toole</title>
-      <link>https://www.bnnbloomberg.ca/video/economics/2026/09/09/trumps-trade-war-with-canada-is-making-america-expensive-again-otoole/</link>
-      <guid isPermaLink="false">955f3d118def1bb7bc5dbae6</guid>
-      <pubDate>Wed, 09 Sep 2026 01:32:00 +0000</pubDate>
-      <description>Former Conservative leader Erin O’Toole on the trade war making ‘life expensive’ for both countries and ‘the high school name calling’ from U.S. officials.</description>
+      <title>Will PM Carney retaliate to the latest round of U.S. tariffs?</title>
+      <link>https://www.bnnbloomberg.ca/video/economics/2026/09/09/will-pm-carney-retaliate-to-the-latest-round-of-us-tariffs/</link>
+      <guid isPermaLink="false">02354be71e26f0b1e0da9ebc</guid>
+      <pubDate>Tue, 08 Sep 2026 23:37:00 +0000</pubDate>
+      <description>Vassy Kapelos weighs in on Canada's next move after the U.S. imposed bans and new tariffs and discusses Pierre Poilievre heading to the U.S. to promote Canada.</description>
+      <content:encoded>&lt;p&gt;Opens in new window
+&amp;#x27;The government needs to deliver on its core promise&amp;#x27;: Analyst on Champagne&amp;#x27;s trade war comments Opens in new window 09:20 · September 09, 2026 at 5:58p.m. EDT&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/09/09/trumps-trade-war-with-canada-is-making-america-expensive-again-otoole/</wire:canonicalUrl>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/09/09/will-pm-carney-retaliate-to-the-latest-round-of-us-tariffs/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>'The government needs to deliver on its core promise': Analyst on Champagne's trade war comments</title>
+      <link>https://www.bnnbloomberg.ca/video/investing/2026/09/09/the-government-needs-to-deliver-on-its-core-promise-analyst-on-champagnes-trade-war-comments/</link>
+      <guid isPermaLink="false">b41c7b1f3c8f99082e4e8f5b</guid>
+      <pubDate>Tue, 08 Sep 2026 22:55:00 +0000</pubDate>
+      <description>The Front Bench panel discusses Minister Champagne’s trade war comments, the government’s biggest challenges and whether its message is reaching Canadians.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/09/09/the-government-needs-to-deliver-on-its-core-promise-analyst-on-champagnes-trade-war-comments/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
