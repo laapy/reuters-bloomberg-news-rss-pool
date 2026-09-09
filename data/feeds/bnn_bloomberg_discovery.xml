@@ -1,190 +1,202 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>BNN Bloomberg — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Abnnbloomberg.ca+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 09 Sep 2026 10:04:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 14:45:33 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>Canada to blame for Washington's escalation of trade war, says Trump trade czar</title>
-      <link>https://www.bnnbloomberg.ca/tariffs/2026/09/09/canada-to-blame-for-washingtons-escalation-of-trade-war-says-trump-trade-czar/</link>
-      <guid isPermaLink="false">13aabe917c061e4b979dae2b</guid>
-      <pubDate>Wed, 09 Sep 2026 02:28:00 +0000</pubDate>
-      <description>U.S. Trade Representative Jamieson Greer says Canada is to blame for Washington’s decision to escalate the trade war with its northern neighbour.</description>
+      <title>Tariff price hikes may take time to hit shelves as retailers work through inventory</title>
+      <link>https://www.bnnbloomberg.ca/tariffs/2026/09/09/tariff-price-hikes-may-take-time-to-hit-shelves-as-retailers-work-through-inventory/</link>
+      <guid isPermaLink="false">2a90523985ffdac57c54c378</guid>
+      <pubDate>Wed, 09 Sep 2026 14:35:19 +0000</pubDate>
+      <description>Canada’s counter-tariffs on U.S. goods have retaliatory measures, but retail experts say there will be a lag before shoppers see price increases in stores ...</description>
+      <dc:creator>The Canadian Press</dc:creator>
+      <content:encoded>&lt;p&gt;OTTAWA — Canada’s counter-tariffs on U.S. goods have spurred a fresh flood of retaliatory measures, but retail experts say there will be a short lag before shoppers see price increases on store shelves. Matt Poirier with the Retail Council of Canada says it will take time for stores to work through existing inventory and begin stocking newly tariffed goods. He says items with a shorter shelf life and other fast-selling products will likely see prices rise first, followed by durable goods with slower inventory turnover like ovens and washing machines. Canada’s retaliatory duties — ranging from 15 to 50 per cent on nearly $28 billion worth of American products including clothing, carpets and electronics — prompted U.S. President Donald Trump on Tuesday to ban imports of certain Canadian goods starting Sept. 29. Trade experts say Canadian shoppers may be briefly shielded from the full impact of the trade war as new tariff costs are negotiated along the supply chain and businesses temporarily absorb some of the cost by accepting smaller profit margins. They say the first noticeable signs of the counter-tariffs on Canadian shelves are likely to be fewer promotions and less product choice as retailers replace American goods with Canadian or overseas alternatives. --- Brett Bundale, The Canadian Press This report by The Canadian Press was first published Sept. 9, 2026.&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/tariffs/2026/09/09/canada-to-blame-for-washingtons-escalation-of-trade-war-says-trump-trade-czar/</wire:canonicalUrl>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/tariffs/2026/09/09/tariff-price-hikes-may-take-time-to-hit-shelves-as-retailers-work-through-inventory/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Canada Infrastructure Bank closes loan for Nunavut wind project serving gold mine</title>
-      <link>https://www.bnnbloomberg.ca/business/politics/2026/09/09/canada-infrastructure-bank-closes-loan-for-nunavut-wind-project-serving-gold-mine/</link>
-      <guid isPermaLink="false">28f910c087ec72301573ce32</guid>
-      <pubDate>Wed, 09 Sep 2026 02:07:00 +0000</pubDate>
-      <description>The Canada Infrastructure Bank has closed a $20-million loan for an Inuit-led wind project serving a gold mine in Nunavut.</description>
+      <title>CGI acquires U.S. technology consulting firm Callibrity</title>
+      <link>https://www.bnnbloomberg.ca/business/company-news/2026/09/09/cgi-acquires-us-technology-consulting-firm-callibrity/</link>
+      <guid isPermaLink="false">f6be34deb96f66851943a282</guid>
+      <pubDate>Wed, 09 Sep 2026 12:42:17 +0000</pubDate>
+      <description>MONTREAL — CGI says it has acquired U.S. technology consulting firm Callibrity. Financial terms of the deal, which closed Tuesday, were not immediately available. Founded in 2007, Callibrity brings ...</description>
+      <dc:creator>The Canadian Press</dc:creator>
+      <content:encoded>&lt;p&gt;MONTREAL — CGI says it has acquired U.S. technology consulting firm Callibrity. Financial terms of the deal, which closed Tuesday, were not immediately available. Founded in 2007, Callibrity brings experience in financial services, insurance and manufacturing. CGI says Callibrity adds 120 consultants and strengthens its presence in the Cincinnati market. Vijay Srinivasan, president of U.S. commercial and state government operations at CGI, says Callibrity brings deep technical expertise, a strong consulting mindset and a culture of curiosity and collaboration. CGI has 94,000 consultants and professionals around the world. This report by The Canadian Press was first published Sept. 9, 2026. Companies in this story: (TSX:GIB.A) The Canadian Press&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/politics/2026/09/09/canada-infrastructure-bank-closes-loan-for-nunavut-wind-project-serving-gold-mine/</wire:canonicalUrl>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/09/09/cgi-acquires-us-technology-consulting-firm-callibrity/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Building Imnaryuaq: Canada’s biggest icebreaker begins to take shape</title>
-      <link>https://www.bnnbloomberg.ca/business/2026/09/09/building-imnaryuaq-canadas-biggest-icebreaker-begins-to-take-shape/</link>
-      <guid isPermaLink="false">e6904ca7e938881071721e10</guid>
-      <pubDate>Wed, 09 Sep 2026 02:00:00 +0000</pubDate>
-      <description>From new military investments to Arctic security and sovereignty, Canada is pouring billions into asserting its presence in the North. In the first instalment of a CTV News series, we go inside the ...</description>
+      <title>Tech and mining stocks dominate TSX top-performer list amid 'commodity super cycle'</title>
+      <link>https://www.bnnbloomberg.ca/markets/tsx/2026/09/09/tech-and-mining-stocks-dominate-tsx-top-performer-list-amid-commodity-super-cycle/</link>
+      <guid isPermaLink="false">8daa8d8f8a109ed79372ca0f</guid>
+      <pubDate>Wed, 09 Sep 2026 11:28:03 +0000</pubDate>
+      <description>This year’s ranking of the Toronto Stock Exchange’s top-performing companies shows investors were capitalizing on the commodities super cycle, Canada’s efforts to build infrastructure and the furious ...</description>
+      <dc:creator>The Canadian Press</dc:creator>
+      <content:encoded>&lt;p&gt;TORONTO — This year’s ranking of the Toronto Stock Exchange’s top-performing companies shows investors were capitalizing on the commodities super cycle, Canada’s efforts to build infrastructure and the furious build-out of AI data centres across the world. The TSX 30 is an annual ranking of the top 30 best-performing stocks on Canada’s benchmark index based on dividend-adjusted share price performance over a three-year period. The 2026 list saw the strongest returns since the program launched in 2019, with an average dividend-adjusted share price appreciation of 785 per cent over the period, nearly double that of the previous year. Five technology companies made the list, adding $85.3 billion in market capitalization over the three years. The group includes electronics hardware manufacturers Celestica Inc. and Firan Technology Group Corp. It also includes space technology company MDA Space Ltd., energy infrastructure and digital technology firm Hut 8 Corp. and satellite operator Telesat Corp. Celestica topped the list for the second year in a row, posting a 2,590 per cent dividend-adjusted share price increase over three years. The company provides advanced electronic manufacturing and supply chain solutions for customers in high-tech industries. Some of its largest customers include mega-cap tech companies, and it has benefited from the AI frenzy. The list also had another stellar showing from the mining sector, accounting for 18 of the 30 spots, rising slightly from the previous year. Beyond gold names, the mining companies on the list were more diversified than the previous year, with companies focused on silver, copper and rare earths. “We talk a lot about the commodity super cycle that the world is in and that we have a number of commodities for which the world will have a shortfall at some point over the next five years,” Robert Peterman, chief commercial officer of the Toronto Stock Exchange, said in an interview. “What we know is that the exploration companies, or the junior companies, are the ones that find the bulk of the new mines that will fill the commodity needs.” Gold continued to be attractive to investors amid economic and geopolitical uncertainty. Gold has been on a spectacular ride over the past year, having breached the US$5,000 an ounce mark before falling back down to trade around US$4,400 — though still well above historic levels. “Gold and silver were certainly the dominant commodities,” Peterman said. Two of the 30 companies listed were in the energy industry: international natural gas producer Tenaz Energy Corp and oil producer Valeura Energy Inc. Energy prices have moved sharply higher this year after the U.S. war on Iran restricted the global flow of crude and other commodities through the Strait of Hormuz. “The energy sector is certainly experiencing a moment where a lot of the shift is not just to supply, but where that supply is coming from and how it’s developed,” Peterman said. “As every country starts to look at energy as part of its sovereignty plan, where they’re buying that energy from is important. We think Canada will continue to grow.” Anthony Marino, president and CEO of Tenaz Energy, said the company looks to perform well regardless of how commodity prices move. Tenaz Energy posted a 1,463 per cent dividend-adjusted share price performance over the three-year period. “Over the long term, we don’t have control over that commodity price. We can hedge in the shorter term to fix part of it, but we’re not price setters, we are price takers as sellers,” he said. Along with return on capital, Marino said the company can differentiate itself through lower operating costs. While Tenaz operates primarily as a natural gas producer, Marino said Canada has historically been a supportive jurisdiction for energy companies, with investors, regulators and governments recognizing the importance of the sector. As Canada focuses on nation-building projects, industrial firms like Hammond Power Solutions Inc. and Bird Construction Inc. made the list. Bird posted a 738 per cent three-year dividend-adjusted share price appreciation. Teri McKibbon, CEO of Bird Construction, said his company is involved in major Canadian projects and they “all require physical infrastructure.” “We participate across the data centers and power, mining, transportation, defence, utilities, industrial development, and our strategy is not really dependent on any single theme, and it’s the opportunity of that distributed business across long-term investment programs,” he said. McKibbon said he thinks Canada’s focus on infrastructure will be a tailwind for a number of years. “The horizon of this is many years ... some of the stuff we’re involved in is 20-year cycles,” he said. This report by The Canadian Press was first published Sept. 9, 2026. Daniel Johnson, The Canadian Press&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/2026/09/09/building-imnaryuaq-canadas-biggest-icebreaker-begins-to-take-shape/</wire:canonicalUrl>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/tsx/2026/09/09/tech-and-mining-stocks-dominate-tsx-top-performer-list-amid-commodity-super-cycle/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Burton Snowboards tabs Denny Bruce, who once was a regional brand manager, to be its CEO</title>
-      <link>https://www.bnnbloomberg.ca/business/company-news/2026/09/08/burton-snowboards-tabs-denny-bruce-who-once-was-a-regional-brand-manager-to-be-its-ceo/</link>
-      <guid isPermaLink="false">352440c5d57057f747fe8586</guid>
-      <pubDate>Tue, 08 Sep 2026 13:18:00 +0000</pubDate>
-      <description>Burton Snowboards tapped into its past, naming one-time regional brand manager Denny Bruce to take over as CEO, taking over for Donna Carpenter.</description>
+      <title>BMO InvestorLine to offer commission-free stock and ETF trading</title>
+      <link>https://www.bnnbloomberg.ca/investing/etfs/2026/09/09/bmo-investorline-to-offer-commission-free-stock-and-etf-trading/</link>
+      <guid isPermaLink="false">f30e5f62d14559c1134e5634</guid>
+      <pubDate>Wed, 09 Sep 2026 06:51:00 +0000</pubDate>
+      <description>BMO InvestorLine is offering commission-free trading on all stocks and exchange-traded funds in a bid to grow its digital self-directed investing platform.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/09/08/burton-snowboards-tabs-denny-bruce-who-once-was-a-regional-brand-manager-to-be-its-ceo/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/investing/etfs/2026/09/09/bmo-investorline-to-offer-commission-free-stock-and-etf-trading/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Eric Nuttall’s Top Picks for Sept. 8, 2026</title>
-      <link>https://www.bnnbloomberg.ca/markets/2026/09/08/eric-nuttalls-top-picks-for-sept-8-2026/</link>
-      <guid isPermaLink="false">dfef3d7944967801a09b96a3</guid>
-      <pubDate>Tue, 08 Sep 2026 10:12:00 +0000</pubDate>
-      <description>Our base case for the past seven months is that Iran has realized that control of the Strait of Hormuz, once the outlet for approximately 20 million barrels per day (MM Bbl/d) of oil and refined ...</description>
+      <title>MustGrow targets $380B agriculture market with field-proven, mustard-based biologicals</title>
+      <link>https://www.bnnbloomberg.ca/investment-trends/2026/09/09/mustgrow-targets-380b-agriculture-market-with-field-proven-mustard-based-biologicals/</link>
+      <guid isPermaLink="false">3213923d6ad8dc9e9a687773</guid>
+      <pubDate>Wed, 09 Sep 2026 06:20:00 +0000</pubDate>
+      <description>Colin Bletsky, COO &amp; Director of MustGrow Biologics Corp. discusses how firm turns naturally occurring compounds in to products that help farmers improve yield.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/2026/09/08/eric-nuttalls-top-picks-for-sept-8-2026/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/investment-trends/2026/09/09/mustgrow-targets-380b-agriculture-market-with-field-proven-mustard-based-biologicals/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>S&amp;P/TSX composite falls nearly 400 points, U.S. stock markets also trade lower</title>
-      <link>https://www.bnnbloomberg.ca/markets/2026/09/08/sptsx-composite-down-more-than-200-points-us-stock-markets-also-trade-lower/</link>
-      <guid isPermaLink="false">03dab4222c96e0fc09256309</guid>
-      <pubDate>Tue, 08 Sep 2026 08:41:00 +0000</pubDate>
-      <description>Canada’s main stock index was down more than 200 points weighed down by weakness in the technology, telecommunications and industrial sectors.</description>
+      <title>OpenAI says working with Samsung on next-generation chips, deepening cooperation</title>
+      <link>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/09/openai-says-working-with-samsung-on-next-generation-chips-deepening-cooperation/</link>
+      <guid isPermaLink="false">25e830cc3bcbcb4b4b64317a</guid>
+      <pubDate>Wed, 09 Sep 2026 05:33:00 +0000</pubDate>
+      <description>OpenAI is deepening cooperation with Samsung Electronics as the ChatGPT maker develops its own chips, expanding ties with the South Korean technology giant across semiconductors and enterprise AI ...</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/2026/09/08/sptsx-composite-down-more-than-200-points-us-stock-markets-also-trade-lower/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/09/openai-says-working-with-samsung-on-next-generation-chips-deepening-cooperation/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Trump threatens Canadian jetmaker Bombardier, which has an extensive U.S. footprint</title>
-      <link>https://www.bnnbloomberg.ca/tariffs/2026/09/08/trump-threatens-canadian-jetmaker-bombardier-which-has-an-extensive-us-footprint/</link>
-      <guid isPermaLink="false">5ea844237480cec80162ec17</guid>
-      <pubDate>Tue, 08 Sep 2026 07:06:00 +0000</pubDate>
-      <description>U.S. President Donald Trump has threatened to ban the sale of aircraft from Canada’s Bombardier unless it manufactures planes in the United States.</description>
+      <title>Chime shares jump 10% as Stride deal puts fintech on path to bank charter</title>
+      <link>https://www.bnnbloomberg.ca/business/company-news/2026/09/09/chime-shares-jump-10-as-stride-deal-puts-fintech-on-path-to-bank-charter/</link>
+      <guid isPermaLink="false">b9674e7304309ba72b4faaef</guid>
+      <pubDate>Wed, 09 Sep 2026 05:20:00 +0000</pubDate>
+      <description>Chime shares surged 10 per cent before the bell on Wednesday after the fintech firm agreed to buy Stride for $590 million, gaining a bank charter that would allow it to expand its lending business.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/tariffs/2026/09/08/trump-threatens-canadian-jetmaker-bombardier-which-has-an-extensive-us-footprint/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/09/09/chime-shares-jump-10-as-stride-deal-puts-fintech-on-path-to-bank-charter/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Enbridge says CEO Greg Ebel to retire, names insider Harradence to succeed</title>
-      <link>https://www.bnnbloomberg.ca/business/company-news/2026/09/08/enbridge-names-insider-harradence-ceo-as-greg-ebel-retires/</link>
-      <guid isPermaLink="false">ffcc5747e516a95de1a32948</guid>
-      <pubDate>Tue, 08 Sep 2026 06:36:00 +0000</pubDate>
-      <description>Enbridge said on Tuesday its President and CEO Greg Ebel will retire at the end of 2026, and insider Michele Harradence will succeed him as chief executive effective January 1 next year.</description>
+      <title>U.S. markets point lower as crude prices breach US$100 with the conflict around Iran intensifying</title>
+      <link>https://www.bnnbloomberg.ca/markets/2026/09/09/global-shares-are-mostly-lower-as-brent-crude-surpasses-us100-a-barrel/</link>
+      <guid isPermaLink="false">286b459993a5cdeb9b6e4736</guid>
+      <pubDate>Wed, 09 Sep 2026 04:05:00 +0000</pubDate>
+      <description>Global shares were mostly lower in cautious trading Wednesday as investors watched for what might happen on interest rates and the war with Iran pushed the price of a barrel of Brent crude oil past ...</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/09/08/enbridge-names-insider-harradence-ceo-as-greg-ebel-retires/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/2026/09/09/global-shares-are-mostly-lower-as-brent-crude-surpasses-us100-a-barrel/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Will Americans retaliate or open up talks again following Canada's counter tariffs?</title>
-      <link>https://www.bnnbloomberg.ca/video/shows/the-open/2026/09/08/will-americans-retaliate-or-open-up-talks-again-following-canadas-counter-tariffs/</link>
-      <guid isPermaLink="false">51e7687af881f90b2ba6ba33</guid>
-      <pubDate>Tue, 08 Sep 2026 04:40:00 +0000</pubDate>
-      <description>Drew Fagan, professor at Munk School of Global Affairs &amp; Public Policy at the University of Toronto, joins BNN Bloomberg to discuss the counter tariffs.</description>
+      <title>Eric Nuttall says oil market ‘in very, very dangerous territory’</title>
+      <link>https://www.bnnbloomberg.ca/video/economics/2026/09/09/eric-nuttall-says-oil-market-in-very-very-dangerous-territory/</link>
+      <guid isPermaLink="false">0968da634035d944e96f2c8a</guid>
+      <pubDate>Wed, 09 Sep 2026 01:32:00 +0000</pubDate>
+      <description>Eric Nuttall of Ninepoint Partners speaks on the price surge at the pumps, as the U.S. and Iran war continues to escalate.</description>
+      <content:encoded>&lt;p&gt;Opens in new window
+Eric Nuttall says oil market ‘in very, very dangerous territory’ Opens in new window 05:17 · September 09, 2026 at 10:03a.m. EDT&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/the-open/2026/09/08/will-americans-retaliate-or-open-up-talks-again-following-canadas-counter-tariffs/</wire:canonicalUrl>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/09/09/eric-nuttall-says-oil-market-in-very-very-dangerous-territory/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Saskatchewan tax on American liquor kicks in for retailers amid trade standoff</title>
-      <link>https://www.bnnbloomberg.ca/tariffs/2026/09/08/saskatchewan-tax-on-american-liquor-kicks-in-for-retailers-amid-trade-standoff/</link>
-      <guid isPermaLink="false">219f8e1e8f39556c98f349fa</guid>
-      <pubDate>Tue, 08 Sep 2026 03:57:00 +0000</pubDate>
-      <description>Saskatchewan’s government is set to slap its retaliatory tax on American booze today amid the ongoing Canada-U.S. trade war.</description>
+      <title>It’s ‘no secret that Donald Trump doesn’t like Canada’ following ban on certain Canadian goods: Ham</title>
+      <link>https://www.bnnbloomberg.ca/video/economics/2026/09/09/its-no-secret-that-donald-trump-doesnt-like-canada-following-ban-on-certain-canadian-goods-ham/</link>
+      <guid isPermaLink="false">9182d2781008c93dbc4bf57e</guid>
+      <pubDate>Wed, 09 Sep 2026 01:32:00 +0000</pubDate>
+      <description>CTV News U.S. Political Analyst Eric Ham on why he believes ‘this trade war is not ending any time soon’ after Trump’s new executive orders.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/tariffs/2026/09/08/saskatchewan-tax-on-american-liquor-kicks-in-for-retailers-amid-trade-standoff/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/09/09/its-no-secret-that-donald-trump-doesnt-like-canada-following-ban-on-certain-canadian-goods-ham/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Raids, shutdowns, warning labels - India’s unprecedented food safety push</title>
-      <link>https://www.bnnbloomberg.ca/business/international/2026/09/08/raids-shutdowns-warning-labels-indias-unprecedented-food-safety-push/</link>
-      <guid isPermaLink="false">4bc7027a35bf0d78ebd68887</guid>
-      <pubDate>Tue, 08 Sep 2026 03:21:00 +0000</pubDate>
-      <description>India is witnessing an unprecedented food safety crackdown, with regulators forcing many local eateries and branded restaurants to suspend operations, while a push for front-of-pack warning labels has ...</description>
+      <title>‘More pain’ for consumers as ‘economic self-harm’ continues: Canadian Chamber of Commerce</title>
+      <link>https://www.bnnbloomberg.ca/video/economics/2026/09/09/more-pain-for-consumers-as-economic-self-harm-continues-canadian-chamber-of-commerce/</link>
+      <guid isPermaLink="false">e54dde2efe9e8c383b2ac674</guid>
+      <pubDate>Wed, 09 Sep 2026 01:32:00 +0000</pubDate>
+      <description>Matthew Holmes of the Canadian Chamber of Commerce on the latest escalations in the U.S. trade war and his hopes for the two sides returning to the table.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/international/2026/09/08/raids-shutdowns-warning-labels-indias-unprecedented-food-safety-push/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/09/09/more-pain-for-consumers-as-economic-self-harm-continues-canadian-chamber-of-commerce/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Canadian businesses forced to pivot away from American-made products in wake of trade war</title>
-      <link>https://www.bnnbloomberg.ca/video/live/2026/09/08/canadian-businesses-forced-to-pivot-away-from-american-made-products-in-wake-of-trade-war/</link>
-      <guid isPermaLink="false">a1f62fd98b60cf62c96b6a37</guid>
-      <pubDate>Tue, 08 Sep 2026 01:32:00 +0000</pubDate>
-      <description>Canadian businesses are bracing for impact now that Canada’s counter-tariffs have kicked in, making American brands more expensive. Andrew Johnson reports.</description>
+      <title>Barclays lifts S&amp;P 500 index’s year-end target to 7,950 on strong earnings</title>
+      <link>https://www.bnnbloomberg.ca/markets/s-p-500/2026/09/09/barclays-lifts-sp-500-indexs-year-end-target-to-7950-on-strong-earnings/</link>
+      <guid isPermaLink="false">841d66af3d1787b67ab54558</guid>
+      <pubDate>Wed, 09 Sep 2026 00:07:00 +0000</pubDate>
+      <description>Barclays raised its year-end target for the benchmark S&amp;P 500 index .SPX to 7,950 from 7,800 on Wednesday, following a standout earnings season led by technology companies.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/live/2026/09/08/canadian-businesses-forced-to-pivot-away-from-american-made-products-in-wake-of-trade-war/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/s-p-500/2026/09/09/barclays-lifts-sp-500-indexs-year-end-target-to-7950-on-strong-earnings/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
