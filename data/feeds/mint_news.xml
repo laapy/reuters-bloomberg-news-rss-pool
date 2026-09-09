@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Mint — diagnostic source feed</title>
     <link>https://www.livemint.com/rss/news</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 09 Sep 2026 18:24:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 21:07:54 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Ukraine Hits Two Gas Condensate Plants in Russia’s Arctic</title>
+      <link>https://www.livemint.com/news/world/ukraine-hits-two-gas-condensate-plants-in-russia-s-arctic-11788983110178.html</link>
+      <guid isPermaLink="false">09bfd631af67df6990b69b74</guid>
+      <pubDate>Wed, 09 Sep 2026 19:45:09 +0000</pubDate>
+      <description>Ukraine said its hit two gas condensate processing plants in Russia’s Arctic zone for the first time, underscoring the expanding reach of Kyiv’s attacks on the nation’s key industry.</description>
+      <dc:creator>list.metadata.agency</dc:creator>
+      <content:encoded>&lt;p&gt;Ukraine said its hit two gas condensate processing plants in Russia’s Arctic zone for the first time, underscoring the expanding reach of Kyiv’s attacks on the nation’s key industry.Unmanned aerial vehicles struck gas condensate processing plants in Purov district and Novyi Urengoy in Russia’s Yamal-Nenets region, Ukraine’s Special Operations Forces said on Telegram. Drones traveled more than 3,000 kilometers to reach the targets, the deepest attack inside Russia, according to the statement.Ukraine’s confirmation of its involvement comes after earlier on Wednesday Russian authorities reported an attack on an unspecified energy facility in the Yamal-Nenets region. As a result of falling debris, a fire broke out at an energy complex in the region, Artem Zhoga, presidential representative to the Urals Federal District, said on Telegram on Wednesday. There were no casualties, he added, citing preliminary data. Zhoga didn’t specify the name of the facility. Earlier, the Governor of Yamal-Nenets region, Dmitry Artyukhov said a fire broke out at one of the industrial sites of Novyi Urengoy, without providing any further details. Yamal-Nenets is one of Russia’s most important natural gas-producing areas, home to major fields operated by Gazprom PJSC and Novatek PJSC. Gazprom owns the Urengoy Condensate Preparation Plant, located some 20 kilometers away from the city of Novyi Urengoy, while Novatek owns the Purovsky plant located in the Purov district.Kyiv has ramped up strikes on Russia’s energy assets from oil refineries to export facilities to disrupt the Kremlin’s ability to finance and sustain its war, which is well into its fifth year. Since late August, Moscow has increased the frequency of its own air assaults on Ukraine and its capital city in particular.Gazprom and Novatek didn’t immediately respond to Bloomberg’s requests for comment. READ: Ukraine Attacks Key Russian Black Sea Port, Naval Base©2026 Bloomberg L.P.This article was generated from an automated news agency feed without modifications to text.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>mint_news</wire:foundAt>
+      <wire:platform>Mint</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.livemint.com/news/world/ukraine-hits-two-gas-condensate-plants-in-russia-s-arctic-11788983110178.html</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: ©2026 Bloomberg</wire:evidence>
+    </item>
   </channel>
 </rss>
