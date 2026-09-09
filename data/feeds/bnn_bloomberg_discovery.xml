@@ -1,61 +1,70 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>BNN Bloomberg — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Abnnbloomberg.ca+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 09 Sep 2026 05:08:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 10:04:02 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>S&amp;P/TSX composite falls nearly 400 points, U.S. stock markets also trade lower</title>
-      <link>https://www.bnnbloomberg.ca/markets/2026/09/08/sptsx-composite-down-more-than-200-points-us-stock-markets-also-trade-lower/</link>
-      <guid isPermaLink="false">03dab4222c96e0fc09256309</guid>
-      <pubDate>Tue, 08 Sep 2026 20:24:56 +0000</pubDate>
-      <description>Canada’s main stock index was down more than 200 points weighed down by weakness in the technology, telecommunications and industrial sectors.</description>
-      <dc:creator>The Canadian Press</dc:creator>
-      <content:encoded>&lt;p&gt;TORONTO — Canada’s main stock index fell nearly 400 points on Tuesday, weighed down by weakness in the technology sector, while U.S. markets also lost ground.      The S&amp;amp;P/TSX composite index was down 390.75 points at 36,123.05. In New York, the Dow Jones industrial average was down 628.18 points at 52,786.07. The S&amp;amp;P 500 index was down 45.08 points at 7,673.52, while the Nasdaq composite was down 85.58 points at 26,421.41.    The Canadian dollar traded for 72.55 cents US compared with 72.25 cents US on Friday.   The October crude oil contract was up US$1.55 at US$93.03 per barrel.   The December gold contract was down US$37.60 at US$4,439.00 an ounce.   --- This report by The Canadian Press was first published Sept. 8, 2026.&lt;/p&gt;</content:encoded>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/2026/09/08/sptsx-composite-down-more-than-200-points-us-stock-markets-also-trade-lower/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>OpenAI says AI solved one of math’s hardest problems in days</title>
-      <link>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/08/openai-says-ai-solved-one-of-maths-hardest-problems-in-days/</link>
-      <guid isPermaLink="false">a672131513514fe8b9ee7aa2</guid>
-      <pubDate>Tue, 08 Sep 2026 20:10:39 +0000</pubDate>
-      <description>OpenAI said Tuesday that one of its unreleased artificial intelligence models had solved a mathematical puzzle that has eluded mathematicians for generations, in a claim which also drew a fight with ...</description>
-      <dc:creator>AFP Staff</dc:creator>
-      <content:encoded>&lt;p&gt;OpenAI said Tuesday that one of its unreleased artificial intelligence models had solved a mathematical puzzle that has eluded mathematicians for generations, in a claim which also drew a fight with rival researchers over credit. Researchers at OpenAI said it took just days -- and millions of dollars in computing power -- to crack what is known as the Navier-Stokes problem. Navier-Stokes is one of the seven Millennium Prize Problems, a list of the hardest open questions in mathematics drawn up by the Clay Mathematics Institute. It concerns the equations describing how fluids such as air and water move, which are used in aircraft design, weather forecasting and the study of blood flow. OpenAI said its work showed that these equations can break down over time, answering the question as set out by the Millennium Prize. “This is a significant milestone for AI research, and its promise for the world is that even more of our hardest questions would become possible to answer,” Mark Chen, OpenAI’s chief research officer, told reporters. Each Millennium Prize Problem carries a US$1 million reward, and only one has been solved since the list was published in 2000. OpenAI says it will not claim money if its finding is confirmed. According to the prize rules, a solution has to be published in a peer-reviewed journal and survive two years after gaining acceptance in the mathematical community before the institute will even convene a committee to consider the work. “The process of evaluation is deliberately unhurried, and we shall ensure that it is absolutely rigorous,” Professor Martin Bridson, President of the Clay Mathematics Institute, told AFP. ChatGPT-style AI is revolutionizing the world of high-level math by quickly solving famous, long-unsolved problems that stumped experts for decades. But it has also sparked debate over whether machine-generated answers truly count as real human understanding. ‘Millions of dollars’ In a blog post describing the breakthrough, OpenAI said it began training a new model in late August, more capable than anything it had released publicly. Days later, seeing online rumours that a competitor had solved Millennium problems, OpenAI turned the system loose on all six that remain open. Work on Navier-Stokes showed unexpected promise, and the company poured its computing power into it. By the final stage, OpenAI researcher Sebastien Bubeck said, 10,000 AI agents -- programs that operate on their own -- were working on the problem at once, passing messages back and forth. Chen said the computing costs ran “emphatically in the millions of dollars,” with Bubeck adding this was roughly 1,000 times what the company spent on earlier mathematical results. According to OpenAI’s account, the agents reached a solution Saturday, about 88 hours after launching the project. The claim arrived hours after Tristan Buckmaster, a mathematician at New York University, and Levent Alpoge, who works at OpenAI competitor Anthropic, released their own AI-assisted work on three related equations. In a statement published alongside his papers, Buckmaster said OpenAI had taken up the problem only after word of his research spread, and pursued the same unusual approach he and Alpoge had spent months developing. OpenAI’s researchers denied having had any access to the rival team’s work and said they proposed sharing credit before realizing that Buckmaster and Alpoge had fallen short of solving the problem. “To be clear, we did not use their prompts or proofs to prompt our models or direct our agents,” Bubeck said. However, in a later post on X, OpenAI said “while unlikely, we cannot rule out that de-identified data derived from their usage of our products helped improve our models.”&lt;/p&gt;</content:encoded>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/08/openai-says-ai-solved-one-of-maths-hardest-problems-in-days/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Meta launches personal AI agent, Muse, emphasizes safety and privacy</title>
-      <link>https://www.bnnbloomberg.ca/business/company-news/2026/09/08/meta-launches-personal-ai-agent-muse-emphasizes-safety-and-privacy/</link>
-      <guid isPermaLink="false">7e3019d4dbdd8b3502321707</guid>
-      <pubDate>Tue, 08 Sep 2026 12:25:00 +0000</pubDate>
-      <description>The parent company of Instagram and Facebook is stressing the safety and privacy features of a new AI agent, which for now is only available in the U.S.</description>
+      <title>Canada to blame for Washington's escalation of trade war, says Trump trade czar</title>
+      <link>https://www.bnnbloomberg.ca/tariffs/2026/09/09/canada-to-blame-for-washingtons-escalation-of-trade-war-says-trump-trade-czar/</link>
+      <guid isPermaLink="false">13aabe917c061e4b979dae2b</guid>
+      <pubDate>Wed, 09 Sep 2026 02:28:00 +0000</pubDate>
+      <description>U.S. Trade Representative Jamieson Greer says Canada is to blame for Washington’s decision to escalate the trade war with its northern neighbour.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/09/08/meta-launches-personal-ai-agent-muse-emphasizes-safety-and-privacy/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/tariffs/2026/09/09/canada-to-blame-for-washingtons-escalation-of-trade-war-says-trump-trade-czar/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Canada Infrastructure Bank closes loan for Nunavut wind project serving gold mine</title>
+      <link>https://www.bnnbloomberg.ca/business/politics/2026/09/09/canada-infrastructure-bank-closes-loan-for-nunavut-wind-project-serving-gold-mine/</link>
+      <guid isPermaLink="false">28f910c087ec72301573ce32</guid>
+      <pubDate>Wed, 09 Sep 2026 02:07:00 +0000</pubDate>
+      <description>The Canada Infrastructure Bank has closed a $20-million loan for an Inuit-led wind project serving a gold mine in Nunavut.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/politics/2026/09/09/canada-infrastructure-bank-closes-loan-for-nunavut-wind-project-serving-gold-mine/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Building Imnaryuaq: Canada’s biggest icebreaker begins to take shape</title>
+      <link>https://www.bnnbloomberg.ca/business/2026/09/09/building-imnaryuaq-canadas-biggest-icebreaker-begins-to-take-shape/</link>
+      <guid isPermaLink="false">e6904ca7e938881071721e10</guid>
+      <pubDate>Wed, 09 Sep 2026 02:00:00 +0000</pubDate>
+      <description>From new military investments to Arctic security and sovereignty, Canada is pouring billions into asserting its presence in the North. In the first instalment of a CTV News series, we go inside the ...</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/2026/09/09/building-imnaryuaq-canadas-biggest-icebreaker-begins-to-take-shape/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Burton Snowboards tabs Denny Bruce, who once was a regional brand manager, to be its CEO</title>
+      <link>https://www.bnnbloomberg.ca/business/company-news/2026/09/08/burton-snowboards-tabs-denny-bruce-who-once-was-a-regional-brand-manager-to-be-its-ceo/</link>
+      <guid isPermaLink="false">352440c5d57057f747fe8586</guid>
+      <pubDate>Tue, 08 Sep 2026 13:18:00 +0000</pubDate>
+      <description>Burton Snowboards tapped into its past, naming one-time regional brand manager Denny Bruce to take over as CEO, taking over for Donna Carpenter.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/09/08/burton-snowboards-tabs-denny-bruce-who-once-was-a-regional-brand-manager-to-be-its-ceo/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -64,47 +73,28 @@
       <guid isPermaLink="false">dfef3d7944967801a09b96a3</guid>
       <pubDate>Tue, 08 Sep 2026 10:12:00 +0000</pubDate>
       <description>Our base case for the past seven months is that Iran has realized that control of the Strait of Hormuz, once the outlet for approximately 20 million barrels per day (MM Bbl/d) of oil and refined ...</description>
-      <content:encoded>&lt;p&gt;Eric Nuttall, Partner &amp;amp; Sr Portfolio Manager, Ninepoint Partners
-Focus: Energy stocks&lt;/p&gt;&lt;p&gt;Top Picks: Cenovus , Strathcona , Suncor
-MARKET OUTLOOK:
-Our base case for the past seven months is that Iran has realized that control of the Strait of Hormuz, once the outlet for approximately 20 million barrels per day (MM Bbl/d) of oil and refined products, gives them more strategic power and influence than possession of a nuclear weapon.
-The Islamic Revolutionary Guard Corps (IRGC) has no electoral cycle, and with a deeply unpopular war, an unpopular President, and with 56 days until the U.S. mid-term election, the pressure is mounting on U.S. President Trump day by day by day, as diesel is now trading at a record high of approximately US$250 per barrel (bbl), the average U.S. gasoline price is over US$4 per gallon, and the inflationary impact is being felt in interest rates with the U.S. 10-year now at 4.8 per cent making any interest rate cut challenging. No one knows how this conflict will end, and for now global inventories continue to draw, emergency stockpiles like the U.S. Strategic Petroleum Reserve (SPR) sit at their lowest level since 1983, and refineries continue to get hit, whether in Saudi Arabia or Russia, putting even more pressure on refined product prices like diesel and jet fuel. We remain in very dangerous territory.
-For energy investors, we continue to advise on investing in “the day after”: what do things look like when the situation eventually ends? We see a higher price floor of at least US$70 West Texas Intermediate (WTI), the need to restock depleted inventories (approximately 450,000Bbl/d of new demand for the next three plus years), and a likely shift in the axis of power from the Middle East to North America with a renewed focus on “security of supply.” Canada has what the world wants and needs, Canadian energy stocks have continued to outperform globally, and “we remain bullish” on the outlook even after a very strong year so far.
-Market-moving news, fast:  Get the BNN Bloomberg App now
-Sign up for the Market Call Top Picks newsletter at  bnnbloomberg.ca/newsletters
-TOP PICKS:
-Eric Nuttall’s Top Picks: Cenovus, Strathcona &amp;amp; Suncor Eric Nuttall, partner and senior portfolio manager for Ninepoint Partners, shares his top stock picks to watch in the market.&lt;/p&gt;&lt;p&gt;Cenovus (CVE TSX)
-The tightest part of the oil market is not crude oil but refined products, and Cenovus gives you excellent refining exposure with over 450,000Bbl/d of refining capacity along with now approximately one million barrels of oil equivalent per day (MM boe/d) of upstream production. The great thing is that even after a strong year so far with the stock up 93 per cent we think the stock is only discounting approximately $55WTI so in a “day after” scenario where oil falls to a floor of approximately $70 WTI we still see meaningful upside of approximately 33 per cent to $59 per share and if we are being too conservative and oil averages $80WTI we see 50 per cent upside to $66 per share.
-Strathcona (SCR TSX)
-Strathcona has what everyone wants: deep asset base with 50+ years of stay flat inventory, adequate and growing export egress with the new one MM Bbl/d West Coast pipeline and 550,000 Bbl/d, Bridger and Prairie connector pipeline online in the next eght and four years, attractive production growth of approximately 10 per cent per year, incremental free cashflow equivalent to a five to 10 per cent special dividend at $70 and $80 WTI, and meaningful leverage to an oil price above our $70 WTI floor price for 2027. We think the stock should trade at eight times enterprise value to free cash flow (EV/CF), equal 28 to 68 per cent potential upside at $70 WTI to $80 WTI.
-Suncor (SU TSX)
-Suncor is trading at a Canadian midcap or U.S. large cap multiple despite superior fundamentals. They have a very deep resource base, are the least exposed large cap to a widening WCS differential, excellent refining exposure, 100 per cent return of capital of free cashflow able to buy back 23 to 33 per cent of their shares outstanding over the next five years at $70 to $80 WTI. We think the stock should trade at eight times equal 31 per cent upside to $122 per share at $70 WTI and 49 per cent upside to $139 per share at $80 WTI.
-DISCLOSURE PERSONAL FAMILY PORTFOLIO/FUND CVE TSX Y Y Y SCR TSX Y N Y SU TSX N N Y PAST PICKS: NOV. 17, 2025
-Eric Nuttall’s Top Picks: Cenovus, Strathcona &amp;amp; Suncor Eric Nuttall, partner and senior portfolio manager for Ninepoint Partners, shares his top stock picks to watch in the market.&lt;/p&gt;&lt;p&gt;Whitecap Resources (WCP TSX)
-Then: $11.12
-Now: $18.35
-Return: 65%
-Total Return: 71%
-Expand Energy (EXE NASDAQ)
-Then: US$116.98
-Now: US$97.04
-Return: -17%
-Total Return: -16%
-Antero Resources (AR NYSE)
-Then: US$33.64
-Now: US$39.39
-Return: 17%
-Total Return: 17%
-Total Return Average: 24%
-DISCLOSURE PERSONAL FAMILY PORTFOLIO/FUND WCP TSX Y N Y EXE NASD N N N AR NYSE N N N&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/2026/09/08/eric-nuttalls-top-picks-for-sept-8-2026/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>S&amp;P/TSX composite falls nearly 400 points, U.S. stock markets also trade lower</title>
+      <link>https://www.bnnbloomberg.ca/markets/2026/09/08/sptsx-composite-down-more-than-200-points-us-stock-markets-also-trade-lower/</link>
+      <guid isPermaLink="false">03dab4222c96e0fc09256309</guid>
+      <pubDate>Tue, 08 Sep 2026 08:41:00 +0000</pubDate>
+      <description>Canada’s main stock index was down more than 200 points weighed down by weakness in the technology, telecommunications and industrial sectors.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/2026/09/08/sptsx-composite-down-more-than-200-points-us-stock-markets-also-trade-lower/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -138,6 +128,21 @@ DISCLOSURE PERSONAL FAMILY PORTFOLIO/FUND WCP TSX Y N Y EXE NASD N N N AR NYSE N
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
+      <title>Will Americans retaliate or open up talks again following Canada's counter tariffs?</title>
+      <link>https://www.bnnbloomberg.ca/video/shows/the-open/2026/09/08/will-americans-retaliate-or-open-up-talks-again-following-canadas-counter-tariffs/</link>
+      <guid isPermaLink="false">51e7687af881f90b2ba6ba33</guid>
+      <pubDate>Tue, 08 Sep 2026 04:40:00 +0000</pubDate>
+      <description>Drew Fagan, professor at Munk School of Global Affairs &amp; Public Policy at the University of Toronto, joins BNN Bloomberg to discuss the counter tariffs.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/the-open/2026/09/08/will-americans-retaliate-or-open-up-talks-again-following-canadas-counter-tariffs/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
       <title>Saskatchewan tax on American liquor kicks in for retailers amid trade standoff</title>
       <link>https://www.bnnbloomberg.ca/tariffs/2026/09/08/saskatchewan-tax-on-american-liquor-kicks-in-for-retailers-amid-trade-standoff/</link>
       <guid isPermaLink="false">219f8e1e8f39556c98f349fa</guid>
@@ -168,66 +173,18 @@ DISCLOSURE PERSONAL FAMILY PORTFOLIO/FUND WCP TSX Y N Y EXE NASD N N N AR NYSE N
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Tamarack, Headwater forge Canada’s Clearwater oil leader with US$7.25 billion merger</title>
-      <link>https://www.bnnbloomberg.ca/business/company-news/2026/09/08/tamarack-valley-headwater-exploration-agree-10-billion-all-stock-merger/</link>
-      <guid isPermaLink="false">c07d53990ea433dd77c18ac1</guid>
-      <pubDate>Tue, 08 Sep 2026 02:57:00 +0000</pubDate>
-      <description>Tamarack Valley and Headwater Exploration will merge in an all-stock deal valued at $10 billion, the companies said on Tuesday, creating the largest publicly traded producer focused on Alberta’s ...</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/09/08/tamarack-valley-headwater-exploration-agree-10-billion-all-stock-merger/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
       <title>Canadian businesses forced to pivot away from American-made products in wake of trade war</title>
       <link>https://www.bnnbloomberg.ca/video/live/2026/09/08/canadian-businesses-forced-to-pivot-away-from-american-made-products-in-wake-of-trade-war/</link>
       <guid isPermaLink="false">a1f62fd98b60cf62c96b6a37</guid>
       <pubDate>Tue, 08 Sep 2026 01:32:00 +0000</pubDate>
       <description>Canadian businesses are bracing for impact now that Canada’s counter-tariffs have kicked in, making American brands more expensive. Andrew Johnson reports.</description>
-      <content:encoded>&lt;p&gt;Opens in new window
-‘We’re not talking about Iran, we’re talking about a trade war’: analyst on Trump’s aims Opens in new window 06:42 · September 08, 2026 at 9:28p.m. EDT&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/live/2026/09/08/canadian-businesses-forced-to-pivot-away-from-american-made-products-in-wake-of-trade-war/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Canadian tariffs hit key battleground states ahead of U.S. midterm elections</title>
-      <link>https://www.bnnbloomberg.ca/video/economics/2026/09/08/canadian-tariffs-hit-key-battleground-states-ahead-of-us-midterm-elections/</link>
-      <guid isPermaLink="false">e468b40d2e894c754747d868</guid>
-      <pubDate>Tue, 08 Sep 2026 01:32:00 +0000</pubDate>
-      <description>Joy Malbon reports on how the Canada-U.S. trade war could impact the upcoming U.S. midterm elections as new counter-tariffs come into effect.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/09/08/canadian-tariffs-hit-key-battleground-states-ahead-of-us-midterm-elections/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>How costly could the Canada-U.S. trade war get for Canadians?</title>
-      <link>https://www.bnnbloomberg.ca/video/economics/2026/09/08/how-costly-could-the-canada-us-trade-war-get-for-canadians/</link>
-      <guid isPermaLink="false">945c26e92950a404f4da6599</guid>
-      <pubDate>Tue, 08 Sep 2026 01:32:00 +0000</pubDate>
-      <description>Amanda Lang breaks down U.S. President Donald Trump’s latest move to ban Canadian products from U.S. government contracts and what it all means for Canadians.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/09/08/how-costly-could-the-canada-us-trade-war-get-for-canadians/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
