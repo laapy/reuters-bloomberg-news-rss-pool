@@ -1,46 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>BNN Bloomberg — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Abnnbloomberg.ca+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 08 Sep 2026 22:29:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 00:30:41 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Burton Snowboards tabs Denny Bruce, who once was a regional brand manager, to be its CEO</title>
       <link>https://www.bnnbloomberg.ca/business/company-news/2026/09/08/burton-snowboards-tabs-denny-bruce-who-once-was-a-regional-brand-manager-to-be-its-ceo/</link>
       <guid isPermaLink="false">352440c5d57057f747fe8586</guid>
-      <pubDate>Tue, 08 Sep 2026 20:20:05 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 13:18:00 +0000</pubDate>
       <description>Burton Snowboards tapped into its past, naming one-time regional brand manager Denny Bruce to take over as CEO, taking over for Donna Carpenter.</description>
-      <dc:creator>The Associated Press</dc:creator>
-      <content:encoded>&lt;p&gt;BURLINGTON, Vt. — Burton Snowboards tapped into its past Tuesday, naming one-time regional brand manager Denny Bruce to take over as CEO as the company approaches its 50th anniversary. Bruce worked as the snowboard maker’s Mid-Atlantic Brand Manager from 2003-05 before moving onto a career that included leadership roles at Vans, Skullcandy, Traeger and Dickies. He’ll take over for Donna Carpenter, who had been serving on an interim basis. Carpenter’s husband, the late Jake Burton Carpenter, founded the company in 1977, crafting snowboards in a workshop in his barn in Vermont. It has remained privately owned since. “Denny doesn’t need to be taught what Burton means or why snowboarding matters,” Carpenter said.&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/09/08/burton-snowboards-tabs-denny-bruce-who-once-was-a-regional-brand-manager-to-be-its-ceo/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Meta launches personal AI agent, Muse, emphasizes safety and privacy</title>
-      <link>https://www.bnnbloomberg.ca/business/company-news/2026/09/08/meta-launches-personal-ai-agent-muse-emphasizes-safety-and-privacy/</link>
-      <guid isPermaLink="false">7e3019d4dbdd8b3502321707</guid>
-      <pubDate>Tue, 08 Sep 2026 19:25:06 +0000</pubDate>
-      <description>The parent company of Instagram and Facebook is stressing the safety and privacy features of a new AI agent, which for now is only available in the U.S.</description>
-      <dc:creator>The Associated Press</dc:creator>
-      <content:encoded>&lt;p&gt;Meta launched on Tuesday a personal artificial intelligence agent, Muse, for people 18 and over who are looking for help with day-to-day tasks like schedules, shopping and, in the company’s words, turning “long-term goals into action plans.” The parent company of Instagram and Facebook is stressing the safety and privacy features of the agent, which for now is only available in the U.S. Muse, Meta said, runs on a dedicated, secure virtual machine that houses both the agent and the user’s data. People can message the agent in a separate app, called Muse, or message it in WhatsApp. It can handle simple tasks like sending an email or booking travel, or bigger, long-term goals like creating a yearlong exercise plan or setting up a new business. “Once a person shares a goal with Muse, it helps them develop a personalized plan and coordinate their time and resources, then advances the work on its own. It can open a browser, fill out forms, and negotiate on their behalf,” Meta said in a blog post. Tech companies are touting AI agents as the next step after chatbots, which can answer questions and retrieve information but won’t take action on the user’s behalf. At its most basic level, an AI agent works like a traditional, human-crafted computer program that executes a job, like launching an application. Combined with an AI large language model, however, it can search for knowledge that enables it to complete tasks without explicit, step-by-step instructions. That means, instead of just helping you draft the language of an email, it can theoretically handle the whole process — receiving a message from your coworker, figuring out what you might want to say, and firing off the response on its own. For Meta, the agent fits into CEO Mark Zuckerberg’s vision of AI superintelligence that’s available to “everyone.” He outlined his vision last month in a 6,500-word essay published online. In the document derided by critics as fantastical, Zuckerberg said his company is working toward an era where everyone will have the tools to create new businesses, receive Ph.D.-level tutoring and provide personalized lifestyle tips. “Everyone will have an exceptionally capable personal agent that understands you, your goals, and everything you care about. Your agent will work 24/7 on your behalf to improve your relationships, health, career, finances, home management, hobbies, and more,” Zuckerberg wrote. “It will free up time for the things you enjoy, and help you accomplish more than you could otherwise.” The question is, will people actually use it? --- Barbara Ortutay, The Associated Press&lt;/p&gt;</content:encoded>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/09/08/meta-launches-personal-ai-agent-muse-emphasizes-safety-and-privacy/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -56,6 +35,21 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/08/openai-says-ai-solved-one-of-maths-hardest-problems-in-days/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Meta launches personal AI agent, Muse, emphasizes safety and privacy</title>
+      <link>https://www.bnnbloomberg.ca/business/company-news/2026/09/08/meta-launches-personal-ai-agent-muse-emphasizes-safety-and-privacy/</link>
+      <guid isPermaLink="false">7e3019d4dbdd8b3502321707</guid>
+      <pubDate>Tue, 08 Sep 2026 12:25:00 +0000</pubDate>
+      <description>The parent company of Instagram and Facebook is stressing the safety and privacy features of a new AI agent, which for now is only available in the U.S.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/09/08/meta-launches-personal-ai-agent-muse-emphasizes-safety-and-privacy/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -104,9 +98,9 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Enbridge names insider Harradence CEO as Greg Ebel retires</title>
+      <title>Enbridge says CEO Greg Ebel to retire, names insider Harradence to succeed</title>
       <link>https://www.bnnbloomberg.ca/business/company-news/2026/09/08/enbridge-names-insider-harradence-ceo-as-greg-ebel-retires/</link>
-      <guid isPermaLink="false">8e9a1b1494f54116303391d9</guid>
+      <guid isPermaLink="false">ffcc5747e516a95de1a32948</guid>
       <pubDate>Tue, 08 Sep 2026 06:36:00 +0000</pubDate>
       <description>Enbridge said on Tuesday its President and CEO Greg Ebel will retire at the end of 2026, and insider Michele Harradence will succeed him as chief executive effective January 1 next year.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
@@ -116,36 +110,6 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/09/08/enbridge-names-insider-harradence-ceo-as-greg-ebel-retires/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Ban of Bombardier aircrafts would impact travel, tourism and revenue generation of the U.S. economy</title>
-      <link>https://www.bnnbloomberg.ca/video/shows/morning-markets/2026/09/08/ban-of-bombardier-aircrafts-would-impact-travel-tourism-and-revenue-generation-of-the-us-economy/</link>
-      <guid isPermaLink="false">bbc705be165648f9dd33440e</guid>
-      <pubDate>Tue, 08 Sep 2026 04:01:00 +0000</pubDate>
-      <description>Anita Mediratta, global aviation and tourism advisor, joins BNN Bloomberg to discuss how the Bombardier ban would affect the nations.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/morning-markets/2026/09/08/ban-of-bombardier-aircrafts-would-impact-travel-tourism-and-revenue-generation-of-the-us-economy/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Saskatchewan tax on American liquor kicks in for retailers amid trade standoff</title>
-      <link>https://www.bnnbloomberg.ca/tariffs/2026/09/08/saskatchewan-tax-on-american-liquor-kicks-in-for-retailers-amid-trade-standoff/</link>
-      <guid isPermaLink="false">219f8e1e8f39556c98f349fa</guid>
-      <pubDate>Tue, 08 Sep 2026 03:57:00 +0000</pubDate>
-      <description>Saskatchewan’s government is set to slap its retaliatory tax on American booze today amid the ongoing Canada-U.S. trade war.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/tariffs/2026/09/08/saskatchewan-tax-on-american-liquor-kicks-in-for-retailers-amid-trade-standoff/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -179,18 +143,51 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Harsh rhetoric more damaging to U.S.-Canada relationship than tariffs: former U.S. official</title>
-      <link>https://www.bnnbloomberg.ca/video/shows/2026/09/08/harsh-rhetoric-more-damaging-to-us-canada-relationship-than-tariffs-former-us-official/</link>
-      <guid isPermaLink="false">b9c784f86039d57c30825004</guid>
+      <title>Canadian businesses forced to pivot away from American-made products in wake of trade war</title>
+      <link>https://www.bnnbloomberg.ca/video/live/2026/09/08/canadian-businesses-forced-to-pivot-away-from-american-made-products-in-wake-of-trade-war/</link>
+      <guid isPermaLink="false">a1f62fd98b60cf62c96b6a37</guid>
       <pubDate>Tue, 08 Sep 2026 01:32:00 +0000</pubDate>
-      <description>Former White House trade adviser Kelly Ann Shaw says that the harm caused by insults on both sides of the border is greater than the economic harm of tariffs.</description>
+      <description>Canadian businesses are bracing for impact now that Canada’s counter-tariffs have kicked in, making American brands more expensive. Andrew Johnson reports.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/2026/09/08/harsh-rhetoric-more-damaging-to-us-canada-relationship-than-tariffs-former-us-official/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/live/2026/09/08/canadian-businesses-forced-to-pivot-away-from-american-made-products-in-wake-of-trade-war/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Canadian tariffs hit key battleground states ahead of U.S. midterm elections</title>
+      <link>https://www.bnnbloomberg.ca/video/economics/2026/09/08/canadian-tariffs-hit-key-battleground-states-ahead-of-us-midterm-elections/</link>
+      <guid isPermaLink="false">e468b40d2e894c754747d868</guid>
+      <pubDate>Tue, 08 Sep 2026 01:32:00 +0000</pubDate>
+      <description>Joy Malbon reports on how the Canada-U.S. trade war could impact the upcoming U.S. midterm elections as new counter-tariffs come into effect.</description>
+      <content:encoded>&lt;p&gt;Opens in new window
+Canadian businesses forced to pivot away from American-made products in wake of trade war Opens in new window 02:07 · September 08, 2026 at 5:48p.m. EDT&lt;/p&gt;</content:encoded>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/09/08/canadian-tariffs-hit-key-battleground-states-ahead-of-us-midterm-elections/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>How costly could the Canada-U.S. trade war get for Canadians?</title>
+      <link>https://www.bnnbloomberg.ca/video/economics/2026/09/08/how-costly-could-the-canada-us-trade-war-get-for-canadians/</link>
+      <guid isPermaLink="false">945c26e92950a404f4da6599</guid>
+      <pubDate>Tue, 08 Sep 2026 01:32:00 +0000</pubDate>
+      <description>Amanda Lang breaks down U.S. President Donald Trump’s latest move to ban Canadian products from U.S. government contracts and what it all means for Canadians.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/09/08/how-costly-could-the-canada-us-trade-war-get-for-canadians/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
