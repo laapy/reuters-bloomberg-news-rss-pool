@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Amsn.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 10 Sep 2026 11:45:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 16:02:54 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>1 BRL = 0.1965 USD - MSN</title>
@@ -110,6 +110,21 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMifkFVX3lxTE9aU0s3QTR1bzNXYW5QR0ZpQnV1U3l4WFBEQk05ZVFBSFlYV015U2c0TjYydm1aLWhsSHNrZ0RaV0d6ak4tMXAzQ2p6SlRpZWdlaEhZd2oyR2lud1lCRTBMZGZ5U2NsVzRnd2MyRWZ6VHJoT0gyUE9ROVVoQ3Uzdw?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>1 NZD = 0.4324 GBP - MSN</title>
+      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxPaF9sNDZvaDZvRko5b1k2amlreS0yNk8tckllRG50V2FkbkQta1A5NThqOTRUX01kOU1RcFdRcE0yVVU0aUVNVy11aW9lT3Nia3RwSXhscUZqak5aVEtmVlVJMnNmYnB2bVlvOVBOOFUzaTcwdnpuUnBuN3BRb1Q4LUh0aFFoNW5VdHNHWjVsQS0?oc=5</link>
+      <guid isPermaLink="false">9e4474af447c9dfea9eeaadd</guid>
+      <pubDate>Tue, 08 Sep 2026 04:27:41 +0000</pubDate>
+      <description>1 NZD = 0.4324 GBP    MSN</description>
+      <wire:foundAt>msn_discovery</wire:foundAt>
+      <wire:platform>MSN</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMikAFBVV95cUxPaF9sNDZvaDZvRko5b1k2amlreS0yNk8tckllRG50V2FkbkQta1A5NThqOTRUX01kOU1RcFdRcE0yVVU0aUVNVy11aW9lT3Nia3RwSXhscUZqak5aVEtmVlVJMnNmYnB2bVlvOVBOOFUzaTcwdnpuUnBuN3BRb1Q4LUh0aFFoNW5VdHNHWjVsQS0?oc=5</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -290,21 +305,6 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://news.google.com/rss/articles/CBMickFVX3lxTFBmNTdfamIwTmdNWkZYdGhMTXhlY1lFLTBoeWZUZzl4SmpQX0tUaWRvS3dJcmVKVEpTdUQ0WjdoYktXWW1RX1FvVHhDaHB6bHJSWGRod09xMXpISzE3NHExNW00T3lUa2tjWW40X21hNkR5dw?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Thomson Reuters Corp (TRI) - MSN</title>
-      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE5qR3h2VlFIbWtHaDJocEk5Z2lRY3JYMDlPRHI0WHpQWHlnXzFDY1ptQVJPdThuN2VSSkF5UEtET25Wb19PT0FnNnZtTklSQ0E1aWpvX1VuZ2VpVmRpZFUyckY4cXBnZ2ZjVmszamNvYmRJbzdEb0E?oc=5</link>
-      <guid isPermaLink="false">ba9a0dcc485df201bb372d51</guid>
-      <pubDate>Fri, 04 Oct 2024 06:14:43 +0000</pubDate>
-      <description>Thomson Reuters Corp (TRI)    MSN</description>
-      <wire:foundAt>msn_discovery</wire:foundAt>
-      <wire:platform>MSN</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidkFVX3lxTE5qR3h2VlFIbWtHaDJocEk5Z2lRY3JYMDlPRHI0WHpQWHlnXzFDY1ptQVJPdThuN2VSSkF5UEtET25Wb19PT0FnNnZtTklSQ0E1aWpvX1VuZ2VpVmRpZFUyckY4cXBnZ2ZjVmszamNvYmRJbzdEb0E?oc=5</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
