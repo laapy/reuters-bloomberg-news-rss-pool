@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Mint — diagnostic source feed</title>
     <link>https://www.livemint.com/rss/news</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 10 Sep 2026 21:48:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 23:51:19 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Jimmy Kimmel moves James Talarico interview to YouTube, says FCC pressure kept it off ABC television</title>
+      <link>https://www.livemint.com/news/us-news/jimmy-kimmel-moves-james-talarico-interview-to-youtube-says-fcc-pressure-kept-it-off-abc-television-11789076663977.html</link>
+      <guid isPermaLink="false">83632ecc58d69ab20c77ec76</guid>
+      <pubDate>Thu, 10 Sep 2026 21:53:55 +0000</pubDate>
+      <description>Jimmy Kimmel said his interview with Texas Democratic Senate candidate James Talarico will not air on ABC and will instead be released on YouTube. The late night show host accused Trump-led FCC of pressuring the network over its handling of political candidates.</description>
+      <dc:creator>Trisha Bhattacharya</dc:creator>
+      <content:encoded>&lt;p&gt;Jimmy Kimmel has said an interview with Texas Democratic Senate candidate James Talarico will not air on ABC. Kimmel accused the Federal Communications Commission of pressuring the network and its affiliates over the booking.Why was the interview not aired?The interview, which was not aired on television, will be released on YouTube.Kimmel announced the decision during Wednesday night&amp;#x27;s episode of Jimmy Kimmel Live!, saying the programme had faced threats from the FCC over its decision to interview Talarico, a Democrat running for the US Senate in Texas.“Now that he is president, his FCC threatened me, threatened our show, threatened our network ABC, our affiliates, our local stations, based on simple traditional editorial decisions — guest bookings it would seem they don&amp;#x27;t like,” Kimmel said, referring to President Donald Trump.The dispute centres on the FCC&amp;#x27;s equal-time rules which generally require broadcast stations to provide comparable opportunities to legally qualified candidates competing for the same office.For decades, daytime and late-night talk shows had generally been treated as “bona-fide” news programmes and were exempt from the requirement of interviewing political candidates. But the Republican-led FCC changed that position in January, meaning talk shows could potentially face equal-time obligations when featuring candidates.Kimmel argued that political candidates had long appeared on late-night television without creating such problems. He pointed to previous interviews on his programme, including appearances by Trump when he was a candidate.The host said the changed approach had now put pressure on ABC and its local affiliates, particularly as Talarico campaigns in one of the country&amp;#x27;s closely watched senate races.ABC declined to comment to the decision, according to Reuters.A second Talarico interview moved onlineThe Kimmel episode is not the first time Talarico has found himself at the centre of a dispute involving a late-night programme and the FCC.Earlier this year, an interview with Talarico on The Late Show with Stephen Colbert was also moved away from television amid concerns about the equal-time rule. The interview was subsequently made available online, rather than airing through the programme&amp;#x27;s traditional broadcast.That history made Kimmel&amp;#x27;s announcement particularly notable. What might once have been an ordinary late-night guest appearance has now become part of a wider argument over whether broadcast regulation is beginning to the influence editorial decision at American television networks.Talarico is running in Texas, where he is seeking to win a Senate race that could have implications for control of the chamber after the November election. He is set to face the Republican candidate emerging from the contest involving Texas Attorney General Ken Paxton.FCC faces criticism over political pressure claimsKimmel&amp;#x27;s comments come amid growing tension between broadcasters and the FCC under the Trump administration.Democratic FCC Commissioner Anna Gomez criticised the agency&amp;#x27;s approach following the latest dispute, describing concerns over political interference in broadcasters&amp;#x27; editorial decisions. ABC has also been engaged in a broader legal fight with the FCC over regulatory actions involving the network and its affiliates.The White House has not been shown to have directly ordered ABC to pull the Talarico interview. Kimmel&amp;#x27;s accusation is that regulatory pressure created an environment in which the network and its affiliates were unwilling to risk airing it. For viewers the practical outcome is - the interview has not disappeared but it will not be seen on ABC&amp;#x27;s broadcast network. Instead, it will be released online.For Kimmel, however, the decision represents something much larger. His argument is that a routine choice over whom to invite onto a late-night programme is no longer being treated as a purely editorial decision — and that the consequences of that shift are now playing out on American television.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>mint_news</wire:foundAt>
+      <wire:platform>Mint</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.livemint.com/news/us-news/jimmy-kimmel-moves-james-talarico-interview-to-youtube-says-fcc-pressure-kept-it-off-abc-television-11789076663977.html</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: according to Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>
