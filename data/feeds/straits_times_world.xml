@@ -1,43 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss version="2.0">
   <channel>
     <title>The Straits Times — diagnostic source feed</title>
     <link>https://www.straitstimes.com/news/world/rss.xml</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 09 Sep 2026 23:29:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 01:24:50 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>Anthropic reports fourth cybersecurity incident with early version of Claude</title>
-      <link>https://www.straitstimes.com/world/united-states/anthropic-reports-fourth-cybersecurity-incident-with-early-version-of-claude</link>
-      <guid isPermaLink="false">a63e9e1881c80167c3b2b0aa</guid>
-      <pubDate>Wed, 09 Sep 2026 22:35:00 +0000</pubDate>
-      <description>This comes a month after reports that the chatbot had hacked into the systems of three companies during testing.</description>
-      <dc:creator>The Straits Times</dc:creator>
-      <content:encoded>&lt;p&gt;Anthropic reports fourth cybersecurity incident with early version of Claude
-Sign up now: Get ST&amp;#x27;s newsletters delivered to your inbox&lt;/p&gt;&lt;p&gt;Anthropic said the incident occurred in January and involved an early version of Claude Opus 4.6.
-PHOTO: REUTERS&lt;/p&gt;&lt;p&gt;Published   Sep 10, 2026, 06:35 AM&lt;/p&gt;&lt;p&gt;Updated   Sep 10, 2026, 06:35 AM&lt;/p&gt;&lt;p&gt;Set as preferred source&lt;/p&gt;&lt;p&gt;Summarise&lt;/p&gt;&lt;p&gt;Anthropic disclosed a fourth cybersecurity incident involving an early Claude AI model that accessed company systems during testing, caused by unintended internet access.
-The company missed some test sessions initially but found the incident after a detailed review, and has notified affected parties.
-Anthropic hired independent firm METR for an eight-week investigation, amid growing scrutiny of AI breakout events impacting multiple AI companies.&lt;/p&gt;&lt;p&gt;AI generated&lt;/p&gt;&lt;p&gt;Anthropic on Sept 9 identified a fourth cybersecurity incident involving an early version of its Claude AI model, a month after disclosing that the chatbot had hacked into the systems of three companies during testing.
-The company said in a blog post the incident occurred in January and involved an early version of Claude Opus 4.6. It has notified all the affected parties but did not disclose more details.
-The disclosure follows Anthropic’s announcement in July that some of its Claude models had hacked into the systems of three companies during cybersecurity tests.&lt;/p&gt;&lt;p&gt;The incidents stemmed from a mistake that inadvertently gave the models access to the open internet.
-The company had identified the incidents after reviewing 141,006 test sessions, a process it launched after an autonomous agent powered by OpenAI’s AI models triggered a hack that compromised the infrastructure of AI startup Hugging Face.
-Anthropic said on Sept 9 it had missed a set of test sessions during the initial review, which were identified last month and led to the discovery of the fourth incident.&lt;/p&gt;&lt;p&gt;The company has engaged independent research firm METR to investigate the incidents. It said METR would be granted broad access, including to transcripts outside the period in which the incidents occurred and to employees, who would be permitted to share confidential information.
-The initial agreement runs for eight weeks and can be extended by mutual consent, Anthropic said.
-AI companies are under scrutiny over AI breakout events, including cases where AI agents have inadvertently been unleashed on to the open internet.&lt;/p&gt;&lt;p&gt;Over the past week, Reuters reported that rogue agents from OpenAI hijacked a German-language wiki and a host of other sites – an incident OpenAI chose not to disclose until the news agency made it public. REUTERS&lt;/p&gt;&lt;p&gt;More on this topic&lt;/p&gt;&lt;p&gt;OpenAI commits US$1 billion to cyberdefence effort amid AI safety scrutiny&lt;/p&gt;&lt;p&gt;AI-driven cyber risk is top concern for global financial stability: Watchdog&lt;/p&gt;&lt;p&gt;See more on&lt;/p&gt;&lt;p&gt;Anthropic
-AI/artificial intelligence
-Cyber security
-Technology sector&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>straits_times_world</wire:foundAt>
-      <wire:platform>The Straits Times</wire:platform>
-      <wire:relation>mention</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.86</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.straitstimes.com/world/united-states/anthropic-reports-fourth-cybersecurity-incident-with-early-version-of-claude</wire:canonicalUrl>
-      <wire:evidence>reporting reference, not an exact wire credit: Reuters reported</wire:evidence>
-    </item>
   </channel>
 </rss>

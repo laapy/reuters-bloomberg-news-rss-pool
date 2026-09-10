@@ -1,40 +1,43 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>BNN Bloomberg — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Abnnbloomberg.ca+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 09 Sep 2026 23:29:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 01:24:50 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>CMiC Expands NEXUS with New AI Capabilities Across Job Costing, Project Operations</title>
-      <link>https://www.bnnbloomberg.ca/press-releases/2026/09/09/cmic-expands-nexus-with-new-ai-capabilities-across-job-costing-project-operations/</link>
-      <guid isPermaLink="false">1d7ad1d40cf2edcc071809bc</guid>
-      <pubDate>Wed, 09 Sep 2026 12:28:00 +0000</pubDate>
-      <description>CMiC, a leading provider of enterprise software for the construction industry, today announced significant upgrades to NEXUS, its AI-powered construction ERP platform. Building on its existing ...</description>
+      <title>Carney government scales back federal reviews for major energy projects</title>
+      <link>https://www.bnnbloomberg.ca/business/politics/2026/09/09/carney-government-scales-back-federal-reviews-for-major-energy-projects/</link>
+      <guid isPermaLink="false">fe323826ea49ea5affce3a18</guid>
+      <pubDate>Wed, 09 Sep 2026 23:44:43 +0000</pubDate>
+      <description>Mark Carney’s government is scaling back a major Trudeau-era environmental review process, a move environmental groups say will weaken oversight of some of Canada’s largest industrial projects.</description>
+      <dc:creator>Graham Richardson</dc:creator>
+      <content:encoded>&lt;p&gt;OTTAWA – Prime Minister Mark Carney’s government is scaling back a major Trudeau-era environmental review process, a move environmental groups say will weaken oversight of some of Canada’s largest industrial projects. The change, published Wednesday in the Canada Gazette, removes several energy projects from the federal impact assessment regime and shifts responsibility for their review to the Canada Energy Regulator (CER). The federal government said the change will “simplify the project decision process” by relying on a single federal regulator. Environmental groups quickly condemned the move. “The government has wiped its hands of doing a fulsome environmental review of the most polluting projects like oil pipelines and gas plants, at a time of unprecedented climate disaster,” said Julia Levin of Environmental Defence. Levin said the Carney government was “turning its back on the requirement to conduct real reviews” of major projects. Since the federal election in 2025, the government has argued that major projects need to be approved more quickly and with less regulatory duplication. Ottawa has promoted a “one project, one review” approach, saying it will streamline approvals by consolidating federal decision-making and making the CER the lead reviewer for many pipeline and energy projects. The regulatory filing also highlights support from the energy industry. “Industry stakeholders expressed strong support for the proposal to have all pipeline projects reviewed exclusively by the CER. Industry actors view this as a key step toward improving regulatory certainty, reducing duplication, and streamlining approvals,” the federal government said in its regulatory impact analysis. The move comes just as Carney gets set to lead the Canada Investment Summit in Toronto next week. It is the federal government’s attempt to attract major infrastructure investments in Canada with a goal of $1 trillion in new investment over the next five years.&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/press-releases/2026/09/09/cmic-expands-nexus-with-new-ai-capabilities-across-job-costing-project-operations/</wire:canonicalUrl>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/politics/2026/09/09/carney-government-scales-back-federal-reviews-for-major-energy-projects/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Growth Through Acquisition: Club M&amp;A Opens Registration for Fall 2026 Cohort</title>
-      <link>https://www.bnnbloomberg.ca/press-releases/2026/09/09/growth-through-acquisition-club-ma-opens-registration-for-fall-2026-cohort/</link>
-      <guid isPermaLink="false">73b8b67b054463f52a8b4bce</guid>
-      <pubDate>Wed, 09 Sep 2026 12:23:00 +0000</pubDate>
-      <description>Club M&amp;A Canada announced registration for the Fall 2026 cohort of its Growth Through Acquisition program, designed for established business leaders seeking to structure and execute acquisitions more ...</description>
+      <title>Canadian pump prices creep higher as Mideast fighting escalates</title>
+      <link>https://www.bnnbloomberg.ca/markets/oil/2026/09/09/canadian-pump-prices-creep-higher-as-mideast-fighting-escalates/</link>
+      <guid isPermaLink="false">1fe25bd00ce238730d54dfb4</guid>
+      <pubDate>Wed, 09 Sep 2026 10:47:00 +0000</pubDate>
+      <description>Fuel prices tend to ease off around this time of year, but one industry expert says drivers should expect no such relief this time.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/press-releases/2026/09/09/growth-through-acquisition-club-ma-opens-registration-for-fall-2026-cohort/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/oil/2026/09/09/canadian-pump-prices-creep-higher-as-mideast-fighting-escalates/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -53,20 +56,77 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>AC/DC concert in Toronto in jeopardy as Rogers Stadium remains damaged from a severe storm</title>
-      <link>https://www.bnnbloomberg.ca/video/live/2026/09/09/acdc-concert-in-toronto-in-jeopardy-as-rogers-stadium-remains-damaged-from-a-severe-storm/</link>
-      <guid isPermaLink="false">aceb5932f6be9205aec3557a</guid>
-      <pubDate>Wed, 09 Sep 2026 06:20:00 +0000</pubDate>
-      <description>Top-billed performances like AC/DC are now in limbo as Rogers Stadium continues to assess the damage caused by last week’s storm. Jon Woodward reports.</description>
-      <content:encoded>&lt;p&gt;Opens in new window
-&amp;#x27;The government needs to deliver on its core promise&amp;#x27;: Analyst on Champagne&amp;#x27;s trade war comments Opens in new window 09:20 · September 09, 2026 at 5:58p.m. EDT&lt;/p&gt;</content:encoded>
+      <title>Average asking rents fall 4.8% in August as trade war adds fresh uncertainty: report</title>
+      <link>https://www.bnnbloomberg.ca/business/real-estate/2026/09/09/average-asking-rents-fall-48-in-august-as-trade-war-adds-fresh-uncertainty-report/</link>
+      <guid isPermaLink="false">e4b9a031f8d32cd151d94b4a</guid>
+      <pubDate>Wed, 09 Sep 2026 08:15:00 +0000</pubDate>
+      <description>The average asking price for a rental unit in August was $2,035, down 4.8 per cent compared with a year ago. A monthly report from Rentals.ca and Urbanation says that marks the steepest year-over-year ...</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/real-estate/2026/09/09/average-asking-rents-fall-48-in-august-as-trade-war-adds-fresh-uncertainty-report/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Tariff price hikes may take time to hit shelves as retailers work through inventory</title>
+      <link>https://www.bnnbloomberg.ca/tariffs/2026/09/09/tariff-price-hikes-may-take-time-to-hit-shelves-as-retailers-work-through-inventory/</link>
+      <guid isPermaLink="false">2a90523985ffdac57c54c378</guid>
+      <pubDate>Wed, 09 Sep 2026 07:15:00 +0000</pubDate>
+      <description>Canada’s counter-tariffs on U.S. goods have retaliatory measures, but retail experts say there will be a lag before shoppers see price increases in stores ...</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/tariffs/2026/09/09/tariff-price-hikes-may-take-time-to-hit-shelves-as-retailers-work-through-inventory/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>BMO eliminates trading fees to compete with discount brokerages</title>
+      <link>https://www.bnnbloomberg.ca/investing/etfs/2026/09/09/bmo-investorline-to-offer-commission-free-stock-and-etf-trading/</link>
+      <guid isPermaLink="false">4071fa5efe87ee079b86a702</guid>
+      <pubDate>Wed, 09 Sep 2026 06:51:00 +0000</pubDate>
+      <description>BMO InvestorLine is offering commission-free trading on all stocks and exchange-traded funds in a bid to grow its digital self-directed investing platform.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/investing/etfs/2026/09/09/bmo-investorline-to-offer-commission-free-stock-and-etf-trading/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Ottawa making big changes to major Trudeau-era environmental legislation</title>
+      <link>https://www.bnnbloomberg.ca/video/investing/2026/09/09/ottawa-making-big-changes-to-major-trudeau-era-environmental-legislation/</link>
+      <guid isPermaLink="false">ca816ec28cf4284881b0f38c</guid>
+      <pubDate>Wed, 09 Sep 2026 06:20:00 +0000</pubDate>
+      <description>Graham Richardson breaks down the changes the Carney government is making to the Impact Assessment Act and talks about how climate advocates are reacting.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/09/09/ottawa-making-big-changes-to-major-trudeau-era-environmental-legislation/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>AC/DC concert in Toronto in jeopardy as Rogers Stadium remains damaged from a severe storm</title>
+      <link>https://www.bnnbloomberg.ca/video/live/2026/09/09/acdc-concert-in-toronto-in-jeopardy-as-rogers-stadium-remains-damaged-from-a-severe-storm/</link>
+      <guid isPermaLink="false">aceb5932f6be9205aec3557a</guid>
+      <pubDate>Wed, 09 Sep 2026 01:32:00 +0000</pubDate>
+      <description>Top-billed performances like AC/DC are now in limbo as Rogers Stadium continues to assess the damage caused by last week’s storm. Jon Woodward reports.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/live/2026/09/09/acdc-concert-in-toronto-in-jeopardy-as-rogers-stadium-remains-damaged-from-a-severe-storm/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
@@ -74,48 +134,15 @@
       <title>Late-night comedians lay into Trump over trade war with Canada</title>
       <link>https://www.bnnbloomberg.ca/video/live/2026/09/09/late-night-comedians-lay-into-trump-over-trade-war-with-canada/</link>
       <guid isPermaLink="false">0cc5cd363dd459dcab5a9126</guid>
-      <pubDate>Wed, 09 Sep 2026 06:20:00 +0000</pubDate>
+      <pubDate>Wed, 09 Sep 2026 01:32:00 +0000</pubDate>
       <description>As many late-night hosts return from summer break, U.S. President Donald Trump's trade war with Canada was a main talking point. Joy Malbon explains.</description>
-      <content:encoded>&lt;p&gt;Opens in new window
-&amp;#x27;The government needs to deliver on its core promise&amp;#x27;: Analyst on Champagne&amp;#x27;s trade war comments Opens in new window 09:20 · September 09, 2026 at 5:58p.m. EDT&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/live/2026/09/09/late-night-comedians-lay-into-trump-over-trade-war-with-canada/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>‘What a joke!’: Bill Carroll reacts to Trump’s executive orders barring certain Canadian goods</title>
-      <link>https://www.bnnbloomberg.ca/video/economics/2026/09/09/what-a-joke-bill-carroll-reacts-to-trumps-executive-orders-barring-certain-canadian-goods/</link>
-      <guid isPermaLink="false">31a1e51b3a200b36e79d4911</guid>
-      <pubDate>Wed, 09 Sep 2026 01:32:00 +0000</pubDate>
-      <description>HeartRadio's Bill Carroll says Trump ‘has nothing but those memes’ in the wake of the U.S. banning certain Canadian goods.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/09/09/what-a-joke-bill-carroll-reacts-to-trumps-executive-orders-barring-certain-canadian-goods/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>PM Carney is ‘the adult in the room’ dealing with a ‘spoiled, blubbering child’: Mulcair</title>
-      <link>https://www.bnnbloomberg.ca/video/economics/2026/09/09/pm-carney-is-the-adult-in-the-room-dealing-with-a-spoiled-blubbering-child-mulcair/</link>
-      <guid isPermaLink="false">6ac5aba2a36916ea666bbf8b</guid>
-      <pubDate>Wed, 09 Sep 2026 01:32:00 +0000</pubDate>
-      <description>CTV News Political Commentator Tom Mulcair on why he believes both sides are ‘heading towards a reopening of proper discussions,’ despite recent escalations.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/09/09/pm-carney-is-the-adult-in-the-room-dealing-with-a-spoiled-blubbering-child-mulcair/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -134,50 +161,17 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>'Our number one concern always is safety': Minister Solomon on industry fears over AI</title>
-      <link>https://www.bnnbloomberg.ca/video/live/2026/09/09/our-number-one-concern-always-is-safety-minister-solomon-on-industry-fears-over-ai/</link>
-      <guid isPermaLink="false">aeb97af2465443250b916f11</guid>
-      <pubDate>Wed, 09 Sep 2026 01:32:00 +0000</pubDate>
-      <description>Artificial Intelligence Minister Evan Solomon comments on the resignation of an Anthropic researcher over fears that AI could 'kill us all.' ...</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/live/2026/09/09/our-number-one-concern-always-is-safety-minister-solomon-on-industry-fears-over-ai/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Alberta 'front and centre in the growth of our nation': finance minister</title>
-      <link>https://www.bnnbloomberg.ca/video/investing/2026/09/09/alberta-front-and-centre-in-the-growth-of-our-nation-finance-minister/</link>
-      <guid isPermaLink="false">55ce768d5c1f15f73408e303</guid>
-      <pubDate>Wed, 09 Sep 2026 01:32:00 +0000</pubDate>
-      <description>Finance Minister François-Philippe Champagne highlights Alberta’s natural resources and critical minerals, as Canada positions itself as the world’s energy partner of choice.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/09/09/alberta-front-and-centre-in-the-growth-of-our-nation-finance-minister/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
       <title>Will PM Carney retaliate to the latest round of U.S. tariffs?</title>
       <link>https://www.bnnbloomberg.ca/video/economics/2026/09/09/will-pm-carney-retaliate-to-the-latest-round-of-us-tariffs/</link>
       <guid isPermaLink="false">02354be71e26f0b1e0da9ebc</guid>
       <pubDate>Tue, 08 Sep 2026 23:37:00 +0000</pubDate>
       <description>Vassy Kapelos weighs in on Canada's next move after the U.S. imposed bans and new tariffs and discusses Pierre Poilievre heading to the U.S. to promote Canada.</description>
-      <content:encoded>&lt;p&gt;Opens in new window
-&amp;#x27;The government needs to deliver on its core promise&amp;#x27;: Analyst on Champagne&amp;#x27;s trade war comments Opens in new window 09:20 · September 09, 2026 at 5:58p.m. EDT&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/09/09/will-pm-carney-retaliate-to-the-latest-round-of-us-tariffs/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
