@@ -1,45 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss version="2.0">
   <channel>
     <title>Investing.com — diagnostic source feed</title>
     <link>https://www.investing.com/rss/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 10 Sep 2026 06:28:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 11:45:20 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>Trump says Iran war to end after US midterm elections, threatens to attack Pickaxe Mountain</title>
-      <link>https://www.investing.com/news/commodities-news/trump-says-iran-war-to-end-after-us-midterm-elections-threatens-to-attack-pickaxe-mountain-4894975</link>
-      <guid isPermaLink="false">10745ced7d6e0e44ee16ae8b</guid>
-      <pubDate>Thu, 10 Sep 2026 06:18:27 +0000</pubDate>
-      <description />
-      <dc:creator>Reuters</dc:creator>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>investing_news</wire:foundAt>
-      <wire:platform>Investing.com</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>link_only</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.investing.com/news/commodities-news/trump-says-iran-war-to-end-after-us-midterm-elections-threatens-to-attack-pickaxe-mountain-4894975</wire:canonicalUrl>
-      <wire:evidence>structured credit: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>German August inflation confirmed at 2.9%</title>
-      <link>https://www.investing.com/news/economy-news/german-august-inflation-confirmed-at-29-4894971</link>
-      <guid isPermaLink="false">e704ccec4380a68d160c17ee</guid>
-      <pubDate>Thu, 10 Sep 2026 06:12:28 +0000</pubDate>
-      <description />
-      <dc:creator>Reuters</dc:creator>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>investing_news</wire:foundAt>
-      <wire:platform>Investing.com</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>link_only</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.investing.com/news/economy-news/german-august-inflation-confirmed-at-29-4894971</wire:canonicalUrl>
-      <wire:evidence>structured credit: Reuters</wire:evidence>
-    </item>
   </channel>
 </rss>
