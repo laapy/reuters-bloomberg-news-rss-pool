@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>The Economic Times — diagnostic source feed</title>
     <link>https://economictimes.indiatimes.com/rssfeedsdefault.cms</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 12 Sep 2026 09:09:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 13:04:17 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>HDFC Bank submits two candidates to RBI for next CEO</title>
+      <link>https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-submits-names-of-two-ceo-candidates-to-rbi-reports/articleshow/134129717.cms</link>
+      <guid isPermaLink="false">3c0e44a07fe2471fc153eb81</guid>
+      <pubDate>Sat, 12 Sep 2026 11:58:00 +0000</pubDate>
+      <description>India's largest private lender HDFC Bank has submitted the names of two candidates to the Reserve Bank of India for the position of managing director and chief executive officer, Bloomberg News reported on Saturday, citing an exchange filing.</description>
+      <dc:creator>Reuters</dc:creator>
+      <content:encoded>&lt;p&gt;HDFC Bank&amp;#x27;s board has submitted two candidates to the Reserve Bank of India for the role of CEO, the lender said on Saturday, formally starting the succession process for Sashidhar Jagdishan, who is due to retire later this year.The bank did not disclose the names of the candidates.Indian banking rules require private-sector banks to obtain prior RBI approval for the appointment of their managing director and CEO, giving the regulator a key role in vetting senior management.Jagdishan, who has led the bank since 2020, is set to step down at the end of his second term in October.The bank also moved to bolster its board, reappointing V. Srinivasa Rangan as a whole-time director, a regulatory designation for full-time bank directors, and appointing Chief Credit Officer Jimmy Tata to the board in the same capacity.Deputy Managing Director Kaizad Bharucha is already a whole-time director.The bank also said it would create a fourth whole-time director position, to be held by the incoming CEO once appointed.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>economic_times</wire:foundAt>
+      <wire:platform>The Economic Times</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-submits-names-of-two-ceo-candidates-to-rbi-reports/articleshow/134129717.cms</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>
