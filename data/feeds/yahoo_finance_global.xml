@@ -1,42 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss version="2.0">
   <channel>
     <title>Yahoo Finance — diagnostic source feed</title>
     <link>https://finance.yahoo.com/news/rssindex</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 12 Sep 2026 13:04:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 16:29:09 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>US equity funds record nine-month high outflows as oil stokes inflation fears</title>
-      <link>https://finance.yahoo.com/news/us-equity-funds-record-nine-111436371.html</link>
-      <guid isPermaLink="false">7b32abff3e4fe9ef2c4f7753</guid>
-      <pubDate>Fri, 11 Sep 2026 11:14:36 +0000</pubDate>
-      <description>Sept 11 (Reuters) - U.S. equity funds came under heavy selling pressure in the week through September 9 as the Iran war drove oil prices sharply higher, heig...</description>
-      <dc:creator>Reuters</dc:creator>
-      <content:encoded>&lt;p&gt;US equity funds record nine-month high outflows as oil stokes inflation fears&lt;/p&gt;&lt;p&gt;Reuters
-Fri, September 11, 2026 at 7:14 AM EDT 1 min read&lt;/p&gt;&lt;p&gt;CL=F
--2.37%&lt;/p&gt;&lt;p&gt;Sept 11 (Reuters) - U.S. equity funds came under heavy selling pressure in the week through September 9 as the Iran war drove oil prices sharply higher, heightening inflation fears and borrowing-cost concerns.
-U.S. investors recorded net sales of $32.27 billion in equity funds during the week, their largest since $52.45 billion in disposals in the week to December 17, 2025, LSEG Lipper data showed.&lt;/p&gt;&lt;p&gt;West Texas Intermediate crude futures surged above July&amp;#x27;s high of $93.50 a barrel earlier in the week, reaching a four-month high of $104.46 on Friday and raising concerns that persistent inflation could prompt the Federal Reserve to raise interest rates as early as next week.
-The U.S. producer price report released on Thursday, ahead of Friday&amp;#x27;s consumer price data, indicated that inflation remained elevated in August.
-U.S. large-cap funds posted record weekly outflows of $40.44 billion, while mid-cap funds recorded net sales of $682 million. In contrast, multi-cap funds attracted $3.52 billion and small-cap funds drew $274 million in inflows.
-Investors also purchased $1.46 billion in U.S. sectoral funds, led by technology, which attracted $1.71 billion, and financials, which gained $720 million.
-U.S. bond funds recorded a 21st consecutive week of net purchases, totaling $6.56 billion.
-Short-to-intermediate investment-grade funds attracted $3.75 billion, their largest weekly inflow in nine weeks. Short-to-intermediate government and Treasury funds also recorded a notable $2.78 billion in weekly net purchases.
-Meanwhile, investors withdrew $10.41 billion from U.S. money market funds, following net purchases of about $48.76 billion the previous week.
-(Reporting by Gaurav Dogra; Editing by Shreya Biswas)&lt;/p&gt;&lt;p&gt;View Comments&lt;/p&gt;&lt;p&gt;Terms and Privacy Policy
-Your Privacy Choices
-More Info&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_finance_global</wire:foundAt>
-      <wire:platform>Yahoo Finance</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>article page metadata</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://finance.yahoo.com/news/us-equity-funds-record-nine-111436371.html</wire:canonicalUrl>
-      <wire:evidence>structured credit: Reuters</wire:evidence>
-    </item>
   </channel>
 </rss>
