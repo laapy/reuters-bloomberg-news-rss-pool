@@ -1,43 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss version="2.0">
   <channel>
     <title>Yahoo Finance — diagnostic source feed</title>
     <link>https://finance.yahoo.com/news/rssindex</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 13 Sep 2026 12:39:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 16:55:14 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>Oracle Just Added $30 Billion in AI Contracts. Nvidia Investors Should Read the Fine Print</title>
-      <link>https://finance.yahoo.com/technology/ai/articles/oracle-just-added-30-billion-111550996.html</link>
-      <guid isPermaLink="false">f89697506111039d616b93da</guid>
-      <pubDate>Sat, 12 Sep 2026 11:15:50 +0000</pubDate>
-      <description>Oracle Corporation (NYSE:ORCL) and NVIDIA Corporation (NASDAQ:NVDA) have given investors another huge AI demand signal, but the economics are more important...</description>
-      <dc:creator>Habib Ur Rehman</dc:creator>
-      <content:encoded>&lt;p&gt;Oracle Just Added $30 Billion in AI Contracts. Nvidia Investors Should Read the Fine Print&lt;/p&gt;&lt;p&gt;Habib Ur Rehman
-Sat, September 12, 2026 at 7:15 AM EDT 3 min read&lt;/p&gt;&lt;p&gt;ORCL
--1.74%&lt;/p&gt;&lt;p&gt;NVDA
--0.03%&lt;/p&gt;&lt;p&gt;Explore stocks on Coinbase Trading disclosure&lt;/p&gt;&lt;p&gt;Trading disclosure The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.
-Learn more&lt;/p&gt;&lt;p&gt;Oracle Corporation (NYSE: ORCL ) and NVIDIA Corporation (NASDAQ: NVDA ) have given investors another huge AI demand signal, but the economics are more important than the headline.
-On September 10, Reuters reported that Oracle booked more than $30 billion of new AI cloud contracts during its fiscal first quarter, helping lift remaining performance obligations to $664 billion. Quarterly revenue rose 30% year over year to $19.3 billion, while adjusted earnings of $1.92 per share also topped expectations. Oracle&amp;#x27;s negative free cash flow of $5.4 billion was painful, but substantially better than the $9.56 billion analysts expected.&lt;/p&gt;&lt;p&gt;Who Pays for the Buildout? The most important detail for investors is how Oracle is funding the expansion. Capital expenditures reached $28.5 billion during the quarter, but Oracle received $11.36 billion of customer prepayments. Reuters also reported that most of the new AI contracts will not require proportional new capital spending because customers are using structures including prepayments and bring-your-own-hardware arrangements.&lt;/p&gt;&lt;p&gt;Oracle Just Added $30 Billion in AI Contracts. Nvidia Investors Should Read the Fine Print Oracle Corporation (NYSE:ORCL) has a stronger bull case. The company can potentially convert a huge backlog into cloud revenue without financing every GPU and data-center component itself. The bear case is that OCI remains an extraordinarily capital-intensive business, and Oracle still has to prove that its massive AI commitments can turn into durable free cash flow rather than simply larger depreciation bills.&lt;/p&gt;&lt;p&gt;Nvidia&amp;#x27;s Good News Has a Catch NVIDIA Corporation (NASDAQ:NVDA) has a more nuanced read-through. Oracle&amp;#x27;s backlog confirms that demand for accelerated compute remains enormous. Nvidia benefits to the extent that enterprises and AI labs deploying capacity through Oracle continue to use its GPUs, regardless of whether Oracle or its customers ultimately finance the hardware. However, Oracle&amp;#x27;s disclosure also undermines a simplistic assumption that every dollar of OCI backlog creates an equivalent amount of incremental Oracle-funded Nvidia spending.
-Institutional positioning is constructive for both stocks. Insider Monkey&amp;#x27;s hedge fund database shows that 119 hedge funds held Oracle at the end of Q2, up from 115 in Q1. Nvidia ownership rose to 285 funds from 275. Short sellers are less enthusiastic about fighting either trade. As of August 14, Oracle short interest stood at roughly 2.8% of the float, while Nvidia&amp;#x27;s was only about 1.2%.
-Valuation remains the pressure point. Oracle is increasingly being valued as an AI infrastructure growth company rather than a mature database vendor, while Nvidia already discounts years of dominant accelerator economics. The difference is execution risk: Oracle still has to convert contracted demand into acceptable returns on invested capital, while Nvidia primarily has to defend its margins and ecosystem.&lt;/p&gt;&lt;p&gt;Story Continues&lt;/p&gt;&lt;p&gt;For investors choosing between the two, Nvidia remains the purer AI infrastructure exposure, but Oracle&amp;#x27;s customer-funded contract structures make its risk-reward materially more attractive than the raw capex numbers imply. I would hold Nvidia and selectively add Oracle on weakness rather than chase either stock solely on the backlog headline.
-While we acknowledge the potential of ORCL and NVDA as investments, we believe certain other AI stocks offer greater upside potential and carry less downside risk. If you&amp;#x27;re looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .
-READ NEXT:
-The Trillion-Dollar AI Capex Gap: Why Too Much Hardware Could Be Nvidia&amp;#x27;s Trap and Microsoft&amp;#x27;s Opportunity and Redditors Are Skeptical of SpaceX&amp;#x27;s Orbital Data Centers. Are They Right?
-Disclosure: None. Follow Insider Monkey on Google News .&lt;/p&gt;&lt;p&gt;View Comments&lt;/p&gt;&lt;p&gt;Terms and Privacy Policy
-Your Privacy Choices
-More Info&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_finance_global</wire:foundAt>
-      <wire:platform>Yahoo Finance</wire:platform>
-      <wire:relation>mention</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.86</wire:confidence>
-      <wire:summarySource>article page metadata</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://finance.yahoo.com/technology/ai/articles/oracle-just-added-30-billion-111550996.html</wire:canonicalUrl>
-      <wire:evidence>reporting reference, not an exact wire credit: Reuters reported</wire:evidence>
-    </item>
   </channel>
 </rss>
