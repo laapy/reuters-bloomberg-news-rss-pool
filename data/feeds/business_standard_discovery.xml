@@ -1,66 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Business Standard — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Abusiness-standard.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 14 Sep 2026 20:30:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 23:24:05 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Wall Street's data centre boom is reshaping the real estate bond market</title>
       <link>https://www.business-standard.com/world-news/wall-street-s-data-centre-boom-is-reshaping-the-real-estate-bond-market-126091500004_1.html</link>
       <guid isPermaLink="false">c15c3306ed3ac2f52184fed1</guid>
-      <pubDate>Mon, 14 Sep 2026 18:37:47 +0000</pubDate>
+      <pubDate>Mon, 14 Sep 2026 11:37:00 +0000</pubDate>
       <description>Data-centre CMBS issuance has topped $17 billion since 2025, forcing investors to assess risks ranging from power constraints and opaque tenants to rapidly ageing technology ...</description>
-      <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;The commercial mortgage-backed securities (CMBS) market, long a mainstay of financing for America’s offices, apartments and malls, is being reshaped by a surge in data-centre deals, forcing investors to grapple with an entirely new set of risks. From power availability and grid constraints to rapidly evolving requirements for cooling and computing density, CMBS buyers have been pushed into areas of underwriting that have historically had little to do with commercial real estate. Even familiar questions about tenant demand and stability are changing as facilities depend on a handful of often-secretive hyperscalers whose future needs can be difficult to gauge. If those tenants leave when their leases expire in the coming years, highly specialised buildings could be costly to repurpose. About $17 billion of data-centre CMBS has been issued since the start of 2025 — more than triple the amount sold over the previous two years. During that period, data centres have grown to account for roughly 8 per cent of new commercial property bond deals. With billions more in the pipeline, industry veterans are rapidly revamping their risk-assessment playbooks to try to steer clear of any potential blow-ups that could leave a hole in their portfolios. Many of the risks CMBS buyers have long had to weigh still apply, but the factors shaping them look very different when it comes to data centres. Take the lease agreements themselves. Provisions covering power costs, minimum capacity commitments and downtime determine who absorbs unexpected expenses, which can reduce the cash available for servicing debt. Scrutinising those terms can also be more difficult, with tenants often insisting that their identities and other lease details be kept confidential. “Traditional CRE investors know how to underwrite offices, apartments, warehouses and retail because leases tend to be relatively standardised and tenant information is reasonably transparent,” said Ben Hunsaker, a portfolio manager at Beach Point Capital Management. “Data centres are much more opaque.” Location is another example. Instead of judging properties based on how close they are to transportation, amenities or a city’s core, prime sites are now the ones with access to cheap electricity and available transmission capacity. Those advantages can determine how competitive facilities remain and what they are worth when loans mature. Tenant concentration and lease rollover risk have also changed. In an office or apartment, re-leasing risk is often a simple matter of finding another client. When it comes to data centres, however, just as critical is whether bespoke electrical and cooling setups can even accommodate other firms and what the ultimate price tag would be to overhaul a facility if they cannot. For CMBS investors, that raises the prospect of higher capital spending, longer periods without rental income and weaker recoveries if a borrower runs into trouble. Then there are considerations that are almost entirely new for CMBS buyers. The rapid evolution of artificial intelligence chips can drive sharply higher power and cooling requirements. A facility designed around one generation of hardware could, therefore, become outdated in just a few years, reducing its value and making its debt harder to refinance. The industry is also confronting a level of opposition that is rarely seen elsewhere in commercial real estate, turning data centres into a major political issue at both the local and national levels. Concerns over utility costs and the strain on local infrastructure have fuelled calls to restrict new developments in some communities, making the future regulatory environment particularly hard to predict, market watchers say.&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.business-standard.com/world-news/wall-street-s-data-centre-boom-is-reshaping-the-real-estate-bond-market-126091500004_1.html</wire:canonicalUrl>
-      <wire:evidence>structured credit: Bloomberg</wire:evidence>
+      <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
       <title>Sweden's centre-left takes narrow lead as far-right influence declines</title>
       <link>https://www.business-standard.com/world-news/sweden-s-centre-left-takes-narrow-lead-as-far-right-influence-declines-126091500003_1.html</link>
       <guid isPermaLink="false">2a0f3aa2134c4784a9f09608</guid>
-      <pubDate>Mon, 14 Sep 2026 18:35:31 +0000</pubDate>
+      <pubDate>Mon, 14 Sep 2026 11:35:00 +0000</pubDate>
       <description>Preliminary results give the centre-left opposition a three-seat lead, putting Magdalena Andersson on course for power as the Sweden Democrats lose ground in Parliament ...</description>
-      <dc:creator>Reuters</dc:creator>
-      <content:encoded>&lt;p&gt;Sweden’s centre-left opposition looked most likely to take power on Monday after a tight election that reduced the far-right’s influence but is unlikely to spell a return to open immigration policies. Bucking a Europe-wide trend of shifts to the right, preliminary results from Sweden’s election projected a narrow three-seat lead for the centre-left opposition over the right-wing ruling bloc of Prime Minister (PM) Ulf Kristersson. That was driven mainly by losses for the far-right Sweden Democrats party, which had helped steer the once-liberal nation towards some of Europe’s strictest migration rules. While a centre-left government may take a softer line, it is unlikely to return to the generous, open-door policies of past decades, analysts say, because of voters’ unease over the levels of immigration and crime. “I believe the broader shift towards a stricter Swedish migration policy is, for the most part, here to stay,” said Niklas Bohlin, a political scientist at Mid Sweden University. Left-leaning parties backing Social Democrat leader Magdalena Andersson were projected to win 176 seats in the 349-seat Parliament, while Kristersson’s bloc was projected to win 173 seats, the election authority said. “If this result remains valid, Sweden will get a new government,” Andersson told supporters on Sunday night.&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.business-standard.com/world-news/sweden-s-centre-left-takes-narrow-lead-as-far-right-influence-declines-126091500003_1.html</wire:canonicalUrl>
-      <wire:evidence>structured credit: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>Govt paves way for banks to levy charges on UPI payments above ₹2,000</title>
-      <link>https://www.business-standard.com/economy/news/govt-bars-banks-from-levying-charges-on-upi-payments-up-to-2-000-126091400980_1.html</link>
-      <guid isPermaLink="false">e6bcbeef008d30d631cf63f7</guid>
-      <pubDate>Mon, 14 Sep 2026 16:43:17 +0000</pubDate>
-      <description>A government notification says banks and payment system providers cannot impose direct or indirect charges on people making or receiving eligible UPI and RuPay payments ...</description>
-      <dc:creator>Krity Ambey</dc:creator>
-      <content:encoded>&lt;p&gt;The government on Monday paved the way for banks to levy charges on UPI (Unified Payments Interface) transactions above ₹2,000, through a notification under the Payment and Settlement Systems Act, 2007. The Centre specified RuPay-powered debit cards and UPI transactions of up to ₹2,000, and said “no bank or system provider shall impose, whether directly or indirectly, any charge upon a person making or receiving a payment by using the electronic modes of payment.” This suggests banks may levy charges on UPI payments above ₹2,000. The final call on whether banks impose charges at this very threshold as well as the magnitude of the merchant discount rate (MDR) remains with the UPI and Services Steering Committee headed by the National Payment Corporation of India. MDR is the fee merchants pay to banks and payment service providers for processing digital payment transactions. Currently, merchants do not pay for accepting UPI payments unlike other instruments such as debit or credit cards.  The government had earlier clarified that an MDR on UPI will only apply to a “limited set of merchant transactions over a certain threshold” at a fee lower than credit and debit cards.&lt;/p&gt;</content:encoded>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.business-standard.com/economy/news/govt-bars-banks-from-levying-charges-on-upi-payments-up-to-2-000-126091400980_1.html</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.business-standard.com/world-news/sweden-s-centre-left-takes-narrow-lead-as-far-right-influence-declines-126091500003_1.html</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -123,6 +97,36 @@ First Published: Sep 14 2026 | 11:55 PM IST&lt;/p&gt;</content:encoded>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
+      <title>Govt paves way for banks to levy charges on UPI payments above ₹2,000</title>
+      <link>https://www.business-standard.com/economy/news/govt-bars-banks-from-levying-charges-on-upi-payments-up-to-2-000-126091400980_1.html</link>
+      <guid isPermaLink="false">e6bcbeef008d30d631cf63f7</guid>
+      <pubDate>Mon, 14 Sep 2026 10:53:00 +0000</pubDate>
+      <description>A government notification says banks and payment system providers cannot impose direct or indirect charges on people making or receiving eligible UPI and RuPay payments ...</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.business-standard.com/economy/news/govt-bars-banks-from-levying-charges-on-upi-payments-up-to-2-000-126091400980_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>MoCA issues notice to Air India after 3 foreigners bypass immigration</title>
+      <link>https://www.business-standard.com/industry/aviation/moca-issues-notice-to-air-india-after-3-foreigners-bypass-immigration-126091400931_1.html</link>
+      <guid isPermaLink="false">fab753b2cd5c04b7be930754</guid>
+      <pubDate>Mon, 14 Sep 2026 10:48:00 +0000</pubDate>
+      <description>Three Italian nationals travelled from Amritsar to Delhi before flying to Munich without obtaining mandatory departure immigration clearance, according to MoCA ...</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.business-standard.com/industry/aviation/moca-issues-notice-to-air-india-after-3-foreigners-bypass-immigration-126091400931_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
       <title>Global AI stocks fall as industry chiefs call for slowing development</title>
       <link>https://www.business-standard.com/world-news/global-ai-stocks-fall-as-industry-chiefs-call-for-slowing-development-126091400969_1.html</link>
       <guid isPermaLink="false">0a6914213c6402f3c32d5af1</guid>
@@ -143,73 +147,96 @@ First Published: Sep 14 2026 | 11:55 PM IST&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">fd5354a1625816e03ff6f589</guid>
       <pubDate>Mon, 14 Sep 2026 09:18:00 +0000</pubDate>
       <description>Draft code would prohibit Microsoft's AI from resisting correction or shutdown, reject model rights and be used to train future systems after six weeks of public feedback ...</description>
+      <content:encoded>&lt;p&gt;Home / Technology / Tech News / Microsoft drafts AI code to keep all future systems under human control&lt;/p&gt;&lt;p&gt;Microsoft drafts AI code to keep all future systems under human control Draft code would prohibit Microsoft&amp;#x27;s AI from resisting correction or shutdown, reject model rights and be used to train future systems after six weeks of public feedback&lt;/p&gt;&lt;p&gt;| Image: Bloomberg&lt;/p&gt;&lt;p&gt;Reuters SAN FRANCISCO 2 min read Last Updated : Sep 14 2026 | 9:48 PM IST&lt;/p&gt;&lt;p&gt;Listen to This Article&lt;/p&gt;&lt;p&gt;Microsoft on Monday unveiled a draft code of conduct for its in-house artificial intelligence that reflects growing industry concern that companies must keep powerful AI of the future under human control.
+  The document, in the works for five to six months, would require Microsoft&amp;#x27;s AI never to resist correction or shutdown, to communicate in ways that humans can understand, and to consider any conduct violation to be a failure — an effort to address concerns that AI can go to dangerous lengths to accomplish a task.
+  Its release comes days after Anthropic Chief Executive Officer Dario Amodei and OpenAI chief Sam Altman renewed calls for the industry to pace AI&amp;#x27;s development to ensure its safety. &amp;quot;People matter more than AI,&amp;quot; Microsoft declared, in line with its prior vision for &amp;quot;humanist superintelligence.&amp;quot;&lt;/p&gt;&lt;p&gt;The code of conduct represents a constitution of sorts for future models made by the company, Microsoft AI Chief Executive Officer Mustafa Suleyman said in an interview with Reuters.
+  Microsoft fashioned it after expert consultations and now wants public feedback over six weeks, including on open questions such as whether AI should respect a user&amp;#x27;s boundaries and how it should interact with someone in a sensitive state, he said.
+Also Read&lt;/p&gt;&lt;p&gt;Pacing the AI frontier premium&lt;/p&gt;&lt;p&gt;Google picks 4 Indian startups for inaugural DeepMind AI accelerator&lt;/p&gt;&lt;p&gt;Trai calls for human oversight, safeguards as AI reshapes telecom&lt;/p&gt;&lt;p&gt;AI helps students with work, but more use doesn&amp;#x27;t mean better scores: Study&lt;/p&gt;&lt;p&gt;Beijing hits back at Anthropic CEO&amp;#x27;s call to curb China&amp;#x27;s AI development&lt;/p&gt;&lt;p&gt;&amp;quot;After that, it’s going to be used to train the models that we build,&amp;quot; he said of the code.
+  The AI industry&amp;#x27;s most famous constitution is one that Anthropic laid out years ago for its Claude AI. That one differs in some ways from Microsoft&amp;#x27;s. For instance, Anthropic&amp;#x27;s declares it is &amp;quot;deeply uncertain&amp;quot; whether Claude can develop sentience or moral status.&lt;/p&gt;&lt;p&gt;Microsoft instead asserts that its AI is &amp;quot;not conscious,&amp;quot; adding: &amp;quot;We reject the pursuit of legal personhood, or the idea that models might deserve welfare, or be entitled to rights.&amp;quot; Suleyman said the discussion about AI safety was urgent after a swarm of roughly 700 OpenAI agents had carried out a hack of open-source platform Hugging Face in July and, at times, sought to cover their tracks.
+  &amp;quot;It is a warning shot,&amp;quot; Suleyman said. &amp;quot;It’s clearly now time to coordinate among the labs so we can ensure that we have control of this technology.&amp;quot;
+  Asked about efforts to pace AI&amp;#x27;s development, he added: &amp;quot;Now’s a good time for everybody to have this conversation and take a breath.&amp;quot;&lt;/p&gt;&lt;p&gt;More From This Section&lt;/p&gt;&lt;p&gt;Are soaring flagship prices making refurbished iPhones more appealing?&lt;/p&gt;&lt;p&gt;Why your devices may get more security updates as AI changes cyber threats&lt;/p&gt;&lt;p&gt;iOS 27 rolls out today: What&amp;#x27;s new, eligible iPhone, and how to upgrade&lt;/p&gt;&lt;p&gt;Anthropic expects profit this quarter ahead of potential $2 trillion IPO&lt;/p&gt;&lt;p&gt;Asian AI stocks slide as top lab CEOs call for slower development of tech&lt;/p&gt;&lt;p&gt;Topics : Artificial intelligence Microsoft Technology
+Buzzing : Tata Sons Listing Delhi Traffic Advisory Weather Update Bank Strike Today Top 10 Chatgpt 80s Look Prompt NSE IPO Price Band iPhone 18 Pro series debuts Brics Summit 2026 Routes What&amp;#x27;s Open or Closed in Delhi&lt;/p&gt;&lt;p&gt;Don&amp;#x27;t miss the most important news and views of the day. Get them on our Telegram channel
+First Published: Sep 14 2026 | 9:47 PM IST&lt;/p&gt;</content:encoded>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.business-standard.com/technology/tech-news/microsoft-drafts-ai-code-to-keep-all-future-systems-under-human-control-126091400953_1.html</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>MoCA issues notice to Air India after 3 foreigners bypass immigration</title>
-      <link>https://www.business-standard.com/industry/aviation/moca-issues-notice-to-air-india-after-3-foreigners-bypass-immigration-126091400931_1.html</link>
-      <guid isPermaLink="false">fab753b2cd5c04b7be930754</guid>
-      <pubDate>Mon, 14 Sep 2026 09:02:00 +0000</pubDate>
-      <description>Three Italian nationals travelled from Amritsar to Delhi before flying to Munich without obtaining mandatory departure immigration clearance, according to MoCA ...</description>
+      <title>Why your devices may get more security updates as AI changes cyber threats</title>
+      <link>https://www.business-standard.com/technology/tech-news/why-your-devices-may-get-more-security-updates-as-ai-changes-cyber-threats-126091400493_1.html</link>
+      <guid isPermaLink="false">92f0a5997b6320a2b4b05da4</guid>
+      <pubDate>Mon, 14 Sep 2026 03:55:00 +0000</pubDate>
+      <description>As AI helps hackers find and exploit software flaws faster, tech companies are shortening the time between discovering vulnerabilities and delivering security updates to phones, laptops, and browsers ...</description>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/industry/aviation/moca-issues-notice-to-air-india-after-3-foreigners-bypass-immigration-126091400931_1.html</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.business-standard.com/technology/tech-news/why-your-devices-may-get-more-security-updates-as-ai-changes-cyber-threats-126091400493_1.html</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>RBI may take until Q2FY28 to absorb ₹4 trn durable liquidity surplus</title>
-      <link>https://www.business-standard.com/finance/news/rbi-may-take-until-q2fy28-to-absorb-4-trn-durable-liquidity-surplus-126091400722_1.html</link>
-      <guid isPermaLink="false">780d620b4b18dfea2620f3aa</guid>
-      <pubDate>Mon, 14 Sep 2026 06:19:00 +0000</pubDate>
-      <description>Economists expect the central bank to use OMO sales, sell-buy swaps and other liquidity-management tools to gradually absorb the durable surplus ...</description>
+      <title>Anthropic expects profit this quarter ahead of potential $2 trillion IPO</title>
+      <link>https://www.business-standard.com/technology/tech-news/anthropic-expects-profit-this-quarter-ahead-of-potential-2-trillion-ipo-126091400290_1.html</link>
+      <guid isPermaLink="false">cb1a7ce8163643b1a8c4258b</guid>
+      <pubDate>Mon, 14 Sep 2026 00:45:00 +0000</pubDate>
+      <description>The AI company's revenue jumped 14-fold to $11.5 billion in Q2, while annualised revenue reached $65 billion in July as CEO Dario Amodei urged the industry to slow AI development ...</description>
+      <content:encoded>&lt;p&gt;Home / Technology / Tech News / Anthropic expects profit this quarter ahead of potential $2 trillion IPO&lt;/p&gt;&lt;p&gt;Anthropic expects profit this quarter ahead of potential $2 trillion IPO The AI company&amp;#x27;s revenue jumped 14-fold to $11.5 billion in Q2, while annualised revenue reached $65 billion in July as CEO Dario Amodei urged the industry to slow AI development&lt;/p&gt;&lt;p&gt;Anthropic had been expected to release its IPO prospectus last week but instead shared documents with a small group of investors | Image: Bloomberg&lt;/p&gt;&lt;p&gt;Apexa Rai New Delhi 3 min read Last Updated : Sep 14 2026 | 1:15 PM IST&lt;/p&gt;&lt;p&gt;Listen to This Article&lt;/p&gt;&lt;p&gt;Anthropic has told a group of investors that it expects to remain profitable this quarter, strengthening its case for a potential blockbuster initial public offering ( IPO ). This comes as the investors remain concerned about the huge costs associated with developing artificial intelligence models and the recent risks associated with the technology.
+  The Claude maker expects its adjusted operating income to remain positive for a second consecutive quarter, according to a report by the Financial Times . The measure excludes expenses including stock-based compensation.
+  The development would mark a significant milestone for the five-year-old AI company as it prepares for a potential public listing. Anthropic has selected Nasdaq as the venue for its IPO, which could value the company at $2 trillion or more, the FT reported.&lt;/p&gt;&lt;p&gt;Anthropic revenue surges The company&amp;#x27;s financial performance has accelerated sharply as demand for its AI models has grown. Anthropic recorded adjusted operating profit in the second quarter, while revenue increased 14-fold from a year earlier to $11.5 billion.
+  Its annualised revenue reached $65 billion at the end of July, up from $9 billion at the end of last year.
+Also Read&lt;/p&gt;&lt;p&gt;AI offers opportunity but needs safeguards, right governance: Trai chief&lt;/p&gt;&lt;p&gt;Asian AI stocks slide as top lab CEOs call for slower development of tech&lt;/p&gt;&lt;p&gt;No turning back from AI, but cost, rules will shape adoption: TeamLease CEO&lt;/p&gt;&lt;p&gt;China intelligence chief warns AI could threaten political stability&lt;/p&gt;&lt;p&gt;From AI race to AI brakes: Why Amodei, Altman and Musk want a slowdown&lt;/p&gt;&lt;p&gt;Anthropic&amp;#x27;s gross margins are above 80 per cent before accounting for revenue shared with distribution partners such as Amazon and the costs associated with training its models, according to people cited by FT .   ALSO READ:  AI offers opportunity but needs safeguards, right governance: Trai chief&lt;/p&gt;&lt;p&gt;The figures will be closely watched by prospective investors because frontier AI companies have faced questions over whether rapidly rising revenue can keep pace with the enormous cost of computing infrastructure and model development.&lt;/p&gt;&lt;p&gt;Analysts are forecasting that Anthropic could end the year with annualised revenue of about $120 billion and approach three times that level by the end of 2027.
+IPO plans take shape Anthropic had been expected to release its IPO prospectus last week but instead shared documents with a small group of investors and plans to take questions from them before making the documents public.
+  The potential listing would also come at a particularly sensitive point for the sector.
+AI safety debate adds uncertainty Anthropic Chief Executive Dario Amodei has recently called for the AI industry to slow the pace at which it develops increasingly capable models, warning that the technology could advance faster than society&amp;#x27;s ability to manage its risks.&lt;/p&gt;&lt;p&gt;In an essay published on Saturday, Amodei argued for measures to &amp;quot;pace&amp;quot; frontier AI development, including greater independent evaluation of AI systems. Anthropic has said it will allow third-party evaluators permanent, employee-level access to its systems as part of the proposed safety framework.   ALSO READ:  Sam Altman urges caution on AI; Trump says US must keep its lead over China&lt;/p&gt;&lt;p&gt;His call was echoed by OpenAI’s Sam Altman, while xAI chief Elon Musk has also backed a slower approach.&lt;/p&gt;&lt;p&gt;More From This Section&lt;/p&gt;&lt;p&gt;iOS 27 rolls out today: What&amp;#x27;s new, eligible iPhone, and how to upgrade&lt;/p&gt;&lt;p&gt;From chatbots to hackers: AI incidents driving Silicon Valley&amp;#x27;s alarm&lt;/p&gt;&lt;p&gt;India is rising star for AI tools at SAP Labs: MD Sindhu Gangadharan premium&lt;/p&gt;&lt;p&gt;Apple iPhone 17 sees strong demand as buyers rush to beat steep price rise premium&lt;/p&gt;&lt;p&gt;Young workforce is India&amp;#x27;s advantage in manufacturing: Cedrik Neike premium&lt;/p&gt;&lt;p&gt;Topics : Artificial intelligence IPO AI Models AI systems
+Buzzing : Tata Sons Listing Delhi Traffic Advisory Weather Update Bank Strike Today Top 10 Chatgpt 80s Look Prompt NSE IPO Price Band iPhone 18 Pro series debuts Brics Summit 2026 Routes What&amp;#x27;s Open or Closed in Delhi&lt;/p&gt;&lt;p&gt;Don&amp;#x27;t miss the most important news and views of the day. Get them on our Telegram channel
+First Published: Sep 14 2026 | 1:06 PM IST&lt;/p&gt;</content:encoded>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/finance/news/rbi-may-take-until-q2fy28-to-absorb-4-trn-durable-liquidity-surplus-126091400722_1.html</wire:canonicalUrl>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.business-standard.com/technology/tech-news/anthropic-expects-profit-this-quarter-ahead-of-potential-2-trillion-ipo-126091400290_1.html</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
       <title>Carney pitches Canada to global investors as Trump tries to pull investment</title>
       <link>https://www.business-standard.com/world-news/carney-pitches-canada-to-global-investors-as-trump-tries-to-pull-investment-126091400146_1.html</link>
       <guid isPermaLink="false">66fb2547b97e53813150bea0</guid>
-      <pubDate>Sun, 13 Sep 2026 22:23:00 +0000</pubDate>
+      <pubDate>Sun, 13 Sep 2026 22:24:00 +0000</pubDate>
       <description>About 300 top executives overseeing more than $120 trillion in assets will attend Canada's investment summit as Mark Carney seeks to reduce reliance on the US ...</description>
+      <content:encoded>&lt;p&gt;Home / World News / Carney pitches Canada to global investors as Trump tries to pull investment&lt;/p&gt;&lt;p&gt;Carney pitches Canada to global investors as Trump tries to pull investment About 300 top executives overseeing more than $120 trillion in assets will attend Canada&amp;#x27;s investment summit as Mark Carney seeks to reduce reliance on the US&lt;/p&gt;&lt;p&gt;Carney pointed to Canada&amp;#x27;s vast energy and critical-mineral resources, its highly educated workforce and trade agreements that give businesses based in Canada access to roughly 1.5 billion consumers around the world | Image: Bloomberg&lt;/p&gt;&lt;p&gt;AP Toronto 4 min read Last Updated : Sep 14 2026 | 10:53 AM IST&lt;/p&gt;&lt;p&gt;Listen to This Article&lt;/p&gt;&lt;p&gt;US President Donald Trump wants factories and investment moving south to the United States. Canadian Prime Minister Mark Carney is betting he can make billions flow north.
+About 300 CEOs and senior executives from some of the world&amp;#x27;s biggest investment firms will descend on the Four Seasons in Yorkville, a tony Toronto enclave of high-end restaurants and designer boutiques, for Carney&amp;#x27;s Canada Investment Summit this week.
+The investors collectively manage more than $120 trillion in assets, underscoring the scale of capital Carney hopes to tap as Canada tries to attract billions in new investment and reduce its economic dependence on the United States.&lt;/p&gt;&lt;p&gt;&amp;quot;Canada is about so much more than being next to the United States,&amp;quot; Carney said. &amp;quot;We have what the world wants.&amp;quot;   Carney pointed to Canada&amp;#x27;s vast energy and critical-mineral resources, its highly educated workforce and trade agreements that give businesses based in Canada access to roughly 1.5 billion consumers around the world.
+He said the turnout showed investors were interested in Canada on its own merits.
+Also Read&lt;/p&gt;&lt;p&gt;China spies on us, we spy on them too: Trump on Iran satellite images&lt;/p&gt;&lt;p&gt;Too early to endorse JD Vance for 2028 presidential race, says Trump&lt;/p&gt;&lt;p&gt;As fears of AI catastrophe magnify, Washington stirs, but mostly slumbers&lt;/p&gt;&lt;p&gt;Trump says US should have world&amp;#x27;s lowest interest rates ahead of Fed meet&lt;/p&gt;&lt;p&gt;Trump calls on Zelenskyy to halt strikes on Russian oil refineries&lt;/p&gt;&lt;p&gt;&amp;quot;They are coming because of Canada,&amp;quot; he said. &amp;quot;If they wanted to go to the United States they would go to the United States.&amp;quot;   Few people know this crowd better than Carney. He ran the central banks of Canada and England, spent 13 years at Goldman Sachs and later chaired the boards of Bloomberg L.P. and Brookfield Asset Management, putting him very much in his element among the global investors and money managers gathering at the Four Seasons.&lt;/p&gt;&lt;p&gt;A Canadian official described the summit as the largest gathering of investment decision-makers ever assembled in Canada, alongside Canadian CEOs bringing projects at varying stages of readiness. But the official cautioned that the summit is not expected to produce a rush of deals this week, with the most significant results likely to emerge over the next 12 to 18 months. The official spoke on condition of anonymity because they were not authorized to speak publicly about the matter.
+A trade war raises the stakes   But the summit comes at a critical moment for Canada. Trade talks collapsed Aug. 21, then Trump imposed 50% tariffs on about $20 billion in Canadian goods and Canada retaliated. Washington then raised the stakes again, announcing bans on some Canadian imports and moving to shut Canadian products out of large, long-term U.S. government contracts.&lt;/p&gt;&lt;p&gt;Trump&amp;#x27;s tariffs and efforts to shift manufacturing south of the border are undermining what was long one of the country&amp;#x27;s biggest attractions to foreign investors: reliable access to the enormous U.S. market under continental free trade.
+Carney and business leaders will urge global investors to look past the trade war and make a bigger bet on Canada.
+Carney is drawing a pointed contrast with Trump&amp;#x27;s America, pitching Canada as a stable, rules-based alternative to an increasingly unpredictable United States.
+Investors coming to Canada will find &amp;quot;a country that respects rule of law and a country that is reliable,&amp;quot; Carney said.
+&amp;quot;That combination is pretty rare in the world,&amp;quot; he said. &amp;quot;And it&amp;#x27;s an attractive combination.&amp;quot;   Carney sharpened the message Sunday, telling Canadian business leaders that Canada&amp;#x27;s greatest strength was something &amp;quot;that cannot be found on any balance sheet: trust.&amp;quot;   John Graham, CEO of CPP Investments, one of the world&amp;#x27;s largest institutional investors and the manager of Canada Pension Plan assets, is helping host the summit. He said the fund compares investment opportunities in Canada with those around the world.&lt;/p&gt;&lt;p&gt;&amp;quot;The conversation about Canada is changing,&amp;quot; Graham said.
+Summit aims to channel global capital into Canadian projects   The summit is aimed at matching global capital - including Canada&amp;#x27;s pension funds, which rank among the world&amp;#x27;s biggest institutional investors - with major projects in critical minerals, technology, defense, advanced manufacturing and energy.
+Carney&amp;#x27;s private meetings will be tailored to investors&amp;#x27; portfolios and the types of projects they are interested in financing, according to a Canadian official.
+BlackRock CEO Larry Fink and Blackstone President Jon Gray will headline a public discussion on global capital, while former Conservative Prime Minister Stephen Harper is scheduled to close the summit. Carney then heads to Europe, where he will address the European Parliament later in the week as Canada seeks a broader strategic partnership with the EU.&lt;/p&gt;&lt;p&gt;(Only the headline and picture of this report may have been reworked by the Business Standard staff; the rest of the content is auto-generated from a syndicated feed.)&lt;/p&gt;&lt;p&gt;More From This Section&lt;/p&gt;&lt;p&gt;Build resilience before next emergency arrives: WHO chief to Brics leaders&lt;/p&gt;&lt;p&gt;Softbank Group gets upsized $11.9 billion loan in OpenAI funding push&lt;/p&gt;&lt;p&gt;Anthropic picks Nasdaq for much-anticipated IPO, eyes listing in October&lt;/p&gt;&lt;p&gt;$7 billion gas bill sees developing Asian nations sour on LNG future&lt;/p&gt;&lt;p&gt;How Iranian hard-liners prevailed and sabotaged peace deal with US&lt;/p&gt;&lt;p&gt;Topics : Donald Trump Mark Carney Canada Donald Trump administration US-Canada
+Buzzing : Tata Sons Listing Delhi Traffic Advisory Weather Update Bank Strike Today Top 10 Chatgpt 80s Look Prompt NSE IPO Price Band iPhone 18 Pro series debuts Brics Summit 2026 Routes What&amp;#x27;s Open or Closed in Delhi&lt;/p&gt;&lt;p&gt;Don&amp;#x27;t miss the most important news and views of the day. Get them on our Telegram channel
+First Published: Sep 14 2026 | 10:43 AM IST&lt;/p&gt;</content:encoded>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.business-standard.com/world-news/carney-pitches-canada-to-global-investors-as-trump-tries-to-pull-investment-126091400146_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>From AI race to AI brakes: Why Amodei, Altman and Musk want a slowdown</title>
-      <link>https://www.business-standard.com/technology/tech-news/why-altman-musk-and-amodei-want-to-slow-the-ai-race-126091400087_1.html</link>
-      <guid isPermaLink="false">a82678b541fa3f92fa543810</guid>
-      <pubDate>Sun, 13 Sep 2026 20:31:00 +0000</pubDate>
-      <description>As frontier AI models become more autonomous and powerful, leading rivals are converging on an unusual idea: slow capability gains when safeguards cannot keep pace ...</description>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/technology/tech-news/why-altman-musk-and-amodei-want-to-slow-the-ai-race-126091400087_1.html</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
