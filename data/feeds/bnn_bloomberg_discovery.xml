@@ -1,132 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>BNN Bloomberg — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Abnnbloomberg.ca+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:01:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:32:33 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>AI finance is here, but scaling hurdles abound: fintech execs</title>
       <link>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/15/ai-finance-is-here-but-scaling-hurdles-abound-fintech-execs/</link>
       <guid isPermaLink="false">f0a7393dcb7d93283bc46f46</guid>
-      <pubDate>Tue, 15 Sep 2026 20:41:27 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 11:12:00 +0000</pubDate>
       <description>Banks are looking to ramp up artificial intelligence use for millions of customers, but executives say hurdles abound and checks need to be built in.</description>
-      <dc:creator>The Canadian Press</dc:creator>
-      <content:encoded>&lt;p&gt;MONTREAL — Banks are looking to ramp up artificial intelligence use for millions of customers, but executives say hurdles abound and checks need to be built in. At the Canada Fintech Forum on Tuesday, banking and tech leaders said financial institutions have yet to weave AI through a majority of their systems, such as apps and data storage, even as the industry blazes a trail in machine learning adoption. Michael Pelosi, the country manager for Canada at Toronto-based AI company Cohere, called it a “misconception” that an AI model smoothly doling out financial advice in a controlled test environment can do likewise for millions of clients.  “The hard truth that a lot of banks are seeing now is, doing things in small batches ... is very, very different — as a lot of the folks on the panel today can attest — than going into production,” Pelosi told several hundred conference attendees, pointing to cost as a particular challenge. He offered the analogy of staying in an oversized vacation property — fine for a short stint, but not at length or scale. “My wife wants us to get this big house to rent. Overkill. We don’t need all of these bedrooms, we don’t need all of the features in this house … and I say, ‘OK, it’s expensive, but it’s just for a weekend.’ “Now, if she had told me, ‘I want to do this for 365 days a year,’ that becomes a problem.” Fintech firms are forging ahead with machine-learning technology for everything from mortgage application assessments to customer service. More than 30 per cent of finance and insurance firms were using AI last year, according to a Statistics Canada analysis. That uptake places banks among the biggest AI adopters, far above sectors such as hospitality and food services, for example, where AI use sat at 1.5 per cent. But in many ways, the user experience remains unchanged, with banking apps roughly the same as four years ago, Pelosi said. So far, security concerns and the cost of deploying machine-learning models on a massive scale have deterred broader uptake by banks, said Stephanie Hazlewood, a senior director at RBC. But in her eyes, the still rapid pace of adoption at the Big Five and beyond makes safety and accountability all the more crucial. “We have a lot of data and we’re excited to be able to use that information to drive business value. But it’s also very important to remember that the care of the data is really what enables the value. And the care is expensive,” she said. The stakes are especially high when life savings and boatloads of investor funds factor in, necessitating further caution. Pelosi pointed to an appeal from Anthropic CEO Dario Amodei over the weekend to “slow down” and impose greater checks on the industry — a call echoed by other AI leaders. “It’s an incredible technology, but it will cause a massive headline one day,” Pelosi said. “When you think about rolling this out to millions of consumers at a bank, people are somewhat terrified that they’re going to be the headline: ‘Grandmother loses life savings’ because the agent acted on their behalf.” On top of corporate accountability for financial choices made by an AI agent, “traceability” — being able to pinpoint how a given decision came about — should act as another key constraint, said Tess Bloch, co-founder of Spade, an AI platform for transaction data. “Identify the source, identify the data point underlying that decision and do not have a fully black box,” she said. --- Christopher Reynolds, The Canadian Press This report by The Canadian Press was first published Sept. 15, 2026.&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/15/ai-finance-is-here-but-scaling-hurdles-abound-fintech-execs/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>U.S. Senate blocks cryptocurrency regulation as Democrats push back on Trump investments</title>
-      <link>https://www.bnnbloomberg.ca/markets/crypto/2026/09/15/us-senate-to-vote-on-advancing-landmark-crypto-bill/</link>
-      <guid isPermaLink="false">e6b67c14e2b428cf044ce4b2</guid>
-      <pubDate>Tue, 15 Sep 2026 19:36:51 +0000</pubDate>
-      <description>U.S. Senate Democrats blocked legislation to create a new regulatory framework for cryptocurrency, after demanding more limits on Trump’s investments.</description>
-      <dc:creator>The Associated Press</dc:creator>
-      <content:encoded>&lt;p&gt;WASHINGTON — U.S. Senate Democrats on Tuesday blocked legislation to create a new regulatory framework for cryptocurrency, stalling an industry-backed effort to place new guardrails around digital assets after demanding more limits on U.S. President Donald Trump’s investments. The 49-50 vote on whether to move forward with the legislation was a pivotal election-year test for the US$2.3 trillion cryptocurrency market as the industry has pushed aggressively for a uniform set of rules. The U.S. Senate debate came as cryptocurrency companies have become a major political force, and as Trump has amassed significant wealth in crypto while in office. While some Democrats are friendly toward the industry and support the idea of regulation, they have been adamant that the bill include strong ethics safeguards to prevent the president and his family from enriching themselves while he’s in office. The opposition appears to have only solidified two months before the midterm elections, despite significant donations that crypto groups have given to some Democrats in recent years. “Let’s make sure that we do not pass a crypto bill that will let Donald Trump continue to rake in billions of dollars in crypto profits while working families across this country struggle to deal with higher prices and an economy that gets worse by the day,” said Massachusetts Sen. Elizabeth Warren, the top Democrat on the U.S. Senate Banking Committee. Trump agrees to some changes as Democrats push back As Democrats made clear they would block the bill, Trump agreed to some concessions on ethics, including new restrictions on federal elected officials from issuing digital assets like the presidential meme coins he and his wife Melania launched before he took office for his second term. He agreed to new concessions Sunday, such as additional powers for state attorneys general that Democrats had sought to enforce the crypto measures. Those concessions were not enough for Democrats, who said the latest Republican proposal did not have enough enforcement. They also wanted a requirement for Trump or any future president to divest if holdings reach a certain value. The latest version of the legislation “leaves a lot to be desired,” said Arizona Sen. Ruben Gallego, who was involved in last-minute talks with Republicans on the bill. Democrats sent a counteroffer late Monday that would expand the ethics provision, but they were not able to strike a final deal. Republicans needed Democratic support to win the 60 votes necessary to move forward on the bill in the 53-47 U.S. Senate. North Carolina Sen. Thom Tillis, a Republican who worked with Gallego to strengthen the ethics provision, said before the vote that he was pleased with Trump’s latest concessions. “We’re so close,” Tillis said. “It’s just a shame to not take this opportunity.” Trump has amassed big crypto profits Trump’s family has raked in big profits in the crypto sector since he was reelected, including the meme coin, announced the day before Trump took office. Top investors were invited to a private reception with the president. Trump’s family also has a controlling stake in World Liberty Financial, a crypto firm co-founded with the president’s special envoy Steve Witkoff. Trump reported more than US$500 million in revenue from World Liberty Financial sales of crypto products, including “governance tokens,” in his annual disclosure report filed with the Office of Government Ethics. That is a significant share of the more than US$1.4 billion that the president reported from crypto businesses last year. A measure enacted into law last year regulating stablecoins, a type of cryptocurrency, barred members of Congress and their families from profiting off them, but it did not extend to Trump or his family. Legislation aims to give crypto firms legal certainty Republicans who have been working on the legislation for more than a year say it could now stall indefinitely. The House and U.S. Senate will be out of session during October and before the elections, and the dynamics could significantly shift if Democrats win back the majorities of the U.S. House or U.S. Senate, or both, in November. Republican Sen. Cynthia Lummis of Wyoming, a lead sponsor of the bill, said beforehand that a no vote means ”opposing real ethics reforms on politicians’ personal investments, handing American leadership in digital assets to our foreign competitors, and leaving Americans with zero protections in the digital asset markets.” Supporters say the legislation aims to give the industry more legal certainty and protect consumers by creating a broad set of guardrails and regulatory requirements, including better enforcement to prevent bad actors and protections to prevent a market collapse. As talks continued Tuesday morning, Lummis posted on X that it was “now or never for the Clarity Act,” referring to the bill’s name. “The time for negotiating is over,” she wrote. Crypto cash has flooded campaigns Opponents, mostly Democrats, say the bill is a giveaway to the industry as crypto companies have become generous donors to candidates in both parties around the country. “It’s no secret that they are seeking to ram a bill through Congress based upon not the merits of the bill, but the threat that they will spend even more money in elections against people who vote against it,” said Democratic Sen. Chris Murphy of Connecticut. In 2024, the crypto industry spent more than US$130 million in congressional races, including US$40 million in Ohio and US$10 million each in Arizona and Michigan. “DC received a clear message that being anti-crypto is a good way to end your career, as it doesn’t represent the will of the voters,” Brian Armstrong, the CEO of Coinbase, the nation’s largest crypto exchange, wrote in a social media post the day after the 2024 election. ___ Mary Clare Jalonick, The Associated Press Associated Press writers Seung Min Kim and Joey Cappelletti contributed to this report.&lt;/p&gt;</content:encoded>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/crypto/2026/09/15/us-senate-to-vote-on-advancing-landmark-crypto-bill/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Tech CEOs call for AI regulation. Trump and U.S. Congress are not rushing to act</title>
-      <link>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/15/tech-ceos-call-for-ai-regulation-trump-and-us-congress-are-not-rushing-to-act/</link>
-      <guid isPermaLink="false">99672dcab272e78e0377f1e2</guid>
-      <pubDate>Tue, 15 Sep 2026 12:14:00 +0000</pubDate>
-      <description>The technology industry’s increasingly urgent warnings about the potential harm of artificial intelligence are slamming into political intransigence.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/15/tech-ceos-call-for-ai-regulation-trump-and-us-congress-are-not-rushing-to-act/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Steelworkers union president calls for Canada-U.S. unity in Quebec amid trade war</title>
-      <link>https://www.bnnbloomberg.ca/business/economics/2026/09/15/steelworkers-union-president-calls-for-canada-us-unity-in-quebec-amid-trade-war/</link>
-      <guid isPermaLink="false">8a2a725b217a949992a6551c</guid>
-      <pubDate>Tue, 15 Sep 2026 11:23:00 +0000</pubDate>
-      <description>The president of an international steelworkers union is calling for unity as the trade war between Canada and the United States continues.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/economics/2026/09/15/steelworkers-union-president-calls-for-canada-us-unity-in-quebec-amid-trade-war/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Keith Richards’ Top Picks for Sept. 15, 2026</title>
-      <link>https://www.bnnbloomberg.ca/markets/2026/09/15/keith-richards-top-picks-for-sept-15-2026/</link>
-      <guid isPermaLink="false">33c06bb730c23a8760da060b</guid>
-      <pubDate>Tue, 15 Sep 2026 10:22:00 +0000</pubDate>
-      <description>Keith Richards, President &amp; Chief Portfolio Manager, ValueTrend Wealth Management ...</description>
-      <content:encoded>&lt;p&gt;Keith Richards, President &amp;amp; Chief Portfolio Manager, ValueTrend Wealth Management
-Focus: Technical analysis&lt;/p&gt;&lt;p&gt;Top Picks: Alcoa , Pembina Pipeline , Global X Cash ETF
-MARKET OUTLOOK:
-On Aug. 31, I posted the ValueTrend monthly “Bear-O-Meter” (BOM) risk reading on my blog. The meter examines 11 indicators under six technical categories. The meter can move from “0” (relatively high risk, less upside potential) to 8 (relatively low risk, better upside potential). The lower the score, the worse the outlook is for the S&amp;amp;P 500, and vice versa. On Aug. 31, the BOM fell to “1”. This puts it firmly in “cautious” territory. Since that reading on Aug. 31 , the market has been negative. Risk is growing on a macro level.
-The main culprit is market breadth. We still have the divergence in the transports versus industrials as seen in the July BOM reading. Now we see the cumulative broad index (NYSE) advance versus decline line falling against the SPX. Add to that: Fewer than 15 per cent of S&amp;amp;P 500 stocks trade near their one-year highs while the index itself hovers within five per cent of a five-year high. Technically, these are bearish signs.
-Add in that the potential for a Fed rate change. Historically, this has led to market corrections. Technical support of 7,600 for the S&amp;amp;P 500 is being challenged as I type this. If that level cracks, I would anticipate a target of 7,300. The TSX300 may hold out a bit better due to its energy and materials sectors, although it will still be pressured.
-ValueTrend is holding about 20 per cent cash in our Equity Platform at this time. We are focused on hard assets, value, and defensive stocks.
-Market-moving news, fast:  Get the BNN Bloomberg App now
-Sign up for the Market Call Top Picks newsletter at  bnnbloomberg.ca/newsletters
-TOP PICKS:
-Keith Richards&amp;#x27; Top Picks: Alcoa, Pembina Pipeline &amp;amp; Global X Cash ETF Keith Richards, president &amp;amp; chief portfolio manager at ValueTrend Wealth Management, shares his top stock picks to watch in the market.&lt;/p&gt;&lt;p&gt;Alcoa (AA NYSE)
-Bottomed and bounced, looks like US$58 target is reasonable.
-Pembina Pipeline (PPL TSX)
-Basing after a pullback. We think all of the Canadian pipelines are undervalued and setting up for a rally.
-Global X Cash ETF (CASH TSX)
-This is just a High Interest Savings Account (HISA) ETF for holding cash.
-DISCLOSURE PERSONAL FAMILY PORTFOLIO/FUND AA NYSE Y N Y PPL TSX Y N Y CASH TSX Y N Y PAST PICKS: JULY 14, 2026
-Keith Richards&amp;#x27; Past Picks: Microsoft, Coca-Cola &amp;amp; Merck Keith Richards, president &amp;amp; chief portfolio manager at ValueTrend Wealth Management, discusses his past stock picks and how they&amp;#x27;re doing in the market today.&lt;/p&gt;&lt;p&gt;Microsoft (MSFT NASD)
-Then: US$384.93
-Now: US$501.84
-Return: 30%
-Total Return: 31%
-Coca-Cola (KO NYSE)
-Then: US$83.08
-Now: US$88.45
-Return: 6%
-Total Return: 7%
-Merck (MRK NYSE)
-Then: US$120.78
-Now: US$142.60
-Return: 18%
-Total Return: 19%
-Total Return Average: 19%
-DISCLOSURE PERSONAL FAMILY PORTFOLIO/FUND MSFT NASD N N N KO NYSE Y Y Y MRK NYSE Y Y Y&lt;/p&gt;</content:encoded>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/2026/09/15/keith-richards-top-picks-for-sept-15-2026/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>S&amp;P/TSX composite down nearly 300 points, U.S. stock markets also trade lower</title>
+      <title>S&amp;P/TSX composite down more than 100 points, U.S. markets also edge lower</title>
       <link>https://www.bnnbloomberg.ca/investing/2026/09/15/sptsx-composite-down-nearly-300-points-us-stock-markets-also-trade-lower/</link>
-      <guid isPermaLink="false">7e6931d225aa8696e563a2b4</guid>
+      <guid isPermaLink="false">bbb432c69970711e617beab1</guid>
       <pubDate>Tue, 15 Sep 2026 08:43:00 +0000</pubDate>
       <description>Canada’s main stock index was down nearly 300 points, weighed down by losses in the base metal, financial, technology and telecom sectors.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
@@ -139,48 +38,48 @@ DISCLOSURE PERSONAL FAMILY PORTFOLIO/FUND MSFT NASD N N N KO NYSE Y Y Y MRK NYSE
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Carney looks to open Canada’s 4 largest airports to private investment</title>
-      <link>https://www.bnnbloomberg.ca/business/politics/2026/09/15/carney-looks-to-open-canadas-4-largest-airports-to-private-investment/</link>
-      <guid isPermaLink="false">2682d2aa24cf1142157cb07d</guid>
-      <pubDate>Tue, 15 Sep 2026 06:19:00 +0000</pubDate>
-      <description>Prime Minister Mark Carney says he wants to see private investors operate Canada’s four largest airports — Toronto Pearson, Montreal, Calgary and Vancouver.</description>
+      <title>Canada 'must become more truly sovereign than it has been': former PM Harper</title>
+      <link>https://www.bnnbloomberg.ca/video/investing/2026/09/15/canada-must-become-more-truly-sovereign-than-it-has-been-former-pm-harper/</link>
+      <guid isPermaLink="false">7656ff9d099896a6ea221122</guid>
+      <pubDate>Tue, 15 Sep 2026 06:46:00 +0000</pubDate>
+      <description>Former prime minister Stephen Harper speaks about Canadian sovereignty and competitiveness in his closing remarks at the Investment Summit in Toronto.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/politics/2026/09/15/carney-looks-to-open-canadas-4-largest-airports-to-private-investment/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/09/15/canada-must-become-more-truly-sovereign-than-it-has-been-former-pm-harper/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>CPP Investments and Brookfield launch $50B fund to invest in big Canadian projects</title>
-      <link>https://www.bnnbloomberg.ca/business/company-news/2026/09/15/cpp-investments-and-brookfield-launch-50b-fund-to-invest-in-big-canadian-projects/</link>
-      <guid isPermaLink="false">0afec57e91d2b48b5cf99c59</guid>
-      <pubDate>Tue, 15 Sep 2026 04:45:00 +0000</pubDate>
-      <description>Canada Pension Plan Investment Board and Brookfield Asset Management Ltd. have announced a new $50-billion fund for large-scale investments in Canada.</description>
+      <title>What would it mean for Canada’s major airports to be privately operated?</title>
+      <link>https://www.bnnbloomberg.ca/video/investing/2026/09/15/what-would-it-mean-for-canadas-major-airports-to-be-privately-operated/</link>
+      <guid isPermaLink="false">5f0290e4bb968e84ae30d0d0</guid>
+      <pubDate>Tue, 15 Sep 2026 06:46:00 +0000</pubDate>
+      <description>Michael Serapio gives more information on what private investment and operation would mean for travellers and workers in Canada’s four largest airports.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/09/15/cpp-investments-and-brookfield-launch-50b-fund-to-invest-in-big-canadian-projects/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/09/15/what-would-it-mean-for-canadas-major-airports-to-be-privately-operated/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>'We're seeing a real growth mindset in the country right now': CPP Investments CEO</title>
-      <link>https://www.bnnbloomberg.ca/video/shows/the-close/2026/09/15/were-seeing-a-real-growth-mindset-in-the-country-right-now-cpp-investments-ceo/</link>
-      <guid isPermaLink="false">b3425c793ea2eedd27c0a8b6</guid>
-      <pubDate>Tue, 15 Sep 2026 03:40:00 +0000</pubDate>
-      <description>John Graham, president &amp; CEO of CPP Investments, joins BNN Bloomberg's Lindsay Biscaia live from the Canada Investment Summit.</description>
+      <title>U.S. Senate blocks cryptocurrency regulation as Democrats push back on Trump investments</title>
+      <link>https://www.bnnbloomberg.ca/markets/crypto/2026/09/15/us-senate-to-vote-on-advancing-landmark-crypto-bill/</link>
+      <guid isPermaLink="false">e6b67c14e2b428cf044ce4b2</guid>
+      <pubDate>Tue, 15 Sep 2026 05:35:00 +0000</pubDate>
+      <description>U.S. Senate Democrats blocked legislation to create a new regulatory framework for cryptocurrency, after demanding more limits on Trump’s investments.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/the-close/2026/09/15/were-seeing-a-real-growth-mindset-in-the-country-right-now-cpp-investments-ceo/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/crypto/2026/09/15/us-senate-to-vote-on-advancing-landmark-crypto-bill/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -189,46 +88,103 @@ DISCLOSURE PERSONAL FAMILY PORTFOLIO/FUND MSFT NASD N N N KO NYSE Y Y Y MRK NYSE
       <guid isPermaLink="false">9c56f1f1ec53acfe32d8a849</guid>
       <pubDate>Tue, 15 Sep 2026 03:21:00 +0000</pubDate>
       <description>Annette Mosman, CEO of APG Group, joins BNN Bloomberg's Lindsay Biscaia live from the Canada Investment Summit.</description>
-      <content:encoded>&lt;p&gt;Opens in new window
-&amp;#x27;We&amp;#x27;ve seen this ETF take in the most amount of fund flows this year&amp;#x27;: Grimba Opens in new window 06:04 · September 15, 2026 at 10:41a.m. EDT&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/the-open/2026/09/15/i-dont-see-red-flags-apg-group-ceo-on-investing-in-canada/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>U.S. stocks slip after oil prices and the bond market crank up the pressure</title>
-      <link>https://www.bnnbloomberg.ca/markets/dow-jones/2026/09/15/wall-street-points-to-more-losses-as-oil-bond-yields-rise-and-odds-of-a-fed-rate-hike-increase/</link>
-      <guid isPermaLink="false">876e1c2cba79bc6a1444b058</guid>
-      <pubDate>Tue, 15 Sep 2026 03:20:00 +0000</pubDate>
-      <description>Like markets, however, the anticipated direction of the Federal Reserve has volatile. As recently as March, the Fed had forecast it would cut its rate once this year. But with the Iran war flaring up ...</description>
+      <title>'We're heading in the right direction on economic growth': B.C. Premier David Eby</title>
+      <link>https://www.bnnbloomberg.ca/video/investing/2026/09/15/were-heading-in-the-right-direction-on-economic-growth-bc-premier-david-eby/</link>
+      <guid isPermaLink="false">fffad847adb3669668264680</guid>
+      <pubDate>Tue, 15 Sep 2026 02:47:00 +0000</pubDate>
+      <description>B.C. Premier David Eby speaks about the province's deficit, the need for social infrastructure and whether additional cuts to services are necessary.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/dow-jones/2026/09/15/wall-street-points-to-more-losses-as-oil-bond-yields-rise-and-odds-of-a-fed-rate-hike-increase/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/09/15/were-heading-in-the-right-direction-on-economic-growth-bc-premier-david-eby/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Oil extends gains, Brent crude nears $108</title>
-      <link>https://www.bnnbloomberg.ca/video/shows/commodities/2026/09/15/oil-extends-gains-brent-crude-nears-108/</link>
-      <guid isPermaLink="false">b4b58ea293717ca211221787</guid>
-      <pubDate>Tue, 15 Sep 2026 03:07:00 +0000</pubDate>
-      <description>Clayton Seigle, senior fellow, energy security and climate change program at the CSIS, joins BNN Bloomberg to discuss the price of oil amid uncertainty.</description>
+      <title>'We're winning record amounts of new business': One-on-one with Linamar CEO Linda Hasenfratz</title>
+      <link>https://www.bnnbloomberg.ca/video/investing/2026/09/15/were-winning-record-amounts-of-new-business-one-on-one-with-linamar-ceo-linda-hasenfratz/</link>
+      <guid isPermaLink="false">c4c95a2cdbc02704f03ed1f4</guid>
+      <pubDate>Tue, 15 Sep 2026 02:47:00 +0000</pubDate>
+      <description>Linamar CEO Linda Hasenfratz talks about staying 'flexible and nimble' in the current geopolitical environment.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/commodities/2026/09/15/oil-extends-gains-brent-crude-nears-108/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/09/15/were-winning-record-amounts-of-new-business-one-on-one-with-linamar-ceo-linda-hasenfratz/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Four major Canadian airports are open to private investment</title>
+      <link>https://www.bnnbloomberg.ca/video/investing/2026/09/15/four-major-canadian-airports-are-open-to-private-investment/</link>
+      <guid isPermaLink="false">dccef9db897c093954cd234b</guid>
+      <pubDate>Mon, 14 Sep 2026 22:45:00 +0000</pubDate>
+      <description>Montreal, Toronto, Calgary, and Vancouver airports will be open to private investment. Adrian Ghobrial explains what it means and how it will work.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/09/15/four-major-canadian-airports-are-open-to-private-investment/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>What private airport investments could mean for Canadians</title>
+      <link>https://www.bnnbloomberg.ca/video/investing/2026/09/15/what-private-airport-investments-could-mean-for-canadians/</link>
+      <guid isPermaLink="false">c3660cabe7f911f29ba4bc68</guid>
+      <pubDate>Mon, 14 Sep 2026 22:45:00 +0000</pubDate>
+      <description>CTV’s Chief Financial Correspondent Amanda Lang explains who could invest in Canadian airports and how new tax deductions could affect investment and Canadians.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/09/15/what-private-airport-investments-could-mean-for-canadians/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Why are former prime ministers taking part in the summit?</title>
+      <link>https://www.bnnbloomberg.ca/video/investing/2026/09/15/why-are-former-prime-ministers-taking-part-in-the-summit/</link>
+      <guid isPermaLink="false">05be40c4283a199473b9b036</guid>
+      <pubDate>Mon, 14 Sep 2026 22:45:00 +0000</pubDate>
+      <description>Former prime ministers Jean Chrétien and Stephen Harper are taking part in the summit. Judy Trinh looks at why and what to expect from Harper’s closing remarks.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/09/15/why-are-former-prime-ministers-taking-part-in-the-summit/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Inside the summit: What was accomplished and what comes next</title>
+      <link>https://www.bnnbloomberg.ca/video/investing/2026/09/15/inside-the-summit-what-was-accomplished-and-what-comes-next/</link>
+      <guid isPermaLink="false">92070ec60eb189c6f77bc12f</guid>
+      <pubDate>Mon, 14 Sep 2026 22:45:00 +0000</pubDate>
+      <description>CTV’s Chief Political Correspondent Vassy Kapelos shares the mood inside the summit and looks at what was accomplished and what could come next.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/09/15/inside-the-summit-what-was-accomplished-and-what-comes-next/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
