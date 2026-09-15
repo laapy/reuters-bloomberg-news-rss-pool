@@ -1,11 +1,221 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Business Standard — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Abusiness-standard.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 15 Sep 2026 07:25:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 12:51:18 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Sebi proposes stronger tech resilience norms for exchanges, depositories</title>
+      <link>https://www.business-standard.com/markets/news/sebi-proposes-stronger-tech-resilience-norms-for-exchanges-depositories-126091500795_1.html</link>
+      <guid isPermaLink="false">0c9b68aae17768e3547ec669</guid>
+      <pubDate>Tue, 15 Sep 2026 11:04:38 +0000</pubDate>
+      <description>The proposed framework seeks to shorten disaster recovery drills to at least four hours while strengthening operational resilience and data recovery requirements ...</description>
+      <dc:creator>Our Bureau</dc:creator>
+      <content:encoded>&lt;p&gt;The Securities and Exchange Board of India (Sebi) on Tuesday proposed shortening disaster recovery (DR) drills for market infrastructure institutions (MIIs) to at least four hours, while introducing tighter operational resilience and data recovery requirements for stock exchanges. Under the proposed framework, MIIs would conduct DR drills on a non-working day, starting operations at the primary data centre (PDC) and switching over to the disaster recovery site (DRS). The overall drill would need to run for at least four hours, including the switchover time. The regulator said the changes were proposed following representations from exchanges, particularly those with commodity derivatives segments where trading for certain products extends until 11:55 pm. Conducting drills for the entire market session can be cumbersome for both market participants and MIIs, it said. The proposed drills, however, would have to cover all market-operation scenarios and simulate real-life loads and participation close to actual levels. MIIs would also be required to test scenarios that could affect their systems, with comprehensive scenario lists reviewed by their Standing Committee on Technology. Sebi has also proposed strengthening resilience at the PDC through comprehensive stress and mock testing covering not just transaction volumes and orders per second, but also database records, table sizes, masters and other non-transactional components. MIIs would additionally have to regularly test the fault tolerance of their PDC and DRS to ensure redundant components automatically take over in the event of a failure. They would be required to identify and monitor system limits, including database, configuration and table-size limits, to prevent operational bottlenecks. For stock exchanges, Sebi has proposed a new mechanism to recover lost trade data from clearing corporations if a disruption also affects replication at the near site or DRS. Exchanges and clearing corporations would have to put standard operating procedures in place for such recovery. The proposals aim to ease the conduct of DR drills while strengthening the operational resilience of MIIs. Public comments have been invited until October 5.&lt;/p&gt;</content:encoded>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.business-standard.com/markets/news/sebi-proposes-stronger-tech-resilience-norms-for-exchanges-depositories-126091500795_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Iran's Hormuz leverage weakens but oil supply risks remain: Mirae Asset</title>
+      <link>https://www.business-standard.com/markets/commodities/iran-s-hormuz-leverage-weakens-but-oil-supply-risks-remain-mirae-asset-126091500621_1.html</link>
+      <guid isPermaLink="false">8fe2ee2cad2126708c4c2ccd</guid>
+      <pubDate>Tue, 15 Sep 2026 09:51:33 +0000</pubDate>
+      <description>Several shipping tracking companies are reporting improved oil flows from the South side of the Strait of Hormuz, which comes under Omani control: Oil price outlook ...</description>
+      <dc:creator>Mohammed Imran</dc:creator>
+      <content:encoded>&lt;p&gt;Disclaimer: This article is written by Mohammed Imran, research analyst, Mirae Asset Sharekhan. Views expressed are his own. Readers&amp;#x27; discretion is advised. The past week has been volatile for the global energy markets, with Iran-backed Houthis in Yemen taking control of the coastal areas bordering the strategic Bab al-Mandeb Strait. They gained ground in their push to seize Mokha near the southern end of the Red Sea. The dated Brent is quoted at $130/bbl and futures are up almost 80 per cent this year, although the benchmark remains below its wartime peak of just above $126 a barrel reached in April.  As Tehran’s leverage inside Hormuz becomes less decisive, the geography of pressure appears to be widening beyond Hormuz itself. Several shipping tracking companies are reporting improved oil flows from the South side of the Strait of Hormuz, which comes under Omani control. Nearly 6-9 million barrels of oil are being routed through the strait with the help of the US Navy; Saudi crude exports are trending higher after a significant pickup from the Kingdom’s Eastern terminals as exporters are gradually learning to move barrels through a disrupted Hormuz.  The crude oil stored on tankers that have been stationary for at least seven days fell 23 per cent week-on-week to 76.39 million bbl in the week ended September 11, the lowest in a year. This further indicates a loosening grip of Iran, but its own exports have dropped sharply due to the US blockade. We could see Iranian aggression as the US approaches mid-term elections to pressure the US regime through higher oil prices. Trump working to ease Ukraine-Russia attacksUkraine&amp;#x27;s intense attacks on Russian energy infrastructure have been a major factor in driving the shortages of diesel products in Europe, and a surge in crack spreads. The ICE gasoil crack remains above $80/bbl and near record levels. This suggests the market may be a bit sceptical about Trump&amp;#x27;s call for an agreement between Russia and Ukraine not to attack energy infrastructure. East-West pipeline maintenanceThe repair work on the Saudi’s East-West pipeline, which was damaged by a Houthi attack, could see 4 per cent of world supplies affected over 3-4 weeks. Prices are likely to remain well supported until we get clarity. The Saudis have oil in storage tanks at Yanbu, which should sustain exports for several days. The risk of port stocks running out before the pipeline resumes lingers. Some suggest the Saudis are looking to increase exports via the Strait of Hormuz amid the pipeline outage. Given the disruptions in the Strait, that may be easier said than done. Global Demand and OECD inventory levelsOPEC’s latest demand outlook points to a still-expanding oil market, though growth remains uneven. The group expects world oil demand to rise by 0.4 mbpd in 2026 to 105.84 mbpd, before adding a stronger 2.4 mbpd in 2027 to reach 108.2 mbpd. This keeps the medium-term demand picture constructive, but not without downside risk from weaker macro signals. Inventory data, however, show that the market has not fully loosened. OECD commercial oil inventories rose by 9.8 mb m-o-m to 2,763 mb but remain 57 mb lower y-o-y and 47.9 mb below the latest five-year average. OECD commercial crude stocks stood at 1,313 mb, down 29.2 mb y-o-y, 35.2 mb below the five-year average and 149.7 mb below the 2015–2019 average. The EIA’s balances reinforce this tightness. It estimates August global demand at 103.70 mbpd against supply of 99.63 mbpd, while September demand is projected at 104.21 mbpd versus supply of 99.41 mbpd. Offline supply also increased to 11.59 mbpd in August from 9.785 mbpd in July. As a result, the EIA now sees a 2026 deficit of 1.97 mbpd, slightly wider than its earlier 1.91 mbpd estimate. For 2027, it still expects a surplus of 4.90 mbpd, suggesting that current tightness may ease if disrupted supply returns and demand growth moderates. Refining capacity recovered in AugustThe loss of Russian refining capacity has been absorbed by higher runs from Asian refiners, which increased throughput by about 520 tb/d, m-o-m, to average 25.20 mb/d in August as refinery utilisation rates increased by 1.0 pp to average 84.47 per cent. While US continued to run at 97 per cent of capacity, the overall crack spread will still remain higher due to stronger demand. Macro data signals slowdownChina domestic demand is signalling weakness as retail sales slowed to 0.4 per cent Y-o-Y in August, down from 0.6 per cent. This was the second straight month of deceleration, bringing year-to-date retail sales growth down to just 1.1 per cent Y-o-Y. China&amp;#x27;s fixed asset investment growth fell -7.2 per cent Y-o-Y through the first eight months of the year. The entire property sector remains a major drag on the economy, with investment down 19.9 per cent Y-o-Y. OutlookWe believe that central banks&amp;#x27; moves to tame inflation would likely come at the cost of an economic slowdown; however, the supply disruption will remain pertinent unless US-Iran reaches resolution through diplomacy. With the race to mid-term election, we expect Iran to put pressure on US allies through raising energy prices with gaining edge at Red sea through Houthis. We expect Brent heading for $120/barrel in October and the average Brent prices for 2026 would stay around $92/barrel. As Trump&amp;#x27;s campaign for the mid-term election intensifies, we could see news flow that could lead to a sharper correction, but that should be considered a long opportunity, as underlying supply would remain tight for at least six months.&lt;/p&gt;</content:encoded>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.business-standard.com/markets/commodities/iran-s-hormuz-leverage-weakens-but-oil-supply-risks-remain-mirae-asset-126091500621_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>AI firm Flam raises $40 million in Series B round led by QED Investors</title>
+      <link>https://www.business-standard.com/companies/start-ups/ai-firm-flam-raises-40-million-in-series-b-round-led-by-qed-investors-126091500962_1.html</link>
+      <guid isPermaLink="false">25590582bd7319e8ed6a7123</guid>
+      <pubDate>Tue, 15 Sep 2026 05:45:00 +0000</pubDate>
+      <description>Flam plans to use the fresh capital for research and development of its AI models, expanding its product suite and scaling enterprise sales globally ...</description>
+      <content:encoded>&lt;p&gt;Home / Companies / Start Ups / AI firm Flam raises $40 million in Series B round led by QED Investors&lt;/p&gt;&lt;p&gt;AI firm Flam raises $40 million in Series B round led by QED Investors Flam plans to use the fresh capital for research and development of its AI models, expanding its product suite and scaling enterprise sales globally&lt;/p&gt;&lt;p&gt;Representative Image (Credit: Bloomberg&lt;/p&gt;&lt;p&gt;Udisha Srivastav New Delhi 2 min read Last Updated : Sep 15 2026 | 6:15 PM IST&lt;/p&gt;&lt;p&gt;Listen to This Article&lt;/p&gt;&lt;p&gt;Artificial intelligence (AI) interactive content company Flam has raised $40 million in a Series B funding round led by QED Investors. Other investors who joined the round include Claypond Capital, Martin Chavez, Olivier Pomel, Venky Harinarayan and Shahrukh Khan, with existing investors RTP Global and Dovetail doubling down.
+  The company plans to use the capital for research and development on Flam&amp;#x27;s AI models, expanding the product suite and scaling enterprise sales globally.
+  Flam said it has signed more than 100 enterprise customers in six quarters, including Google, State Farm and Diageo. These customers use the service for marketing, product visualisation, learning and development, entertainment, fan engagement, customer support and sales.&lt;/p&gt;&lt;p&gt;“Flam is built on a simple observation. Content has moved in waves, from text to images to video, and every wave flowed one way, creator to viewer. We think interactive is the next default for the internet,” said Shourya Agarwal, founder of Flam.  
+“The demand was always there. The technology wasn&amp;#x27;t. We have made interactivity effortless to build and deploy at enterprise scale,” Agarwal added.
+Also Read&lt;/p&gt;&lt;p&gt;AI slow down: US-China AI rivalry puts global AI governance at a crossroads&lt;/p&gt;&lt;p&gt;AI is calling: How India plans to tell legitimate automated calls from spam&lt;/p&gt;&lt;p&gt;OpenAI acquires smartphone camera maker Glass Imaging for over $300 million&lt;/p&gt;&lt;p&gt;Google DeepMind researcher quits, says AI may cause &amp;#x27;immense harm&amp;#x27; in 5 yrs&lt;/p&gt;&lt;p&gt;Satya Nadella warns AI must stay under human control in internal memo&lt;/p&gt;&lt;p&gt;Flam holds more than 15 patents and ships three formats. Among these, Flicks are interactive videos that switch person, product or scene mid-playback. Forge, Flam&amp;#x27;s editing model, takes image references and changes only the specified element.
+  Airboards are high-fidelity 3D content on a camera interface, with touch, voice interactions and haptic feedback. Visual Agents are human-like characters that hold conversations and take agentic actions.&lt;/p&gt;&lt;p&gt;Nigel Morris, co-founder and managing partner at QED Investors, said: &amp;quot;Almost every frontier AI content company we see is optimizing what already exists. Flam pointed at something else: how much of the content ecosystem is still untouched. That gap is bigger than most people think, and Flam is the first team we&amp;#x27;ve seen with the infrastructure to go after it.&amp;quot;
+ 
+More From This Section&lt;/p&gt;&lt;p&gt;Google picks 4 Indian startups for inaugural DeepMind AI accelerator&lt;/p&gt;&lt;p&gt;Brics 2026: Delhi Declaration backs startup fund, incubator network&lt;/p&gt;&lt;p&gt;Brics Summit 2026: Govt pitches 37 deep-tech startups to investors&lt;/p&gt;&lt;p&gt;Ultraviolette plans ₹779 crore Tamil Nadu plant as EV demand surges&lt;/p&gt;&lt;p&gt;AI-led personalisation to open opportunities for new startups: Razorpay CEO&lt;/p&gt;&lt;p&gt;Topics : artifical intelligence start- ups fundings
+Buzzing : Stock Market Live Stocks to Watch Stocks to Buy Nifty Outlook Delhi traffic advisory NSE IPO Tata group stocks India vs Afghanistan 2nd T20I Pranav Constructions IPO&lt;/p&gt;&lt;p&gt;Don&amp;#x27;t miss the most important news and views of the day. Get them on our Telegram channel
+First Published: Sep 15 2026 | 6:15 PM IST&lt;/p&gt;</content:encoded>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.business-standard.com/companies/start-ups/ai-firm-flam-raises-40-million-in-series-b-round-led-by-qed-investors-126091500962_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>NSE IPO draws 'unexpectedly large' demand, anchor book tops ₹6,000 cr: CEO</title>
+      <link>https://www.business-standard.com/markets/ipo/nse-ipo-draws-unexpectedly-large-demand-anchor-book-tops-6-000-cr-ceo-126091500875_1.html</link>
+      <guid isPermaLink="false">3235a75dcdc53475f025e764</guid>
+      <pubDate>Tue, 15 Sep 2026 04:46:00 +0000</pubDate>
+      <description>NSE's Ashishkumar Chauhan said demand for the IPO significantly exceeded shares available, while the anchor book was reduced from about ₹9,000 crore to over ₹6,000 crore ...</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.business-standard.com/markets/ipo/nse-ipo-draws-unexpectedly-large-demand-anchor-book-tops-6-000-cr-ceo-126091500875_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>AI slow down: US-China AI rivalry puts global AI governance at a crossroads</title>
+      <link>https://www.business-standard.com/technology/artificial-intelligence/ai-slow-down-us-china-ai-rivalry-puts-global-ai-governance-at-a-crossroads-126091500775_1.html</link>
+      <guid isPermaLink="false">b1d586c453574a71b2311588</guid>
+      <pubDate>Tue, 15 Sep 2026 03:55:00 +0000</pubDate>
+      <description>As the US and China race to lead AI, safety and governance face a difficult test: can the rest of the world have a say if the two powers set the pace of development?</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.business-standard.com/technology/artificial-intelligence/ai-slow-down-us-china-ai-rivalry-puts-global-ai-governance-at-a-crossroads-126091500775_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>CCPA probes Apple's iOS 18 warranty terms over costly iPhone repairs</title>
+      <link>https://www.business-standard.com/industry/news/ccpa-probes-apple-s-ios-18-warranty-terms-over-costly-iphone-repairs-126091500576_1.html</link>
+      <guid isPermaLink="false">e55d275738003e53a2f456a3</guid>
+      <pubDate>Tue, 15 Sep 2026 02:32:00 +0000</pubDate>
+      <description>The sparring is shaping as Apple's latest headache in a growth market where it is fast expanding iPhone manufacturing and rapidly growing market share ...</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.business-standard.com/industry/news/ccpa-probes-apple-s-ios-18-warranty-terms-over-costly-iphone-repairs-126091500576_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>India trade deficit eases to $26.86 billion in Aug as exports jump 26%</title>
+      <link>https://www.business-standard.com/economy/news/indias-trade-deficit-eases-to-26-86-billion-in-august-126091500599_1.html</link>
+      <guid isPermaLink="false">40badf20e4312df2b898e6e0</guid>
+      <pubDate>Tue, 15 Sep 2026 02:23:00 +0000</pubDate>
+      <description>Goods exports rose 26 per cent year-on-year to $43.81 billion in August, outpacing the 14 per cent rise in imports to $70.67 billion ...</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.business-standard.com/economy/news/indias-trade-deficit-eases-to-26-86-billion-in-august-126091500599_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>NPCI consults banks, payment firms on fees for large UPI payments</title>
+      <link>https://www.business-standard.com/industry/news/npci-consults-banks-payment-firms-on-fees-for-large-upi-payments-126091500410_1.html</link>
+      <guid isPermaLink="false">75fa45bac541b42cfdec85c6</guid>
+      <pubDate>Tue, 15 Sep 2026 01:40:00 +0000</pubDate>
+      <description>The consultations come after India changed its payments legislation on Monday, allowing firms to charge transactions of more than ₹2,000 ...</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.business-standard.com/industry/news/npci-consults-banks-payment-firms-on-fees-for-large-upi-payments-126091500410_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>RBI files caveat after rejecting Tata Sons bid to avoid market listing</title>
+      <link>https://www.business-standard.com/companies/news/rbi-files-caveat-after-rejecting-tata-sons-bid-to-avoid-market-listing-126091500493_1.html</link>
+      <guid isPermaLink="false">db6983c637b005be09040e98</guid>
+      <pubDate>Tue, 15 Sep 2026 01:19:00 +0000</pubDate>
+      <description>The move follows the RBI's rejection of Tata Sons' application to deregister as a non-banking financial company, a decision that pushes the holding company closer to a stock market listing ...</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.business-standard.com/companies/news/rbi-files-caveat-after-rejecting-tata-sons-bid-to-avoid-market-listing-126091500493_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Air India board meets to discuss new CEO's salary structure, other matters</title>
+      <link>https://www.business-standard.com/companies/news/air-india-board-meets-to-discuss-new-ceo-s-salary-structure-other-matters-126091500382_1.html</link>
+      <guid isPermaLink="false">d43c188e972a6cc6678b4882</guid>
+      <pubDate>Tue, 15 Sep 2026 00:38:00 +0000</pubDate>
+      <description>At the board meeting chaired by N Chandrasekaran, who is the Chairman of Tata Sons, various matters, including the salary structure of the incoming CEO, are expected to be discussed ...</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.business-standard.com/companies/news/air-india-board-meets-to-discuss-new-ceo-s-salary-structure-other-matters-126091500382_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>From onions, ginger to cooking oil: Why food prices are rising in India</title>
+      <link>https://www.business-standard.com/economy/news/from-onions-ginger-to-cooking-oil-why-food-prices-are-rising-in-india-126091500258_1.html</link>
+      <guid isPermaLink="false">6be4d0b27e412e5ebda5d0b5</guid>
+      <pubDate>Mon, 14 Sep 2026 22:25:00 +0000</pubDate>
+      <description>Rising prices of onions, cooking oil, ginger and other staples are squeezing Indian households as weak monsoon rains, ethanol demand and global conflicts threaten food supplies ...</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.business-standard.com/economy/news/from-onions-ginger-to-cooking-oil-why-food-prices-are-rising-in-india-126091500258_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Asian shares slip as oil and yields rise ahead of Fed, BOJ meetings</title>
+      <link>https://www.business-standard.com/markets/news/asian-shares-slip-as-oil-and-yields-rise-ahead-of-fed-boj-meetings-126091500073_1.html</link>
+      <guid isPermaLink="false">1e69a783d441d6ca93495187</guid>
+      <pubDate>Mon, 14 Sep 2026 19:58:00 +0000</pubDate>
+      <description>Asian equities struggled as investors assessed rising oil prices, West Asia tensions and concerns over AI development ahead of key US and Japan central bank meetings ...</description>
+      <content:encoded>&lt;p&gt;Home / Markets / News / Asian shares slip as oil and yields rise ahead of Fed, BOJ meetings&lt;/p&gt;&lt;p&gt;Asian shares slip as oil and yields rise ahead of Fed, BOJ meetings Asian equities struggled as investors assessed rising oil prices, West Asia tensions and concerns over AI development ahead of key US and Japan central bank meetings&lt;/p&gt;&lt;p&gt;MSCI&amp;#x27;s broadest index of Asia-Pacific shares outside Japan was down 0.12%, led by South Korea&amp;#x27;s 0.25% dip | Image: Bloomberg&lt;/p&gt;&lt;p&gt;Reuters TOKYO 3 min read Last Updated : Sep 15 2026 | 8:28 AM IST&lt;/p&gt;&lt;p&gt;Listen to This Article&lt;/p&gt;&lt;p&gt;Asian shares struggled on Tuesday as investors weighed West Asia tensions and calls by industry figures for a slowdown in AI development, while elevated oil prices and higher bond yields added to caution before key central bank meetings in the US and Japan.
+Yemen&amp;#x27;s Iran-aligned Houthis launched a new attack on Saudi Arabia on Monday, after Riyadh blamed Iran-backed fighters in Iraq for an attack on the kingdom&amp;#x27;s east-west pipeline that it said could disrupt as much as 4% of global oil supply. Gulf Arab states also postponed planned talks with Iran.
+Renewed supply concerns kept markets on edge, with US crude rising 1.27% to $102.68 a barrel while Brent was up 1.21% to $106.96 per barrel.&lt;/p&gt;&lt;p&gt;&amp;quot;Markets are likely to remain focused on the risk that higher crude oil prices could add to inflationary pressures and, in turn, push interest rates higher,&amp;quot; said Yokoo Akihiko, analyst at Mitsubishi UFJ Bank, in a note.
+Calls by leading AI figures to slow development continued to reverberate through markets even as US President Donald Trump played down concerns over misuse of the technology, saying existing US safeguards were adequate and that China would benefit from doubts over AI development.
+Also Read&lt;/p&gt;&lt;p&gt;Asian AI stocks slide as top lab CEOs call for slower development of tech&lt;/p&gt;&lt;p&gt;$7 billion gas bill sees developing Asian nations sour on LNG future&lt;/p&gt;&lt;p&gt;Asian shares slide as oil spike fuels inflation, rate hike concerns&lt;/p&gt;&lt;p&gt;South Korea tests global investor appetite with longer trading hours&lt;/p&gt;&lt;p&gt;Asian stocks slide as oil tops $100, investors brace for US inflation data&lt;/p&gt;&lt;p&gt;MSCI&amp;#x27;s broadest index of Asia-Pacific shares outside Japan was down 0.12%, led by South Korea&amp;#x27;s 0.25% dip. Japan&amp;#x27;s Nikkei edged 0.19% higher after reversing early losses. Chip-related shares were mixed, with South Korea&amp;#x27;s Samsung Electronics losing 0.2% while Japan&amp;#x27;s Kioxia gained 3.3%.&lt;/p&gt;&lt;p&gt;The Federal Open Market Committee begins its two-day meeting later in the day, with markets pricing in a 90% chance of a rate hike that would mark the Fed&amp;#x27;s first increase since mid-2023.
+&amp;quot;While inflation continues to decelerate, recent upside surprises mean the pace of disinflation has been slower and less convincing than&amp;quot; the Fed likely requires, analysts at Morgan Stanley said in a report, expecting a 25 basis-point hike on Wednesday and in December.
+&amp;quot;We see arguments for both a hike and a hold, but signs of second-round effects from energy prices, strong demand tied to AI-related investment, a neutral rate that is possibly temporarily higher, and concerns about credibility mean the balance of risks now argues for a somewhat more restrictive policy.&amp;quot;&lt;/p&gt;&lt;p&gt;Overnight, benchmark 10-year US Treasury yields touched 5% for the first time since 2023, while Germany&amp;#x27;s 10-year bond yield climbed above 3.51%, its highest level since 2009. On Tuesday, Japan&amp;#x27;s benchmark 10-year government bond yield popped back to 3%.
+The Bank of Japan is widely expected to raise its interest rate by 25 basis points to 1.25% at the end of its two-day meeting on Friday and signal more tightening ahead. Policymakers are seeking to shore up the yen after intervention helped steer the currency away from a 40-year low.
+In currency markets, the dollar index, which measures the greenback against a basket of currencies including the yen and the euro, rose 0.05% to 99.53, with the euro down 0.03% at $1.1543.&lt;/p&gt;&lt;p&gt;Against the Japanese yen, the dollar advanced 0.17% to 154.61.
+Spot gold eased 0.15% to $4,291.59 an ounce, while spot silver fell 0.31% to $63.03 an ounce.&lt;/p&gt;&lt;p&gt;(Only the headline and picture of this report may have been reworked by the Business Standard staff; the rest of the content is auto-generated from a syndicated feed.)&lt;/p&gt;&lt;p&gt;More From This Section&lt;/p&gt;&lt;p&gt;Stock Market LIVE: GIFT Nifty signals positive open; Asian markets fall as firm oil prices weigh&lt;/p&gt;&lt;p&gt;Stocks to watch: HDFC Bank, HFCL, Emami, Coforge, Solar Inds, Vodafone Idea&lt;/p&gt;&lt;p&gt;Nifty outlook, 2 stock ideas for today by Angel One&amp;#x27;s Hitesh Rathi&lt;/p&gt;&lt;p&gt;Paytm among 3 stock ideas for today by Choice Equity&amp;#x27;s Sachin Gupta&lt;/p&gt;&lt;p&gt;NSE vs BSE: Comparing dividends, bonuses &amp;amp; splits for shareholders&lt;/p&gt;&lt;p&gt;Topics : Asian stocks Asian Shares Asian markets
+Buzzing : Tata Sons Listing Delhi Traffic Advisory Weather Update Bank Strike Today Top 10 Chatgpt 80s Look Prompt NSE IPO Price Band iPhone 18 Pro series debuts Brics Summit 2026 Routes What&amp;#x27;s Open or Closed in Delhi&lt;/p&gt;&lt;p&gt;Don&amp;#x27;t miss the most important news and views of the day. Get them on our Telegram channel
+First Published: Sep 15 2026 | 8:27 AM IST&lt;/p&gt;</content:encoded>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.business-standard.com/markets/news/asian-shares-slip-as-oil-and-yields-rise-ahead-of-fed-boj-meetings-126091500073_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
   </channel>
 </rss>
