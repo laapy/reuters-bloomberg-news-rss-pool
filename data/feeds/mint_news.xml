@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Mint — diagnostic source feed</title>
     <link>https://www.livemint.com/rss/news</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 14 Sep 2026 23:24:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 01:48:46 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>US-Iran War LIVE: Houthi attacks on 3 Saudi cities injure 13 civilians</title>
+      <link>https://www.livemint.com/news/us-news/us-iran-war-live-updates-houthis-attack-saudi-strait-of-hormuz-oil-price-trump-11789433169706.html</link>
+      <guid isPermaLink="false">8eec4adadced882077127d96</guid>
+      <pubDate>Tue, 15 Sep 2026 01:03:07 +0000</pubDate>
+      <description>West Asia conflict escalates as Houthis attack Saudi cities, injuring 13 civilians, while their Yemen advance continues. Gulf states postpone Iran talks on reopening Strait of Hormuz, raising fresh concerns over oil supplies and regional stability.</description>
+      <dc:creator>Prabhakar Jha</dc:creator>
+      <content:encoded>&lt;p&gt;The Yemen conflict escalated on Monday as Iran-aligned Houthis launched missile and drone attacks on Saudi cities, injuring 13 civilians, while Houthi forces continued their advance along Yemen&amp;#x27;s Red Sea coast. The developments came as Gulf states postponed talks with Iran over reopening the Strait of Hormuz, raising fresh concerns over the conflict’s impact on regional stability and global oil supplies.Houthi attacks on Saudi ArabiaThe Iran-aligned Houthis said they fired dozens of missiles and drones at a military airbase in Khamis Mushait, targeting aircraft hangars, radar systems, runways and ammunition depots. Saudi authorities issued emergency alerts in several southern cities, while the Saudi-led coalition said 13 civilians were injured.Houthis advance along Yemen&amp;#x27;s Red Sea coastHouthi forces have continued to strengthen their positions along Yemen&amp;#x27;s western coast, including taking Perim Island at the mouth of the Red Sea. Saudi and Yemeni air forces have stepped up strikes on Houthi targets, including around the Red Sea port of Mocha.Strait of Hormuz tensions deepenPlanned talks between Iran and Gulf states on reopening the Strait of Hormuz were postponed, while conflicting reports emerged over an oil tanker damaged in the region. The Revolutionary Guard said the waterway remained under its control and was closed.Trump says Iran wants a dealUS President Donald Trump said Iran wants to make a deal and that he would decide whether the United States would engage. Washington has so far resisted Saudi requests for direct military intervention beyond intelligence support, according to Reuters.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>mint_news</wire:foundAt>
+      <wire:platform>Mint</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.livemint.com/news/us-news/us-iran-war-live-updates-houthis-attack-saudi-strait-of-hormuz-oil-price-trump-11789433169706.html</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: according to Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>
