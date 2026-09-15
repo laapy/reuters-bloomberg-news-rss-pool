@@ -1,218 +1,311 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>TBS NEWS DIG — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Anewsdig.tbs.co.jp+%28Reuters+OR+Bloomberg+OR+%E3%83%AD%E3%82%A4%E3%82%BF%E3%83%BC+OR+%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%90%E3%83%BC%E3%82%B0%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 15 Sep 2026 17:34:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:01:31 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>アンソロピックCEO、AI開発の減速訴え－人類に「深刻な」リスク</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2940942</link>
-      <guid isPermaLink="false">5463370a10c56e64cd1f7c4b</guid>
-      <pubDate>Sat, 12 Sep 2026 15:57:32 +0000</pubDate>
-      <description>（ブルームバーグ）：AIモデル「Claude （クロード）」を開発した米アンソロピックのダリオ・アモデイ最高経営責任者（CEO）は12日、AIが人類に及ぼす「深刻な」リスクへの懸念が高まって ...</description>
-      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;1時間前
-ゲイツ財団、AIアクセス拡大に10億ドル－貧富の格差拡大を警告&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2940942</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
-      <title>「人類の滅亡を招く」オープンAIが開発ペース減速を検討か 開発中AIによるサイバー攻撃や競合企業研究者の警告受け</title>
-      <link>https://newsdig.tbs.co.jp/articles/-/2940528</link>
-      <guid isPermaLink="false">a2b134dae38aa48f62334a94</guid>
-      <pubDate>Sat, 12 Sep 2026 03:28:26 +0000</pubDate>
-      <description>チャットGPTを手掛けるアメリカのオープンAIが、AIの開発ペースを減速させることを検討していると報じられました。ブルームバーグ通信は関係者の話として、オープンAIのサム・アルトマン ...</description>
-      <dc:creator>TBS NEWS DIG</dc:creator>
-      <content:encoded>&lt;p&gt;「人類の滅亡を招く」オープンAIが開発ペース減速を検討か　開発中AIによるサイバー攻撃や競合企業研究者の警告受け&lt;/p&gt;&lt;p&gt;TBSテレビ&lt;/p&gt;&lt;p&gt;2026年9月12日(土) 12:28&lt;/p&gt;&lt;p&gt;国際&lt;/p&gt;&lt;p&gt;チャットGPTを手掛けるアメリカのオープンAIが、AIの開発ペースを減速させることを検討していると報じられました。ブルームバーグ通信は関係者の話として、オープンAIのサム・アルトマンCEOが今週開いた社内ミーテ…&lt;/p&gt;&lt;p&gt;続きを読む&lt;/p&gt;</content:encoded>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/-/2940528</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>気軽に話せる相手の有無で孤独感に38.9pt差 「つながる余地」を持つ居酒屋の社会的価値</title>
-      <link>https://newsdig.tbs.co.jp/articles/gallery/2929703?station=withbloomberg</link>
-      <guid isPermaLink="false">20755e7db3a67aa994bc9069</guid>
-      <pubDate>Sat, 12 Sep 2026 03:00:00 +0000</pubDate>
-      <description>【来週の円相場】円高巻き戻しの公算、日米中銀の利上げスタンス焦点 ...</description>
+      <title>ウクライナ新首相が外国メディアと初のインタビュー、財政難に危機感 - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE5JMi04M0tfT0hGd2p2UUhmXzZmYVNnN3BXcWpoODlTY2JiQmRWYV91WFBMZHdvRE0yQTRpcUxfcnQtdVI2R19XanhuemRNRV9hSVJ1MTNDQUVGZjV1LU1fYzA5dnh1QkxVNC1JaU8tM1JBNnlq?oc=5</link>
+      <guid isPermaLink="false">40d3350bfead750c85dfa600</guid>
+      <pubDate>Tue, 15 Sep 2026 17:15:22 +0000</pubDate>
+      <description>ウクライナ新首相が外国メディアと初のインタビュー、財政難に危機感    TBS NEWS DIG</description>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/gallery/2929703?station=withbloomberg</wire:canonicalUrl>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE5JMi04M0tfT0hGd2p2UUhmXzZmYVNnN3BXcWpoODlTY2JiQmRWYV91WFBMZHdvRE0yQTRpcUxfcnQtdVI2R19XanhuemRNRV9hSVJ1MTNDQUVGZjV1LU1fYzA5dnh1QkxVNC1JaU8tM1JBNnlq?oc=5</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>円は再び1ドル163円に下落へ、大規模なレパトリ想定せず－モルガンS</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2940292</link>
-      <guid isPermaLink="false">933b517429ae176bb13eafd4</guid>
-      <pubDate>Fri, 11 Sep 2026 21:18:00 +0000</pubDate>
-      <description>（ブルームバーグ）：モルガン・スタンレーのストラテジストは、投資家がキャリートレードを再構築するのに伴い、円相場は7月に付けた水準まで再び下落すると予想している ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2940292</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
-      <title>オープンAI 最先端AI開発のペース減速を検討か アルトマンCEOが従業員に説明と米報道</title>
-      <link>https://newsdig.tbs.co.jp/articles/-/2940238</link>
-      <guid isPermaLink="false">17cfed60732ca606a9cf86b9</guid>
-      <pubDate>Fri, 11 Sep 2026 21:05:38 +0000</pubDate>
-      <description>ネット予約できない？生命保険の受取は？選挙で混乱？ 結婚して同姓同名になった夫婦に【あるある】聞いてみたら、意外 ...</description>
-      <dc:creator>TBS NEWS DIG</dc:creator>
-      <content:encoded>&lt;p&gt;オープンAI 最先端AI開発のペース減速を検討か　アルトマンCEOが従業員に説明と米報道&lt;/p&gt;&lt;p&gt;TBSテレビ&lt;/p&gt;&lt;p&gt;2026年9月12日(土) 06:05&lt;/p&gt;&lt;p&gt;国際&lt;/p&gt;&lt;p&gt;チャットGPTを手掛けるアメリカのオープンAIが最先端のAIの開発ペースを減速させることを検討していると、ブルームバーグ通信が報じました。ブルームバーグ通信は関係者の話として、オープンAIのサム・アルトマンCE…&lt;/p&gt;&lt;p&gt;続きを読む&lt;/p&gt;</content:encoded>
+      <title>【Apple初の折りたたみiPhone「業界最小級の折り目」】日本価格「最高57万円台」／メモリコスト高騰→“海外値上げ”で回収／Bloomberg記者 マーク・ガーマン【WORLD DECODER】 - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE1HMlJ2YVc2TXBQWk9tdmM0Zjh5ZVJiLWhSNjRyZTlINFd6Y2ZPX3dpTWlkMzBMb21OQjBEV0ZfQzJhVnFObmY5ZjhIa3dNWFFTNS1VdmZyUTQ2Vmh6bmozU1VqTnRnX1pkOXZKcXBzdmNTOF95?oc=5</link>
+      <guid isPermaLink="false">522a39a3de364c91ecea8ec7</guid>
+      <pubDate>Tue, 15 Sep 2026 10:00:00 +0000</pubDate>
+      <description>【Apple初の折りたたみiPhone「業界最小級の折り目」】日本価格「最高57万円台」／メモリコスト高騰→“海外値上げ”で回収／Bloomberg記者 マーク・ガーマン【WORLD DECODER】    TBS NEWS DIG</description>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/-/2940238</wire:canonicalUrl>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE1HMlJ2YVc2TXBQWk9tdmM0Zjh5ZVJiLWhSNjRyZTlINFd6Y2ZPX3dpTWlkMzBMb21OQjBEV0ZfQzJhVnFObmY5ZjhIa3dNWFFTNS1VdmZyUTQ2Vmh6bmozU1VqTnRnX1pkOXZKcXBzdmNTOF95?oc=5</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>米CPI、インフレ巡る議論に決着つけず－市場関係者の見方</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2940221</link>
-      <guid isPermaLink="false">4577f25b14d8cef694e04754</guid>
-      <pubDate>Fri, 11 Sep 2026 16:39:00 +0000</pubDate>
-      <description>（ブルームバーグ）：8月の米消費者物価指数（CPI）統計では、食品とエネルギーを除くコア指数の前月比の伸びが市場予想を上回った。米連邦準備制度理事会（FRB）が来週の会合で利上げを ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2940221</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
-      <title>トランプ氏の米国製ビットコイン計画失速－AIブームと相場低迷が重し</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2937571</link>
-      <guid isPermaLink="false">0ddf686101a7afdc184804d9</guid>
-      <pubDate>Fri, 11 Sep 2026 01:59:00 +0000</pubDate>
-      <description>（ブルームバーグ）：暗号資産（仮想通貨）ビットコインのマイニング（採掘）活動を米国に集中させるというトランプ米大統領の公約が、AIブームと長引く仮想通貨相場の低迷という二つ ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2937571</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
-      <title>フーシ派がイエメン南西部の港湾都市モカを制圧 エネルギー輸送の要衝に影響力強め…供給に懸念高まる</title>
-      <link>https://newsdig.tbs.co.jp/articles/-/2937404</link>
-      <guid isPermaLink="false">d76b7e5382cb3d4ea4e25049</guid>
-      <pubDate>Fri, 11 Sep 2026 00:10:00 +0000</pubDate>
-      <description>イランが支援するイエメンの武装組織フーシ派が紅海に面する港湾都市を制圧したと、ロイター通信が報じました。エネルギー輸送の要衝、バブ・エル・マンデブ海峡への影響力をさらに ...</description>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>mention</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.86</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/-/2937404</wire:canonicalUrl>
-      <wire:evidence>reporting reference, not an exact wire credit: ロイター通信が報じ</wire:evidence>
-    </item>
-    <item>
-      <title>エヌビディアのフアン氏、AIの次の巨大市場はサイバーセキュリティー</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2937399</link>
-      <guid isPermaLink="false">4b22a1538cd4f32cd7aaf32b</guid>
-      <pubDate>Thu, 10 Sep 2026 21:25:03 +0000</pubDate>
-      <description>（ブルームバーグ）：AIの次の巨大市場はサイバーセキュリティーになると、米エヌビディアの共同創業者で最高経営責任者（CEO）のジェンスン・フアン氏は述べた。AI技術の進歩で ...</description>
-      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;1時間前
-ゲイツ財団、AIアクセス拡大に10億ドル－貧富の格差拡大を警告&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2937399</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
-      <title>TSMCの8月売上高53%増、AI需要が供給上回る－工場増設でも追いつかず</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2936453</link>
-      <guid isPermaLink="false">3fe7ab7077a4eb4fa7508b25</guid>
-      <pubDate>Thu, 10 Sep 2026 08:46:00 +0000</pubDate>
-      <description>（ブルームバーグ）：世界最大の半導体受託生産会社である台湾積体電路製造（TSMC）の月次売上高は53.3%増となった。世界的なAIインフラ整備を背景に需要が殺到し、同社は供給が追いつか ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2936453</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
-      <title>折り畳み「iPhone Duo」最上位モデル､業界最高額-日本は57万円超</title>
-      <link>https://newsdig.tbs.co.jp/articles/gallery/2934091?ex_position=photo&amp;ex_id=2934091&amp;station=withbloomberg</link>
-      <guid isPermaLink="false">a6a2eefda2f1d1b1c34ceadc</guid>
-      <pubDate>Wed, 09 Sep 2026 23:45:08 +0000</pubDate>
-      <description>維新・藤田共同代表『大臣・副大臣・政務官全て入れた上でフルスペックでの連立を』来週17日にも行う予定の内閣改造めぐり 来年中に国内初「完全無人タクシー」の運行目指す 「GO ...</description>
-      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;画像 1/2&lt;/p&gt;&lt;p&gt;Photographer: David Paul Morris/Bloomberg
-写真の記事を読む
-スクロールで次の画像へ&lt;/p&gt;</content:encoded>
+      <title>消費減税大綱を閣議決定、年間5兆円の財源確保が課題－国会で論戦へ - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTFBVVTYxUGtYTnFnVF9vNW5rU3ZsdGtjeVJvQmVMX1FMSnJDQU1feFl2YlVzVDRGUVBBUDNmekVZcGxrUDRVZjVmVHE0TjdfMDJlYlN2d1pnZ3hobU9NYklhVDFkNk1vbWgtZ2s1a2EyRjNGX3dS?oc=5</link>
+      <guid isPermaLink="false">75a9623916454a2b5accaf94</guid>
+      <pubDate>Tue, 15 Sep 2026 08:45:00 +0000</pubDate>
+      <description>消費減税大綱を閣議決定、年間5兆円の財源確保が課題－国会で論戦へ    TBS NEWS DIG</description>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/gallery/2934091?ex_position=photo&amp;ex_id=2934091&amp;station=withbloomberg</wire:canonicalUrl>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTFBVVTYxUGtYTnFnVF9vNW5rU3ZsdGtjeVJvQmVMX1FMSnJDQU1feFl2YlVzVDRGUVBBUDNmekVZcGxrUDRVZjVmVHE0TjdfMDJlYlN2d1pnZ3hobU9NYklhVDFkNk1vbWgtZ2s1a2EyRjNGX3dS?oc=5</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>アンソロピックAI研究者退社、超知能開発は「人命懸けた賭け」と批判</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2933970</link>
-      <guid isPermaLink="false">98b2a7c3fe52e1f526e8b4b4</guid>
-      <pubDate>Wed, 09 Sep 2026 19:53:00 +0000</pubDate>
-      <description>（ブルームバーグ）：アンソロピックをAI研究者が退社したことが、8日までに明らかになった。同社と最大の競合相手であるOpenAIが、人類の存亡に関わるリスクをもたらすAI技術の開発競争 ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
+      <title>日本の100歳以上人口、初の10万人超え－長寿化で膨らむ社会保障費 - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmendxMHZqMDhNQWRuUktPVm1FN1NEUFB2ajdLN09kdnNrMy1jWWYtSUxDakZaNV9ic0MyWFRydlNScGVVZ2VvckdmTHVDMUp0eVhaUkRzYlBuT2wwc0ZEVDJWVTJsRTA?oc=5</link>
+      <guid isPermaLink="false">ec97e11a240ca2f9e4a7cb82</guid>
+      <pubDate>Tue, 15 Sep 2026 08:44:00 +0000</pubDate>
+      <description>日本の100歳以上人口、初の10万人超え－長寿化で膨らむ社会保障費    TBS NEWS DIG</description>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
+      <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
+      <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2933970</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmendxMHZqMDhNQWRuUktPVm1FN1NEUFB2ajdLN09kdnNrMy1jWWYtSUxDakZaNV9ic0MyWFRydlNScGVVZ2VvckdmTHVDMUp0eVhaUkRzYlBuT2wwc0ZEVDJWVTJsRTA?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>SBエナジーの米IPO、日本で約773億円を調達へ－みずほ証など販売 - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE5Na21NMVNZRFdrZGdYd2c5TTNUYjRWVno0ZmNFUFdyaXRUWmZ0NW1PdW1QNXdyc0tJeVRsY29YSzBDS1lBZjhjSGlmSUpKVmNVd2RESE1vSmpZdmFCNExheUJiVDFTYTY1VWU5RGpzaTVaMVhl?oc=5</link>
+      <guid isPermaLink="false">6583b4ae1504828a913b24c0</guid>
+      <pubDate>Tue, 15 Sep 2026 08:44:00 +0000</pubDate>
+      <description>SBエナジーの米IPO、日本で約773億円を調達へ－みずほ証など販売    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE5Na21NMVNZRFdrZGdYd2c5TTNUYjRWVno0ZmNFUFdyaXRUWmZ0NW1PdW1QNXdyc0tJeVRsY29YSzBDS1lBZjhjSGlmSUpKVmNVd2RESE1vSmpZdmFCNExheUJiVDFTYTY1VWU5RGpzaTVaMVhl?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>アンソロピックCEOのAI減速論を支持－ヘルステクノロジー企業トップ - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTFBZS0NUSDBDWUwzYUZDb190ZGliWVlheWIxSDZVM2t5RUx5TXB5THdNTFp4dUFjMFBESUN5SDBxWWxUOV8wQ3dVbkVlWnFYeFNCcG9rbG11ejhMTlU3dmxwSy1ZRmxpR0FHSEkzcVFmQXJRVDdR?oc=5</link>
+      <guid isPermaLink="false">6bbb65165c2b31593f48361b</guid>
+      <pubDate>Tue, 15 Sep 2026 06:13:02 +0000</pubDate>
+      <description>アンソロピックCEOのAI減速論を支持－ヘルステクノロジー企業トップ    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTFBZS0NUSDBDWUwzYUZDb190ZGliWVlheWIxSDZVM2t5RUx5TXB5THdNTFp4dUFjMFBESUN5SDBxWWxUOV8wQ3dVbkVlWnFYeFNCcG9rbG11ejhMTlU3dmxwSy1ZRmxpR0FHSEkzcVFmQXJRVDdR?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>レオパレス株ストップ高買い気配、光通信とファンドがTOBで非公開化 - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE5TZWRLX0VWX3hadG5kUkFFeWxhZ3YtSVowVmJ6Q1pxb1FHSU9Ja0txTXBvV2NVd0JEY29Md3Y2YmxoeExQenZZZXJBVHgzcTdvdDVqTGhqTXVIYXpLSFZfamxJaF9CS3BjcEdlQkpFOERLRVVu?oc=5</link>
+      <guid isPermaLink="false">c516a7175f82db185fd80fb1</guid>
+      <pubDate>Tue, 15 Sep 2026 02:50:00 +0000</pubDate>
+      <description>レオパレス株ストップ高買い気配、光通信とファンドがTOBで非公開化    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE5TZWRLX0VWX3hadG5kUkFFeWxhZ3YtSVowVmJ6Q1pxb1FHSU9Ja0txTXBvV2NVd0JEY29Md3Y2YmxoeExQenZZZXJBVHgzcTdvdDVqTGhqTXVIYXpLSFZfamxJaF9CS3BjcEdlQkpFOERLRVVu?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>東京で無人タクシー、27年に商用化へ－米ウェイモや日本交通など - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE5LVWxLOUJuNmZCal81Z3Itck9lTUdVOElHblVGNHFqMWRLVWZGUW5NcUZrdXdvclVDRFlxZm1oN0Ytb3l0amM0cTlnRnFRVVRVYlE1djhxTXhJQmJaeDJRaUlRN1ozWG04a054eDJuVHpEZ0dm?oc=5</link>
+      <guid isPermaLink="false">ef8da7efbda37090e59d9c56</guid>
+      <pubDate>Tue, 15 Sep 2026 02:15:00 +0000</pubDate>
+      <description>東京で無人タクシー、27年に商用化へ－米ウェイモや日本交通など    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE5LVWxLOUJuNmZCal81Z3Itck9lTUdVOElHblVGNHFqMWRLVWZGUW5NcUZrdXdvclVDRFlxZm1oN0Ytb3l0amM0cTlnRnFRVVRVYlE1djhxTXhJQmJaeDJRaUlRN1ozWG04a054eDJuVHpEZ0dm?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>英フィンテックのレボリュート、一部顧客の情報流出－メール詐欺で - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE14NEhjdWN6LS1oMGxPV21XYWs3ZTU3bGdaQXRtOGJZV2F0VkJHeC1sMTUyc2JjX3JOZGpQdkNVdUd1UURtSWxnbFBpSExuSU5uM0tTX01fVk05ZmJwTDhhZXdTdE5TTlc4b19aSlJFa19tZEg5?oc=5</link>
+      <guid isPermaLink="false">df34ab645532497bc24d2604</guid>
+      <pubDate>Tue, 15 Sep 2026 02:02:03 +0000</pubDate>
+      <description>英フィンテックのレボリュート、一部顧客の情報流出－メール詐欺で    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE14NEhjdWN6LS1oMGxPV21XYWs3ZTU3bGdaQXRtOGJZV2F0VkJHeC1sMTUyc2JjX3JOZGpQdkNVdUd1UURtSWxnbFBpSExuSU5uM0tTX01fVk05ZmJwTDhhZXdTdE5TTlc4b19aSlJFa19tZEg5?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>インテグラルが「純正ごま油」のかどや製油にTOB－他社も買収案検討 - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE5XVGlaWFp4QkFiYzl3YS1kcVBZczFxSVpMZVZIOUVoYkRNcFprdFA0dUpWNC11YnN1X1dVbW5pQkJpNEV0OWE0NDhjQ2NDZ0dTQmJiNWJQMC1MVmQwelhmZXdhbWtRbVJwaUdTenFZRk5wdWFR?oc=5</link>
+      <guid isPermaLink="false">d444ca141cca082ec29cb3a9</guid>
+      <pubDate>Tue, 15 Sep 2026 00:37:00 +0000</pubDate>
+      <description>インテグラルが「純正ごま油」のかどや製油にTOB－他社も買収案検討    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE5XVGlaWFp4QkFiYzl3YS1kcVBZczFxSVpMZVZIOUVoYkRNcFprdFA0dUpWNC11YnN1X1dVbW5pQkJpNEV0OWE0NDhjQ2NDZ0dTQmJiNWJQMC1MVmQwelhmZXdhbWtRbVJwaUdTenFZRk5wdWFR?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>中部電力、浜岡原発再稼働に向けた審査申請を取り下げ－社長ら辞任 - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE9DQUdJNnRQeWFISXFvUWpJZHRSWmlMSng5YUgweHpVMDFHb05mZG80RkF4QV81ZlBpa0xYekl2dzVITXJjVGx1SW5KUG52Q1RjWkZfU3U4Ym1QdWMxYkpIZEgyMmwzekE1c3ZRWU9uODVtckpZ?oc=5</link>
+      <guid isPermaLink="false">98380d8c40870c539385527b</guid>
+      <pubDate>Mon, 14 Sep 2026 08:18:00 +0000</pubDate>
+      <description>中部電力、浜岡原発再稼働に向けた審査申請を取り下げ－社長ら辞任    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE9DQUdJNnRQeWFISXFvUWpJZHRSWmlMSng5YUgweHpVMDFHb05mZG80RkF4QV81ZlBpa0xYekl2dzVITXJjVGx1SW5KUG52Q1RjWkZfU3U4Ym1QdWMxYkpIZEgyMmwzekE1c3ZRWU9uODVtckpZ?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>ホルムズ海峡を通らない代替ルートを、LNG輸出でオマーンが訴え - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE4xRVA0bElocFJpMFpuLWVYbzNPZ1RoWWFVOUlXYjUtTjRGd2xqUGNLNTE2blJKcnp6WGVSZVNCS1FPWmN4UjI4OXVlVGVOaHJxcUNUdnFrc2h5WGZ2cDQxUWRrVXhhV3dvYnlYVkM4Wl9ZSWdK?oc=5</link>
+      <guid isPermaLink="false">870537c0e263ea9097c278fc</guid>
+      <pubDate>Mon, 14 Sep 2026 08:18:00 +0000</pubDate>
+      <description>ホルムズ海峡を通らない代替ルートを、LNG輸出でオマーンが訴え    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE4xRVA0bElocFJpMFpuLWVYbzNPZ1RoWWFVOUlXYjUtTjRGd2xqUGNLNTE2blJKcnp6WGVSZVNCS1FPWmN4UjI4OXVlVGVOaHJxcUNUdnFrc2h5WGZ2cDQxUWRrVXhhV3dvYnlYVkM4Wl9ZSWdK?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>ソフトバンクG、OpenAI向け資金調達で目標上回る119億ドル融資確保 - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE43aFJWODNYdnVYWjFmV2VHb2lhTTRWX1NOLU1xQ2pVWjk0N3ZoSkM3UC1iQ2pOeGdwZDFtTi1QTFkyRWd5SXRuYTMxOHhvWnhpc3BuRko0eHRCX2dkaXJ6eURqei01UXlCcWdIZlNLUVdPTjlk?oc=5</link>
+      <guid isPermaLink="false">f43bac0b6e6132023e7bed8d</guid>
+      <pubDate>Mon, 14 Sep 2026 02:55:00 +0000</pubDate>
+      <description>ソフトバンクG、OpenAI向け資金調達で目標上回る119億ドル融資確保    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE43aFJWODNYdnVYWjFmV2VHb2lhTTRWX1NOLU1xQ2pVWjk0N3ZoSkM3UC1iQ2pOeGdwZDFtTi1QTFkyRWd5SXRuYTMxOHhvWnhpc3BuRko0eHRCX2dkaXJ6eURqei01UXlCcWdIZlNLUVdPTjlk?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>スウェーデン総選挙接戦、中道左派のリード縮小－極右の政権入り焦点 - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE9teVpHMl9BbTVxQlB4aDQ2cDZkeDBmQUE1UXByOWFLNGRCb2xSOGh0MXY1QXJKM1lUeFFKOE1jOHZCVzB6WGZFQnpfTkcwTi1nem5hUU1pdkFuR0VYQTd1Q0R4bmtsZFJ5XzRRTFZqUnZCYlBH?oc=5</link>
+      <guid isPermaLink="false">68d55f3047d4472da76b4d37</guid>
+      <pubDate>Mon, 14 Sep 2026 01:49:00 +0000</pubDate>
+      <description>スウェーデン総選挙接戦、中道左派のリード縮小－極右の政権入り焦点    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE9teVpHMl9BbTVxQlB4aDQ2cDZkeDBmQUE1UXByOWFLNGRCb2xSOGh0MXY1QXJKM1lUeFFKOE1jOHZCVzB6WGZFQnpfTkcwTi1nem5hUU1pdkFuR0VYQTd1Q0R4bmtsZFJ5XzRRTFZqUnZCYlBH?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>原油価格上昇、サウジのパイプライン停止でエネルギー危機が深刻化 - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE5Cc1d3endSSXB2aGdsYzBDM29fWm5XLURFaUFVa3hyaUo4SnA0cUxoc2ZmNG1PcGxaQ3dWYmtGZUZMc2NtZmZHV05zcGlZdFhHVUR5R2RhcUd4bUNXeG0xLURMNlA4X1NYTGJfMEg2d0NWVzBa?oc=5</link>
+      <guid isPermaLink="false">d10f5f31665d09dd97597e12</guid>
+      <pubDate>Sun, 13 Sep 2026 23:26:00 +0000</pubDate>
+      <description>原油価格上昇、サウジのパイプライン停止でエネルギー危機が深刻化    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE5Cc1d3endSSXB2aGdsYzBDM29fWm5XLURFaUFVa3hyaUo4SnA0cUxoc2ZmNG1PcGxaQ3dWYmtGZUZMc2NtZmZHV05zcGlZdFhHVUR5R2RhcUd4bUNXeG0xLURMNlA4X1NYTGJfMEg2d0NWVzBa?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>アンソロピック、今四半期も調整後営業黒字を計上へ－FT | TBS CROSS DIG with Bloomberg - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JY2pWM3h1a29BbnFSVTAyeWptbXN3VExvMFM5T19GWlg2Nm1XS1V5akkybDg4VElJd0ZjdHNIRV8wNlNpZjVEYUgzVEdyRkdRcm4yMF9CNnZwSHVFUnJtVmVRTE1Tams?oc=5</link>
+      <guid isPermaLink="false">50772e1c514987f98f1923b3</guid>
+      <pubDate>Sun, 13 Sep 2026 23:15:00 +0000</pubDate>
+      <description>アンソロピック、今四半期も調整後営業黒字を計上へ－FT | TBS CROSS DIG with Bloomberg    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JY2pWM3h1a29BbnFSVTAyeWptbXN3VExvMFM5T19GWlg2Nm1XS1V5akkybDg4VElJd0ZjdHNIRV8wNlNpZjVEYUgzVEdyRkdRcm4yMF9CNnZwSHVFUnJtVmVRTE1Tams?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>アンソロピックが上場先にナスダック選定、IPOに向け－関係者 - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE1Pc2NNMGJDaWQyUEw4NUZORloxZ3pGWXpJVUNaZWpnTDlINExFY2tYY3FKY09GQ3ZBVDU4N0tMbThpQjgtLUFoNnl4bEt6RnBSZVRRa3RmdVFTSm5TaHRPVGItSnNVeFl4S1BzdHdlSE03U0l3?oc=5</link>
+      <guid isPermaLink="false">6daaedbae6563fc75e7572a1</guid>
+      <pubDate>Sun, 13 Sep 2026 21:33:00 +0000</pubDate>
+      <description>アンソロピックが上場先にナスダック選定、IPOに向け－関係者    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE1Pc2NNMGJDaWQyUEw4NUZORloxZ3pGWXpJVUNaZWpnTDlINExFY2tYY3FKY09GQ3ZBVDU4N0tMbThpQjgtLUFoNnl4bEt6RnBSZVRRa3RmdVFTSm5TaHRPVGItSnNVeFl4S1BzdHdlSE03U0l3?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>トランプ氏、アイリッシュウイスキーへの米関税撤廃を表明 | TBS CROSS DIG with Bloomberg - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TVHU2QmJlZXRVNF9uZU1ERTVKUUx2TVU4bDQ0OUpqOUpFcmdvQ2UyTnhvRXp6a2RjejdRRzg1aXBVVklRZU0xZ3lMRmhHX3VRQ1VLendrTUhJN0JlRjFXdWVyZkdISms?oc=5</link>
+      <guid isPermaLink="false">c78fcbbdaeb7f4d50c0f0035</guid>
+      <pubDate>Sun, 13 Sep 2026 18:07:55 +0000</pubDate>
+      <description>トランプ氏、アイリッシュウイスキーへの米関税撤廃を表明 | TBS CROSS DIG with Bloomberg    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TVHU2QmJlZXRVNF9uZU1ERTVKUUx2TVU4bDQ0OUpqOUpFcmdvQ2UyTnhvRXp6a2RjejdRRzg1aXBVVklRZU0xZ3lMRmhHX3VRQ1VLendrTUhJN0JlRjFXdWVyZkdISms?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>アンソロピックIPO、エヌビディアが最大1.5兆円投資検討－ロイター - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPNFVncTN0LXU5dHJkMzVNWVBkWVRUZXRGMVRQZEdsZVdqcFVwREE1Q3pyWk16aFdrV2d2TUc5REpxWnZ3eEp3LUJGQU9ESWd2LTJVbWVIU2JaTlZGQjM3N280eEJxdDQ?oc=5</link>
+      <guid isPermaLink="false">46f6e031f4c8127a3c009ee5</guid>
+      <pubDate>Sat, 12 Sep 2026 00:54:10 +0000</pubDate>
+      <description>アンソロピックIPO、エヌビディアが最大1.5兆円投資検討－ロイター    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPNFVncTN0LXU5dHJkMzVNWVBkWVRUZXRGMVRQZEdsZVdqcFVwREE1Q3pyWk16aFdrV2d2TUc5REpxWnZ3eEp3LUJGQU9ESWd2LTJVbWVIU2JaTlZGQjM3N280eEJxdDQ?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>若年層で「うつ病」による日常生活への影響が顕在化 高齢層とは対照的な健康動向 - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTMklITElYWTJkNFVZTVVRTHBnbjVGdklSZ2hxUWgxZXViQWR1cWpLS2NSUGJKbWNwNVRTNHNaV3NpcDB4UFIwcGVqTVhKOVpVSkw2a3hZbzZMbUVqXzloaDAybklreWc?oc=5</link>
+      <guid isPermaLink="false">717505ce97134aa3f741d6dc</guid>
+      <pubDate>Sat, 22 Aug 2026 07:00:00 +0000</pubDate>
+      <description>若年層で「うつ病」による日常生活への影響が顕在化 高齢層とは対照的な健康動向    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTMklITElYWTJkNFVZTVVRTHBnbjVGdklSZ2hxUWgxZXViQWR1cWpLS2NSUGJKbWNwNVRTNHNaV3NpcDB4UFIwcGVqTVhKOVpVSkw2a3hZbzZMbUVqXzloaDAybklreWc?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
 </rss>

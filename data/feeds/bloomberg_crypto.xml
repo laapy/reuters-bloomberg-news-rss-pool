@@ -5,8 +5,25 @@
     <link>https://feeds.bloomberg.com/crypto/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 15 Sep 2026 17:34:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:01:31 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Bitcoin Drops the Most Since June After US Senate Blocks Bill</title>
+      <link>https://www.bloomberg.com/news/articles/2026-09-15/cryptocurrencies-extend-slide-with-clarity-act-on-track-to-fail</link>
+      <guid isPermaLink="false">fc447b89ccdf931d4c67ba53</guid>
+      <pubDate>Tue, 15 Sep 2026 18:51:48 +0000</pubDate>
+      <description>Bitcoin led a broad retreat in digital assets Tuesday following the failure of a wide-reaching crypto regulatory bill to pass the US Senate, stripping the industry of one of its few potential catalysts amid swelling anxiety in markets over rising interest rates.</description>
+      <dc:creator>Vildana Hajric</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_crypto</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-09-15/cryptocurrencies-extend-slide-with-clarity-act-on-track-to-fail</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
     <item>
       <title>Ethiopia Cuts Bitcoin Mining Power to 23% Over Hydroelectricity Shortage</title>
       <link>https://www.bloomberg.com/news/articles/2026-09-15/ethiopia-cuts-bitcoin-mining-power-to-23-over-hydroelectricity-shortage</link>
@@ -39,23 +56,6 @@
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-09-15/bitcoin-rally-stalls-as-optimism-about-us-crypto-bill-wanes</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Crypto Rises as Long-Shot US Bill Gains Better Odds of Passage</title>
-      <link>https://www.bloomberg.com/news/articles/2026-09-14/crypto-rises-as-long-shot-us-bill-gains-better-odds-of-passage</link>
-      <guid isPermaLink="false">33abe947447d9bf4be73b2f7</guid>
-      <pubDate>Mon, 14 Sep 2026 14:02:46 +0000</pubDate>
-      <description>Crypto markets gained on Monday as optimism over a key US crypto bill revived risk appetite across the digital-asset spectrum.</description>
-      <dc:creator>David Pan</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_crypto</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-09-14/crypto-rises-as-long-shot-us-bill-gains-better-odds-of-passage</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
   </channel>
