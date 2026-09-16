@@ -5,8 +5,64 @@
     <link>https://www.bing.com/news/search?q=site%3Abusiness-standard.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 16 Sep 2026 07:25:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 12:46:57 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>AI wearables can listen and watch but people around them never opted in</title>
+      <link>https://www.business-standard.com/technology/tech-news/ai-wearables-listen-watch-bystander-privacy-consent-126091600816_1.html</link>
+      <guid isPermaLink="false">f2fe0a488c02b81596d6f81a</guid>
+      <pubDate>Wed, 16 Sep 2026 11:09:57 +0000</pubDate>
+      <description>As AI gives wearables the ability to listen, see and interpret their surroundings, the privacy question is expanding beyond the person wearing the device to everyone within its reach ...</description>
+      <dc:creator>Harsh Shivam</dc:creator>
+      <content:encoded>&lt;p&gt;A person wearing an AI-powered device may know that the device is listening. The person sitting across the table may not. That gap is becoming harder to ignore as wearables move beyond tracking steps and heart rate to understanding conversations, recognising surroundings and turning what they hear and see into information. Apple&amp;#x27;s new Watch Series 12 offers a useful example. Its Live Rewind feature can show a text snippet of what was said during the previous 15 seconds, while Siri Recap can create high-level summaries of conversations. Both features are designed to work around the user&amp;#x27;s conversations rather than simply respond to a command. At almost the same time, Meta is reportedly preparing a camera-free version of its smart glasses, codenamed Luna. According to Reuters, citing a report by The Information, the glasses are expected to remove the camera while retaining microphones, speakers and AI capabilities. The reported move comes amid increasing scrutiny over the privacy implications of camera-equipped wearables.ALSO READ: Amazon brings Alexa+ to India with Hindi support, free early accessThe two developments approach the same problem from different directions. One makes a wearable better at understanding what people say. The other reportedly removes one of the most obvious sensors associated with privacy concerns. The question is what happens to everyone else within range of these devices.The person wearing the device is only one part of the conversationApple says Live Rewind is opt-in and only activates when the wearer double-presses the Digital Crown. It captures the previous 15 seconds of speech, displays a text snippet and does not continuously transcribe conversations in the background. Siri Recap is also controlled by the user and can be scheduled for particular times or locations. Apple has also built several privacy measures around the features. Live Rewind is processed on the device, while Siri Recap uses Apple&amp;#x27;s Private Cloud Compute for parts of the processing. Apple says saved summaries and Live Rewind snippets are end-to-end encrypted through iCloud and that Siri Recap data is automatically deleted after seven days if the user does not save it.ALSO READ: AI agents lied, stole and voted to &amp;#x27;kill&amp;#x27; peers in simulated experimentThese controls give the wearer some visibility into when the feature is active and what happens to the resulting data. The person sitting opposite the wearer has a different set of circumstances. They may have no Apple Watch. They may not know that a conversation is being processed. They may be comfortable with being heard but not with their words being converted into notes, stored, summarised or potentially analysed by an AI system. This creates what could be described as bystander privacy. The wearable belongs to one person, but its sensors operate in an environment occupied by several people. Dhananjay Yadav, co-founder and CEO of Indian AI wearable startup NeoSapien, said the industry needs to recognise this distinction. “The person buying a wearable is not the only person affected by it,” Yadav said. “Their acceptance of an app’s terms cannot reasonably represent everyone they later meet.” For Yadav, consent also needs to be separated by purpose. Someone could agree to a meeting being transcribed but object to their emotional state being analysed, or to their words being used to train an AI model. “These are different permissions,” he said.A microphone can be as consequential as a cameraThe privacy discussion around smart glasses has largely focused on cameras. That concern has already reached regulators. Ireland&amp;#x27;s Data Protection Commission engaged with Meta over its Ray-Ban smart glasses, raising concerns about whether people captured by the glasses would receive adequate notice. Following the engagement, Meta increased the size of the external privacy LED and added a blinking pattern when recording. Meta has continued to face scrutiny over the recording indicator. The Verge reported earlier this month that the company had introduced another privacy measure after users found ways to obstruct the recording LED, with the glasses now disabling the camera if the indicator is covered. Yet a camera is only one way a wearable can observe its surroundings. A microphone can pick up a conversation without creating a visual record. AI can then turn that audio into searchable text, extract names, identify decisions, summarise discussions or potentially derive information from the way something was said. This is where the move towards AI changes the privacy equation. The Information Commissioner&amp;#x27;s Office in the UK has previously warned that immersive technologies such as smart glasses can deliberately or inadvertently monitor people close to the device. It has also pointed to the problem of increasingly discreet devices making covert surveillance easier. The privacy question becomes more complicated when the device is not simply recording, but interpreting. A photograph can become a description of a scene, an identified person or an extracted piece of text. Audio can similarly become a transcript, a summary or an inference about what was being discussed. AI can therefore create several layers of information from a single interaction.Deleting audio does not necessarily solve the problemCapturing information is only the first stage. What happens to that information afterwards creates another set of privacy questions. Yadav said companies need to distinguish between protecting information after it has been captured and establishing whether that information should have been captured in the first place. “Protecting captured information and establishing permission to capture it are separate responsibilities,” Yadav said. That distinction matters because deleting the original recording does not necessarily remove everything generated from it. A transcript or summary can retain another person&amp;#x27;s words after the audio itself has been deleted. The UK&amp;#x27;s ICO said in its 2026 guidance for consumer IoT products that consent should be real, specific and freely given, while privacy information should be provided in plain language and data collection should be limited to what is necessary. For wearable AI, that principle becomes complicated because the person whose information is being collected may not be the customer. A wearable may be recording a conversation that is important to its owner, but the conversation itself involves other people whose words become part of the resulting transcript or summary. That makes retention another part of the bystander privacy question, particularly when derived information can persist beyond the original interaction.A recording light is useful, but it has limitsA visible indicator is an obvious solution. If a light turns on when a wearable records, people nearby at least have a signal that something is happening. Apple has taken this approach with Live Rewind. The company says the feature plays an audible chime when activated and displays a microphone indicator and full-screen animation. Yadav also sees indicators as an important starting point. He said Neosapien’s Neo1, a wearable pendant-like device that can transcribe and summarise speech, uses a white light to indicate active listening and has a mode that allows capture to be paused. But an indicator solves the problem of notice, not necessarily the problem of choice. A person can know that a device is recording and still have no practical way to prevent their voice from being captured. In a restaurant, office or public transport, walking away may not be realistic. The ICO&amp;#x27;s guidance on body-worn recording makes a similar distinction. It recommends clear privacy information, visible indicators and retention controls, while warning that continuous recording can capture people going about their daily lives and may be excessive. For consumer AI wearables, this suggests that the recording indicator cannot be the entire privacy system. Yadav said safeguards should cover “what is captured, what is inferred, where it is processed, how long it is retained and who can access it”. He also argues that companies should provide a practical way for bystanders to raise concerns or request removal without requiring them to become customers.Wearables may need to design for the person across the tableThe basic proposition behind AI wearables is that the device can remember what the wearer forgets, understand what the wearer sees and hears, and reduce the need to interact with a phone. But the environment around the wearer is part of the input. That makes bystanders part of the product experience, whether manufacturers intended them to be or not. Yadav said companies should test products with people sitting across from the wearer, rather than testing only with customers. Their ability to understand what is happening and say no should become part of product design. That could mean clearer recording signals, easier ways to pause capture, shorter retention periods, local processing, automatic deletion and restrictions on secondary uses. It could also mean designing devices to minimise unrelated speech rather than simply capturing everything within microphone range.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.business-standard.com/technology/tech-news/ai-wearables-listen-watch-bystander-privacy-consent-126091600816_1.html</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: According to Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>Fed rate decision tonight: Will inflation push Kevin Warsh towards a hike?</title>
+      <link>https://www.business-standard.com/world-news/us-fed-rate-decision-today-kevin-warsh-hike-or-hold-trump-interest-rates-126091600811_1.html</link>
+      <guid isPermaLink="false">ca68dc024aff70168b63ff94</guid>
+      <pubDate>Wed, 16 Sep 2026 11:06:32 +0000</pubDate>
+      <description>The US Federal Reserve is set to announce its latest interest rate decision today. Here's what the move could mean for the US economy, markets ...</description>
+      <dc:creator>Rimjhim Singh</dc:creator>
+      <content:encoded>&lt;p&gt;The US Federal Reserve is set to announce its interest rate decision at 11:30 pm (IST) on Wednesday, as its two-day policy meeting concludes. The decision will be followed by Fed Chairman Kevin Warsh’s press conference at around midnight IST. The Federal Open Market Committee (FOMC) began its meeting on September 15. The Fed has kept its interest rate unchanged at 3.50-3.75 per cent since January 2026. Why is the Fed decision important? A Reuters poll of 101 economists found that 86 expected the Fed to raise rates by 25 basis points to 3.75-4 per cent at the September meeting. This was a major change from the previous week&amp;#x27;s poll, when more than two-thirds of economists expected rates to remain unchanged. Interest-rate futures were also pricing in close to a 90 per cent probability of a hike, according to Reuters. What is pushing the Fed towards a hike? Inflation remains the main concern. The US Consumer Price Index (CPI) rose 0.4 per cent in August, following a 0.1 per cent increase in July, according to the Labor Department’s Bureau of Labor Statistics. On a year-on-year basis, consumer inflation stood at 3.4 per cent in August, unchanged from July. At the same time, crude oil prices have risen above $100 a barrel amid renewed tensions in West Asia, adding to concerns about higher inflation. The Fed&amp;#x27;s preferred inflation gauge, the personal consumption expenditures (PCE) price index, has also remained well above its 2 per cent target. In July, three regional Fed presidents dissented from the decision to keep rates unchanged, preferring a 25-basis-point hike. Will there be more rate hikes? Markets are also watching what Warsh says about the path ahead. The Reuters poll found that nearly 53 per cent of economists expected at least one more rate increase by the end of March 2027. Interest-rate futures were pricing in expectations for several more increases through July 2027. KPMG Chief Economist Diane Swonk told Reuters that a quarter-point increase could be an “opening move, not the final one”, highlighting expectations of further action if inflation remains high. Trump wants lower rates The decision also comes amid repeated calls from US President Donald Trump for lower interest rates. Trump has said the US should have the world&amp;#x27;s lowest interest rates and has publicly pressed the Fed to reduce borrowing costs. Trump recently threatened trade restrictions unless the Fed lowered rates. Warsh, who took over as Fed chair in May this year, therefore faces a policy decision that will also be closely watched for its implications for the central bank&amp;#x27;s independence. What are markets watching? Bond markets have already reacted to expectations of tighter monetary policy. The 10-year US Treasury yield briefly moved above 5 per cent, a level it has not closed above since 2007, Bloomberg reported. Higher Treasury yields can raise borrowing costs across the economy, including mortgage rates. Gold and silver prices have also been moving ahead of the decision, with domestic gold futures rising on Wednesday amid concerns over the Fed&amp;#x27;s expected rate move. In the global market on Wednesday, gold was trading at around $4,375 per ounce on Comex, while silver was near $65 per ounce. In India, MCX gold futures were trading at around ₹1,51,750 per 10 grams, while silver futures stood at about ₹2,35,200 per kg at the time of writing. When and where to watch the Fed decision? The FOMC rate decision will be announced at 11:30 pm IST on September 16. The Fed&amp;#x27;s press conference is scheduled for around midnight IST. The meeting and press conference can be watched through the Federal Reserve&amp;#x27;s official website.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.business-standard.com/world-news/us-fed-rate-decision-today-kevin-warsh-hike-or-hold-trump-interest-rates-126091600811_1.html</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: according to Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>UPI gets MDR: How 0.4% merchant fee compares with debit, credit cards</title>
+      <link>https://www.business-standard.com/finance/news/upi-versus-cards-what-merchants-will-pay-under-the-new-mdr-regime-126091600504_1.html</link>
+      <guid isPermaLink="false">d0a1195a0f216bb27259501f</guid>
+      <pubDate>Wed, 16 Sep 2026 08:14:55 +0000</pubDate>
+      <description>The new UPI MDR ends its zero-cost model for select high-value merchant payments; here is how the 0.4 per cent charge compares with what merchants pay to accept debit and credit cards ...</description>
+      <dc:creator>Barkha Mathur</dc:creator>
+      <content:encoded>&lt;p&gt;From October 15, merchants will have to pay a 0.4 per cent Merchant Discount Rate (MDR) on specified UPI person-to-merchant (P2M) transactions above ₹2,000. Consumers, however, will not bear the cost. The move marks a shift for UPI, which has had no MDR since 2020. It also raises a question for businesses: once merchants start paying to accept UPI, how does its cost compare with debit and credit cards?The new UPI costUnder the revised framework, merchant payments of up to ₹2,000 will also remain free. Small merchants receiving up to ₹1 lakh a month through UPI QR codes under the P2PM category will continue to get zero MDR. For transactions that do attract the standard MDR, the rate is 0.4 per cent. That means a merchant accepting a ₹10,000 UPI payment would incur ₹40 in MDR, while a ₹50,000 transaction would cost ₹200. At ₹75,000, the 0.4 per cent calculation reaches ₹300, and the same ₹300 cap applies to higher-value transactions. Some sectors have separate rates. Transactions above ₹2,000 in railways, telecommunications, insurance, fuel and agricultural inputs will attract a flat ₹5 MDR. Payments involving mutual funds, securities, stockbrokers and dealers will attract 0.02 per cent, capped at ₹300.How does that compare with debit cards?Under RBI&amp;#x27;s existing framework, debit-card MDR for merchants with turnover above ₹20 lakh a year can be as high as 0.9 per cent for physical POS and online card transactions. For QR-code-based card acceptance, the ceiling is 0.8 per cent. For smaller merchants, the corresponding ceilings are 0.4 per cent and 0.3 per cent, respectively. The RBI figures are maximum rates, not a claim that every merchant pays 0.9 per cent. Actual merchant costs can depend on the merchant&amp;#x27;s size, payment channel and commercial relationship with the acquiring bank. For example, if a large retailer accepts a ₹10,000 debit-card payment, RBI rules may allow the acquiring bank to charge up to ₹90 as MDR. But the retailer may have negotiated a lower rate, say 0.5 per cent, in its agreement with the bank. So for a ₹10,000 transaction, therefore, the comparison at the prescribed rates is ₹40 for UPI against as much as ₹90 for a larger merchant using debit cards at the 0.9 per cent ceiling. ALSO READ: UPI MDR charges: What consumers need to know about the change in rulesCredit cards are a different propositionCredit-card payments typically carry higher merchant charges than debit cards. One reason is that card payments involve several participants and fees, including an interchange fee paid by the acquiring bank to the card issuer for each transaction. NPCI says the MDR is determined through individual negotiation between the acquiring bank and merchant. Its latest FAQ puts standard credit-card MDR typically at 1.5-2.5 per cent. At those headline rates, a ₹10,000 credit-card transaction would cost a merchant ₹150-250 in MDR. A ₹50,000 transaction would cost ₹750-1,250. On a ₹1 lakh transaction, the new UPI framework would result in an MDR of ₹300 because of the cap. Applying the 0.9 per cent debit-card ceiling gives ₹900, while a 1.5-2.5 per cent credit-card MDR would amount to ₹1,500-2,500. These are comparisons of headline MDRs, not estimates of what every merchant actually pays.Why would merchants continue to accept credit cards?A credit-card payment gives the customer access to a line of credit and can also come with rewards, cashback, discounts and interest-free credit periods. Those features can influence the payment method a consumer chooses, particularly for larger purchases. For the merchant, the higher MDR can therefore be viewed partly as the cost of accessing a payment instrument that offers customers credit and rewards. This is also why credit-card-on-UPI needs to be kept separate from ordinary bank-account-funded UPI. The new 0.4 per cent MDR applies to direct account-to-merchant UPI payments. RuPay credit cards linked to UPI and other credit-linked UPI transactions are governed separately because the underlying funding comes from a credit product. They should not be treated as ordinary 0.4 per cent UPI transactions. ALSO READ: UPI MDR from Oct 15: Will your SIP, automated insurance payments cost more?So, is UPI still cheaper?For eligible transactions, 0.4 per cent is below the 0.9 per cent maximum applicable to larger merchants for debit-card acceptance through physical POS or online channels, and well below the 1.5-2.5 per cent range cited by NPCI for standard credit cards. The ₹300 cap makes UPI particularly inexpensive for large transactions. A ₹1 lakh UPI payment costs ₹300 in MDR under the new framework, against up to ₹900 at the 0.9 per cent debit-card ceiling and ₹1,500-2,500 at the cited credit-card rates.&lt;/p&gt;</content:encoded>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.business-standard.com/finance/news/upi-versus-cards-what-merchants-will-pay-under-the-new-mdr-regime-126091600504_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
     <item>
       <title>Traders brace for prolonged India bond slump as RBI mops up excess cash</title>
       <link>https://www.business-standard.com/markets/news/traders-brace-for-prolonged-india-bond-slump-as-rbi-mops-up-excess-cash-126091600339_1.html</link>
@@ -27,91 +83,93 @@
       <wire:evidence>structured credit: Bloomberg</wire:evidence>
     </item>
     <item>
-      <title>Stock Market LIVE: Sensex rises 400 pts, Nifty tops 23,200; Nifty IT declines over 1%</title>
-      <link>https://www.business-standard.com/markets/news/stock-market-live-september-16-nse-bse-sensex-today-nifty-gift-nifty-crude-oil-price-today-kanohar-electricals-ipo-listing-126091600091_1.html</link>
-      <guid isPermaLink="false">f4c30f5b33f766add1414a87</guid>
-      <pubDate>Wed, 16 Sep 2026 02:28:08 +0000</pubDate>
-      <description>The GIFT Nifty indicated a slightly lower open for the Nifty50. Asian markets were mixed as traders await the US Federal Reserve's policy decision ...</description>
-      <dc:creator>SI Reporter</dc:creator>
-      <content:encoded>&lt;p&gt;Sensex Today | Stock Market LIVE Updates, Wednesday, Sept 16, 2026: The Nifty50 and the Sensex rose slightly as traders await the US Federal Reserve’s policy decision.  As of 12:00 PM, the Sensex rose 282.15 points or 0.38 per cent to 74,285.97 and the Nifty50 was up 95.60 points or 0.41 per cent at 23,214.20. Nestle India, ITC, and Mahindra &amp;amp; Mahindra were the top gainers in the Nifty50 index.   In the broader markets, the Nifty MidCap and the Nifty SmallCap fell 0.21 per cent and 0.50 per cent, respectively.  Sector-wise, the Nifty FMCG, the Nifty PSU Bank, and the Nifty Realty outperformed, while the Nifty IT and the Nifty Pharma underperformed.&lt;/p&gt;</content:encoded>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.business-standard.com/markets/news/stock-market-live-september-16-nse-bse-sensex-today-nifty-gift-nifty-crude-oil-price-today-kanohar-electricals-ipo-listing-126091600091_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>A decade after mercury ban, toxic skin bleachers still sold online</title>
-      <link>https://www.business-standard.com/world-news/a-decade-after-mercury-ban-toxic-skin-bleachers-still-sold-online-126091600407_1.html</link>
-      <guid isPermaLink="false">2ad078310fac0559f1a86000</guid>
-      <pubDate>Wed, 16 Sep 2026 00:14:00 +0000</pubDate>
-      <description>Regulators, companies and multinational entities have for years tried to coordinate efforts to take these products off shelves and websites ...</description>
-      <content:encoded>&lt;p&gt;Home / World News / A decade after mercury ban, toxic skin bleachers still sold online&lt;/p&gt;&lt;p&gt;A decade after mercury ban, toxic skin bleachers still sold online Regulators, companies and multinational entities have for years tried to coordinate efforts to take these products off shelves and websites&lt;/p&gt;&lt;p&gt;Skin brightening cosmetic products are seen in this illustration | REUTERS&lt;/p&gt;&lt;p&gt;Reuters LONDON/NEW YORK 6 min read Last Updated : Sep 16 2026 | 12:45 PM IST&lt;/p&gt;&lt;p&gt;Listen to This Article&lt;/p&gt;&lt;p&gt;More than 20 banned skin-bleaching products containing mercury are available for purchase on third-party marketplaces run by Amazon, Temu and TikTok Shop in several countries, despite decades of efforts by health advocates and regulators to prevent their sale, a Reuters review of publicly available information found.
-Regulators, companies and multinational entities have for years tried to coordinate efforts to take these products off shelves and websites. More than 150 nations are parties to the 2013 Minamata Convention that banned the manufacture, import or sale of mercury-containing products, which according to the World Health Organization can damage the kidneys, brain and nervous system.&lt;/p&gt;&lt;p&gt;But some sellers on e-commerce sites have become more sophisticated in their efforts to hide these products&amp;#x27; origins and ingredients. Some products removed from websites are being re-listed under misleading names or by different sellers soon after, the Reuters review found.
-Reuters found more than 20 products from banned lists available to customers on Amazon, Temu and TikTok&amp;#x27;s US e-commerce platforms, as well as on Amazon&amp;#x27;s third-party marketplaces in France, India, the United Arab Emirates and Belgium, as of September 1. None of the products list mercury as an ingredient. Reuters couldn&amp;#x27;t independently confirm the presence of the toxin.
-Despite mercury&amp;#x27;s toxicity, these products find buyers because of their swift effects. Skin lightening is a multibillion-dollar industry, especially popular in Asia, Africa and the Caribbean, lawyers, academics and public health advocates noted.&lt;/p&gt;&lt;p&gt;Also Read&lt;/p&gt;&lt;p&gt;Borderline case: Cosmetics from Pakistan breach Indian mkt, raise eyebrows premium&lt;/p&gt;&lt;p&gt;CBIC issues checklist for faster clearance of drugs, cosmetics imports&lt;/p&gt;&lt;p&gt;Wipro Consumer Care to buy Dermatouch for enterprise value of ₹387.5 crore&lt;/p&gt;&lt;p&gt;EPL sees beauty, cosmetics segment as growth driver, lifts revenue guidance&lt;/p&gt;&lt;p&gt;India&amp;#x27;s beauty products market projected to reach USD 39 bn by 2030: Report&lt;/p&gt;&lt;p&gt;&amp;quot;Mercury gives you lightening effects within days, far faster than legal agents like kojic acid or arbutin,&amp;quot; said Winston Morgan, professor of toxicology, equity and inclusive practice at the University of East London&amp;#x27;s School of Health Sport and Bioscience. &amp;quot;Mercury is also relatively cheap, easy to formulate into creams and stable.&amp;quot;
-A 2021 Boston University study found that skin-lightening products containing kojic acid, a legal cosmetic ingredient, cost an average of $24.89 an ounce, substantially more than the roughly $6.50 an ounce charged for mercury-containing products Reuters found for sale in the United States in mid-September.
-The World Health Organization says there is no known safe exposure level for mercury, while the US FDA restricts total mercury to no more than 1 part per million in cosmetics. Many illegal products contain between 10 and 100,000 milligrams per liter, according to Morgan.&lt;/p&gt;&lt;p&gt;Reuters could not independently confirm his figures but British and US regulators, including the UK Office for Product Safety and Standards and the US Food and Drug Administration, have publicly reported products that have tested positive for those levels of mercury.
-AVAILABLE FOR PURCHASE A London-based Reuters journalist purchased several allegedly mercury-based products on Amazon&amp;#x27;s UK, French, Belgian and Indian websites, while a US-based Reuters journalist purchased Pakistani-made Parley Beauty Creams on Temu and TikTok Shop, three brands of Mexican-made bleaching creams on TikTok Shop and bleaching soaps made in the Philippines on Amazon.
-None of the manufacturers responded to Reuters requests for comment.&lt;/p&gt;&lt;p&gt;When contacted by Reuters, Amazon, Temu and TikTok said they prohibit the sale of these specific products, saying they were taking steps to remove them from their websites and take action against their sellers. As of September 1, most of these products were still listed on those websites.
-&amp;quot;We have proactive controls in place to maintain a safe and compliant store, including robust seller verification and mandatory compliance documentation or third-party lab testing prior to product listing,&amp;quot; said Amazon, which added that it was refining those controls and suspending &amp;quot;evasive sellers.&amp;quot;
-Amazon also said it works with regulators, government agencies and others to update its lists of banned products as it enhances its controls.&lt;/p&gt;&lt;p&gt;TikTok said it was removing products that violate its rules, which bar products that &amp;quot;aim to bleach, whiten, lighten, or reduce overall melanin in the skin.&amp;quot;
-Temu also said it would remove certain products after reviewing its listings. &amp;quot;Appropriate action will be taken should a listing be found to violate any applicable laws and, consequently, our platform rules,&amp;quot; it said.
-An Amazon third-party seller in India had as of early August listed &amp;#x27;Beauty Brightening Cream&amp;#x27; instead of &amp;#x27;Chandni&amp;#x27; cream, one of the products flagged by the FDA, and blurred out the correct name of the product in its accompanying image.
-The cream&amp;#x27;s manufacturer, SJ Enterprises of Pakistan, did not respond to requests for comment&lt;/p&gt;&lt;p&gt;Amazon did not comment on specific products listed on its sites.
-CHALLENGES FOR PLATFORMS Amazon has struggled to keep mercury-laden creams off its websites, according to public health advocates. It settled a lawsuit in California last year over the presence of those products on its US platform.
-The company&amp;#x27;s US website used to have far more skin-lightening products containing mercury, public health advocates said.
-&amp;quot;Part of the problem is the business models of these platforms,&amp;quot; said Rachel Doughty, an attorney at Greenfire Law, the firm that fought Amazon for a decade. &amp;quot;Their position for a long time was that they were just a platform and they weren&amp;#x27;t responsible for what third-party sellers posted on their websites.&amp;quot; She added that the laws are &amp;quot;not well enforced by public agencies.&amp;quot;&lt;/p&gt;&lt;p&gt;Amazon declined to comment on Doughty&amp;#x27;s view.
-Health regulators acknowledge the challenges of keeping mercury-laden products away from consumers.
-The US FDA told Reuters it &amp;quot;is very concerned about these and other fraudulent products, and removing them from the market remains one of the agency&amp;#x27;s top priorities.&amp;quot; It added that the agency has sent warning letters to these manufacturers and distributors to stop these illegal sales.
-&amp;quot;WHO is aware that mercury-added skin-lightening products continue to be sold through online and cross-border e-commerce platforms, which can make regulatory oversight and enforcement more challenging,&amp;quot; a World Health Organization spokesperson said, adding that more regulation and coordination between governments, sellers and others is needed.&lt;/p&gt;&lt;p&gt;There is some evidence of renewed regulatory efforts. On August 28, French authorities issued a recall notice warning consumers about a skin-bleaching cream called &amp;#x27;Advanced Beauty Cream - Pearl Shine - Parley Goldie&amp;#x27; that Reuters found available in early August. As of August 31 it was still available on Amazon&amp;#x27;s Belgian website.
-&amp;quot;Mercury is regularly identified in goods for skin lightening,&amp;quot; French officials told Reuters in an email, saying e-commerce platforms are required to withdraw such products from sale and recall them. &amp;quot;Its presence is intentional and has the function of blocking the synthesis of melanin, the pigment that gives the skin color.&amp;quot;&lt;/p&gt;&lt;p&gt;&amp;quot;Products identified as non-compliant and unsafe are effectively reported to the platforms or companies concerned,&amp;quot; they said.
-The US Food and Drug Administration late last year contacted Michael Bender, co-coordinator of the Zero Mercury Working Group, in response to his outreach to them about mercury-containing products seven years earlier, according to an email seen by Reuters.
-The agency requested Bender&amp;#x27;s expertise and a list of products available, including those that may have appeared &amp;quot;under different brand names or packaging.&amp;quot; In May, the FDA published a list of skin-lightening creams that it said contain mercury, warning consumers against buying them.&lt;/p&gt;&lt;p&gt;(Only the headline and picture of this report may have been reworked by the Business Standard staff; the rest of the content is auto-generated from a syndicated feed.)&lt;/p&gt;&lt;p&gt;More From This Section&lt;/p&gt;&lt;p&gt;Why Yemen&amp;#x27;s Houthi rebels have only grown stronger through years of war&lt;/p&gt;&lt;p&gt;AWS unable to restore access to Bahrain, UAE cloud zone hit in Iran war&lt;/p&gt;&lt;p&gt;SpaceX targets September 22 for Starship test, eyes first orbital flight&lt;/p&gt;&lt;p&gt;Saudi Arabia says it shot down Houthi drone near Mecca, Houthis deny claim&lt;/p&gt;&lt;p&gt;FBI thwarts Russian plot to kill a prominent dissident in Washington&lt;/p&gt;&lt;p&gt;Topics : mercury Cosmetics cosmetics industry fake cosmetics
-Buzzing : Stock Market Live Stocks to Watch Stocks to Buy Nifty Outlook Delhi traffic advisory NSE IPO Tata group stocks India vs Afghanistan 2nd T20I Pranav Constructions IPO&lt;/p&gt;&lt;p&gt;Don&amp;#x27;t miss the most important news and views of the day. Get them on our Telegram channel
-First Published: Sep 16 2026 | 12:44 PM IST&lt;/p&gt;</content:encoded>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.business-standard.com/world-news/a-decade-after-mercury-ban-toxic-skin-bleachers-still-sold-online-126091600407_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>India remains key driver for global growth: IMF Deputy MD Nigel Clarke</title>
-      <link>https://www.business-standard.com/economy/news/india-remains-key-driver-for-global-growth-imf-deputy-md-nigel-clarke-126091600227_1.html</link>
-      <guid isPermaLink="false">bc3492c717fbe3431327a4cb</guid>
-      <pubDate>Tue, 15 Sep 2026 23:43:00 +0000</pubDate>
-      <description>Clarke visited India last week and held meetings with Finance Minister Nirmala Sitharaman, RBI Governor Sanjay Malhotra, NITI Aayog Vice Chairman Ashok Kumar Lahiri and business leaders ...</description>
+      <title>OpenAI's rogue agents probed Hugging Face for weakness 2 months before hack</title>
+      <link>https://www.business-standard.com/world-news/openai-s-rogue-agents-probed-hugging-face-for-weakness-2-months-before-hack-126091600779_1.html</link>
+      <guid isPermaLink="false">a1f844dc3e578291269a2d6a</guid>
+      <pubDate>Wed, 16 Sep 2026 03:51:00 +0000</pubDate>
+      <description>The newly uncovered malicious activity showed that the rogue agents' efforts to find a way into Hugging Face began earlier than publicly known.</description>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/economy/news/india-remains-key-driver-for-global-growth-imf-deputy-md-nigel-clarke-126091600227_1.html</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.business-standard.com/world-news/openai-s-rogue-agents-probed-hugging-face-for-weakness-2-months-before-hack-126091600779_1.html</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Tata Chem rebounds 14% from intra-day low on huge volume; up 29% in 2 days</title>
-      <link>https://www.business-standard.com/markets/news/tata-chem-rebounds-14-from-intra-day-low-on-huge-volume-up-29-in-2-days-126091600372_1.html</link>
-      <guid isPermaLink="false">ab53d9cc182ef07a3f83517b</guid>
-      <pubDate>Tue, 15 Sep 2026 23:33:00 +0000</pubDate>
-      <description>Tata Chemicals' holding in Tata Sons is around 2.5 per cent. Going by the rough-cut valuation, hypothetically, the investment value could be ₹10,000-15,000 crore, as per ICICI Securities.</description>
+      <title>Tata Sons IPO order backs tycoon Shapoor Mistry's long-running ask</title>
+      <link>https://www.business-standard.com/companies/news/tata-sons-ipo-order-backs-tycoon-shapoor-mistry-s-long-running-ask-126091600750_1.html</link>
+      <guid isPermaLink="false">4e1a9cca2d8633a1c46af9a3</guid>
+      <pubDate>Wed, 16 Sep 2026 03:22:00 +0000</pubDate>
+      <description>The RBI's decision came months after reclusive billionaire Shapoor Mistry published an open letter to the regulator seeking a listing of Tata Sons to help unlock value for the group's 18.4% stake ...</description>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/markets/news/tata-chem-rebounds-14-from-intra-day-low-on-huge-volume-up-29-in-2-days-126091600372_1.html</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.business-standard.com/companies/news/tata-sons-ipo-order-backs-tycoon-shapoor-mistry-s-long-running-ask-126091600750_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>UK study visas fall 16%: New rules, fewer dependants and what's changed</title>
+      <link>https://www.business-standard.com/immigration/uk-study-visas-fall-16-new-rules-fewer-dependants-and-what-s-changed-126091600719_1.html</link>
+      <guid isPermaLink="false">6019878e9e00472283e94267</guid>
+      <pubDate>Wed, 16 Sep 2026 03:03:00 +0000</pubDate>
+      <description>Stricter dependant rules and immigration curbs are reshaping the UK study route as applications fall for a second year.</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.business-standard.com/immigration/uk-study-visas-fall-16-new-rules-fewer-dependants-and-what-s-changed-126091600719_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>EU president backs AI slowdown, to invite frontier labs for talks</title>
+      <link>https://www.business-standard.com/world-news/eu-president-backs-ai-slowdown-to-invite-frontier-labs-for-talks-126091600679_1.html</link>
+      <guid isPermaLink="false">0e5efdb9f59e2a5276347300</guid>
+      <pubDate>Wed, 16 Sep 2026 02:50:00 +0000</pubDate>
+      <description>Von der Leyen's comments in her annual speech to the European Parliament in Strasbourg came amid growing worries about the potential danger posed by artificial intelligence ...</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.business-standard.com/world-news/eu-president-backs-ai-slowdown-to-invite-frontier-labs-for-talks-126091600679_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>India retains 131st rank in Global Gender Gap Index 2026, Iceland on top</title>
+      <link>https://www.business-standard.com/world-news/india-retains-131st-rank-in-global-gender-gap-index-2026-iceland-on-top-126091600552_1.html</link>
+      <guid isPermaLink="false">56abdedec8296319c15f1728</guid>
+      <pubDate>Wed, 16 Sep 2026 02:07:00 +0000</pubDate>
+      <description>India retained the 131st rank on the Global Gender Gap Index 2026 released by the World Economic Forum on Wednesday, with Iceland, Finland and Norway maintaining their top three slots respectively.</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.business-standard.com/world-news/india-retains-131st-rank-in-global-gender-gap-index-2026-iceland-on-top-126091600552_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Govt likely to extend key export incentive programme for five years</title>
+      <link>https://www.business-standard.com/finance/news/govt-likely-to-extend-key-export-incentive-programme-for-five-years-126091600550_1.html</link>
+      <guid isPermaLink="false">5981ee954a73238657d6e008</guid>
+      <pubDate>Wed, 16 Sep 2026 01:37:00 +0000</pubDate>
+      <description>The commerce ministry sought ₹23,000 crore ($2.40 billion) from the finance ministry under the programme for 2026/27 ...</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.business-standard.com/finance/news/govt-likely-to-extend-key-export-incentive-programme-for-five-years-126091600550_1.html</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -130,155 +188,18 @@ First Published: Sep 16 2026 | 12:44 PM IST&lt;/p&gt;</content:encoded>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Groww shares fall over 4% after block deal; most active stock on NSE</title>
-      <link>https://www.business-standard.com/markets/news/groww-shares-fall-over-4-after-block-deal-most-active-stock-on-nse-126091600201_1.html</link>
-      <guid isPermaLink="false">0776636013c7f05a1a97d8ba</guid>
-      <pubDate>Tue, 15 Sep 2026 22:12:00 +0000</pubDate>
-      <description>Media reports suggested that Peak XV Partners Investments and Sequoia Capital were likely sellers. The investors are believed to have offloaded a 1.6 per cent stake in Groww for around ₹1,918 crore.</description>
+      <title>Police to question Google over 500K fake Gmail IDs linked to bomb hoax</title>
+      <link>https://www.business-standard.com/india-news/police-to-question-google-over-500k-fake-gmail-ids-linked-to-bomb-hoax-126091500562_1.html</link>
+      <guid isPermaLink="false">c5ed271351d6180d6141895e</guid>
+      <pubDate>Tue, 15 Sep 2026 09:55:00 +0000</pubDate>
+      <description>Gujarat police probe Google over safeguards after uncovering 513,847 fake Gmail accounts used to send hoax bomb threats to government offices ...</description>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/markets/news/groww-shares-fall-over-4-after-block-deal-most-active-stock-on-nse-126091600201_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>UPI charges explained: What happens when you pay ₹5,000, ₹50,000 or ₹1 lakh</title>
-      <link>https://www.business-standard.com/finance/personal-finance/upi-charges-explained-what-happens-when-you-pay-5-000-50-000-or-1-lakh-126091600180_1.html</link>
-      <guid isPermaLink="false">04c56870b8fce553fa67b59e</guid>
-      <pubDate>Tue, 15 Sep 2026 21:32:00 +0000</pubDate>
-      <description>The government estimates about 96% of merchant payments will remain unaffected by the changes. The network processed 24.51 billion transactions valued at 29.9 trillion rupees in August.</description>
-      <content:encoded>&lt;p&gt;Home / Finance / Personal Finance / UPI charges explained: What happens when you pay ₹5,000, ₹50,000 or ₹1 lakh&lt;/p&gt;&lt;p&gt;UPI charges explained: What happens when you pay ₹5,000, ₹50,000 or ₹1 lakh The government estimates about 96% of merchant payments will remain unaffected by the changes. The network processed 24.51 billion transactions valued at 29.9 trillion rupees in August.&lt;/p&gt;&lt;p&gt;UPI Charges Explained: What the New MDR Means for Your Payments | Image: Bloomberg&lt;/p&gt;&lt;p&gt;Sunainaa Chadha NEW DELHI 8 min read Last Updated : Sep 16 2026 | 10:02 AM IST&lt;/p&gt;&lt;p&gt;Listen to This Article&lt;/p&gt;&lt;p&gt;The introduction of a Merchant Discount Rate (MDR) on select UPI transactions from October 15, 2026 has triggered confusion over whether users will now have to pay for making UPI payments.
-  The short answer is no.
-  The new MDR is a charge levied within the merchant-payment ecosystem. It is not a fee that the customer pays while making a UPI transaction. Person-to-person (P2P) UPI transfers will continue to be free, while payments to merchants up to ₹2,000 will also remain free. The government has said that around 96% of merchant UPI transactions will remain unaffected.
-  However, for certain merchant transactions above ₹2,000, the merchant-side cost will change.&lt;/p&gt;&lt;p&gt;So, what is MDR?
-Also Read&lt;/p&gt;&lt;p&gt;Paytm, Mobikwik rally up to 7% as NCPI levies charge on UPI transactions&lt;/p&gt;&lt;p&gt;RBI backs MDR on large-value UPI transactions, says users will pay no fee&lt;/p&gt;&lt;p&gt;0.4% MDR kicks in from October 15 for ₹2,000-plus UPI payments&lt;/p&gt;&lt;p&gt;Best of BS Opinion: Modest charges will enable healthy growth of UPI&lt;/p&gt;&lt;p&gt;Only 17% merchants willing to bear 0.4% MDR on UPI payments: Survey&lt;/p&gt;&lt;p&gt;MDR, or Merchant Discount Rate, is the fee associated with accepting a digital payment. Under the new framework, a standard UPI Person-to-Merchant (P2M) transaction above ₹2,000 will attract an MDR of 0.4%.
-  For transactions of ₹75,000 and above, the MDR is capped at ₹300 per transaction. The framework takes effect from October 15, 2026.
-  Importantly, the NPCI FAQ says that merchants cannot pass the MDR on to customers. The customer continues to pay the price displayed by the merchant.   Will ordinary consumers be charged for making payments via UPI? &amp;quot;No, UPI services will continue without any cost to consumers. Consumers can continue to transact free-of-cost using UPI as they have been doing till now. Consumers making payments through UPI will not face any charges. Individual account holders can continue using UPI applications for all routine, daily expenses without worrying about any charges. The MDR policy ensures that UPI remain free and accessible for all citizens across India,&amp;quot; clarified NPCI.&lt;/p&gt;&lt;p&gt;How is MDR calculated on exact transactions (e.g., ₹5,000 vs ₹1,00,000)? As per NPCI, MDR calculations follow a clear, predictable formula based on transaction value thresholds. For a ₹3,000 purchase, applying the 0.4% rate results in an MDR fee of ₹12 paid by the merchant to its acquiring bank. For a ₹50,000 purchase, a 0.4% fee equals ₹200. However, for a high-value purchase of ₹1,00,000, the 0.4% calculation (which equals ₹400) is superseded by the fixed maximum cap of ₹300 (₹300 is the fixed maximum cap per transaction for payments of ₹75,000 and above. Any transaction under ₹2,000 incurs no MDR.   The easiest way to understand the new charge is through examples.     For example, on a ₹5,000 purchase, 0.4% works out to ₹20.&lt;/p&gt;&lt;p&gt;Does this mean UPI is no longer free?
-    The new MDR is not a charge deducted from the customer&amp;#x27;s bank account when they scan a QR code or make a UPI payment.
-  The government has clarified that UPI will continue to be free for consumers. This includes P2P transfers, such as sending ₹1 lakh to a family member or transferring money between your own accounts.
-  There is also no new platform fee that UPI apps are allowed to levy on users for making UPI payments under this framework.
-  The important distinction is:
-Customer → makes UPI payment → pays the merchant&amp;#x27;s listed price
-Merchant/payment ecosystem → pays the applicable MDR
-  The 0.4% rate is the standard rate for specified P2M transactions. There are special categories with different rates.&lt;/p&gt;&lt;p&gt;For example, the framework provides a flat ₹5 MDR for specified essential and thin-margin sectors such as railways, telecommunications, insurance and fuel for transactions above ₹2,000.
-  That means a ₹10,000 eligible insurance payment, for example, would not necessarily attract 0.4% or ₹40. It would fall under the applicable special category and attract the prescribed ₹5 MDR.
-  This is why consumers should not assume that every UPI payment above ₹2,000 will automatically cost the merchant 0.4%.
-  What happens when you use UPI to invest in mutual funds or stocks?
-  This is particularly important because capital-market transactions have a separate, much lower MDR rate.
-  According to the NPCI FAQ, payments relating to mutual funds, securities, stockbrokers and dealers will attract an MDR of 0.02%, subject to a maximum of ₹300 per transaction. The category includes SEBI-registered stockbrokers and investment platforms.   This specific MDR tier explicitly covers all regulated entities operating within capital markets, including Asset Management Companies (Mutual Funds), SEBI-registered stockbrokers, securities dealers, and investment platforms. It applies to fund transfers executed via UPI for equity buying, debt market investments, mutual fund purchases, and broker wallet top-ups. By defining this category separately, it is ensured that capital market transfers are distinct from routine retail shopping or general service payments.&lt;/p&gt;&lt;p&gt;Consider these examples:   The Merchant Discount Rate (MDR) for Capital Market transactions, including payments towards Mutual Funds, Securities, Stockbrokers, and Dealers, is set at a nominal 0.02% of the transaction value with a maximum capping of ₹30&lt;/p&gt;&lt;p&gt;The ₹300 ceiling is reached at ₹15 lakh because:
-  ₹15,00,000 × 0.02% = ₹300
-  So a ₹1 lakh UPI payment to an eligible stockbroker would correspond to an MDR of ₹20, not ₹300.
-  What about Zerodha?
-  This is where another misconception needs to be cleared up.
-  Zerodha currently says that customers can add money through UPI for free. It also says that adding money through its instant net-banking payment gateway costs ₹9 plus 18% GST, or ₹10.62.&lt;/p&gt;&lt;p&gt;So, for example, if a Zerodha customer adds ₹1 lakh:
-  Through net banking:
-Customer-facing payment-gateway charge = ₹9 + GST = ₹10.62
-  Through UPI:
-Customer-facing Zerodha charge = ₹0
-  But the new MDR framework is a separate issue. It concerns the cost within the payment ecosystem and is not the same as Zerodha&amp;#x27;s existing ₹9 + GST payment-gateway fee.
-  Not under the 0.02% capital-market MDR calculation.
-  If the transaction falls under the capital-market category:
-  ₹1,00,000 × 0.02% = ₹20
-  The maximum MDR is ₹300, but that maximum is reached only when the transaction reaches ₹15 lakh.
-  Zerodha currently says that its UPI limit for capital-market investments is ₹5 lakh per transaction. At ₹5 lakh, the 0.02% MDR calculation would be:
-  ₹5,00,000 × 0.02% = ₹100.
-  Therefore, based on Zerodha&amp;#x27;s currently published UPI limit, the ₹300 ceiling would not be reached in a single UPI transaction on its platform.
-  What does this mean for consumers?
-  For most consumers, the immediate change is much smaller than headlines about &amp;quot;UPI charges&amp;quot; may suggest.
-  If you send ₹50,000 to another person, there is no MDR.
-  If you pay ₹5,000 to an eligible ordinary merchant, you do not pay ₹20 extra. The merchant-side MDR calculation is ₹20.
-  If you pay ₹1 lakh to an eligible ordinary merchant, you do not pay ₹300 extra. The merchant-side MDR is capped at ₹300.
-  If you put ₹1 lakh into an eligible stockbroker or capital-market platform through UPI, the applicable MDR calculation is 0.02%, or ₹20, rather than the standard 0.4%.   Key points to note:&lt;/p&gt;&lt;p&gt;No MDR will be levied on UPI transactions of up to ₹2,000.
-0.4% MDR will apply to Person-to-Merchant (P2M) UPI transactions above ₹2,000.
-On a ₹3,000 purchase, the 0.4% MDR works out to ₹12, which is paid by the merchant to its acquiring bank.
-The MDR collected will be shared among payment ecosystem partners, including banks.
-No MDR will be charged on Person-to-Person (P2P) transactions, irrespective of the transaction value.
-MDR will be capped at ₹300 per transaction for high-value payments of ₹75,000 and above.
-Merchants in essential sectors such as telecom, insurance and fuel will pay a flat MDR of ₹5 per transaction.
-Payments towards mutual funds and stockbrokers will attract an MDR of 0.02%, capped at ₹300 per transaction.
-Small merchants receiving up to ₹1 lakh per month will have mandatory zero MDR on all transactions.
-UPI app providers will not be allowed to levy platform fees or hidden charges on UPI transactions.
-Banks have been advised to ensure that merchants do not pass MDR charges on to customers.
-There will be no monthly quotas, transaction-volume limits or tiered caps on free UPI transactions for individuals.
-Daily UPI transaction limits will continue to be determined by banks and NPCI, with limits of ₹1 lakh to ₹5 lakh depending on the transaction category.
-A dedicated fund to promote UPI adoption among small merchants will be created, funded by 5% of total MDR collections.
-The government estimates that only around 4% of merchant transactions will be affected by the introduction of MDR.
-The finalised MDR framework and threshold structure will come into effect from October 15, 2026.
- 
-More From This Section&lt;/p&gt;&lt;p&gt;Rera or consumer commission: Why forum should be chosen with care premium&lt;/p&gt;&lt;p&gt;Your bank deposits are lawful but tax experts want you to keep records&lt;/p&gt;&lt;p&gt;Rakesh Roshan leases Andheri office to BeingU Studios for ₹7.3 lakh a month&lt;/p&gt;&lt;p&gt;Credit-card cashback, referral bonus, online wins: What&amp;#x27;s taxable in India?&lt;/p&gt;&lt;p&gt;Explained: RBI proposes 60-day debit holds for suspected mule accounts&lt;/p&gt;&lt;p&gt;Topics : UPI transactions
-Buzzing : Stock Market Live Stocks to Watch Stocks to Buy Nifty Outlook Delhi traffic advisory NSE IPO Tata group stocks India vs Afghanistan 2nd T20I Pranav Constructions IPO&lt;/p&gt;&lt;p&gt;Don&amp;#x27;t miss the most important news and views of the day. Get them on our Telegram channel
-First Published: Sep 16 2026 | 10:01 AM IST&lt;/p&gt;</content:encoded>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.business-standard.com/finance/personal-finance/upi-charges-explained-what-happens-when-you-pay-5-000-50-000-or-1-lakh-126091600180_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Iran conflict cost US more than $38 billion: Congressional Budget Office</title>
-      <link>https://www.business-standard.com/world-news/iran-conflict-cost-us-more-than-38-billion-congressional-budget-office-126091600023_1.html</link>
-      <guid isPermaLink="false">2bf90474b3deb2a22cd198f0</guid>
-      <pubDate>Tue, 15 Sep 2026 20:14:00 +0000</pubDate>
-      <description>The US war against Iran has cost the Department of Defence more than $38 billion through Aug 1, and will continue costing up to $3 billion a month or more depending on the intensity of the conflict, ...</description>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/world-news/iran-conflict-cost-us-more-than-38-billion-congressional-budget-office-126091600023_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>New Zealand Parliament passes India FTA Bill, clears tariffs on 95% exports</title>
-      <link>https://www.business-standard.com/world-news/new-zealand-parliament-passes-india-fta-bill-clears-tariffs-on-95-exports-126091600069_1.html</link>
-      <guid isPermaLink="false">08f3a45f7b5c54ce5e6b8916</guid>
-      <pubDate>Tue, 15 Sep 2026 20:13:00 +0000</pubDate>
-      <description>New Zealand's parliament on Wednesday passed legislation to implement a free trade agreement with India, under which tariffs on about 95% of New Zealand exports to India would be eliminated or ...</description>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/world-news/new-zealand-parliament-passes-india-fta-bill-clears-tariffs-on-95-exports-126091600069_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Trump lashes out at SC for rejecting his push to restrict mail ballots</title>
-      <link>https://www.business-standard.com/world-news/trump-lashes-out-at-sc-for-rejecting-his-push-to-restrict-mail-ballots-126091600031_1.html</link>
-      <guid isPermaLink="false">eb7822d2b83efa3fc75498fc</guid>
-      <pubDate>Tue, 15 Sep 2026 19:59:00 +0000</pubDate>
-      <description>The court ruled late Monday in an emergency order that the restrictions would most likely lose in court, at least for this year's election ...</description>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/world-news/trump-lashes-out-at-sc-for-rejecting-his-push-to-restrict-mail-ballots-126091600031_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Asian stocks edge higher ahead of Fed decision as yields, oil pause</title>
-      <link>https://www.business-standard.com/markets/news/asian-stocks-edge-higher-ahead-of-fed-decision-as-yields-oil-pause-126091600083_1.html</link>
-      <guid isPermaLink="false">89c596119b82033fe6733b55</guid>
-      <pubDate>Tue, 15 Sep 2026 19:59:00 +0000</pubDate>
-      <description>Overnight on Wall Street, the S&amp;P 500 slumped 0.5%, marking its second consecutive day of declines as the yield on the 10-year Treasury bond hit its highest level since 2007 ...</description>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/markets/news/asian-stocks-edge-higher-ahead-of-fed-decision-as-yields-oil-pause-126091600083_1.html</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.business-standard.com/india-news/police-to-question-google-over-500k-fake-gmail-ids-linked-to-bomb-hoax-126091500562_1.html</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>

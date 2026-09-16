@@ -1,28 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss version="2.0">
   <channel>
     <title>Investing.com — diagnostic source feed</title>
     <link>https://www.investing.com/rss/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 16 Sep 2026 07:25:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 12:46:57 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>Meta’s Zuckerberg says AI labs have enough incentive to build safely</title>
-      <link>https://www.investing.com/news/stock-market-news/metas-zuckerberg-says-ai-labs-have-enough-incentive-to-build-safely-4902846</link>
-      <guid isPermaLink="false">c6b9b565947f7eb3d8c3a8d2</guid>
-      <pubDate>Wed, 16 Sep 2026 07:12:26 +0000</pubDate>
-      <description />
-      <dc:creator>Reuters</dc:creator>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>investing_news</wire:foundAt>
-      <wire:platform>Investing.com</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>link_only</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/metas-zuckerberg-says-ai-labs-have-enough-incentive-to-build-safely-4902846</wire:canonicalUrl>
-      <wire:evidence>structured credit: Reuters</wire:evidence>
-    </item>
   </channel>
 </rss>
