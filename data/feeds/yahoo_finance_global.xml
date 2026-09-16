@@ -1,11 +1,44 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Yahoo Finance — diagnostic source feed</title>
     <link>https://finance.yahoo.com/news/rssindex</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:32:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 01:38:48 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Dominion, NextEra propose $1 billion-a-year Virginia supplier program</title>
+      <link>https://finance.yahoo.com/news/dominion-nextera-propose-1-billion-133808617.html</link>
+      <guid isPermaLink="false">82ffb7791ef83c8562650142</guid>
+      <pubDate>Mon, 14 Sep 2026 13:38:08 +0000</pubDate>
+      <description>Sept 14 () - Dominion Energy and NextEra Energy on Monday said they would establish a Virginia supplier program worth up to $1 billion annually for five ye...</description>
+      <dc:creator>Reuters</dc:creator>
+      <content:encoded>&lt;p&gt;Dominion, NextEra propose $1 billion-a-year Virginia supplier program&lt;/p&gt;&lt;p&gt;Electric power transmission pylon miniatures and Dominion Energy logo are seen in this illustration taken, December 9, 2022. REUTERS/Dado Ruvic/Illustration · Reuters
+Reuters
+Mon, September 14, 2026 at 8:38 AM CDT 1 min read&lt;/p&gt;&lt;p&gt;D
+-0.92%&lt;/p&gt;&lt;p&gt;NEE
+-0.69%&lt;/p&gt;&lt;p&gt;Explore stocks on Coinbase Trading disclosure&lt;/p&gt;&lt;p&gt;Trading disclosure The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.
+Learn more&lt;/p&gt;&lt;p&gt;Sept 14 (Reuters) - Dominion Energy and NextEra Energy on Monday said they would establish a Virginia supplier program worth up to $1 billion annually for five years if their proposed merger is approved.
+They announced merger plans in May, as rising power demand from data centers, electric vehicles and other industries drives a renewed wave of utility consolidation.&lt;/p&gt;&lt;p&gt;• NextEra and Dominion said the new program would direct spending toward contractors, suppliers and service providers in Virginia.
+• They proposed extending monthly $10 bill credits to four years from two and increasing Dominion&amp;#x27;s low-income financial assistance by $100 million through 2038.
+• The commitments include a $100 million workforce development fund, an annual energy summit in the state and maintaining the current employee headcount there for five years.
+• The combined company will get a shareholder-funded co-headquarters tower in state capital Richmond.
+• Virginia Governor Abigail Spanberger said in August she would intervene in regulatory review of the merger, pressing for commitments on power affordability, job protections and clean energy investments.
+• Shareholders of both companies approved the proposed $66.8 billion merger earlier this month. The deal, awaiting regulatory approvals, is expected to close in the second half of 2027.
+(Reporting by Sumit Saha in Bengaluru; Editing by Joyjeet Das)&lt;/p&gt;&lt;p&gt;View Comments&lt;/p&gt;&lt;p&gt;Terms and Privacy Policy
+Privacy Dashboard
+More Info&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_finance_global</wire:foundAt>
+      <wire:platform>Yahoo Finance</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>article page metadata</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://finance.yahoo.com/news/dominion-nextera-propose-1-billion-133808617.html</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>

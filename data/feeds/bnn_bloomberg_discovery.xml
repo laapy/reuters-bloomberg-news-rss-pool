@@ -1,12 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>BNN Bloomberg — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Abnnbloomberg.ca+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:32:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 01:38:48 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Canada had ‘no choice’ but to walk away from U.S. trade talks: former PM Harper</title>
+      <link>https://www.bnnbloomberg.ca/business/politics/2026/09/16/canada-had-no-choice-but-to-walk-away-from-us-trade-talks-former-pm-harper/</link>
+      <guid isPermaLink="false">07c99400b2e40919ecd626b3</guid>
+      <pubDate>Tue, 15 Sep 2026 17:00:00 +0000</pubDate>
+      <description>Former prime minister Stephen Harper gave the closing speech at the Investment Summit in Toronto, calling for Canada to assert itself as a global energy superpower.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/politics/2026/09/16/canada-had-no-choice-but-to-walk-away-from-us-trade-talks-former-pm-harper/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
     <item>
       <title>AI finance is here, but scaling hurdles abound: fintech execs</title>
       <link>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/15/ai-finance-is-here-but-scaling-hurdles-abound-fintech-execs/</link>
@@ -23,18 +38,18 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>S&amp;P/TSX composite down more than 100 points, U.S. markets also edge lower</title>
-      <link>https://www.bnnbloomberg.ca/investing/2026/09/15/sptsx-composite-down-nearly-300-points-us-stock-markets-also-trade-lower/</link>
-      <guid isPermaLink="false">bbb432c69970711e617beab1</guid>
-      <pubDate>Tue, 15 Sep 2026 08:43:00 +0000</pubDate>
-      <description>Canada’s main stock index was down nearly 300 points, weighed down by losses in the base metal, financial, technology and telecom sectors.</description>
+      <title>Four major Canadian airports are open to private investment</title>
+      <link>https://www.bnnbloomberg.ca/video/investing/2026/09/15/four-major-canadian-airports-are-open-to-private-investment/</link>
+      <guid isPermaLink="false">dccef9db897c093954cd234b</guid>
+      <pubDate>Tue, 15 Sep 2026 06:46:00 +0000</pubDate>
+      <description>Montreal, Toronto, Calgary, and Vancouver airports will be open to private investment. Adrian Ghobrial explains what it means and how it will work.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/investing/2026/09/15/sptsx-composite-down-nearly-300-points-us-stock-markets-also-trade-lower/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/09/15/four-major-canadian-airports-are-open-to-private-investment/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -103,12 +118,15 @@
       <guid isPermaLink="false">fffad847adb3669668264680</guid>
       <pubDate>Tue, 15 Sep 2026 02:47:00 +0000</pubDate>
       <description>B.C. Premier David Eby speaks about the province's deficit, the need for social infrastructure and whether additional cuts to services are necessary.</description>
+      <content:encoded>&lt;p&gt;Opens in new window
+&amp;#x27;We&amp;#x27;re winning record amounts of new business&amp;#x27;: One-on-one with Linamar CEO Linda Hasenfratz Opens in new window 05:47 · September 15, 2026 at 6:32p.m. EDT&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/09/15/were-heading-in-the-right-direction-on-economic-growth-bc-premier-david-eby/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
@@ -118,43 +136,16 @@
       <guid isPermaLink="false">c4c95a2cdbc02704f03ed1f4</guid>
       <pubDate>Tue, 15 Sep 2026 02:47:00 +0000</pubDate>
       <description>Linamar CEO Linda Hasenfratz talks about staying 'flexible and nimble' in the current geopolitical environment.</description>
+      <content:encoded>&lt;p&gt;Opens in new window
+&amp;#x27;We&amp;#x27;re winning record amounts of new business&amp;#x27;: One-on-one with Linamar CEO Linda Hasenfratz Opens in new window 05:47 · September 15, 2026 at 6:32p.m. EDT&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/09/15/were-winning-record-amounts-of-new-business-one-on-one-with-linamar-ceo-linda-hasenfratz/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Four major Canadian airports are open to private investment</title>
-      <link>https://www.bnnbloomberg.ca/video/investing/2026/09/15/four-major-canadian-airports-are-open-to-private-investment/</link>
-      <guid isPermaLink="false">dccef9db897c093954cd234b</guid>
-      <pubDate>Mon, 14 Sep 2026 22:45:00 +0000</pubDate>
-      <description>Montreal, Toronto, Calgary, and Vancouver airports will be open to private investment. Adrian Ghobrial explains what it means and how it will work.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/09/15/four-major-canadian-airports-are-open-to-private-investment/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>What private airport investments could mean for Canadians</title>
-      <link>https://www.bnnbloomberg.ca/video/investing/2026/09/15/what-private-airport-investments-could-mean-for-canadians/</link>
-      <guid isPermaLink="false">c3660cabe7f911f29ba4bc68</guid>
-      <pubDate>Mon, 14 Sep 2026 22:45:00 +0000</pubDate>
-      <description>CTV’s Chief Financial Correspondent Amanda Lang explains who could invest in Canadian airports and how new tax deductions could affect investment and Canadians.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/09/15/what-private-airport-investments-could-mean-for-canadians/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -170,6 +161,21 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/09/15/why-are-former-prime-ministers-taking-part-in-the-summit/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>What private airport investments could mean for Canadians</title>
+      <link>https://www.bnnbloomberg.ca/video/investing/2026/09/15/what-private-airport-investments-could-mean-for-canadians/</link>
+      <guid isPermaLink="false">c3660cabe7f911f29ba4bc68</guid>
+      <pubDate>Mon, 14 Sep 2026 22:45:00 +0000</pubDate>
+      <description>CTV’s Chief Financial Correspondent Amanda Lang explains who could invest in Canadian airports and how new tax deductions could affect investment and Canadians.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/09/15/what-private-airport-investments-could-mean-for-canadians/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
