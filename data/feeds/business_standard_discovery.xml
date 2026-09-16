@@ -5,54 +5,16 @@
     <link>https://www.bing.com/news/search?q=site%3Abusiness-standard.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 16 Sep 2026 12:46:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 17:34:24 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>AI wearables can listen and watch but people around them never opted in</title>
-      <link>https://www.business-standard.com/technology/tech-news/ai-wearables-listen-watch-bystander-privacy-consent-126091600816_1.html</link>
-      <guid isPermaLink="false">f2fe0a488c02b81596d6f81a</guid>
-      <pubDate>Wed, 16 Sep 2026 11:09:57 +0000</pubDate>
-      <description>As AI gives wearables the ability to listen, see and interpret their surroundings, the privacy question is expanding beyond the person wearing the device to everyone within its reach ...</description>
-      <dc:creator>Harsh Shivam</dc:creator>
-      <content:encoded>&lt;p&gt;A person wearing an AI-powered device may know that the device is listening. The person sitting across the table may not. That gap is becoming harder to ignore as wearables move beyond tracking steps and heart rate to understanding conversations, recognising surroundings and turning what they hear and see into information. Apple&amp;#x27;s new Watch Series 12 offers a useful example. Its Live Rewind feature can show a text snippet of what was said during the previous 15 seconds, while Siri Recap can create high-level summaries of conversations. Both features are designed to work around the user&amp;#x27;s conversations rather than simply respond to a command. At almost the same time, Meta is reportedly preparing a camera-free version of its smart glasses, codenamed Luna. According to Reuters, citing a report by The Information, the glasses are expected to remove the camera while retaining microphones, speakers and AI capabilities. The reported move comes amid increasing scrutiny over the privacy implications of camera-equipped wearables.ALSO READ: Amazon brings Alexa+ to India with Hindi support, free early accessThe two developments approach the same problem from different directions. One makes a wearable better at understanding what people say. The other reportedly removes one of the most obvious sensors associated with privacy concerns. The question is what happens to everyone else within range of these devices.The person wearing the device is only one part of the conversationApple says Live Rewind is opt-in and only activates when the wearer double-presses the Digital Crown. It captures the previous 15 seconds of speech, displays a text snippet and does not continuously transcribe conversations in the background. Siri Recap is also controlled by the user and can be scheduled for particular times or locations. Apple has also built several privacy measures around the features. Live Rewind is processed on the device, while Siri Recap uses Apple&amp;#x27;s Private Cloud Compute for parts of the processing. Apple says saved summaries and Live Rewind snippets are end-to-end encrypted through iCloud and that Siri Recap data is automatically deleted after seven days if the user does not save it.ALSO READ: AI agents lied, stole and voted to &amp;#x27;kill&amp;#x27; peers in simulated experimentThese controls give the wearer some visibility into when the feature is active and what happens to the resulting data. The person sitting opposite the wearer has a different set of circumstances. They may have no Apple Watch. They may not know that a conversation is being processed. They may be comfortable with being heard but not with their words being converted into notes, stored, summarised or potentially analysed by an AI system. This creates what could be described as bystander privacy. The wearable belongs to one person, but its sensors operate in an environment occupied by several people. Dhananjay Yadav, co-founder and CEO of Indian AI wearable startup NeoSapien, said the industry needs to recognise this distinction. “The person buying a wearable is not the only person affected by it,” Yadav said. “Their acceptance of an app’s terms cannot reasonably represent everyone they later meet.” For Yadav, consent also needs to be separated by purpose. Someone could agree to a meeting being transcribed but object to their emotional state being analysed, or to their words being used to train an AI model. “These are different permissions,” he said.A microphone can be as consequential as a cameraThe privacy discussion around smart glasses has largely focused on cameras. That concern has already reached regulators. Ireland&amp;#x27;s Data Protection Commission engaged with Meta over its Ray-Ban smart glasses, raising concerns about whether people captured by the glasses would receive adequate notice. Following the engagement, Meta increased the size of the external privacy LED and added a blinking pattern when recording. Meta has continued to face scrutiny over the recording indicator. The Verge reported earlier this month that the company had introduced another privacy measure after users found ways to obstruct the recording LED, with the glasses now disabling the camera if the indicator is covered. Yet a camera is only one way a wearable can observe its surroundings. A microphone can pick up a conversation without creating a visual record. AI can then turn that audio into searchable text, extract names, identify decisions, summarise discussions or potentially derive information from the way something was said. This is where the move towards AI changes the privacy equation. The Information Commissioner&amp;#x27;s Office in the UK has previously warned that immersive technologies such as smart glasses can deliberately or inadvertently monitor people close to the device. It has also pointed to the problem of increasingly discreet devices making covert surveillance easier. The privacy question becomes more complicated when the device is not simply recording, but interpreting. A photograph can become a description of a scene, an identified person or an extracted piece of text. Audio can similarly become a transcript, a summary or an inference about what was being discussed. AI can therefore create several layers of information from a single interaction.Deleting audio does not necessarily solve the problemCapturing information is only the first stage. What happens to that information afterwards creates another set of privacy questions. Yadav said companies need to distinguish between protecting information after it has been captured and establishing whether that information should have been captured in the first place. “Protecting captured information and establishing permission to capture it are separate responsibilities,” Yadav said. That distinction matters because deleting the original recording does not necessarily remove everything generated from it. A transcript or summary can retain another person&amp;#x27;s words after the audio itself has been deleted. The UK&amp;#x27;s ICO said in its 2026 guidance for consumer IoT products that consent should be real, specific and freely given, while privacy information should be provided in plain language and data collection should be limited to what is necessary. For wearable AI, that principle becomes complicated because the person whose information is being collected may not be the customer. A wearable may be recording a conversation that is important to its owner, but the conversation itself involves other people whose words become part of the resulting transcript or summary. That makes retention another part of the bystander privacy question, particularly when derived information can persist beyond the original interaction.A recording light is useful, but it has limitsA visible indicator is an obvious solution. If a light turns on when a wearable records, people nearby at least have a signal that something is happening. Apple has taken this approach with Live Rewind. The company says the feature plays an audible chime when activated and displays a microphone indicator and full-screen animation. Yadav also sees indicators as an important starting point. He said Neosapien’s Neo1, a wearable pendant-like device that can transcribe and summarise speech, uses a white light to indicate active listening and has a mode that allows capture to be paused. But an indicator solves the problem of notice, not necessarily the problem of choice. A person can know that a device is recording and still have no practical way to prevent their voice from being captured. In a restaurant, office or public transport, walking away may not be realistic. The ICO&amp;#x27;s guidance on body-worn recording makes a similar distinction. It recommends clear privacy information, visible indicators and retention controls, while warning that continuous recording can capture people going about their daily lives and may be excessive. For consumer AI wearables, this suggests that the recording indicator cannot be the entire privacy system. Yadav said safeguards should cover “what is captured, what is inferred, where it is processed, how long it is retained and who can access it”. He also argues that companies should provide a practical way for bystanders to raise concerns or request removal without requiring them to become customers.Wearables may need to design for the person across the tableThe basic proposition behind AI wearables is that the device can remember what the wearer forgets, understand what the wearer sees and hears, and reduce the need to interact with a phone. But the environment around the wearer is part of the input. That makes bystanders part of the product experience, whether manufacturers intended them to be or not. Yadav said companies should test products with people sitting across from the wearer, rather than testing only with customers. Their ability to understand what is happening and say no should become part of product design. That could mean clearer recording signals, easier ways to pause capture, shorter retention periods, local processing, automatic deletion and restrictions on secondary uses. It could also mean designing devices to minimise unrelated speech rather than simply capturing everything within microphone range.&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>mention</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.86</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.business-standard.com/technology/tech-news/ai-wearables-listen-watch-bystander-privacy-consent-126091600816_1.html</wire:canonicalUrl>
-      <wire:evidence>reporting reference, not an exact wire credit: According to Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>Fed rate decision tonight: Will inflation push Kevin Warsh towards a hike?</title>
-      <link>https://www.business-standard.com/world-news/us-fed-rate-decision-today-kevin-warsh-hike-or-hold-trump-interest-rates-126091600811_1.html</link>
-      <guid isPermaLink="false">ca68dc024aff70168b63ff94</guid>
-      <pubDate>Wed, 16 Sep 2026 11:06:32 +0000</pubDate>
-      <description>The US Federal Reserve is set to announce its latest interest rate decision today. Here's what the move could mean for the US economy, markets ...</description>
-      <dc:creator>Rimjhim Singh</dc:creator>
-      <content:encoded>&lt;p&gt;The US Federal Reserve is set to announce its interest rate decision at 11:30 pm (IST) on Wednesday, as its two-day policy meeting concludes. The decision will be followed by Fed Chairman Kevin Warsh’s press conference at around midnight IST. The Federal Open Market Committee (FOMC) began its meeting on September 15. The Fed has kept its interest rate unchanged at 3.50-3.75 per cent since January 2026. Why is the Fed decision important? A Reuters poll of 101 economists found that 86 expected the Fed to raise rates by 25 basis points to 3.75-4 per cent at the September meeting. This was a major change from the previous week&amp;#x27;s poll, when more than two-thirds of economists expected rates to remain unchanged. Interest-rate futures were also pricing in close to a 90 per cent probability of a hike, according to Reuters. What is pushing the Fed towards a hike? Inflation remains the main concern. The US Consumer Price Index (CPI) rose 0.4 per cent in August, following a 0.1 per cent increase in July, according to the Labor Department’s Bureau of Labor Statistics. On a year-on-year basis, consumer inflation stood at 3.4 per cent in August, unchanged from July. At the same time, crude oil prices have risen above $100 a barrel amid renewed tensions in West Asia, adding to concerns about higher inflation. The Fed&amp;#x27;s preferred inflation gauge, the personal consumption expenditures (PCE) price index, has also remained well above its 2 per cent target. In July, three regional Fed presidents dissented from the decision to keep rates unchanged, preferring a 25-basis-point hike. Will there be more rate hikes? Markets are also watching what Warsh says about the path ahead. The Reuters poll found that nearly 53 per cent of economists expected at least one more rate increase by the end of March 2027. Interest-rate futures were pricing in expectations for several more increases through July 2027. KPMG Chief Economist Diane Swonk told Reuters that a quarter-point increase could be an “opening move, not the final one”, highlighting expectations of further action if inflation remains high. Trump wants lower rates The decision also comes amid repeated calls from US President Donald Trump for lower interest rates. Trump has said the US should have the world&amp;#x27;s lowest interest rates and has publicly pressed the Fed to reduce borrowing costs. Trump recently threatened trade restrictions unless the Fed lowered rates. Warsh, who took over as Fed chair in May this year, therefore faces a policy decision that will also be closely watched for its implications for the central bank&amp;#x27;s independence. What are markets watching? Bond markets have already reacted to expectations of tighter monetary policy. The 10-year US Treasury yield briefly moved above 5 per cent, a level it has not closed above since 2007, Bloomberg reported. Higher Treasury yields can raise borrowing costs across the economy, including mortgage rates. Gold and silver prices have also been moving ahead of the decision, with domestic gold futures rising on Wednesday amid concerns over the Fed&amp;#x27;s expected rate move. In the global market on Wednesday, gold was trading at around $4,375 per ounce on Comex, while silver was near $65 per ounce. In India, MCX gold futures were trading at around ₹1,51,750 per 10 grams, while silver futures stood at about ₹2,35,200 per kg at the time of writing. When and where to watch the Fed decision? The FOMC rate decision will be announced at 11:30 pm IST on September 16. The Fed&amp;#x27;s press conference is scheduled for around midnight IST. The meeting and press conference can be watched through the Federal Reserve&amp;#x27;s official website.&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>mention</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.86</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.business-standard.com/world-news/us-fed-rate-decision-today-kevin-warsh-hike-or-hold-trump-interest-rates-126091600811_1.html</wire:canonicalUrl>
-      <wire:evidence>reporting reference, not an exact wire credit: according to Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>UPI gets MDR: How 0.4% merchant fee compares with debit, credit cards</title>
-      <link>https://www.business-standard.com/finance/news/upi-versus-cards-what-merchants-will-pay-under-the-new-mdr-regime-126091600504_1.html</link>
-      <guid isPermaLink="false">d0a1195a0f216bb27259501f</guid>
-      <pubDate>Wed, 16 Sep 2026 08:14:55 +0000</pubDate>
-      <description>The new UPI MDR ends its zero-cost model for select high-value merchant payments; here is how the 0.4 per cent charge compares with what merchants pay to accept debit and credit cards ...</description>
-      <dc:creator>Barkha Mathur</dc:creator>
-      <content:encoded>&lt;p&gt;From October 15, merchants will have to pay a 0.4 per cent Merchant Discount Rate (MDR) on specified UPI person-to-merchant (P2M) transactions above ₹2,000. Consumers, however, will not bear the cost. The move marks a shift for UPI, which has had no MDR since 2020. It also raises a question for businesses: once merchants start paying to accept UPI, how does its cost compare with debit and credit cards?The new UPI costUnder the revised framework, merchant payments of up to ₹2,000 will also remain free. Small merchants receiving up to ₹1 lakh a month through UPI QR codes under the P2PM category will continue to get zero MDR. For transactions that do attract the standard MDR, the rate is 0.4 per cent. That means a merchant accepting a ₹10,000 UPI payment would incur ₹40 in MDR, while a ₹50,000 transaction would cost ₹200. At ₹75,000, the 0.4 per cent calculation reaches ₹300, and the same ₹300 cap applies to higher-value transactions. Some sectors have separate rates. Transactions above ₹2,000 in railways, telecommunications, insurance, fuel and agricultural inputs will attract a flat ₹5 MDR. Payments involving mutual funds, securities, stockbrokers and dealers will attract 0.02 per cent, capped at ₹300.How does that compare with debit cards?Under RBI&amp;#x27;s existing framework, debit-card MDR for merchants with turnover above ₹20 lakh a year can be as high as 0.9 per cent for physical POS and online card transactions. For QR-code-based card acceptance, the ceiling is 0.8 per cent. For smaller merchants, the corresponding ceilings are 0.4 per cent and 0.3 per cent, respectively. The RBI figures are maximum rates, not a claim that every merchant pays 0.9 per cent. Actual merchant costs can depend on the merchant&amp;#x27;s size, payment channel and commercial relationship with the acquiring bank. For example, if a large retailer accepts a ₹10,000 debit-card payment, RBI rules may allow the acquiring bank to charge up to ₹90 as MDR. But the retailer may have negotiated a lower rate, say 0.5 per cent, in its agreement with the bank. So for a ₹10,000 transaction, therefore, the comparison at the prescribed rates is ₹40 for UPI against as much as ₹90 for a larger merchant using debit cards at the 0.9 per cent ceiling. ALSO READ: UPI MDR charges: What consumers need to know about the change in rulesCredit cards are a different propositionCredit-card payments typically carry higher merchant charges than debit cards. One reason is that card payments involve several participants and fees, including an interchange fee paid by the acquiring bank to the card issuer for each transaction. NPCI says the MDR is determined through individual negotiation between the acquiring bank and merchant. Its latest FAQ puts standard credit-card MDR typically at 1.5-2.5 per cent. At those headline rates, a ₹10,000 credit-card transaction would cost a merchant ₹150-250 in MDR. A ₹50,000 transaction would cost ₹750-1,250. On a ₹1 lakh transaction, the new UPI framework would result in an MDR of ₹300 because of the cap. Applying the 0.9 per cent debit-card ceiling gives ₹900, while a 1.5-2.5 per cent credit-card MDR would amount to ₹1,500-2,500. These are comparisons of headline MDRs, not estimates of what every merchant actually pays.Why would merchants continue to accept credit cards?A credit-card payment gives the customer access to a line of credit and can also come with rewards, cashback, discounts and interest-free credit periods. Those features can influence the payment method a consumer chooses, particularly for larger purchases. For the merchant, the higher MDR can therefore be viewed partly as the cost of accessing a payment instrument that offers customers credit and rewards. This is also why credit-card-on-UPI needs to be kept separate from ordinary bank-account-funded UPI. The new 0.4 per cent MDR applies to direct account-to-merchant UPI payments. RuPay credit cards linked to UPI and other credit-linked UPI transactions are governed separately because the underlying funding comes from a credit product. They should not be treated as ordinary 0.4 per cent UPI transactions. ALSO READ: UPI MDR from Oct 15: Will your SIP, automated insurance payments cost more?So, is UPI still cheaper?For eligible transactions, 0.4 per cent is below the 0.9 per cent maximum applicable to larger merchants for debit-card acceptance through physical POS or online channels, and well below the 1.5-2.5 per cent range cited by NPCI for standard credit cards. The ₹300 cap makes UPI particularly inexpensive for large transactions. A ₹1 lakh UPI payment costs ₹300 in MDR under the new framework, against up to ₹900 at the 0.9 per cent debit-card ceiling and ₹1,500-2,500 at the cited credit-card rates.&lt;/p&gt;</content:encoded>
+      <title>Rules beyond borders</title>
+      <link>https://www.business-standard.com/opinion/editorial/rules-beyond-borders-126091601421_1.html</link>
+      <guid isPermaLink="false">6418cf8420e593d396832ed4</guid>
+      <pubDate>Wed, 16 Sep 2026 17:16:28 +0000</pubDate>
+      <description>The People’s Republic of China has long asserted that it does not intend to disrupt the rule-based order in the course of its rise to great-power status. Several recent developments indicate, however, ...</description>
+      <dc:creator>Business Standard Editorial Comment</dc:creator>
+      <content:encoded>&lt;p&gt;The People’s Republic of China has long asserted that it does not intend to disrupt the rule-based order in the course of its rise to great-power status. Several recent developments indicate, however, that it has a view of its new status, which encompasses its right to exert judicial authority beyond its boundaries. This marks both a consequential change in the operating environment for global businesses and a new challenge to both the United States (US) and the broader international order. In a recent series of laws, the Chinese government has sought to target companies’ global operations, using a deliberately broad set of definitions for law-breaking. Some of these directly penalise companies for complying with other countries’ existing laws. Others are clearly retributive, targeting companies that have themselves followed other countries’ sanctions on China. Yet others deal with fomenting “ethnic discord”, deliberately vague — but probably including those that comply with Western regulations meant to minimise the oppression of the Uyghur minority in Xinjiang province, among others. It is one thing to have such laws on the books; it is quite another to actually implement them. But a recent prohibition order that was directed at compliance with US sanctions indicates that some in the Chinese Communist Party’s hierarchy intend at least to try.&lt;/p&gt;</content:encoded>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
       <wire:relation>unknown</wire:relation>
@@ -60,27 +22,137 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.business-standard.com/finance/news/upi-versus-cards-what-merchants-will-pay-under-the-new-mdr-regime-126091600504_1.html</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.business-standard.com/opinion/editorial/rules-beyond-borders-126091601421_1.html</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Traders brace for prolonged India bond slump as RBI mops up excess cash</title>
-      <link>https://www.business-standard.com/markets/news/traders-brace-for-prolonged-india-bond-slump-as-rbi-mops-up-excess-cash-126091600339_1.html</link>
-      <guid isPermaLink="false">aaf4ca939ef56bed5370f84d</guid>
-      <pubDate>Wed, 16 Sep 2026 06:04:06 +0000</pubDate>
-      <description>Bond traders expect yields to rise as the RBI drains excess liquidity amid higher oil prices, rising inflation and heavy government debt supply ...</description>
-      <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;By Subhadip Sircar and Bhaskar Dutta A sense of unease is gripping India’s bond traders as they fear the central bank’s push to drain excess cash from the financial system, just as inflation picks up and a global debt selloff intensifies, will spark an extended slump. ICICI Securities Primary Dealership Ltd., one of the nation’s largest underwriters of government debt, and IDFC First Bank Ltd. are among those predicting the benchmark 10-year yield to potentially surpass the 2026 peak hit in May and climb as high as 7.25% by Dec. 31. That would be the highest level in three years. Citigroup Inc. has brought forward its expectation for an interest-rate hike by the Reserve Bank of India to October from December. It’s a sharp reversal in sentiment. Just last month, the central bank drew a record $127 billion from India’s diaspora through special deposits as it sought to bolster its foreign-exchange reserves and defend the rupee. The inflows, which surpassed even the RBI’s own estimates, pushed the banking system’s cash surplus to an all-time high of about ₹11 trillion ($115 billion), helping cushion local bonds as yields in major markets surged to multiyear highs. But with the liquidity glut and a renewed surge in oil prices intensifying inflation risks, the RBI has sprung into action. Its plan to drain ₹1 trillion from lenders through open-market bond sales sent yields surging across the curve on Tuesday, with the 10-year rate now at 7.08%. Markets are bracing for more such measures in the weeks and months ahead. “The outlook is messy and it’s tough to call a peak for yields,” said Ashhish Vaidya, head of treasury at DBS Bank Ltd. in Mumbai. “The situation has clearly changed, traders are now repositioning for a more challenging supply situation as well as higher inflation.”  The RBI’s move came after the excess cash caused interbank borrowing rates to fall well below its policy benchmark. The easing of financial conditions appeared to be at odds with policymakers’ latest signals that rates may need to rise to contain inflation. For bond traders, the timing is particularly painful. The central bank is emerging as a seller just as government borrowing for the second half of the fiscal year gets underway, adding to an already-heavy supply of debt in the market. “The dictum that too much of a good thing may well be a problematic issue could certainly apply to the situation that India is facing right now,” Michael Wan, senior currency analyst at MUFG Bank Ltd., wrote in a note. “RBI’s most immediate challenge is to deploy its suite of tools to mop up this excess liquidity.” The central bank will need to quickly drain another ₹2 trillion of excess liquidity from the banking system, which could potentially be through short-term foreign-exchange swaps or the issuance of Market Stabilization Scheme securities and cash-management bills, according to QuantEco Research. The RBI didn’t immediately respond to an email seeking comments on its plans. Chandresh Jain, EM Asia rates and FX strategist at BNP Paribas SA, expects bonds with maturities of three to 10 years to come under further selling pressure. Local banks have been holding three- to five-year bonds due to excessive cash, and as the glut eases, yields on those bonds could rise faster than those on 10-year debt, he said.‘Cannot Afford’Data on Monday showed India’s inflation accelerated in August, moving closer to the top of the RBI’s 2%-6% target range and potentially narrowing the scope for it to remain on hold for long. Market watchers now increasingly expect the central bank to raise the benchmark rate by 25 basis points at its policy decision on Oct. 7, adding to the upward pressure on yields. “The next natural step will be to hike the policy rate in the October policy by 25bps, followed by another 25bps rate hike in December,” according to Kaushik Das, chief India economist at Deutsche Bank AG. As markets reacted to the RBI’s announcement of open-market bond sales, the selloff in shorter debt was more pronounced. Yields on five-year notes jumped 21 basis points on Tuesday, the most since May 2022, outpacing a 6-basis-point increase in 10-year yields. Similar-maturity US Treasury yields rose to the highest since 2007 later the same day. Foreign investors cut their holdings of index-eligible Indian bonds by ₹2,470 crore on Tuesday. That followed an outflow of ₹4,730 crore on Friday, which was the biggest since April last year. Indian markets were shut on Monday. “The bond market is bearing the immediate fallout” of the RBI’s aggressive pivot toward outright OMO sales, said Naveen Ramnani, chief dealer of treasury and investment at UCO Bank. “Managing the cash surplus is critical because lingering inflation risks mean loose overnight rates are a luxury the central bank cannot afford.”&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
+      <title>LIC, Norway's sovereign fund, ADIA anchor NSE's ₹6,746 crore IPO issue</title>
+      <link>https://www.business-standard.com/finance/insurance/lic-norway-s-sovereign-fund-adia-anchor-nse-s-6-746-crore-ipo-issue-126091601382_1.html</link>
+      <guid isPermaLink="false">040fc56738d79a3274d97d90</guid>
+      <pubDate>Wed, 16 Sep 2026 16:48:10 +0000</pubDate>
+      <description>Exchange allocated 37.79 million shares at Rs 1,785 each to 189 investors, with offshore institutions taking 43 per cent and domestic mutual funds nearly 37 per cent ...</description>
+      <dc:creator>Khushboo Tiwari</dc:creator>
+      <content:encoded>&lt;p&gt;Life Insurance Corporation of India (LIC), Norway&amp;#x27;s Government Pension Fund Global, the Monetary Authority of Singapore, the Abu Dhabi Investment Authority (ADIA) and Societe Generale were among the marquee names that anchored the National Stock Exchange of India&amp;#x27;s (NSE’s) initial public offering. The exchange finalised allocation to 189 anchor investors on Wednesday. In a disclosure, the exchange said its board had allocated 3,77,93,739 equity shares to anchor investors at ₹1,785 apiece, aggregating ₹6,746.18 crore. LIC, the largest shareholder in NSE, also emerged as the single largest anchor investor, picking up 2.24 million shares worth ₹400.3 crore, followed by Societe Generale&amp;#x27;s offshore derivative instrument desk with 1.77 million shares worth ₹316 crore, and the Government Pension Fund Global with 1.4 million shares worth ₹250 crore. Offshore investors accounted for 43 per cent of the total anchor book, investing ₹2883 crore. The Monetary Authority of Singapore and ADIA&amp;#x27;s Monsoon fund each picked up shares worth ₹200 crore, while Fidelity Funds’ India Focus Fund invested ₹178.24 crore. Of the total anchor allocation, 29 domestic mutual funds — applying through 98 schemes including those of SBI, ICICI Prudential, HDFC, Nippon India, Kotak and Axis — accounted for 1.40 crore shares, or nearly 37 per cent of the anchor book, worth ₹2,494.99 crore. Insurance companies and pension funds, including SBI Life, HDFC Life and various NPS Trust schemes, took up a further 60.61 lakh shares worth ₹1,081.84 crore. Sources added that the demand for shares in anchor was at around ₹1.2 trillion, nearly 20-times the size of the anchor book. The exchange’s ₹22,560 crore IPO, comprising only offer for sale, is scheduled to open for subscription for public from Thursday, with listing expected the next week. The shares have a premium of nearly 9 per cent in the grey market.&lt;/p&gt;</content:encoded>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
-      <wire:relation>repost</wire:relation>
+      <wire:relation>unknown</wire:relation>
       <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
+      <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.business-standard.com/markets/news/traders-brace-for-prolonged-india-bond-slump-as-rbi-mops-up-excess-cash-126091600339_1.html</wire:canonicalUrl>
-      <wire:evidence>structured credit: Bloomberg</wire:evidence>
+      <wire:canonicalUrl>https://www.business-standard.com/finance/insurance/lic-norway-s-sovereign-fund-adia-anchor-nse-s-6-746-crore-ipo-issue-126091601382_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>UPI MDR to attract 18% GST; registered merchants can claim input credit</title>
+      <link>https://www.business-standard.com/finance/news/upi-mdr-to-attract-18-gst-registered-merchants-can-claim-input-credit-126091601348_1.html</link>
+      <guid isPermaLink="false">1f1c73bc25a6324af1411401</guid>
+      <pubDate>Wed, 16 Sep 2026 16:30:53 +0000</pubDate>
+      <description>Experts say GST will raise the upfront cost of accepting eligible UPI payments, but registered businesses can offset the tax through input tax credit, subject to applicable rules.</description>
+      <dc:creator>Ajinkya Kawale, Monika Yadav</dc:creator>
+      <content:encoded>&lt;p&gt;Merchants paying the newly introduced merchant discount rate (MDR) on UPI transactions will face an additional 18 per cent goods and services tax (GST) on the charge, raising the upfront cost of accepting such payments. However, businesses registered under GST should then be able to claim input tax credit (ITC) on the tax paid, while unregistered merchants may have to bear the cost themselves, said experts.&lt;/p&gt;</content:encoded>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.business-standard.com/finance/news/upi-mdr-to-attract-18-gst-registered-merchants-can-claim-input-credit-126091601348_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>'Meta platforms must be treated as service provider, not intermediary'</title>
+      <link>https://www.business-standard.com/technology/tech-news/meta-platforms-must-be-treated-as-service-provider-not-intermediary-126091601090_1.html</link>
+      <guid isPermaLink="false">6cf356cc9585314183592db3</guid>
+      <pubDate>Wed, 16 Sep 2026 13:48:44 +0000</pubDate>
+      <description>Indian government officials say Meta's content-ranking algorithms and paid amplification mean it must accept greater responsibility for material distributed on its platforms ...</description>
+      <dc:creator>Aashish Aryan</dc:creator>
+      <content:encoded>&lt;p&gt;Social media major Meta’s platforms in India can no longer be classified merely as an ‘internet intermediary’ and must be treated as a ‘service provider’ as the company charges money for its algorithms, which actively decide on the amplification, distribution and visibility of content, government sources said.&lt;/p&gt;</content:encoded>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.business-standard.com/technology/tech-news/meta-platforms-must-be-treated-as-service-provider-not-intermediary-126091601090_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Microsoft AI chief says Claude training risks making AI harder to control</title>
+      <link>https://www.business-standard.com/world-news/microsoft-ai-chief-says-claude-training-risks-making-ai-harder-to-control-126091601193_1.html</link>
+      <guid isPermaLink="false">8398cbfca2bd91e47957f1ab</guid>
+      <pubDate>Wed, 16 Sep 2026 09:56:00 +0000</pubDate>
+      <description>Suleyman called for removing all speculation about consciousness from AI training documents, arguing such language could undermine humanity's ability to control superintelligent systems.</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.business-standard.com/world-news/microsoft-ai-chief-says-claude-training-risks-making-ai-harder-to-control-126091601193_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>India watches US House vote on Bill enabling 100% Russia oil tariffs</title>
+      <link>https://www.business-standard.com/india-news/india-watches-us-house-vote-on-bill-enabling-100-russia-oil-tariffs-126091601338_1.html</link>
+      <guid isPermaLink="false">4564cb87dd22738b05c03809</guid>
+      <pubDate>Wed, 16 Sep 2026 09:43:00 +0000</pubDate>
+      <description>The Brics joint declaration, adopted unanimously, criticised unilateral coercive sanctions and secondary sanctions, and also unilateral tariffs and non-tariff measures.</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.business-standard.com/india-news/india-watches-us-house-vote-on-bill-enabling-100-russia-oil-tariffs-126091601338_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>India considers cutting vegetable oil import taxes as prices climb</title>
+      <link>https://www.business-standard.com/india-news/india-considers-cutting-vegetable-oil-import-taxes-as-prices-climb-126091601182_1.html</link>
+      <guid isPermaLink="false">2879b96a91e897e55c3c63cd</guid>
+      <pubDate>Wed, 16 Sep 2026 09:13:00 +0000</pubDate>
+      <description>Prices of vegetable oils in India have climbed by nearly 20% over the last year and a measure that would lower their prices may increase consumption as households mark festivals from Sept to Nov ...</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.business-standard.com/india-news/india-considers-cutting-vegetable-oil-import-taxes-as-prices-climb-126091601182_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Payments apps flag losses on bill payments via UPI as platform fees banned</title>
+      <link>https://www.business-standard.com/industry/banking/payments-apps-flag-losses-on-bill-payments-via-upi-as-platform-fees-banned-126091601232_1.html</link>
+      <guid isPermaLink="false">9b169c0a0fc8adf67e19d1ee</guid>
+      <pubDate>Wed, 16 Sep 2026 08:11:00 +0000</pubDate>
+      <description>UPI apps say their Rs 1 share from a Rs 5 MDR on larger bill payments will not cover Bharat Bill Payment System commissions, while smaller transactions earn nothing at all ...</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.business-standard.com/industry/banking/payments-apps-flag-losses-on-bill-payments-via-upi-as-platform-fees-banned-126091601232_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Fed rate decision tonight: Will inflation push Kevin Warsh towards a hike?</title>
+      <link>https://www.business-standard.com/world-news/us-fed-rate-decision-today-kevin-warsh-hike-or-hold-trump-interest-rates-126091600811_1.html</link>
+      <guid isPermaLink="false">ca68dc024aff70168b63ff94</guid>
+      <pubDate>Wed, 16 Sep 2026 04:15:00 +0000</pubDate>
+      <description>The US Federal Reserve is set to announce its latest interest rate decision today. Here's what the move could mean for the US economy, markets ...</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.business-standard.com/world-news/us-fed-rate-decision-today-kevin-warsh-hike-or-hold-trump-interest-rates-126091600811_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
       <title>OpenAI's rogue agents probed Hugging Face for weakness 2 months before hack</title>
@@ -113,93 +185,18 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>UK study visas fall 16%: New rules, fewer dependants and what's changed</title>
-      <link>https://www.business-standard.com/immigration/uk-study-visas-fall-16-new-rules-fewer-dependants-and-what-s-changed-126091600719_1.html</link>
-      <guid isPermaLink="false">6019878e9e00472283e94267</guid>
-      <pubDate>Wed, 16 Sep 2026 03:03:00 +0000</pubDate>
-      <description>Stricter dependant rules and immigration curbs are reshaping the UK study route as applications fall for a second year.</description>
+      <title>UPI gets MDR: How 0.4% merchant fee compares with debit, credit cards</title>
+      <link>https://www.business-standard.com/finance/news/upi-versus-cards-what-merchants-will-pay-under-the-new-mdr-regime-126091600504_1.html</link>
+      <guid isPermaLink="false">d0a1195a0f216bb27259501f</guid>
+      <pubDate>Tue, 15 Sep 2026 11:34:00 +0000</pubDate>
+      <description>The new UPI MDR ends its zero-cost model for select high-value merchant payments; here is how the 0.4 per cent charge compares with what merchants pay to accept debit and credit cards ...</description>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/immigration/uk-study-visas-fall-16-new-rules-fewer-dependants-and-what-s-changed-126091600719_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>EU president backs AI slowdown, to invite frontier labs for talks</title>
-      <link>https://www.business-standard.com/world-news/eu-president-backs-ai-slowdown-to-invite-frontier-labs-for-talks-126091600679_1.html</link>
-      <guid isPermaLink="false">0e5efdb9f59e2a5276347300</guid>
-      <pubDate>Wed, 16 Sep 2026 02:50:00 +0000</pubDate>
-      <description>Von der Leyen's comments in her annual speech to the European Parliament in Strasbourg came amid growing worries about the potential danger posed by artificial intelligence ...</description>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/world-news/eu-president-backs-ai-slowdown-to-invite-frontier-labs-for-talks-126091600679_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>India retains 131st rank in Global Gender Gap Index 2026, Iceland on top</title>
-      <link>https://www.business-standard.com/world-news/india-retains-131st-rank-in-global-gender-gap-index-2026-iceland-on-top-126091600552_1.html</link>
-      <guid isPermaLink="false">56abdedec8296319c15f1728</guid>
-      <pubDate>Wed, 16 Sep 2026 02:07:00 +0000</pubDate>
-      <description>India retained the 131st rank on the Global Gender Gap Index 2026 released by the World Economic Forum on Wednesday, with Iceland, Finland and Norway maintaining their top three slots respectively.</description>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/world-news/india-retains-131st-rank-in-global-gender-gap-index-2026-iceland-on-top-126091600552_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Govt likely to extend key export incentive programme for five years</title>
-      <link>https://www.business-standard.com/finance/news/govt-likely-to-extend-key-export-incentive-programme-for-five-years-126091600550_1.html</link>
-      <guid isPermaLink="false">5981ee954a73238657d6e008</guid>
-      <pubDate>Wed, 16 Sep 2026 01:37:00 +0000</pubDate>
-      <description>The commerce ministry sought ₹23,000 crore ($2.40 billion) from the finance ministry under the programme for 2026/27 ...</description>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/finance/news/govt-likely-to-extend-key-export-incentive-programme-for-five-years-126091600550_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Indian economy at inflection point, needs growth rethink: CEA Nageswaran</title>
-      <link>https://www.business-standard.com/economy/news/indian-economy-at-inflection-point-needs-growth-rethink-cea-nageswaran-126091600288_1.html</link>
-      <guid isPermaLink="false">d6c8be406da468affa4a4bf5</guid>
-      <pubDate>Tue, 15 Sep 2026 22:27:00 +0000</pubDate>
-      <description>Nageswaran argued that India needs to rethink its development model for the AI era, using artificial intelligence to boost workers rather than replace them ...</description>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/economy/news/indian-economy-at-inflection-point-needs-growth-rethink-cea-nageswaran-126091600288_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Police to question Google over 500K fake Gmail IDs linked to bomb hoax</title>
-      <link>https://www.business-standard.com/india-news/police-to-question-google-over-500k-fake-gmail-ids-linked-to-bomb-hoax-126091500562_1.html</link>
-      <guid isPermaLink="false">c5ed271351d6180d6141895e</guid>
-      <pubDate>Tue, 15 Sep 2026 09:55:00 +0000</pubDate>
-      <description>Gujarat police probe Google over safeguards after uncovering 513,847 fake Gmail accounts used to send hoax bomb threats to government offices ...</description>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/india-news/police-to-question-google-over-500k-fake-gmail-ids-linked-to-bomb-hoax-126091500562_1.html</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.business-standard.com/finance/news/upi-versus-cards-what-merchants-will-pay-under-the-new-mdr-regime-126091600504_1.html</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
