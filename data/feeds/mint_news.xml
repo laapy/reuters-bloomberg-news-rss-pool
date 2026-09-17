@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Mint — diagnostic source feed</title>
     <link>https://www.livemint.com/rss/news</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 17 Sep 2026 18:30:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 21:41:12 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Intense Heat Strains Power Grids for 100 Million North Americans</title>
+      <link>https://www.livemint.com/news/us-news/intense-heat-strains-power-grids-for-100-million-north-americans-11789671135819.html</link>
+      <guid isPermaLink="false">8a69a241782bc754fbf8ee2a</guid>
+      <pubDate>Thu, 17 Sep 2026 18:52:15 +0000</pubDate>
+      <description>Power grids serving more than 100 million North Americans are bracing for a demand surge as unseasonable heat strains electrical equipment scheduled for repairs.</description>
+      <dc:creator>list.metadata.agency</dc:creator>
+      <content:encoded>&lt;p&gt;(Bloomberg) -- Power grids serving more than 100 million North Americans are bracing for a demand surge as unseasonable heat strains electrical equipment scheduled for repairs.Temperatures are running more than 20F (11C) above normal in some areas served by the Midcontinent Independent System Operator, with triple-digit heat forecast around the South through at least Sunday, according to the US National Weather Service. St. Louis is forecast to reach 99F (37C) and is under a heat advisory through late Saturday, according to the National Weather Service. That’s about 18F higher than normal for this time of year.Meanwhile, a neighboring grid managed by PJM Interconnection LLC that encompasses Chicago, Washington DC and Virginia’s Data Center Alley issued an alert that reserve power supplies are under strain in some areas and ordered some major, non-residential customers to cut back. The searing weather arrived just as power-plant operators were scheduled to take key systems offline for autumn maintenance. MISO reported roughly 51 gigawatts of generation outages Thursday even as demand is forecast to reach 105.2 gigawatts. PJM expects electricity usage to surpass 132 gigawatts, with nearly 37 offline.PJM officials requested Wednesday that the US Department of Energy waive some emissions rules so plants can operate at full tilt. The agency also authorized the deployment of backup generation resources Thursday to mitigate any potential shortages.Spot power prices in the largest US grid jumped above $4,300 per megawatt-hour on the benchmark Western hub just after 6 p.m. local time Wednesday.Aging generating stations are coming off a summer of brutal heat that prompted repeated federal orders to run at full blast. That’s put additional stress on a system facing growing industrial and data center demand. PJM’s generation fleet “is starting to show signs of its age when trying to stay working,” said Gary Cunningham, a director at Tradition Energy.Wholesale power prices probably will remain elevated across Virginia, Ohio, Kentucky and western Pennsylvania through Thursday, Cunningham added.Autumn in the Northern Hemisphere is typically an ideal time to conduct maintenance on power gear as milder weather eases air-conditioner use. But erratic weather linked to both human-caused climate change and natural phenomena like El Niño is squeezing the repair calendar. Increasingly, plant operators are finding there is no off-season. The artificial intelligence boom is also boosting overall electricity demand, which means critical equipment doesn’t get much of a break. Unseasonable weather “plays well into the narrative of PJM needing more generation capacity, and needing it NOW, even before new demands to meet data center requirements come,” Cunningham wrote in an email.More stories like this are available on bloomberg.com©2026 Bloomberg L.P.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>mint_news</wire:foundAt>
+      <wire:platform>Mint</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.livemint.com/news/us-news/intense-heat-strains-power-grids-for-100-million-north-americans-11789671135819.html</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: ©2026 Bloomberg</wire:evidence>
+    </item>
   </channel>
 </rss>
