@@ -1,11 +1,205 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>BNN Bloomberg — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Abnnbloomberg.ca+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 17 Sep 2026 14:25:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 18:30:59 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Hot Picks: Three tech stocks targeting the next AI wave</title>
+      <link>https://www.bnnbloomberg.ca/investing/hot-picks/2026/09/17/hot-picks-three-tech-stocks-targeting-the-next-ai-wave/</link>
+      <guid isPermaLink="false">0bc50b96d72c321bf2f5c95a</guid>
+      <pubDate>Thu, 17 Sep 2026 18:23:43 +0000</pubDate>
+      <description>LINDSAY: Time now for Hot Picks. Our next guest sees potential in three technology names tied to the AI buildout and growing demand for data storage. Let’s welcome in Felix Wang, managing director of ...</description>
+      <dc:creator>BNN Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;The artificial intelligence investment cycle is creating opportunities across several layers of the technology sector as companies expand their computing infrastructure. BNN Bloomberg spoke with Felix Wang, managing director of global technology at Hedgeye Risk Management, about three stocks he believes are positioned to benefit. Key Takeaways Read the full transcript below: LINDSAY: Time now for Hot Picks. Our next guest sees potential in three technology names tied to the AI buildout and growing demand for data storage. Let’s welcome in Felix Wang, managing director of global tech at Hedgeye Risk Management. It’s great to have you join us. Thank you. FELIX: Glad to be back. Thank you. LINDSAY: So, before we get into your three names, just first of all, where are we, do you think, in the AI capex cycle? Like, what stage are we in? What stage are we entering? Where are we? FELIX: Yeah, that’s a good question. I tend to think we’re maybe in the early, the mid, middle part of the AI cycle. Look, there’s a lot of competition out there among the, among the open-source and closed models from both the U.S. and China sides, and we’ve seen some incredible models and technology coming out of that ecosystem. But, as you can see, you know, the, I would say, the margin of improvement has been narrowing. There are some exceptions, of course. We have Astra from GPT-6 — incredible — and there are some other, some models from China, particularly on the cost-efficiency side, from DeepSeek, Kimi and others, have also been incredible. But, in general, I would say, you know, there’s still some concern about commoditization, and there’s some general concern that, if you look at token prices, if you look at what we follow, which is enterprise spend, enterprise spend didn’t grow in the past month, and this is, this is a problem. And what I mean by enterprise spend: enterprise spend on LLMs. So, you know, again, I, I remain quite optimistic on where we could head on AI, but there are definitely some hurdles. LINDSAY: Okay, so let’s talk about some of your names, then. First of all, Nvidia. I think most people know this company, but tell us why — what opportunities do you see here moving forward for Nvidia? FELIX: Sure, this is an easy one. I mean, the biggest company in the world just said that their chip sales double will double in 2027. In my mind, you know, Nvidia is going through a lot of deal-making. They’re putting a lot of chess pieces on the chessboard to expand their influence in AI hardware and software. I’m extremely optimistic about their acquisition of Hugging Face. Hugging Face, you know, very popular — sort of the first stop for engineers when they are looking for a good AI model to run, and probably the last stop before putting that model into production. It’s sort of like a model app store. I love this deal because Nvidia now is going to have more control over this developer distribution layer for open-weight models and may actually affect the neutrality that’s set up by Hugging Face. Another hedge for Jensen Huang, and to me, you know, this is a hedge in case the U.S. frontier labs slow down, in case the open-weight models, open-source models, really step on the accelerator. He, Jensen, is a master of hedging. He’s also an expert in picking the best-looking leather jacket out there. But this is another way for him to get ahead of the game. Okay, Nvidia — very cheap on earnings. LINDSAY: Okay, next up is Marvell. It recently raised its guidance, but you’re still seeing some near-term challenges. Despite that, you’re still bullish on Marvell. Why is that? FELIX: I still think it’s an underappreciated long-term story in networking and optics. I like to use a restaurant analogy with Marvell. You know, sometimes you may not win the entrée dish from the hyperscalers, but you get everything else. You get the appetizers, you get the desserts, you get the cocktails. It’s actually making me a little bit hungry and thirsty right now. But all of these dishes are called XPU attach, and they can add up in a very big way. Our supply chain contacts continue to tell us that networking remains a huge bottleneck in the AI trade. Google is also a big part of the Marvell story. They issued a — Marvell issued a new warrant deal recently. Investors are expecting about US$1.8 billion of new Google business for the next seven years. Marvell also has a great relationship with Nvidia in terms of critical, in terms of getting new business as we transition to higher and higher speeds in optical networking. So, they’re networking their way around, pun intended. So, I think we’re keen, and they also have an investor day coming up as well. So, I do like this one. LINDSAY: Okay, and then last is Silicon Motion. Why do you believe it can benefit from growing storage demand without taking on some of the same risks that other memory producers are taking on? FELIX: Yeah, so this is a very niche play. So, everybody kind of wants to buy the brains of AI. I’m actually interested in buying the part that helps it remember where it put things. So, that’s SIMO. That’s Silicon Motion. Silicon Motion, for those of you who don’t know, this is a fabless semiconductor company specializing in NAND flash controllers. I say it’s a niche play in the memory storage play, memory storage space. They control the third-party SSD controller market. I’ve been framing it as a hedge, actually a hedge on the memory space, because, to what you just said, you know, if storage tightness actually loosens in the second half of next year and into 2028, SIMO should benefit tremendously from that because they benefit from more NAND unit elasticity. And the other thing is they have a good relationship with YMTC. YMTC is the Chinese disruptor in NAND, and if YMTC really ramps up supply in the next 12 months or so, SIMO again will be an indirect winner from that. We have very good read on the supply chain, and we think SIMO could really be a winner here. Their specialty is in consumer devices, but they’re also making some headway into AI and enterprise SSDs. Again, the stock is cheap, just like Nvidia. FELIX: Is there any area of this sector right now, do you think, that is, like, most underappreciated? Whether it’s semiconductors, networking, power, cooling? FELIX: I still think, you know, networking is a big part, and the reason why is because right now people are trying to figure out the trade-off because, between memory and other parts of the AI supply chain, just because memory prices have, you know, gone bonkers, right? And it’s become super, super expensive. So, if — and this is a big if — if memory content for the next generation of servers that’s coming, the next generation of AI systems that’s coming, actually shrinks because people got tired of paying exorbitant prices for them, what other parts will replace that? LINDSAY: Right. FELIX: And I tend to think networking would be a strong candidate for higher content value in the AI systems. So, that’s kind of how I’m thinking about it. LINDSAY: Okay, we’ll leave it there. Felix Wang, managing director of global tech at Hedgeye Risk Management. Always great to have you join us. Thanks so much. --- This BNN Bloomberg summary and transcript of the Sept. 17, 2026 interview with Felix Wang are published with the assistance of AI. Original research, interview questions and added context was created by BNN Bloomberg journalists. An editor also reviewed this material before it was published to ensure its accuracy and adherence with BNN Bloomberg editorial policies and standards.&lt;/p&gt;</content:encoded>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/investing/hot-picks/2026/09/17/hot-picks-three-tech-stocks-targeting-the-next-ai-wave/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>U.S. seals big uranium investment in Niger, two years after troops left</title>
+      <link>https://www.bnnbloomberg.ca/business/company-news/2026/09/17/us-seals-big-uranium-investment-in-niger-two-years-after-troops-left/</link>
+      <guid isPermaLink="false">19a84457fdaea21f392e18c2</guid>
+      <pubDate>Thu, 17 Sep 2026 17:31:29 +0000</pubDate>
+      <description>The U.S. government has approved up to US$414 million in financing for a uranium project in Niger, according to the project’s developer, in what sources described as a win for Washington two years ...</description>
+      <dc:creator>Reuters Staff</dc:creator>
+      <content:encoded>&lt;p&gt;DAKAR -- The U.S. government has approved up to US$414 million in financing for a uranium project in Niger, according to the project’s developer, in what sources described as a win for Washington two years after the West African nation expelled all U.S. forces. The U.S. Development Finance Corp approved the debt facility for Canadian miner Global Atomic’s Dasa project, which the company describes as the highest-grade uranium deposit in Africa, according to a company statement on Wednesday. The investment could bolster U.S. access to a strategic uranium supply at a time when Niger, the world’s seventh-largest uranium producer, is locked in a dispute with French state-backed miner Orano, which long dominated the country’s uranium sector. The financing is being viewed by people familiar with the matter as a diplomatic and commercial breakthrough for Washington, whose relations with Niger deteriorated after the military government that seized power in a 2023 coup ordered U.S. forces to leave in 2024. Niamey’s new leaders have relied on Russian paramilitaries for security instead of the West. Sources briefed on the effort said the U.S. ambassador had urged Washington to rebuild ties with Niamey and back the project after the Trump administration took office with a renewed emphasis on deal-making in Africa. The project was seen as an opportunity to secure access to a strategic energy resource that might otherwise fall into the orbit of rival powers, they said. One source familiar with discussions involving Global Atomic and the DFC said a breakthrough came this summer when Chief Executive Stephen Roman traveled to Washington to resolve remaining issues holding up approval. The project could also provide a rare bright spot in U.S.-Canada relations, which have come under strain amid a trade war between the neighbours. Niger’s government did not respond to a request for comment. Security and logistical challenges Despite the financing commitment, the project faces significant security and political risks. Jihadist attacks have repeatedly targeted Niger’s government and security forces over the past year. Last month, mutinous soldiers attacked a key military airbase and the presidency. Global Atomic has been exploring alternative routes to export uranium from the landlocked country as transport corridors to the coast have become increasingly risky, a source briefed on discussions said. One idea has been to invest in a route north through Algeria and across the Sahara Desert. Algeria sent aircraft to Niger this summer to help the government respond to the latest coup attempt, underscoring improving ties between the neighboring countries. Uranium was added to the U.S. critical minerals list last year, prompting renewed interest in Niger’s reserves. Those reserves include uranium stockpiles caught up in a dispute between Niger’s government and Orano, which has launched international arbitration proceedings after losing control of key mining assets in the country. (Reporting by Jessica Donati; Editing by Mark Potter)&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/09/17/us-seals-big-uranium-investment-in-niger-two-years-after-troops-left/</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters Staff</wire:evidence>
+    </item>
+    <item>
+      <title>National housing price index hits lowest level since April 2023</title>
+      <link>https://www.bnnbloomberg.ca/business/real-estate/2026/09/17/national-housing-price-index-hits-lowest-level-since-april-2023/</link>
+      <guid isPermaLink="false">f60eff49885ada80046db80a</guid>
+      <pubDate>Thu, 17 Sep 2026 16:13:35 +0000</pubDate>
+      <description>Average home prices across Canada’s largest housing markets fell slightly in August, marking the eighth month-over-month drop in the last nine, according to a report released Thursday.</description>
+      <dc:creator>Jordan Fleguel</dc:creator>
+      <content:encoded>&lt;p&gt;Average home prices across Canada’s largest housing markets fell slightly in August, marking the eighth month-over-month drop in the last nine, according to a report released Thursday. The Teranet-National Bank Composite House Price Index, which includes price data from the country’s 11 largest cities and their respective metropolitan areas, fell 0.2 per cent from July to August. Last month’s drop follows a slight uptick of 0.1 per cent in July, according to the report. “This contraction marks the eighth decline in nine months, pushing prices down 4.2 per cent from their most recent peak in November 2025 and to their lowest level since April 2023,” Daren King, an economist with the Economics &amp;amp; Strategy Group of National Bank of Canada, wrote in the report. Taken individually, six of the 11 markets included in the index saw average home prices decline in August, according to the report. Prices in Vancouver fell 1.6 per cent last month compared to July, while prices in Halifax (-0.6 per cent), Ottawa-Gatineau (-0.15 per cent), Winnipeg (-0.3 per cent), Hamilton (-0.3 per cent), and Edmonton (‑0.1 per cent) also fell. Meanwhile, average home prices rose in Victoria (+0.5 per cent), Quebec City (+0.4 per cent), Toronto (+0.4 per cent), Montreal (+0.3 per cent), and Calgary (+0.2 per cent). Follows ‘recovery in activity’ The upswing in the index in July was part of a broad but modest recovery in housing market activity during the spring and summer, the report said, though August’s decline may signal a slowdown ahead. “The price increase in July capped a recovery in activity observed in the resale housing market during the spring and summer, which was driven by a significant improvement in the labour market over that period and in housing affordability conditions,” the report said. “However, home sales began to decline again in August, which had a negative impact on price trends, while the upswing in the job market appears to be fading.” On a year-over-year basis, the index fell 3.6 per cent from August 2025 to August of this year - a larger annual drop than the 3.2 per cent decline recorded in July. “[Year-over-year] declines were recorded in seven of the 11 cities that make up the composite index in July,” the report noted. “Vancouver led the way with a 6.5 per cent year-over-year price decrease, followed by Hamilton (-6.2 per cent) and Toronto (-6.1 per cent). Conversely, the sharpest increases were seen in Quebec City (+9.0 per cent), Montreal (+4.1 per cent), and Winnipeg (+2.4 per cent). The report said that housing affordability “is expected to deteriorate over the coming quarters,” likely putting further pressure on home prices across the country. “Indeed, the sharp rise in U.S. bond yields has pushed Canadian bond yields higher. Although the impact on mortgage rates has been limited so far, higher financing costs are expected in the coming weeks for households looking to take out a mortgage,” it said. “This increase will therefore limit their borrowing capacity and weigh on price growth.”&lt;/p&gt;</content:encoded>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/real-estate/2026/09/17/national-housing-price-index-hits-lowest-level-since-april-2023/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Republicans search for a winning message as Canadian tariffs bite</title>
+      <link>https://www.bnnbloomberg.ca/business/international/2026/09/17/republicans-search-for-a-winning-message-as-canadian-tariffs-bite/</link>
+      <guid isPermaLink="false">79746b307cdb772c99b3d7dd</guid>
+      <pubDate>Thu, 17 Sep 2026 14:54:17 +0000</pubDate>
+      <description>High gas prices and the rising cost of living had already made affordability a defining issue in this year’s U.S. midterm elections. Then U.S. President Donald Trump escalated his trade war with ...</description>
+      <dc:creator>Reuters Staff</dc:creator>
+      <content:encoded>&lt;p&gt;NEW YORK -- High gas prices and the rising cost of living had already made affordability a defining issue in this year’s U.S. midterm elections. Then U.S. President Donald Trump escalated his trade war with Canada. Now, Republican candidates in northern border states most affected by the tariffs are trying to strike a balance between appealing to Trump’s loyal base and reaching independent voters that polls show have soured on his handling of the economy and his fight with Canada. The economies of Michigan and Maine have long been intertwined with Canada’s, covering everything from auto parts to lumber to fruit-picking equipment. That has raised the stakes in two states that Republicans will likely need to win in the Nov. 3 elections if they are to hold the U.S. Senate - and their respective candidates have taken notably different approaches with voters, each with its own political risks. The Senate races in both Michigan and Maine are considered toss-ups by the Cook Political Report. U.S. Senator Susan Collins of Maine is breaking with Trump, criticizing the tit-for-tat exchange of tariffs and seeking carveouts for affected industries. Michigan Senate candidate Mike Rogers, by contrast, has criticized Canada and made the case that his close relationship with the president will help blunt the impact of the trade war. Because the Canadian tariffs emerged so recently, candidates have largely been left to devise their own responses mid-campaign, said David Hopkins, a political scientist at Boston College. And both will “need to move beyond the Republican coalition” to win their races, he said. “When something unpopular happens at the behest of your own party leader, it puts you in that very awkward place.” The National Republican Senatorial Committee, which supports Senate candidates, has not taken a public stance on the Canadian tariffs and did not respond to a Reuters request for comment. ‘Political pressure’ The United States imposed 50 per cent tariffs on some US$20 billion of Canadian goods last month, accusing its northern neighbour of unfair trade practices. Canada’s own retaliatory tariffs – ranging from 15 per cent to 50 per cent on $20 billion of U.S. goods – took effect on Sept. 8. Canadian officials have made no secret of the fact that their levies were designed with politics in mind. “We’re being wise and strategic to put political pressure,” Canada’s Minister of Industry Melanie Joly said in August. Americans are about four times as likely to blame the current trade dispute on Washington rather than Ottawa, according to a Reuters/Ipsos opinion poll conducted late last month. Only 20 per cent of respondents supported higher tariffs on Canadian goods. Such figures have cleared the way for Collins to declare Trump’s trade war with Canada a “mistake.” A moderate Republican representing a state that prides itself on political independence, Collins has a history of challenging party orthodoxy on issues including health care, abortion and gun control. Now locked in a close race against Democrat Troy Jackson, she is again trying to distance herself from a president whose popularity has sunk to record lows. Canada is Maine’s biggest trading partner, accounting for 69 per cent of imports and 41 per cent of exports in 2025, according to the U.S. Census Bureau. More than 80 per cent of the state’s heating oil and gasoline is imported from Canada, and its three most iconic products – wild blueberries, lobsters and lumber – all depend heavily on cross-border trade. Collins has voted four times to oppose Trump’s tariffs, and on August 28 wrote to Commerce Secretary Howard Lutnick and Trade Representative Jamieson Greer outlining the economic impact on her state. In her letter, she focused on road salt and cement – products that the administration subsequently exempted from the tariffs. Jackson responded with sarcasm. “I mean, yeah, thank you for the road salt,” he told reporters at a recent campaign event. “What has she done to stand up, to get Trump to back off of parts coming in from Canada, fertilizer coming in from Canada for farmers?” Tariff damage In Michigan, which exports more than almost any other state to Canada, analysts say the tariffs could be especially damaging to the struggling wood products sector, particularly kitchen cabinet makers. Republican Senate candidate Mike Rogers has said Trump “is right to put America First - and tariffs are necessary, but are not a one-size-fits-all solution.” He has also presented his closeness with the president as a strength rather than a liability. “You can send somebody back [to Washington] who gets up every day and tries to gouge the president’s eyes out or you can send somebody back who’s going to walk in and say, ‘Hey, can we work on this part of the trade deal,’” he said. Rogers’ Democratic rival, Abdul El-Sayed, has tried to make light of his political predicament. “He’s caught between knowing full well that these tariffs are bad for Michiganders and having to appeal to Daddy Trump every single time he opens his mouth,” El-Sayed told CNN. Spokespeople for Collins and Rogers declined to comment for this story. In a statement, White House spokesperson Kush Desai said “President Trump will never waver from putting Americans and America First, whether in trade negotiations or through an economic agenda of tax cuts and deregulation.” Even though presidents have limited control over economic growth, Hopkins said, tariffs give people who are dissatisfied with their financial situation another reason to blame Trump and his fellow Republicans. “It’s sort of easy to tell a story of what it is that Trump has done to make things less affordable,” he said. (Reporting by Helen Coster in New York; Additional reporting by Andy Sullivan in Washington; Editing by Jesse Mesner-Hage and Deepa Babington)&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/international/2026/09/17/republicans-search-for-a-winning-message-as-canadian-tariffs-bite/</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters Staff</wire:evidence>
+    </item>
+    <item>
+      <title>Market Outlook: Canada’s AI buildout puts industrial stocks in focus</title>
+      <link>https://www.bnnbloomberg.ca/investing/market-outlook/2026/09/17/market-outlook-canadas-ai-buildout-puts-industrial-stocks-in-focus/</link>
+      <guid isPermaLink="false">abf1b88c99895880fcdab3d6</guid>
+      <pubDate>Thu, 17 Sep 2026 10:52:00 +0000</pubDate>
+      <description>Canada’s data centre expansion could create AI investment opportunities across construction, power and industrial stocks.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/investing/market-outlook/2026/09/17/market-outlook-canadas-ai-buildout-puts-industrial-stocks-in-focus/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>GM doubles down on diesel pickups as rivals tap hybrids</title>
+      <link>https://www.bnnbloomberg.ca/business/company-news/2026/09/17/gm-doubles-down-on-diesel-pickups-as-rivals-tap-hybrids/</link>
+      <guid isPermaLink="false">6d21f83679bd98fe64a18bcb</guid>
+      <pubDate>Thu, 17 Sep 2026 10:22:00 +0000</pubDate>
+      <description>General Motors is sticking with a diesel engine to maximize fuel efficiency as it rolls out a next-generation pickup truck, diverging from rivals’ hybrid offerings.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/09/17/gm-doubles-down-on-diesel-pickups-as-rivals-tap-hybrids/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Martin Cobb’s Top Picks for Sept. 17, 2026</title>
+      <link>https://www.bnnbloomberg.ca/markets/2026/09/17/martin-cobbs-top-picks-for-sept-17-2026/</link>
+      <guid isPermaLink="false">a107448d43020d8e2d093dde</guid>
+      <pubDate>Thu, 17 Sep 2026 09:33:00 +0000</pubDate>
+      <description>A ‘disorderly’ rise in bond yields is probably the greatest risk to equity markets today.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/2026/09/17/martin-cobbs-top-picks-for-sept-17-2026/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>King Charles meets artificial intelligence leaders as safety concerns swirl</title>
+      <link>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/17/king-charles-meets-artificial-intelligence-leaders-as-safety-concerns-swirl/</link>
+      <guid isPermaLink="false">cfa61f11302bf5e2550a45d3</guid>
+      <pubDate>Thu, 17 Sep 2026 07:15:00 +0000</pubDate>
+      <description>King Charles III urged senior leaders from OpenAI, Anthropic, Google DeepMind and Nvidia to make sure that artificial intelligence remains under control.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/17/king-charles-meets-artificial-intelligence-leaders-as-safety-concerns-swirl/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Metro says it has an agreement in principle with striking Laval, Que., workers</title>
+      <link>https://www.bnnbloomberg.ca/business/company-news/2026/09/17/metro-says-it-has-agreement-in-principle-with-striking-laval-workers/</link>
+      <guid isPermaLink="false">65d5f2030cf3f9f35a994652</guid>
+      <pubDate>Thu, 17 Sep 2026 06:53:00 +0000</pubDate>
+      <description>Metro Inc. says it has reached an agreement in principle with the union representing workers at its Laval, Que., produce distribution centre.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/09/17/metro-says-it-has-agreement-in-principle-with-striking-laval-workers/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Fed hikes interest rates for first time in 3 years</title>
+      <link>https://www.bnnbloomberg.ca/video/shows/the-open/2026/09/17/fed-hikes-interest-rates-for-first-time-in-3-years/</link>
+      <guid isPermaLink="false">4e6a4f884efd01806f772732</guid>
+      <pubDate>Thu, 17 Sep 2026 04:21:00 +0000</pubDate>
+      <description>Diane Swonk, chief economist at KPMG, joins BNN Bloomberg to discuss the impact of the Fed's rate hike on Warsh's credibility.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/the-open/2026/09/17/fed-hikes-interest-rates-for-first-time-in-3-years/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Generac inks US$8 billion deal with Amazon for backup generators</title>
+      <link>https://www.bnnbloomberg.ca/video/shows/morning-markets/2026/09/17/generac-inks-us8-billion-deal-with-amazon-for-backup-generators/</link>
+      <guid isPermaLink="false">344aed6a9e32689f8c2b0a3c</guid>
+      <pubDate>Thu, 17 Sep 2026 04:03:00 +0000</pubDate>
+      <description>Jon Windham, head of alternative energy, environmental services equity research at UBS, joins BNN Bloomberg to discuss the Generac &amp; Amazon deal.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/morning-markets/2026/09/17/generac-inks-us8-billion-deal-with-amazon-for-backup-generators/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Canada eyes $100 billion trade value-added opportunity</title>
+      <link>https://www.bnnbloomberg.ca/video/shows/morning-markets/2026/09/17/canada-eyes-100-billion-trade-value-added-opportunity/</link>
+      <guid isPermaLink="false">6db7fcdbf5ded48be798a4c0</guid>
+      <pubDate>Thu, 17 Sep 2026 03:44:00 +0000</pubDate>
+      <description>Meena Aier, head of economic research at EDC, joins BNN Bloomberg to discuss Canada's effort to diversify trade beyond the U.S.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/morning-markets/2026/09/17/canada-eyes-100-billion-trade-value-added-opportunity/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
   </channel>
 </rss>
