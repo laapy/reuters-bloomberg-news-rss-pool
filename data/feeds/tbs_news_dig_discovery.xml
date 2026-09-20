@@ -1,312 +1,222 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>TBS NEWS DIG — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Anewsdig.tbs.co.jp+%28Reuters+OR+Bloomberg+OR+%E3%83%AD%E3%82%A4%E3%82%BF%E3%83%BC+OR+%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%90%E3%83%BC%E3%82%B0%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 20 Sep 2026 10:01:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 14:09:48 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>台風25号が関東に接近見込み､大雨に警戒呼びかけ-首都圏在来線運休も - newsdig.tbs.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE5xaW1XX0ZmUlZQQWFENjRiLVpyQjRtVkdBTVdXQy1ReTBGTF9mWnFVY1JPTUJxclEzdlM2X1lTNlk2d3JKSmU5N1dVcFhiRUI4MVg3UVdockdxX245OG5IRU03TXQ4MDVKZmlXT3g0Sl9RS2lu?oc=5</link>
-      <guid isPermaLink="false">721cb75b7c5a27e3f9f15425</guid>
+      <title>円相場に一段安リスク、日銀の利上げ姿勢に失望感－連休で流動性低下</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2959678</link>
+      <guid isPermaLink="false">8527802fc016e64d450190ac</guid>
+      <pubDate>Sun, 20 Sep 2026 08:09:33 +0000</pubDate>
+      <description>（ブルームバーグ）：円相場は今後1週間にわたり、値動きが荒くなり、一段安となる可能性がある。日本がシルバーウィークの大型連休に入り取引の流動性が低下するほか、日本銀行が今後の利上げペースについてより… ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;6時間前
+台風25号が関東に接近見込み､大雨に警戒呼びかけ-首都圏在来線運休も&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2959678</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>台風25号が関東に接近見込み､大雨に警戒呼びかけ-首都圏在来線運休も</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2959606</link>
+      <guid isPermaLink="false">a97cc5e17d32188c11d6281f</guid>
       <pubDate>Sun, 20 Sep 2026 08:04:40 +0000</pubDate>
-      <description>台風25号が関東に接近見込み､大雨に警戒呼びかけ-首都圏在来線運休も    newsdig.tbs.co.jp</description>
+      <description>（ブルームバーグ）：大型で強い台風25号は21日から22日にかけて関東甲信地方に接近する見込みだ。気象庁は大雨や突風などに警戒を呼び掛けており、既に鉄道など交通網の一部に影響が出ている。気象庁の20日午前11… ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;5時間前
+円相場に一段安リスク、日銀の利上げ姿勢に失望感－連休で流動性低下&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2959606</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>トランプ氏、AI責任者を任命へ－安全上のリスクはでっち上げと一蹴</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2959547</link>
+      <guid isPermaLink="false">f2868f449a8470f36c07568e</guid>
+      <pubDate>Sun, 20 Sep 2026 06:14:12 +0000</pubDate>
+      <description>（ブルームバーグ）：トランプ米大統領は、AI政策を統括する責任者を任命すると表明した。AIの安全性を巡る懸念が高まる中でも、テクノロジー企業に開発を加速するよう促す姿勢を崩していない。急速に進化するAI技… 【速報】北朝鮮が弾道ミサイルの可能性があるもの発射すでにEEZ外に落下か 防衛省 ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;5時間前
+円相場に一段安リスク、日銀の利上げ姿勢に失望感－連休で流動性低下&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2959547</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>OpenAI、30年までにフリーキャッシュフロー2780億ドル赤字想定－FT</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2959429</link>
+      <guid isPermaLink="false">3f3993275364e01af3273752</guid>
+      <pubDate>Sun, 20 Sep 2026 04:33:00 +0000</pubDate>
+      <description>（ブルームバーグ）：米OpenAIは、2026年から30年末までのフリーキャッシュフローの赤字が2780億ドル（約43兆6000億円）に達すると見込んでいる。英紙フィナンシャル・タイムズ（FT）が、同社のプレゼンテーション… ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2959429</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>【焦点】米中首脳会談､貿易休戦の行方焦点－関税･AIや重要鉱物を協議</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2959480</link>
+      <guid isPermaLink="false">2b4b0355d79de9b4b02e3e57</guid>
+      <pubDate>Sat, 19 Sep 2026 22:48:40 +0000</pubDate>
+      <description>（ブルームバーグ）：トランプ米大統領と中国の習近平国家主席の会談が、今週の最大の焦点となる。世界の二大経済大国である米中の関税やテクノロジーを巡る重要課題が議題となる見通しだ。両首脳は24日に首都ワシ… ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;5時間前
+円相場に一段安リスク、日銀の利上げ姿勢に失望感－連休で流動性低下&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2959480</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>米国が兵器の納入遅れを警告、イラン戦争で在庫枯渇－最大5年遅延も</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2959286</link>
+      <guid isPermaLink="false">e9fa5a5ee33a75d6ef01b1ac</guid>
+      <pubDate>Sat, 19 Sep 2026 21:42:00 +0000</pubDate>
+      <description>（ブルームバーグ）：米国は、枯渇している自国の兵器在庫を再構築するため、主要兵器の納入が最大5年遅れる恐れがあると同盟国に警告している。複数の欧州諸国では、米軍がイラン戦争で兵器在庫を大量に消耗した… ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2959286</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>遠のくアメリカンドリーム－中古車も高嶺の花に、平均価格470万円超</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2959548</link>
+      <guid isPermaLink="false">2f8cfab5d9a794cd8b1de0c4</guid>
+      <pubDate>Sat, 19 Sep 2026 21:37:01 +0000</pubDate>
+      <description>（ブルームバーグ）：米フロリダ州在住のベンジャミン・ヤングさんが最近、中古車選びで苦労した経験は、米国で生活コストの負担がどれほど重くなっているかを如実に物語る。ヤングさんは、希望する装備を備えたト… ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;5時間前
+円相場に一段安リスク、日銀の利上げ姿勢に失望感－連休で流動性低下&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2959548</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>南米チリ 未来の警察犬たちが軍事パレードでお披露目</title>
+      <link>https://newsdig.tbs.co.jp/articles/-/2959671</link>
+      <guid isPermaLink="false">e6bdc9d7ed0dcc2158b74db5</guid>
+      <pubDate>Sat, 19 Sep 2026 21:23:00 +0000</pubDate>
+      <description>南米チリで行われた軍事パレードで、未来の警察犬たちがお披露目されました。警察官に抱きかかえられ、少し緊張しているようにも見える子犬たち。ロイター通信などによりますと、南米チリの首都・サンティアゴで19… ...</description>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE5xaW1XX0ZmUlZQQWFENjRiLVpyQjRtVkdBTVdXQy1ReTBGTF9mWnFVY1JPTUJxclEzdlM2X1lTNlk2d3JKSmU5N1dVcFhiRUI4MVg3UVdockdxX245OG5IRU03TXQ4MDVKZmlXT3g0Sl9RS2lu?oc=5</wire:canonicalUrl>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/-/2959671</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>【ベッセント介入を紐解く】圧力の裏に40兆ドル超の債務／避けたい米国債売り／高市総理も「円高」が必要？／問われる日本の利上げペース【CROSS DIG DOCUMENT】 - newsdig.tbs.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE4tOVVwZ1VMMkVlYjBmdDRwWFZfWDFWS2V4ZVZyLUREUmFaLTREQ25OcE03eGwzMG9oUzhyUktLWmszOXFJVVpsYXRfRW81MGNrWWkyd3ExczBSdjVnblZ6bFgzdkFXWlZ3UjZ0SXdmbjU1b2hf?oc=5</link>
-      <guid isPermaLink="false">7504d6ddd63dc18e9e3e915f</guid>
-      <pubDate>Sun, 20 Sep 2026 08:00:00 +0000</pubDate>
-      <description>【ベッセント介入を紐解く】圧力の裏に40兆ドル超の債務／避けたい米国債売り／高市総理も「円高」が必要？／問われる日本の利上げペース【CROSS DIG DOCUMENT】    newsdig.tbs.co.jp</description>
+      <title>ホルムズ原油輸送6カ月ぶり高水準と米軍発表､フーシはサウジ首都攻撃</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2959068</link>
+      <guid isPermaLink="false">def1e8b56606c8ef3e08fb3a</guid>
+      <pubDate>Sat, 19 Sep 2026 19:44:00 +0000</pubDate>
+      <description>（ブルームバーグ）：ホルムズ海峡を通過する原油と液化天然ガス（LNG）の輸送量は過去2週間で6カ月ぶりの高水準となったと、米中央軍のブラッド・クーパー司令官が明らかにした。19日公表された動画メッセージで… ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
+      <wire:relation>repost</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
+      <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE4tOVVwZ1VMMkVlYjBmdDRwWFZfWDFWS2V4ZVZyLUREUmFaLTREQ25OcE03eGwzMG9oUzhyUktLWmszOXFJVVpsYXRfRW81MGNrWWkyd3ExczBSdjVnblZ6bFgzdkFXWlZ3UjZ0SXdmbjU1b2hf?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2959068</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
-      <title>北朝鮮から弾道ミサイルの可能性あるもの発射、すでに落下か－防衛省 - newsdig.tbs.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE1NTXgxZ2xTOHl5V3Izdmg5aGg2NUQ0ZWVyUXN6YklaakJrd1hRU0hXVlJPdzNZMGppU3lESUkzTm04bE1lQmlhQ0pRWnNvaG5JS29yel9lU2hnRlktSVJlLVRGcGZ3LUlBcVVOeWRjMGxhQmN3?oc=5</link>
-      <guid isPermaLink="false">ee771998c4e7e7eaa2a409a2</guid>
-      <pubDate>Sun, 20 Sep 2026 06:34:10 +0000</pubDate>
-      <description>北朝鮮から弾道ミサイルの可能性あるもの発射、すでに落下か－防衛省    newsdig.tbs.co.jp</description>
+      <title>スペースX、ナスダック100構成比2倍超に－パッシブ資金の流入に期待</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2959284</link>
+      <guid isPermaLink="false">e22099adc5c007cd31848229</guid>
+      <pubDate>Sat, 19 Sep 2026 18:55:00 +0000</pubDate>
+      <description>（ブルームバーグ）：米ナスダック100指数に占めるスペースXの構成比率は、四半期ごとのリバランスが発効する21日に現在の約1.28%から2.82%に大幅に引き上げられる。ブルームバーグが入手したデータで明らかになっ… ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
+      <wire:relation>repost</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
+      <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE1NTXgxZ2xTOHl5V3Izdmg5aGg2NUQ0ZWVyUXN6YklaakJrd1hRU0hXVlJPdzNZMGppU3lESUkzTm04bE1lQmlhQ0pRWnNvaG5JS29yel9lU2hnRlktSVJlLVRGcGZ3LUlBcVVOeWRjMGxhQmN3?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2959284</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
-      <title>投資・資産の記事一覧 (777ページ) | TBS CROSS DIG with Bloomberg - newsdig.tbs.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxQeUlrRkZmRGpVZ25FMHpnUC0zdHk4VmZmVVJQVUFxZUctQ2JwZUQ5YlBXV0MtSS1yUHNlS3lxNXZadk0xdFZ4YzdCbFY2d19odW5FV0ctbWpzWDBRVlN0Sy1GMnRQdmZnSkVydDhGQWx3TjNleDV0cEx2a25maGhpMFFpTGpjWXpJMDNIc2JqVmtQMkRXdEEwTGdHeDhLdVh0RkRVTHFmRQ?oc=5</link>
-      <guid isPermaLink="false">b8aee6277af7fa0d29e1cf35</guid>
-      <pubDate>Sun, 20 Sep 2026 05:37:03 +0000</pubDate>
-      <description>投資・資産の記事一覧 (777ページ) | TBS CROSS DIG with Bloomberg    newsdig.tbs.co.jp</description>
+      <title>北朝鮮から弾道ミサイルの可能性あるもの発射、すでに落下か－防衛省</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2959544</link>
+      <guid isPermaLink="false">2c61c3588b81ed7122831eb3</guid>
+      <pubDate>Sat, 19 Sep 2026 18:34:00 +0000</pubDate>
+      <description>（ブルームバーグ）：防衛省は20日、北朝鮮から弾道ミサイルの可能性があるものが発射され、すでに落下したと推定されると発表した。共同通信は同日、日本の排他的経済水域（ＥＥＺ）外に落下したとみられると防衛… ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
+      <wire:relation>repost</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
+      <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMipwFBVV95cUxQeUlrRkZmRGpVZ25FMHpnUC0zdHk4VmZmVVJQVUFxZUctQ2JwZUQ5YlBXV0MtSS1yUHNlS3lxNXZadk0xdFZ4YzdCbFY2d19odW5FV0ctbWpzWDBRVlN0Sy1GMnRQdmZnSkVydDhGQWx3TjNleDV0cEx2a25maGhpMFFpTGpjWXpJMDNIc2JqVmtQMkRXdEEwTGdHeDhLdVh0RkRVTHFmRQ?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2959544</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
-      <title>OpenAI、30年までにフリーキャッシュフロー2780億ドル赤字想定－FT | TBS CROSS DIG with Bloomberg - newsdig.tbs.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE1RdXJiNVZFMzVPeUZMbGhUN29XWnpHbFl1by1oLV9lcmh0TmttSmZhTHB3cU5LVVdWWUlBd1VYSU81VkNBY3NxRmxNQ2tZdkxTSm1iVnFWZGQ0dmhCa0cwQTgzZjNQRE5heF9RSDNWOFZUMDhi?oc=5</link>
-      <guid isPermaLink="false">4b6724d3b1ca0abcef18ed5c</guid>
-      <pubDate>Sun, 20 Sep 2026 05:30:00 +0000</pubDate>
-      <description>OpenAI、30年までにフリーキャッシュフロー2780億ドル赤字想定－FT | TBS CROSS DIG with Bloomberg    newsdig.tbs.co.jp</description>
+      <title>大型タンカー不足で原油輸送に異変、長距離は採算難－新たな波乱要因</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2959072</link>
+      <guid isPermaLink="false">13872641d9454934e41e11cd</guid>
+      <pubDate>Sat, 19 Sep 2026 18:15:00 +0000</pubDate>
+      <description>（ブルームバーグ）：世界各地で原油輸送コストが高騰しており、一部の長距離ルートの取引では採算が合わなくなってきている。燃料市場がかつてないほど逼迫（ひっぱく）する中、原油の流れに支障をきたす恐れがあ… ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
+      <wire:relation>repost</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
+      <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE1RdXJiNVZFMzVPeUZMbGhUN29XWnpHbFl1by1oLV9lcmh0TmttSmZhTHB3cU5LVVdWWUlBd1VYSU81VkNBY3NxRmxNQ2tZdkxTSm1iVnFWZGQ0dmhCa0cwQTgzZjNQRE5heF9RSDNWOFZUMDhi?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>スペースX、ナスダック100構成比2倍超に－パッシブ資金の流入に期待 - newsdig.tbs.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE15aldMXzM2dnlsR1lsSXp4UURFUzRweEhnNHBRZG1kU1d5VU1hMHZkdmh4WkdjTTk1NEhvUzBsS1hoaTlYVzhrT0EtWUJ4MG50bmZEa29kMF9HY3ZtNDRkamdhXzJZMjZENUdKR0Fnb0JkZVc0?oc=5</link>
-      <guid isPermaLink="false">0deccb50478ff39daeac9931</guid>
-      <pubDate>Sun, 20 Sep 2026 02:30:00 +0000</pubDate>
-      <description>スペースX、ナスダック100構成比2倍超に－パッシブ資金の流入に期待    newsdig.tbs.co.jp</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE15aldMXzM2dnlsR1lsSXp4UURFUzRweEhnNHBRZG1kU1d5VU1hMHZkdmh4WkdjTTk1NEhvUzBsS1hoaTlYVzhrT0EtWUJ4MG50bmZEa29kMF9HY3ZtNDRkamdhXzJZMjZENUdKR0Fnb0JkZVc0?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>オーストラリア首相、AIリスク軽減へ米中の協力訴え－中堅国にも役割 - newsdig.tbs.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE9KYzFZdXd1Y1dNSlBjVThMLXR3RU02NG52UjNZUFpMbkhHQWhJNDV5UnpobUZoOW9xbUtpUjQtb1JjWHNOLXlrTEQ5S3o0Z3Y2N2x5dHlZdWFtV1ZxMkF2cEhFSDZNcmFQWjdGS3FUT0w5a3ot?oc=5</link>
-      <guid isPermaLink="false">4468b74e8eff85f0aa744271</guid>
-      <pubDate>Sun, 20 Sep 2026 02:30:00 +0000</pubDate>
-      <description>オーストラリア首相、AIリスク軽減へ米中の協力訴え－中堅国にも役割    newsdig.tbs.co.jp</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE9KYzFZdXd1Y1dNSlBjVThMLXR3RU02NG52UjNZUFpMbkhHQWhJNDV5UnpobUZoOW9xbUtpUjQtb1JjWHNOLXlrTEQ5S3o0Z3Y2N2x5dHlZdWFtV1ZxMkF2cEhFSDZNcmFQWjdGS3FUT0w5a3ot?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>ノースカロライナ大学基金、運用益37.8%－15年前のスペースX投資寄与 - newsdig.tbs.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE0tTWd1WmhpQkJkT3M1Q1pUU3ZXY1NxZk05S3lFY1g5SkI4LXVCNUpnb1M4SEpNT2Nnem5Ec0JSOXIxZXJiakJTOVNweG5EMVdKM1lXLVlacnc1cWl6QThMS2NHRldnMm1YWTAwSEFPaFZtbkpB?oc=5</link>
-      <guid isPermaLink="false">b6f7aac3c5b1571cb9caed35</guid>
-      <pubDate>Sun, 20 Sep 2026 02:10:16 +0000</pubDate>
-      <description>ノースカロライナ大学基金、運用益37.8%－15年前のスペースX投資寄与    newsdig.tbs.co.jp</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE0tTWd1WmhpQkJkT3M1Q1pUU3ZXY1NxZk05S3lFY1g5SkI4LXVCNUpnb1M4SEpNT2Nnem5Ec0JSOXIxZXJiakJTOVNweG5EMVdKM1lXLVlacnc1cWl6QThMS2NHRldnMm1YWTAwSEFPaFZtbkpB?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>【中国ニッケル支配の代償】子どもの結核が急増…広がる大気汚染／20歳で事故死…劣悪な労働環境／生活を破壊も…「ここで働くしかない」／「クリーンなEV」の汚れた一面【CROSS DIG DOCUMENT】 - newsdig.tbs.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE83LUNMd0xLY1l6a09aeENpZ0ZSQ2VTV3lkZXNMMnlpUkpIb3JuUDNVNU50RmZrTVJuWHRIV3BYb0RuRkVtbUM0RXVBNEE2MmY1bFpScEFlcHhuVWVYVk9xSWRUb1dVcGtobC1tbXJzRlRRMllt?oc=5</link>
-      <guid isPermaLink="false">8ed1411e5fff9325e38472af</guid>
-      <pubDate>Sat, 19 Sep 2026 23:00:00 +0000</pubDate>
-      <description>【中国ニッケル支配の代償】子どもの結核が急増…広がる大気汚染／20歳で事故死…劣悪な労働環境／生活を破壊も…「ここで働くしかない」／「クリーンなEV」の汚れた一面【CROSS DIG DOCUMENT】    newsdig.tbs.co.jp</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE83LUNMd0xLY1l6a09aeENpZ0ZSQ2VTV3lkZXNMMnlpUkpIb3JuUDNVNU50RmZrTVJuWHRIV3BYb0RuRkVtbUM0RXVBNEE2MmY1bFpScEFlcHhuVWVYVk9xSWRUb1dVcGtobC1tbXJzRlRRMllt?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>AI アカデミー (33ページ) | TBS CROSS DIG with Bloomberg - newsdig.tbs.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE55ZGRtMi1TeTJFaWtlNmZPQ1FDM2RMOHlFSGpVc2hCcVRBR1hyRE1xSkVIVU9XREpHc3dLbGdYS0hDMUpHQ2lQemtsOU0ya3VTWjZYNHpfYV9mS2FHZFBJNVAwd25kekdRdFhUNloycVA?oc=5</link>
-      <guid isPermaLink="false">3e0e963cb1f039f5a3dbc325</guid>
-      <pubDate>Sat, 19 Sep 2026 22:23:27 +0000</pubDate>
-      <description>AI アカデミー (33ページ) | TBS CROSS DIG with Bloomberg    newsdig.tbs.co.jp</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMicEFVX3lxTE55ZGRtMi1TeTJFaWtlNmZPQ1FDM2RMOHlFSGpVc2hCcVRBR1hyRE1xSkVIVU9XREpHc3dLbGdYS0hDMUpHQ2lQemtsOU0ya3VTWjZYNHpfYV9mS2FHZFBJNVAwd25kekdRdFhUNloycVA?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>金融政策 アカデミー (43ページ) | TBS CROSS DIG with Bloomberg - newsdig.tbs.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxOWFJoWkZsQ1owdktsaE4tam5GYy1qcGlENWNXTktON29xV3ZITUFrd01ZYlRiZU1qVEh2d0lPQzVUNjc1a21mSEp3T0ZIUnNKTWZnaHlndzFpVjZZTUVIWG0wQm1SdVlvSmhxV3c1RlNyMHpoY0VaRHBPa1FzcDVHNDhBRlRVQjdGQVJoT28yLUt5M3NvTEhwanFNN1FHQQ?oc=5</link>
-      <guid isPermaLink="false">8e13dc29bdd43f1b5f73c502</guid>
-      <pubDate>Sat, 19 Sep 2026 18:39:55 +0000</pubDate>
-      <description>金融政策 アカデミー (43ページ) | TBS CROSS DIG with Bloomberg    newsdig.tbs.co.jp</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMingFBVV95cUxOWFJoWkZsQ1owdktsaE4tam5GYy1qcGlENWNXTktON29xV3ZITUFrd01ZYlRiZU1qVEh2d0lPQzVUNjc1a21mSEp3T0ZIUnNKTWZnaHlndzFpVjZZTUVIWG0wQm1SdVlvSmhxV3c1RlNyMHpoY0VaRHBPa1FzcDVHNDhBRlRVQjdGQVJoT28yLUt5M3NvTEhwanFNN1FHQQ?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>投資・資産の記事一覧 (780ページ) | TBS CROSS DIG with Bloomberg - newsdig.tbs.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxPSFlBMUxOa3dBTnBmVHdwNFVyaC1BbjdsM2d3c2lJYm5JSUNtcXZsWTFsTnFxLXU1TDN1ektMNktSTVBWQll5YnZ4eS12ZGdaVkFYQldaRHpMRUEwWHhzNWRfdHJJVGJJLS1mZWZVWXBGYWlwVWgwS3J4Tm1OdGRQMFlhQVk2dDhKc0dqSVlDSkIxMFc1V2VNaWMwSFR0ck4wb0tCY05JRQ?oc=5</link>
-      <guid isPermaLink="false">ea9a5db568ef59830b4b4b9e</guid>
-      <pubDate>Sat, 19 Sep 2026 09:55:34 +0000</pubDate>
-      <description>投資・資産の記事一覧 (780ページ) | TBS CROSS DIG with Bloomberg    newsdig.tbs.co.jp</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMipwFBVV95cUxPSFlBMUxOa3dBTnBmVHdwNFVyaC1BbjdsM2d3c2lJYm5JSUNtcXZsWTFsTnFxLXU1TDN1ektMNktSTVBWQll5YnZ4eS12ZGdaVkFYQldaRHpMRUEwWHhzNWRfdHJJVGJJLS1mZWZVWXBGYWlwVWgwS3J4Tm1OdGRQMFlhQVk2dDhKc0dqSVlDSkIxMFc1V2VNaWMwSFR0ck4wb0tCY05JRQ?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>小泉防衛相、ヘグセス米国防長官と電話会談－安保協力の強化で一致 - newsdig.tbs.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTFBkdFlQaWprUDhxZm54QmtVMFpXUklMQUtNcVY5TDFmZ0k3Yldvb3dXSGVaZmRUUjQ2UjQ5cVhKZFl5enJ5U1pXLS00MWgwQTRrNmxZRzNoZ1pTOWhhYXFxNFNZcHduTHdzQ2R6QkoxMHczRGww?oc=5</link>
-      <guid isPermaLink="false">df939b3ef62ad6d314cbffd5</guid>
-      <pubDate>Sat, 19 Sep 2026 06:30:00 +0000</pubDate>
-      <description>小泉防衛相、ヘグセス米国防長官と電話会談－安保協力の強化で一致    newsdig.tbs.co.jp</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTFBkdFlQaWprUDhxZm54QmtVMFpXUklMQUtNcVY5TDFmZ0k3Yldvb3dXSGVaZmRUUjQ2UjQ5cVhKZFl5enJ5U1pXLS00MWgwQTRrNmxZRzNoZ1pTOWhhYXFxNFNZcHduTHdzQ2R6QkoxMHczRGww?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>グリアUSTR代表、20日の米中協議に参加へ－ベッセント財務長官らと - newsdig.tbs.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE1aZHI3U29TYTJkRWJYWXkzM1lLdE9XSVBBRUMzanBWSjgzcTBPNzBQWmdVdmFibF9DdVJQRkI2aFpKc1o1QzlJMG1ERWhPX0p1elM3LVphRlFkd00xallUMTlRblJCUjJnSU82ZzM4VWxTQ090?oc=5</link>
-      <guid isPermaLink="false">b3bc331816595f829a60ee91</guid>
-      <pubDate>Sat, 19 Sep 2026 05:30:00 +0000</pubDate>
-      <description>グリアUSTR代表、20日の米中協議に参加へ－ベッセント財務長官らと    newsdig.tbs.co.jp</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE1aZHI3U29TYTJkRWJYWXkzM1lLdE9XSVBBRUMzanBWSjgzcTBPNzBQWmdVdmFibF9DdVJQRkI2aFpKc1o1QzlJMG1ERWhPX0p1elM3LVphRlFkd00xallUMTlRblJCUjJnSU82ZzM4VWxTQ090?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>アンソロピック、年末までに計算能力5GW確保を計画－NYT - newsdig.tbs.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTFBiNlREdWlNemZnN1ZNV2xvUUZKMk51bTVMeFR1bEM3YW45ZEUwZVVHcWRKbk85WHQtTDIxQ2ZDS0JVRVZnQ1FGaF9FRHp2LVJzOVlUNkR3TXREeTgxOXp1ZGdGRjlGRlM5ZXBWV200bXNoWDUz?oc=5</link>
-      <guid isPermaLink="false">c242196fb60886dc816b1231</guid>
-      <pubDate>Fri, 18 Sep 2026 16:30:00 +0000</pubDate>
-      <description>アンソロピック、年末までに計算能力5GW確保を計画－NYT    newsdig.tbs.co.jp</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTFBiNlREdWlNemZnN1ZNV2xvUUZKMk51bTVMeFR1bEM3YW45ZEUwZVVHcWRKbk85WHQtTDIxQ2ZDS0JVRVZnQ1FGaF9FRHp2LVJzOVlUNkR3TXREeTgxOXp1ZGdGRjlGRlM5ZXBWV200bXNoWDUz?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>マーケット アカデミー (72ページ) | TBS CROSS DIG with Bloomberg - newsdig.tbs.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUzRPZ3d5SWIyRmJLN1VKeEhOVjVGQ2h4aHpxV2lKLVFfR1Y1SVl3RVNxVDdRb29DYXZvNWZmam5OQUMwWnNXSXpGQ01aRFdPS281a00tZlJfeXhDajNjdzFDa1lWdjFqY2dFeG9FWHNDTXVVT2t4U1Y2cEZrcEszSFl2OTlfZjEtQXlNUjNmTmZPb1M3SVR5dUN4Qm42SG02UlRzOGp5WktNZw?oc=5</link>
-      <guid isPermaLink="false">3f68613b5b065bf3a9708c16</guid>
-      <pubDate>Fri, 18 Sep 2026 08:59:32 +0000</pubDate>
-      <description>マーケット アカデミー (72ページ) | TBS CROSS DIG with Bloomberg    newsdig.tbs.co.jp</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUzRPZ3d5SWIyRmJLN1VKeEhOVjVGQ2h4aHpxV2lKLVFfR1Y1SVl3RVNxVDdRb29DYXZvNWZmam5OQUMwWnNXSXpGQ01aRFdPS281a00tZlJfeXhDajNjdzFDa1lWdjFqY2dFeG9FWHNDTXVVT2t4U1Y2cEZrcEszSFl2OTlfZjEtQXlNUjNmTmZPb1M3SVR5dUN4Qm42SG02UlRzOGp5WktNZw?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>AIによる人類滅亡の懸念は「SF」－AI先駆者が研究者の警告に反論 - newsdig.tbs.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE81V3MwWWR3cW1qTktJZUNZbGZ1TWlsUWZ0X0d6U3NmZFpvVFRoQnY3bzZEVXNZRnJGRVZFY1NxQlJtMS00SnJhZWZab0U4NFJGcDNISVlYMTc5Z2JST2ZRbkFYN3pWTzV5SDVYSXB2VndRZU93?oc=5</link>
-      <guid isPermaLink="false">d0f3f7d0444ac526e8671cc4</guid>
-      <pubDate>Fri, 18 Sep 2026 00:42:25 +0000</pubDate>
-      <description>AIによる人類滅亡の懸念は「SF」－AI先駆者が研究者の警告に反論    newsdig.tbs.co.jp</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE81V3MwWWR3cW1qTktJZUNZbGZ1TWlsUWZ0X0d6U3NmZFpvVFRoQnY3bzZEVXNZRnJGRVZFY1NxQlJtMS00SnJhZWZab0U4NFJGcDNISVlYMTc5Z2JST2ZRbkFYN3pWTzV5SDVYSXB2VndRZU93?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>経済部の記事一覧 (498ページ) | TBS CROSS DIG with Bloomberg - newsdig.tbs.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxOdFJDY3ZYd1JCZmZQNlA4UDJ6N3hCd0g3WVFaM2pVcFBqVW1tYi1MVXlMNklhcHluVWd0dDdCcGRnUWFUMDR0a1BjTU40Y2N0anBhXy1UZjI5ZDdXb28xSExScWYzM2pKSUZfNW5VaTluNGNNNVFrYjVqRHF3WnBuRllKVEpxU2ZIdDdneWpzM1p5X2s?oc=5</link>
-      <guid isPermaLink="false">377227987b605386dd4edf29</guid>
-      <pubDate>Thu, 17 Sep 2026 17:32:39 +0000</pubDate>
-      <description>経済部の記事一覧 (498ページ) | TBS CROSS DIG with Bloomberg    newsdig.tbs.co.jp</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMikwFBVV95cUxOdFJDY3ZYd1JCZmZQNlA4UDJ6N3hCd0g3WVFaM2pVcFBqVW1tYi1MVXlMNklhcHluVWd0dDdCcGRnUWFUMDR0a1BjTU40Y2N0anBhXy1UZjI5ZDdXb28xSExScWYzM2pKSUZfNW5VaTluNGNNNVFrYjVqRHF3WnBuRllKVEpxU2ZIdDdneWpzM1p5X2s?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>メタと契約のデータセンター運営会社、ジャンク債で約3500億円調達へ - newsdig.tbs.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE1DRTRQMEo4X1ZLN0pJQWs0RU1tM1VFUVhpRTF0VlRSLUcwUkJUOFo3TXdEb3k5Z0VHU1dRNmhiNmhTaG1xWjhUdlo5bWk5UWdvRWJKMGwxZ3B0c0doSFlFcDE0ZnhFMU9ncUZwUlE3UjlPeHhE?oc=5</link>
-      <guid isPermaLink="false">4ab57470f9453870f607afcf</guid>
-      <pubDate>Thu, 17 Sep 2026 17:23:00 +0000</pubDate>
-      <description>メタと契約のデータセンター運営会社、ジャンク債で約3500億円調達へ    newsdig.tbs.co.jp</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE1DRTRQMEo4X1ZLN0pJQWs0RU1tM1VFUVhpRTF0VlRSLUcwUkJUOFo3TXdEb3k5Z0VHU1dRNmhiNmhTaG1xWjhUdlo5bWk5UWdvRWJKMGwxZ3B0c0doSFlFcDE0ZnhFMU9ncUZwUlE3UjlPeHhE?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>紅海へのパイプラインがドローン攻撃で損傷 サウジアラビアがヨーロッパ向け原油輸送を削減 ロイター通信が報じる - newsdig.tbs.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53OEZqTzlrck5jQkFUWWI0d2F0R3RnRnNJdlVJeGxuTG5GT2lPZWcwSFdnX2pmRHhKMFRwN3NiZllIMUZWejI3UmhSNTJjb2hUaDJ0THMyQkNtdV9oNU93Nk5CMmNCcVk?oc=5</link>
-      <guid isPermaLink="false">9ae7bf093ba87faea912b007</guid>
-      <pubDate>Wed, 16 Sep 2026 05:47:21 +0000</pubDate>
-      <description>紅海へのパイプラインがドローン攻撃で損傷 サウジアラビアがヨーロッパ向け原油輸送を削減 ロイター通信が報じる    newsdig.tbs.co.jp</description>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>mention</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.86</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53OEZqTzlrck5jQkFUWWI0d2F0R3RnRnNJdlVJeGxuTG5GT2lPZWcwSFdnX2pmRHhKMFRwN3NiZllIMUZWejI3UmhSNTJjb2hUaDJ0THMyQkNtdV9oNU93Nk5CMmNCcVk?oc=5</wire:canonicalUrl>
-      <wire:evidence>reporting reference, not an exact wire credit: ロイター通信が報じ</wire:evidence>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2959072</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
   </channel>
 </rss>
