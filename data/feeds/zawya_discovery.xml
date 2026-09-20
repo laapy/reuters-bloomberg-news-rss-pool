@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Azawya.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 20 Sep 2026 17:37:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 20:31:12 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Saudi Aramco tells some European refiners they will receive no crude next month, Bloomberg News reports</title>
@@ -85,6 +85,21 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.zawya.com/en/business/global/cross-border-property-investment-jumped-56-in-first-half-data-shows-1019268</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Sharjah Islamic Bank mandates banks for sukuk offering</title>
+      <link>https://www.zawya.com/en/special-coverage/islamic-economy/sharjah-islamic-bank-mandates-banks-for-sukuk-offering-993603</link>
+      <guid isPermaLink="false">e830308305644a28928a5c13</guid>
+      <pubDate>Thu, 17 Sep 2026 22:41:00 +0000</pubDate>
+      <description>Abu Dhabi-listed Sharjah Islamic Bank, rated A- by S&amp;P and BBB+ by Fitch Ratings, has announced a series of investor meetings commencing today for a potential USD sukuk issuance. Create a free ZAWYA ...</description>
+      <wire:foundAt>zawya_discovery</wire:foundAt>
+      <wire:platform>ZAWYA</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.zawya.com/en/special-coverage/islamic-economy/sharjah-islamic-bank-mandates-banks-for-sukuk-offering-993603</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -175,21 +190,6 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.zawya.com/en/business/gold-edges-higher-on-lower-oil-prices-subdued-dollar-982880</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Aramco to boost Gulf exports to 60mln barrels in September, October, traders say</title>
-      <link>https://www.zawya.com/en/projects/energy/aramco-to-boost-gulf-exports-to-60mln-barrels-in-september-october-traders-say-997854</link>
-      <guid isPermaLink="false">9e4fd0102de8b93208364d6f</guid>
-      <pubDate>Thu, 17 Sep 2026 17:42:00 +0000</pubDate>
-      <description>SINGAPORE/NEW DELHI - Saudi Arabia has sold about 60 million barrels of crude from its Gulf port of Ras Tanura inside the Strait of Hormuz for loading via ship-to-ship transfer at the Omani port of ...</description>
-      <wire:foundAt>zawya_discovery</wire:foundAt>
-      <wire:platform>ZAWYA</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.zawya.com/en/projects/energy/aramco-to-boost-gulf-exports-to-60mln-barrels-in-september-october-traders-say-997854</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>

@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Amarketscreener.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 20 Sep 2026 17:37:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 20:31:12 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>British retail sales unexpectedly rise by 0.5% in August</title>
@@ -98,6 +98,21 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
+      <title>Alert wrongly tagged to Chile's Forus withdrawn</title>
+      <link>https://www.marketscreener.com/news/alert-wrongly-tagged-to-chile-s-forus-withdrawn-ce785bd8dc8af52c</link>
+      <guid isPermaLink="false">e9765a993adde70231cfeced</guid>
+      <pubDate>Tue, 08 Sep 2026 05:14:00 +0000</pubDate>
+      <description>Forus SA is a Chile-based company primarily engaged in the footwear and apparel retail. The Company focuses on the design, production and distribution of footwear, apparel and acc ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/alert-wrongly-tagged-to-chile-s-forus-withdrawn-ce785bd8dc8af52c</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
       <title>Nvidia-backed Firmus signs deal with OpenAI for Malaysia data centre capacity</title>
       <link>https://www.marketscreener.com/news/nvidia-backed-firmus-signs-deal-with-openai-for-malaysia-data-centre-capacity-ce785bd8d981fe2d</link>
       <guid isPermaLink="false">ea945ce7f03f535ae343b324</guid>
@@ -155,21 +170,6 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.marketscreener.com/news/south-korea-pension-fund-suspends-fx-hedging-as-won-hits-two-year-high-source-says-ce785bdbdd81f726</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>South Korea pension fund suspends FX hedging, market source says</title>
-      <link>https://www.marketscreener.com/news/south-korea-pension-fund-suspends-fx-hedging-market-source-says-ce785bdbdd8ef322</link>
-      <guid isPermaLink="false">fbf39b4b4719189ee9c7840a</guid>
-      <pubDate>Sun, 06 Sep 2026 19:37:00 +0000</pubDate>
-      <description>South Korea's National Pension Service has suspended foreign exchange hedging operations, a market source told Reuters on Monday, as the won strengthened to a near two-year high. FX hedging by the... ...</description>
-      <wire:foundAt>marketscreener_discovery</wire:foundAt>
-      <wire:platform>MarketScreener</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/news/south-korea-pension-fund-suspends-fx-hedging-market-source-says-ce785bdbdd8ef322</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
