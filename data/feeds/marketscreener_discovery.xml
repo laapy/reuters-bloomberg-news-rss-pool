@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Amarketscreener.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 21 Sep 2026 00:58:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 06:00:20 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>British retail sales unexpectedly rise by 0.5% in August</title>
@@ -50,6 +50,21 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.marketscreener.com/news/hyundai-motor-ceo-warns-of-chinese-vehicle-surge-in-the-us-without-guardrails-ce785adad989f324</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Why Wall Street Likes This Rate Hike</title>
+      <link>https://www.marketscreener.com/news/why-wall-street-likes-this-rate-hike-ce785bd3dc8dff26</link>
+      <guid isPermaLink="false">c77b4ec81ea3fb3db4c6d0cf</guid>
+      <pubDate>Thu, 17 Sep 2026 06:27:00 +0000</pubDate>
+      <description>The apparent contradiction makes sense once the alternative is considered. Investors had become more worried about a Federal Reserve that might tolerate persistent inflation than about a central bank ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/why-wall-street-likes-this-rate-hike-ce785bd3dc8dff26</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -143,33 +158,18 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Gold slips on rate-hike bets; US inflation data in focus</title>
-      <link>https://www.marketscreener.com/news/gold-slips-on-rate-hike-bets-inflation-data-in-focus-ce785bdbdd80f020</link>
-      <guid isPermaLink="false">e81acb687a31cb115e153d43</guid>
-      <pubDate>Sun, 06 Sep 2026 21:29:00 +0000</pubDate>
-      <description>Sept 7 (Reuters) - Gold slipped on Monday, as strong U.S. jobs data reinforced expectations for higher interest rates, while investors awaited key inflation reports from the world's largest economy ...</description>
+      <title>Lack of hedging weighs on SAS and could impact Air France-KLM</title>
+      <link>https://www.marketscreener.com/news/lack-of-hedging-weighs-on-sas-and-could-impact-air-france-klm-ce7e51ddd989ff22</link>
+      <guid isPermaLink="false">c93c1d1f8bfa0fd29f17de3a</guid>
+      <pubDate>Thu, 02 Apr 2026 05:47:00 +0000</pubDate>
+      <description>The airline sector is navigating a period of severe turbulence driven by surging oil prices. Within this context, Scandinavian Airlines System (SAS) appears particularly vulnerable, having suspended ...</description>
       <wire:foundAt>marketscreener_discovery</wire:foundAt>
       <wire:platform>MarketScreener</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/news/gold-slips-on-rate-hike-bets-inflation-data-in-focus-ce785bdbdd80f020</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>South Korea pension fund suspends FX hedging as won hits two-year high, source says</title>
-      <link>https://www.marketscreener.com/news/south-korea-pension-fund-suspends-fx-hedging-as-won-hits-two-year-high-source-says-ce785bdbdd81f726</link>
-      <guid isPermaLink="false">a227496f8d108d7ab8474d43</guid>
-      <pubDate>Sun, 06 Sep 2026 20:25:00 +0000</pubDate>
-      <description>South Korea's National Pension Service has suspended foreign exchange hedging operations, a market source told Reuters on Monday, as the won strengthened to a near two-year high. The ...</description>
-      <wire:foundAt>marketscreener_discovery</wire:foundAt>
-      <wire:platform>MarketScreener</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/news/south-korea-pension-fund-suspends-fx-hedging-as-won-hits-two-year-high-source-says-ce785bdbdd81f726</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/lack-of-hedging-weighs-on-sas-and-could-impact-air-france-klm-ce7e51ddd989ff22</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>

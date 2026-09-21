@@ -1,11 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Bloomberg — diagnostic source feed</title>
     <link>https://feeds.bloomberg.com/crypto/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 21 Sep 2026 00:58:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 06:00:20 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Bitcoin ETFs Swing Positive as Token Holds Jump Above $81,000</title>
+      <link>https://www.bloomberg.com/news/articles/2026-09-21/bitcoin-etfs-swing-positive-as-token-holds-jump-above-81-000</link>
+      <guid isPermaLink="false">d9cfe41bcbd2d498a4dcb74e</guid>
+      <pubDate>Mon, 21 Sep 2026 05:05:57 +0000</pubDate>
+      <description>US spot Bitcoin exchange-traded funds recorded chunky inflows at the end of last week, fully reversing earlier outflows and helping to drive the original cryptocurrency back above $81,000 for the first time in a fortnight.</description>
+      <dc:creator>Suvashree Ghosh</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_crypto</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-09-21/bitcoin-etfs-swing-positive-as-token-holds-jump-above-81-000</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
   </channel>
 </rss>
