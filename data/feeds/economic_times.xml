@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>The Economic Times — diagnostic source feed</title>
     <link>https://economictimes.indiatimes.com/rssfeedsdefault.cms</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 20 Sep 2026 22:40:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 00:58:06 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>EM local bonds gain favour as dollar debt lags</title>
+      <link>https://economictimes.indiatimes.com/markets/bonds/em-local-bonds-gain-favour-as-dollar-debt-lags/articleshow/134377150.cms</link>
+      <guid isPermaLink="false">c605a0c07d0c3d9b8e167323</guid>
+      <pubDate>Sun, 20 Sep 2026 23:24:00 +0000</pubDate>
+      <description>Current trends indicate that investors are leaning towards local emerging market debt rather than dollar-denominated bonds. The allure of attractive valuations combined with ongoing carry trades fuels this shift in strategy. Fund inflows and performance metrics distinctly reflect this investor inclination. Nonetheless, potential rate hikes by the Federal Reserve could pose challenges to this emerging market approach, while a stronger dollar may discourage investments in local currency debt.</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;Emerging-market investors are for now sticking with local-currency sovereign debt as surging Treasury yields dim the appeal of dollar-denominated developing-nation bonds.Behind the strategy are attractive valuations and the potential to profit from carry trades, where investors borrow in low-yielding currencies to invest in higher-yielding assets.Read more: JioBlackRock CIO Rishi Kohli decodes Nifty’s inflection point after two years of weak returnsThe preference is showing up in fund flows, positioning and relative performance. A Bloomberg gauge of domestic EM debt has beaten an index of dollar-denominated bonds by more than 3 percentage points since the end of June, set for the biggest quarterly outperformance since 2022.Fund managers are leaning into that divergence too. A Bank of America Corp. survey of 38 global fixed-income fund managers overseeing $444 billion in combined assets showed that 84% of the respondents were overweight local EM debt relative to hard currency bonds, versus just 38% in August. The poll was conducted between Sept 4 and 9.Read more: Will Nifty extend gains to 4th session on Monday? US sanctions on Russia among factors to decide D-Street actionThe trade could still be tested after the Federal Reserve raised interest rates and signaled it may do so again. A renewed advance in the dollar could turn investors away from emerging-market assets such as local-currency debt.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>economic_times</wire:foundAt>
+      <wire:platform>The Economic Times</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://economictimes.indiatimes.com/markets/bonds/em-local-bonds-gain-favour-as-dollar-debt-lags/articleshow/134377150.cms</wire:canonicalUrl>
+      <wire:evidence>structured credit: Bloomberg</wire:evidence>
+    </item>
   </channel>
 </rss>
