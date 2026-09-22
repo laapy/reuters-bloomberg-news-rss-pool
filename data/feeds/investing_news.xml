@@ -1,11 +1,79 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Investing.com — diagnostic source feed</title>
     <link>https://www.investing.com/rss/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 22 Sep 2026 20:26:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 23:13:34 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Trump supports diesel export ban as fuel prices hit records</title>
+      <link>https://www.investing.com/news/commodities-news/trump-says-he-backs-the-idea-of-a-ban-on-diesel-exports-4911466</link>
+      <guid isPermaLink="false">448186f65b88eaee5999cf8d</guid>
+      <pubDate>Tue, 22 Sep 2026 22:54:34 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/commodities-news/trump-says-he-backs-the-idea-of-a-ban-on-diesel-exports-4911466</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>Ex-Google safety chief warns AI could harm children more than social media did</title>
+      <link>https://www.investing.com/news/stock-market-news/exgoogle-safety-chief-warns-ai-could-harm-children-more-than-social-media-did-4911398</link>
+      <guid isPermaLink="false">53e20b6cf229a1dfd8f06ab0</guid>
+      <pubDate>Tue, 22 Sep 2026 22:48:28 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/exgoogle-safety-chief-warns-ai-could-harm-children-more-than-social-media-did-4911398</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>Trump bought and sold shares in Musk’s SpaceX in July, financial disclosure shows</title>
+      <link>https://www.investing.com/news/stock-market-news/trump-bought-and-sold-shares-in-musks-spacex-in-july-financial-disclosure-shows-4911482</link>
+      <guid isPermaLink="false">5b785dae5d1c286c8cc077bd</guid>
+      <pubDate>Tue, 22 Sep 2026 22:37:20 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/trump-bought-and-sold-shares-in-musks-spacex-in-july-financial-disclosure-shows-4911482</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>Exclusive-Microsoft to keep shareholder proposal rights through 2027, even as SEC reduces oversight</title>
+      <link>https://www.investing.com/news/stock-market-news/exclusivemicrosoft-to-keep-shareholder-proposal-rights-through-2027-even-as-sec-reduces-oversight-4911540</link>
+      <guid isPermaLink="false">619c2a3a5f726b566220e5d2</guid>
+      <pubDate>Tue, 22 Sep 2026 22:37:02 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/exclusivemicrosoft-to-keep-shareholder-proposal-rights-through-2027-even-as-sec-reduces-oversight-4911540</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>
