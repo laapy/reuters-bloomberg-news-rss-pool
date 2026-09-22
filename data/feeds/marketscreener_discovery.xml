@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Amarketscreener.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 22 Sep 2026 01:08:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 06:41:41 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Sources: EU expected to block UPM and Sappi joint venture, Reuters</title>
@@ -22,21 +22,6 @@
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.marketscreener.com/news/sources-eu-expected-to-block-upm-and-sappi-joint-venture-reuters-ce785adbd889f52c</wire:canonicalUrl>
       <wire:evidence>reporting reference, not an exact wire credit: according to Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>News Raiffeisen Bank International AG</title>
-      <link>https://www.marketscreener.com/quote/stock/RAIFFEISEN-BANK-INTERNATI-6497717/news/</link>
-      <guid isPermaLink="false">bfd315deb7ee9d5e9a133c99</guid>
-      <pubDate>Fri, 18 Sep 2026 08:43:00 +0000</pubDate>
-      <description>Sep. 17 Raiffeisen shares hit by Grizzly short over Russia trade RE Sep. 17 Raiffeisen shares slump after short-seller Grizzly spotlights Russia ties RE Sep. 03 Raiffeisen Bank International AG: Mag.</description>
-      <wire:foundAt>marketscreener_discovery</wire:foundAt>
-      <wire:platform>MarketScreener</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/RAIFFEISEN-BANK-INTERNATI-6497717/news/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
       <title>British retail sales unexpectedly rise by 0.5% in August</title>
@@ -81,6 +66,21 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.marketscreener.com/news/hyundai-motor-ceo-warns-of-chinese-vehicle-surge-in-the-us-without-guardrails-ce785adad989f324</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Why Wall Street Likes This Rate Hike</title>
+      <link>https://www.marketscreener.com/news/why-wall-street-likes-this-rate-hike-ce785bd3dc8dff26</link>
+      <guid isPermaLink="false">c77b4ec81ea3fb3db4c6d0cf</guid>
+      <pubDate>Thu, 17 Sep 2026 06:27:00 +0000</pubDate>
+      <description>The apparent contradiction makes sense once the alternative is considered. Investors had become more worried about a Federal Reserve that might tolerate persistent inflation than about a central bank ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/why-wall-street-likes-this-rate-hike-ce785bd3dc8dff26</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -144,18 +144,18 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Nvidia-backed Firmus signs deal with OpenAI for Malaysia data centre capacity</title>
-      <link>https://www.marketscreener.com/news/nvidia-backed-firmus-signs-deal-with-openai-for-malaysia-data-centre-capacity-ce785bd8d981fe2d</link>
-      <guid isPermaLink="false">ea945ce7f03f535ae343b324</guid>
-      <pubDate>Mon, 07 Sep 2026 18:39:00 +0000</pubDate>
-      <description>Australia's Firmus said on Tuesday it had signed a multi-year deal with OpenAI to supply computing capacity from two Malaysian data centres, making the ChatGPT maker an anchor customer as demand ...</description>
+      <title>Gold little changed as markets await key US inflation data</title>
+      <link>https://www.marketscreener.com/news/gold-little-changed-as-markets-await-key-us-inflation-data-ce785bdbdd8cf027</link>
+      <guid isPermaLink="false">0c43cf7816baac36386b199c</guid>
+      <pubDate>Sun, 06 Sep 2026 17:42:00 +0000</pubDate>
+      <description>Sep. 11 Gold rises on dip-buying even as Fed rate hike bets rise after US inflation data RE Sep. 11 Gold rises on dip-buying even as Fed rate hike bets rise after US inflation data RE Sep. 11 Gold on ...</description>
       <wire:foundAt>marketscreener_discovery</wire:foundAt>
       <wire:platform>MarketScreener</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/news/nvidia-backed-firmus-signs-deal-with-openai-for-malaysia-data-centre-capacity-ce785bd8d981fe2d</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/gold-little-changed-as-markets-await-key-us-inflation-data-ce785bdbdd8cf027</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -171,21 +171,6 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.marketscreener.com/news/lack-of-hedging-weighs-on-sas-and-could-impact-air-france-klm-ce7e51ddd989ff22</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>China Telecom Corporation Limited Stock</title>
-      <link>https://www.marketscreener.com/quote/stock/CHINA-TELECOM-CORPORATION-1412702/</link>
-      <guid isPermaLink="false">3d211e5e235d3668ae067afa</guid>
-      <pubDate>Mon, 20 May 2019 17:00:00 +0000</pubDate>
-      <description>Aug. 26 Nomura Adjusts China Telecom's Price Target to HK$5 From HK$5.50, Keeps at Neutral MT Aug. 20 China Telecom's AI Push Drives Cloud Revenue Upward MT ...</description>
-      <wire:foundAt>marketscreener_discovery</wire:foundAt>
-      <wire:platform>MarketScreener</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/CHINA-TELECOM-CORPORATION-1412702/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
