@@ -1,11 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>The Economic Times — diagnostic source feed</title>
     <link>https://economictimes.indiatimes.com/rssfeedsdefault.cms</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 23 Sep 2026 13:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 17:52:19 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Fed Governor Michael Barr signals more rate hikes needed to tame inflation</title>
+      <link>https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-governor-michael-barr-signals-more-rate-hikes-needed-to-tame-inflation/articleshow/134442493.cms</link>
+      <guid isPermaLink="false">72071dbf66345252c7f8e0fc</guid>
+      <pubDate>Wed, 23 Sep 2026 16:44:00 +0000</pubDate>
+      <description>Federal Reserve Governor Michael Barr announced that additional rate hikes may be necessary to manage inflation. He indicated that while economic growth is strong, inflation remains above the target of 2%. The central bank recently raised the policy rate to a range of 3.75%-4.00%. Barr's perspective contrasts with the Fed Chairman, who has not provided guidance on future rates.</description>
+      <dc:creator>ETMarkets.com</dc:creator>
+      <content:encoded>&lt;p&gt;Federal Reserve Governor Michael Barr said on Wednesday that the central bank took an important step last week to recalibrate short-term borrowing costs in its effort to bring down inflation, and signalled that further rate hikes are likely needed, Reuters reported. Risks to achieving our inflation target have increased, while risks to the labour market have receded, Barr said in prepared remarks for a Chicago Fed housing affordability conference.He noted that US economic growth remains strong and the labour market solid, but inflation is still above the Fed&amp;#x27;s 2% goal and not clearly headed lower. In my base case, further policy adjustments are likely needed to ensure inflation comes down to target in a timely fashion, he said.For live updates on US Markets, click hereIn a unanimous decision last week, Fed policymakers raised the central bank&amp;#x27;s policy rate to a range of 3.75%-4.00%. Sixteen of 18 officials signalled that at least one more hike would likely be needed before year-end, according to a Reuters report.Barr&amp;#x27;s remarks suggest he sees the case for at least two further increases, though he did not specify a timeline.His willingness to be specific about the rate path stands in contrast to Fed Chairman Kevin Warsh, who has declined to offer any forward guidance on the matter. In my view, given changes to the economy, we were out of position, and we made an adjustment in the right direction, Barr added, referring to last week&amp;#x27;s quarter-point hike. We want to support sustainable, durable growth in support of maximum employment, and price stability is crucial to that. Barr&amp;#x27;s comments on monetary policy were brief, with most of his speech devoted to housing affordability, a problem he said has been compounded by a shortage of supply and elevated mortgage rates. The average rate on a 30-year fixed-rate mortgage in the US rose to 7.12% last week, its highest level in more than two years, the Mortgage Bankers Association said on Wednesday.(Disclaimer: This article is based on inputs from agencies. These do not represent the views of The Economic Times)&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>economic_times</wire:foundAt>
+      <wire:platform>The Economic Times</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-governor-michael-barr-signals-more-rate-hikes-needed-to-tame-inflation/articleshow/134442493.cms</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Reuters reported</wire:evidence>
+    </item>
+    <item>
+      <title>Rupee slips as dollar gets Fed hike expectations tailwind</title>
+      <link>https://economictimes.indiatimes.com/markets/forex/rupee-slips-as-dollar-gets-fed-hike-expectations-tailwind/articleshow/134434559.cms</link>
+      <guid isPermaLink="false">ce8a00a1721c8e0c58e53619</guid>
+      <pubDate>Wed, 23 Sep 2026 11:21:00 +0000</pubDate>
+      <description>On September 23, the Indian rupee ended weaker at 95.74 against the dollar amid global financial trends. Expectations of further US Federal Reserve rate hikes have increased the strength of the dollar. Asian currencies also experienced declines, with some falling 0.3%. Despite this, state-run banks helped limit the rupee's losses through dollar sales.</description>
+      <dc:creator>Reuters</dc:creator>
+      <content:encoded>&lt;p&gt;The Indian rupee ended modestly weaker on Wednesday, tracking declines in Asian peers as expectations of further US Federal Reserve rate hikes lifted the dollar.The rupee fell 0.1% to 95.74 per dollar from a close of 95.59 in the previous session.Asian currencies fell 0.1% to 0.3% as investors watched oil prices and Fed rate expectations. The dollar index has risen more than 1% since the Fed raised rates last week as bets on further tightening grew. Interest rate futures markets have baked in about 75 basis points worth of hikes over the next 12 months. The US Federal Reserve has started hiking, and markets are pricing in more hikes. If the RBI does not respond, India&amp;#x27;s monetary policy misalignment with tightening global financial conditions would widen, analysts at ANZ said in a note. With rate differentials already compressed, that would leave the INR more exposed to any global risk-off episode. On Wednesday, dollar sales by state-run banks -- most likely on behalf of the Reserve Bank of India -- helped limit the currency&amp;#x27;s losses, traders said. The central bank also likely conducted dollar-rupee sell/buy swaps to drain excess cash in the banking system.The swaps were concentrated in the January 2027 maturity while a portion was for October 2027 maturity as well, a trader at a Mumbai-based bank said.Oil prices, meanwhile, held below $100 per barrel, kept in check by improving Gulf crude supplies and growing hopes for a diplomatic resolution to the US-Israeli war with Iran.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>economic_times</wire:foundAt>
+      <wire:platform>The Economic Times</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://economictimes.indiatimes.com/markets/forex/rupee-slips-as-dollar-gets-fed-hike-expectations-tailwind/articleshow/134434559.cms</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>
