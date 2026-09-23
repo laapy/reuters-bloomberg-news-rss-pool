@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Azawya.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 23 Sep 2026 21:18:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 23:56:29 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Space investment more than doubled to $23bln in year to June, report says</title>
@@ -162,21 +162,6 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Saudi Aramco plans reorganisation to create gas division, sources say</title>
-      <link>https://www.zawya.com/en/capital-markets/energy/saudi-aramco-plans-reorganisation-to-create-gas-division-sources-say-1128888</link>
-      <guid isPermaLink="false">7b8a4195607cbfc4bb444271</guid>
-      <pubDate>Tue, 22 Sep 2026 18:32:00 +0000</pubDate>
-      <description>LONDON: Saudi oil giant Aramco plans to reorganise its business to create a new gas division with an eye on possible listings of business units in the future to raise cash, two sources with knowledge ...</description>
-      <wire:foundAt>zawya_discovery</wire:foundAt>
-      <wire:platform>ZAWYA</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.zawya.com/en/capital-markets/energy/saudi-aramco-plans-reorganisation-to-create-gas-division-sources-say-1128888</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
       <title>BlackRock to divert up to $100bln toward GCC’s infrastructure, wealth fund opportunities</title>
       <link>https://www.zawya.com/en/business/blackrock-to-divert-up-to-100bln-toward-gccs-infrastructure-wealth-fund-opportunities-1129372</link>
       <guid isPermaLink="false">792511f708953a38507ae710</guid>
@@ -189,6 +174,21 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.zawya.com/en/business/blackrock-to-divert-up-to-100bln-toward-gccs-infrastructure-wealth-fund-opportunities-1129372</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Saudi Aramco plans reorganisation to create gas division, sources say</title>
+      <link>https://www.zawya.com/en/capital-markets/energy/saudi-aramco-plans-reorganisation-to-create-gas-division-sources-say-1128888</link>
+      <guid isPermaLink="false">7b8a4195607cbfc4bb444271</guid>
+      <pubDate>Tue, 22 Sep 2026 18:32:00 +0000</pubDate>
+      <description>LONDON: Saudi oil giant Aramco plans to reorganise its business to create a new gas division with an eye on possible listings of business units in the future to raise cash, two sources with knowledge ...</description>
+      <wire:foundAt>zawya_discovery</wire:foundAt>
+      <wire:platform>ZAWYA</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.zawya.com/en/capital-markets/energy/saudi-aramco-plans-reorganisation-to-create-gas-division-sources-say-1128888</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
