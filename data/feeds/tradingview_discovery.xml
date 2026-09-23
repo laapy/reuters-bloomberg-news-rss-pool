@@ -5,32 +5,8 @@
     <link>https://www.bing.com/news/search?q=site%3Atradingview.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 23 Sep 2026 17:52:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 21:18:40 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>Indikator dan strategi</title>
-      <link>https://id.tradingview.com/scripts/</link>
-      <guid isPermaLink="false">939e4b8f9bcda74b51480925</guid>
-      <pubDate>Tue, 22 Sep 2026 06:18:00 +0000</pubDate>
-      <description>SSL Channel Pro [TradingFinder] Semaphore Signal Level Indicator 🔵 Introduction Trend identification is one of the most common challenges in technical analysis. Many traders use moving average ...</description>
-      <content:encoded>&lt;p&gt;SSL Channel Pro [TradingFinder] Semaphore Signal Level Indicator 🔵 Introduction&lt;/p&gt;&lt;p&gt;Trend identification is one of the most common challenges in technical analysis. Many traders use moving average channels and SSL-based systems to understand market direction, but a simple trend flip does not always represent a meaningful market transition. Price can cross a channel during consolidation, low-momentum conditions, or temporary volatility without creating a sustainable move.&lt;/p&gt;&lt;p&gt;This indicator builds on the classic SSL Channel concept by combining trend direction with additional market context. Instead of treating every SSL transition as a trading opportunity, it evaluates momentum, trend strength, volatility conditions, and market participation to identify stronger trend changes. The result is a cleaner approach to reading bullish and bearish transitions while reducing attention on weaker market movements.&lt;/p&gt;&lt;p&gt;The core system uses High and Low based moving average calculations to define the active SSL state, then adds confirmation layers using tools such as RSI, ADX/DMI, ATR-based channel analysis, and optional Higher Timeframe confirmation. These components work together to provide a broader view of whether the current environment supports a potential trend continuation or a meaningful reversal.&lt;/p&gt;&lt;p&gt;A dynamic scoring model from 0 to 100 provides additional context for confirmed signals. This score is not a prediction of market outcome or a win-rate measurement; it represents the internal alignment between different market factors at the moment a signal appears. The A+ to D grading system helps traders quickly understand the relative quality of each setup and decide which signals match their own trading approach.&lt;/p&gt;&lt;p&gt;🔵 How to Use&lt;/p&gt;&lt;p&gt;The indicator is built around a simple workflow: first identify the current SSL trend state, then evaluate the quality of the market conditions before considering a signal. The SSL channel acts as the directional framework, showing whether the current market environment is dominated by buyers or sellers. Additional confirmation layers help separate meaningful trend transitions from temporary price movements that occur during weak or unstable conditions.&lt;/p&gt;&lt;p&gt;The most important concept is the difference between an SSL trend flip and a confirmed signal. A trend flip only shows that the market direction has changed according to the SSL calculation. A confirmed BUY or SELL signal requires additional agreement between momentum, trend strength, volatility conditions, and optional Higher Timeframe context. This allows traders to use the indicator either as a clean trend-following tool or as a confirmation layer alongside their own trading strategy.&lt;/p&gt;&lt;p&gt;🟣 Bullish Trend &amp;amp; BUY Signals&lt;/p&gt;&lt;p&gt;A bullish condition begins when the closing price moves above the upper SSL boundary, which is calculated from the High-based moving average. After this transition, the SSL state changes to bullish and the active SSL line moves to the lower channel boundary. The bullish state represents an environment where buyers have gained control of the current trend structure.&lt;/p&gt;&lt;p&gt;While the bullish SSL state remains active, traders can use the channel as a visual guide for identifying trend continuation opportunities, pullbacks, and potential long setups. The bullish color transition provides an immediate overview of market direction, but it should not be interpreted as an automatic entry signal. The indicator intentionally separates trend direction from signal generation because many market transitions happen during consolidation or low-quality conditions.&lt;/p&gt;&lt;p&gt;A confirmed BUY signal appears only when the bullish SSL transition is supported by additional market factors. The system evaluates momentum through RSI, trend strength through ADX and DMI, and market activity through the relationship between channel width and ATR. If the market does not have enough strength, expansion, or directional agreement, the SSL may turn bullish without producing a BUY label.&lt;/p&gt;&lt;p&gt;Each confirmed BUY signal receives a Quality Score between 0 and 100. This score measures how strongly different internal factors are aligned at the moment of the signal, including transition quality, momentum strength, trend quality, market regime, participation, and contextual confirmation. The score is not a prediction of future performance and does not represent a probability of winning a trade. Instead, it helps traders compare different setups and understand the relative quality of each signal.&lt;/p&gt;&lt;p&gt;The signal grade system converts this score into simple categories from A+ to D. Higher grades indicate stronger alignment between the measured factors, while lower grades indicate weaker conditions. Traders can use these grades according to their own approach, for example focusing on higher-grade signals when they prefer stricter filtering or considering lower-grade signals when they prefer earlier market participation.&lt;/p&gt;&lt;p&gt;When Higher Timeframe Confirmation is enabled, a BUY signal also requires the SSL direction on the selected higher timeframe to support the bullish direction. This allows traders to combine lower timeframe entries with broader market context and avoid signals that move against the larger trend environment.&lt;/p&gt;&lt;p&gt;🟣 Bearish Trend &amp;amp; SELL Signals&lt;/p&gt;&lt;p&gt;A bearish condition begins when the closing price moves below the lower SSL boundary, which is calculated from the Low-based moving average. After this transition, the SSL state changes to bearish and the active SSL line moves to the upper channel boundary. This indicates that selling pressure has become dominant according to the SSL trend calculation.&lt;/p&gt;&lt;p&gt;During a bearish SSL state, traders can use the indicator to analyze downward trends, bearish pullbacks, and potential continuation scenarios. The bearish channel visualization provides a clear view of the current market direction, but a simple color change is not considered a complete trading signal. The system requires additional confirmation to avoid reacting to weak moves, short-term volatility, or false trend transitions.&lt;/p&gt;&lt;p&gt;A confirmed SELL signal is generated when the bearish SSL transition is supported by stronger market evidence. The indicator evaluates whether bearish momentum is present through RSI, whether sellers have sufficient directional strength through ADX and DMI, and whether the current market environment has enough volatility and expansion through ATR-based channel analysis.&lt;/p&gt;&lt;p&gt;Similar to BUY signals, every confirmed SELL setup receives a Quality Score from 0 to 100. The score combines multiple internal measurements to show the level of agreement between trend transition, momentum, trend strength, market regime, participation, and optional context confirmation. A high score means that more factors are aligned according to the indicator model, but it should never be interpreted as a guaranteed outcome or a standalone trading decision.&lt;/p&gt;&lt;p&gt;The A+ to D grading system provides a faster way to interpret the signal quality. Stronger grades represent greater internal alignment, while lower grades indicate that fewer conditions are supporting the move. Traders can combine this information with their own analysis, risk management rules, and market structure evaluation.&lt;/p&gt;&lt;p&gt;With Higher Timeframe Confirmation enabled, SELL signals are filtered by the broader trend direction. A short signal is only confirmed when the higher timeframe SSL state also supports bearish conditions, helping traders analyze opportunities with additional market context.&lt;/p&gt;&lt;p&gt;🔵 Settings&lt;/p&gt;&lt;p&gt;MA Type : Defines the moving average method used to calculate the SSL channel.&lt;/p&gt;&lt;p&gt;SMA : Smoother and slower response.
-EMA : Faster response to recent price changes; recommended default.
-WMA : Gives more weight to recent prices.
-HMA : Fast and smooth, more sensitive to trend changes.
-RMA : Smoother behavior with less short-term noise.
-VWMA : Uses volume-weighted calculations when volume data is available.&lt;/p&gt;&lt;p&gt;SSL Length : Controls the sensitivity of the SSL channel. Lower values create faster reactions with more trend changes, while higher values create a smoother channel with fewer signals.&lt;/p&gt;&lt;p&gt;Signal Quality : defines the strictness of the signal confirmation engine. It adjusts the internal requirements for trend strength, channel conditions, and minimum signal score.&lt;/p&gt;&lt;p&gt;Responsive is designed for users who prefer earlier reactions and more frequent signals. It allows more trend transitions to qualify, but may include more market noise.
-Balanced provides a balance between signal frequency and confirmation strength. This is the recommended default setting for most users.
-Selective focuses on stronger market conditions and higher-quality setups. It requires stricter confirmation, resulting in fewer but more filtered signals.&lt;/p&gt;&lt;p&gt;Show Signals : controls the visibility of confirmed BUY and SELL markers on the chart. When enabled, each signal displays its direction, quality grade, and score value. When disabled, the chart remains cleaner while the internal signal logic and alerts continue to work normally.&lt;/p&gt;&lt;p&gt;Enable HTF Confirmation : adds Higher Timeframe confirmation to the signal process. When enabled, BUY signals require the higher timeframe SSL direction to be bullish, while SELL signals require bearish alignment. This can help filter signals against the broader trend but may reduce the number of available signals.&lt;/p&gt;&lt;p&gt;Higher Timeframe : defines the timeframe used for confirmation. The selected timeframe must always be higher than the current chart timeframe. For example, a 5-minute chart can use 15-minute, 30-minute, or 1-hour confirmation, while a 1-hour chart can use 4-hour or daily confirmation. Equal or lower timeframes will not provide valid higher timeframe confirmation.&lt;/p&gt;&lt;p&gt;🔵 Conclusion&lt;/p&gt;&lt;p&gt;SSL Channel Pro combines the simplicity of the classic SSL Channel concept with additional layers of market analysis to provide a clearer view of trend direction and transition quality. By combining SSL structure, momentum evaluation, trend strength analysis, volatility conditions, participation, and optional Higher Timeframe confirmation, the indicator helps traders distinguish between simple market movement and more meaningful trend changes.&lt;/p&gt;&lt;p&gt;The indicator is designed to support structured decision-making rather than replace a complete trading methodology. The Quality Score and Grade system provide additional context for evaluating signal conditions, while traders should continue to apply their own market analysis, risk management, and trading rules. Used correctly, SSL Channel Pro can serve as a flexible trend analysis tool, confirmation layer, or signal filter across different markets and timeframes.&lt;/p&gt;&lt;p&gt;Indikator&lt;/p&gt;&lt;p&gt;oleh TradingFinder&lt;/p&gt;&lt;p&gt;3 3 4 7 7&lt;/p&gt;</content:encoded>
-      <wire:foundAt>tradingview_discovery</wire:foundAt>
-      <wire:platform>TradingView News</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://id.tradingview.com/scripts/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
     <item>
       <title>Tui AG - Johan Lundgren To Take Over As Chair Of Supervisory Board In February 2027</title>
       <link>https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4590WI:0-tui-ag-johan-lundgren-to-take-over-as-chair-of-supervisory-board-in-february-2027/</link>
@@ -49,26 +25,6 @@ Keep reading&lt;/p&gt;</content:encoded>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4590WI:0-tui-ag-johan-lundgren-to-take-over-as-chair-of-supervisory-board-in-february-2027/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Lindab Group Acquires Italian Smoke Control Company</title>
-      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_TUC4FSWHZ:0-lindab-group-acquires-italian-smoke-control-company/</link>
-      <guid isPermaLink="false">216ba2cfa95be931ef3b1109</guid>
-      <pubDate>Fri, 18 Sep 2026 06:02:57 +0000</pubDate>
-      <description>Get unlimited access to articles from Reuters and every other news source on TradingView.</description>
-      <content:encoded>&lt;p&gt;News
-/ Reuters
-/ Lindab Group Acquires Italian Smoke Control Company&lt;/p&gt;&lt;p&gt;Lindab Group Acquires Italian Smoke Control Company&lt;/p&gt;&lt;p&gt;Read the full article Get unlimited access to articles from Reuters and every other news source on TradingView.
-Keep reading&lt;/p&gt;</content:encoded>
-      <wire:foundAt>tradingview_discovery</wire:foundAt>
-      <wire:platform>TradingView News</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_TUC4FSWHZ:0-lindab-group-acquires-italian-smoke-control-company/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -97,14 +53,14 @@ Latest news&lt;/p&gt;&lt;p&gt;More news from TradingView&lt;/p&gt;</content:enco
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Wall Street set to open higher ahead of much-anticipated Fed decision</title>
-      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4580PQ:0-wall-street-set-to-open-higher-ahead-of-much-anticipated-fed-decision/</link>
-      <guid isPermaLink="false">837cb86b96982b4c77535f81</guid>
-      <pubDate>Wed, 16 Sep 2026 12:38:26 +0000</pubDate>
+      <title>Gold gains over 1% as oil, yields slip ahead of Fed rate decision</title>
+      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4580L5:0-gold-gains-over-1-as-oil-yields-slip-ahead-of-fed-rate-decision/</link>
+      <guid isPermaLink="false">c98dd094c1b6d8e4f3b7dca4</guid>
+      <pubDate>Wed, 16 Sep 2026 16:03:39 +0000</pubDate>
       <description>Get unlimited access to articles from Reuters and every other news source on TradingView.</description>
       <content:encoded>&lt;p&gt;News
 / Reuters
-/ Wall Street set to open higher ahead of much-anticipated Fed decision&lt;/p&gt;&lt;p&gt;Wall Street set to open higher ahead of much-anticipated Fed decision&lt;/p&gt;&lt;p&gt;Read the full article Get unlimited access to articles from Reuters and every other news source on TradingView.
+/ Gold gains over 1% as oil, yields slip ahead of Fed rate decision&lt;/p&gt;&lt;p&gt;Gold gains over 1% as oil, yields slip ahead of Fed rate decision&lt;/p&gt;&lt;p&gt;Read the full article Get unlimited access to articles from Reuters and every other news source on TradingView.
 Keep reading&lt;/p&gt;</content:encoded>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
@@ -113,14 +69,14 @@ Keep reading&lt;/p&gt;</content:encoded>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4580PQ:0-wall-street-set-to-open-higher-ahead-of-much-anticipated-fed-decision/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4580L5:0-gold-gains-over-1-as-oil-yields-slip-ahead-of-fed-rate-decision/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Gold rises on easing oil as Fed rate verdict looms</title>
-      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4580CE:0-gold-rises-on-easing-oil-as-fed-rate-verdict-looms/</link>
-      <guid isPermaLink="false">f3fa63fad424e0147f8ecfdd</guid>
-      <pubDate>Tue, 15 Sep 2026 22:38:00 +0000</pubDate>
+      <title>Gold rises on easing dollar, oil as Fed rate verdict looms</title>
+      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45806C:0-gold-rises-on-easing-dollar-oil-as-fed-rate-verdict-looms/</link>
+      <guid isPermaLink="false">8871b76e4cc347b807cd8d55</guid>
+      <pubDate>Tue, 15 Sep 2026 19:11:00 +0000</pubDate>
       <description>Get unlimited access to articles from Reuters and every other news source on TradingView.</description>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
@@ -128,7 +84,37 @@ Keep reading&lt;/p&gt;</content:encoded>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4580CE:0-gold-rises-on-easing-oil-as-fed-rate-verdict-looms/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45806C:0-gold-rises-on-easing-dollar-oil-as-fed-rate-verdict-looms/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Gold gains with Fed rate decision in spotlight</title>
+      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4580E5:0-gold-gains-with-fed-rate-decision-in-spotlight/</link>
+      <guid isPermaLink="false">1cbc12601873ff4958c29090</guid>
+      <pubDate>Tue, 15 Sep 2026 17:11:00 +0000</pubDate>
+      <description>Get unlimited access to articles from Reuters and every other news source on TradingView.</description>
+      <wire:foundAt>tradingview_discovery</wire:foundAt>
+      <wire:platform>TradingView News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4580E5:0-gold-gains-with-fed-rate-decision-in-spotlight/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Gold muted as investors brace for Fed rate decision</title>
+      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45800U:0-gold-muted-as-investors-brace-for-fed-rate-decision/</link>
+      <guid isPermaLink="false">9c4f76856ca33dba04c20639</guid>
+      <pubDate>Tue, 15 Sep 2026 17:00:00 +0000</pubDate>
+      <description>Get unlimited access to articles from Reuters and every other news source on TradingView.</description>
+      <wire:foundAt>tradingview_discovery</wire:foundAt>
+      <wire:platform>TradingView News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45800U:0-gold-muted-as-investors-brace-for-fed-rate-decision/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -147,25 +133,30 @@ Keep reading&lt;/p&gt;</content:encoded>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Chevron Expands LNG Ambitions as Global Energy Security Returns to Center Stage</title>
-      <link>https://www.tradingview.com/news/gurufocus:3c48d9ba9094b:0-chevron-expands-lng-ambitions-as-global-energy-security-returns-to-center-stage/</link>
-      <guid isPermaLink="false">6ac6ef587536be761f19ad85</guid>
-      <pubDate>Mon, 14 Sep 2026 07:07:00 +0000</pubDate>
-      <description>Chevron's global gas ambitions moved further into focus Monday as supply shocks put energy security back on investors' radar. Chevron CVX, the global integrated oil and gas producer, traded at ...</description>
+      <title>Bitcoin's late summer rally set to face off against the Fed, Congress</title>
+      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4520VD:0-bitcoin-s-late-summer-rally-set-to-face-off-against-the-fed-congress/</link>
+      <guid isPermaLink="false">fbd385621604063cb7e03eea</guid>
+      <pubDate>Mon, 14 Sep 2026 10:00:00 +0000</pubDate>
+      <description>Get unlimited access to articles from Reuters and every other news source on TradingView.</description>
+      <content:encoded>&lt;p&gt;News
+/ Reuters
+/ Bitcoin&amp;#x27;s late summer rally set to face off against the Fed, Congress&lt;/p&gt;&lt;p&gt;Bitcoin&amp;#x27;s late summer rally set to face off against the Fed, Congress&lt;/p&gt;&lt;p&gt;Read the full article Get unlimited access to articles from Reuters and every other news source on TradingView.
+Keep reading&lt;/p&gt;</content:encoded>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/gurufocus:3c48d9ba9094b:0-chevron-expands-lng-ambitions-as-global-energy-security-returns-to-center-stage/</wire:canonicalUrl>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4520VD:0-bitcoin-s-late-summer-rally-set-to-face-off-against-the-fed-congress/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Nvidia Says Perplexity Local Agent Platform Now Available On Windows RTX PCs</title>
-      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4560HH:0-nvidia-says-perplexity-local-agent-platform-now-available-on-windows-rtx-pcs/</link>
-      <guid isPermaLink="false">3aec1233a44c4f67504a8560</guid>
-      <pubDate>Mon, 14 Sep 2026 01:44:00 +0000</pubDate>
+      <title>AI debt splurge is warping credit spreads: Marty Fridson</title>
+      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N44P12W:0-ai-debt-splurge-is-warping-credit-spreads-marty-fridson/</link>
+      <guid isPermaLink="false">a6f335f33759b8845e2b1c00</guid>
+      <pubDate>Wed, 09 Sep 2026 22:00:00 +0000</pubDate>
       <description>Get unlimited access to articles from Reuters and every other news source on TradingView.</description>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
@@ -173,14 +164,14 @@ Keep reading&lt;/p&gt;</content:encoded>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4560HH:0-nvidia-says-perplexity-local-agent-platform-now-available-on-windows-rtx-pcs/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N44P12W:0-ai-debt-splurge-is-warping-credit-spreads-marty-fridson/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>House Democrat urges US action over sleeping Tesla drivers</title>
-      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4520QR:0-house-democrat-urges-us-action-over-sleeping-tesla-drivers/</link>
-      <guid isPermaLink="false">f3a0e403a7cbe68171dbb621</guid>
-      <pubDate>Thu, 10 Sep 2026 02:44:00 +0000</pubDate>
+      <title>Broadcom Remaining Performance Obligations Under Semiconductor Solutions &amp; Infrastructure Software Segment Contracts As Of Aug 2, About $179.2 Billion</title>
+      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4511DN:0-broadcom-remaining-performance-obligations-under-semiconductor-solutions-infrastructure-software-segment-contracts-as-of-aug-2-about-179-2-billion/</link>
+      <guid isPermaLink="false">207e238bbf4d03056051ef53</guid>
+      <pubDate>Wed, 09 Sep 2026 21:31:00 +0000</pubDate>
       <description>Get unlimited access to articles from Reuters and every other news source on TradingView.</description>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
@@ -188,23 +179,29 @@ Keep reading&lt;/p&gt;</content:encoded>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4520QR:0-house-democrat-urges-us-action-over-sleeping-tesla-drivers/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4511DN:0-broadcom-remaining-performance-obligations-under-semiconductor-solutions-infrastructure-software-segment-contracts-as-of-aug-2-about-179-2-billion/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Brent oil may retest resistance at $108.17</title>
-      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N41Q00N:0-brent-oil-may-retest-resistance-at-108-17/</link>
-      <guid isPermaLink="false">5f7e03b2a4ef6e295d0d9223</guid>
-      <pubDate>Tue, 12 May 2026 19:00:00 +0000</pubDate>
-      <description>Brent oil ICEEUR:BRN1! may retest a resistance at $108.17 per barrel, a break above which could lead to a gain into $109.92-$111.67 range.The contract is riding on a wave c, which has briefly ...</description>
+      <title>PL1! trade ideas</title>
+      <link>https://www.tradingview.com/symbols/NYMEX-PL1!/ideas/</link>
+      <guid isPermaLink="false">5944836160030d300b9f851d</guid>
+      <pubDate>Wed, 08 Sep 2010 17:00:00 +0000</pubDate>
+      <description>Source: Bloomberg This created localised tightness and premiums, spiking lease rates to levels not seen in years. Even after easing from July’s extreme of over 35%, the implied one-month rate is ...</description>
+      <content:encoded>&lt;p&gt;Platinum Futures.PL1! **Platinum Futures** continues to present a constructive technical outlook, with the broader market structure favoring the upside. No specific entry level has been identified in this setup; instead, the focus is on the lower timeframe, where early signs of renewed buyer participation are beginning to appear. If this momentum develops into a confirmed bullish structure, the current phase could provide an opportunity to participate in the continuation of the broader trend.&lt;/p&gt;&lt;p&gt;**Key technical observations:**&lt;/p&gt;&lt;p&gt;• The lower timeframe is already showing signs of increasing buyer participation and improving demand.
+• The development of **Higher Highs (HH)** and **Higher Lows (HL)** would provide stronger confirmation of bullish market structure.
+• A constructive shift in the moving averages would further support the transition toward sustained upside momentum.
+• The absence of a predefined entry level makes confirmation of buyer control particularly important before considering participation in the next potential rally.&lt;/p&gt;&lt;p&gt;Technical analysis provides a useful framework for identifying momentum and market structure, while the broader outlook for platinum should also be considered through supply-demand dynamics, industrial demand, investment flows, and macroeconomic conditions. Combining these factors with valuation and risk assessment can provide a more complete investment perspective.&lt;/p&gt;&lt;p&gt;Precious metals can experience substantial volatility even within established bullish trends. Maintaining patience, waiting for objective confirmation from market structure, and applying disciplined risk management can help investors participate in a developing move without reacting prematurely to short-term fluctuations.&lt;/p&gt;&lt;p&gt;This publication reflects a personal interpretation of market structure and publicly available information. It is intended solely for educational and informational purposes and should not be considered financial advice or a recommendation to buy, sell, or hold any financial instrument. Independent research, prudent risk management, and personal due diligence should always precede any investment decision.&lt;/p&gt;&lt;p&gt;Long&lt;/p&gt;&lt;p&gt;by Mehran90NS&lt;/p&gt;&lt;p&gt;0&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N41Q00N:0-brent-oil-may-retest-resistance-at-108-17/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.tradingview.com/symbols/NYMEX-PL1!/ideas/</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: Source: Bloomberg</wire:evidence>
     </item>
   </channel>
 </rss>
