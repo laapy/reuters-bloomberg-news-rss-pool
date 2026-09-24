@@ -5,27 +5,12 @@
     <link>https://www.bing.com/news/search?q=site%3Amarketscreener.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 24 Sep 2026 14:21:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 18:39:21 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>News S&amp;P 500</title>
-      <link>https://www.marketscreener.com/quote/index/S-P-500-4985/news/</link>
-      <guid isPermaLink="false">b38ccd3071b15aa31c4279a1</guid>
-      <pubDate>Thu, 24 Sep 2026 07:11:00 +0000</pubDate>
-      <description>09:33am Wall St opens lower as oil gains on Mideast uncertainty, eyes on Trump-Xi talks RE 09:20am Wall St set for lower open as oil gains on Mideast uncertainty, eyes on Trump-Xi talks RE 09:18am ...</description>
-      <wire:foundAt>marketscreener_discovery</wire:foundAt>
-      <wire:platform>MarketScreener</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/quote/index/S-P-500-4985/news/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Politico, MS NOW denied access to White House after judge's order</title>
+      <title>Politico, MS NOW, CNN denied access to White House despite judge's order</title>
       <link>https://www.marketscreener.com/news/politico-ms-now-denied-access-to-white-house-after-judge-s-order-ce785adede8af42c</link>
-      <guid isPermaLink="false">01e2b0c4d209afd25e86a542</guid>
+      <guid isPermaLink="false">942ec85a1ed7e1c7ff4611a1</guid>
       <pubDate>Thu, 24 Sep 2026 05:35:00 +0000</pubDate>
       <description>WASHINGTON, Sept 24 (Reuters) - Politico and MS NOW reporters were barred from the White House on Thursday despite a judge's order calling for access to be restored immediately for journalists from ...</description>
       <wire:foundAt>marketscreener_discovery</wire:foundAt>
@@ -35,6 +20,21 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.marketscreener.com/news/politico-ms-now-denied-access-to-white-house-after-judge-s-order-ce785adede8af42c</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Crude Oil (BRENT) Stock</title>
+      <link>https://www.marketscreener.com/quote/commodity/BRENT-CRUDE-OIL-SPOT-4948/</link>
+      <guid isPermaLink="false">d7d57603d780e2ad21127f73</guid>
+      <pubDate>Tue, 22 Sep 2026 05:50:00 +0000</pubDate>
+      <description>Real-time Estimate TTMZero 02:28:42 2026-09-24 pm EDT 5-day change 1st Jan Change ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/quote/commodity/BRENT-CRUDE-OIL-SPOT-4948/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -128,33 +128,18 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Apple Inc. Stock</title>
-      <link>https://www.marketscreener.com/quote/stock/APPLE-INC-4849/</link>
-      <guid isPermaLink="false">627e5a000cd0e0c442fa1b2d</guid>
-      <pubDate>Sun, 30 Aug 2026 17:00:00 +0000</pubDate>
-      <description>10:11am Qualcomm, Apple Renew Global Patent License Agreement -- Update DJ ...</description>
+      <title>Orange Stock</title>
+      <link>https://www.marketscreener.com/quote/stock/ORANGE-4649/</link>
+      <guid isPermaLink="false">47aed65a64a4c530c69bda0e</guid>
+      <pubDate>Sat, 02 Apr 2022 17:00:00 +0000</pubDate>
+      <description>Sep. 23 AMS and Valeo lifted by brokers, Muse keeps the pressure on Orange ...</description>
       <wire:foundAt>marketscreener_discovery</wire:foundAt>
       <wire:platform>MarketScreener</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/APPLE-INC-4849/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Bitcoin (BTC/USD) Stock</title>
-      <link>https://www.marketscreener.com/quote/cryptocurrency/BITCOIN-BTC-USD-45553945/</link>
-      <guid isPermaLink="false">52ce4a71dc12fb029dc86603</guid>
-      <pubDate>Mon, 25 Sep 2023 17:00:00 +0000</pubDate>
-      <description>09:33am MarketScreener's Odds and Ends: all your eggs in one basket ...</description>
-      <wire:foundAt>marketscreener_discovery</wire:foundAt>
-      <wire:platform>MarketScreener</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/quote/cryptocurrency/BITCOIN-BTC-USD-45553945/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/ORANGE-4649/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -185,6 +170,21 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/TOTALENERGIES-SE-4717/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Hermès International Stock</title>
+      <link>https://www.marketscreener.com/quote/stock/HERMES-INTERNATIONAL-4657/</link>
+      <guid isPermaLink="false">9e9538793ab9ddca20abe516</guid>
+      <pubDate>Mon, 03 Jun 2013 17:00:00 +0000</pubDate>
+      <description>Chart: Hermès International 5 minutes 15 minutes 30 minutes Hour Day Week Month Candlestick Close OHLC Mountain Euronext ParisEUR Markets Quality Euronext Paris RMS Real-time CBOE RMSp Real-time ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/HERMES-INTERNATIONAL-4657/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>

@@ -1,11 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Investing.com — diagnostic source feed</title>
     <link>https://www.investing.com/rss/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 24 Sep 2026 14:21:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 18:39:21 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>White House asks OpenAI, Anthropic to hold models from British testers, Politico reports</title>
+      <link>https://www.investing.com/news/economy-news/white-house-asks-openai-anthropic-to-hold-models-from-british-testers-politico-reports-4915985</link>
+      <guid isPermaLink="false">c766cf663a8d7c80a02d8f4b</guid>
+      <pubDate>Thu, 24 Sep 2026 18:12:25 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/economy-news/white-house-asks-openai-anthropic-to-hold-models-from-british-testers-politico-reports-4915985</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>US energy secretary seeks refiners’ help amid narrow options to curb diesel price</title>
+      <link>https://www.investing.com/news/stock-market-news/us-energy-secretary-seeks-refiners-help-amid-narrow-options-to-curb-diesel-price-4915993</link>
+      <guid isPermaLink="false">67de0c6bcebbaa07663e25f6</guid>
+      <pubDate>Thu, 24 Sep 2026 18:06:48 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/us-energy-secretary-seeks-refiners-help-amid-narrow-options-to-curb-diesel-price-4915993</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>Fed officials see rates likely rising to curb high inflation</title>
+      <link>https://www.investing.com/news/economy-news/feds-paulson-says-more-rate-hikes-may-be-needed-to-quash-inflation-4915669</link>
+      <guid isPermaLink="false">7627424e84af1d850ae0c6ed</guid>
+      <pubDate>Thu, 24 Sep 2026 18:00:56 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/economy-news/feds-paulson-says-more-rate-hikes-may-be-needed-to-quash-inflation-4915669</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>
