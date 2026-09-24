@@ -1,33 +1,33 @@
 {
   "summary": {
-    "generated_at": "2026-09-24T09:09:08Z",
+    "generated_at": "2026-09-24T14:21:44Z",
     "sources_total": 41,
-    "sources_ok": 41,
-    "sources_error": 0,
-    "items_total": 878,
-    "items_deduplicated": 834,
+    "sources_ok": 36,
+    "sources_error": 5,
+    "items_total": 827,
+    "items_deduplicated": 771,
     "publishers": {
-      "Reuters": 347,
-      "Bloomberg": 318
+      "Reuters": 349,
+      "Bloomberg": 316
     },
     "relations": {
-      "original": 245,
-      "repost": 212,
-      "mention": 8,
-      "unknown": 413
+      "original": 247,
+      "repost": 210,
+      "mention": 10,
+      "unknown": 360
     },
     "content_levels": {
-      "full": 294,
-      "summary": 584,
-      "link_only": 0
+      "full": 285,
+      "summary": 541,
+      "link_only": 1
     },
     "primary_feeds": {
-      "deduplicated.xml": 834,
-      "reuters.xml": 212,
-      "bloomberg.xml": 206,
-      "fulltext.xml": 242
+      "deduplicated.xml": 771,
+      "reuters.xml": 198,
+      "bloomberg.xml": 205,
+      "fulltext.xml": 227
     },
-    "elapsed_seconds": 222.683
+    "elapsed_seconds": 151.088
   },
   "sources": [
     {
@@ -38,8 +38,8 @@
       "status": "ok",
       "fetched": 100,
       "accepted": 100,
-      "elapsed_seconds": 3.409,
-      "checked_at": "2026-09-24T09:05:25Z",
+      "elapsed_seconds": 1.54,
+      "checked_at": "2026-09-24T14:19:13Z",
       "error": "",
       "final_url": "https://www.reuters.com/arc/outboundfeeds/msn/?outputType=xml",
       "content_type": "application/xml; charset=utf-8",
@@ -50,8 +50,8 @@
         "unknown": 0
       },
       "content_level_counts": {
-        "full": 98,
-        "summary": 2,
+        "full": 99,
+        "summary": 1,
         "link_only": 0
       }
     },
@@ -63,8 +63,8 @@
       "status": "ok",
       "fetched": 20,
       "accepted": 20,
-      "elapsed_seconds": 0.473,
-      "checked_at": "2026-09-24T09:05:25Z",
+      "elapsed_seconds": 0.661,
+      "checked_at": "2026-09-24T14:19:13Z",
       "error": "",
       "final_url": "https://www.bloomberg.com/feeds/business/news.rss",
       "content_type": "text/xml; charset=utf-8",
@@ -88,8 +88,8 @@
       "status": "ok",
       "fetched": 20,
       "accepted": 20,
-      "elapsed_seconds": 0.504,
-      "checked_at": "2026-09-24T09:05:25Z",
+      "elapsed_seconds": 0.762,
+      "checked_at": "2026-09-24T14:19:13Z",
       "error": "",
       "final_url": "https://www.bloomberg.com/feeds/markets/news.rss",
       "content_type": "text/xml; charset=utf-8",
@@ -113,8 +113,8 @@
       "status": "ok",
       "fetched": 20,
       "accepted": 20,
-      "elapsed_seconds": 0.37,
-      "checked_at": "2026-09-24T09:05:25Z",
+      "elapsed_seconds": 0.88,
+      "checked_at": "2026-09-24T14:19:13Z",
       "error": "",
       "final_url": "https://www.bloomberg.com/feeds/economics/news.rss",
       "content_type": "text/xml; charset=utf-8",
@@ -138,8 +138,8 @@
       "status": "ok",
       "fetched": 20,
       "accepted": 20,
-      "elapsed_seconds": 0.34,
-      "checked_at": "2026-09-24T09:05:25Z",
+      "elapsed_seconds": 0.731,
+      "checked_at": "2026-09-24T14:19:13Z",
       "error": "",
       "final_url": "https://www.bloomberg.com/feeds/industries/news.rss",
       "content_type": "text/xml; charset=utf-8",
@@ -163,8 +163,8 @@
       "status": "ok",
       "fetched": 20,
       "accepted": 20,
-      "elapsed_seconds": 0.343,
-      "checked_at": "2026-09-24T09:05:25Z",
+      "elapsed_seconds": 1.283,
+      "checked_at": "2026-09-24T14:19:13Z",
       "error": "",
       "final_url": "https://www.bloomberg.com/feeds/technology/news.rss",
       "content_type": "text/xml; charset=utf-8",
@@ -188,8 +188,8 @@
       "status": "ok",
       "fetched": 20,
       "accepted": 20,
-      "elapsed_seconds": 0.395,
-      "checked_at": "2026-09-24T09:05:25Z",
+      "elapsed_seconds": 0.741,
+      "checked_at": "2026-09-24T14:19:13Z",
       "error": "",
       "final_url": "https://www.bloomberg.com/feeds/politics/news.rss",
       "content_type": "text/xml; charset=utf-8",
@@ -201,8 +201,8 @@
       },
       "content_level_counts": {
         "full": 0,
-        "summary": 20,
-        "link_only": 0
+        "summary": 19,
+        "link_only": 1
       }
     },
     {
@@ -213,8 +213,8 @@
       "status": "ok",
       "fetched": 0,
       "accepted": 0,
-      "elapsed_seconds": 0.453,
-      "checked_at": "2026-09-24T09:05:25Z",
+      "elapsed_seconds": 0.722,
+      "checked_at": "2026-09-24T14:19:13Z",
       "error": "",
       "final_url": "https://www.bloomberg.com/feeds/wealth/news.rss",
       "content_type": "text/xml; charset=utf-8",
@@ -236,22 +236,22 @@
       "kind": "rss",
       "url": "https://feeds.bloomberg.com/bview/news.rss",
       "status": "ok",
-      "fetched": 19,
-      "accepted": 19,
-      "elapsed_seconds": 0.334,
-      "checked_at": "2026-09-24T09:05:25Z",
+      "fetched": 20,
+      "accepted": 20,
+      "elapsed_seconds": 0.742,
+      "checked_at": "2026-09-24T14:19:13Z",
       "error": "",
       "final_url": "https://www.bloomberg.com/feeds/bview/news.rss",
       "content_type": "text/xml; charset=utf-8",
       "relation_counts": {
-        "original": 19,
+        "original": 20,
         "repost": 0,
         "mention": 0,
         "unknown": 0
       },
       "content_level_counts": {
         "full": 0,
-        "summary": 19,
+        "summary": 20,
         "link_only": 0
       }
     },
@@ -263,8 +263,8 @@
       "status": "ok",
       "fetched": 3,
       "accepted": 3,
-      "elapsed_seconds": 0.345,
-      "checked_at": "2026-09-24T09:05:25Z",
+      "elapsed_seconds": 0.745,
+      "checked_at": "2026-09-24T14:19:13Z",
       "error": "",
       "final_url": "https://www.bloomberg.com/feeds/crypto/news.rss",
       "content_type": "text/xml; charset=utf-8",
@@ -286,22 +286,22 @@
       "kind": "rss",
       "url": "https://feeds.bloomberg.com/businessweek/news.rss",
       "status": "ok",
-      "fetched": 3,
-      "accepted": 3,
-      "elapsed_seconds": 0.472,
-      "checked_at": "2026-09-24T09:05:25Z",
+      "fetched": 4,
+      "accepted": 4,
+      "elapsed_seconds": 2.268,
+      "checked_at": "2026-09-24T14:19:13Z",
       "error": "",
       "final_url": "https://www.bloomberg.com/feeds/businessweek/news.rss",
       "content_type": "text/xml; charset=utf-8",
       "relation_counts": {
-        "original": 3,
+        "original": 4,
         "repost": 0,
         "mention": 0,
         "unknown": 0
       },
       "content_level_counts": {
         "full": 0,
-        "summary": 3,
+        "summary": 4,
         "link_only": 0
       }
     },
@@ -313,8 +313,8 @@
       "status": "ok",
       "fetched": 50,
       "accepted": 50,
-      "elapsed_seconds": 2.87,
-      "checked_at": "2026-09-24T09:05:25Z",
+      "elapsed_seconds": 2.882,
+      "checked_at": "2026-09-24T14:19:13Z",
       "error": "",
       "relation_counts": {
         "original": 0,
@@ -323,8 +323,8 @@
         "unknown": 0
       },
       "content_level_counts": {
-        "full": 49,
-        "summary": 1,
+        "full": 48,
+        "summary": 2,
         "link_only": 0
       }
     },
@@ -336,8 +336,8 @@
       "status": "ok",
       "fetched": 50,
       "accepted": 50,
-      "elapsed_seconds": 2.456,
-      "checked_at": "2026-09-24T09:05:25Z",
+      "elapsed_seconds": 2.147,
+      "checked_at": "2026-09-24T14:19:14Z",
       "error": "",
       "relation_counts": {
         "original": 0,
@@ -346,8 +346,8 @@
         "unknown": 0
       },
       "content_level_counts": {
-        "full": 47,
-        "summary": 3,
+        "full": 46,
+        "summary": 4,
         "link_only": 0
       }
     },
@@ -359,8 +359,8 @@
       "status": "ok",
       "fetched": 40,
       "accepted": 40,
-      "elapsed_seconds": 2.907,
-      "checked_at": "2026-09-24T09:05:25Z",
+      "elapsed_seconds": 2.179,
+      "checked_at": "2026-09-24T14:19:14Z",
       "error": "",
       "relation_counts": {
         "original": 0,
@@ -380,21 +380,21 @@
       "kind": "rss_filter",
       "url": "https://finance.yahoo.com/news/rssindex",
       "status": "ok",
-      "fetched": 50,
-      "accepted": 0,
-      "elapsed_seconds": 0.138,
-      "checked_at": "2026-09-24T09:05:25Z",
+      "fetched": 49,
+      "accepted": 1,
+      "elapsed_seconds": 0.183,
+      "checked_at": "2026-09-24T14:19:14Z",
       "error": "",
       "final_url": "https://finance.yahoo.com/news/rssindex",
       "content_type": "application/xml",
       "relation_counts": {
         "original": 0,
         "repost": 0,
-        "mention": 0,
+        "mention": 1,
         "unknown": 0
       },
       "content_level_counts": {
-        "full": 0,
+        "full": 1,
         "summary": 0,
         "link_only": 0
       }
@@ -407,8 +407,8 @@
       "status": "ok",
       "fetched": 8,
       "accepted": 0,
-      "elapsed_seconds": 0.632,
-      "checked_at": "2026-09-24T09:05:25Z",
+      "elapsed_seconds": 0.643,
+      "checked_at": "2026-09-24T14:19:14Z",
       "error": "",
       "final_url": "https://news.yahoo.co.jp/rss/topics/business.xml",
       "content_type": "application/xml; charset=utf-8",
@@ -432,8 +432,8 @@
       "status": "ok",
       "fetched": 50,
       "accepted": 0,
-      "elapsed_seconds": 0.6,
-      "checked_at": "2026-09-24T09:05:25Z",
+      "elapsed_seconds": 0.726,
+      "checked_at": "2026-09-24T14:19:14Z",
       "error": "",
       "final_url": "https://tw.stock.yahoo.com/rss?category=news",
       "content_type": "text/xml; charset=utf-8",
@@ -456,20 +456,20 @@
       "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
       "status": "ok",
       "fetched": 20,
-      "accepted": 8,
-      "elapsed_seconds": 0.169,
-      "checked_at": "2026-09-24T09:05:25Z",
+      "accepted": 13,
+      "elapsed_seconds": 0.337,
+      "checked_at": "2026-09-24T14:19:14Z",
       "error": "",
       "final_url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
       "content_type": "application/rss+xml; charset=utf-8",
       "relation_counts": {
         "original": 0,
-        "repost": 8,
+        "repost": 13,
         "mention": 0,
         "unknown": 0
       },
       "content_level_counts": {
-        "full": 8,
+        "full": 13,
         "summary": 0,
         "link_only": 0
       }
@@ -481,20 +481,20 @@
       "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936",
       "status": "ok",
       "fetched": 20,
-      "accepted": 16,
-      "elapsed_seconds": 0.107,
-      "checked_at": "2026-09-24T09:05:25Z",
+      "accepted": 18,
+      "elapsed_seconds": 0.404,
+      "checked_at": "2026-09-24T14:19:14Z",
       "error": "",
       "final_url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936",
       "content_type": "application/rss+xml; charset=utf-8",
       "relation_counts": {
         "original": 0,
-        "repost": 16,
+        "repost": 18,
         "mention": 0,
         "unknown": 0
       },
       "content_level_counts": {
-        "full": 16,
+        "full": 18,
         "summary": 0,
         "link_only": 0
       }
@@ -507,15 +507,15 @@
       "status": "ok",
       "fetched": 20,
       "accepted": 3,
-      "elapsed_seconds": 0.099,
-      "checked_at": "2026-09-24T09:05:25Z",
+      "elapsed_seconds": 0.205,
+      "checked_at": "2026-09-24T14:19:14Z",
       "error": "",
       "final_url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6311",
       "content_type": "application/rss+xml; charset=utf-8",
       "relation_counts": {
         "original": 0,
-        "repost": 3,
-        "mention": 0,
+        "repost": 2,
+        "mention": 1,
         "unknown": 0
       },
       "content_level_counts": {
@@ -532,8 +532,8 @@
       "status": "ok",
       "fetched": 10,
       "accepted": 0,
-      "elapsed_seconds": 0.23,
-      "checked_at": "2026-09-24T09:05:25Z",
+      "elapsed_seconds": 0.133,
+      "checked_at": "2026-09-24T14:19:14Z",
       "error": "",
       "final_url": "https://www.investing.com/rss/news.rss",
       "content_type": "application/rss+xml",
@@ -557,8 +557,8 @@
       "status": "ok",
       "fetched": 36,
       "accepted": 1,
-      "elapsed_seconds": 0.554,
-      "checked_at": "2026-09-24T09:05:25Z",
+      "elapsed_seconds": 0.626,
+      "checked_at": "2026-09-24T14:19:14Z",
       "error": "",
       "final_url": "https://www.mining.com/feed/",
       "content_type": "application/rss+xml; charset=UTF-8",
@@ -581,20 +581,20 @@
       "url": "https://www.livemint.com/rss/news",
       "status": "ok",
       "fetched": 35,
-      "accepted": 3,
-      "elapsed_seconds": 0.101,
-      "checked_at": "2026-09-24T09:05:25Z",
+      "accepted": 2,
+      "elapsed_seconds": 0.174,
+      "checked_at": "2026-09-24T14:19:14Z",
       "error": "",
       "final_url": "https://www.livemint.com/rss/news",
       "content_type": "application/xml;charset=UTF-8",
       "relation_counts": {
         "original": 0,
         "repost": 0,
-        "mention": 3,
+        "mention": 2,
         "unknown": 0
       },
       "content_level_counts": {
-        "full": 3,
+        "full": 2,
         "summary": 0,
         "link_only": 0
       }
@@ -607,8 +607,8 @@
       "status": "ok",
       "fetched": 50,
       "accepted": 0,
-      "elapsed_seconds": 0.169,
-      "checked_at": "2026-09-24T09:05:25Z",
+      "elapsed_seconds": 0.404,
+      "checked_at": "2026-09-24T14:19:14Z",
       "error": "",
       "final_url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
       "content_type": "text/xml;charset=UTF-8",
@@ -632,8 +632,8 @@
       "status": "ok",
       "fetched": 50,
       "accepted": 0,
-      "elapsed_seconds": 0.205,
-      "checked_at": "2026-09-24T09:05:25Z",
+      "elapsed_seconds": 0.479,
+      "checked_at": "2026-09-24T14:19:14Z",
       "error": "",
       "final_url": "https://www.straitstimes.com/news/world/rss.xml",
       "content_type": "application/rss+xml; charset=utf-8",
@@ -656,19 +656,19 @@
       "url": "https://chinaglobalsouth.com/wp-json/wp/v2/posts?per_page=50&_embed=1",
       "status": "ok",
       "fetched": 50,
-      "accepted": 21,
-      "elapsed_seconds": 11.548,
-      "checked_at": "2026-09-24T09:05:25Z",
+      "accepted": 18,
+      "elapsed_seconds": 12.73,
+      "checked_at": "2026-09-24T14:19:14Z",
       "error": "",
       "relation_counts": {
         "original": 0,
-        "repost": 21,
+        "repost": 18,
         "mention": 0,
         "unknown": 0
       },
       "content_level_counts": {
         "full": 0,
-        "summary": 21,
+        "summary": 18,
         "link_only": 0
       }
     },
@@ -680,8 +680,8 @@
       "status": "ok",
       "fetched": 40,
       "accepted": 5,
-      "elapsed_seconds": 5.099,
-      "checked_at": "2026-09-24T09:05:25Z",
+      "elapsed_seconds": 6.078,
+      "checked_at": "2026-09-24T14:19:14Z",
       "error": "",
       "relation_counts": {
         "original": 0,
@@ -700,23 +700,21 @@
       "platform": "TradingView News",
       "kind": "bing_discovery",
       "url": "https://www.bing.com/news/search?q=site%3Atradingview.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&format=rss&mkt=en-US",
-      "status": "ok",
-      "fetched": 11,
-      "accepted": 11,
-      "elapsed_seconds": 0.158,
-      "checked_at": "2026-09-24T09:05:26Z",
-      "error": "",
-      "final_url": "https://www.bing.com/news/search?q=site%3Atradingview.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&format=rss&mkt=en-US",
-      "content_type": "application/xml; charset=utf-8",
+      "status": "error",
+      "fetched": 0,
+      "accepted": 0,
+      "elapsed_seconds": 0.219,
+      "checked_at": "2026-09-24T14:19:14Z",
+      "error": "ParseError: not well-formed (invalid token): line 1, column 41",
       "relation_counts": {
         "original": 0,
-        "repost": 1,
+        "repost": 0,
         "mention": 0,
-        "unknown": 10
+        "unknown": 0
       },
       "content_level_counts": {
-        "full": 5,
-        "summary": 6,
+        "full": 0,
+        "summary": 0,
         "link_only": 0
       }
     },
@@ -728,8 +726,8 @@
       "status": "ok",
       "fetched": 12,
       "accepted": 12,
-      "elapsed_seconds": 0.22,
-      "checked_at": "2026-09-24T09:05:26Z",
+      "elapsed_seconds": 0.248,
+      "checked_at": "2026-09-24T14:19:14Z",
       "error": "",
       "final_url": "https://www.bing.com/news/search?q=site%3Anewsdig.tbs.co.jp+%28Reuters+OR+Bloomberg+OR+%E3%83%AD%E3%82%A4%E3%82%BF%E3%83%BC+OR+%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%90%E3%83%BC%E3%82%B0%29&format=rss&mkt=en-US",
       "content_type": "application/xml; charset=utf-8",
@@ -750,23 +748,21 @@
       "platform": "Bloomberg Línea",
       "kind": "bing_discovery",
       "url": "https://www.bing.com/news/search?q=site%3Abloomberglinea.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&format=rss&mkt=en-US",
-      "status": "ok",
-      "fetched": 12,
-      "accepted": 12,
-      "elapsed_seconds": 0.186,
-      "checked_at": "2026-09-24T09:05:26Z",
-      "error": "",
-      "final_url": "https://www.bing.com/news/search?q=site%3Abloomberglinea.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&format=rss&mkt=en-US",
-      "content_type": "application/xml; charset=utf-8",
+      "status": "error",
+      "fetched": 0,
+      "accepted": 0,
+      "elapsed_seconds": 0.15,
+      "checked_at": "2026-09-24T14:19:14Z",
+      "error": "ParseError: not well-formed (invalid token): line 1, column 41",
       "relation_counts": {
         "original": 0,
-        "repost": 3,
+        "repost": 0,
         "mention": 0,
-        "unknown": 9
+        "unknown": 0
       },
       "content_level_counts": {
-        "full": 5,
-        "summary": 7,
+        "full": 0,
+        "summary": 0,
         "link_only": 0
       }
     },
@@ -778,8 +774,8 @@
       "status": "ok",
       "fetched": 20,
       "accepted": 20,
-      "elapsed_seconds": 0.532,
-      "checked_at": "2026-09-24T09:05:26Z",
+      "elapsed_seconds": 0.79,
+      "checked_at": "2026-09-24T14:19:15Z",
       "error": "",
       "final_url": "https://www.bing.com/news/search?q=site%3Amsn.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&format=rss&mkt=en-US",
       "content_type": "application/xml; charset=utf-8",
@@ -806,8 +802,8 @@
       "status": "ok",
       "fetched": 12,
       "accepted": 12,
-      "elapsed_seconds": 0.329,
-      "checked_at": "2026-09-24T09:05:26Z",
+      "elapsed_seconds": 0.243,
+      "checked_at": "2026-09-24T14:19:15Z",
       "error": "",
       "final_url": "https://www.bing.com/news/search?q=site%3Abusiness-standard.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&format=rss&mkt=en-US",
       "content_type": "application/xml; charset=utf-8",
@@ -818,8 +814,8 @@
         "unknown": 11
       },
       "content_level_counts": {
-        "full": 3,
-        "summary": 9,
+        "full": 4,
+        "summary": 8,
         "link_only": 0
       }
     },
@@ -828,23 +824,21 @@
       "platform": "ThePrint",
       "kind": "bing_discovery",
       "url": "https://www.bing.com/news/search?q=site%3Atheprint.in+%28%22Reuters%22+OR+%22Bloomberg%22%29&format=rss&mkt=en-US",
-      "status": "ok",
-      "fetched": 12,
-      "accepted": 12,
-      "elapsed_seconds": 0.222,
-      "checked_at": "2026-09-24T09:05:26Z",
-      "error": "",
-      "final_url": "https://www.bing.com/news/search?q=site%3Atheprint.in+%28%22Reuters%22+OR+%22Bloomberg%22%29&format=rss&mkt=en-US",
-      "content_type": "application/xml; charset=utf-8",
+      "status": "error",
+      "fetched": 0,
+      "accepted": 0,
+      "elapsed_seconds": 0.225,
+      "checked_at": "2026-09-24T14:19:15Z",
+      "error": "ParseError: not well-formed (invalid token): line 1, column 41",
       "relation_counts": {
         "original": 0,
-        "repost": 3,
+        "repost": 0,
         "mention": 0,
-        "unknown": 9
+        "unknown": 0
       },
       "content_level_counts": {
-        "full": 4,
-        "summary": 8,
+        "full": 0,
+        "summary": 0,
         "link_only": 0
       }
     },
@@ -854,10 +848,10 @@
       "kind": "bing_discovery",
       "url": "https://www.bing.com/news/search?q=site%3Aswissinfo.ch+%28%22Reuters%22+OR+%22Bloomberg%22%29&format=rss&mkt=en-US",
       "status": "ok",
-      "fetched": 10,
-      "accepted": 10,
-      "elapsed_seconds": 0.197,
-      "checked_at": "2026-09-24T09:05:26Z",
+      "fetched": 11,
+      "accepted": 11,
+      "elapsed_seconds": 0.325,
+      "checked_at": "2026-09-24T14:19:15Z",
       "error": "",
       "final_url": "https://www.bing.com/news/search?q=site%3Aswissinfo.ch+%28%22Reuters%22+OR+%22Bloomberg%22%29&format=rss&mkt=en-US",
       "content_type": "application/xml; charset=utf-8",
@@ -865,11 +859,11 @@
         "original": 0,
         "repost": 4,
         "mention": 0,
-        "unknown": 6
+        "unknown": 7
       },
       "content_level_counts": {
         "full": 0,
-        "summary": 10,
+        "summary": 11,
         "link_only": 0
       }
     },
@@ -878,23 +872,21 @@
       "platform": "Devdiscourse",
       "kind": "bing_discovery",
       "url": "https://www.bing.com/news/search?q=site%3Adevdiscourse.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&format=rss&mkt=en-US",
-      "status": "ok",
-      "fetched": 12,
-      "accepted": 12,
-      "elapsed_seconds": 0.239,
-      "checked_at": "2026-09-24T09:05:26Z",
-      "error": "",
-      "final_url": "https://www.bing.com/news/search?q=site%3Adevdiscourse.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&format=rss&mkt=en-US",
-      "content_type": "application/xml; charset=utf-8",
+      "status": "error",
+      "fetched": 0,
+      "accepted": 0,
+      "elapsed_seconds": 0.234,
+      "checked_at": "2026-09-24T14:19:15Z",
+      "error": "ParseError: not well-formed (invalid token): line 1, column 41",
       "relation_counts": {
         "original": 0,
         "repost": 0,
-        "mention": 1,
-        "unknown": 11
+        "mention": 0,
+        "unknown": 0
       },
       "content_level_counts": {
-        "full": 4,
-        "summary": 8,
+        "full": 0,
+        "summary": 0,
         "link_only": 0
       }
     },
@@ -903,23 +895,21 @@
       "platform": "ZAWYA",
       "kind": "bing_discovery",
       "url": "https://www.bing.com/news/search?q=site%3Azawya.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&format=rss&mkt=en-US",
-      "status": "ok",
-      "fetched": 12,
-      "accepted": 12,
-      "elapsed_seconds": 0.173,
-      "checked_at": "2026-09-24T09:05:26Z",
-      "error": "",
-      "final_url": "https://www.bing.com/news/search?q=site%3Azawya.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&format=rss&mkt=en-US",
-      "content_type": "application/xml; charset=utf-8",
+      "status": "error",
+      "fetched": 0,
+      "accepted": 0,
+      "elapsed_seconds": 0.212,
+      "checked_at": "2026-09-24T14:19:15Z",
+      "error": "ParseError: not well-formed (invalid token): line 1, column 41",
       "relation_counts": {
         "original": 0,
         "repost": 0,
         "mention": 0,
-        "unknown": 12
+        "unknown": 0
       },
       "content_level_counts": {
         "full": 0,
-        "summary": 12,
+        "summary": 0,
         "link_only": 0
       }
     },
@@ -929,22 +919,22 @@
       "kind": "bing_discovery",
       "url": "https://www.bing.com/news/search?q=site%3Abnnbloomberg.ca+%28%22Reuters%22+OR+%22Bloomberg%22%29&format=rss&mkt=en-US",
       "status": "ok",
-      "fetched": 11,
-      "accepted": 11,
-      "elapsed_seconds": 0.221,
-      "checked_at": "2026-09-24T09:05:26Z",
+      "fetched": 12,
+      "accepted": 12,
+      "elapsed_seconds": 0.327,
+      "checked_at": "2026-09-24T14:19:15Z",
       "error": "",
       "final_url": "https://www.bing.com/news/search?q=site%3Abnnbloomberg.ca+%28%22Reuters%22+OR+%22Bloomberg%22%29&format=rss&mkt=en-US",
       "content_type": "application/xml; charset=utf-8",
       "relation_counts": {
         "original": 0,
-        "repost": 0,
+        "repost": 2,
         "mention": 0,
-        "unknown": 11
+        "unknown": 10
       },
       "content_level_counts": {
-        "full": 2,
-        "summary": 9,
+        "full": 4,
+        "summary": 8,
         "link_only": 0
       }
     },
@@ -956,8 +946,8 @@
       "status": "ok",
       "fetched": 12,
       "accepted": 12,
-      "elapsed_seconds": 0.206,
-      "checked_at": "2026-09-24T09:05:26Z",
+      "elapsed_seconds": 0.25,
+      "checked_at": "2026-09-24T14:19:15Z",
       "error": "",
       "final_url": "https://www.bing.com/news/search?q=site%3Amarketscreener.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&format=rss&mkt=en-US",
       "content_type": "application/xml; charset=utf-8",
@@ -981,8 +971,8 @@
       "status": "ok",
       "fetched": 100,
       "accepted": 100,
-      "elapsed_seconds": 0.535,
-      "checked_at": "2026-09-24T09:05:26Z",
+      "elapsed_seconds": 0.7,
+      "checked_at": "2026-09-24T14:19:15Z",
       "error": "",
       "final_url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US%3Aen&q=Reuters+when%3A2d",
       "content_type": "application/xml; charset=utf-8",
@@ -1006,16 +996,16 @@
       "status": "ok",
       "fetched": 100,
       "accepted": 100,
-      "elapsed_seconds": 0.521,
-      "checked_at": "2026-09-24T09:05:26Z",
+      "elapsed_seconds": 0.67,
+      "checked_at": "2026-09-24T14:19:15Z",
       "error": "",
       "final_url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US%3Aen&q=Bloomberg+when%3A2d",
       "content_type": "application/xml; charset=utf-8",
       "relation_counts": {
         "original": 0,
         "repost": 0,
-        "mention": 0,
-        "unknown": 100
+        "mention": 2,
+        "unknown": 98
       },
       "content_level_counts": {
         "full": 0,
@@ -1031,8 +1021,8 @@
       "status": "ok",
       "fetched": 100,
       "accepted": 100,
-      "elapsed_seconds": 0.503,
-      "checked_at": "2026-09-24T09:05:26Z",
+      "elapsed_seconds": 0.562,
+      "checked_at": "2026-09-24T14:19:15Z",
       "error": "",
       "final_url": "https://news.google.com/rss/search?hl=ja&gl=JP&ceid=JP%3Aja&q=%28%E3%83%AD%E3%82%A4%E3%82%BF%E3%83%BC+OR+%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%90%E3%83%BC%E3%82%B0%29+when%3A2d",
       "content_type": "application/xml; charset=utf-8",

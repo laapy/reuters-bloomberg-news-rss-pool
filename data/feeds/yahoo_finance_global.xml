@@ -1,11 +1,47 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Yahoo Finance — diagnostic source feed</title>
     <link>https://finance.yahoo.com/news/rssindex</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 24 Sep 2026 09:09:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 14:21:44 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>SK Hynix Is Eyeing Intel’s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention</title>
+      <link>https://finance.yahoo.com/technology/articles/sk-hynix-eyeing-intel-intc-043316388.html</link>
+      <guid isPermaLink="false">3408be1eb5d63f63c475d6df</guid>
+      <pubDate>Wed, 23 Sep 2026 04:33:16 +0000</pubDate>
+      <description>SK Hynix is exploring something it has never done before: manufacturing memory chips in the United States. Reuters reported on September 16 that the Korean m...</description>
+      <dc:creator>Habib Ur Rehman</dc:creator>
+      <content:encoded>&lt;p&gt;SK Hynix Is Eyeing Intel’s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention&lt;/p&gt;&lt;p&gt;Habib Ur Rehman
+Tue, September 22, 2026 at 11:33 PM CDT 3 min read&lt;/p&gt;&lt;p&gt;INTC
++1.05%&lt;/p&gt;&lt;p&gt;SKHY
+-2.03%&lt;/p&gt;&lt;p&gt;MU
+-1.89%&lt;/p&gt;&lt;p&gt;Explore stocks on Coinbase Trading disclosure&lt;/p&gt;&lt;p&gt;Trading disclosure The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.
+Learn more&lt;/p&gt;&lt;p&gt;SK Hynix is exploring something it has never done before: manufacturing memory chips in the United States.
+Reuters reported on September 16 that the Korean memory giant is discussing several possibilities with Intel Corporation (NASDAQ: INTC ), including leasing part of Intel&amp;#x27;s long-delayed Ohio complex or forming a venture involving Intel and large cloud customers. SK Hynix said no specific plan has been finalized.
+For Micron Technology, Inc. (NASDAQ: MU ), the talks matter because one of its strongest strategic advantages is being the major U.S.-based memory producer while AI has made DRAM and HBM increasingly scarce.&lt;/p&gt;&lt;p&gt;SK Hynix May Move Into Intel’s $100 Billion Ohio Fab. Micron Has a Reason to Watch SK Hynix Could Give Intel Another Path for Its Delayed Ohio Site Intel has committed enormous capital to Ohio, with the broader project potentially reaching around $100 billion over time. Delays have pushed planned production into the next decade. A tenant or joint-venture partner could therefore help Intel share the financial burden of developing the Ohio site rather than relying entirely on its own foundry demand to justify the buildout.&lt;/p&gt;&lt;p&gt;That is the bull case. The bear case is that exploratory talks are a long way from revenue. Bringing advanced Korean memory production to the U.S. could face cost problems, technology-transfer restrictions and objections from Seoul. Intel still needs its core manufacturing roadmap to work.
+Micron Technology, Inc. (NASDAQ:MU) sits on the other side of the equation. AI demand has pushed memory pricing and availability into a strong cycle, and Micron is already pursuing a large U.S. manufacturing expansion. More domestic manufacturing incentives and customer interest in secure supply support that plan.
+A successful SK Hynix move could eventually erode part of Micron&amp;#x27;s U.S.-supply differentiation. U.S. cloud companies would gain another potential domestic supplier, while additional long-term memory capacity could eventually loosen the market that currently supports exceptional pricing.
+Hedge funds loaded up on both chipmakers Insider Monkey tracked 138 hedge funds holding Intel in Q2, up sharply from 112 in Q1. AQR Capital Management held roughly 10.7 million shares after trimming its stake about 7%. Micron&amp;#x27;s count rose to 184 funds from 154, one of the stronger quarter-over-quarter increases among large semiconductor names. Coatue Management expanded its MU stake dramatically during the quarter.&lt;/p&gt;&lt;p&gt;Intel had about 152.2 million shares sold short as of August 31, roughly 3% of public float and 1.7 days to cover.
+The talks do not rescue Intel&amp;#x27;s foundry strategy or weaken Micron overnight. They do show what AI scarcity is doing to the supply chain. Memory manufacturing is becoming strategic enough that SK Hynix is considering putting advanced capacity on American soil, and Intel&amp;#x27;s delayed Ohio project suddenly gives it a potentially valuable asset to negotiate with.&lt;/p&gt;&lt;p&gt;Story Continues
+While we acknowledge the potential of INTC and MU as investments, we believe certain other AI stocks offer greater upside potential and carry less downside risk. If you&amp;#x27;re looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .
+READ NEXT:
+The Trillion-Dollar AI Capex Gap: Why Too Much Hardware Could Be Nvidia&amp;#x27;s Trap and Microsoft&amp;#x27;s Opportunity and Redditors Are Skeptical of SpaceX&amp;#x27;s Orbital Data Centers. Are They Right?
+Disclosure: None. Follow Insider Monkey on Google News .&lt;/p&gt;&lt;p&gt;View Comments&lt;/p&gt;&lt;p&gt;Terms and Privacy Policy
+Your Privacy Choices
+More Info&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_finance_global</wire:foundAt>
+      <wire:platform>Yahoo Finance</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>article page metadata</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://finance.yahoo.com/technology/articles/sk-hynix-eyeing-intel-intc-043316388.html</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Reuters reported</wire:evidence>
+    </item>
   </channel>
 </rss>
