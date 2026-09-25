@@ -1,41 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>BNN Bloomberg — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Abnnbloomberg.ca+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Fri, 25 Sep 2026 00:44:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 06:01:00 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Oracle triggers ‘force majeure’ on data centre project over power delays, source says</title>
       <link>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/24/oracle-triggers-force-majeure-on-data-centre-project-over-power-delays-source-says/</link>
       <guid isPermaLink="false">86235e712bc61237bfd5bd2d</guid>
-      <pubDate>Thu, 24 Sep 2026 12:17:00 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2026 19:17:13 +0000</pubDate>
       <description>Oracle issued a “force majeure” notice to a Blue Owl unit, developer of a large New Mexico data centre, citing delays in securing power for the project.</description>
+      <dc:creator>Reuters Staff</dc:creator>
+      <content:encoded>&lt;p&gt;Oracle issued a “force majeure” notice to a Blue Owl unit, the developer of a large New Mexico data centre, citing potential delays in securing power for the project, a person familiar with the matter told Reuters on Thursday. Shares of Oracle fell around four per cent. The source said that securing power for the site is Oracle’s responsibility under the contract. Oracle cannot terminate the lease under any circumstances, the source said, adding that alternative asset manager Blue Owl has about US$3 billion in equity in the project, with Oracle responsible for paying the debt costs. Companies typically invoke force majeure to free themselves from contractual obligations when problems arise beyond their control, a move that can raise concerns among lenders and investors. Rather than exiting as the main tenant, Oracle is attempting to delay payments should the data centre dubbed Project Jupiter get derailed and fail to come online in 2028 as planned, according to a report by Bloomberg News, which first reported the development. Oracle did not immediately respond to a Reuters request for comment. “Project Jupiter remains on our planned schedule,” the company said earlier in the day. Blue Owl, which owns the data-centre developer Stack Infrastructure, said the notice does not change the financial commitments to this multi-year project. During the development stage, Blue Owl earns a nine per cent yield on its equity, the source said, adding that upon completion of the project, the levered yield is expected to be around 11 per cent. By invoking force majeure, Oracle extends the period during which it pays Blue Owl the lower development-stage rent. Blue Owl will still receive the higher rent for the originally planned duration, but its start will be delayed, according to the source. The 1,400-acre Project Jupiter campus, which secured US$18 billion in loans from a consortium of banks, according to media reports, is part of Oracle’s broader agreement with OpenAI to provide AI computing capacity. The data centre campus has reportedly faced multiple infrastructure setbacks, including delays to a planned natural-gas pipeline and legal challenges over water and air-quality permits. The project is a part of Stargate, an initiative to build AI infrastructure in the US under a US$500 billion investment commitment involving OpenAI, SoftBank Group 9984.T and partners including Oracle. The massive AI infrastructure build-out has faced mounting challenges, as developers race to secure power, water and other resources while managing the enormous costs of deploying computing capacity for partners such as OpenAI. Growing opposition from the public has made data centres a political flashpoint, with communities around data centre projects raising concerns over their impact on local supply of energy, water and other natural resources. Brokerage William Blair said while this news intensifies worries about regulatory and power-related delays affecting AI deployments, it expects minimal short-term impact on Oracle. “Practically, fiscal 2027 should not be affected, since Jupiter contributes no revenue this year.” --- Reporting by Isla Binnie and reporting by Jaspreet Singh in Bengaluru; additional reporting by Prakhar Srivastava; Editing by Devika Syamnath, Anil D’Silva and Maju Samuel&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/24/oracle-triggers-force-majeure-on-data-centre-project-over-power-delays-source-says/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
+      <wire:evidence>structured credit: Reuters Staff</wire:evidence>
     </item>
     <item>
-      <title>Market Outlook: Rising U.S. Treasury yields test stock gains</title>
-      <link>https://www.bnnbloomberg.ca/investing/market-outlook/2026/09/24/market-outlook-rising-us-treasury-yields-test-stock-gains/</link>
-      <guid isPermaLink="false">d985ff7cbdf100af783f6265</guid>
-      <pubDate>Thu, 24 Sep 2026 11:50:00 +0000</pubDate>
-      <description>Rising U.S. Treasury yields put fourth-quarter earnings and company forecasts in focus as investors weigh another Fed rate hike.</description>
+      <title>Starbucks to close another 250 coffeehouses in North America</title>
+      <link>https://www.bnnbloomberg.ca/business/company-news/2026/09/24/starbucks-to-close-another-250-coffeehouses-in-north-america/</link>
+      <guid isPermaLink="false">f5b37d0c660cc2245cb3acb9</guid>
+      <pubDate>Thu, 24 Sep 2026 17:57:59 +0000</pubDate>
+      <description>Starbucks will close 250 underperforming coffeehouses in North America, the company said in a regulatory filing on Thursday, as CEO Brian Niccol deepens his turnaround push to revive sales.</description>
+      <dc:creator>Reuters Staff</dc:creator>
+      <content:encoded>&lt;p&gt;EDITOR’S NOTE -- CTV News reached out to Starbucks to ask how many Canadian locations are expected to close, where those stores are located, and how many Canadian workers will be affected. The company did not provide figures for those questions. Starbucks will close 250 underperforming coffeehouses in North America, the company said in a regulatory filing on Thursday, as CEO Brian Niccol deepens his turnaround push to revive sales. The closures come a year after Starbucks shut down several underperforming stores in the region, including its iconic Seattle roastery, in a restructuring effort that was estimated to cost the company about US$1 billion. The company disclosed on Thursday that the fresh closures will result in about US$300 million in restructuring charges, and represent about 1 per cent of its roughly 18,000 stores in North America. It plans to finish most of the closures by the end of fiscal year 2026. Starbucks also expects fiscal 2026 global net new store openings for company-operated and licensed coffeehouses to be about 440, compared with its earlier target of 600 to 650 openings. “This is a sensible but costly step in Starbucks’ turnaround,” said Lale Akoner, global market strategist at eToro, who cautioned that if sales and margin improvement stall, investor patience could fade quickly. Niccol completed two years as CEO of Starbucks in September. The former Chipotle Mexican Grill executive has tried to draw back customers with shorter wait times and simpler menus in the United States as part of his “Back to Starbucks” plan. Starbucks also invested in store and kitchen operations, and has tried to manage costs by cutting several corporate roles and shutting down some regional offices. As of July this year, the company has reported four straight quarters of comparable sales growth. Customer traffic increased across all income cohorts, Niccol said in April. Its pricey lattes have resisted a broader slowdown in non-essential spending, particularly among lower-income consumers in the United States as households buckle under high costs of fuel and food. “Niccol has already shown progress ... the next proof point is converting that momentum into stronger margins,” said Brian Jacobsen, chief economic strategist at Annex Wealth Management. --- Reporting by Juveria Tabassum and Neil J Kanatt in Bengaluru; Editing by Shinjini Ganguli and Devika Syamnath With files from CTV News Associate Producer Myron Mayne&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/investing/market-outlook/2026/09/24/market-outlook-rising-us-treasury-yields-test-stock-gains/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/09/24/starbucks-to-close-another-250-coffeehouses-in-north-america/</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters Staff</wire:evidence>
     </item>
     <item>
       <title>‘Reasons for optimism’: Economists break down summer retail sales data</title>
@@ -53,18 +61,33 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Trump backs diesel export ban as fuel prices hit record highs</title>
-      <link>https://www.bnnbloomberg.ca/video/shows/commodities/2026/09/24/trump-backs-diesel-export-ban-as-fuel-prices-hit-record-highs/</link>
-      <guid isPermaLink="false">288f430e97c76c782a02e09f</guid>
-      <pubDate>Thu, 24 Sep 2026 05:16:00 +0000</pubDate>
-      <description>Matt Smith, director of commodity research at Kpler, joins BNN Bloomberg to discuss the market implications of a U.S. diesel export ban.</description>
+      <title>Maple Leaf hopes protein craze will help drive comeback for Yves Veggie brand</title>
+      <link>https://www.bnnbloomberg.ca/business/company-news/2026/09/24/maple-leaf-hopes-protein-craze-will-help-drive-comeback-for-yves-veggie-brand/</link>
+      <guid isPermaLink="false">73e25c94dcbebcd8806b32bc</guid>
+      <pubDate>Thu, 24 Sep 2026 07:36:00 +0000</pubDate>
+      <description>Maple Leaf Foods is betting the protein-maxxing trend will help drive a comeback for its Yves Veggie Cuisine brand.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/commodities/2026/09/24/trump-backs-diesel-export-ban-as-fuel-prices-hit-record-highs/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/09/24/maple-leaf-hopes-protein-craze-will-help-drive-comeback-for-yves-veggie-brand/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Canadian dollar faces three strikes against the U.S. dollar: Brooke Thackray</title>
+      <link>https://www.bnnbloomberg.ca/investing/opinion/2026/09/24/three-strikes-against-the-canadian-dollar-signal-further-weakness-brooke-thackray/</link>
+      <guid isPermaLink="false">fbc8354238121dc472fdcffd</guid>
+      <pubDate>Thu, 24 Sep 2026 05:52:00 +0000</pubDate>
+      <description>Three major factors are driving the Canadian dollar lower against the U.S. dollar and point to further weakness.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/investing/opinion/2026/09/24/three-strikes-against-the-canadian-dollar-signal-further-weakness-brooke-thackray/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -80,21 +103,6 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/09/24/blackberry-lifts-annual-revenue-forecast-on-strength-in-automotive-software-business/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Starbucks to close another 250 coffeehouses in North America</title>
-      <link>https://www.bnnbloomberg.ca/business/company-news/2026/09/24/starbucks-to-close-another-250-coffeehouses-in-north-america/</link>
-      <guid isPermaLink="false">f5b37d0c660cc2245cb3acb9</guid>
-      <pubDate>Thu, 24 Sep 2026 04:28:00 +0000</pubDate>
-      <description>Starbucks will close 250 underperforming coffeehouses in North America, the company said in a regulatory filing on Thursday, as CEO Brian Niccol deepens his turnaround push to revive sales.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/09/24/starbucks-to-close-another-250-coffeehouses-in-north-america/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -118,12 +126,15 @@
       <guid isPermaLink="false">e011cd66b2df418ed7e4bbb7</guid>
       <pubDate>Wed, 23 Sep 2026 23:25:00 +0000</pubDate>
       <description>China's Xi Jinping meets Donald Trump in Washington to discuss trade, Taiwan, Iran and AI as tech leaders warn of the technology's potential dangers.</description>
+      <content:encoded>&lt;p&gt;Opens in new window
+Trump and Chinese President Xi discuss trade, Taiwan and AI at high-stakes Washington summit Opens in new window 02:26 · September 24, 2026 at 5:49p.m. EDT&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/09/24/trump-and-chinese-president-xi-discuss-trade-taiwan-and-ai-at-high-stakes-washington-summit/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
@@ -148,12 +159,15 @@
       <guid isPermaLink="false">1ce71f1ec4e53ca5d47f4b62</guid>
       <pubDate>Wed, 23 Sep 2026 23:11:00 +0000</pubDate>
       <description>CTV's Vassy Kapelos reports on Prime Minister Mark Carney's comments that Canada considered a potential U.S. invasion scenario.</description>
+      <content:encoded>&lt;p&gt;Opens in new window
+Trump and Chinese President Xi discuss trade, Taiwan and AI at high-stakes Washington summit Opens in new window 02:26 · September 24, 2026 at 5:49p.m. EDT&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/09/24/pm-carney-says-canada-considered-a-potential-us-invasion-scenario-reveals-new-details/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
