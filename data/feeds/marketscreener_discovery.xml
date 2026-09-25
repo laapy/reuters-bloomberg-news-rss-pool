@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Amarketscreener.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Fri, 25 Sep 2026 20:22:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 23:25:40 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>US, Iran Said to Be Exploring Phased Hormuz Deal</title>
@@ -23,21 +23,6 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>EUR / USD Stock</title>
-      <link>https://www.marketscreener.com/quote/currency/EURO-US-DOLLAR-EUR-USD-4591/</link>
-      <guid isPermaLink="false">35f498cb1195c1f2f2d5d8b8</guid>
-      <pubDate>Fri, 25 Sep 2026 00:59:00 +0000</pubDate>
-      <description>Sep. 11 Yields on U.S., European Government Bonds Slip, Still Near Multiyear Highs After Firm Inflation Print -- Update DJ ...</description>
-      <wire:foundAt>marketscreener_discovery</wire:foundAt>
-      <wire:platform>MarketScreener</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/quote/currency/EURO-US-DOLLAR-EUR-USD-4591/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
       <title>Microsoft revamps Copilot with code generation, agentic AI tools</title>
       <link>https://www.marketscreener.com/news/microsoft-revamps-copilot-with-code-generation-agentic-ai-tools-ce785adfdf88f32c</link>
       <guid isPermaLink="false">4e65bd3c64c3d2694efc1fe7</guid>
@@ -50,6 +35,36 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.marketscreener.com/news/microsoft-revamps-copilot-with-code-generation-agentic-ai-tools-ce785adfdf88f32c</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>News S&amp;P 500</title>
+      <link>https://www.marketscreener.com/quote/index/S-P-500-4985/news/</link>
+      <guid isPermaLink="false">b38ccd3071b15aa31c4279a1</guid>
+      <pubDate>Thu, 24 Sep 2026 07:11:00 +0000</pubDate>
+      <description>Sep. 25 US Equity Indexes Jump as Crude Oil Slides Following Iran's Conditional Plan to Reopen Hormuz Chokepoint MT Sep. 25 S&amp;P 500 Posts Weekly Rise, Led by Technology, Communication Services MT Sep.</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/quote/index/S-P-500-4985/news/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Ethereum (ETH/USD) Stock</title>
+      <link>https://www.marketscreener.com/quote/cryptocurrency/ETHEREUM-ETH-USD-45554109/</link>
+      <guid isPermaLink="false">fa255f081efb1eafb509e4a9</guid>
+      <pubDate>Thu, 24 Sep 2026 07:11:00 +0000</pubDate>
+      <description>2,692.32 USD +0.03% +3.08%-9.30% ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/quote/cryptocurrency/ETHEREUM-ETH-USD-45554109/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -83,21 +98,6 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Fabege AB Stock</title>
-      <link>https://www.marketscreener.com/quote/stock/FABEGE-AB-43180160/</link>
-      <guid isPermaLink="false">a331d13a394e3ed70f7e2d8c</guid>
-      <pubDate>Tue, 22 Sep 2026 17:00:00 +0000</pubDate>
-      <description>Sep. 23 12 stocks have so far today hit new 52-week lows on the Stockholm Stock Exchange FW ...</description>
-      <wire:foundAt>marketscreener_discovery</wire:foundAt>
-      <wire:platform>MarketScreener</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/FABEGE-AB-43180160/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
       <title>Hyundai Motor CEO warns of Chinese vehicle surge in the US without guardrails</title>
       <link>https://www.marketscreener.com/news/hyundai-motor-ceo-warns-of-chinese-vehicle-surge-in-the-us-without-guardrails-ce785adad989f324</link>
       <guid isPermaLink="false">31585c3085adb11c0f25e6b3</guid>
@@ -113,63 +113,78 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Deutsche Telekom AG Stock</title>
-      <link>https://www.marketscreener.com/quote/stock/DEUTSCHE-TELEKOM-AG-444661/</link>
-      <guid isPermaLink="false">caead3ab27f223c2cce61d6c</guid>
-      <pubDate>Thu, 17 Sep 2026 17:00:00 +0000</pubDate>
-      <description>Sep. 20 Telekom CEO: 'I'm happy about every construction site' DP ...</description>
+      <title>Apple Inc. Stock</title>
+      <link>https://www.marketscreener.com/quote/stock/APPLE-INC-4849/</link>
+      <guid isPermaLink="false">627e5a000cd0e0c442fa1b2d</guid>
+      <pubDate>Sun, 30 Aug 2026 17:00:00 +0000</pubDate>
+      <description>06:57pm TikTok settles with Alabama ahead of trial over teen mental health harms RE ...</description>
       <wire:foundAt>marketscreener_discovery</wire:foundAt>
       <wire:platform>MarketScreener</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/DEUTSCHE-TELEKOM-AG-444661/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/APPLE-INC-4849/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Lack of hedging weighs on SAS and could impact Air France-KLM</title>
-      <link>https://www.marketscreener.com/news/lack-of-hedging-weighs-on-sas-and-could-impact-air-france-klm-ce7e51ddd989ff22</link>
-      <guid isPermaLink="false">c93c1d1f8bfa0fd29f17de3a</guid>
-      <pubDate>Thu, 02 Apr 2026 05:47:00 +0000</pubDate>
-      <description>The airline sector is navigating a period of severe turbulence driven by surging oil prices. Within this context, Scandinavian Airlines System (SAS) appears particularly vulnerable, having suspended ...</description>
+      <title>LVMH Stock</title>
+      <link>https://www.marketscreener.com/quote/stock/LVMH-4669/</link>
+      <guid isPermaLink="false">29923413f60517da7a58b7dc</guid>
+      <pubDate>Thu, 30 Jan 2025 16:00:00 +0000</pubDate>
+      <description>Sep. 25 LVMH : Gets a Buy rating from Bernstein ZD ...</description>
       <wire:foundAt>marketscreener_discovery</wire:foundAt>
       <wire:platform>MarketScreener</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/news/lack-of-hedging-weighs-on-sas-and-could-impact-air-france-klm-ce7e51ddd989ff22</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/LVMH-4669/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Orange Stock</title>
-      <link>https://www.marketscreener.com/quote/stock/ORANGE-4649/</link>
-      <guid isPermaLink="false">47aed65a64a4c530c69bda0e</guid>
-      <pubDate>Sat, 02 Apr 2022 17:00:00 +0000</pubDate>
-      <description>Sep. 23 AMS and Valeo lifted by brokers, Muse keeps the pressure on Orange ...</description>
+      <title>Bitcoin (BTC/USD) Stock</title>
+      <link>https://www.marketscreener.com/quote/cryptocurrency/BITCOIN-BTC-USD-45553945/</link>
+      <guid isPermaLink="false">52ce4a71dc12fb029dc86603</guid>
+      <pubDate>Mon, 25 Sep 2023 17:00:00 +0000</pubDate>
+      <description>Sep. 25 Top Cryptocurrencies Mixed; Bitcoin Holds Above $84,000 Level MT ...</description>
       <wire:foundAt>marketscreener_discovery</wire:foundAt>
       <wire:platform>MarketScreener</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/ORANGE-4649/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.marketscreener.com/quote/cryptocurrency/BITCOIN-BTC-USD-45553945/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>China Telecom Corporation Limited Stock</title>
-      <link>https://www.marketscreener.com/quote/stock/CHINA-TELECOM-CORPORATION-1412702/</link>
-      <guid isPermaLink="false">3d211e5e235d3668ae067afa</guid>
-      <pubDate>Mon, 20 May 2019 17:00:00 +0000</pubDate>
-      <description>Aug. 26 Nomura Adjusts China Telecom's Price Target to HK$5 From HK$5.50, Keeps at Neutral MT Aug. 20 China Telecom's AI Push Drives Cloud Revenue Upward MT ...</description>
+      <title>Skanska AB Stock</title>
+      <link>https://www.marketscreener.com/quote/stock/SKANSKA-AB-6491108/</link>
+      <guid isPermaLink="false">0530bfb32e76b8a6ce374697</guid>
+      <pubDate>Mon, 15 Jan 2018 16:00:00 +0000</pubDate>
+      <description>Sep. 25 ERSTE Open-Ended Real Estate Investment Fund managed by Erste Bank Magyarorszag Befektetesi Alapkezelo Rt. agreed to acquire second phase of H2Offices in Budapest from Skanska AB (OM:SKA B) ...</description>
       <wire:foundAt>marketscreener_discovery</wire:foundAt>
       <wire:platform>MarketScreener</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/CHINA-TELECOM-CORPORATION-1412702/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/SKANSKA-AB-6491108/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>TotalEnergies SE Stock</title>
+      <link>https://www.marketscreener.com/quote/stock/TOTALENERGIES-SE-4717/</link>
+      <guid isPermaLink="false">ed7e35cf2fce3efe1cbc26c4</guid>
+      <pubDate>Mon, 20 Oct 2014 17:00:00 +0000</pubDate>
+      <description>Sep. 25 Nigeria's Amni, TotalEnergies approve $800 million offshore gas project RE ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/TOTALENERGIES-SE-4717/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
