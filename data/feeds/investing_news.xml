@@ -1,11 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Investing.com — diagnostic source feed</title>
     <link>https://www.investing.com/rss/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 26 Sep 2026 07:15:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 12:24:52 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Analysis-Venezuela president returns from US visit with no deals, no firm election date</title>
+      <link>https://www.investing.com/news/commodities-news/analysisvenezuela-president-returns-from-us-visit-with-no-deals-no-firm-election-date-4918550</link>
+      <guid isPermaLink="false">1bff9dee0d95f5f162e4bbc8</guid>
+      <pubDate>Sat, 26 Sep 2026 10:07:58 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/commodities-news/analysisvenezuela-president-returns-from-us-visit-with-no-deals-no-firm-election-date-4918550</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>Swiss National Bank’s Schlegel watching hot weather impact on food price inflation</title>
+      <link>https://www.investing.com/news/economy-news/swiss-national-banks-schlegel-watching-hot-weather-impact-on-food-price-inflation-4918549</link>
+      <guid isPermaLink="false">3932d837aab3cebddb47c555</guid>
+      <pubDate>Sat, 26 Sep 2026 10:06:47 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/economy-news/swiss-national-banks-schlegel-watching-hot-weather-impact-on-food-price-inflation-4918549</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>
