@@ -1,11 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>The Straits Times — diagnostic source feed</title>
     <link>https://www.straitstimes.com/news/world/rss.xml</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Fri, 25 Sep 2026 23:25:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 01:53:43 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>US trade commission chair suggests AI developers should be liable for conduct of agents</title>
+      <link>https://www.straitstimes.com/world/united-states/us-trade-commission-chair-suggests-ai-developers-should-be-liable-for-conduct-of-agents</link>
+      <guid isPermaLink="false">1b54cee637599f0252e40e6b</guid>
+      <pubDate>Sat, 26 Sep 2026 01:41:00 +0000</pubDate>
+      <description>There has been a rise in AI testing resulting in unauthorised access to corporate or government data.</description>
+      <dc:creator>The Straits Times</dc:creator>
+      <content:encoded>&lt;p&gt;US trade commission chair suggests AI developers should be liable for conduct of agents
+Sign up now: Get ST&amp;#x27;s newsletters delivered to your inbox&lt;/p&gt;&lt;p&gt;Chairman of the Federal Trade Commission Andrew Ferguson attending an interview with Reuters during Momentum AI Austin 2026, in Texas, on Sept 25.
+PHOTO: REUTERS&lt;/p&gt;&lt;p&gt;Published   Sep 26, 2026, 09:41 AM&lt;/p&gt;&lt;p&gt;Updated   Sep 26, 2026, 09:41 AM&lt;/p&gt;&lt;p&gt;Set as preferred source&lt;/p&gt;&lt;p&gt;Summarise&lt;/p&gt;&lt;p&gt;FTC chairman Andrew Ferguson emphasised that AI developers, not the AI agents, should be held liable for any harm caused by their instructions, resisting the idea that AI acts autonomously.
+The FTC plans to study personalised pricing by companies using consumer data, focusing on apps like delivery, rideshare, and airlines, to address concerns over fairness and transparency.
+The FTC is seeking public feedback on a new rule to combat fraudulent ads on platforms like Meta and Google, aiming to clarify regulations and reduce online ad scams.&lt;/p&gt;&lt;p&gt;AI generated&lt;/p&gt;&lt;p&gt;AUSTIN – US Federal Trade Commission (FTC) chairman Andrew Ferguson said on Sept 25 he would resist describing AI agents as autonomous actors that “break loose” with “wills and desires of their own,” suggesting the developers who instruct agents would be the ones liable for harm.
+“I’m going to continue as long as I am chairman to resist this anthropomorphising of these tools,” Ferguson said at the Reuters Momentum AI Austin event. “If someone tells a tool to do something, and the tool does it, I don’t think we would say, ‘Oh, what do we do about the tool?’”
+Ferguson’s remarks illustrated potential avenues for the Trump administration to take as incidents rise in which agentic AI testing resulted in unauthorised access to corporate or government data.&lt;/p&gt;&lt;p&gt;Artificial intelligence companies have sometimes described systems as acting beyond human control, but subsequent reviews of audit trails have shown that the systems were carrying out instructions they had been given, Ferguson said.
+Recent incidents involving AI agents accessing external systems have prompted governments and industry leaders to examine whether existing oversight and cybersecurity measures are sufficient.
+The US should utilise existing legal tools, Ferguson said. He suggested that FTC authority to take action against companies that fail to disclose data breaches could also apply to AI developers.&lt;/p&gt;&lt;p&gt;Personalised pricing concerns The FTC is gearing up to request data from consumer-facing companies on their use of personalised pricing, Ferguson said, referring to businesses using consumers’ individual data, such as location and internet browsing history, to set prices. The practice has drawn criticism from state and federal lawmakers concerned with bolstering affordability in the US.
+Ferguson said in August that the FTC would not hesitate to enforce the law in this area, particularly where companies are not disclosing the practice. The FTC has already initiated enforcement actions on personalised pricing disclosures, he said.
+“We are in the process of trying to get a market study that will actually get to the heart of the question, which is, are particular merchants in particular markets that have access to tremendous amounts of data using that data to charge differentiated prices to different people,” he said.&lt;/p&gt;&lt;p&gt;As an individual, he said he is most concerned about use of the practice by delivery and rideshare apps, along with airlines.
+Airlines faced criticism in 2025 after a Delta Air Lines executive suggested AI tools were being used to gauge customers’ willingness to pay. Delta has since said that it does not personalise prices based on individuals’ data, and an American Airlines executive has said doing so would hurt customer trust.
+Earlier in 2026 , a US congressional committee demanded information from Uber, Instacart and others on whether they use customer data to set prices. Both companies said at the time that they do not use personal information to set prices.
+The FTC would request information from companies in order to publish a study on the practice. Ferguson’s predecessor, Lina Khan, initiated a similar study into the practice, which she referred to as surveillance pricing. That study focused on companies that offer data and consulting services on pricing, rather than merchants themselves.
+Ad fraud crackdown The FTC on Sept 24 called for public input on a potential rule that would disincentivise tech companies like Meta Platforms and Alphabet’s Google from allowing fraudulent or misleading ads. Meta projected 10 per cent of its 2024 revenue would come from ads for scams and banned goods, Reuters reported in 2025 .
+The FTC has ongoing law enforcement actions related to fraudulent ads, Ferguson said. Those investigations convinced him of the need for rule-setting requirements for online platforms to mitigate fraud.
+“We need to make the rules hyper-clear for everyone involved in this market,” he said. REUTERS&lt;/p&gt;&lt;p&gt;More on this topic&lt;/p&gt;&lt;p&gt;US FTC probing YouTube over social media policies&lt;/p&gt;&lt;p&gt;Watch: Does AI pose an existential threat to humanity?&lt;/p&gt;&lt;p&gt;See more on&lt;/p&gt;&lt;p&gt;United States
+Artificial Intelligence
+AI/artificial intelligence
+Politics and government&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>straits_times_world</wire:foundAt>
+      <wire:platform>The Straits Times</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.straitstimes.com/world/united-states/us-trade-commission-chair-suggests-ai-developers-should-be-liable-for-conduct-of-agents</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Reuters reported</wire:evidence>
+    </item>
   </channel>
 </rss>
