@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Mint — diagnostic source feed</title>
     <link>https://www.livemint.com/rss/news</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 26 Sep 2026 12:24:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 16:38:40 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Russia may intensify hybrid warfare against NATO in coming months, Denmark warns; Putin rejects claims</title>
+      <link>https://www.livemint.com/news/world/russia-may-intensify-hybrid-warfare-against-nato-in-coming-months-denmark-warns-putin-rejects-claims-11790433168029.html</link>
+      <guid isPermaLink="false">f6a63ccdc184570da59bc094</guid>
+      <pubDate>Sat, 26 Sep 2026 14:50:56 +0000</pubDate>
+      <description>For now, the Danish assessment distinguishes between increased hybrid activity, which it expects in the coming months, and a full-scale attack on NATO, which it considers highly unlikely.</description>
+      <dc:creator>Ravi Hari</dc:creator>
+      <content:encoded>&lt;p&gt;Russia is likely to intensify its hybrid campaign against Western countries and NATO in the coming months, Denmark’s Defence Intelligence Service said in a new threat assessment, warning of a “low but growing risk” of a limited Russian military attack on one or more NATO countries bordering Russia.The assessment, released on Thursday (September 24), as reported by Reuters, said Moscow could carry out more frequent attacks against the West, potentially with greater consequences for the countries targeted than in the past. However, the Danish service did not assess a full-scale Russian invasion of a NATO country as likely.The warning came as European countries have raised concerns over alleged Russian-linked sabotage, cyberattacks and other forms of hybrid activity amid the continuing war in Ukraine.Danish intelligence warns of possible NATO attacksDDIS said Russia could potentially use a range of tactics in the coming months, including isolated drone or missile strikes against infrastructure supporting Ukraine.According to intelligence chief Thomas Ahrenkiel, Moscow could also potentially stage a false-flag operation using Ukrainian-made drones or deploy a limited number of troops into a NATO border area, possibly under the pretext of protecting Russian minorities.“The aim is not to take over the country, but to divide NATO,” Ahrenkiel said, according to Reuters.The assessment described a limited military attack as a potentially “desperate move” by Russia and said the risk remained low but was increasing.Cyberattacks and sabotage also flaggedThe Danish warning extends beyond conventional military action. Denmark’s Resilience Agency separately said Russia was likely to attempt destructive cyberattacks against Denmark and raised its threat level.The broader concern over hybrid warfare has intensified following a series of incidents across Europe. Germany recently accused Russia of involvement in an attempted drone attack at Leipzig/Halle Airport, while NATO has also increased intelligence-sharing in response to a string of incidents apparently linked to Moscow.DDIS also pointed to a recent incident involving a Russian frigate and a Danish military helicopter in international waters off Denmark. The Danish military said the Russian vessel fired two flares toward the helicopter, with one narrowly missing the aircraft.Russia rejects Danish assessmentMoscow has repeatedly denied involvement in sabotage or hybrid warfare operations in NATO countries.The Russian embassy in Denmark rejected the latest Danish assessment, describing it as unsupported by credible evidence and accusing Western countries of increasing tensions over Ukraine.Russia’s President Vladimir Putin rejected suggestions that Moscow was preparing for a conflict with Europe.“We are not preparing for any kind of hostilities with Europe,” Putin told reporters in St Petersburg, according to AFP. He said Russia had “no real motive” to escalate tensions and criticised European countries for saying they needed to prepare for a possible war with Russia.Putin’s remarks came a day after the Danish intelligence warning and amid growing concern among several European NATO members over possible Russian provocations or attacks.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>mint_news</wire:foundAt>
+      <wire:platform>Mint</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.livemint.com/news/world/russia-may-intensify-hybrid-warfare-against-nato-in-coming-months-denmark-warns-putin-rejects-claims-11790433168029.html</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: according to Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>
