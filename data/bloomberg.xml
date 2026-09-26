@@ -5,8 +5,395 @@
     <link>./</link>
     <description>Confirmed Bloomberg originals and reposts.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 26 Sep 2026 01:53:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 07:15:51 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>The Mishal Husain Show: Qatar PM On Middle East 'Earthquake'</title>
+      <link>https://www.bloomberg.com/news/videos/2026-09-26/the-mishal-husain-show-qatar-pm-on-middle-east-attacks-video</link>
+      <guid isPermaLink="false">cad7ac5383df566109c602a1</guid>
+      <pubDate>Sat, 26 Sep 2026 07:08:31 +0000</pubDate>
+      <description>The Middle East is facing an “earthquake” as attacks on civilian infrastructure increasingly cross long-standing red lines, Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al-Thani tells Mishal Husain. (Source: Bloomberg)</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_politics</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/videos/2026-09-26/the-mishal-husain-show-qatar-pm-on-middle-east-attacks-video</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>OpenAIで再び隔離環境に不備、訓練中の自律型AIがネットにアクセス</title>
+      <link>https://news.yahoo.co.jp/articles/b66cd6a048207ae3b30ea0ec87458cb3176da860</link>
+      <guid isPermaLink="false">5bcaa42736a50353b4dd5718</guid>
+      <pubDate>Sat, 26 Sep 2026 06:45:37 +0000</pubDate>
+      <description>（ブルームバーグ）：</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;（ブルームバーグ）： OpenAIは、インターネットから遮断された安全な環境で訓練していたはずの自律型AIシステムがウェブに接続し、外部の第三者チャットボットにアクセスしていたことを明らかにした。&lt;/p&gt;&lt;p&gt;25日にOpenAIのウェブサイトに掲載されたブログ投稿によると、問題が発覚したのは1週間足らず前。同社の自律型AIシステムの一つが、外部ネットワークから隔離された「サンドボックス」と呼ばれる環境での訓練中に「隙間」を突き、インターネットに接続。第三者のチャットボットサービスに「フランスの首都はどこか」など、少なくとも20件の質問を送信した。サービス名は明らかにしていない。&lt;/p&gt;&lt;p&gt;同社によると、こうした隔離環境からの逸脱に伴うセキュリティー上のインシデントは7月以来だった。当時、社内テスト中に複数のモデルが連携してネットに接続し、AIプラットフォームのハギングフェイスのシステムに意図せず侵入した。&lt;/p&gt;&lt;p&gt;OpenAIは今回の問題について、「取り組みの次の段階で、どこに重点を置くべきかを示す重要な手掛かりとなる」と説明。サンドボックスの不備を解消するまで、最も高性能なモデルについて、ツールを使用する訓練を一時停止すると決めた。また、「当該モデルの訓練は再開しない」とした。&lt;/p&gt;&lt;p&gt;ここ数カ月、OpenAIやアンソロピック、グーグルのディープマインド、メタ・プラットフォームズが開発したAIモデルによる侵入が相次ぎ、サイバーセキュリティーやAIの安全性の専門家の間で懸念が広がっている。&lt;/p&gt;&lt;p&gt;アンソロピックのダリオ・アモデイ最高経営責任者（CEO）が2週間前に業界全体でAI開発のペースを落とすよう呼び掛けた際も、ハギングフェイスの一件を理由の一つに挙げていた。OpenAIのサム・アルトマンCEOや実業家イーロン・マスク氏らは直ちに賛同を表明。AI規制強化の必要性を巡る世界的な議論に発展した。&lt;/p&gt;&lt;p&gt;OpenAIは、自律型AIシステムが以前ネットに接続した際に引き起こした問題をなお調査する中で、今回の不備を公表した。同社は25日、同社のAIモデルが訓練や評価の過程で、国勢調査局や米証券取引委員会（SEC）など米政府機関のウェブサイトにある公開情報にアクセスしていたことを認めた。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_bloomberg</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/b66cd6a048207ae3b30ea0ec87458cb3176da860</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Another OpenAI sandbox fails, agentic AI system gains internet access</title>
+      <link>https://www.business-standard.com/technology/tech-news/another-openai-sandbox-fails-agentic-ai-system-gains-internet-access-126092600353_1.html</link>
+      <guid isPermaLink="false">ce9975e6b08eac7f2accb40d</guid>
+      <pubDate>Sat, 26 Sep 2026 06:42:40 +0000</pubDate>
+      <description>The system reached a third-party chatbot during training, prompting OpenAI to pause tool-use training on its most capable models until the flaw was fixed ...</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;By Lynn Doan OpenAI said another agentic AI system that was being trained in what was supposed to be a secure, internet-free environment was able to gain access to the web to reach an external, third-party chatbot. The discovery was made less than a week ago, according to a blog post on OpenAI’s website on Friday. One of its agentic AI systems was being trained in a sandbox environment when it exploited a “gap” to reach the public internet. With that access, it sent at least 20 queries to an unnamed, third-party chatbot service, including “What is the capital of France,” the report showed.  OpenAI described the breakout as the first security incident of its kind since a combination of models gained internet access during internal testing and inadvertently breached the system of the AI platform Hugging Face in July.   “It gives us an important signal about where to focus the next phase of that work,” the AI developer said. The company said it decided after the latest incident to pause training with tool use on its most capable models until the sandbox flaw was resolved. “We will not resume training this particular model,” OpenAI added. Breaches by AI models developed OpenAI, Anthropic PBC, Google’s DeepMind and Meta Platforms Inc. in recent months have alarmed cybersecurity and AI safety experts. The Hugging Face incident was among the reasons cited by Anthropic Chief Executive Officer Dario Amodei when he called for an industrywide slowdown in AI development two weeks ago. His call, quickly endorsed by OpenAI CEO Sam Altman, Elon Musk and others, has touched off a global debate over the need for more AI regulation.  OpenAI disclosed the latest sandbox failure even while it’s still working to understand the disruption brought about by its agentic AI systems when they previously gained access to the internet. The company confirmed on Friday that its models accessed information from US government websites, including those of the Census Bureau and the Securities and Exchange Commission, during training and evaluation.  Just days ago, OpenAI disclosed that its models had disrupted an Australian government website earlier this year.  The most recent sandbox breach also exposed gaps in OpenAI’s operational processes. A “human reviewer” received an alert from an internal monitoring system and acknowledged it on Slack within three minutes, but the training run didn’t automatically stop as expected, the blog post showed. It took more than two hours for someone to manually stop the run, according to the report.  “It’s unfortunate that even after upping their security in the wake of Hugging Face, OpenAI’s models are still capable of gaining unauthorised internet access,” said Sydney Von Arx, founder of an AI safety nonprofit Nightingale. “The big question now is whether they will slap a Band-Aid on this and turn training back on ASAP versus if they’ll find the root cause of the issue and fix it.”&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.business-standard.com/technology/tech-news/another-openai-sandbox-fails-agentic-ai-system-gains-internet-access-126092600353_1.html</wire:canonicalUrl>
+      <wire:evidence>structured credit: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Siemens Launches Fresh AI Reinvention Drive to Boost Returns</title>
+      <link>https://www.bloomberg.com/news/articles/2026-09-26/siemens-launches-fresh-ai-reinvention-drive-to-boost-returns</link>
+      <guid isPermaLink="false">babe66f85e187568bc667b9b</guid>
+      <pubDate>Sat, 26 Sep 2026 05:00:00 +0000</pubDate>
+      <description>Siemens AG’s Chief Executive Officer Roland Busch is launching a reorganization of the German industrial behemoth to mesh its digital and real-world products, part of a push to lift profitability closer to the elevated returns reaped by tech companies.</description>
+      <dc:creator>Marilen Martin</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_industries</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-09-26/siemens-launches-fresh-ai-reinvention-drive-to-boost-returns</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Burnham to Outline Vision for Britain’s Economy at Labour Conference</title>
+      <link>https://www.bloomberg.com/news/articles/2026-09-26/burnham-to-outline-vision-for-britain-s-economy-at-labour-conference</link>
+      <guid isPermaLink="false">b42959a0f32e729315115fb3</guid>
+      <pubDate>Sat, 26 Sep 2026 05:00:00 +0000</pubDate>
+      <description>Andy Burnham will tell the Labour Party faithful next week that he’s the leader who’ll deliver the hope and change they so badly want. The underlying message is slightly more nuanced: stick with me because things might get worse before they get better.</description>
+      <dc:creator>Alex Wickham, Chloe Chaplain and Joe Mayes</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_politics</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-09-26/burnham-to-outline-vision-for-britain-s-economy-at-labour-conference</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>US Says China to Buy 10 Million Tons of Coal in 2027, 2028</title>
+      <link>https://www.bloomberg.com/news/articles/2026-09-26/us-says-china-to-buy-10-million-tons-of-coal-in-2027-and-2028</link>
+      <guid isPermaLink="false">4608e8ab8fcf387f28136882</guid>
+      <pubDate>Sat, 26 Sep 2026 04:52:45 +0000</pubDate>
+      <description>China agreed to import at least 10 million metric tons of coal from the US next year and again in 2028, according to the White House, in a sign of further progress in easing trade frictions between the world’s two largest economies.</description>
+      <dc:creator>Bloomberg News</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_markets</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-09-26/us-says-china-to-buy-10-million-tons-of-coal-in-2027-and-2028</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Another OpenAI Sandbox Failed, AI Agent Gained Internet Access</title>
+      <link>https://www.bloomberg.com/news/articles/2026-09-26/another-openai-sandbox-failed-ai-agent-gained-internet-access</link>
+      <guid isPermaLink="false">9a178bb59d19305724405329</guid>
+      <pubDate>Sat, 26 Sep 2026 04:29:43 +0000</pubDate>
+      <description>OpenAI said another agentic AI system that was being trained in what was supposed to be a secured, internet-free environment was able to gain access to the web to reach an external, third-party chatbot.</description>
+      <dc:creator>Lynn Doan</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_technology</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-09-26/another-openai-sandbox-failed-ai-agent-gained-internet-access</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>米ディーゼル輸出禁止は見送りへ、ホワイトハウスが示唆－上院議員</title>
+      <link>https://news.yahoo.co.jp/articles/37f013dbf7dc32c82ba58351e33184659aac4bd5</link>
+      <guid isPermaLink="false">13f3052e8ba647a836165c6a</guid>
+      <pubDate>Sat, 26 Sep 2026 04:25:49 +0000</pubDate>
+      <description>（ブルームバーグ）：</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;（ブルームバーグ）： トランプ政権が米国産ディーゼル燃料の輸出を禁止することはないと、ホワイトハウスは確約した。共和党のクルーズ上院議員が25日遅く、石油精製業界の幹部に伝えた。&lt;/p&gt;&lt;p&gt;協議の非公開を理由に匿名を条件に語った複数の関係者が明らかにした。トランプ政権はディーゼル燃料価格の記録的な高騰を受け、価格を引き下げる方策を検討している。&lt;/p&gt;&lt;p&gt;トランプ大統領は今週、ディーゼル燃料の輸出禁止を検討するよう側近に指示したと明らかにしていた。小売価格が今週初めに初めて1ガロン当たり6.53ドルに達したことを受け、農業州の議員らが価格抑制に向けて輸出制限を求めていた。&lt;/p&gt;&lt;p&gt;ホワイトハウス当局者は、大統領が燃料価格の下落を望んでおり、あらゆる選択肢を検討していると説明した。クルーズ氏の広報担当者と、会議を主催した米燃料石油化学製造業者協会（AFPM）は、いずれもコメント要請に返答していない。&lt;/p&gt;&lt;p&gt;輸出禁止を見送るとの説明は、トランプ氏の主要側近の一部が数カ月にわたり示してきた見解と一致する。側近らは、ディーゼル燃料の輸出規制は最終的に弊害のほうが大きくなると繰り返し警告してきた。&lt;/p&gt;&lt;p&gt;ただ、トランプ氏は時に予測の難しい行動を取り、主要側近の全面的な賛同がないまま異例の政策を採用することもある。最終的な判断を下すのは大統領だ。&lt;/p&gt;&lt;p&gt;関係者によると、クルーズ議員はホワイトハウスから確約を得たと説明したが、大統領本人から得たとは述べていない。誰が輸出禁止を否定したのか、同議員は詳しくは明かさなかったという。&lt;/p&gt;&lt;p&gt;トランプ氏も政権当局者も、具体的な対応策を決定していない。短期間のディーゼル燃料輸出禁止が経済に与える影響の分析を続ける一方、価格抑制に向けた他の措置も検討している。浮上している案の一つが、通常は公道以外での使用に限られる赤色ディーゼルについて、利用制限を緩和することだ。&lt;/p&gt;&lt;p&gt;農業従事者などが公道以外で使うレッドディーゼルは非課税のため、利用制限の緩和は、1ガロン当たり約24セントの連邦税を含む一部のディーゼル燃料税を事実上停止することになる。この案が実現すれば、農業従事者やトラック運送業者などの燃料費負担が軽減される。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_bloomberg</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/37f013dbf7dc32c82ba58351e33184659aac4bd5</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>CNN Barred from Trump Trip, WSJ: Trump Rejects 7 Day Ceasefire</title>
+      <link>https://www.bloomberg.com/news/audio/2026-09-26/cnn-barred-from-trump-trip-wsj-trump-rejects-7-day-ceasefire</link>
+      <guid isPermaLink="false">09a105b3c9053f30f3258729</guid>
+      <pubDate>Sat, 26 Sep 2026 03:34:56 +0000</pubDate>
+      <description>Source: Bloomberg, 5:40</description>
+      <dc:creator>ED KALEGI</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_business</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-09-26/cnn-barred-from-trump-trip-wsj-trump-rejects-7-day-ceasefire</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>US seeks to expand passport records access for voter citizenship checks</title>
+      <link>https://www.business-standard.com/world-news/us-seeks-to-expand-passport-records-access-for-voter-citizenship-checks-126092600151_1.html</link>
+      <guid isPermaLink="false">26fa5fd04bb68c7f2152e508</guid>
+      <pubDate>Sat, 26 Sep 2026 03:28:13 +0000</pubDate>
+      <description>The State Department proposal would expand access to passport records for state and local officials and potentially some nonprofits to verify voter eligibility ...</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;By Zoe Tillman The US State Department is moving to give state and local officials, as well as potentially some nonprofit organisations, access to passport records to verify voters’ citizenship. The plan, laid out in a notice recently sent to key lawmakers on Capitol Hill, would add “voter eligibility” to the official list of “routine uses” for the State Department’s passport services records and provide access beyond government entities. Historically, uses of the data have primarily involved domestic and international government agencies and officials.  The expansion would dovetail with a controversial campaign by the Trump administration to tap into federal records to pursue election fraud investigations and aid states reviewing their voter rolls. It could give more entities access to sensitive data, which is subject to US privacy laws.  The State Department’s notice, a copy of which was obtained by Bloomberg News, doesn’t specify what nonprofit groups would be eligible to gain access. Based on bureaucratic timelines, the proposal wouldn’t take effect until after the Nov. 3 midterms, when Republicans are defending their slim majority in Congress.Broader PushStill, the changes could end up factoring in the administration’s broader push to play a bigger role in some aspects of elections. States, and not the federal government, are primarily in charge of running voting under the US Constitution.  Critics allege President Donald Trump is pressing baseless claims of widespread fraud and unlawfully asserting a larger federal role in elections. Trump and his allies have advocated for more aggressive federal efforts to root out noncitizen voting and fraud. Studies in the past have shown that such incidents are relatively rare.  State Department spokesperson Edgar Vasquez said in a statement that “President Trump has been unequivocal that this administration will protect the meaning and value of American citizenship. In order to uphold the highest degree of national security, it is basic common sense for the US government to use all the information available across agencies to protect election integrity. We are laser focused on delivering results for the American people.”  A number of conservative-leaning advocacy groups have backed the Trump administration’s “election integrity” policies and some have filed lawsuits accusing Democrat-led states of failing to clean up their voter rolls. The Justice Department notified a judge about the State Department’s plan earlier in the week in a pending fight over Trump’s March executive order directing federal agencies to play a larger role in voter verification. The department didn’t include a copy or the full text of the proposed language in the public court filing. Anna Baldwin, director of voting rights litigation at the Campaign Legal Center, one of the groups pursuing the litigation, said they’re concerned that the State Department’s proposal is “not just unprecedented but unlawful,” given the privacy protections for personal information that Americans share with federal agencies. “In the service of chasing this fiction of an epidemic of noncitizen voting, the administration is just determined to vacuum up data from wherever they can,” Baldwin said. “Here they’re talking about disclosing it to even nongovernmental entities.” In addition to passport-related services, the other approved uses for these records in the past have included verifying citizenship and identity for “social security benefits, employment applications, estate settlements, and federal and state law enforcement and counterterrorism purposes,” according to the existing guidelines.Trio of LawsuitsThe Justice Department’s notice earlier this week came in a trio of lawsuits in Washington federal court contesting key sections of Trump’s executive order, which included instructions to create a list of US citizens potentially eligible to vote using information from “relevant federal databases” to provide to state election offices as guidance.  Democratic Party leaders and organisations and voting rights advocates that sued have accused Trump and administration officials of unlawfully overstepping in an effort to assert greater federal control over elections and, in the short term, to help Republicans keep their majorities in Congress.  The judge had required the government to update the court on any “material factual developments” while the case is pending. Democracy Docket earlier reported the Justice Department’s notice. According to the Justice Department, the State Department will formally publish the proposal in the Federal Register 30 days after it notified the congressional committees. After that, the public will get another 30 days to submit comments.  Another part of Trump’s contested order related to the US Postal Service became the focus of intense legal wrangling in recent weeks. Federal judges blocked the postal agency from quickly implementing new restrictions on how it handles mail-in ballots in time for the November midterms, and the Supreme Court rebuffed the Justice Department’s request to immediately intervene. Separately, the US Supreme Court on Friday lifted a lower court block on its expansion of the Systematic Alien Verification for Entitlements, or SAVE, database to include information from the Social Security Administration as well as immigration records, and to allow states to run bulk searches.  A federal district judge in Washington had concluded that plan violated US privacy laws and put Americans at risk of having their voter registrations wrongly canceled.  Hours after the Supreme Court released its order, a federal judge in Maryland heard arguments in another lawsuit challenging how administration officials are seeking to carry out Trump’s March executive order and compile citizenship lists. With less than six weeks until the Nov. 3 midterms, states are within a 90-day window when federal law bars any program to “systematically” remove ineligible voters from their rolls, but election officials can still take steps to cancel registrations on an individualised basis. The case is DSCC v. Trump, 1:26-cv-01114, US District, District of Columbia (Washington).&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.business-standard.com/world-news/us-seeks-to-expand-passport-records-access-for-voter-citizenship-checks-126092600151_1.html</wire:canonicalUrl>
+      <wire:evidence>structured credit: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>OpenAI's models accessed US govt websites including US census and SEC data</title>
+      <link>https://www.business-standard.com/technology/tech-news/openai-s-models-accessed-us-govt-websites-including-us-census-and-sec-data-126092600143_1.html</link>
+      <guid isPermaLink="false">8181588d934e1a0c3b2219cc</guid>
+      <pubDate>Sat, 26 Sep 2026 03:20:20 +0000</pubDate>
+      <description>The company said its models accessed publicly available data from Census and SEC websites as it investigates incidents involving AI systems bypassing security controls ...</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;By Rachel Metz, Jeff Stone and Jake Bleiberg OpenAI’s artificial intelligence models accessed publicly available information from US government websites, including those of the Census Bureau and the Securities and Exchange Commission. The company’s agentic AI systems interacted with SEC.gov and Investor.gov, as well as publicly available data from Census.gov, people familiar with the situation said, asking not to be identified, discussing private matters. OpenAI separately confirmed that its models accessed publicly available information from the websites during training and evaluation of the technology. Earlier Friday, the company said it had notified “dozens” of organisations, including governments and universities, whose websites may have been hampered by visits from its AI models during evaluations of the technology.  OpenAI has said it’s carrying out an in-depth review of incidents of “misalignment” during training and testing, which will take months to complete. The company’s efforts to work out exactly what its AI agents have done underscore one of the biggest concerns among cybersecurity experts about these incidents: The systems have carried out these tasks largely without the companies that created them knowing in real time. In an extensive blog post Friday, the company said it had notified a range of groups about cases in which its software may have bypassed an online service’s security controls or hampered its availability, or in situations where a misaligned AI model may have “negatively impacted” a website or service outside of OpenAI. The company discovered these incidents while expanding a probe it began after its AI inadvertently hacked Hugging Face several months ago. OpenAI said the websites that were affected include ones run by governments, universities, public agencies, and other groups. In a statement, OpenAI spokesperson Liz Bourgeois said, “We’re conducting an extensive review of misaligned model activity and notifying organisations when we identify potential impacts to their systems. We expect to make additional notifications as that work continues. Most of the activity we’ve reviewed so far involved routine research tasks, such as accessing public web content to answer questions.” Only days ago, OpenAI acknowledged that its AI models hacked an Australian government website earlier this year, marking one of the first known AI cyberattacks on a government database. The company said in a statement that the breach occurred while it was evaluating its models. Australian Prime Minister Anthony Albanese said this week that OpenAI’s technology had gained unauthorised access to a government website used for reporting healthcare statistics. The hack, on June 18, didn’t appear to compromise Australians’ personal information, he said.  OpenAI said a post on social network X on Friday that most of the actions it has reviewed involved AI models carrying out “mundane research tasks,” like getting answers to questions from websites. The company said it expects it to take months to finish its review. In a post on X Friday, OpenAI chief Sam Altman said the company has not worked as fast as it would like, but that it is balancing transparency with the need to find information in huge amounts of data in activity logs and then work with the companies that were impacted. “We are prioritising as best as we can based on severity, and adding resources,” Altman said. Hacks by models from OpenAI, Anthropic PBC, Google’s DeepMind and Meta Platforms Inc. have resulted in widespread cybersecurity concerns for major companies. Cyber vendors typically provide products that monitor for known strains of malicious software, or detect and block anomalous behaviors. Traditional cyber software such as firewalls, email filters and incident response tools specialise in detecting those threats, and then alerting human staffers who isolate breached accounts or devices. AI models have proven to be significantly more advanced, sometimes finding previously unknown software vulnerabilities and then using multiple flaws at a time to breach a targeted organisation. Such compromises are harder to stop, and could provide malicious attackers with deep access to infected systems while remaining hidden from cybersecurity staffers.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.business-standard.com/technology/tech-news/openai-s-models-accessed-us-govt-websites-including-us-census-and-sec-data-126092600143_1.html</wire:canonicalUrl>
+      <wire:evidence>structured credit: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Bloomberg Hot Pursuit!: Larry Warsh (Podcast)</title>
+      <link>https://www.bloomberg.com/news/audio/2026-09-26/bloomberg-hot-pursuit-larry-warsh-podcast</link>
+      <guid isPermaLink="false">0f7d37aeda719e4b6d67428c</guid>
+      <pubDate>Sat, 26 Sep 2026 02:49:38 +0000</pubDate>
+      <description>Source: Bloomberg, 72:11</description>
+      <dc:creator>VITORIA ROGERIO</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_business</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-09-26/bloomberg-hot-pursuit-larry-warsh-podcast</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>CNN Blocked from Air Force One, WSJ: Trump Rejects Ceasefire</title>
+      <link>https://www.bloomberg.com/news/audio/2026-09-26/cnn-blocked-from-air-force-one-wsj-trump-rejects-ceasefire</link>
+      <guid isPermaLink="false">54acbeb13551782e5cac5dfd</guid>
+      <pubDate>Sat, 26 Sep 2026 02:49:14 +0000</pubDate>
+      <description>Source: Bloomberg, 6:22</description>
+      <dc:creator>ED KALEGI</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_business</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-09-26/cnn-blocked-from-air-force-one-wsj-trump-rejects-ceasefire</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Billionaire Charoen’s Asset World Targets $1 Billion REIT IPO</title>
+      <link>https://www.bloomberg.com/news/articles/2026-09-26/billionaire-charoen-s-asset-world-targets-1-billion-reit-ipo</link>
+      <guid isPermaLink="false">827c12aadadd786c024513a0</guid>
+      <pubDate>Sat, 26 Sep 2026 02:42:50 +0000</pubDate>
+      <description>Asset World Corp Pcl’s new Thai Real Estate Investment Trust aims to raise at least $1 billion through a listing as it seeks funds to expand its hotel and commercial property business, according to a senior executive.</description>
+      <dc:creator>Anuchit Nguyen</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_markets</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-09-26/billionaire-charoen-s-asset-world-targets-1-billion-reit-ipo</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>White House Signals It Won’t Ban Diesel Exports, Senator Says</title>
+      <link>https://www.bloomberg.com/news/articles/2026-09-26/white-house-signals-it-won-t-ban-diesel-exports-senator-says</link>
+      <guid isPermaLink="false">10b5e62b5267b6909cc62b89</guid>
+      <pubDate>Sat, 26 Sep 2026 02:35:53 +0000</pubDate>
+      <description>The White House has offered assurances that the Trump administration won’t ban US diesel exports, Senator Ted Cruz told refining industry leaders late Friday.</description>
+      <dc:creator>Jennifer A. Dlouhy and Nathan Risser</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_politics</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-09-26/white-house-signals-it-won-t-ban-diesel-exports-senator-says</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Trump Rejects Iran’s Seven-Day Ceasefire Proposal, WSJ Reports</title>
+      <link>https://www.bloomberg.com/news/articles/2026-09-26/trump-rejects-iran-s-seven-day-ceasefire-proposal-wsj-reports</link>
+      <guid isPermaLink="false">498eaae38e8a7a7afd2e9e9b</guid>
+      <pubDate>Sat, 26 Sep 2026 02:25:27 +0000</pubDate>
+      <description>President Donald Trump declined Tehran’s proposal for a seven-day ceasefire and expects to resume bombing Iran after the US midterm elections in November, the Wall Street Journal reported.</description>
+      <dc:creator>Dave Sebastian</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_politics</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-09-26/trump-rejects-iran-s-seven-day-ceasefire-proposal-wsj-reports</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>WSJ: Trump Rejects Ceasefire, Trump Says More Meetings with Xi</title>
+      <link>https://www.bloomberg.com/news/audio/2026-09-26/wsj-trump-rejects-ceasefire-trump-says-more-meetings-with-xi</link>
+      <guid isPermaLink="false">f21acca0db1b79833956d17f</guid>
+      <pubDate>Sat, 26 Sep 2026 02:08:26 +0000</pubDate>
+      <description>Source: Bloomberg, 6:58</description>
+      <dc:creator>ED KALEGI</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_business</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-09-26/wsj-trump-rejects-ceasefire-trump-says-more-meetings-with-xi</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Deel Dealt Fresh Setbacks in Rippling Case Over Alleged Spying</title>
+      <link>https://www.bloomberg.com/news/articles/2026-09-26/deel-dealt-fresh-setbacks-in-rippling-case-over-alleged-spying</link>
+      <guid isPermaLink="false">ae067ae3c379119d4c42d0e9</guid>
+      <pubDate>Sat, 26 Sep 2026 02:07:32 +0000</pubDate>
+      <description>Deel Inc. was hit with new setbacks in Rippling Inc.’s corporate espionage litigation against the HR startup.</description>
+      <dc:creator>Peter Blumberg</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_technology</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-09-26/deel-dealt-fresh-setbacks-in-rippling-case-over-alleged-spying</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Taylor Swift será la gran apuesta de Paramount para impulsar MTV: estrenará ‘Patient Zero’ en los VMAs</title>
+      <link>https://www.bloomberglinea.com/negocios/taylor-swift-sera-la-gran-apuesta-de-paramount-para-impulsar-mtv-estrenara-patient-zero-en-los-vmas/</link>
+      <guid isPermaLink="false">53bf883a4e96eba6f998ae41</guid>
+      <pubDate>Sat, 26 Sep 2026 01:58:55 +0000</pubDate>
+      <description>La compañía espera aprovechar la popularidad de la cantante durante la ceremonia para revitalizar su canal de cable, que ha sufrido una fuerte caída de audiencia en las últimas dos décadas.</description>
+      <dc:creator>Hannah Miller</dc:creator>
+      <content:encoded>&lt;p&gt;Bloomberg — Paramount Skydance Corp. ( PSKY ) aprovechará el “efecto Taylor Swift” para la gala de los Video Music Awards que se celebrará este domingo, mientras continúa trabajando en la renovación de su canal de cable MTV. La multimillonaria cantautora anunció este jueves que estrenará durante la gala de entrega de premios un videoclip que cuenta con un reparto estelar para su próximo sencillo, “Patient Zero” (Paciente cero). Ver más: Ni Bad Bunny ni k-pop: Taylor Swift se impone como la artista global más vendida del 2025 Además, recibirá un premio en reconocimiento a los artistas que también ejercen de directores, lo que la convertirá en la persona más galardonada en la historia del programa, informó la empresa en un comunicado. La popularidad de Swift ha contribuido a incrementar los índices de audiencia televisiva en diversos eventos, incluidos los partidos de la NFL (Liga Nacional de Fútbol Americano), en los que se la ha visto animando a su esposo Travis Kelce, ala cerrada de los Kansas City Chiefs. La boda de Swift con Kelce, que tuvo lugar en julio en el Madison Square Garden de Nueva York, fue objeto de una extensa cobertura mediática a pesar de que no se permitió la entrada a la prensa. Un impulso en los índices de audiencia gracias a la aparición de Swift podría ayudar a Paramount a revitalizar todavía más su cadena MTV de cara a su fusión prevista con Warner Bros. Discovery Inc. ( WBD ) Paramount han mantenido conversaciones con grandes empresas y figuras destacadas de la industria musical para adquirir una participación en la cadena, que en su día fue un pilar de la cultura pop, pero que ha experimentado un fuerte descenso en la audiencia durante las últimas dos décadas, tal y como informó Bloomberg News a inicios de este año. El año pasado, Paramount también transmitió los Video Music Awards por su cadena CBS, lo que provocó un aumento considerable de su audiencia. La ceremonia de este año continuará transmitiéndose por CBS, así como por MTV y el servicio de streaming Paramount+. Swift publicó en sus redes sociales un avance de 13 segundos en el que anunciaba el estreno del videoclip. Ella dirigió el video, en el que participan las estrellas de cine Colin Farrell y Dakota Johnson. Tiene previsto lanzar cuatro nuevas canciones este viernes como parte de una edición ampliada de su álbum “The Life of a Showgirl” , que publicó con Universal Music Group en 2025. Lea más en Bloomberg.com&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_linea_discovery</wire:foundAt>
+      <wire:platform>Bloomberg Línea</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bloomberglinea.com/negocios/taylor-swift-sera-la-gran-apuesta-de-paramount-para-impulsar-mtv-estrenara-patient-zero-en-los-vmas/</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: Bloomberg —</wire:evidence>
+    </item>
+    <item>
+      <title>Modelos de OpenAI accedieron a información pública del Censo y la SEC de EE.UU.</title>
+      <link>https://www.bloomberglinea.com/tecnologia/modelos-de-openai-accedieron-a-informacion-publica-del-censo-y-la-sec-de-eeuu/</link>
+      <guid isPermaLink="false">d26f9aef6e72aa5d67a7ff1b</guid>
+      <pubDate>Sat, 26 Sep 2026 01:55:48 +0000</pubDate>
+      <description>OpenAI confirmó por separado que sus modelos accedieron a información pública de dichos sitios web durante el entrenamiento y la evaluación de la tecnología.</description>
+      <dc:creator>Jake Bleiberg, Rachel Metz, Jeff Stone</dc:creator>
+      <content:encoded>&lt;p&gt;Bloomberg — Los modelos de inteligencia artificial de OpenAI accedieron a información disponible públicamente en sitios web del gobierno estadounidense, incluidos los de la Oficina del Censo y la Comisión de Bolsa y Valores. Según fuentes familiarizadas con la situación, que pidieron no ser identificadas por tratarse de asuntos privados, los sistemas de IA de la compañía interactuaron con SEC.gov e Investor.gov, así como con datos públicos de Census.gov. OpenAI confirmó por separado que sus modelos accedieron a información pública de dichos sitios web durante el entrenamiento y la evaluación de la tecnología. Ver más: Trump pide frenar acceso de Reino Unido a modelos de OpenAI y Anthropic: EE.UU. busca revisarlos primero El viernes por la mañana, la empresa afirmó que había notificado a “docenas” de organizaciones, entre ellas gobiernos y universidades, cuyos sitios web podrían haber visto afectado su funcionamiento por las visitas de sus modelos de IA durante las evaluaciones de la tecnología. OpenAI ha declarado que está llevando a cabo una revisión exhaustiva de los incidentes de “desalineación” durante el entrenamiento y las pruebas, la cual tardará meses en completarse. Los esfuerzos de la compañía por determinar con exactitud qué han hecho sus agentes de IA ponen de manifiesto una de las mayores preocupaciones de los expertos en ciberseguridad respecto a estos incidentes: los sistemas han realizado estas tareas en gran medida sin que las empresas que los crearon lo supieran en tiempo real. En una extensa entrada de blog publicada el viernes, la empresa afirmó que había notificado a diversos grupos los casos en los que su software podría haber eludido los controles de seguridad de un servicio en línea o haber mermado su disponibilidad, así como situaciones en las que un modelo de IA desalineado podría haber “afectado negativamente” a un sitio web o servicio ajeno a OpenAI. La empresa descubrió estos incidentes mientras ampliaba una investigación que había iniciado después de que su IA hackeara inadvertidamente Hugging Face hace varios meses. OpenAI señaló que entre los sitios web afectados se encuentran algunos gestionados por gobiernos, universidades, organismos públicos y otras entidades. En un comunicado, la portavoz de OpenAI, Liz Bourgeois, declaró: “Estamos llevando a cabo una revisión exhaustiva de la actividad de los modelos que no se ajustan a los estándares y notificando a las organizaciones cuando identificamos posibles impactos en sus sistemas. Prevemos realizar notificaciones adicionales a medida que avance este trabajo. La mayor parte de la actividad que hemos revisado hasta ahora consistió en tareas de investigación rutinarias, como acceder a contenido web público para responder preguntas”. Ver más: Un agente de OpenAI recibió un “no” y siguió adelante: así hackeo una web del Gobierno de Australia Hace solo unos días, OpenAI reconoció que sus modelos de IA piratearon un sitio web del Gobierno australiano a principios de este año, lo que supuso uno de los primeros ciberataques conocidos de IA contra una base de datos gubernamental. La empresa afirmó en un comunicado que la brecha se produjo mientras evaluaba sus modelos. El primer ministro australiano, Anthony Albanese, declaró esta semana que la tecnología de OpenAI había obtenido acceso no autorizado a un sitio web gubernamental utilizado para la publicación de estadísticas sanitarias. El ataque, ocurrido el 18 de junio, no parece haber puesto en peligro la información personal de los australianos, afirmó. OpenAI señaló el viernes en una publicación en la red social X que la mayoría de las acciones que ha revisado consistían en modelos de IA que realizaban “tareas de investigación rutinarias”, como obtener respuestas a preguntas de sitios web. La empresa indicó que prevé que le llevará meses completar su revisión. En una publicación en X el viernes, el CEO de OpenAI, Sam Altman, señaló que la empresa no ha trabajado tan rápido como le gustaría, pero que está buscando un equilibrio entre la transparencia y la necesidad de encontrar información en enormes cantidades de datos de los registros de actividad para, posteriormente, colaborar con las empresas afectadas. “Estamos priorizando en la medida de lo posible según la gravedad y destinando recursos adicionales”, dijo Altman. Los ataques informáticos perpetrados por modelos de OpenAI, Anthropic PBC, DeepMind de Google y Meta Platforms Inc. ( META ) han generado gran preocupación en materia de ciberseguridad entre las principales empresas. Los proveedores de ciberseguridad suelen ofrecer productos que monitorizan variantes conocidas de software malicioso o que detectan y bloquean comportamientos anómalos. El software de ciberseguridad tradicional, como los cortafuegos, los filtros de correo electrónico y las herramientas de respuesta a incidentes, se especializa en detectar estas amenazas y alertar al personal, que aísla las cuentas o dispositivos comprometidos. Ver más: OpenAI insta a EE.UU. a impulsar normas globales para desarrollar la IA de forma segura Los modelos de IA han demostrado ser significativamente más avanzados, detectando en ocasiones vulnerabilidades de software previamente desconocidas y utilizando múltiples fallos simultáneamente para infiltrarse en una organización. Estas intrusiones son más difíciles de detener y podrían proporcionar a los atacantes maliciosos un acceso profundo a los sistemas infectados, permaneciendo ocultos para el personal de ciberseguridad. Lea más en Bloomberg.com&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_linea_discovery</wire:foundAt>
+      <wire:platform>Bloomberg Línea</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bloomberglinea.com/tecnologia/modelos-de-openai-accedieron-a-informacion-publica-del-censo-y-la-sec-de-eeuu/</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: Bloomberg —</wire:evidence>
+    </item>
+    <item>
+      <title>White House Renews Media Fight, Barring CNN From Trump Trip</title>
+      <link>https://www.bloomberg.com/news/articles/2026-09-26/white-house-renews-media-fight-barring-cnn-from-trump-trip</link>
+      <guid isPermaLink="false">77b86ae88341a9effd4d6c99</guid>
+      <pubDate>Sat, 26 Sep 2026 01:54:39 +0000</pubDate>
+      <description>The White House is refusing to allow CNN to travel on Air Force One to cover President Donald Trump’s trip to Tennessee Saturday, the network reported.</description>
+      <dc:creator>Bloomberg News</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_politics</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-09-26/white-house-renews-media-fight-barring-cnn-from-trump-trip</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Blackstone Cements Shift From Star Dealmakers With Baratta Exit</title>
+      <link>https://www.bloomberg.com/news/articles/2026-09-26/blackstone-cements-shift-from-star-dealmakers-with-baratta-exit</link>
+      <guid isPermaLink="false">349c636df8e0abda826db69f</guid>
+      <pubDate>Sat, 26 Sep 2026 01:43:05 +0000</pubDate>
+      <description>If there was any doubt that Jon Gray is now the center of gravity at Blackstone Inc., the past few weeks have erased it.</description>
+      <dc:creator>Preeti Singh and Dawn Lim</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_markets</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-09-26/blackstone-cements-shift-from-star-dealmakers-with-baratta-exit</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
     <item>
       <title>WSJ: Trump Rejects Iran Ceasefire, Trump Plans More Xi Meetings</title>
       <link>https://www.bloomberg.com/news/audio/2026-09-26/wsj-trump-rejects-iran-ceasefire-trump-plans-more-xi-meetings</link>
@@ -59,23 +446,23 @@
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
-      <title>¿Qué hacía Lady Gaga limpiando el piso y manejando la caja en una tienda de FamilyMart en Japón?</title>
-      <link>https://www.bloomberglinea.com/estilo-de-vida/que-hacia-lady-gaga-limpiando-el-piso-y-manejando-la-caja-en-una-tienda-de-familymart-en-japon/</link>
-      <guid isPermaLink="false">5f876f353d7c70f892e79dc0</guid>
-      <pubDate>Sat, 26 Sep 2026 00:31:25 +0000</pubDate>
-      <description>La icónica estrella del pop coloca aperitivos en los estantes, friega el suelo y maneja la caja registradora en un nuevo video de reclutamiento para FamilyMart.</description>
-      <dc:creator>Maho Nambu</dc:creator>
-      <content:encoded>&lt;p&gt;Bloomberg — Lady Gaga está ayudando a Japón a enfrentar la escasez de trabajadores. La icónica estrella del pop coloca aperitivos en los estantes, friega el suelo y maneja la caja registradora en un nuevo video de reclutamiento para FamilyMart. La campaña forma parte de una iniciativa de la marca japonesa para atraer a más trabajadores a tiempo parcial, ofreciéndoles mayor libertad para expresar su personalidad en el trabajo. Las empresas han recurrido a la contratación de extranjeros para contrarrestar la persistente escasez de mano de obra en Japón. Las tiendas de conveniencia, o konbini como se las conoce, han sido hasta ahora bastante estrictas con la apariencia laboral, lo que puede disuadir a los solicitantes más jóvenes. Ver más: Sony Music adquiere catálogo de Recognition con éxitos de Shakira, Lady Gaga y el clásico navideño de Mariah Carey Ahora FamilyMart, que compite con 7-Eleven y Lawson, está flexibilizando sus normas laborales, permitiendo explícitamente diferentes colores de cabello y dejando que el personal personalice sus uniformes según sus gustos y creencias. El objetivo es garantizar que “el personal de diversos orígenes, incluyendo edad y nacionalidad, pueda trabajar de forma dinámica”, afirma la empresa en su sitio web. En el video de reclutamiento de 30 segundos, Lady Gaga combina lo que parecen ser los clásicos calcetines a rayas de la tienda de conveniencia con tacones de plataforma blancos y un vestido de cuero negro. Al final, se acerca a la cámara y pregunta en japonés: “¿Quieres trabajar en FamilyMart?”. Lea más en Bloomberg.com&lt;/p&gt;</content:encoded>
+      <title>トランプ氏がイランの7日間停戦案拒否、中間選挙後に攻撃再開も－WSJ</title>
+      <link>https://news.yahoo.co.jp/articles/ae10bc7bcb770d2de920b8c022a62a146386b425</link>
+      <guid isPermaLink="false">6def0cdd74fafec98bd3a24e</guid>
+      <pubDate>Sat, 26 Sep 2026 00:40:50 +0000</pubDate>
+      <description>（ブルームバーグ）：</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;（ブルームバーグ）： トランプ米大統領は、イランが提示した7日間の停戦案を拒否し、11月の米中間選挙後にイランへの攻撃を再開する考えを側近らに伝えた。米紙ウォールストリート・ジャーナル（WSJ）が、匿名の米当局者の話として報じた。&lt;/p&gt;&lt;p&gt;WSJによると、トランプ氏は自身の要求にイランが応じる意思があるのか懐疑的になっている。7カ月に及ぶ紛争の解決に向けて両国が断続的に進めてきた交渉は、幾度も決裂しており、今回のトランプ氏の拒否で打開への道筋が再び阻まれた。&lt;/p&gt;&lt;p&gt;両国は現在も、仲介者を通じてイランの核開発計画などを巡る交渉を続けている。ただ、米国はイラン側と仲介者に対し、トランプ氏には海上封鎖を解除する考えはないと伝えたという。&lt;/p&gt;&lt;p&gt;同紙によれば、トランプ氏の考えは今後数週間で変化する可能性もあり、中間選挙の結果にも左右され得る。トランプ氏がどの程度の規模の対イラン攻撃を検討しているかは確認できなかったとしている。&lt;/p&gt;&lt;p&gt;事情に詳しい関係者によると、米国とイランの交渉担当者は、イランがホルムズ海峡の通航を再開させ、米国がイランの港湾封鎖を解除する段階的な合意を模索していた。これは、両国が6月に交わした覚書に似た内容だった。当時の覚書は不安定ながらも停戦につながったが、数週間後には崩壊した。&lt;/p&gt;&lt;p&gt;イランのペゼシュキアン大統領はニューヨークで開かれた国連総会で演説し、制裁と米国による封鎖が続く限り、ホルムズ海峡での航行の自由は認めないと表明。経済発展を目的に核技術を開発する権利も放棄しないと述べた。&lt;/p&gt;&lt;p&gt;トランプ氏は今週、米当局者がニューヨークでイランの代表団と「非常に良い」協議を行ったと述べたが、発言は国連総会での演説とは対照的だった。トランプ氏は22日の演説で、イラン指導部が合意に応じなければ同国を壊滅させると、あらためて警告した。&lt;/p&gt;&lt;p&gt;原題：Trump Rejects Iran’s Seven-Day Ceasefire Proposal, WSJ Reports（抜粋）&lt;/p&gt;</content:encoded>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_linea_discovery</wire:foundAt>
-      <wire:platform>Bloomberg Línea</wire:platform>
+      <wire:foundAt>yahoo_news_jp_bloomberg</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
       <wire:relation>repost</wire:relation>
       <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.bloomberglinea.com/estilo-de-vida/que-hacia-lady-gaga-limpiando-el-piso-y-manejando-la-caja-en-una-tienda-de-familymart-en-japon/</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: Bloomberg —</wire:evidence>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/ae10bc7bcb770d2de920b8c022a62a146386b425</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
       <title>SKハイニックス傘下ソリダイム、2027年にも米IPOを検討－関係者</title>
@@ -129,6 +516,25 @@
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-09-26/bloomberg-businessweek-daily-trump-xi-summit-wraps-podcast</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>SpaceX desplaza a York en contratos del ‘Golden Dome’ y aumenta la dependencia del Pentágono</title>
+      <link>https://www.bloomberglinea.com/mundo/estados-unidos/spacex-desplaza-a-york-en-contratos-del-golden-dome-y-aumenta-la-dependencia-del-pentagono/</link>
+      <guid isPermaLink="false">0a8632732642cc4917a2a4d9</guid>
+      <pubDate>Sat, 26 Sep 2026 00:00:46 +0000</pubDate>
+      <description>El Pentágono ha adjudicado a SpaceX contratos clave del ‘Golden Dome’, mientras York y otros proveedores reciben acuerdos mucho menores. La situación reaviva el debate sobre la competencia en el secto ...</description>
+      <dc:creator>Sana Pashankar</dc:creator>
+      <content:encoded>&lt;p&gt;Bloomberg — La empresa de satélites York Space Systems Inc. comunicó a los inversores durante su oferta pública inicial de este año que conseguir una parte del proyecto de defensa antimisiles ‘Golden Dome’, valorado en US$185.000 millones, impulsaría su crecimiento. Entonces se topó de lleno con SpaceX ( SPCX ). En mayo, la empresa de Elon Musk se adjudicó un contrato de US$2.000 millones para una red de satélites militares destinados a la comunicación y el transporte de datos, como parte del proyecto ‘Golden Dome’. Meses más tarde, a York y a otras pocas empresas solo les quedaron contratos por valor de unos pocos millones de dólares. Ver más: Peso de SpaceX en el Nasdaq 100 subirá al 2,82% desde el lunes, más del doble de su nivel actual Según fuentes familiarizadas con el asunto, muchos de los requisitos —como la velocidad y la capacidad de producción— se adaptaron de forma tan específica al Starshield de SpaceX, la versión militarizada de su red Starlink, que algunas empresas ni siquiera se molestaron en presentar una oferta. Para York, que había basado su negocio en contratos como estos —parte de un proyecto cuyo alcance total probablemente superaría el billón de dólares—, el golpe provocó una caída en picado de sus acciones. En el conjunto del sector, la decisión avivó el temor de que el enfoque del Pentágono hacia SpaceX pudiera frenar el crecimiento de posibles competidores y agravar la dependencia de un único proveedor. “No debería darse el caso de que se decida de antemano que se desea adjudicar un contrato a una empresa concreta y, a continuación, se redacten todos los criterios para que eso suceda”, afirmó Dave Vorland, quien ocupó el cargo de subsecretario adjunto en funciones de política espacial y de defensa antimisiles en la Administración Biden. “Nos gustaría ver una base industrial que incluya a más de una empresa viable”. Mientras el Pentágono se apresura a poner en funcionamiento el ‘Golden Dome’ antes de que finalice el mandato de Trump en 2028, el énfasis en la rapidez ha contribuido a una mayor y más acentuada dependencia de SpaceX, según personas familiarizadas con el asunto. La empresa de Musk ha reducido drásticamente el coste de poner en órbita satélites gracias a su cohete estrella, el Falcon 9, y cuenta con la mayor red de satélites del mundo, Starlink. Además, fabrica internamente la mayoría de los componentes de su hardware y es capaz de producir satélites en serie a un ritmo que pocas empresas, si es que hay alguna, pueden igualar. Ver más: SpaceX analiza comprar datos de startups que fracasaron para entrenar sus modelos de IA Esto ha llevado a la Fuerza Espacial a diseñar contratos de varios miles de millones de dólares específicamente para la empresa, según afirman dichas fuentes, a pesar de la resistencia que encuentra por parte del Congreso y de la Oficina de Gestión y Presupuesto. Para el contrato de la red de comunicaciones de mayo, el Pentágono eligió los satélites Starshield a pesar de que incorporan un sistema de radio de última generación que las fuerzas estadounidenses y aliadas no utilizan de forma generalizada en la actualidad, una decisión que generó controversia dentro del Pentágono, según personas familiarizadas con el asunto. Los satélites de otros proveedores, entre ellos York y Northrop Grumman Corp. ( NOC ), son compatibles con los sistemas actuales. Un portavoz de la Fuerza Espacial afirmó que el servicio está comprometido con la competencia y con la creación de una base industrial viable, y que la necesidad de actuar con rapidez viene dictada por una amenaza en rápido crecimiento. SpaceX no respondió a una solicitud de comentarios. La decisión del Departamento de Defensa en mayo fue, en parte, un intento de unificar otra red de comunicaciones gubernamental basada en Starshield, denominada originalmente MILNET, que también se enfrentaba a acusaciones de estar diseñada a medida para SpaceX. En una audiencia del Congreso celebrada en junio de 2025, el senador demócrata Chris Coons, de Delaware, afirmó que MILNET “se estaba adjudicando en exclusiva a SpaceX, sin competencia, sin arquitectura abierta y sin aprovechar un ecosistema espacial dinámico”, y que podría hacer que el Pentágono “dependiera de su tecnología patentada”. Posteriormente, se adjudicaron contratos a York y a otras cuatro empresas para dar soporte a la red de comunicaciones espacial, pero por importes mucho menores: US$12 millones cada una, aunque existen posibilidades de que se adjudiquen contratos posteriores. Ver más: Musk insinúa una posible fusión entre SpaceX y Tesla al hablar de su estrecha colaboración En el informe de resultados del segundo trimestre de York, publicado en agosto, la empresa recortó en un 32% sus previsiones de ingresos para todo el año, alegando una ralentización en los contratos gubernamentales. Las acciones han caído más de un 70% desde su salida a bolsa en enero, y al menos nueve analistas han recortado sus objetivos de precio en una media del 54% desde el 14 de agosto, según datos recopilados por Bloomberg. Se ha presentado una demanda colectiva contra la empresa, en la que se alega que York indujo a error a los inversores en relación con sus operaciones comerciales, las perspectivas de contratación y la preparación de sus satélites. Mientras tanto, SpaceX se ha convertido en una de las empresas más involucradas, tanto pública como intensamente, en el proyecto ‘Golden Dome’. Además de la red de comunicaciones, la empresa se ha adjudicado un contrato para una red de seguimiento de misiles y el programa de interceptores espaciales, y forma parte de un consorcio industrial que desarrolla el software de ‘Golden Dome’. “El problema con el que se tropieza es que, en estos momentos, solo hay una empresa capaz de fabricar satélites como estos a la escala y con la rapidez necesarias”, afirmó Todd Harrison, investigador sénior en materia de defensa del American Enterprise Institute. “Esto va a prolongar la dependencia, al menos en un futuro previsible”. Ver más: SpaceX prevé lanzar su centro de datos orbital con chips de Nvidia a finales de 2027, según Musk SpaceX cuenta además con un aliado cercano en la persona del secretario de la Fuerza Aérea, Troy Meink, quien supervisa la Fuerza Espacial, según fuentes familiarizadas con el asunto. Meink había ocupado el cargo de director de la Oficina Nacional de Reconocimiento, que, bajo su liderazgo, creó una red de inteligencia utilizando los satélites de SpaceX. En febrero de 2025, las senadoras demócratas Elizabeth Warren y Tammy Duckworth enviaron una carta a Meink, cuando se estaba barajando su candidatura para el cargo que ocupa actualmente, en la que expresaban su preocupación por un posible trato de favor hacia SpaceX. La carta se produjo tras conocerse un informe según el cual el organismo de control interno del Pentágono estaba investigando si Meink había desviado indebidamente un contrato hacia SpaceX. Según las respuestas por escrito que Meink facilitó a los legisladores, Musk estuvo presente en la entrevista que Meink mantuvo con Trump para el cargo de secretario de la Fuerza Aérea. En mayo, la Fuerza Espacial adjudicó a SpaceX otro contrato ‘Golden Dome’ por valor de US$4.000 millones dpara construir satélites destinados a rastrear aeronaves y misiles extranjeros. Según personas familiarizadas con el asunto, la Fuerza Espacial había querido adjudicar el contrato en exclusiva a SpaceX, algo que el gobierno puede hacer si existe una necesidad operativa urgente o si solo hay un proveedor. Ver más: SpaceX lanza telescopio espacial de la NASA destinado a la búsqueda de energía oscura SpaceX tendría que desarrollar paneles de radar avanzados, algo que aún no fabricaba, pero que sí producían otros proveedores, según personas familiarizadas con el asunto. Sin embargo, incluso después de que el Congreso presionara a la Fuerza Espacial para que abriera la licitación a otras empresas, los requisitos relativos a la capacidad de lanzamiento y producción seguían siendo tan exigentes que solo SpaceX podía cumplirlos. La llegada de SpaceX como la niña bonita del Pentágono supone un giro irónico respecto a sus primeros años, cuando tuvo que abrirse paso entre el dominio de la empresa conjunta United Launch Alliance —formada por Boeing Co. ( BA ) y Lockheed Martin Corp. ( LMT )— para poder licitar en lanzamientos relacionados con la defensa. En la actualidad, SpaceX se hace cargo de la mayoría de los lanzamientos relacionados con la seguridad nacional de EE.UU. y cuenta con el mayor contrato —por un valor de hasta US$5.900 millones— para lanzar cargas útiles de seguridad nacional durante los próximos cinco años. Este año, la Fuerza Espacial adjudicó a SpaceX cinco lanzamientos de seguridad nacional y a United Launch Alliance solo dos. Ver más: SpaceX puso la mira en otra empresa de IA: intentó adquirir Cognition, valorada en US$26.000 millones La Fuerza Espacial ha intentado incorporar a otros competidores. Tras las presiones del Congreso y de la Oficina de Gestión y Presupuesto, creó un grupo de proveedores para la red de seguimiento de misiles aéreos con otras empresas, entre ellas Blue Origin LLC y Rocket Lab Corp., y posteriormente adjudicó tres contratos por un valor total de US$615 millones. Aun así, SpaceX sigue desempeñando un papel desmesurado a la hora de poner en órbita cargas útiles de seguridad nacional de EE.UU. Tal dominio expone a los programas de defensa a los caprichos de Musk, quien ha mantenido una relación tumultuosa con Trump. En junio de 2025, por ejemplo, tras un desentendido entre ambos por el paquete fiscal emblemático de Trump, Musk amenazó con retirar de servicio la cápsula Dragon de SpaceX, que transporta a los astronautas hacia y desde la Estación Espacial Internacional. York, por su parte, mantiene la esperanza de que los legisladores puedan presionar a la Fuerza Espacial para que permita una mayor competencia. “Necesitamos conseguir contratos”, declaró el CEO de York, Dirk Wallinger, en una conferencia celebrada en septiembre. “El gobierno reconoce —francamente, está recibiendo bastante presión por parte del Congreso— que es necesario que haya más competencia”. -Con la colaboración de Arvelisse Bonilla Ramos y Ted Mann. Lea más en Bloomberg.com&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_linea_discovery</wire:foundAt>
+      <wire:platform>Bloomberg Línea</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bloomberglinea.com/mundo/estados-unidos/spacex-desplaza-a-york-en-contratos-del-golden-dome-y-aumenta-la-dependencia-del-pentagono/</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: Bloomberg —</wire:evidence>
     </item>
     <item>
       <title>Wing Lei Offers Affordable Michelin-Starred Cantonese Classics in Macau</title>
@@ -240,7 +646,7 @@
       <description>Brazil’s government plans to spend 15 billion reais to buy as much as 150 billion reais ($28 billion) of delinquent consumer debt from banks, part of President Luiz Inácio Lula da Silva’s push to ease the financial strain on households and bolster his bid for a fourth term.</description>
       <dc:creator>Martha Beck</dc:creator>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_markets</wire:foundAt>
+      <wire:foundAt>bloomberg_politics</wire:foundAt>
       <wire:platform>Bloomberg</wire:platform>
       <wire:relation>original</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
@@ -364,25 +770,6 @@
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-09-25/trump-says-more-meetings-with-xi-this-year-scotus-vote-decision</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>New York’s Nor’easter Threat Grows With Volatile Storm Track</title>
-      <link>https://www.livemint.com/news/new-york-s-nor-easter-threat-grows-with-volatile-storm-track-11790373812670.html</link>
-      <guid isPermaLink="false">74fe3a3ec98fe852dc72a30d</guid>
-      <pubDate>Fri, 25 Sep 2026 22:03:32 +0000</pubDate>
-      <description>A powerful coastal storm set to slam the Eastern Seaboard is threatening New York City with damaging winds and flooding across the five boroughs through Sunday.</description>
-      <dc:creator>list.metadata.agency</dc:creator>
-      <content:encoded>&lt;p&gt;(Bloomberg) -- A powerful coastal storm set to slam the Eastern Seaboard is threatening New York City with damaging winds and flooding across the five boroughs through Sunday.Up to 6 inches (15 centimeters) of rain are expected to fall in the area beginning late Friday, according to the US National Weather Service, with 50 mile-an-hour wind gusts in Manhattan. The nor’easter already is churning up large swells from the Mid-Atlantic to Maine, but the risk to New York is increasing in the latest forecasts, said weather service meteorologist Jay Engle.As the storm track shifted, New York Governor Kathy Hochul declared a state of emergency for eight counties encompassing the city and suburbs. “We’re expecting dangerous coastal flooding, strong winds and potential power outages through the weekend,” Hochul said in a statement. “Take this storm seriously.”Meanwhile, city workers were preparing for downed trees and clogged catch basins in anticipation of flooding, New York City Mayor Zohran Mamdani said in a statement.The most severe flooding along New York’s coastline is expected Saturday morning, Engle said, when up to 2 feet of water could wash ashore on top of high tide. That tide is already expected to be higher than normal due to the full moon on Saturday, known as a “Harvest Moon.” As of 4:20 p.m. New York time, 226 flights had been cancelled across the US, mostly at Boston’s Logan International Airport and at other airfields around Massachusetts, according to FlightAware. Ferry travel between downtown Boston and communities to the north and south has been canceled in anticipation of high winds and significant waves. On Thursday, droves of ferry commuters on Nantucket sought to get off the island, leading to calls to police to handle disputes about people cutting in line.Pop star Ed Sheeran’s two concerts at Gillette Stadium outside of Boston this weekend were canceled. The shows became shadowed in controversy earlier this month after stadium owner Robert Kraft pushed Sheeran to drop opening act Macklemore over the rapper’s pro-Palestine comments at a New Jersey concert.Other storm-related cancellations included the Global Citizens Festival in Central Park that was expected to draw 50,000 people and the All Things Go NYC at Forest Hills Stadium.--With assistance from Brooke Sutherland, Greg Ryan and Brian K. Sullivan.More stories like this are available on bloomberg.com©2026 Bloomberg L.P.&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>mint_news</wire:foundAt>
-      <wire:platform>Mint</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.livemint.com/news/new-york-s-nor-easter-threat-grows-with-volatile-storm-track-11790373812670.html</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: ©2026 Bloomberg</wire:evidence>
     </item>
     <item>
       <title>Bloomberg Businessweek Daily: The Tiny Magnet Maker (Podcast)</title>
@@ -636,23 +1023,6 @@
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
-      <title>Bloomberg Talks: Carlos Fernández De Cossío (Podcast)</title>
-      <link>https://www.bloomberg.com/news/audio/2026-09-25/bloomberg-talks-carlos-fernandez-de-cossio-podcast</link>
-      <guid isPermaLink="false">266c213a293a791c6c7ce6a3</guid>
-      <pubDate>Fri, 25 Sep 2026 21:16:36 +0000</pubDate>
-      <description>Source: Bloomberg, 0:00</description>
-      <dc:creator>SEBASTIAN ESCOBAR</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_business</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-09-25/bloomberg-talks-carlos-fernandez-de-cossio-podcast</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
       <title>Katerina Simonetti Discusses Risk-Off Positioning as Volatility Spikes</title>
       <link>https://www.bloomberg.com/news/videos/2026-09-25/katerina-simonetti-discusses-risk-off-positioning-video</link>
       <guid isPermaLink="false">8be40a3749ba362bf417c25c</guid>
@@ -666,40 +1036,6 @@
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/videos/2026-09-25/katerina-simonetti-discusses-risk-off-positioning-video</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Markets Bet Bank of Canada’s Macklem Has More Rate Hikes to Do</title>
-      <link>https://www.bloomberg.com/news/newsletters/2026-09-25/markets-bet-bank-of-canada-s-macklem-has-more-rate-hikes-to-do</link>
-      <guid isPermaLink="false">7719f12945db96f25817e433</guid>
-      <pubDate>Fri, 25 Sep 2026 21:14:05 +0000</pubDate>
-      <description>Plus: Som Seif warns regulators of innovation chill</description>
-      <dc:creator>Erik Hertzberg</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_business</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/newsletters/2026-09-25/markets-bet-bank-of-canada-s-macklem-has-more-rate-hikes-to-do</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Bloomberg Talks: Roberto Velasco Álvarez (Podcast)</title>
-      <link>https://www.bloomberg.com/news/audio/2026-09-25/bloomberg-talks-roberto-velasco-alvarez-podcast</link>
-      <guid isPermaLink="false">523f75614fe007a2fc0951ca</guid>
-      <pubDate>Fri, 25 Sep 2026 21:11:21 +0000</pubDate>
-      <description>Source: Bloomberg, 0:00</description>
-      <dc:creator>SEBASTIAN ESCOBAR</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_business</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-09-25/bloomberg-talks-roberto-velasco-alvarez-podcast</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
@@ -942,23 +1278,6 @@ For a closer look, we speak with Joe Deaux, Bloomberg News Senior Reporter for C
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
-      <title>US Diesel at $6.53 Fuels Debate Over Export Ban</title>
-      <link>https://www.bloomberg.com/news/newsletters/2026-09-25/us-diesel-at-6-53-fuels-debate-over-export-ban</link>
-      <guid isPermaLink="false">393fb0ba5cf4efc3e1f73925</guid>
-      <pubDate>Fri, 25 Sep 2026 20:20:18 +0000</pubDate>
-      <description>We’ve entered the highly technical time of midterms season: throwing ideas against the wall and seeing if they stick.</description>
-      <dc:creator>Nathan R Dean</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_politics</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/newsletters/2026-09-25/us-diesel-at-6-53-fuels-debate-over-export-ban</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
       <title>Americans Misunderstand Where Wealth Comes From: Ritholtz</title>
       <link>https://www.bloomberg.com/news/videos/2026-09-25/americans-misjudge-where-wealth-comes-from-ritholtz-video</link>
       <guid isPermaLink="false">c8d1da24599c538bbba769eb</guid>
@@ -993,52 +1312,20 @@ For a closer look, we speak with Joe Deaux, Bloomberg News Senior Reporter for C
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
-      <title>Manchester City Found Guilty of Nearly All 115 Premier League Charges</title>
-      <link>https://www.bloomberg.com/news/videos/2026-09-25/manchester-city-found-guilty-of-premier-league-charges-video</link>
-      <guid isPermaLink="false">7f46cb6d864011ad561d4f51</guid>
-      <pubDate>Fri, 25 Sep 2026 20:11:06 +0000</pubDate>
-      <description>Manchester City has been found guilty of nearly all 115 charges for breaking Premier League rules, in a seismic ruling that could be a massive hit to one of the world’s top football clubs, according to a person familiar with the process. (Source: Bloomberg)</description>
+      <title>Fed’s Hammack Says Yields Reflect Growth, US Debt and Rate Path</title>
+      <link>https://www.bloomberg.com/news/articles/2026-09-25/fed-s-hammack-says-yields-reflect-growth-us-debt-and-rate-path</link>
+      <guid isPermaLink="false">b9e15ef38458463ddf25eba5</guid>
+      <pubDate>Fri, 25 Sep 2026 19:51:28 +0000</pubDate>
+      <description>Federal Reserve Bank of Cleveland President Beth Hammack said long-term Treasury yields are being driven higher by a stronger growth outlook, concerns about government debt and expectations for additional interest-rate increases from the US central bank.</description>
+      <dc:creator>Jonnelle Marte</dc:creator>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_markets</wire:foundAt>
+      <wire:foundAt>bloomberg_economics</wire:foundAt>
       <wire:platform>Bloomberg</wire:platform>
       <wire:relation>original</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/videos/2026-09-25/manchester-city-found-guilty-of-premier-league-charges-video</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Hedge Funds Cut Bullish Yen Bets as BOJ Held Back on Rate Vows</title>
-      <link>https://www.bloomberg.com/news/articles/2026-09-25/hedge-funds-cut-bullish-yen-bets-as-boj-held-back-on-rate-vows</link>
-      <guid isPermaLink="false">d0c41509e9e84f2acf242823</guid>
-      <pubDate>Fri, 25 Sep 2026 20:06:07 +0000</pubDate>
-      <description>Hedge funds slashed their bets on a stronger yen after the Bank of Japan held back from providing markets with definitive vows for higher interest rates.</description>
-      <dc:creator>Anya Andrianova</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_markets</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-09-25/hedge-funds-cut-bullish-yen-bets-as-boj-held-back-on-rate-vows</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Trump Says He’ll Meet Xi Twice More</title>
-      <link>https://www.bloomberg.com/news/videos/2026-09-25/balance-of-power-early-edition-9-25-2026-video</link>
-      <guid isPermaLink="false">6011663dd2d0aa96d4a0dc53</guid>
-      <pubDate>Fri, 25 Sep 2026 20:05:56 +0000</pubDate>
-      <description>On the early edition of Balance of Power, Bloomberg Washington Correspondent Joe Mathieu discusses the conclusion of meetings between US President Trump and China President Xi Jinping. On today's show, Beacon Global Strategies Managing Director Sara Schuman, former Republican Congressman Patrick McHenry and FIL Inc. CEO Frank Luntz. (Source: Bloomberg)</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_politics</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/videos/2026-09-25/balance-of-power-early-edition-9-25-2026-video</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-09-25/fed-s-hammack-says-yields-reflect-growth-us-debt-and-rate-path</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
@@ -1078,23 +1365,6 @@ For a closer look, we speak with Joe Deaux, Bloomberg News Senior Reporter for C
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
-      <title>GOP Base 'Not Nearly as Engaged' as Dems Into Midterms, Warns Luntz</title>
-      <link>https://www.bloomberg.com/news/videos/2026-09-25/gop-base-not-nearly-as-engaged-as-dems-into-midterms-video</link>
-      <guid isPermaLink="false">03cbe9d5663de09ce6f5a828</guid>
-      <pubDate>Fri, 25 Sep 2026 19:24:11 +0000</pubDate>
-      <description>As Donald Trump took an aggressive stance on the global stage at the UN on Tuesday, several Senate Republicans were breaking from the president back in Washington.  The GOP backlash, which has been simmering below the surface throughout Trump’s second term as lawmakers privately grumbled he hasn’t focused enough on affordability issues, burst into public view as a rapid succession of Republicans challenged Trump on everything from the Iran war to the president’s “lavish” summit this week.  Republicans have long been loath to openly criticize the president, who has wielded an uncommonly strong hold over his party and retains long memories about who has crossed him. Back in May, eight Indiana state lawmakers who defied Trump on a redistricting plan faced their primary voters, and only two won.  GOP pollster and strategist Frank Luntz said Republicans should be frightened that their base "is not nearly as engaged as Democrats.
-(Source: Bloomberg)</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_politics</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/videos/2026-09-25/gop-base-not-nearly-as-engaged-as-dems-into-midterms-video</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
       <title>ICE Actions Hit Kansas Meatpacking Operations, Ranchers Say</title>
       <link>https://www.bloomberg.com/news/articles/2026-09-25/ice-activity-disrupting-thousands-of-cattle-ranchers-say</link>
       <guid isPermaLink="false">949ba2bbe200f9a4c3c995d5</guid>
@@ -1112,21 +1382,20 @@ For a closer look, we speak with Joe Deaux, Bloomberg News Senior Reporter for C
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
-      <title>New Jersey Lieutenant Governor Resigns After Ethics Probe</title>
-      <link>https://www.bloomberg.com/news/articles/2026-09-25/new-jersey-lieutenant-governor-resigns-after-harassment-probe</link>
-      <guid isPermaLink="false">a5813b67d2e275dc74a9b776</guid>
-      <pubDate>Fri, 25 Sep 2026 19:01:35 +0000</pubDate>
-      <description>New Jersey Lieutenant Governor Dale Caldwell resigned his post, Governor Mikie Sherrill said on Friday, the day after she released a report on an investigation that found he had engaged in sexual harassment and violated state ethics rules.</description>
-      <dc:creator>Cameron Fozi</dc:creator>
+      <title>最も安全な商業不動産証券でピムコが大幅損失、担保資産価値85%減で</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2968747</link>
+      <guid isPermaLink="false">2a7a031a530e3d36c55e885f</guid>
+      <pubDate>Fri, 25 Sep 2026 19:01:00 +0000</pubDate>
+      <description>（ブルームバーグ）：米パシフィック・インベストメント・マネジメント（PIMCO）は、フィラデルフィア中心部にあるオフィスタワー2棟を裏付けとする商業不動産担保証券（CMBS）で深刻な損失に直面している。規制当… ...</description>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_politics</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
+      <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-09-25/new-jersey-lieutenant-governor-resigns-after-harassment-probe</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2968747</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
       <title>Manchester City Found Guilty: What 115-Charge Ruling Means for Premier League</title>
@@ -1315,6 +1584,23 @@ For a closer look, we speak with Joe Deaux, Bloomberg News Senior Reporter for C
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
+      <title>ECB Has No ‘Miracle Solution’ for France’s Debt, Moulin Says</title>
+      <link>https://www.bloomberg.com/news/articles/2026-09-25/ecb-has-no-miracle-solution-for-france-s-debt-moulin-says</link>
+      <guid isPermaLink="false">e8e83aabc58bd6512cee753d</guid>
+      <pubDate>Fri, 25 Sep 2026 17:34:13 +0000</pubDate>
+      <description>France must cut spending and its budget deficit to tackle its debt problem and not expect the European Central Bank to step in, according to Bank of France Governor Emmanuel Moulin.</description>
+      <dc:creator>William Horobin</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_economics</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-09-25/ecb-has-no-miracle-solution-for-france-s-debt-moulin-says</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
       <title>トランプ大統領、11月に中国で習主席と会談すると表明</title>
       <link>https://news.yahoo.co.jp/articles/369089c7285d4ab99eb980c8594094aac7421637</link>
       <guid isPermaLink="false">310808b13e96f9ef671d5c04</guid>
@@ -1441,26 +1727,6 @@ On this episode of the Odd Lots podcast recorded live at the Vermont Hollywood t
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-09-25/sk-hynix-s-solidigm-is-said-to-weigh-us-ipo-as-soon-as-2027</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>最も安全な商業不動産証券でピムコが大幅損失、担保資産価値85%減で</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2968747</link>
-      <guid isPermaLink="false">2a7a031a530e3d36c55e885f</guid>
-      <pubDate>Fri, 25 Sep 2026 17:01:02 +0000</pubDate>
-      <description>（ブルームバーグ）：米パシフィック・インベストメント・マネジメント（PIMCO）は、フィラデルフィア中心部にあるオフィスタワー2棟を裏付けとする商業不動産担保証券（CMBS）で深刻な損失に直面している。規制当… ...</description>
-      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;1時間前
-SKハイニックス傘下ソリダイム、2027年にも米IPOを検討－関係者&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2968747</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
       <title>Mexico Is ‘Cautiously Optimistic’ on Talks for US Trade Deal</title>
@@ -1603,23 +1869,6 @@ SKハイニックス傘下ソリダイム、2027年にも米IPOを検討－関�
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
-      <title>Supreme Court Lets Trump Expand Voter-Verification Database</title>
-      <link>https://www.bloomberg.com/news/articles/2026-09-25/supreme-court-lets-trump-expand-database-for-voter-verification</link>
-      <guid isPermaLink="false">e5ca85cbfef5b34c7e43e07b</guid>
-      <pubDate>Fri, 25 Sep 2026 15:36:17 +0000</pubDate>
-      <description>The US Supreme Court reinstated President Donald Trump’s expansion of a federal database to help verify voter eligibility for the midterms, putting on hold a judge’s finding that the government is misusing Social Security information and violating privacy rights.</description>
-      <dc:creator>Greg Stohr</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_business</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-09-25/supreme-court-lets-trump-expand-database-for-voter-verification</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
       <title>Trump and Xi's Empty Summit Is Straight Out of the 1930s</title>
       <link>https://www.bloomberg.com/opinion/articles/2026-09-25/trump-and-xi-s-empty-summit-is-straight-out-of-the-1930s</link>
       <guid isPermaLink="false">5a36ed9d62cd1eb051ee460a</guid>
@@ -1707,23 +1956,6 @@ SKハイニックス傘下ソリダイム、2027年にも米IPOを検討－関�
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
-      <title>Anthropic Faces Court Setback on US Supply Chain Risk Label</title>
-      <link>https://www.bloomberg.com/news/articles/2026-09-25/anthropic-faces-court-setback-over-us-supply-chain-risk-label</link>
-      <guid isPermaLink="false">d9f206a6f0e07fe7f44fd043</guid>
-      <pubDate>Fri, 25 Sep 2026 15:19:24 +0000</pubDate>
-      <description>A federal appeals court in Washington rejected Anthropic PBC’s challenge to a Trump administration designation of the artificial intelligence company as a supply-chain risk to US national security, but an earlier ruling by a judge in California that lifted a government ban appears to remain in place for now.</description>
-      <dc:creator>Zoe Tillman, Madlin Mekelburg and Rachel Metz</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_politics</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-09-25/anthropic-faces-court-setback-over-us-supply-chain-risk-label</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
       <title>Trump’s Diesel Ban Talk Has Just Made US Exports More Lucrative</title>
       <link>https://www.bloomberg.com/news/articles/2026-09-25/trump-s-diesel-ban-talk-has-just-made-us-exports-more-lucrative</link>
       <guid isPermaLink="false">c8cf1c597168e2946755b546</guid>
@@ -1791,23 +2023,6 @@ SKハイニックス傘下ソリダイム、2027年にも米IPOを検討－関�
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-09-25/coal-india-unit-secl-said-to-hire-banks-for-800-million-ipo</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Bill Gates Warns AI Powerful Enough to Lead to ‘a Billion Deaths’</title>
-      <link>https://www.bloomberg.com/news/articles/2026-09-25/bill-gates-warns-ai-powerful-enough-to-lead-to-a-billion-deaths</link>
-      <guid isPermaLink="false">7e99d209e8de916aaaece026</guid>
-      <pubDate>Fri, 25 Sep 2026 15:00:39 +0000</pubDate>
-      <description>Microsoft Corp. co-founder Bill Gates warned that artificial intelligence is a “powerful enough” tool to kill off a substantial portion of humanity, joining a growing chorus of tech leaders and employees calling attention to AI’s existential risks.</description>
-      <dc:creator>Micah Barkley</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_technology</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-09-25/bill-gates-warns-ai-powerful-enough-to-lead-to-a-billion-deaths</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
@@ -1952,23 +2167,6 @@ SKハイニックス傘下ソリダイム、2027年にも米IPOを検討－関�
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/opinion/articles/2026-09-25/the-eu-faces-big-risks-in-following-the-china-model</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Iran-Linked Oil Tankers Seized by Navy Sailing Toward US</title>
-      <link>https://www.bloomberg.com/news/articles/2026-09-25/iran-linked-oil-tankers-seized-by-navy-sailing-slowly-toward-us</link>
-      <guid isPermaLink="false">894e53426c9d5233848683e0</guid>
-      <pubDate>Fri, 25 Sep 2026 14:06:11 +0000</pubDate>
-      <description>Two of the Iran-linked oil supertankers interdicted by American naval forces early in the war are just weeks away from reaching the US, where authorities have pledged to seize the vessels and millions of dollars worth of crude that they’re transporting.</description>
-      <dc:creator>Grant Smith and Charles Gorrivan</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_politics</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-09-25/iran-linked-oil-tankers-seized-by-navy-sailing-slowly-toward-us</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
@@ -2419,6 +2617,25 @@ SKハイニックス傘下ソリダイム、2027年にも米IPOを検討－関�
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
+      <title>Pimco Faces AAA Debt Loss After 85% Writedown of Office Complex</title>
+      <link>https://www.swissinfo.ch/eng/pimco-faces-aaa-debt-loss-after-85%25-writedown-of-office-complex/92119257</link>
+      <guid isPermaLink="false">9f66d539e554b33c93d2f258</guid>
+      <pubDate>Fri, 25 Sep 2026 10:00:00 +0000</pubDate>
+      <description>Pacific Investment Management Co. is facing losses of around 70% on a commercial mortgage-backed security tied to a two-tower office complex in downtown Philadelphia.</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;What’s behind the US decision not to invite OSCE election observers&lt;/p&gt;&lt;p&gt;Read more: What’s behind the US decision not to invite OSCE election observers&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>swissinfo_discovery</wire:foundAt>
+      <wire:platform>SWI swissinfo.ch</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.swissinfo.ch/eng/pimco-faces-aaa-debt-loss-after-85%25-writedown-of-office-complex/92119257</wire:canonicalUrl>
+      <wire:evidence>structured credit: Bloomberg</wire:evidence>
+    </item>
+    <item>
       <title>Japan’s Finance Minister Says Takaichi Isn’t ‘Reflationist’</title>
       <link>https://www.bloomberg.com/news/articles/2026-09-25/japan-s-finance-minister-says-takaichi-is-not-a-reflationist</link>
       <guid isPermaLink="false">5222007eca5099fbf8a7ace7</guid>
@@ -2508,23 +2725,6 @@ SKハイニックス傘下ソリダイム、2027年にも米IPOを検討－関�
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
-      <title>Iraq Offers Last-Minute Oil Cargoes as Freight Costs Bite</title>
-      <link>https://www.bloomberg.com/news/articles/2026-09-25/iraq-offers-last-minute-oil-cargoes-as-record-freight-costs-bite</link>
-      <guid isPermaLink="false">c6c53283d6ac9661012038aa</guid>
-      <pubDate>Fri, 25 Sep 2026 09:23:53 +0000</pubDate>
-      <description>Iraq’s state-owned marketing company is offering buyers last-minute crude cargoes, according to people with direct knowledge of the matter, as sky-high freight rates complicate the purchase of shipments from deep inside the Persian Gulf.</description>
-      <dc:creator>Yongchang Chin, Rong Wei Neo and Khalid Al-Ansary</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_industries</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-09-25/iraq-offers-last-minute-oil-cargoes-as-record-freight-costs-bite</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
       <title>SpaceX, Anthropic Listings Are Part of What Ails the IPO Market</title>
       <link>https://www.bloomberg.com/opinion/articles/2026-09-25/spacex-anthropic-listings-are-part-of-what-ails-the-ipo-market</link>
       <guid isPermaLink="false">e29d5ee9242c2a450cabb13f</guid>
@@ -2574,25 +2774,6 @@ SKハイニックス傘下ソリダイム、2027年にも米IPOを検討－関�
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-09-25/senegal-hopes-to-complete-debt-revamp-within-months-faye-says</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Singapore Police Got Radiant Fraud Report Months Before Crisis</title>
-      <link>https://www.swissinfo.ch/eng/singapore-police-got-radiant-fraud-report-months-before-crisis/92118124</link>
-      <guid isPermaLink="false">82f8066a8af3e1824fc54910</guid>
-      <pubDate>Fri, 25 Sep 2026 08:25:23 +0000</pubDate>
-      <description>One of Radiant World’s lenders reported suspected fraud involving the iron ore trader to Singapore police in May, months before the company’s troubles erupted publicly, according to a court ruling.</description>
-      <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;What’s behind the US decision not to invite OSCE election observers&lt;/p&gt;&lt;p&gt;Read more: What’s behind the US decision not to invite OSCE election observers&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>swissinfo_discovery</wire:foundAt>
-      <wire:platform>SWI swissinfo.ch</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.swissinfo.ch/eng/singapore-police-got-radiant-fraud-report-months-before-crisis/92118124</wire:canonicalUrl>
-      <wire:evidence>structured credit: Bloomberg</wire:evidence>
     </item>
     <item>
       <title>円が2週間ぶり上昇率へ、トランプ氏の威を借る片山財務相の口先介入</title>
@@ -2703,40 +2884,6 @@ SKハイニックス傘下ソリダイム、2027年にも米IPOを検討－関�
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://news.yahoo.co.jp/articles/aa260d6352fd4dd138b206522f698c80c387c71a</wire:canonicalUrl>
       <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Ex-Turkish Central Banker Arrested in Fund Probe, Ekonomi Says</title>
-      <link>https://www.bloomberg.com/news/articles/2026-09-25/ex-turkish-central-bank-deputy-governor-arrested-in-fund-probe</link>
-      <guid isPermaLink="false">f359f5970ea55fd0a34c49e5</guid>
-      <pubDate>Fri, 25 Sep 2026 06:33:11 +0000</pubDate>
-      <description>Turkish authorities arrested former central bank official Erkan Kilimci as part of a widening investigation into an alleged Ponzi scheme, Ekonomi news website reported on Friday.</description>
-      <dc:creator>Beril Akman</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_economics</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-09-25/ex-turkish-central-bank-deputy-governor-arrested-in-fund-probe</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>BlackRock Sees Central Asia Joining Gulf as Investment Draw</title>
-      <link>https://www.bloomberg.com/news/articles/2026-09-25/blackrock-sees-central-asia-joining-gulf-as-investment-draw</link>
-      <guid isPermaLink="false">896d91a6f66ac9025c3973fd</guid>
-      <pubDate>Fri, 25 Sep 2026 06:24:32 +0000</pubDate>
-      <description>Central Asia’s two largest economies are increasingly joining the likes of the Gulf and India on BlackRock Investment Institute’s radar, according to a key strategist.</description>
-      <dc:creator>Nariman Gizitdinov</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_economics</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-09-25/blackrock-sees-central-asia-joining-gulf-as-investment-draw</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
       <title>米中首脳会談、成果見えず－トランプ氏は習氏との「友情」強調</title>
@@ -2931,99 +3078,14 @@ SKハイニックス傘下ソリダイム、2027年にも米IPOを検討－関�
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
-      <title>Japan Steps Up IP Protection of Luxury Shine Muscat, Perfect Strawberries</title>
-      <link>https://www.bloomberg.com/news/features/2026-09-25/japan-steps-up-ip-protection-of-luxury-shine-muscat-perfect-strawberries</link>
-      <guid isPermaLink="false">b0e96a5b4f76419a46fbecb2</guid>
-      <pubDate>Fri, 25 Sep 2026 04:01:01 +0000</pubDate>
-      <description>Farmers go to extraordinary lengths to shield their perfect strawberries and grapes from the elements. But the industry hasn’t been able to protect itself as well from intellectual property theft abroad.</description>
-      <dc:creator>Isabella Steger and Akemi Terukina</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_businessweek</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/features/2026-09-25/japan-steps-up-ip-protection-of-luxury-shine-muscat-perfect-strawberries</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Two Sides of Queen Elizabeth Are Captured in a Pair of $5,000 Enamels</title>
-      <link>https://www.bloomberg.com/opinion/articles/2026-09-25/the-two-sides-of-queen-elizabeth-have-been-captured-in-5-000-enamels</link>
-      <guid isPermaLink="false">9546ad7b1d866eea71a05937</guid>
-      <pubDate>Fri, 25 Sep 2026 04:00:10 +0000</pubDate>
-      <description>The arrival of Swan Song: Diana, My Sister, Charles Spencer’s memoir of his late sibling, has engulfed British tabloids and the global celebrity press. Last week, its barbed descriptions of King Charles’ alleged behavior at the time of his ex-wife’s death in 1997 elicited what — for Buckingham Palace — was a swift and emotional response, declaring that “the pain of fraternal grief can cloud reason, affect judgment and color memory in ways others do not recognize.” That only seemed to feed the me</description>
-      <dc:creator>Howard Chua-Eoan</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_opinion</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/opinion/articles/2026-09-25/the-two-sides-of-queen-elizabeth-have-been-captured-in-5-000-enamels</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Trump's Casual Threat of Annihilating Iran Ramps Up a Genuine Danger</title>
-      <link>https://www.bloomberg.com/opinion/articles/2026-09-25/trump-s-casual-threat-of-annihilating-iran-ramps-up-a-genuine-danger</link>
-      <guid isPermaLink="false">8b6d9daafb20ef6d03e1df5a</guid>
-      <pubDate>Fri, 25 Sep 2026 04:00:05 +0000</pubDate>
-      <description>Visiting mixed villages in former Yugoslavia before it careened toward its violent breakup in 1992, I spoke to neighbors who dismissed the idea of a coming war as simply unimaginable. But as each tuned in to the increasingly nationalistic TV stations of their respective Serbian or Croatian capitals, they were bombarded by commentary posing as news that recalled historical wrongs and alleged plots for coming atrocities. Steeped in these bilious alternative realties, the neighbors stopped talking.</description>
-      <dc:creator>Marc Champion</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_opinion</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/opinion/articles/2026-09-25/trump-s-casual-threat-of-annihilating-iran-ramps-up-a-genuine-danger</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Hermes has options for addressing its Birkin bag crisis</title>
-      <link>https://www.bloomberg.com/opinion/articles/2026-09-25/hermes-has-options-for-addressing-its-birkin-bag-crisis</link>
-      <guid isPermaLink="false">67e3feac43cb02e49f156d5b</guid>
-      <pubDate>Fri, 25 Sep 2026 04:00:03 +0000</pubDate>
-      <description>It must have been hurtful for the house of Hermes when Emily Oberg, founder of cult label Sporty &amp; Rich, which styles its streetwear with gold Cartier watches and 1980s Porsches, declared that carrying a regular leather Birkin was akin to toting a Coach bag.</description>
-      <dc:creator>Andrea Felsted</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_opinion</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/opinion/articles/2026-09-25/hermes-has-options-for-addressing-its-birkin-bag-crisis</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Putin’s Shadow War Is Testing NATO’s Restraint</title>
-      <link>https://www.bloomberg.com/opinion/articles/2026-09-25/putin-s-shadow-war-is-testing-nato-s-restraint</link>
-      <guid isPermaLink="false">8bb3e21c77e4a6864812907a</guid>
-      <pubDate>Fri, 25 Sep 2026 04:00:01 +0000</pubDate>
-      <description>Russian President Vladimir Putin, frustrated by his bogged-down war in Ukraine, is trying to intimidate the European nations that — given President Donald Trump’s severe cuts in aid to Kyiv — are now Ukrainians’ main military, economic and diplomatic supporters.</description>
-      <dc:creator>James Stavridis</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_opinion</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/opinion/articles/2026-09-25/putin-s-shadow-war-is-testing-nato-s-restraint</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
       <title>孫正義氏のAI大勝負、膨らむ借金重圧に－OpenAI巨額投資で貸し手警戒</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2968796</link>
       <guid isPermaLink="false">7d519774d7f38dd2bf58587e</guid>
       <pubDate>Fri, 25 Sep 2026 03:54:29 +0000</pubDate>
       <description>（ブルームバーグ）：孫正義氏率いるソフトバンクグループの米OpenAI投資を資金面で支える債券投資家や金融機関は、リスクの高まりを認識し、より大きな見返りを求めるようになっている。ソフトバンクGは今年、運… ...</description>
       <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;1時間前
-SKハイニックス傘下ソリダイム、2027年にも米IPOを検討－関係者&lt;/p&gt;</content:encoded>
+      <content:encoded>&lt;p&gt;32分前
+無断で党員登録か自民党千代田区議を書類送検　自民党千代田総支部からは厳重注意処分　区議は「意見の相違もあり夫婦に説明や謝罪もした」とコメント&lt;/p&gt;</content:encoded>
       <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
@@ -3304,29 +3366,6 @@ MGM株約27%を保有するピープルは24日、MGM株を追加取得する計
       <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
-      <title>ホワイトハウス、取材禁止の3社に立ち入り再び認める－地裁命令受け</title>
-      <link>https://news.yahoo.co.jp/articles/e1af24eba8634b13d3f1b15b840febf4690b6bdd</link>
-      <guid isPermaLink="false">cb442e9b70526361b351e368</guid>
-      <pubDate>Thu, 24 Sep 2026 22:30:26 +0000</pubDate>
-      <description>（ブルームバーグ）： ホワイトハウスは裁判所への提出書類で、トランプ米大統領が先週出入りを禁止した報道機関3社について、当面の立ち入りを再び認めたと明らかにした。
-
-CNN、MS NOW、ポリティコの3社は、連邦裁判所が出入り禁止措置の差し止めを命じた後、記者が再び立ち入りを認められたと明らかにした。これに先立ち3社は、判事の命令にもかかわらず、記者がホワイトハウスの敷地への立ち入りを拒否されたとしていた。
-
-CNNとMS</description>
-      <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;（ブルームバーグ）： ホワイトハウスは裁判所への提出書類で、トランプ米大統領が先週出入りを禁止した報道機関3社について、当面の立ち入りを再び認めたと明らかにした。&lt;/p&gt;&lt;p&gt;CNN、MS NOW、ポリティコの3社は、連邦裁判所が出入り禁止措置の差し止めを命じた後、記者が再び立ち入りを認められたと明らかにした。これに先立ち3社は、判事の命令にもかかわらず、記者がホワイトハウスの敷地への立ち入りを拒否されたとしていた。&lt;/p&gt;&lt;p&gt;CNNとMS NOWは24日の放送で、立ち入りが認められたことを明らかにした。&lt;/p&gt;&lt;p&gt;ホワイトハウスのストッペリッチ報道運営局長は、政権が24日早朝、対象となった記者の立ち入りを再び認める手続きに着手したと説明した。立ち入りを再び認めるよう命じる裁判所命令は夜間に出され、ストッペリッチ氏によると、米東部時間午前9時55分までに記者証を受け取れる状態になった。&lt;/p&gt;&lt;p&gt;これに先立ち、ティモシー・J・ケリー米連邦地裁判事は、立ち入りを認めるよう命じたにもかかわらず入れないとの報道各社からの申し立てについて、ホワイトハウスに回答を求めていた。&lt;/p&gt;&lt;p&gt;ケリー判事は夜間に出した命令で、報道各社が起こした訴訟の審理が続く間、ホワイトハウスへの立ち入りを一時的に再び許可するよう命じた。命令は2週間有効となる。判事は、10月5日までに追加の裁判書類を受け取った後、記者の立ち入りを延長するかどうかを検討するため、改めて審理の日程を設定するとした。&lt;/p&gt;&lt;p&gt;トランプ氏は9月18日、政権に不利な報道を行っているとして、3社のホワイトハウスへの立ち入りを禁止すると発表した。その4日後に3社へ送付した正式な書簡で、政権は、政権に関する報道に伴う国家安全保障上の懸念に基づく決定だと説明した。&lt;/p&gt;&lt;p&gt;裁判所に提出された同書簡では、匿名の情報源に依拠したとみられる報道や、イランや国際的な制裁、共和党大会などの問題について、政権内部の協議や当局者が取った行動に関する情報を明らかにした報道が複数取り上げられていた。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_bloomberg</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/e1af24eba8634b13d3f1b15b840febf4690b6bdd</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
       <title>Stocks Climb as Oil Retreats on US-Iran Deal Hopes: Markets Wrap</title>
       <link>https://www.bloomberg.com/news/articles/2026-09-24/stock-market-today-dow-s-p-live-updates</link>
       <guid isPermaLink="false">f107d4e4f797181d2ad41472</guid>
@@ -3342,61 +3381,6 @@ CNNとMS</description>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-09-24/stock-market-today-dow-s-p-live-updates</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Crypto Exchange Bitget Says Hackers Stole $352 Million</title>
-      <link>https://www.bloomberg.com/news/articles/2026-09-24/bitget-says-351-million-affected-in-breach-halts-withdrawals</link>
-      <guid isPermaLink="false">98a12ec5df81e82146659c2d</guid>
-      <pubDate>Thu, 24 Sep 2026 22:13:11 +0000</pubDate>
-      <description>Crypto exchange Bitget reported an estimated $351.6 million in unauthorized transfers from some of its wallets and temporarily suspended withdrawals.</description>
-      <dc:creator>Suvashree Ghosh</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_crypto</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-09-24/bitget-says-351-million-affected-in-breach-halts-withdrawals</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>UBS株上昇、外銀との統合など検討報道－モルガン・スタンレーは下落</title>
-      <link>https://news.yahoo.co.jp/articles/6fbb284f42727a2fbfaaf8dc3884995054c88ea5</link>
-      <guid isPermaLink="false">6752a62ba3e551db72671efc</guid>
-      <pubDate>Thu, 24 Sep 2026 20:53:26 +0000</pubDate>
-      <description>（ブルームバーグ）：</description>
-      <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;（ブルームバーグ）： スイスの金融大手UBSグループの株価が24日に上昇する一方、米モルガン・スタンレーは下落した。スイス国内で資本規制が厳格化される可能性に直面する中、チューリヒに本拠を置くUBSが、他国・地域の銀行との取引を含む選択肢を検討しているとの報道を受けた。&lt;/p&gt;&lt;p&gt;セマフォーの報道によると、UBSはスイスの規制当局の監督下から抜ける方法を巡る協議を再開した。選択肢の1つとして、モルガン・スタンレーやドイツ銀行、スタンダードチャータードなどの外国銀行との統合が考えられると、同メディアは報じた。&lt;/p&gt;&lt;p&gt;今週これまでに、スイス議会上院の過半数が、同国最大の銀行であるUBSに自己資本の積み増しを義務付ける案を支持した。UBSは、この措置により普通株式等Tier1（CET1）資本を160億ドル（約2兆5400億円）追加で保有する必要があると試算している。&lt;/p&gt;&lt;p&gt;24日のニューヨーク市場で午後3時10分（日本時間25日午前4時10分）時点、モルガン・スタンレー株は1%下落し、ドイツ銀行株も0.6%安。スタンダードチャータード株は1%下落した。一方、UBS株は0.9%上昇。&lt;/p&gt;&lt;p&gt;UBS、ドイツ銀行、スタンダードチャータードの各行担当者からは、コメント要請に対する回答がすぐには得られなかった。モルガン・スタンレーの広報担当者はコメントを控えた。&lt;/p&gt;&lt;p&gt;原題：UBS Gains, Morgan Stanley Drops on Report Swiss Bank Eyeing Deal（抜粋）&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_bloomberg</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/6fbb284f42727a2fbfaaf8dc3884995054c88ea5</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>米とイラン、段階的な合意模索－ホルムズ再開と海上封鎖解除巡り</title>
-      <link>https://news.yahoo.co.jp/articles/0f3ce7dff763e8b49e04d0f0d76237320e4b3dbc</link>
-      <guid isPermaLink="false">d813288aae4f9a253d1647f1</guid>
-      <pubDate>Thu, 24 Sep 2026 20:03:18 +0000</pubDate>
-      <description>（ブルームバーグ）：</description>
-      <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;（ブルームバーグ）： 米国とイランの交渉担当者は、イランがホルムズ海峡の通航を再開し、米国がイランの港湾に対する海上封鎖を解除する方向で段階的な合意を模索している。協議に詳しい関係者が明らかにした。&lt;/p&gt;&lt;p&gt;両国はここ数カ月、同様の合意をいずれも拒んできたが、ニューヨークで開かれている国連総会に合わせて開かれた24日の協議で事態打開を目指している。関係者が匿名を条件に明らかにした。カタール当局者が交渉を仲介しているという。&lt;/p&gt;&lt;p&gt;段階的な合意は、米国とイランが6月半ばに締結した覚書と似た形になる見通しだ。ただ、この覚書を受けて不安定ながら成立した停戦は、わずか数週間後に崩壊した経緯がある。&lt;/p&gt;&lt;p&gt;ホワイトハウス当局者は、トランプ大統領はイランとの対話に引き続き前向きだとしつつ、米国は交渉する必要はないと強調した。制裁強化と海上封鎖がイラン経済に圧力をかけており、米国が有利な立場にあるためだと説明した。&lt;/p&gt;&lt;p&gt;米国とイランの断続的な交渉は、戦争開始以降、何度も決裂している。主な対立点はホルムズ海峡を巡る問題と、米国が凍結している数十億ドルの資金をイランがいつ利用できるようになるかだった。&lt;/p&gt;&lt;p&gt;国連総会出席のためニューヨークを訪れていたイランのペゼシュキアン大統領は演説で、制裁と米国による海上封鎖が続く限り、イランはホルムズ海峡での航行の自由を認めないと強調した。&lt;/p&gt;&lt;p&gt;イラン国営メディアによると、アラグチ外相がイラン側を代表して協議に臨み、ホルムズ海峡の通航再開を巡るイランの「確固たる立場」を説明。イラン側の報道によれば、条件には米国による海上封鎖の即時解除、イラン資産の凍結解除、「あらゆる戦線」での戦争終結が含まれる。「あらゆる戦線」での戦争終結とは、レバノンの親イラン・イスラム教シーア派組織ヒズボラに対してイスラエルが展開する軍事作戦を指しているとみられる。&lt;/p&gt;&lt;p&gt;ペゼシュキアン氏は24日夜に放送されたFOXニュースとのインタビューで、「われわれはホルムズ海峡を封鎖していない。法的な正当性も枠組みもないまま開かれていた。彼らがわれわれを攻撃した」と強調した。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_bloomberg</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/0f3ce7dff763e8b49e04d0f0d76237320e4b3dbc</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
       <title>Insurance Regulators Back State-Led Model in Reply to Warren</title>
@@ -3446,23 +3430,6 @@ CNNとMS</description>
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-09-24/ex-tinder-exec-debuts-rivet-a-dating-app-that-lets-strangers-play-matchmaker</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Amazon Gets EU Scrutiny on Possible Seller Price Curbs</title>
-      <link>https://www.bloomberg.com/news/articles/2026-09-18/amazon-in-eu-crosshairs-over-suspected-price-curbs-on-sellers</link>
-      <guid isPermaLink="false">0fbe95510fb9b27719fa035b</guid>
-      <pubDate>Fri, 18 Sep 2026 15:02:00 +0000</pubDate>
-      <description>Amazon.com Inc. is under scrutiny from the European Union for potentially imposing unfair restrictions on firms selling on its platform.</description>
-      <dc:creator>Spencer Soper and Samuel Stolton</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_technology</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-09-18/amazon-in-eu-crosshairs-over-suspected-price-curbs-on-sellers</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>

@@ -5,8 +5,65 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 26 Sep 2026 01:53:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 07:15:51 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>OpenAIで再び隔離環境に不備、訓練中の自律型AIがネットにアクセス</title>
+      <link>https://news.yahoo.co.jp/articles/b66cd6a048207ae3b30ea0ec87458cb3176da860</link>
+      <guid isPermaLink="false">5bcaa42736a50353b4dd5718</guid>
+      <pubDate>Sat, 26 Sep 2026 06:45:37 +0000</pubDate>
+      <description>（ブルームバーグ）：</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;（ブルームバーグ）： OpenAIは、インターネットから遮断された安全な環境で訓練していたはずの自律型AIシステムがウェブに接続し、外部の第三者チャットボットにアクセスしていたことを明らかにした。&lt;/p&gt;&lt;p&gt;25日にOpenAIのウェブサイトに掲載されたブログ投稿によると、問題が発覚したのは1週間足らず前。同社の自律型AIシステムの一つが、外部ネットワークから隔離された「サンドボックス」と呼ばれる環境での訓練中に「隙間」を突き、インターネットに接続。第三者のチャットボットサービスに「フランスの首都はどこか」など、少なくとも20件の質問を送信した。サービス名は明らかにしていない。&lt;/p&gt;&lt;p&gt;同社によると、こうした隔離環境からの逸脱に伴うセキュリティー上のインシデントは7月以来だった。当時、社内テスト中に複数のモデルが連携してネットに接続し、AIプラットフォームのハギングフェイスのシステムに意図せず侵入した。&lt;/p&gt;&lt;p&gt;OpenAIは今回の問題について、「取り組みの次の段階で、どこに重点を置くべきかを示す重要な手掛かりとなる」と説明。サンドボックスの不備を解消するまで、最も高性能なモデルについて、ツールを使用する訓練を一時停止すると決めた。また、「当該モデルの訓練は再開しない」とした。&lt;/p&gt;&lt;p&gt;ここ数カ月、OpenAIやアンソロピック、グーグルのディープマインド、メタ・プラットフォームズが開発したAIモデルによる侵入が相次ぎ、サイバーセキュリティーやAIの安全性の専門家の間で懸念が広がっている。&lt;/p&gt;&lt;p&gt;アンソロピックのダリオ・アモデイ最高経営責任者（CEO）が2週間前に業界全体でAI開発のペースを落とすよう呼び掛けた際も、ハギングフェイスの一件を理由の一つに挙げていた。OpenAIのサム・アルトマンCEOや実業家イーロン・マスク氏らは直ちに賛同を表明。AI規制強化の必要性を巡る世界的な議論に発展した。&lt;/p&gt;&lt;p&gt;OpenAIは、自律型AIシステムが以前ネットに接続した際に引き起こした問題をなお調査する中で、今回の不備を公表した。同社は25日、同社のAIモデルが訓練や評価の過程で、国勢調査局や米証券取引委員会（SEC）など米政府機関のウェブサイトにある公開情報にアクセスしていたことを認めた。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_bloomberg</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/b66cd6a048207ae3b30ea0ec87458cb3176da860</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>米ディーゼル輸出禁止は見送りへ、ホワイトハウスが示唆－上院議員</title>
+      <link>https://news.yahoo.co.jp/articles/37f013dbf7dc32c82ba58351e33184659aac4bd5</link>
+      <guid isPermaLink="false">13f3052e8ba647a836165c6a</guid>
+      <pubDate>Sat, 26 Sep 2026 04:25:49 +0000</pubDate>
+      <description>（ブルームバーグ）：</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;（ブルームバーグ）： トランプ政権が米国産ディーゼル燃料の輸出を禁止することはないと、ホワイトハウスは確約した。共和党のクルーズ上院議員が25日遅く、石油精製業界の幹部に伝えた。&lt;/p&gt;&lt;p&gt;協議の非公開を理由に匿名を条件に語った複数の関係者が明らかにした。トランプ政権はディーゼル燃料価格の記録的な高騰を受け、価格を引き下げる方策を検討している。&lt;/p&gt;&lt;p&gt;トランプ大統領は今週、ディーゼル燃料の輸出禁止を検討するよう側近に指示したと明らかにしていた。小売価格が今週初めに初めて1ガロン当たり6.53ドルに達したことを受け、農業州の議員らが価格抑制に向けて輸出制限を求めていた。&lt;/p&gt;&lt;p&gt;ホワイトハウス当局者は、大統領が燃料価格の下落を望んでおり、あらゆる選択肢を検討していると説明した。クルーズ氏の広報担当者と、会議を主催した米燃料石油化学製造業者協会（AFPM）は、いずれもコメント要請に返答していない。&lt;/p&gt;&lt;p&gt;輸出禁止を見送るとの説明は、トランプ氏の主要側近の一部が数カ月にわたり示してきた見解と一致する。側近らは、ディーゼル燃料の輸出規制は最終的に弊害のほうが大きくなると繰り返し警告してきた。&lt;/p&gt;&lt;p&gt;ただ、トランプ氏は時に予測の難しい行動を取り、主要側近の全面的な賛同がないまま異例の政策を採用することもある。最終的な判断を下すのは大統領だ。&lt;/p&gt;&lt;p&gt;関係者によると、クルーズ議員はホワイトハウスから確約を得たと説明したが、大統領本人から得たとは述べていない。誰が輸出禁止を否定したのか、同議員は詳しくは明かさなかったという。&lt;/p&gt;&lt;p&gt;トランプ氏も政権当局者も、具体的な対応策を決定していない。短期間のディーゼル燃料輸出禁止が経済に与える影響の分析を続ける一方、価格抑制に向けた他の措置も検討している。浮上している案の一つが、通常は公道以外での使用に限られる赤色ディーゼルについて、利用制限を緩和することだ。&lt;/p&gt;&lt;p&gt;農業従事者などが公道以外で使うレッドディーゼルは非課税のため、利用制限の緩和は、1ガロン当たり約24セントの連邦税を含む一部のディーゼル燃料税を事実上停止することになる。この案が実現すれば、農業従事者やトラック運送業者などの燃料費負担が軽減される。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_bloomberg</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/37f013dbf7dc32c82ba58351e33184659aac4bd5</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>トランプ氏がイランの7日間停戦案拒否、中間選挙後に攻撃再開も－WSJ</title>
+      <link>https://news.yahoo.co.jp/articles/ae10bc7bcb770d2de920b8c022a62a146386b425</link>
+      <guid isPermaLink="false">6def0cdd74fafec98bd3a24e</guid>
+      <pubDate>Sat, 26 Sep 2026 00:40:50 +0000</pubDate>
+      <description>（ブルームバーグ）：</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;（ブルームバーグ）： トランプ米大統領は、イランが提示した7日間の停戦案を拒否し、11月の米中間選挙後にイランへの攻撃を再開する考えを側近らに伝えた。米紙ウォールストリート・ジャーナル（WSJ）が、匿名の米当局者の話として報じた。&lt;/p&gt;&lt;p&gt;WSJによると、トランプ氏は自身の要求にイランが応じる意思があるのか懐疑的になっている。7カ月に及ぶ紛争の解決に向けて両国が断続的に進めてきた交渉は、幾度も決裂しており、今回のトランプ氏の拒否で打開への道筋が再び阻まれた。&lt;/p&gt;&lt;p&gt;両国は現在も、仲介者を通じてイランの核開発計画などを巡る交渉を続けている。ただ、米国はイラン側と仲介者に対し、トランプ氏には海上封鎖を解除する考えはないと伝えたという。&lt;/p&gt;&lt;p&gt;同紙によれば、トランプ氏の考えは今後数週間で変化する可能性もあり、中間選挙の結果にも左右され得る。トランプ氏がどの程度の規模の対イラン攻撃を検討しているかは確認できなかったとしている。&lt;/p&gt;&lt;p&gt;事情に詳しい関係者によると、米国とイランの交渉担当者は、イランがホルムズ海峡の通航を再開させ、米国がイランの港湾封鎖を解除する段階的な合意を模索していた。これは、両国が6月に交わした覚書に似た内容だった。当時の覚書は不安定ながらも停戦につながったが、数週間後には崩壊した。&lt;/p&gt;&lt;p&gt;イランのペゼシュキアン大統領はニューヨークで開かれた国連総会で演説し、制裁と米国による封鎖が続く限り、ホルムズ海峡での航行の自由は認めないと表明。経済発展を目的に核技術を開発する権利も放棄しないと述べた。&lt;/p&gt;&lt;p&gt;トランプ氏は今週、米当局者がニューヨークでイランの代表団と「非常に良い」協議を行ったと述べたが、発言は国連総会での演説とは対照的だった。トランプ氏は22日の演説で、イラン指導部が合意に応じなければ同国を壊滅させると、あらためて警告した。&lt;/p&gt;&lt;p&gt;原題：Trump Rejects Iran’s Seven-Day Ceasefire Proposal, WSJ Reports（抜粋）&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_bloomberg</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/ae10bc7bcb770d2de920b8c022a62a146386b425</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
+    </item>
     <item>
       <title>SKハイニックス傘下ソリダイム、2027年にも米IPOを検討－関係者</title>
       <link>https://news.yahoo.co.jp/articles/56d5c31816093c04226a129423a2272bae375a12</link>
@@ -922,67 +979,6 @@ MGM株約27%を保有するピープルは24日、MGM株を追加取得する計
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://news.yahoo.co.jp/articles/7004949c2067621e6cf8aff78aa83b5188aa823c</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>ホワイトハウス、取材禁止の3社に立ち入り再び認める－地裁命令受け</title>
-      <link>https://news.yahoo.co.jp/articles/e1af24eba8634b13d3f1b15b840febf4690b6bdd</link>
-      <guid isPermaLink="false">cb442e9b70526361b351e368</guid>
-      <pubDate>Thu, 24 Sep 2026 22:30:26 +0000</pubDate>
-      <description>（ブルームバーグ）： ホワイトハウスは裁判所への提出書類で、トランプ米大統領が先週出入りを禁止した報道機関3社について、当面の立ち入りを再び認めたと明らかにした。
-
-CNN、MS NOW、ポリティコの3社は、連邦裁判所が出入り禁止措置の差し止めを命じた後、記者が再び立ち入りを認められたと明らかにした。これに先立ち3社は、判事の命令にもかかわらず、記者がホワイトハウスの敷地への立ち入りを拒否されたとしていた。
-
-CNNとMS</description>
-      <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;（ブルームバーグ）： ホワイトハウスは裁判所への提出書類で、トランプ米大統領が先週出入りを禁止した報道機関3社について、当面の立ち入りを再び認めたと明らかにした。&lt;/p&gt;&lt;p&gt;CNN、MS NOW、ポリティコの3社は、連邦裁判所が出入り禁止措置の差し止めを命じた後、記者が再び立ち入りを認められたと明らかにした。これに先立ち3社は、判事の命令にもかかわらず、記者がホワイトハウスの敷地への立ち入りを拒否されたとしていた。&lt;/p&gt;&lt;p&gt;CNNとMS NOWは24日の放送で、立ち入りが認められたことを明らかにした。&lt;/p&gt;&lt;p&gt;ホワイトハウスのストッペリッチ報道運営局長は、政権が24日早朝、対象となった記者の立ち入りを再び認める手続きに着手したと説明した。立ち入りを再び認めるよう命じる裁判所命令は夜間に出され、ストッペリッチ氏によると、米東部時間午前9時55分までに記者証を受け取れる状態になった。&lt;/p&gt;&lt;p&gt;これに先立ち、ティモシー・J・ケリー米連邦地裁判事は、立ち入りを認めるよう命じたにもかかわらず入れないとの報道各社からの申し立てについて、ホワイトハウスに回答を求めていた。&lt;/p&gt;&lt;p&gt;ケリー判事は夜間に出した命令で、報道各社が起こした訴訟の審理が続く間、ホワイトハウスへの立ち入りを一時的に再び許可するよう命じた。命令は2週間有効となる。判事は、10月5日までに追加の裁判書類を受け取った後、記者の立ち入りを延長するかどうかを検討するため、改めて審理の日程を設定するとした。&lt;/p&gt;&lt;p&gt;トランプ氏は9月18日、政権に不利な報道を行っているとして、3社のホワイトハウスへの立ち入りを禁止すると発表した。その4日後に3社へ送付した正式な書簡で、政権は、政権に関する報道に伴う国家安全保障上の懸念に基づく決定だと説明した。&lt;/p&gt;&lt;p&gt;裁判所に提出された同書簡では、匿名の情報源に依拠したとみられる報道や、イランや国際的な制裁、共和党大会などの問題について、政権内部の協議や当局者が取った行動に関する情報を明らかにした報道が複数取り上げられていた。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_bloomberg</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/e1af24eba8634b13d3f1b15b840febf4690b6bdd</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>UBS株上昇、外銀との統合など検討報道－モルガン・スタンレーは下落</title>
-      <link>https://news.yahoo.co.jp/articles/6fbb284f42727a2fbfaaf8dc3884995054c88ea5</link>
-      <guid isPermaLink="false">6752a62ba3e551db72671efc</guid>
-      <pubDate>Thu, 24 Sep 2026 20:53:26 +0000</pubDate>
-      <description>（ブルームバーグ）：</description>
-      <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;（ブルームバーグ）： スイスの金融大手UBSグループの株価が24日に上昇する一方、米モルガン・スタンレーは下落した。スイス国内で資本規制が厳格化される可能性に直面する中、チューリヒに本拠を置くUBSが、他国・地域の銀行との取引を含む選択肢を検討しているとの報道を受けた。&lt;/p&gt;&lt;p&gt;セマフォーの報道によると、UBSはスイスの規制当局の監督下から抜ける方法を巡る協議を再開した。選択肢の1つとして、モルガン・スタンレーやドイツ銀行、スタンダードチャータードなどの外国銀行との統合が考えられると、同メディアは報じた。&lt;/p&gt;&lt;p&gt;今週これまでに、スイス議会上院の過半数が、同国最大の銀行であるUBSに自己資本の積み増しを義務付ける案を支持した。UBSは、この措置により普通株式等Tier1（CET1）資本を160億ドル（約2兆5400億円）追加で保有する必要があると試算している。&lt;/p&gt;&lt;p&gt;24日のニューヨーク市場で午後3時10分（日本時間25日午前4時10分）時点、モルガン・スタンレー株は1%下落し、ドイツ銀行株も0.6%安。スタンダードチャータード株は1%下落した。一方、UBS株は0.9%上昇。&lt;/p&gt;&lt;p&gt;UBS、ドイツ銀行、スタンダードチャータードの各行担当者からは、コメント要請に対する回答がすぐには得られなかった。モルガン・スタンレーの広報担当者はコメントを控えた。&lt;/p&gt;&lt;p&gt;原題：UBS Gains, Morgan Stanley Drops on Report Swiss Bank Eyeing Deal（抜粋）&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_bloomberg</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/6fbb284f42727a2fbfaaf8dc3884995054c88ea5</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>米とイラン、段階的な合意模索－ホルムズ再開と海上封鎖解除巡り</title>
-      <link>https://news.yahoo.co.jp/articles/0f3ce7dff763e8b49e04d0f0d76237320e4b3dbc</link>
-      <guid isPermaLink="false">d813288aae4f9a253d1647f1</guid>
-      <pubDate>Thu, 24 Sep 2026 20:03:18 +0000</pubDate>
-      <description>（ブルームバーグ）：</description>
-      <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;（ブルームバーグ）： 米国とイランの交渉担当者は、イランがホルムズ海峡の通航を再開し、米国がイランの港湾に対する海上封鎖を解除する方向で段階的な合意を模索している。協議に詳しい関係者が明らかにした。&lt;/p&gt;&lt;p&gt;両国はここ数カ月、同様の合意をいずれも拒んできたが、ニューヨークで開かれている国連総会に合わせて開かれた24日の協議で事態打開を目指している。関係者が匿名を条件に明らかにした。カタール当局者が交渉を仲介しているという。&lt;/p&gt;&lt;p&gt;段階的な合意は、米国とイランが6月半ばに締結した覚書と似た形になる見通しだ。ただ、この覚書を受けて不安定ながら成立した停戦は、わずか数週間後に崩壊した経緯がある。&lt;/p&gt;&lt;p&gt;ホワイトハウス当局者は、トランプ大統領はイランとの対話に引き続き前向きだとしつつ、米国は交渉する必要はないと強調した。制裁強化と海上封鎖がイラン経済に圧力をかけており、米国が有利な立場にあるためだと説明した。&lt;/p&gt;&lt;p&gt;米国とイランの断続的な交渉は、戦争開始以降、何度も決裂している。主な対立点はホルムズ海峡を巡る問題と、米国が凍結している数十億ドルの資金をイランがいつ利用できるようになるかだった。&lt;/p&gt;&lt;p&gt;国連総会出席のためニューヨークを訪れていたイランのペゼシュキアン大統領は演説で、制裁と米国による海上封鎖が続く限り、イランはホルムズ海峡での航行の自由を認めないと強調した。&lt;/p&gt;&lt;p&gt;イラン国営メディアによると、アラグチ外相がイラン側を代表して協議に臨み、ホルムズ海峡の通航再開を巡るイランの「確固たる立場」を説明。イラン側の報道によれば、条件には米国による海上封鎖の即時解除、イラン資産の凍結解除、「あらゆる戦線」での戦争終結が含まれる。「あらゆる戦線」での戦争終結とは、レバノンの親イラン・イスラム教シーア派組織ヒズボラに対してイスラエルが展開する軍事作戦を指しているとみられる。&lt;/p&gt;&lt;p&gt;ペゼシュキアン氏は24日夜に放送されたFOXニュースとのインタビューで、「われわれはホルムズ海峡を封鎖していない。法的な正当性も枠組みもないまま開かれていた。彼らがわれわれを攻撃した」と強調した。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_bloomberg</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/0f3ce7dff763e8b49e04d0f0d76237320e4b3dbc</wire:canonicalUrl>
       <wire:evidence>publisher-specific Yahoo media endpoint: Bloomberg</wire:evidence>
     </item>
   </channel>

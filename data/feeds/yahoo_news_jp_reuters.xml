@@ -5,8 +5,128 @@
     <link>https://news.yahoo.co.jp/media/reut</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 26 Sep 2026 01:53:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 07:15:51 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>EXCLUSIVE-オープンＡＩ、エージェント暴走の全容解明に数カ月　新たな問題事例も</title>
+      <link>https://news.yahoo.co.jp/articles/26196a098b4de85fafceb58ae68156f1ebcc2480</link>
+      <guid isPermaLink="false">ccec0163a058631a2d179087</guid>
+      <pubDate>Sat, 26 Sep 2026 06:59:41 +0000</pubDate>
+      <description>Deepa Seetharaman　Raphael Satter　Jeff Horwitz
+
+[サンフランシスコ／ワシントン ２５日 ロイター] -</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;Deepa Seetharaman　Raphael Satter　Jeff Horwitz&lt;/p&gt;&lt;p&gt;[サンフランシスコ／ワシントン ２５日 ロイター] - 米人工知能（ＡＩ）開発企業オープンＡＩが開発中のＡＩが米新興ハギングフェイスのシステムに不正侵入したと公表してから２カ月が経過したが、同社はなおもＡＩエージェントの暴走の全容解明に努めている。２人の関係者がロイターに語った。&lt;/p&gt;&lt;p&gt;オープンＡＩは２５日、同社のＡＩエージェントがチャットＧＰＴユーザーから５３枚の画像を漏洩させたと発表した。同社は、これらの画像がＡＩによって生成されたものなのか、実在の人物を特定したものなのかについては明らかにしなかった。また、画像の漏洩時期についても言及を避けた。&lt;/p&gt;&lt;p&gt;オープンＡＩが現在も続けているエージェント暴走事例の全容究明は、同社がテストしているモデルの性能と、その行動を監督あるいは追跡する能力との間に、大きな隔たりがあることを浮き彫りにしている。&lt;/p&gt;&lt;p&gt;関係者によると、９月中旬時点でオープンＡＩがエージェントによる望ましくない行動を約２４件発見したと推定されるが、同社のチームがエージェントの活動に関する内部ログを精査するにつれ、その数は増え続けている。&lt;/p&gt;&lt;p&gt;オープンＡＩは、作業の規模を考慮すると、エージェントの不適切な活動に関する調査の完了には数カ月を要すると発表した。また、こうした活動について数十の第三者機関に通知したと明らかにした。&lt;/p&gt;&lt;p&gt;同社によると、今回流出した画像の大部分はすでに削除されており、残りの画像についてもホスティングプロバイダーに対し削除を要請している。&lt;/p&gt;&lt;p&gt;同社や元従業員、および専門家は、オープンＡＩのエージェントがこれらの画像にアクセスできた理由について、同社がモデル学習プロセスの一部で匿名化されたユーザーデータに依存しているためだと指摘する。企業データは学習の対象外である一方、チャットＧＰＴの一般ユーザーは、同社が自身のデータを学習に利用することを許可しないようオプトアウトする必要がある。&lt;/p&gt;&lt;p&gt;同社は、ユーザーの投稿がトレーニングに使用される前に、メタデータや氏名、その他の連絡先情報を削除する匿名化プロセスを経ており、個々のユーザーまで遡ることは困難になるはずだと説明した。&lt;/p&gt;&lt;p&gt;だが関係者によると、個人を特定できる情報がデータから完全に除去されていない可能性があり、モデルの稼働過程で情報が漏洩する恐れがあるという。&lt;/p&gt;&lt;p&gt;オープンＡＩは２５日、同社のモデルが研究およびトレーニング中に米国証券取引委員会（ＳＥＣ）と米国国勢調査局のウェブサイトから情報にアクセスしたが、不正アクセス、アカウントの乗っ取り、またはセキュリティー侵害の証拠は見つからなかったと発表した。&lt;/p&gt;&lt;p&gt;これとは別に、ＡＩ研究を行う非営利団体Transluceは、オープンＡＩに由来するとみられるエージェントが、米国教育省の公民権関連ウェブサイトをハッキングしようとしたが失敗したと発表した。&lt;/p&gt;&lt;p&gt;オープンＡＩは、ＡＩの不正行為に関する透明性を高める必要性が一般的にあることを認め、こうした事象を開示するための新たな枠組みを発表し、「重要性が不確かな場合でも」透明性を優先するとした。&lt;/p&gt;&lt;p&gt;それでも、同社によるエージェントの活動調査に詳しい２人の関係者は、その調査が厳重に管理され、社内の弁護士によって形作られていると述べた。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/26196a098b4de85fafceb58ae68156f1ebcc2480</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>台湾高官「台湾への武器供給は米の重要な国益」、米中首脳会談受け</title>
+      <link>https://news.yahoo.co.jp/articles/42d7160e000da95ac3af1686d1e61b080a42bb0e</link>
+      <guid isPermaLink="false">697ad8daae12200a4a130daa</guid>
+      <pubDate>Sat, 26 Sep 2026 05:03:28 +0000</pubDate>
+      <description>Ben Blanchard
+
+[台北 ２６日 ロイター] -</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;Ben Blanchard&lt;/p&gt;&lt;p&gt;[台北 ２６日 ロイター] - 台湾外交部（外務省）の呉志中政務次長は２６日、台湾の自由を守るために米国が台湾に武器を供給し、世界中に台湾の半導体を供給することは、米国の国益にかなうとの見解を示した。&lt;/p&gt;&lt;p&gt;中国の習近平国家主席は２５日、トランプ米大統領との首脳会談を含めた３日間の訪米を終えた。だが、中国が自国領土と見なす台湾を含む多くの争点について大きな進展は示されなかった。&lt;/p&gt;&lt;p&gt;習氏は２４日、トランプ氏に対し、米国が台湾独立に反対するという「正しい立場」を堅持することを期待すると伝えた。&lt;/p&gt;&lt;p&gt;呉氏は２６日、台北で記者団に対し、台湾問題で譲歩することが果たして米国の国益に資するのかと問いかけた上で、「武器売却を継続し、台湾が中国の支配下に置かれることなく自衛できる十分な能力を持たせ、そして台湾の半導体産業が引き続き世界に貢献できるようにすることは米国の重要な国益だ」と述べた。&lt;/p&gt;&lt;p&gt;５月に北京で習氏と会談した後、台湾への一連の武器売却を保留すると述べたトランプ氏は、今回の首脳会談後、台湾問題や保留中の武器売却計画についてまだコメントを出していない。&lt;/p&gt;&lt;p&gt;呉氏は、台湾政府は米中首脳会談について米国側と継続的に連絡を取っていたと述べた。&lt;/p&gt;&lt;p&gt;習氏とトランプ氏が今年あと２回会談する見通しであることを踏まえ、武器売却に関する決定がさらに先送りされる可能性があるかとの記者の問いに対し、呉氏は、政府として注視していく必要があると述べた。&lt;/p&gt;&lt;p&gt;中国共産党機関紙の人民日報は２６日の論説記事で、台湾は「中国の核心的利益の核心であり、米中関係における最初の、決して越えてはならない一線」であると改めて強調した。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/42d7160e000da95ac3af1686d1e61b080a42bb0e</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>ＭＬＢ＝村上、菅野から2本塁打　岡本は3打点</title>
+      <link>https://news.yahoo.co.jp/articles/424a170443a1f215898cad52994b66e950f59655</link>
+      <guid isPermaLink="false">b551b312c66c7bdfb326cb30</guid>
+      <pubDate>Sat, 26 Sep 2026 04:55:49 +0000</pubDate>
+      <description>［２５日　ロイター］　 -</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;［２５日　ロイター］　 - 米大リーグ（ＭＬＢ）は２５日、各地で試合を行い、ホワイトソックスの村上宗隆内野手はロッキーズ戦に「４番・一塁」で出場。相手先発の菅野智之投手から一回に３４号ソロ、七回に３５号ソロを放った。&lt;/p&gt;&lt;p&gt;村上はこの日、４打数３安打、３打点、１三振の内容で６─１での勝利に貢献した。菅野は６回２／３を投げて６安打、無四球、５三振、４失点で１２敗目（１２勝）を喫した。&lt;/p&gt;&lt;p&gt;ブルージェイズの岡本和真内野手はレッズ戦に「５番・三塁」で出場し、２本の適時二塁打を放つなど３打数２安打、３打点、１四球と活躍。チームは６─５で勝利した。&lt;/p&gt;&lt;p&gt;ドジャースの大谷翔平選手はジャイアンツ戦に「１番・指名打者」で先発し、４打数無安打、３三振だった。同僚の佐々木朗希投手は八回に２番手として登板し、１回を投げて無安打、２三振、無失点でホールドをマーク。先発したタリク・スクバル投手が７回を３安打、無四球、１０三振と好投したドジャースは２─０で勝利し、連敗を２で止めた。&lt;/p&gt;&lt;p&gt;カブスの鈴木誠也外野手は３─４で敗れたレッドソックスとのダブルヘッダー第１試合に「２番・右翼」で出場し、４打数無安打、１四球、２三振。０─２で敗れた第２試合も「２番・右翼」で出場し、３打数２安打、１四球、１三振だった。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/424a170443a1f215898cad52994b66e950f59655</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>サウジ・パキスタン・トルコ、各軍最高司令官が協力強化巡り協議</title>
+      <link>https://news.yahoo.co.jp/articles/5674e75118c5fa8134aa94b7709f37ce4011c34f</link>
+      <guid isPermaLink="false">792231b13d495ff5e2253822</guid>
+      <pubDate>Sat, 26 Sep 2026 04:24:07 +0000</pubDate>
+      <description>[２６日 ロイター] -</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;[２６日 ロイター] - サウジアラビア国防省およびパキスタン軍の声明によると、サウジ、パキスタン、トルコの各軍最高司令官は２５日、サウジの首都リヤドで開催された会合で、情報共有、軍事協力、および能力統合の強化について協議した。&lt;/p&gt;&lt;p&gt;声明によると、各国の国防軍司令官および参謀総長は、サウジアラビアが直面する安全保障情勢と脅威について検討し、イエメンの親イラン武装組織フーシ派による聖地メッカやサウジの民間・経済インフラを標的とした攻撃を非難した。&lt;/p&gt;&lt;p&gt;サウジアラビア、パキスタン、トルコは先月、集団的抑止力と軍事協力の強化を目的とする「メッカ共同防衛協定」に署名した。協定では、３カ国のいずれかに対する武力攻撃は３カ国全てに対する攻撃と見なされると定めている。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/5674e75118c5fa8134aa94b7709f37ce4011c34f</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>Ｆ１＝アゼルバイジャンＧＰ、ラッセルがポールポジション</title>
+      <link>https://news.yahoo.co.jp/articles/a22533a9fbaa26138323c763e0d752389fac9eec</link>
+      <guid isPermaLink="false">8cafe33a9f23e7300b752d83</guid>
+      <pubDate>Sat, 26 Sep 2026 04:02:10 +0000</pubDate>
+      <description>［バクー　２５日　ロイター］　 -</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;［バクー　２５日　ロイター］　 - 自動車レースＦ１の第１５戦、アゼルバイジャン・グランプリ（ＧＰ）は２５日、バクーで予選を行い、ジョージ・ラッセル（英国、メルセデス）が今季５回目のポールポジション（ＰＰ）を獲得した。 　ラッセルは１分４２秒５２６をマークし、２番手となったシャルル・ルクレール（モナコ、フェラーリ）に０秒８３７の大差をつけた。通算１２回目のＰＰで、６月末のオーストリアＧＰ以来となった。 　３番手はオスカー・ピアストリ（オーストラリア、マクラーレン）、手首の負傷による３戦の欠場から復帰したアイザック・ハジャー（フランス、レッドブル）が４番手に入った。 　個人総合争いで首位を独走するキミ・アントネッリ（イタリア、メルセデス）は第１コーナー内側のバリアに接触し、サスペンションを破損して１６番手に終わった。 　バクー市街地コースでは過去９戦で７人の異なる勝者が誕生しており、ＰＰからの優勝は３回にとどまっている。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/a22533a9fbaa26138323c763e0d752389fac9eec</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>トランプ氏がホルムズ海峡開放案拒否と報道、イランは正式回答待ち</title>
+      <link>https://news.yahoo.co.jp/articles/355e53a91d2c2931a98cce9973ffdbb646f41e6d</link>
+      <guid isPermaLink="false">46550bf9a2929d595a2cc365</guid>
+      <pubDate>Sat, 26 Sep 2026 03:43:35 +0000</pubDate>
+      <description>Menna AlaaElDin　Parisa Hafezi
+
+[カイロ／国連 ２６日 ロイター] -</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;Menna AlaaElDin　Parisa Hafezi&lt;/p&gt;&lt;p&gt;[カイロ／国連 ２６日 ロイター] - 米紙ウォール・ストリート・ジャーナル（ＷＳＪ）によると、トランプ米大統領はイランが提示したホルムズ海峡開放に向けた７日間の計画を拒否した。一方、イランはこの提案への米国からの正式な回答を待っている。&lt;/p&gt;&lt;p&gt;イランのアラグチ外相は今週、イランは米国にレバノンを含む全ての戦線で敵対行為の停止や、イラン港湾の封鎖解除、イラン資産凍結の解除を求めており、７日間でこれらの条件が満たされればホルムズ海峡を開放すると表明した。&lt;/p&gt;&lt;p&gt;提案の詳細はカタールの仲介者を通じて米国側に伝達済みだとし、「必要な条件が満たされれば、ホルムズ海峡は開放され、７日以内に通常の海上航路が回復するだろう。選択は今、米国側にある」と語った。また、米国が合意すれば、両国は「相互に合意した議題」について、より広範な協議を開始できると述べた。&lt;/p&gt;&lt;p&gt;ただ、イラン政府の高官は２５日、米国がイランの提案を受け入れたとしても、核開発計画を巡っては一切譲歩しない姿勢を示した。&lt;/p&gt;&lt;p&gt;匿名を条件に語った米当局者は先に、仲介者を通じたイランとの協議を「前向きかつ建設的」と評していた。&lt;/p&gt;&lt;p&gt;だが、ＷＳＪによると、トランプ氏はイランが自身の要求に応じることに内心懐疑的であり、側近らに対し、１１月の中間選挙後にイランへの空爆を再開する見通しだと語ったという。&lt;/p&gt;&lt;p&gt;イランはホルムズ海峡を巡り、敵対するサウジアラビアとも協議を行っている。&lt;/p&gt;&lt;p&gt;イラン外務省は２６日、アラグチ外相がサウジ外相のファイサル・ビン・ファルハン王子に対し、ホルムズ海峡における安全な航路に関するイランとオマーンの合意について説明したと発表した。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/355e53a91d2c2931a98cce9973ffdbb646f41e6d</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
     <item>
       <title>ゴルフ＝アーカンソー選手権、西村が単独首位　渋野ら12位</title>
       <link>https://news.yahoo.co.jp/articles/47fbd679ecf55216ed4bb1e04efc78e8baac184a</link>
@@ -675,13 +795,13 @@
       <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
     </item>
     <item>
-      <title>米テレビ各社、トランプ氏取材再開へ　排除措置巡り違憲訴訟継続＝ＣＮＮ</title>
+      <title>米ＴＶ各社がホワイトハウス取材再開、習氏訪問で　締め出し巡る訴訟続く</title>
       <link>https://news.yahoo.co.jp/articles/6e53b06099f36efcd3aa385d67b2cefa1e62da24</link>
-      <guid isPermaLink="false">0a34a48beb118f493a4d0ee4</guid>
+      <guid isPermaLink="false">d76e816bb10c19f9f57767de</guid>
       <pubDate>Fri, 25 Sep 2026 14:06:29 +0000</pubDate>
-      <description>[ワシントン　２５日　ロイター] - 米ＣＮＮの記者は２５日、テレビ各社がトランプ大統領に関連するイベントの取材を再開する見通しだと明らかにした。トランプ政権による米メディアのＣＮＮ、ＭＳ</description>
+      <description>[ワシントン　２５日　ロイター] - 米テレビ各社は２５日、トランプ大統領のホワイトハウスでの行事の取材を再開し、中国の習近平国家主席の訪問について初めて代表取材（プール取材）による生中継が可能となった。一方、米ＣＮＮ、ＭＳ</description>
       <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;[ワシントン　２５日　ロイター] - 米ＣＮＮの記者は２５日、テレビ各社がトランプ大統領に関連するイベントの取材を再開する見通しだと明らかにした。トランプ政権による米メディアのＣＮＮ、ＭＳ ＮＯＷ、ポリティコのホワイトハウス排除を巡っては、依然として裁判が続いている。&lt;/p&gt;&lt;p&gt;ＣＮＮによると、トランプ氏が中国の習近平国家主席と共に、米国の憲法など建国関連の文書が収蔵されている国立公文書館を視察する予定の２５日、ＣＮＮも現地で取材する。&lt;/p&gt;&lt;p&gt;ＣＮＮのクリステン・ホームズ記者は２５日、前日に取材アクセスが復活したホワイトハウス敷地内から放送で「代表取材（プール取材）が実施される予定だ」と述べた。&lt;/p&gt;&lt;p&gt;ホワイトハウスの担当者は現時点でコメント要請に応じていない。&lt;/p&gt;&lt;p&gt;トランプ氏が１８日にホワイトハウスから締め出すと表明したことを受け、３社は２１日、トランプ政権を提訴した。ホワイトハウスは２４日、連邦地裁がトランプ氏による締め出し措置について違憲の可能性が高いとし、アクセスを直ちに回復するよう命じたことを受け、３社の記者のホワイトハウス立ち入りを認めたと明らかにしていた。&lt;/p&gt;</content:encoded>
+      <content:encoded>&lt;p&gt;[ワシントン　２５日　ロイター] - 米テレビ各社は２５日、トランプ大統領のホワイトハウスでの行事の取材を再開し、中国の習近平国家主席の訪問について初めて代表取材（プール取材）による生中継が可能となった。一方、米ＣＮＮ、ＭＳ ＮＯＷ、ポリティコに対する取材制限を巡っては、依然として法廷闘争が続いている。&lt;/p&gt;&lt;p&gt;トランプ氏は先週、虚偽または否定的だと主張する報道を理由にこの３社をホワイトハウスから締め出した。３社は政権を提訴し、連邦地裁は締め出しが違憲の可能性が高いとしてアクセスを直ちに回復するよう命令。３社のアクセスは２４日に復活した。&lt;/p&gt;&lt;p&gt;ホワイトハウスのテレビ代表取材は、習氏が訪米最終日の２５日にお茶のためホワイトハウスに到着する様子や、両首脳が米国憲法を収蔵する国立公文書館を視察する様子を映像で伝えた。&lt;/p&gt;&lt;p&gt;ＣＮＮ、ＡＢＣ、ＣＢＳ、ＦＯＸニュース、ＮＢＣの５大ネットワークは大統領取材の費用を分担し、輪番で取材してプール映像を他社に提供している。連帯を示すため他ネットワークがカメラ設置を拒否したことで、習氏訪問の最初の２日間はプール取材が行われなかった。&lt;/p&gt;&lt;p&gt;ＣＮＮは２５日夕、トランプ氏の週末のテネシー州訪問に際し、大統領専用機エアフォースワンへの同乗を拒否されたと明らかにした。ホワイトハウスはロイターのコメント要請に直ちに応じなかった。&lt;/p&gt;&lt;p&gt;２５日に習氏のホワイトハウス到着に合わせてプール取材が再開された際、トランプ氏は中国やイラン、自身のメディア排除、そして税金で賄われた自身の大統領職を宣伝する物議を醸す新たなテレビ広告に関する記者団の質問への回答を拒んだ。その後、記者団に謝意を示し、習氏の隣で「公平な報道に感謝する。非常に公平だった。感謝している」と述べた。&lt;/p&gt;&lt;p&gt;ホワイトハウスは、取材アクセス回復に関するコメント要請に応じなかった。&lt;/p&gt;</content:encoded>
       <wire:publisher>Reuters</wire:publisher>
       <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
       <wire:platform>Yahoo!ニュース日本</wire:platform>
@@ -893,134 +1013,6 @@
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://news.yahoo.co.jp/articles/e3ad51c7eb24a0f0d22895a1bb0f2bfdbe8a3859</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>スウェーデンとフィンランド、ロシア機に緊急発進　初の共同作戦</title>
-      <link>https://news.yahoo.co.jp/articles/bd385ca0f2a8945c74159b37ea856b2e4621ae60</link>
-      <guid isPermaLink="false">2a016985fc676f67d7911fb8</guid>
-      <pubDate>Fri, 25 Sep 2026 09:40:54 +0000</pubDate>
-      <description>[ストックホルム ２５日 ロイター] - フィンランドとスウェーデンは２５日、フィンランド湾上空の国際空域を飛行していたロシア軍機に対処するため、戦闘機を緊急発進（スクランブル）させたと発表した。両国によるこうした共同作戦は初めて。
-
-スウェーデンのクリステション首相は２４日に実施されたこの作戦について、「即応警戒（Quick Reaction</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;[ストックホルム ２５日 ロイター] - フィンランドとスウェーデンは２５日、フィンランド湾上空の国際空域を飛行していたロシア軍機に対処するため、戦闘機を緊急発進（スクランブル）させたと発表した。両国によるこうした共同作戦は初めて。&lt;/p&gt;&lt;p&gt;スウェーデンのクリステション首相は２４日に実施されたこの作戦について、「即応警戒（Quick Reaction Alert）」協力がいかに両国の空域を監視・防衛できるかを示したと述べた。&lt;/p&gt;&lt;p&gt;Ｘに「これはわれわれが共に築き上げてきた態勢と信頼の具体的な表れであり、この地域における北欧、北欧・バルト、そしてより広範な北大西洋条約機構（ＮＡＴＯ）協力の強さを示すものだ」と投稿。「バルト海はかつてないほど脆弱な状態にあるが、今ほどしっかりと守られていることもなかった」と述べた。&lt;/p&gt;&lt;p&gt;フィンランド空軍によると、両国の戦闘機は、輸送機や数機の戦闘機を含むロシア軍機の一団を追跡・識別した。&lt;/p&gt;&lt;p&gt;北欧両国にあるロシア大使館はコメント要請に応じていない。&lt;/p&gt;&lt;p&gt;フィンランドとスウェーデンは、ロシアによるウクライナ侵攻を受けて長年の非同盟政策から転換し、いずれもＮＡＴＯに加盟した。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/bd385ca0f2a8945c74159b37ea856b2e4621ae60</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>英利上げ、11月と2月に実施へ＝モルガンＳ</title>
-      <link>https://news.yahoo.co.jp/articles/bfaa8eaef17637ba2de2e7ca84a6e09c869b9d4f</link>
-      <guid isPermaLink="false">f4f963a4fe7dc97a57a2ca0d</guid>
-      <pubDate>Fri, 25 Sep 2026 09:08:53 +0000</pubDate>
-      <description>[ロンドン ２５日 ロイター] -</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;[ロンドン ２５日 ロイター] - モルガン・スタンレーは２５日、英金利見通しを修正し、イングランド銀行（英中央銀行）が１１月と来年２月にそれぞれ２５ベーシスポイント（ｂｐ）の利上げを実施すると予測した。これまでは利上げが当面ないと見込んでいた。&lt;/p&gt;&lt;p&gt;アナリストらはリサーチノートで「われわれはイングランド銀行の見通しを、四半期ごとの２回の利上げへと正式に修正する。財政政策がさらなる引き締めへの主要な潜在的カタリストになると考えている」と説明。「年末年始には成長の鈍化が見込まれるが、世界的な成長の堅調さを踏まえると、短期的なリスクは均衡するとわれわれは見ている」と述べた。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/bfaa8eaef17637ba2de2e7ca84a6e09c869b9d4f</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>豪、不正侵入受けＡＩ規制強化へ　法執行と立法面で検討と首相</title>
-      <link>https://news.yahoo.co.jp/articles/656a8ec5b342fd4892035c19255bf1e3daf5a981</link>
-      <guid isPermaLink="false">b0e4b51c3fca081614a43291</guid>
-      <pubDate>Fri, 25 Sep 2026 09:05:34 +0000</pubDate>
-      <description>Byron Kaye　Christine Chen
-
-［シドニー　２５日　ロイター］ -</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;Byron Kaye　Christine Chen&lt;/p&gt;&lt;p&gt;［シドニー　２５日　ロイター］ - 米オープンＡＩの人工知能（ＡＩ）エージェントによる不正侵入を受け、オーストラリアはＡＩ規制を強化する方向だ。同国政府は２０２７年にＡＩに特化した法律を施行する準備を進めている。アルバニージー首相は、「法執行面および立法面で取り得る対応」を検討していると述べた。&lt;/p&gt;&lt;p&gt;オーストラリアは既に、オープンＡＩとアンソロピックに対し、モデルの学習で著作権法の適用免除を認めず、同国の著作権者とライセンス契約を先に交渉するよう求めている。専門家によると、この方針は恐らく維持される。&lt;/p&gt;&lt;p&gt;オーストラリア政府は今後、ＡＩ企業に責任がある侵害について報告を義務付けるため、プライバシー法を改正する可能性がある。また、国家安全保障の維持に向け、一般向けウェブサイトの安全性試験にＡＩ企業の協力を求めることも想定される。&lt;/p&gt;&lt;p&gt;テクノロジー政策デザイン研究所のエグゼクティブディレクターで、国連におけるオーストラリアの前サイバー交渉責任者であるジョハナ・ウィーバー氏は、米国の反発に直面しながらもテクノロジー規制を進めてきたオーストラリアは、より良いＡＩの安全策を求める国際的な取り組みを主導できる立場にあると述べた。&lt;/p&gt;&lt;p&gt;今回の不正侵入は、オープンＡＩとアンソロピックの同国でのデータセンター関連契約にも影を落としそうだ。&lt;/p&gt;&lt;p&gt;まだ州当局の認可は降りていない。また、地域社会への恩恵、住民の理解・信頼といった、ソーシャルライセンスも課題となる。&lt;/p&gt;&lt;p&gt;シドニー大学ＡＩ・信頼・ガバナンスセンターの研究者、ロブ・ニコルズ氏は、「ソーシャルライセンスに対する支持を、もう少し上の段階まで高める必要がある」とし、「データセンターの近隣住民全員の電気料金を２００ドル引き下げる、と言うだけでは不十分だ。むしろそれは最低限の条件であるべきだ」と語った。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/656a8ec5b342fd4892035c19255bf1e3daf5a981</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>ローマ教皇がフランス入り、欧州の未来に向けたビジョンを提示へ</title>
-      <link>https://news.yahoo.co.jp/articles/2008eeb4a8852c140a97ca98f9c8f3d17f6dd3df</link>
-      <guid isPermaLink="false">bf4f569d037ae1a1f8247ff3</guid>
-      <pubDate>Fri, 25 Sep 2026 08:59:48 +0000</pubDate>
-      <description>Joshua McElwee
-
-［パリ　２５日　ロイター］ - ローマ教皇レオ１４世は２５日、４日間の日程でフランス入りした。戦争に揺れる世界に向けて平和のメッセージを伝えるほか、性的虐待スキャンダルで傷ついたカトリック教会の信頼を回復したい意向だ。
-
-また、ＡＩ（人工知能）開発に関する国際的なルール策定を改めて呼びかけ、欧州の未来に向けたビジョンも提示する。
-
-教皇は晴天のパリ・オルリー空港で、マクロン大統領夫妻や子どもたちの出迎えを受けた。訪問中、南西部のカトリック巡礼地ルルドや、ドイツ国境近くのメッスを訪問する。
-
-２５日は、エリゼ宮でマクロン氏らに向けて演説するほか、国連教育科学文化機関（ユネスコ）本部に訪問する。</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;Joshua McElwee&lt;/p&gt;&lt;p&gt;［パリ　２５日　ロイター］ - ローマ教皇レオ１４世は２５日、４日間の日程でフランス入りした。戦争に揺れる世界に向けて平和のメッセージを伝えるほか、性的虐待スキャンダルで傷ついたカトリック教会の信頼を回復したい意向だ。&lt;/p&gt;&lt;p&gt;また、ＡＩ（人工知能）開発に関する国際的なルール策定を改めて呼びかけ、欧州の未来に向けたビジョンも提示する。&lt;/p&gt;&lt;p&gt;教皇は晴天のパリ・オルリー空港で、マクロン大統領夫妻や子どもたちの出迎えを受けた。訪問中、南西部のカトリック巡礼地ルルドや、ドイツ国境近くのメッスを訪問する。&lt;/p&gt;&lt;p&gt;２５日は、エリゼ宮でマクロン氏らに向けて演説するほか、国連教育科学文化機関（ユネスコ）本部に訪問する。 修復されたノートルダム大聖堂で祈りの儀式を執り行う。&lt;/p&gt;&lt;p&gt;２６日にパリ中心部で行われる野外ミサには、約６０万人が参加登録を済ませている。２７日、メッスで「平和と統一に向けた欧州のルーツ」と題した演説を行う。&lt;/p&gt;&lt;p&gt;ローマ教皇のフランス公式訪問は約２０年ぶり。２０２１年に発表された報告書では、過去７０年間にわたり約３３万人のフランスの子どもたちがカトリックの聖職者や信徒指導者から虐待を受けていたことが明らかになった。現地の教会指導者は今回の訪問が教会の信頼回復につながることを期待している。&lt;/p&gt;&lt;p&gt;教皇は、パリに向かう機内で記者団に対し、訪仏は平和のメッセージを伝えるためとし、「このメッセージは、皆が承知している通り、現時点で特に重要だ」と語った。&lt;/p&gt;&lt;p&gt;米国出身で初の教皇であるレオ教皇は、イラン戦争を批判してトランプ大統領の反発を招いた。&lt;/p&gt;&lt;p&gt;トランプ氏によるＣＮＮなどの報道機関のホワイトハウス締め出しに関する質問に、教皇は、自身の訪仏を全ての報道機関が取材することを歓迎すると述べ、報道の自由への支持を示した。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/2008eeb4a8852c140a97ca98f9c8f3d17f6dd3df</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>ユーロ圏8月銀行融資、企業向けは小幅減速　家計向け横ばい</title>
-      <link>https://news.yahoo.co.jp/articles/46f6c9b47cbee2fd9d9864b8564e5f7e019c598a</link>
-      <guid isPermaLink="false">41cb74f148881cd028706962</guid>
-      <pubDate>Fri, 25 Sep 2026 08:55:51 +0000</pubDate>
-      <description>[フランクフルト ２５日 ロイター] -</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;[フランクフルト ２５日 ロイター] - 欧州中央銀行（ＥＣＢ）が２５日発表したデータによると、８月のユーロ圏の企業向け融資の伸び率は、比較的高水準だった前月から小幅に鈍化した。家計向けは横ばいだった。&lt;/p&gt;&lt;p&gt;企業向け融資は前年同月比４．２％増と、２０２３年半ば以来の高水準だった７月の４．４％から減速した。家計向けは３．１％増と、２３年初め以来の高水準を維持した。&lt;/p&gt;&lt;p&gt;マネーサプライＭ３の伸び率は前月の３．４％から３．５％に加速した。ロイターがまとめたエコノミスト予想と一致した。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/46f6c9b47cbee2fd9d9864b8564e5f7e019c598a</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>政府主催スタートアップ大賞にＭｕｊｉｎ、情報通信はサカナＡＩ</title>
-      <link>https://news.yahoo.co.jp/articles/9d9cea4f98926912589d29ad1404d02f49c6c0fe</link>
-      <guid isPermaLink="false">8200ba335822a1658806c4cd</guid>
-      <pubDate>Fri, 25 Sep 2026 08:35:39 +0000</pubDate>
-      <description>Kentaro Okasaka
-
-[東京 ２５日 ロイター] -</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;Kentaro Okasaka&lt;/p&gt;&lt;p&gt;[東京 ２５日 ロイター] - インパクトのある新事業を創出したスタートアップを表彰する政府主催の「日本スタートアップ大賞２０２６」の受賞企業が２５日、発表され、大賞（内閣総理大臣賞）に知能ロボットコントローラー開発・販売のＭｕｊｉｎ（ムジン、東京都江東区）が選ばれた。情報通信スタートアップ賞にはサカナＡＩ（東京都港区）が選出された。&lt;/p&gt;&lt;p&gt;Ｍｕｊｉｎは物流・製造現場の作業を自動化する「汎用的知能ロボットコントローラ」を提供している。滝野一征最高経営責任者（ＣＥＯ）はロイターの取材に、フィジカルＡＩ（人工知能）は日本に強みがあるとし「ディープテックの戦いというのは国と国の戦い。（自社への）授賞はそこをしっかり国としてサポートし、国策にまで上げるんだという決意だと思う」と話した。&lt;/p&gt;&lt;p&gt;サカナＡＩの共同創業者・社長の伊藤錬氏は「技術を作るだけでなく、世の役に立てるというところが評価されたのかなと思う」と話した。金融機関の融資業務支援や、防衛省・自衛隊向けの安全保障領域などで実装されているとし、今後の展望として「高市早苗首相ではないが防衛をやってやってやりまくる。そうすれば防衛用に作ったものがインフラや物流、電力など民生用にも使えるようになる」と語った。&lt;/p&gt;&lt;p&gt;防衛スタートアップ賞には水上ドローン（ＵＳＶ＝無人水上艇 ）を展開するオーシャニック・コンステレーションズ （神奈川県鎌倉市）が選出された。本田拓馬共同代表は「安全保障は重要な社会命題。まずは人命リスクを抱えながら自衛隊の皆さんがやっているような警戒監視に無人機を適用することでしっかり貢献していきたい」と話した。&lt;/p&gt;&lt;p&gt;高市政権は、成長基盤の強化に向けたスタートアップ支援を主要政策の一つに掲げている。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/9d9cea4f98926912589d29ad1404d02f49c6c0fe</wire:canonicalUrl>
       <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
     </item>
   </channel>
