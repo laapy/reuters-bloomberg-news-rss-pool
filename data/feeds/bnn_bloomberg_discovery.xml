@@ -1,12 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>BNN Bloomberg — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Abnnbloomberg.ca+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 27 Sep 2026 06:26:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 12:23:21 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Tariff-impacted businesses still holding out for Canada-U.S. trade deal</title>
+      <link>https://www.bnnbloomberg.ca/video/shows/2026/09/27/tariff-impacted-businesses-still-holding-out-for-canada-us-trade-deal/</link>
+      <guid isPermaLink="false">3cedeca88f897c77c785ef63</guid>
+      <pubDate>Sat, 26 Sep 2026 20:02:00 +0000</pubDate>
+      <description>Despite worsening tensions between Canada and the U.S., some businesses feeling the brunt of the trade war still hope for a deal to come.</description>
+      <content:encoded>&lt;p&gt;Opens in new window
+P.E.I. suspends provincial fuel tax, but diesel costs still impact trucking industry Opens in new window 01:43 · September 26, 2026 at 10:12p.m. EDT&lt;/p&gt;</content:encoded>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/2026/09/27/tariff-impacted-businesses-still-holding-out-for-canada-us-trade-deal/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
     <item>
       <title>P.E.I. suspends provincial fuel tax, but diesel costs still impact trucking industry</title>
       <link>https://www.bnnbloomberg.ca/video/shows/2026/09/27/pei-suspends-provincial-fuel-tax-but-diesel-costs-still-impact-trucking-industry/</link>
@@ -43,12 +61,15 @@
       <guid isPermaLink="false">1df764c09421af02efef59b8</guid>
       <pubDate>Sat, 26 Sep 2026 00:44:00 +0000</pubDate>
       <description>Foreign Affairs Minister Anita Anand speaks on Canada’s ‘values-based’ trade relations amid growing calls to diversify away from the U.S.</description>
+      <content:encoded>&lt;p&gt;Opens in new window
+P.E.I. suspends provincial fuel tax, but diesel costs still impact trucking industry Opens in new window 01:43 · September 26, 2026 at 10:12p.m. EDT&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/2026/09/26/watch-foreign-affairs-minister-anita-anand-speaks-at-un-general-assembly-in-new-york/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
@@ -58,12 +79,15 @@
       <guid isPermaLink="false">60ebdc762eff3fbf22577bfa</guid>
       <pubDate>Fri, 25 Sep 2026 22:44:00 +0000</pubDate>
       <description>Military and national security expert Anthony Seaboyer gives more information on the implications of the U.S. president rejecting an off-ramp from the Iran War.</description>
+      <content:encoded>&lt;p&gt;Opens in new window
+P.E.I. suspends provincial fuel tax, but diesel costs still impact trucking industry Opens in new window 01:43 · September 26, 2026 at 10:12p.m. EDT&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/live/2026/09/26/donald-trump-rejects-new-proposal-to-end-iran-war/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
@@ -128,33 +152,18 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Starbucks to close another 250 coffeehouses in North America</title>
-      <link>https://www.bnnbloomberg.ca/business/company-news/2026/09/24/starbucks-to-close-another-250-coffeehouses-in-north-america/</link>
-      <guid isPermaLink="false">f5b37d0c660cc2245cb3acb9</guid>
-      <pubDate>Fri, 25 Sep 2026 04:29:00 +0000</pubDate>
-      <description>Starbucks will close 250 underperforming coffeehouses in North America, the company said in a regulatory filing on Thursday, as CEO Brian Niccol deepens his turnaround push to revive sales.</description>
+      <title>Crypto exchange Bitget pauses withdrawals after US$350 million stolen in hack</title>
+      <link>https://www.bnnbloomberg.ca/markets/crypto/2026/09/25/crypto-exchange-bitget-pauses-withdrawals-after-us350-million-stolen-in-hack/</link>
+      <guid isPermaLink="false">8eb652d5cd84fa5d59cbaaf3</guid>
+      <pubDate>Fri, 25 Sep 2026 05:25:00 +0000</pubDate>
+      <description>Crypto exchange Bitget has stopped allowing customer withdrawals following the theft of crypto worth approximately US$351.6 million in a hack, it said, adding all user funds were safe.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/09/24/starbucks-to-close-another-250-coffeehouses-in-north-america/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>'October of midterm election years is the best month of the year': Stovall</title>
-      <link>https://www.bnnbloomberg.ca/video/shows/the-open/2026/09/25/october-of-midterm-election-years-is-the-best-month-of-the-year-stovall/</link>
-      <guid isPermaLink="false">962d529b7b7ca86f42168a17</guid>
-      <pubDate>Fri, 25 Sep 2026 03:52:00 +0000</pubDate>
-      <description>Sam Stovall, chief investment strategist at CFRA Research, joins BNN Bloomberg to discuss investment strategy amid market volatility.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/the-open/2026/09/25/october-of-midterm-election-years-is-the-best-month-of-the-year-stovall/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/crypto/2026/09/25/crypto-exchange-bitget-pauses-withdrawals-after-us350-million-stolen-in-hack/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
