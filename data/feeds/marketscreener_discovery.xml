@@ -1,11 +1,194 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>MarketScreener — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Amarketscreener.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 27 Sep 2026 20:23:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 23:20:32 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>US, Iran Said to Be Exploring Phased Hormuz Deal</title>
+      <link>https://www.marketscreener.com/news/us-iran-said-to-be-exploring-phased-hormuz-deal-ce785adfdd8dff24</link>
+      <guid isPermaLink="false">42d4be6211ea9fc4d71f8161</guid>
+      <pubDate>Fri, 25 Sep 2026 01:52:00 +0000</pubDate>
+      <description>US and Iranian negotiators are exploring a phased deal that would see Tehran reopen the Strait of Hormuz and Washington lift its blockade of Iranian ports, according to a person familiar with the ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/us-iran-said-to-be-exploring-phased-hormuz-deal-ce785adfdd8dff24</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Microsoft revamps Copilot with code generation, agentic AI tools</title>
+      <link>https://www.marketscreener.com/news/microsoft-revamps-copilot-with-code-generation-agentic-ai-tools-ce785adfdf88f32c</link>
+      <guid isPermaLink="false">4e65bd3c64c3d2694efc1fe7</guid>
+      <pubDate>Fri, 25 Sep 2026 01:00:00 +0000</pubDate>
+      <description>Microsoft on Friday unveiled several new capabilities in its Copilot app, including a coding tool and an always-on AI agent, as the software giant seeks to transform its AI assistant into a one-stop ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/microsoft-revamps-copilot-with-code-generation-agentic-ai-tools-ce785adfdf88f32c</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>BP p.l.c. Reportedly Considering the Acquisition of Devon Energy's Shale Asset Base in South Texas</title>
+      <link>https://www.marketscreener.com/news/bp-p-l-c-reportedly-considering-the-acquisition-of-devon-energy-s-shale-asset-base-in-south-texas-ce785adfdf8cf123</link>
+      <guid isPermaLink="false">efaffd8a24fc52d9a339bcad</guid>
+      <pubDate>Fri, 25 Sep 2026 01:00:00 +0000</pubDate>
+      <description>BP p.l.c. (LSE:BP.) is considering the acquisition of Devon Energy Corporation (NYSE:DVN)'s shale asset base in South Texas, in the US, Reuters reported, citing people familiar with the matter. Six ...</description>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/bp-p-l-c-reportedly-considering-the-acquisition-of-devon-energy-s-shale-asset-base-in-south-texas-ce785adfdf8cf123</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Reuters reported</wire:evidence>
+    </item>
+    <item>
+      <title>Consensus ASML Holding N.V.</title>
+      <link>https://www.marketscreener.com/quote/stock/ASML-HOLDING-N-V-12002973/consensus/</link>
+      <guid isPermaLink="false">71edbf632cfbb4d8edb0a593</guid>
+      <pubDate>Thu, 24 Sep 2026 17:00:00 +0000</pubDate>
+      <description>Sep. 15 ASML Holding N.V. : Bernstein maintains a Buy rating ZD Sep. 14 ASML Holding N.V. : JP Morgan reaffirms its Buy rating ZD Sep. 10 ASML Holding N.V. : JP Morgan maintains a Buy rating ZD ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/ASML-HOLDING-N-V-12002973/consensus/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>White House reinstates access to CNN, MS NOW and Politico following judge's order</title>
+      <link>https://www.marketscreener.com/news/politico-ms-now-denied-access-to-white-house-after-judge-s-order-ce785adede8af42c</link>
+      <guid isPermaLink="false">69b79801364490b4830a0174</guid>
+      <pubDate>Thu, 24 Sep 2026 05:35:00 +0000</pubDate>
+      <description>WASHINGTON, Sept 24 (Reuters) - Politico and MS NOW reporters were barred from the White House on Thursday despite a judge's order calling for access to be restored immediately for journalists from ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/politico-ms-now-denied-access-to-white-house-after-judge-s-order-ce785adede8af42c</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Abu Dhabi's XRG Said to Explore Stake in Shell-Backed LNG Canada</title>
+      <link>https://www.marketscreener.com/news/abu-dhabi-s-xrg-said-to-explore-stake-in-shell-backed-lng-canada-ce785ad8de8bf724</link>
+      <guid isPermaLink="false">e78acf21536dc4f46a794f7b</guid>
+      <pubDate>Tue, 22 Sep 2026 08:38:00 +0000</pubDate>
+      <description>Abu Dhabi's XRG is considering taking a stake in the Shell-backed LNG Canada project, Bloomberg reported Tuesday, citing people familiar with the matter. XRG has been in talks with PetroChina and ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/abu-dhabi-s-xrg-said-to-explore-stake-in-shell-backed-lng-canada-ce785ad8de8bf724</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Bloomberg reported</wire:evidence>
+    </item>
+    <item>
+      <title>China expands export control list for drug precursor chemicals ahead of Trump-Xi summit</title>
+      <link>https://www.marketscreener.com/news/china-expands-export-control-list-for-drug-precursor-chemicals-ahead-of-trump-xi-summit-ce785ad8d88ff024</link>
+      <guid isPermaLink="false">e59a8c19a9aa5949e6f7db6b</guid>
+      <pubDate>Tue, 22 Sep 2026 00:37:00 +0000</pubDate>
+      <description>This article is reserved for our members.</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/china-expands-export-control-list-for-drug-precursor-chemicals-ahead-of-trump-xi-summit-ce785ad8d88ff024</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>British retail sales unexpectedly rise by 0.5% in August</title>
+      <link>https://www.marketscreener.com/news/british-retail-sales-unexpectedly-rise-by-0-5-in-august-ce785adad98ff52d</link>
+      <guid isPermaLink="false">9529acd7788145b4bba821ad</guid>
+      <pubDate>Thu, 17 Sep 2026 23:05:00 +0000</pubDate>
+      <description>British retail sales unexpectedly rose by 0.5% in August, official figures showed on Friday. Most economists polled by Reuters had forecast a drop of 0.2% drop in sales volumes compared... -September ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/british-retail-sales-unexpectedly-rise-by-0-5-in-august-ce785adad98ff52d</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Deutsche Telekom AG Stock</title>
+      <link>https://www.marketscreener.com/quote/stock/DEUTSCHE-TELEKOM-AG-444661/</link>
+      <guid isPermaLink="false">caead3ab27f223c2cce61d6c</guid>
+      <pubDate>Thu, 17 Sep 2026 17:00:00 +0000</pubDate>
+      <description>Sep. 20 Telekom CEO: 'I'm happy about every construction site' DP ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/DEUTSCHE-TELEKOM-AG-444661/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Dow Jones Industrial Stock</title>
+      <link>https://www.marketscreener.com/quote/index/DOW-JONES-INDUSTRIAL-4945/</link>
+      <guid isPermaLink="false">1251c6db25240b9ba2e431b8</guid>
+      <pubDate>Thu, 25 Sep 2025 17:00:00 +0000</pubDate>
+      <description>Sep. 11 US Equity Indexes Rise After August Inflation Print Triggers Rally in Shorter-Maturity Treasury Yields, Crude Oil Slumps MT Sep. 11 US Equity Indexes Fall This Week as Benchmark Treasury Yield ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/quote/index/DOW-JONES-INDUSTRIAL-4945/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Nike, Inc. Stock</title>
+      <link>https://www.marketscreener.com/quote/stock/NIKE-INC-13739/</link>
+      <guid isPermaLink="false">f687643062ae052f27c4e158</guid>
+      <pubDate>Sat, 12 Oct 2024 17:01:00 +0000</pubDate>
+      <description>Sep. 25 Converse pauses social media ads, marketing after racism uproar, Bloomberg News reports RE ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/NIKE-INC-13739/</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Bloomberg News reports</wire:evidence>
+    </item>
+    <item>
+      <title>Skanska AB Stock</title>
+      <link>https://www.marketscreener.com/quote/stock/SKANSKA-AB-6491108/</link>
+      <guid isPermaLink="false">0530bfb32e76b8a6ce374697</guid>
+      <pubDate>Mon, 15 Jan 2018 16:00:00 +0000</pubDate>
+      <description>Sep. 25 ERSTE Open-Ended Real Estate Investment Fund managed by Erste Bank Magyarorszag Befektetesi Alapkezelo Rt. agreed to acquire second phase of H2Offices in Budapest from Skanska AB (OM:SKA B) ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/SKANSKA-AB-6491108/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
   </channel>
 </rss>
