@@ -1,27 +1,39 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>BNN Bloomberg — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Abnnbloomberg.ca+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 27 Sep 2026 00:52:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 06:26:37 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>Possibility of U.S. military action on Canada ‘completely ridiculous’: Former Trump advisor</title>
-      <link>https://www.bnnbloomberg.ca/video/live/2026/09/26/possibility-of-us-military-action-on-canada-completely-ridiculous-former-trump-advisor/</link>
-      <guid isPermaLink="false">d4a5f82120205f66cd47e680</guid>
-      <pubDate>Sat, 26 Sep 2026 06:18:00 +0000</pubDate>
-      <description>Former White House trade advisor, Kelly Ann Shaw, offers her thoughts on the current U.S.-Canada trade relationship and the possibility of military escalation.</description>
-      <content:encoded>&lt;p&gt;Opens in new window
-Donald Trump rejects new proposal to end Iran War Opens in new window 03:44 · September 26, 2026 at 11:01a.m. EDT&lt;/p&gt;</content:encoded>
+      <title>P.E.I. suspends provincial fuel tax, but diesel costs still impact trucking industry</title>
+      <link>https://www.bnnbloomberg.ca/video/shows/2026/09/27/pei-suspends-provincial-fuel-tax-but-diesel-costs-still-impact-trucking-industry/</link>
+      <guid isPermaLink="false">c64fecb02d2691c9e1f27e56</guid>
+      <pubDate>Sat, 26 Sep 2026 17:00:00 +0000</pubDate>
+      <description>Truckers say the high cost of diesel continues to impact how their businesses operate. Maria Sarrouh reports. September 26, 2026 at 10:12p.m. EDT ...</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/2026/09/27/pei-suspends-provincial-fuel-tax-but-diesel-costs-still-impact-trucking-industry/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Possibility of U.S. military action on Canada ‘completely ridiculous’: Former Trump advisor</title>
+      <link>https://www.bnnbloomberg.ca/video/live/2026/09/26/possibility-of-us-military-action-on-canada-completely-ridiculous-former-trump-advisor/</link>
+      <guid isPermaLink="false">d4a5f82120205f66cd47e680</guid>
+      <pubDate>Sat, 26 Sep 2026 06:18:00 +0000</pubDate>
+      <description>Former White House trade advisor, Kelly Ann Shaw, offers her thoughts on the current U.S.-Canada trade relationship and the possibility of military escalation.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/live/2026/09/26/possibility-of-us-military-action-on-canada-completely-ridiculous-former-trump-advisor/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
@@ -31,15 +43,12 @@ Donald Trump rejects new proposal to end Iran War Opens in new window 03:44 · S
       <guid isPermaLink="false">1df764c09421af02efef59b8</guid>
       <pubDate>Sat, 26 Sep 2026 00:44:00 +0000</pubDate>
       <description>Foreign Affairs Minister Anita Anand speaks on Canada’s ‘values-based’ trade relations amid growing calls to diversify away from the U.S.</description>
-      <content:encoded>&lt;p&gt;Opens in new window
-Donald Trump rejects new proposal to end Iran War Opens in new window 03:44 · September 26, 2026 at 11:01a.m. EDT&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/2026/09/26/watch-foreign-affairs-minister-anita-anand-speaks-at-un-general-assembly-in-new-york/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
@@ -47,36 +56,15 @@ Donald Trump rejects new proposal to end Iran War Opens in new window 03:44 · S
       <title>Donald Trump rejects new proposal to end Iran War</title>
       <link>https://www.bnnbloomberg.ca/video/live/2026/09/26/donald-trump-rejects-new-proposal-to-end-iran-war/</link>
       <guid isPermaLink="false">60ebdc762eff3fbf22577bfa</guid>
-      <pubDate>Sat, 26 Sep 2026 00:44:00 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 22:44:00 +0000</pubDate>
       <description>Military and national security expert Anthony Seaboyer gives more information on the implications of the U.S. president rejecting an off-ramp from the Iran War.</description>
-      <content:encoded>&lt;p&gt;Opens in new window
-Donald Trump rejects new proposal to end Iran War Opens in new window 03:44 · September 26, 2026 at 11:01a.m. EDT&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/live/2026/09/26/donald-trump-rejects-new-proposal-to-end-iran-war/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>A reprieve from rising oil prices helps U.S. stocks finish the week higher</title>
-      <link>https://www.bnnbloomberg.ca/markets/2026/09/25/us-stocks-drift-toward-the-finish-of-a-winning-week/</link>
-      <guid isPermaLink="false">49698841feade739f20749a3</guid>
-      <pubDate>Fri, 25 Sep 2026 20:46:09 +0000</pubDate>
-      <description>A cooldown in oil prices is clashing on Wall Street with pressure building from the bond market, and the U.S. stock market is making few big moves on Friday.</description>
-      <dc:creator>The Associated Press</dc:creator>
-      <content:encoded>&lt;p&gt;NEW YORK — A cooldown in oil prices on Friday helped release some of the pressure that’s built up on Wall Street, and U.S. stocks closed out their first winning week in the last three. The S&amp;amp;P 500 added 0.5 per cent to break a three-day losing streak marked by big swings due to rising yields in the bond market. Despite the week’s uneasiness, the main measure of the U.S. stock market’s health pulled back within 0.7 per cent of its all-time high set last month. The Dow Jones Industrial Average added 478 points, or 0.9 per cent, and the Nasdaq composite climbed 0.5 per cent. Stocks got a boost after the price for a barrel of Brent oil dropped 2.8 per cent to US$97.44 per barrel. It’s been yo-yoing on uncertainty about when the war with Iran will allow oil to flow freely again from the Middle East. Prices go down when hopes rise for a possible deal to fully reopen the Strait of Hormuz to oil tankers, and they go up when doubts resurface. But trading was shaky again on Wall Street Friday, particularly after a report on U.S. consumer sentiment sent Treasury yields higher in the morning. The report from the University of Michigan said U.S. consumers are bracing for inflation of 4.6 per cent in the coming year, up from their forecast of 4 per cent the month before. It also said that overall sentiment among consumers was not as bad as economists expected, even if it was the lowest in four months. The rising expectations for high inflation are potentially dangerous for the economy because they could encourage behavior that leads to a vicious cycle that makes the cost of living spiral even higher. Some consumers told the survey that buying some kinds of products now would help them avoid higher prices in the future. If many rush to make such purchases at the same time, it could encourage sellers to raise prices further. Following the report on consumer sentiment, the yield on the 10-year Treasury briefly jumped to 5.22 per cent, up from 5.18 per cent late Thursday, and was near its highest level since 2007. High yields slow the economy by making it more expensive for everyone to borrow money, while undercutting prices for stocks and other investments. The 10-year yield has been jumping since the start of the war with Iran, when it was at 3.97 per cent. Higher yields worldwide are rattling all kinds of financial markets. They’re on the rise because of worries about inflation, expensive oil, big government debt loads, signs of continued economic strength and other factors. But yields eased later in trading on Friday as the price of oil pulled lower, and the 10-year yield fell back to 5.15 per cent. That helped stocks on Wall Street regain strength. Helping to drive the market higher was Akamai Technologies. The cloud company’s stock rose 3.2 per cent after it announced an US$11.6 billion, multiyear agreement with Anthropic, the company behind the Claude AI chatbot. Costco Wholesale climbed 2.9 per cent after the retailer reported a stronger profit for the latest quarter than analysts expected. Such strong profit reports from U.S. companies have helped the stock market remain resilient despite all the worries about high inflation and oil prices. All told, the S&amp;amp;P 500 rose 39.28 points to 7,743.41. The Dow Jones Industrial Average jumped 478.64 to 51,828.62, and the Nasdaq composite gained 129.34 to 27,068.72. In stock markets abroad, indexes were mixed in Europe following bigger moves in Asia. Japan’s Nikkei 225 climbed 1.3 per cent, while Hong Kong’s Hang Seng dropped 1 per cent. ___ Stan Choe, The Associated Press AP Business Writers Chan Ho-him and Michelle Chapman contributed to this report.&lt;/p&gt;</content:encoded>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/2026/09/25/us-stocks-drift-toward-the-finish-of-a-winning-week/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -140,21 +128,6 @@ Donald Trump rejects new proposal to end Iran War Opens in new window 03:44 · S
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Crypto exchange Bitget pauses withdrawals after US$350 million stolen in hack</title>
-      <link>https://www.bnnbloomberg.ca/markets/crypto/2026/09/25/crypto-exchange-bitget-pauses-withdrawals-after-us350-million-stolen-in-hack/</link>
-      <guid isPermaLink="false">8eb652d5cd84fa5d59cbaaf3</guid>
-      <pubDate>Fri, 25 Sep 2026 05:25:00 +0000</pubDate>
-      <description>Crypto exchange Bitget has stopped allowing customer withdrawals following the theft of crypto worth approximately US$351.6 million in a hack, it said, adding all user funds were safe.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/crypto/2026/09/25/crypto-exchange-bitget-pauses-withdrawals-after-us350-million-stolen-in-hack/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
       <title>Starbucks to close another 250 coffeehouses in North America</title>
       <link>https://www.bnnbloomberg.ca/business/company-news/2026/09/24/starbucks-to-close-another-250-coffeehouses-in-north-america/</link>
       <guid isPermaLink="false">f5b37d0c660cc2245cb3acb9</guid>
@@ -170,18 +143,33 @@ Donald Trump rejects new proposal to end Iran War Opens in new window 03:44 · S
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Wall Street’s ‘dean of valuation’ grades 9 trillion-dollar stocks: Jon Erlichman</title>
-      <link>https://www.bnnbloomberg.ca/ticker-take/2026/09/25/wall-streets-dean-of-valuation-grades-9-trillion-dollar-stocks-jon-erlichman/</link>
-      <guid isPermaLink="false">df5f79797124eae6eaa17e45</guid>
-      <pubDate>Fri, 25 Sep 2026 02:59:00 +0000</pubDate>
-      <description>A trillion dollars used to be a rare milestone. But in the eight years since Apple first accomplished the feat, more than a dozen companies have crossed the trillion dollar threshold.</description>
+      <title>'October of midterm election years is the best month of the year': Stovall</title>
+      <link>https://www.bnnbloomberg.ca/video/shows/the-open/2026/09/25/october-of-midterm-election-years-is-the-best-month-of-the-year-stovall/</link>
+      <guid isPermaLink="false">962d529b7b7ca86f42168a17</guid>
+      <pubDate>Fri, 25 Sep 2026 03:52:00 +0000</pubDate>
+      <description>Sam Stovall, chief investment strategist at CFRA Research, joins BNN Bloomberg to discuss investment strategy amid market volatility.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/ticker-take/2026/09/25/wall-streets-dean-of-valuation-grades-9-trillion-dollar-stocks-jon-erlichman/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/the-open/2026/09/25/october-of-midterm-election-years-is-the-best-month-of-the-year-stovall/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>A reprieve from rising oil prices helps U.S. stocks finish the week higher</title>
+      <link>https://www.bnnbloomberg.ca/markets/2026/09/25/us-stocks-drift-toward-the-finish-of-a-winning-week/</link>
+      <guid isPermaLink="false">49698841feade739f20749a3</guid>
+      <pubDate>Fri, 25 Sep 2026 02:53:00 +0000</pubDate>
+      <description>A cooldown in oil prices is clashing on Wall Street with pressure building from the bond market, and the U.S. stock market is making few big moves on Friday.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/2026/09/25/us-stocks-drift-toward-the-finish-of-a-winning-week/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>

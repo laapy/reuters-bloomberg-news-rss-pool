@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Aswissinfo.ch+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 27 Sep 2026 00:52:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 06:26:37 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>US Hiring Appetite Is Healthy as Economy Powers Ahead</title>
@@ -141,6 +141,21 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.swissinfo.ch/eng/kuehne%2bnagel-enters-into-long-term-collaboration-with-amazon/92090998</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Insurance Australia Says Greensill Settlement Isn’t Finalized</title>
+      <link>https://www.swissinfo.ch/eng/insurance-australia-says-greensill-settlement-isnt-finalized/92090069</link>
+      <guid isPermaLink="false">b7b49e9b43dd9f82a1d635c2</guid>
+      <pubDate>Sun, 20 Sep 2026 18:10:00 +0000</pubDate>
+      <description>Insurance Australia Group Ltd. said a settlement of proceedings brought by Credit Suisse entities over Greensill trade credit insurance policies hasn’t been finalized.</description>
+      <wire:foundAt>swissinfo_discovery</wire:foundAt>
+      <wire:platform>SWI swissinfo.ch</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.swissinfo.ch/eng/insurance-australia-says-greensill-settlement-isnt-finalized/92090069</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
