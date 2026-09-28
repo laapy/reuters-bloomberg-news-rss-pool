@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>The Economic Times — diagnostic source feed</title>
     <link>https://economictimes.indiatimes.com/rssfeedsdefault.cms</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 27 Sep 2026 23:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 01:57:39 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Emerging market investors shun riskiest bonds as US yields soar</title>
+      <link>https://economictimes.indiatimes.com/markets/us-stocks/news/emerging-market-investors-shun-riskiest-bonds-as-us-yields-soar/articleshow/134529079.cms</link>
+      <guid isPermaLink="false">47853210d9eaf0e3197b5189</guid>
+      <pubDate>Mon, 28 Sep 2026 00:21:00 +0000</pubDate>
+      <description>Emerging-market investors are pulling back from riskier bond investments amid a significant selloff in global credit markets. The recent turmoil has resulted in high yields for US Treasuries, raising concerns among money managers. With credit spreads at tight levels not seen since 2007, investors are worried about potential bond selloffs. Some analysts are trimming exposure to certain countries while favoring higher-rated credits like Indonesia and the Philippines.</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;Emerging-market investors from Aegon USA Investment Management to JPMorgan Asset Management are dialing back their riskiest bond bets as the deepening selloff in global credit markets threatens to derail a stellar run for debt in the developing world.Read more: Wall Street Week Ahead: Jobs report, inflation data to test US rate path, economic strengthDollar debt from countries in the emerging world returned 1.4% over the past year despite the recent turmoil that has sent yields on US Treasuries to the highest in nearly two decades. Even with oil above $100 a barrel and investors bracing for higher-for-longer global interest rates, credit spreads are at their tightest since 2007, raising alarm bells for money managers who say the bonds are bound to sell off.Read more: Nifty at key 23,000 support: Can bulls trigger a technical rebound? When we have rising government rates, I get concerned on what that does to the level of spread, said Jeff Grills, the head of EM debt at Aegon. When I look at where are the great opportunities, they are hard to find. Grills recently trimmed his exposure to Colombia, while adding debt from higher-rated credits like Indonesia and the Philippines.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>economic_times</wire:foundAt>
+      <wire:platform>The Economic Times</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://economictimes.indiatimes.com/markets/us-stocks/news/emerging-market-investors-shun-riskiest-bonds-as-us-yields-soar/articleshow/134529079.cms</wire:canonicalUrl>
+      <wire:evidence>structured credit: Bloomberg</wire:evidence>
+    </item>
   </channel>
 </rss>

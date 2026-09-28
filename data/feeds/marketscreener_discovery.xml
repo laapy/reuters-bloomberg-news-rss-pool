@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Amarketscreener.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 27 Sep 2026 23:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 01:57:39 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>US, Iran Said to Be Exploring Phased Hormuz Deal</title>
@@ -23,21 +23,6 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Microsoft revamps Copilot with code generation, agentic AI tools</title>
-      <link>https://www.marketscreener.com/news/microsoft-revamps-copilot-with-code-generation-agentic-ai-tools-ce785adfdf88f32c</link>
-      <guid isPermaLink="false">4e65bd3c64c3d2694efc1fe7</guid>
-      <pubDate>Fri, 25 Sep 2026 01:00:00 +0000</pubDate>
-      <description>Microsoft on Friday unveiled several new capabilities in its Copilot app, including a coding tool and an always-on AI agent, as the software giant seeks to transform its AI assistant into a one-stop ...</description>
-      <wire:foundAt>marketscreener_discovery</wire:foundAt>
-      <wire:platform>MarketScreener</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/news/microsoft-revamps-copilot-with-code-generation-agentic-ai-tools-ce785adfdf88f32c</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
       <title>BP p.l.c. Reportedly Considering the Acquisition of Devon Energy's Shale Asset Base in South Texas</title>
       <link>https://www.marketscreener.com/news/bp-p-l-c-reportedly-considering-the-acquisition-of-devon-energy-s-shale-asset-base-in-south-texas-ce785adfdf8cf123</link>
       <guid isPermaLink="false">efaffd8a24fc52d9a339bcad</guid>
@@ -52,6 +37,21 @@
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.marketscreener.com/news/bp-p-l-c-reportedly-considering-the-acquisition-of-devon-energy-s-shale-asset-base-in-south-texas-ce785adfdf8cf123</wire:canonicalUrl>
       <wire:evidence>reporting reference, not an exact wire credit: Reuters reported</wire:evidence>
+    </item>
+    <item>
+      <title>Microsoft revamps Copilot with code generation, agentic AI tools</title>
+      <link>https://www.marketscreener.com/news/microsoft-revamps-copilot-with-code-generation-agentic-ai-tools-ce785adfdf88f32c</link>
+      <guid isPermaLink="false">4e65bd3c64c3d2694efc1fe7</guid>
+      <pubDate>Fri, 25 Sep 2026 01:00:00 +0000</pubDate>
+      <description>Microsoft on Friday unveiled several new capabilities in its Copilot app, including a coding tool and an always-on AI agent, as the software giant seeks to transform its AI assistant into a one-stop ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/microsoft-revamps-copilot-with-code-generation-agentic-ai-tools-ce785adfdf88f32c</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
       <title>Consensus ASML Holding N.V.</title>
@@ -84,27 +84,11 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Abu Dhabi's XRG Said to Explore Stake in Shell-Backed LNG Canada</title>
-      <link>https://www.marketscreener.com/news/abu-dhabi-s-xrg-said-to-explore-stake-in-shell-backed-lng-canada-ce785ad8de8bf724</link>
-      <guid isPermaLink="false">e78acf21536dc4f46a794f7b</guid>
-      <pubDate>Tue, 22 Sep 2026 08:38:00 +0000</pubDate>
-      <description>Abu Dhabi's XRG is considering taking a stake in the Shell-backed LNG Canada project, Bloomberg reported Tuesday, citing people familiar with the matter. XRG has been in talks with PetroChina and ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>marketscreener_discovery</wire:foundAt>
-      <wire:platform>MarketScreener</wire:platform>
-      <wire:relation>mention</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.86</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/news/abu-dhabi-s-xrg-said-to-explore-stake-in-shell-backed-lng-canada-ce785ad8de8bf724</wire:canonicalUrl>
-      <wire:evidence>reporting reference, not an exact wire credit: Bloomberg reported</wire:evidence>
-    </item>
-    <item>
       <title>China expands export control list for drug precursor chemicals ahead of Trump-Xi summit</title>
       <link>https://www.marketscreener.com/news/china-expands-export-control-list-for-drug-precursor-chemicals-ahead-of-trump-xi-summit-ce785ad8d88ff024</link>
       <guid isPermaLink="false">e59a8c19a9aa5949e6f7db6b</guid>
       <pubDate>Tue, 22 Sep 2026 00:37:00 +0000</pubDate>
-      <description>This article is reserved for our members.</description>
+      <description>BEIJING, Sept 22 (Reuters) - China on Tuesday added two chemicals to its export control list for drug precursor chemicals, requiring permits for exporting them to the US, Mexico and Canada, according ...</description>
       <wire:foundAt>marketscreener_discovery</wire:foundAt>
       <wire:platform>MarketScreener</wire:platform>
       <wire:relation>unknown</wire:relation>
@@ -145,35 +129,19 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Dow Jones Industrial Stock</title>
-      <link>https://www.marketscreener.com/quote/index/DOW-JONES-INDUSTRIAL-4945/</link>
-      <guid isPermaLink="false">1251c6db25240b9ba2e431b8</guid>
-      <pubDate>Thu, 25 Sep 2025 17:00:00 +0000</pubDate>
-      <description>Sep. 11 US Equity Indexes Rise After August Inflation Print Triggers Rally in Shorter-Maturity Treasury Yields, Crude Oil Slumps MT Sep. 11 US Equity Indexes Fall This Week as Benchmark Treasury Yield ...</description>
+      <title>Apple Inc. Stock</title>
+      <link>https://www.marketscreener.com/quote/stock/APPLE-INC-4849/</link>
+      <guid isPermaLink="false">627e5a000cd0e0c442fa1b2d</guid>
+      <pubDate>Sun, 30 Aug 2026 17:00:00 +0000</pubDate>
+      <description>Sep. 26 US jury says Apple owes record $5.7 billion in haptic technology patent case RE ...</description>
       <wire:foundAt>marketscreener_discovery</wire:foundAt>
       <wire:platform>MarketScreener</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/quote/index/DOW-JONES-INDUSTRIAL-4945/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/APPLE-INC-4849/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Nike, Inc. Stock</title>
-      <link>https://www.marketscreener.com/quote/stock/NIKE-INC-13739/</link>
-      <guid isPermaLink="false">f687643062ae052f27c4e158</guid>
-      <pubDate>Sat, 12 Oct 2024 17:01:00 +0000</pubDate>
-      <description>Sep. 25 Converse pauses social media ads, marketing after racism uproar, Bloomberg News reports RE ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>marketscreener_discovery</wire:foundAt>
-      <wire:platform>MarketScreener</wire:platform>
-      <wire:relation>mention</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.86</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/NIKE-INC-13739/</wire:canonicalUrl>
-      <wire:evidence>reporting reference, not an exact wire credit: Bloomberg News reports</wire:evidence>
     </item>
     <item>
       <title>Skanska AB Stock</title>
@@ -188,6 +156,36 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/SKANSKA-AB-6491108/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>TotalEnergies SE Stock</title>
+      <link>https://www.marketscreener.com/quote/stock/TOTALENERGIES-SE-4717/</link>
+      <guid isPermaLink="false">ed7e35cf2fce3efe1cbc26c4</guid>
+      <pubDate>Mon, 20 Oct 2014 17:00:00 +0000</pubDate>
+      <description>Sep. 27 TotalEnergies, Socar, XRG Kickstart Phase Two of Gas Development in Caspian Sea MT ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/TOTALENERGIES-SE-4717/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Meta Platforms, Inc. Stock</title>
+      <link>https://www.marketscreener.com/quote/stock/META-PLATFORMS-INC-10547141/</link>
+      <guid isPermaLink="false">9eba84d544da5b1519aec942</guid>
+      <pubDate>Mon, 02 Feb 2004 16:00:00 +0000</pubDate>
+      <description>Sep. 25 Meta's AI tools, leadership boost bullish case, market expert says RE ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/META-PLATFORMS-INC-10547141/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
