@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Atradingview.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 28 Sep 2026 08:26:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 16:58:44 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Crypto news</title>
@@ -48,78 +48,57 @@ Latest news&lt;/p&gt;&lt;p&gt;More news from TradingView&lt;/p&gt;</content:enco
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Bonds steal the show</title>
-      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45H0I5:0-bonds-steal-the-show/</link>
-      <guid isPermaLink="false">7222b2c5801decf99f57d72d</guid>
-      <pubDate>Fri, 25 Sep 2026 10:40:03 +0000</pubDate>
+      <title>Gold rises, but on track for weekly loss as Fed rate hike expectations build</title>
+      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45H0AR:0-gold-rises-but-on-track-for-weekly-loss-as-fed-rate-hike-expectations-build/</link>
+      <guid isPermaLink="false">7fabfa71ae959ee974309dfb</guid>
+      <pubDate>Fri, 25 Sep 2026 12:24:18 +0000</pubDate>
       <description>Get unlimited access to articles from Reuters and every other news source on TradingView.</description>
       <content:encoded>&lt;p&gt;News
 / Reuters
-/ Bonds steal the show&lt;/p&gt;&lt;p&gt;Bonds steal the show&lt;/p&gt;&lt;p&gt;Read the full article Get unlimited access to articles from Reuters and every other news source on TradingView.
+/ Gold rises, but on track for weekly loss as Fed rate hike expectations build&lt;/p&gt;&lt;p&gt;Gold rises, but on track for weekly loss as Fed rate hike expectations build&lt;/p&gt;&lt;p&gt;Read the full article Get unlimited access to articles from Reuters and every other news source on TradingView.
 Keep reading&lt;/p&gt;</content:encoded>
+      <wire:foundAt>tradingview_discovery</wire:foundAt>
+      <wire:platform>TradingView News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45H0AR:0-gold-rises-but-on-track-for-weekly-loss-as-fed-rate-hike-expectations-build/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Bonds steal the show</title>
+      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45H0I5:0-bonds-steal-the-show/</link>
+      <guid isPermaLink="false">7222b2c5801decf99f57d72d</guid>
+      <pubDate>Thu, 24 Sep 2026 20:40:00 +0000</pubDate>
+      <description>Get unlimited access to articles from Reuters and every other news source on TradingView.</description>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45H0I5:0-bonds-steal-the-show/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Gold on track for weekly loss as Fed rate hike expectations build</title>
-      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45H05Y:0-gold-on-track-for-weekly-loss-as-fed-rate-hike-expectations-build/</link>
-      <guid isPermaLink="false">ad3de5c6b577615e6e136c85</guid>
-      <pubDate>Fri, 25 Sep 2026 09:24:45 +0000</pubDate>
-      <description>Get unlimited access to articles from Reuters and every other news source on TradingView.</description>
-      <content:encoded>&lt;p&gt;News
-/ Reuters
-/ Gold on track for weekly loss as Fed rate hike expectations build&lt;/p&gt;&lt;p&gt;Gold on track for weekly loss as Fed rate hike expectations build&lt;/p&gt;&lt;p&gt;Read the full article Get unlimited access to articles from Reuters and every other news source on TradingView.
-Keep reading&lt;/p&gt;</content:encoded>
-      <wire:foundAt>tradingview_discovery</wire:foundAt>
-      <wire:platform>TradingView News</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45H05Y:0-gold-on-track-for-weekly-loss-as-fed-rate-hike-expectations-build/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Oracle cites 'force majeure' to shield itself on data center, Bloomberg News reports</title>
-      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45G12J:0-oracle-cites-force-majeure-to-shield-itself-on-data-center-bloomberg-news-reports/</link>
-      <guid isPermaLink="false">4a1f7bb19f797f89ee18831d</guid>
-      <pubDate>Thu, 24 Sep 2026 12:55:33 +0000</pubDate>
-      <description>Get unlimited access to articles from Reuters and every other news source on TradingView.</description>
-      <content:encoded>&lt;p&gt;News
-/ Reuters
-/ Oracle triggers &amp;#x27;force majeure&amp;#x27; on data center project over power delays, source says&lt;/p&gt;&lt;p&gt;Oracle triggers &amp;#x27;force majeure&amp;#x27; on data center project over power delays, source says&lt;/p&gt;&lt;p&gt;Read the full article Get unlimited access to articles from Reuters and every other news source on TradingView.
-Keep reading&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tradingview_discovery</wire:foundAt>
-      <wire:platform>TradingView News</wire:platform>
-      <wire:relation>mention</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.86</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45G12J:0-oracle-cites-force-majeure-to-shield-itself-on-data-center-bloomberg-news-reports/</wire:canonicalUrl>
-      <wire:evidence>reporting reference, not an exact wire credit: Bloomberg News reports</wire:evidence>
     </item>
     <item>
       <title>Wall St slips as Middle East escalations lifts oil; Trump-Xi talks in focus</title>
       <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45G108:0-wall-st-slips-as-middle-east-escalations-lifts-oil-trump-xi-talks-in-focus/</link>
       <guid isPermaLink="false">eac39d02ef7fb3b00669117a</guid>
-      <pubDate>Thu, 24 Sep 2026 02:53:00 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2026 16:53:22 +0000</pubDate>
       <description>Get unlimited access to articles from Reuters and every other news source on TradingView.</description>
+      <content:encoded>&lt;p&gt;News
+/ Reuters
+/ Wall St slips as Middle East escalations lifts oil; Trump-Xi talks in focus&lt;/p&gt;&lt;p&gt;Wall St slips as Middle East escalations lifts oil; Trump-Xi talks in focus&lt;/p&gt;&lt;p&gt;Read the full article Get unlimited access to articles from Reuters and every other news source on TradingView.
+Keep reading&lt;/p&gt;</content:encoded>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45G108:0-wall-st-slips-as-middle-east-escalations-lifts-oil-trump-xi-talks-in-focus/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
@@ -139,10 +118,26 @@ Keep reading&lt;/p&gt;</content:encoded>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Gold at one week-low as higher oil, hawkish Fed weigh</title>
-      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45G0PZ:0-gold-at-one-week-low-as-higher-oil-hawkish-fed-weigh/</link>
-      <guid isPermaLink="false">6e90708645d77f3be72b6101</guid>
-      <pubDate>Thu, 24 Sep 2026 01:29:00 +0000</pubDate>
+      <title>Oracle cites 'force majeure' to shield itself on data center, Bloomberg News reports</title>
+      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45G12J:0-oracle-cites-force-majeure-to-shield-itself-on-data-center-bloomberg-news-reports/</link>
+      <guid isPermaLink="false">4a1f7bb19f797f89ee18831d</guid>
+      <pubDate>Wed, 23 Sep 2026 22:55:00 +0000</pubDate>
+      <description>Get unlimited access to articles from Reuters and every other news source on TradingView.</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tradingview_discovery</wire:foundAt>
+      <wire:platform>TradingView News</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45G12J:0-oracle-cites-force-majeure-to-shield-itself-on-data-center-bloomberg-news-reports/</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Bloomberg News reports</wire:evidence>
+    </item>
+    <item>
+      <title>Gold falls on rising odds of Fed rate hike, stronger dollar</title>
+      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45D0LD:0-gold-falls-on-rising-odds-of-fed-rate-hike-stronger-dollar/</link>
+      <guid isPermaLink="false">fc194c83c47d822f69fc8383</guid>
+      <pubDate>Mon, 21 Sep 2026 02:10:00 +0000</pubDate>
       <description>Get unlimited access to articles from Reuters and every other news source on TradingView.</description>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
@@ -150,7 +145,7 @@ Keep reading&lt;/p&gt;</content:encoded>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45G0PZ:0-gold-at-one-week-low-as-higher-oil-hawkish-fed-weigh/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45D0LD:0-gold-falls-on-rising-odds-of-fed-rate-hike-stronger-dollar/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -174,13 +169,18 @@ Keep reading&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">5944836160030d300b9f851d</guid>
       <pubDate>Wed, 08 Sep 2010 17:00:00 +0000</pubDate>
       <description>Source: Bloomberg This created localised tightness and premiums, spiking lease rates to levels not seen in years. Even after easing from July’s extreme of over 35%, the implied one-month rate is ...</description>
+      <content:encoded>&lt;p&gt;Platinum Futures.PL1! **Platinum Futures** continues to present a constructive technical outlook, with the broader market structure favoring the upside. No specific entry level has been identified in this setup; instead, the focus is on the lower timeframe, where early signs of renewed buyer participation are beginning to appear. If this momentum develops into a confirmed bullish structure, the current phase could provide an opportunity to participate in the continuation of the broader trend.&lt;/p&gt;&lt;p&gt;**Key technical observations:**&lt;/p&gt;&lt;p&gt;• The lower timeframe is already showing signs of increasing buyer participation and improving demand.
+• The development of **Higher Highs (HH)** and **Higher Lows (HL)** would provide stronger confirmation of bullish market structure.
+• A constructive shift in the moving averages would further support the transition toward sustained upside momentum.
+• The absence of a predefined entry level makes confirmation of buyer control particularly important before considering participation in the next potential rally.&lt;/p&gt;&lt;p&gt;Technical analysis provides a useful framework for identifying momentum and market structure, while the broader outlook for platinum should also be considered through supply-demand dynamics, industrial demand, investment flows, and macroeconomic conditions. Combining these factors with valuation and risk assessment can provide a more complete investment perspective.&lt;/p&gt;&lt;p&gt;Precious metals can experience substantial volatility even within established bullish trends. Maintaining patience, waiting for objective confirmation from market structure, and applying disciplined risk management can help investors participate in a developing move without reacting prematurely to short-term fluctuations.&lt;/p&gt;&lt;p&gt;This publication reflects a personal interpretation of market structure and publicly available information. It is intended solely for educational and informational purposes and should not be considered financial advice or a recommendation to buy, sell, or hold any financial instrument. Independent research, prudent risk management, and personal due diligence should always precede any investment decision.&lt;/p&gt;&lt;p&gt;Long&lt;/p&gt;&lt;p&gt;by Mehran90NS&lt;/p&gt;&lt;p&gt;0&lt;/p&gt;</content:encoded>
       <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
       <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.tradingview.com/symbols/NYMEX-PL1!/ideas/</wire:canonicalUrl>
       <wire:evidence>retained wire byline/source: Source: Bloomberg</wire:evidence>
     </item>

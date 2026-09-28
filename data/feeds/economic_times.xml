@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>The Economic Times — diagnostic source feed</title>
     <link>https://economictimes.indiatimes.com/rssfeedsdefault.cms</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 28 Sep 2026 08:26:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 16:58:44 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>US stocks: US market drops as Trump’s rejection of Iran peace plan lifts oil prices</title>
+      <link>https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-wall-st-opens-lower-as-oil-spikes-after-trump-rejects-iran-peace-proposal/articleshow/134544649.cms</link>
+      <guid isPermaLink="false">09968df00c76c8420759b38d</guid>
+      <pubDate>Mon, 28 Sep 2026 13:54:00 +0000</pubDate>
+      <description>Following President Trump's dismissal of Iran's peace proposal, US market indexes experienced a downward trend, spurred by a notable surge in crude prices. This escalation raised inflation worries, consequently leading to an uptick in Treasury yields and impacting economic outlooks. Meanwhile, Nvidia's stock showed resilience, buoyed by an announcement of substantial share repurchases, albeit only slightly supporting broader market sentiments.</description>
+      <dc:creator>ETMarkets.com</dc:creator>
+      <content:encoded>&lt;p&gt;US market’s main indexes fell on Monday after President Donald Trump rejected an Iranian proposal to end the conflict, sending crude prices higher, reviving inflation concerns and pushing Treasury yields up, Reuters reported.Nvidia offered some support to the broader market, rising 3.2% after the chipmaker authorised a $150 billion share repurchase—the largest buyback approval in its history.Iran unveiled a peace proposal at last week’s United Nations General Assembly in New York and said it had been conveyed to the United States through Qatari mediators. Trump said on Saturday that he had rejected the offer, though he told Axios on Sunday that he expected US negotiators to continue talks this week.Crude prices climbed 2% to around $107 a barrel. The increase also weighed on Treasuries, driving longer-dated yields to fresh multidecade highs.“Energy has been the one consistent upward pressure on inflation, and anything that continues to put pressure on inflation is going to be something that motivates the Fed to raise rates,” Art Hogan, chief market strategist at B Riley Wealth, told Reuters.Meanwhile, the Dow Jones Industrial Average was down 245.02 points, or 0.47%, at 51,583.60. The S&amp;amp;P 500 lost 36.08 points, or 0.46%, to 7,707.50, while the Nasdaq Composite fell 175.16 points, or 0.65%, to 26,893.56.Consumer discretionary stocks led declines among S&amp;amp;P 500 sectors, falling 1.3%. DoorDash and Carvana dropped 6% and 5%, respectively.According to Reuters, Investors found some relief on the trade front after the US-China summit concluded last week with the two countries agreeing to reduce tariffs on $60 billion worth of goods imported from each other. They also extended their trade truce by two months, through January 10.Attention later this week will turn to a series of key economic indicators. Traders are pricing in a 68% chance that the Federal Reserve will follow its September increase with another rate hike of at least 25 basis points in October, according to CME Group’s FedWatch Tool.“Any historical instance of the Fed hiking into a short-term supply shock has always ended poorly. And the Fed is being impatient. They shouldn’t have hiked in September. They could potentially make the same mistake in October,” said Thomas Hayes, chairman at Great Hill Capital.The August Personal Consumption Expenditures Price Index and September nonfarm payrolls report, both due this week, could offer further clues about the Fed’s policy path.Fed policymakers Michelle Bowman, Lisa Cook and Thomas Barkin are scheduled to speak later on Monday and could reinforce the central bank’s hawkish shift since its previous meeting.Tesla fell 2.7% after JP Morgan lowered its price target on the stock, citing weak third-quarter deliveries. Meta declined nearly 4% after surging 13% last week.Declining stocks outnumbered advancers by 2.81 to 1 on the NYSE and by 3.03 to 1 on the Nasdaq. The S&amp;amp;P 500 recorded no new 52-week highs and 19 new lows, while the Nasdaq Composite posted 14 new highs and 127 new lows.(Disclaimer: This article is based on inputs from agencies. These do not represent the views of The Economic Times)&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>economic_times</wire:foundAt>
+      <wire:platform>The Economic Times</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-wall-st-opens-lower-as-oil-spikes-after-trump-rejects-iran-peace-proposal/articleshow/134544649.cms</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: According to Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>
