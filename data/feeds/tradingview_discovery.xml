@@ -5,57 +5,32 @@
     <link>https://www.bing.com/news/search?q=site%3Atradingview.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 28 Sep 2026 22:30:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 02:16:31 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>Indikator dan strategi</title>
-      <link>https://id.tradingview.com/scripts/</link>
-      <guid isPermaLink="false">939e4b8f9bcda74b51480925</guid>
-      <pubDate>Tue, 22 Sep 2026 06:18:00 +0000</pubDate>
-      <description>Resting OrderFlow Resting OrderFlow — The Complete Guide See where the buying and selling is still sitting. Then trade the reaction. Resting OrderFlow is a TradingView overlay that turns the volume ...</description>
-      <content:encoded>&lt;p&gt;Comparative Relative Strength - SJ OVERVIEW
-Comparative Relative Strength (CRS) measures how a symbol is performing against a benchmark index, rather than on its own. It answers a single question: is this stock doing better or worse than the market it trades in? The script is built for traders who use the Wyckoff method, where a key buying condition is a stock that is stronger than the market, and a key selling condition is a stock that is weaker than the market.&lt;/p&gt;&lt;p&gt;HOW IT WORKS
-1. The CRS line (grey) is the ratio of the chart symbol&amp;#x27;s close to the benchmark&amp;#x27;s close on the same timeframe. When the line rises, the symbol is outperforming the benchmark. When it falls, the symbol is underperforming, even if its price is rising.
-2. The smoothed line (navy) is a moving average of the CRS line (EMA by default, 22 bars, which is about one trading month on a daily chart). It shows the underlying relative-strength trend and filters out single-bar noise.
-3. The fill between the two lines is green when CRS is above its average (relative strength improving) and red when it is below (relative strength deteriorating).
-4. Turn markers: a green dot at the bottom marks the bar on which CRS crosses above its average. A red dot at the top marks the bar on which it crosses below.
-5. ROC mode: the raw ratio depends on the price levels of the two instruments, so ratio values cannot be compared between symbols. ROC mode plots the percentage rate of change of the ratio instead. This number is scale-free and means the same thing on every symbol. It is also output to the Data Window, where it can be read by a screener to rank symbols by relative strength.&lt;/p&gt;&lt;p&gt;HOW TO USE IT
-- Choose the benchmark that matches the market the symbol trades in (for example, a Saudi stock against the TASI index, or a US technology stock against the Nasdaq 100). A mismatched benchmark gives a meaningless reading.
-- For long setups, look for symbols whose CRS is rising and above its average while the benchmark is flat or falling. Such a stock is being supported against the market and often leads when the market turns up.
-- For short setups or exits, look for CRS falling below its average while the benchmark is flat or rising. The stock is lagging and failing to join the market&amp;#x27;s strength.
-- Use ROC mode when comparing several symbols. The symbol with the highest positive ROC is the strongest relative to the benchmark over the chosen period.
-- CRS is a filter for choosing what to trade, not a timing signal on its own. Combine it with price and volume analysis of the symbol itself.&lt;/p&gt;&lt;p&gt;INPUTS
-- Benchmark index: the symbol used as the comparison.
-- Smoothing length: the length of the average (default 22).
-- Smoothing type: EMA or SMA.
-- Mode: Ratio (for reading one chart) or ROC (for comparing symbols).
-- ROC length: the look-back for ROC mode (default 22).
-- Mark the turns: shows or hides the crossover dots.&lt;/p&gt;&lt;p&gt;ALERTS
-- CRS turn up: CRS crossed above its average.
-- CRS turn down: CRS crossed below its average.&lt;/p&gt;&lt;p&gt;LIMITATIONS
-- Crossovers are frequent in sideways conditions and will produce several turn markers in a short period. Read them together with the direction of the smoothed line.
-- If the symbol and the benchmark trade on different days or sessions, the script uses the benchmark&amp;#x27;s last available close on bars where the benchmark did not trade. Readings on those bars can lag.
-- Values are calculated on bar close; the reading on the current, unfinished bar will change until the bar closes. The script does not repaint closed bars and does not use future data.
-- Relative strength describes the past. It does not predict future performance.&lt;/p&gt;&lt;p&gt;Indikator&lt;/p&gt;&lt;p&gt;oleh eng_asm&lt;/p&gt;&lt;p&gt;3 3 4 2 1&lt;/p&gt;</content:encoded>
+      <title>Crypto news</title>
+      <link>https://in.tradingview.com/news/crypto/tech-and-adoption/</link>
+      <guid isPermaLink="false">dd5038e7fef9aa41cfe66c9d</guid>
+      <pubDate>Sat, 26 Sep 2026 17:00:00 +0000</pubDate>
+      <description>Follow what's shaping crypto today, from market moves and regulation to adoption, security, and major industry developments.</description>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://id.tradingview.com/scripts/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://in.tradingview.com/news/crypto/tech-and-adoption/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Tui AG - Johan Lundgren To Take Over As Chair Of Supervisory Board In February 2027</title>
-      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4590WI:0-tui-ag-johan-lundgren-to-take-over-as-chair-of-supervisory-board-in-february-2027/</link>
-      <guid isPermaLink="false">6f974be520d2c4f140dc2a98</guid>
-      <pubDate>Fri, 18 Sep 2026 06:03:07 +0000</pubDate>
+      <title>Mounting rate hike bets keep weekly loss in sight for gold</title>
+      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45H0C7:0-mounting-rate-hike-bets-keep-weekly-loss-in-sight-for-gold/</link>
+      <guid isPermaLink="false">a32affdd239c9c4801e1c1dc</guid>
+      <pubDate>Fri, 25 Sep 2026 14:18:48 +0000</pubDate>
       <description>Get unlimited access to articles from Reuters and every other news source on TradingView.</description>
       <content:encoded>&lt;p&gt;News
 / Reuters
-/ Tui AG - Johan Lundgren To Take Over As Chair Of Supervisory Board In February 2027&lt;/p&gt;&lt;p&gt;Tui AG - Johan Lundgren To Take Over As Chair Of Supervisory Board In February 2027&lt;/p&gt;&lt;p&gt;Read the full article Get unlimited access to articles from Reuters and every other news source on TradingView.
+/ Mounting rate hike bets keep weekly loss in sight for gold&lt;/p&gt;&lt;p&gt;Mounting rate hike bets keep weekly loss in sight for gold&lt;/p&gt;&lt;p&gt;Read the full article Get unlimited access to articles from Reuters and every other news source on TradingView.
 Keep reading&lt;/p&gt;</content:encoded>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
@@ -64,18 +39,18 @@ Keep reading&lt;/p&gt;</content:encoded>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4590WI:0-tui-ag-johan-lundgren-to-take-over-as-chair-of-supervisory-board-in-february-2027/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45H0C7:0-mounting-rate-hike-bets-keep-weekly-loss-in-sight-for-gold/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Lindab Group Acquires Italian Smoke Control Company</title>
-      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_TUC4FSWHZ:0-lindab-group-acquires-italian-smoke-control-company/</link>
-      <guid isPermaLink="false">216ba2cfa95be931ef3b1109</guid>
-      <pubDate>Fri, 18 Sep 2026 06:02:57 +0000</pubDate>
+      <title>Thursday's data duet: New home sales, jobless claims</title>
+      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45G0YZ:0-thursday-s-data-duet-new-home-sales-jobless-claims/</link>
+      <guid isPermaLink="false">7b00670877436d37c36c0501</guid>
+      <pubDate>Thu, 24 Sep 2026 15:02:19 +0000</pubDate>
       <description>Get unlimited access to articles from Reuters and every other news source on TradingView.</description>
       <content:encoded>&lt;p&gt;News
 / Reuters
-/ Lindab Group Acquires Italian Smoke Control Company&lt;/p&gt;&lt;p&gt;Lindab Group Acquires Italian Smoke Control Company&lt;/p&gt;&lt;p&gt;Read the full article Get unlimited access to articles from Reuters and every other news source on TradingView.
+/ Thursday&amp;#x27;s data duet: New home sales, jobless claims&lt;/p&gt;&lt;p&gt;Thursday&amp;#x27;s data duet: New home sales, jobless claims&lt;/p&gt;&lt;p&gt;Read the full article Get unlimited access to articles from Reuters and every other news source on TradingView.
 Keep reading&lt;/p&gt;</content:encoded>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
@@ -84,59 +59,35 @@ Keep reading&lt;/p&gt;</content:encoded>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_TUC4FSWHZ:0-lindab-group-acquires-italian-smoke-control-company/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45G0YZ:0-thursday-s-data-duet-new-home-sales-jobless-claims/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Key facts: Drax Group (DRX) 2026 EBITDA top; Bluefield Solar +~6.1 GW</title>
-      <link>https://www.tradingview.com/news/tradingview:5b363d9c9632c:0-key-facts-drax-group-drx-2026-ebitda-top-bluefield-solar-6-1-gw/</link>
-      <guid isPermaLink="false">db86ee49af92f0c17be4601a</guid>
-      <pubDate>Thu, 17 Sep 2026 07:14:39 +0000</pubDate>
-      <description>Drax Group (DRX) expects full-year 2026 adjusted EBITDA at the top of the consensus range, confirming its upgraded 2026 EBITDA outlook for the fiscal year. Reuters Drax Group (DRX) closed July ...</description>
-      <content:encoded>&lt;p&gt;News
-/ TradingView
-/ Key facts: Drax Group (DRX) 2026 EBITDA top; Bluefield Solar +~6.1 GW&lt;/p&gt;&lt;p&gt;Key facts: Drax Group (DRX) 2026 EBITDA top; Bluefield Solar +~6.1 GW Less than 1 min read&lt;/p&gt;&lt;p&gt;DRX
-Drax Group (DRX) expects full-year 2026 adjusted EBITDA at the top of the consensus range, confirming its upgraded 2026 EBITDA outlook for the fiscal year.
-Reuters
-Drax Group (DRX) closed July acquisition of Bluefield Solar, boosting managed capacity to ~6.1 GW. Bluefield will run as a dedicated Solar &amp;amp; Wind segment alongside Drax’s existing units.
-Reuters
-Disclaimer This is an AI-generated summary and may contain inaccuracies. Please verify any important information with the original sources.&lt;/p&gt;&lt;p&gt;TradingView UK stocks&lt;/p&gt;&lt;p&gt;DRX chart&lt;/p&gt;&lt;p&gt;Analyze on Supercharts
-Latest news&lt;/p&gt;&lt;p&gt;More news from TradingView&lt;/p&gt;</content:encoded>
-      <wire:foundAt>tradingview_discovery</wire:foundAt>
-      <wire:platform>TradingView News</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/tradingview:5b363d9c9632c:0-key-facts-drax-group-drx-2026-ebitda-top-bluefield-solar-6-1-gw/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Wall Street set to open higher ahead of much-anticipated Fed decision</title>
-      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4580PQ:0-wall-street-set-to-open-higher-ahead-of-much-anticipated-fed-decision/</link>
-      <guid isPermaLink="false">837cb86b96982b4c77535f81</guid>
-      <pubDate>Wed, 16 Sep 2026 12:38:26 +0000</pubDate>
+      <title>Oracle cites 'force majeure' to shield itself on data center, Bloomberg News reports</title>
+      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45G12J:0-oracle-cites-force-majeure-to-shield-itself-on-data-center-bloomberg-news-reports/</link>
+      <guid isPermaLink="false">4a1f7bb19f797f89ee18831d</guid>
+      <pubDate>Thu, 24 Sep 2026 12:55:33 +0000</pubDate>
       <description>Get unlimited access to articles from Reuters and every other news source on TradingView.</description>
       <content:encoded>&lt;p&gt;News
 / Reuters
-/ Wall Street set to open higher ahead of much-anticipated Fed decision&lt;/p&gt;&lt;p&gt;Wall Street set to open higher ahead of much-anticipated Fed decision&lt;/p&gt;&lt;p&gt;Read the full article Get unlimited access to articles from Reuters and every other news source on TradingView.
+/ Oracle triggers &amp;#x27;force majeure&amp;#x27; on data center project over power delays, source says&lt;/p&gt;&lt;p&gt;Oracle triggers &amp;#x27;force majeure&amp;#x27; on data center project over power delays, source says&lt;/p&gt;&lt;p&gt;Read the full article Get unlimited access to articles from Reuters and every other news source on TradingView.
 Keep reading&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
-      <wire:relation>unknown</wire:relation>
+      <wire:relation>mention</wire:relation>
       <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
+      <wire:confidence>0.86</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4580PQ:0-wall-street-set-to-open-higher-ahead-of-much-anticipated-fed-decision/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
+      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45G12J:0-oracle-cites-force-majeure-to-shield-itself-on-data-center-bloomberg-news-reports/</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Bloomberg News reports</wire:evidence>
     </item>
     <item>
-      <title>Gold rises on easing oil as Fed rate verdict looms</title>
-      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4580CE:0-gold-rises-on-easing-oil-as-fed-rate-verdict-looms/</link>
-      <guid isPermaLink="false">f3fa63fad424e0147f8ecfdd</guid>
-      <pubDate>Tue, 15 Sep 2026 22:38:00 +0000</pubDate>
+      <title>Wall St slips as Middle East escalations lifts oil; Trump-Xi talks in focus</title>
+      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45G108:0-wall-st-slips-as-middle-east-escalations-lifts-oil-trump-xi-talks-in-focus/</link>
+      <guid isPermaLink="false">eac39d02ef7fb3b00669117a</guid>
+      <pubDate>Thu, 24 Sep 2026 02:53:00 +0000</pubDate>
       <description>Get unlimited access to articles from Reuters and every other news source on TradingView.</description>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
@@ -144,14 +95,14 @@ Keep reading&lt;/p&gt;</content:encoded>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4580CE:0-gold-rises-on-easing-oil-as-fed-rate-verdict-looms/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45G108:0-wall-st-slips-as-middle-east-escalations-lifts-oil-trump-xi-talks-in-focus/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Gold edges down as oil-driven inflation fears lift rate-hike bets</title>
-      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4570OK:0-gold-edges-down-as-oil-driven-inflation-fears-lift-rate-hike-bets/</link>
-      <guid isPermaLink="false">b30f013b88b0508312fc111e</guid>
-      <pubDate>Tue, 15 Sep 2026 02:09:00 +0000</pubDate>
+      <title>Benchmark Treasury yield breaks to new highs, but the move is looking stretched</title>
+      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45G0KC:0-benchmark-treasury-yield-breaks-to-new-highs-but-the-move-is-looking-stretched/</link>
+      <guid isPermaLink="false">613c1621613170ccebf20416</guid>
+      <pubDate>Wed, 23 Sep 2026 23:02:00 +0000</pubDate>
       <description>Get unlimited access to articles from Reuters and every other news source on TradingView.</description>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
@@ -159,29 +110,14 @@ Keep reading&lt;/p&gt;</content:encoded>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4570OK:0-gold-edges-down-as-oil-driven-inflation-fears-lift-rate-hike-bets/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45G0KC:0-benchmark-treasury-yield-breaks-to-new-highs-but-the-move-is-looking-stretched/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Chevron Expands LNG Ambitions as Global Energy Security Returns to Center Stage</title>
-      <link>https://www.tradingview.com/news/gurufocus:3c48d9ba9094b:0-chevron-expands-lng-ambitions-as-global-energy-security-returns-to-center-stage/</link>
-      <guid isPermaLink="false">6ac6ef587536be761f19ad85</guid>
-      <pubDate>Mon, 14 Sep 2026 07:07:00 +0000</pubDate>
-      <description>Chevron's global gas ambitions moved further into focus Monday as supply shocks put energy security back on investors' radar. Chevron CVX, the global integrated oil and gas producer, traded at ...</description>
-      <wire:foundAt>tradingview_discovery</wire:foundAt>
-      <wire:platform>TradingView News</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/gurufocus:3c48d9ba9094b:0-chevron-expands-lng-ambitions-as-global-energy-security-returns-to-center-stage/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Nvidia Says Perplexity Local Agent Platform Now Available On Windows RTX PCs</title>
-      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4560HH:0-nvidia-says-perplexity-local-agent-platform-now-available-on-windows-rtx-pcs/</link>
-      <guid isPermaLink="false">3aec1233a44c4f67504a8560</guid>
-      <pubDate>Mon, 14 Sep 2026 01:44:00 +0000</pubDate>
+      <title>Gold slips as rising oil prices, Treasury yields dent appeal</title>
+      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45G0ET:0-gold-slips-as-rising-oil-prices-treasury-yields-dent-appeal/</link>
+      <guid isPermaLink="false">a1b2561e5e4c02d38b5be115</guid>
+      <pubDate>Wed, 23 Sep 2026 22:10:00 +0000</pubDate>
       <description>Get unlimited access to articles from Reuters and every other news source on TradingView.</description>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
@@ -189,14 +125,14 @@ Keep reading&lt;/p&gt;</content:encoded>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4560HH:0-nvidia-says-perplexity-local-agent-platform-now-available-on-windows-rtx-pcs/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45G0ET:0-gold-slips-as-rising-oil-prices-treasury-yields-dent-appeal/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>House Democrat urges US action over sleeping Tesla drivers</title>
-      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4520QR:0-house-democrat-urges-us-action-over-sleeping-tesla-drivers/</link>
-      <guid isPermaLink="false">f3a0e403a7cbe68171dbb621</guid>
-      <pubDate>Thu, 10 Sep 2026 02:44:00 +0000</pubDate>
+      <title>Bond market selloff rumbles on ahead of Trump and XI talks</title>
+      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45G07B:0-bond-market-selloff-rumbles-on-ahead-of-trump-and-xi-talks/</link>
+      <guid isPermaLink="false">ba6b40e70be62b7bb57a4a1f</guid>
+      <pubDate>Wed, 23 Sep 2026 19:47:00 +0000</pubDate>
       <description>Get unlimited access to articles from Reuters and every other news source on TradingView.</description>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
@@ -204,23 +140,74 @@ Keep reading&lt;/p&gt;</content:encoded>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4520QR:0-house-democrat-urges-us-action-over-sleeping-tesla-drivers/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45G07B:0-bond-market-selloff-rumbles-on-ahead-of-trump-and-xi-talks/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Brent oil may retest resistance at $108.17</title>
-      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N41Q00N:0-brent-oil-may-retest-resistance-at-108-17/</link>
-      <guid isPermaLink="false">5f7e03b2a4ef6e295d0d9223</guid>
-      <pubDate>Tue, 12 May 2026 19:00:00 +0000</pubDate>
-      <description>Brent oil ICEEUR:BRN1! may retest a resistance at $108.17 per barrel, a break above which could lead to a gain into $109.92-$111.67 range.The contract is riding on a wave c, which has briefly ...</description>
+      <title>Key facts: PepsiCo cuts GLP‑1 cover; India school HFSS limits; cited</title>
+      <link>https://www.tradingview.com/news/tradingview:12f27f29c870d:0-key-facts-pepsico-cuts-glp-1-cover-india-school-hfss-limits-cited/</link>
+      <guid isPermaLink="false">283df3c17745e236e2c44e5e</guid>
+      <pubDate>Wed, 23 Sep 2026 17:16:00 +0000</pubDate>
+      <description>India plans limits on selling high-fat, salt, sugar foods within 50 meters of schools, which could reduce availability of PepsiCo (PEP) snacks like Lay's; PepsiCo says it already limits school sales.</description>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L1N41Q00N:0-brent-oil-may-retest-resistance-at-108-17/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.tradingview.com/news/tradingview:12f27f29c870d:0-key-facts-pepsico-cuts-glp-1-cover-india-school-hfss-limits-cited/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Wall St set to open lower as oil, bond yields tick up</title>
+      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45F0SM:0-wall-st-set-to-open-lower-as-oil-bond-yields-tick-up/</link>
+      <guid isPermaLink="false">e44a2ba0943a731caf6ef72f</guid>
+      <pubDate>Tue, 22 Sep 2026 23:08:00 +0000</pubDate>
+      <description>Get unlimited access to articles from Reuters and every other news source on TradingView.</description>
+      <wire:foundAt>tradingview_discovery</wire:foundAt>
+      <wire:platform>TradingView News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45F0SM:0-wall-st-set-to-open-lower-as-oil-bond-yields-tick-up/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Wall Street rallies as AI optimism reignites and Treasury yields retreat</title>
+      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45D0UG:0-wall-street-rallies-as-ai-optimism-reignites-and-treasury-yields-retreat/</link>
+      <guid isPermaLink="false">fd445786afff334f3ec7fb5e</guid>
+      <pubDate>Mon, 21 Sep 2026 04:27:00 +0000</pubDate>
+      <description>Get unlimited access to articles from Reuters and every other news source on TradingView.</description>
+      <wire:foundAt>tradingview_discovery</wire:foundAt>
+      <wire:platform>TradingView News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45D0UG:0-wall-street-rallies-as-ai-optimism-reignites-and-treasury-yields-retreat/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>PL1! trade ideas</title>
+      <link>https://www.tradingview.com/symbols/NYMEX-PL1!/ideas/</link>
+      <guid isPermaLink="false">5944836160030d300b9f851d</guid>
+      <pubDate>Wed, 08 Sep 2010 17:00:00 +0000</pubDate>
+      <description>Source: Bloomberg This created localised tightness and premiums, spiking lease rates to levels not seen in years. Even after easing from July’s extreme of over 35%, the implied one-month rate is ...</description>
+      <content:encoded>&lt;p&gt;Platinum Futures.PL1! **Platinum Futures** continues to present a constructive technical outlook, with the broader market structure favoring the upside. No specific entry level has been identified in this setup; instead, the focus is on the lower timeframe, where early signs of renewed buyer participation are beginning to appear. If this momentum develops into a confirmed bullish structure, the current phase could provide an opportunity to participate in the continuation of the broader trend.&lt;/p&gt;&lt;p&gt;**Key technical observations:**&lt;/p&gt;&lt;p&gt;• The lower timeframe is already showing signs of increasing buyer participation and improving demand.
+• The development of **Higher Highs (HH)** and **Higher Lows (HL)** would provide stronger confirmation of bullish market structure.
+• A constructive shift in the moving averages would further support the transition toward sustained upside momentum.
+• The absence of a predefined entry level makes confirmation of buyer control particularly important before considering participation in the next potential rally.&lt;/p&gt;&lt;p&gt;Technical analysis provides a useful framework for identifying momentum and market structure, while the broader outlook for platinum should also be considered through supply-demand dynamics, industrial demand, investment flows, and macroeconomic conditions. Combining these factors with valuation and risk assessment can provide a more complete investment perspective.&lt;/p&gt;&lt;p&gt;Precious metals can experience substantial volatility even within established bullish trends. Maintaining patience, waiting for objective confirmation from market structure, and applying disciplined risk management can help investors participate in a developing move without reacting prematurely to short-term fluctuations.&lt;/p&gt;&lt;p&gt;This publication reflects a personal interpretation of market structure and publicly available information. It is intended solely for educational and informational purposes and should not be considered financial advice or a recommendation to buy, sell, or hold any financial instrument. Independent research, prudent risk management, and personal due diligence should always precede any investment decision.&lt;/p&gt;&lt;p&gt;Long&lt;/p&gt;&lt;p&gt;by Mehran90NS&lt;/p&gt;&lt;p&gt;0&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tradingview_discovery</wire:foundAt>
+      <wire:platform>TradingView News</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.tradingview.com/symbols/NYMEX-PL1!/ideas/</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: Source: Bloomberg</wire:evidence>
     </item>
   </channel>
 </rss>
