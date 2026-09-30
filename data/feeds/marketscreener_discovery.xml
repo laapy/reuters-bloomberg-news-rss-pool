@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Amarketscreener.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 30 Sep 2026 04:38:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 11:00:05 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Novo Nordisk says Ozempic shows lower risk of cardiovascular events compared to Eli Lilly's Mounjaro</title>
@@ -129,21 +129,6 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>White House reinstates access to CNN, MS NOW and Politico following judge's order</title>
-      <link>https://www.marketscreener.com/news/politico-ms-now-denied-access-to-white-house-after-judge-s-order-ce785adede8af42c</link>
-      <guid isPermaLink="false">69b79801364490b4830a0174</guid>
-      <pubDate>Thu, 24 Sep 2026 05:35:00 +0000</pubDate>
-      <description>WASHINGTON, Sept 24 (Reuters) - Politico and MS NOW reporters were barred from the White House on Thursday despite a judge's order calling for access to be restored immediately for journalists from ...</description>
-      <wire:foundAt>marketscreener_discovery</wire:foundAt>
-      <wire:platform>MarketScreener</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/news/politico-ms-now-denied-access-to-white-house-after-judge-s-order-ce785adede8af42c</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
       <title>Capitaland Investment says ALP and CLI advance Singapore's logistics transformation with scalable Omega platform</title>
       <link>https://www.marketscreener.com/news/capitaland-investment-says-alp-and-cli-advance-singapore-s-logistics-transformation-with-scalable-om-ce785adedc8ef223</link>
       <guid isPermaLink="false">588ad6eec77c85345d7e7b6f</guid>
@@ -157,6 +142,22 @@
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.marketscreener.com/news/capitaland-investment-says-alp-and-cli-advance-singapore-s-logistics-transformation-with-scalable-om-ce785adedc8ef223</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>US Treasury's Bessent and China's He launch talks on AI, trade and critical minerals</title>
+      <link>https://www.marketscreener.com/news/us-treasury-s-bessent-china-s-he-to-launch-talks-on-ai-trade-critical-minerals-ce785adad18ff127</link>
+      <guid isPermaLink="false">00da476915322246235bed9b</guid>
+      <pubDate>Sat, 19 Sep 2026 22:01:00 +0000</pubDate>
+      <description>US Treasury's Bessent, China's He to meet on Sunday at JPMorgan headquarters RE Sep. 18 ECP-backed ProEnergy to seek up to $50 billion valuation in US IPO, Bloomberg News reports RE Sep. 18 ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/us-treasury-s-bessent-china-s-he-to-launch-talks-on-ai-trade-critical-minerals-ce785adad18ff127</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Bloomberg News reports</wire:evidence>
     </item>
     <item>
       <title>Twitch CEO on Business Outlook</title>

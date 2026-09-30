@@ -1,30 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss version="2.0">
   <channel>
     <title>The Economic Times — diagnostic source feed</title>
     <link>https://economictimes.indiatimes.com/rssfeedsdefault.cms</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 30 Sep 2026 04:38:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 11:00:05 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>Robinhood to allow 24-hour weekend trading of US stocks as industry shifts to wider access</title>
-      <link>https://economictimes.indiatimes.com/markets/us-stocks/news/robinhood-to-allow-24-hour-weekend-trading-of-us-stocks-as-industry-shifts-to-wider-access/articleshow/134577438.cms</link>
-      <guid isPermaLink="false">9cb28481bb706526b48fb67e</guid>
-      <pubDate>Wed, 30 Sep 2026 02:12:00 +0000</pubDate>
-      <description>Robinhood is set to revolutionize trading by offering 24/7 access to select US stocks during weekends, fostering a more flexible investment environment for its users. This move aligns with a growing trend towards longer trading hours. Alongside this, new features will allow betting on corporate earnings and trading perpetual futures.</description>
-      <dc:creator>Reuters</dc:creator>
-      <content:encoded>&lt;p&gt;Robinhood said on Tuesday it will let users trade some US stocks round-the-clock during weekends, marking its latest effort to keep up as the industry marches toward 24-hour access.The online brokerage&amp;#x27;s push is part of a fundamental shiftthat could allow US markets access to a broader base of global capital while offering investors greater flexibility. Our focus this year is making Robinhood the best place for active traders by giving them the tools that are typically reserved for hedge funds, quants and a lot of big active trading firms, Abhishek Fatehpuria, vice president of product management, told Reuters in an interview.Robinhood has allowed round-the-clock trading during the weekdays since 2023. About 10 months after launching the feature, the company said as much as 25% of the total daily trading volume on busy days came from outside traditional hours.This is the first time Robinhood is allowing weekend trading.Some worry that thin liquidity during non-traditional hours could leave traders without optimal prices. Still, global exchanges such as the Nasdaq and the London Stock Exchange are pushing ahead with plans to extend trading hours. When the world reacts in real time to breaking news, waiting to adjust a position or rebalance a hedge until the clock strikes 9:30 on Monday morning may beget missed opportunities or additional risk, especially these days, SEC Chair Paul Atkins said at a roundtable earlier this month.Robinhood will initially offer a curated list of stocks and exchange-traded funds for weekend trading. The feature, launched in partnership with overnight trading infrastructure firm Bruce ATS, is pending regulatory review.Bets On Corporate EarningsThe online brokerage will also allow traders to wager on specific corporate earnings metrics, via a partnership with derivatives exchange Cboe.Through Robinhood&amp;#x27;s prediction markets hub, users can place bets on whether a company surpasses earnings estimates or achieves a targeted revenue figure.Companies such as Polymarket and Kalshi have been crafting specific wagers for traders looking for ways to bet on earnings outcomes beyond stock price predictions.Robinhood also said eligible US customers will be able to trade perpetual futures through the app. Unlike traditional futures, perpetual futures do not have an expiration date. Additionally, users can build AI agents inside the app to execute trades on their behalf.The company&amp;#x27;s social platform, similar to the popular WallStreetBets community on Reddit, is set to roll out to all eligible US customers after a beta launch earlier this year.&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>economic_times</wire:foundAt>
-      <wire:platform>The Economic Times</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://economictimes.indiatimes.com/markets/us-stocks/news/robinhood-to-allow-24-hour-weekend-trading-of-us-stocks-as-industry-shifts-to-wider-access/articleshow/134577438.cms</wire:canonicalUrl>
-      <wire:evidence>structured credit: Reuters</wire:evidence>
-    </item>
   </channel>
 </rss>
