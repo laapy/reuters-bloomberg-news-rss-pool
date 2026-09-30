@@ -1,11 +1,52 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>The Straits Times — diagnostic source feed</title>
     <link>https://www.straitstimes.com/news/world/rss.xml</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 29 Sep 2026 23:56:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 04:38:38 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ChatGPT maker wants to be the app store for AI as safety concerns grow</title>
+      <link>https://www.straitstimes.com/world/united-states/chatgpt-maker-wants-to-be-the-app-store-for-ai-as-safety-concerns-grow</link>
+      <guid isPermaLink="false">8ff4a57c42f37574c81b4e47</guid>
+      <pubDate>Wed, 30 Sep 2026 03:50:00 +0000</pubDate>
+      <description>Other companies will be able to offer their software directly within ChatGPT.</description>
+      <dc:creator>The Straits Times</dc:creator>
+      <content:encoded>&lt;p&gt;ChatGPT maker wants to be the app store for AI as safety concerns grow
+Sign up now: Get ST&amp;#x27;s newsletters delivered to your inbox&lt;/p&gt;&lt;p&gt;Other companies, such as Adobe, will be able to offer their software directly within ChatGPT, which is now used weekly by 1.2 billion people.
+PHOTO: AFP&lt;/p&gt;&lt;p&gt;Published   Sep 30, 2026, 11:50 AM&lt;/p&gt;&lt;p&gt;Updated   Sep 30, 2026, 12:06 PM&lt;/p&gt;&lt;p&gt;Set as preferred source&lt;/p&gt;&lt;p&gt;Listen&lt;/p&gt;&lt;p&gt;SAN FRANCISCO – OpenAI on Sept 29 launched a less expensive artificial intelligence model and tools that run continuously, as it aims to reposition ChatGPT as an app store for AI.
+Other companies, such as Adobe, will be able to offer their software directly within ChatGPT, which is now used weekly by 1.2 billion people. ChatGPT users will also be able to access their subscriptions in other apps.
+“We want to help people discover what you build and connect you with new customers,” OpenAI chief executive Sam Altman told around 2,500 developers from around the world who gathered on the shores of the San Francisco Bay for the company’s annual conference.&lt;/p&gt;&lt;p&gt;During his keynote speech, the 41-year-old executive made no mention of multiple security incidents that forced OpenAI to once again suspend development of some models on Sept 25 , after one of its agents gained unauthorised access to the internet.
+Altman told reporters that “it is going to take us some time to figure out how to make sure that alignment, monitoring, safety, security stay well ahead of capabilities”.
+A new model unveiled on Sept 29 , GPT-6.1 Sol, was described as almost as powerful as GPT-6 Astra at one-fifth the price. It comes one day after the company said it scrapped a new version of Astra because it often ignored instructions.&lt;/p&gt;&lt;p&gt;New ‘Renaissance’ Outside the conference, around 30 protesters shouted chants like “put people before profit”, alongside demands that OpenAI drop contracts with the US military and Immigration and Customs Enforcement.
+Inside, Altman rejected comparisons between the AI era and the Industrial Revolution.
+“I think we should learn from the mistakes of the Industrial Revolution, and I think we should be more like the Renaissance,” Altman said.&lt;/p&gt;&lt;p&gt;That new renaissance is now increasingly connected to agentic software – or programs capable of automatically completing tasks like managing calendars, booking reservations and sorting through e-mail.
+Attendees cheered the arrival of “dots” – OpenAI’s version of AI agents, which will run continuously and ask users to approve sensitive actions.
+Dots will be available only to paid subscribers and are not yet available to individual users in the European Union, Switzerland and Britain because of regulations, though OpenAI hopes to resolve those issues.
+It competes with Meta’s Muse and Google’s Spark agents.
+Last week, Meta unveiled a small, Tamagotchi-like device powered by Muse that could ship by December. OpenAI is working on its own AI hardware but provided no updates.
+However, integrating the new dots onto a device “seems like a very reasonable thing to assume we may do someday”, Altman said.
+“Disappoint Wall Street” As speculation swirls around when OpenAI might go public, Altman told reporters on Sept 29 that the company was “investing more in safety, security, alignment, monitoring, and that will allow us to continue to progress model capability a lot”.
+Despite gaining an early lead with ChatGPT, rival Anthropic overtook OpenAI in second-quarter revenue. Anthropic, which has focused more on business customers, generated US$11.6 billion (S$14.8 billion) versus OpenAI’s US$6.7 billion, according to the Wall Street Journal.
+Meanwhile, Anthropic’s annual recurring revenue is expected to reach US$100 billion by the end of the year, while OpenAI reached US$70 billion in July, according to various reports.
+OpenAI has delayed its own Wall Street debut till 2027 at the earliest, as Anthropic aims for November.
+“I want OpenAI to be a public company someday, but I don’t want to put additional pressure right now,” Altman said.
+OpenAI is nonetheless seeking to raise at least US$30 billion from private investors in a deal that could increase its valuation to around US$1.4 trillion, up from US$852 billion in March, according to Bloomberg.
+On Sept 29 , OpenAI president and co-founder Greg Brockman attended an event at the White House where US President Donald Trump said top AI executives agreed to a “morally binding” commitment to build AI with safeguards. AFP&lt;/p&gt;&lt;p&gt;More on this topic&lt;/p&gt;&lt;p&gt;How seating at Trump’s AI luncheon reveals who has the President’s ear&lt;/p&gt;&lt;p&gt;OpenAI apologises for Australian government website hack, pledges to rebuild trust&lt;/p&gt;&lt;p&gt;See more on&lt;/p&gt;&lt;p&gt;ChatGPT
+OpenAI
+AI/artificial intelligence&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>straits_times_world</wire:foundAt>
+      <wire:platform>The Straits Times</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.straitstimes.com/world/united-states/chatgpt-maker-wants-to-be-the-app-store-for-ai-as-safety-concerns-grow</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: according to Bloomberg</wire:evidence>
+    </item>
   </channel>
 </rss>

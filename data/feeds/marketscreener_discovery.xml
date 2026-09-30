@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Amarketscreener.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 29 Sep 2026 23:56:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 04:38:38 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Novo Nordisk says Ozempic shows lower risk of cardiovascular events compared to Eli Lilly's Mounjaro</title>
@@ -159,34 +159,35 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>CDC delay slows COVID vaccine orders for children's immunization program, WSJ reports</title>
-      <link>https://www.marketscreener.com/news/cdc-delay-slows-covid-vaccine-orders-for-children-s-immunization-program-wsj-reports-ce785bd2d18ff624</link>
-      <guid isPermaLink="false">150cfb2c16ffad1d253ed73f</guid>
-      <pubDate>Wed, 16 Sep 2026 13:25:00 +0000</pubDate>
-      <description>U.S. states are facing delays in obtaining Covid-19 vaccines for children through a federal immunization program, the Wall Street Journal reported on Wednesday, citing people familiar with ...</description>
+      <title>Twitch CEO on Business Outlook</title>
+      <link>https://www.marketscreener.com/news/twitch-ceo-on-business-outlook-ce785bd3db8af422</link>
+      <guid isPermaLink="false">88604474e7098daf6085bd2c</guid>
+      <pubDate>Thu, 17 Sep 2026 01:20:00 +0000</pubDate>
+      <description>Dan Clancy, CEO of streaming platform Twitch, discusses the outlook for his business as the industry gears up for the highly anticipated November launch of Grand Theft Auto Six, as more gamers seek ...</description>
       <wire:foundAt>marketscreener_discovery</wire:foundAt>
       <wire:platform>MarketScreener</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/news/cdc-delay-slows-covid-vaccine-orders-for-children-s-immunization-program-wsj-reports-ce785bd2d18ff624</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/twitch-ceo-on-business-outlook-ce785bd3db8af422</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Economy Ministry welcomes Sefe storage plans</title>
-      <link>https://www.marketscreener.com/news/economy-ministry-welcomes-sefe-storage-plans-ce785bd2da8cff24</link>
-      <guid isPermaLink="false">4ce21bc41e0bf94a39201864</guid>
-      <pubDate>Wed, 16 Sep 2026 02:29:00 +0000</pubDate>
-      <description>Sefe had previously described refilling gas storage facilities as a business decision based purely on economic considerations. The company said it had not received any shareholder instruction from the ...</description>
+      <title>Holtec Nuclear shelves US IPO as AI trade hits turbulence</title>
+      <link>https://www.marketscreener.com/news/holtec-nuclear-suspends-planned-us-ipo-bloomberg-news-reports-ce785bd2d08ef722</link>
+      <guid isPermaLink="false">191f3353857d420a340bf45a</guid>
+      <pubDate>Wed, 16 Sep 2026 15:29:00 +0000</pubDate>
+      <description>Sept 16 (Reuters) - Holtec Nuclear has suspended its planned U.S. initial public offering, Bloomberg News reported on Wednesday, citing people familiar with the matter. The IPO was put on hold because ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>marketscreener_discovery</wire:foundAt>
       <wire:platform>MarketScreener</wire:platform>
-      <wire:relation>unknown</wire:relation>
+      <wire:relation>mention</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
+      <wire:confidence>0.86</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/news/economy-ministry-welcomes-sefe-storage-plans-ce785bd2da8cff24</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/holtec-nuclear-suspends-planned-us-ipo-bloomberg-news-reports-ce785bd2d08ef722</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Bloomberg News reported</wire:evidence>
     </item>
   </channel>
 </rss>
