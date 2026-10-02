@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Aswissinfo.ch+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Fri, 02 Oct 2026 10:59:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 16:36:36 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Glencore Says Trading Profits Will Top $5 Billion This Year</title>
@@ -49,20 +49,16 @@
       <title>European Stocks Drop as Bond Yields Spook Investors; Banks Lag</title>
       <link>https://www.swissinfo.ch/eng/european-stocks-drop-as-bond-yields-spook-investors%3b-banks-lag/92149130</link>
       <guid isPermaLink="false">ef277c38b3798a6be5bec0e8</guid>
-      <pubDate>Thu, 01 Oct 2026 16:02:52 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2026 11:02:00 +0000</pubDate>
       <description>European stocks declined as regional bond yields climbed, denting the appeal of equities and fueling concerns about the economic impact of higher borrowing costs.</description>
-      <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;Swiss gas sector views coming winter with concern&lt;/p&gt;&lt;p&gt;Read more: Swiss gas sector views coming winter with concern&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>swissinfo_discovery</wire:foundAt>
       <wire:platform>SWI swissinfo.ch</wire:platform>
-      <wire:relation>repost</wire:relation>
+      <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
+      <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.swissinfo.ch/eng/european-stocks-drop-as-bond-yields-spook-investors%3b-banks-lag/92149130</wire:canonicalUrl>
-      <wire:evidence>structured credit: Bloomberg</wire:evidence>
+      <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
       <title>Major Berentzen Holder Says Sazerac Takeover Bid Is Too Low</title>
@@ -129,21 +125,6 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>US Fund Accuses Radiant World of Fraud in Swiss Complaint</title>
-      <link>https://www.swissinfo.ch/eng/us-fund-accuses-radiant-world-of-fraud-in-swiss-complaint/92142477</link>
-      <guid isPermaLink="false">f1c9c3b3d432b8c25a41c743</guid>
-      <pubDate>Wed, 30 Sep 2026 08:40:00 +0000</pubDate>
-      <description>A US fund has filed a criminal complaint in Switzerland accusing Radiant World and related companies of fraud and money laundering, according to a US court filing, adding a new jurisdiction to the ...</description>
-      <wire:foundAt>swissinfo_discovery</wire:foundAt>
-      <wire:platform>SWI swissinfo.ch</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.swissinfo.ch/eng/us-fund-accuses-radiant-world-of-fraud-in-swiss-complaint/92142477</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
       <title>Swiss Franc Debt Lures First-Time Issuers From Chile to Latvia</title>
       <link>https://www.swissinfo.ch/eng/swiss-franc-debt-lures-first-time-issuers-from-chile-to-latvia/92144304</link>
       <guid isPermaLink="false">00eed2d04ff39419ae358174</guid>
@@ -174,6 +155,21 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
+      <title>Swiss Lawmakers Want to Tax Firms When They Hire Foreign Workers</title>
+      <link>https://www.swissinfo.ch/eng/swiss-lawmakers-want-to-tax-firms-when-they-hire-foreign-workers/92138782</link>
+      <guid isPermaLink="false">a0fe99d7c2125e5843cb0b36</guid>
+      <pubDate>Tue, 29 Sep 2026 07:57:00 +0000</pubDate>
+      <description>Switzerland’s upper house backed an immigration tax on companies hiring foreign workers, a controversial proposal in a country where many multinationals say they need to have easy access to ...</description>
+      <wire:foundAt>swissinfo_discovery</wire:foundAt>
+      <wire:platform>SWI swissinfo.ch</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.swissinfo.ch/eng/swiss-lawmakers-want-to-tax-firms-when-they-hire-foreign-workers/92138782</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
       <title>US Hiring Appetite Is Healthy as Economy Powers Ahead</title>
       <link>https://www.swissinfo.ch/eng/us-hiring-appetite-is-healthy-as-economy-powers-ahead/92125088</link>
       <guid isPermaLink="false">58c903987e3412834869542f</guid>
@@ -189,18 +185,21 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Kuehne+Nagel Enters Into Long-Term Collaboration With Amazon</title>
-      <link>https://www.swissinfo.ch/eng/kuehne%2bnagel-enters-into-long-term-collaboration-with-amazon/92090998</link>
-      <guid isPermaLink="false">2317f63e7f6915e91cd94b0b</guid>
-      <pubDate>Mon, 21 Sep 2026 04:38:00 +0000</pubDate>
-      <description>Swiss freight transportation group Kuehne+Nagel International AG has entered a long-term strategic collaboration with Amazon.com Inc., less than a month after its majority owner died.</description>
+      <title>Swiss media adopts AI code of conduct</title>
+      <link>https://www.swissinfo.ch/eng/swiss-ai/swiss-media-adopt-a-code-of-conduct-on-ai/91377202</link>
+      <guid isPermaLink="false">f918e9c98730827976a8b30e</guid>
+      <pubDate>Thu, 07 May 2026 08:50:20 +0000</pubDate>
+      <description>Read more: US price pressure ‘threatens new drugs’ in Switzerland Switzerland’s crackdown on dirty money has a blind spot Read more: Switzerland’s crackdown on dirty money has a blind spot How ...</description>
+      <dc:creator>swissinfo.ch</dc:creator>
+      <content:encoded>&lt;p&gt;Swiss gas sector views coming winter with concern&lt;/p&gt;&lt;p&gt;Read more: Swiss gas sector views coming winter with concern&lt;/p&gt;</content:encoded>
       <wire:foundAt>swissinfo_discovery</wire:foundAt>
       <wire:platform>SWI swissinfo.ch</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.swissinfo.ch/eng/kuehne%2bnagel-enters-into-long-term-collaboration-with-amazon/92090998</wire:canonicalUrl>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.swissinfo.ch/eng/swiss-ai/swiss-media-adopt-a-code-of-conduct-on-ai/91377202</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
