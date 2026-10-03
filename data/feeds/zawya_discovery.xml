@@ -1,11 +1,195 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>ZAWYA — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Azawya.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 03 Oct 2026 15:54:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 19:08:50 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Euro zone bond yields diverge, while inflation in the bloc jumps</title>
+      <link>https://www.zawya.com/en/capital-markets/uk-and-europe/euro-zone-bond-yields-diverge-while-inflation-in-the-bloc-jumps-1487161</link>
+      <guid isPermaLink="false">944388fd9ad26e318c8032de</guid>
+      <pubDate>Fri, 02 Oct 2026 11:37:16 +0000</pubDate>
+      <description>A brutal selloff in European government bond markets left traders on Friday favouring safe-haven German debt over weaker countries such as France, albeit with less volatility than the previous day, ...</description>
+      <dc:creator>Sophie Kiderlin</dc:creator>
+      <wire:foundAt>zawya_discovery</wire:foundAt>
+      <wire:platform>ZAWYA</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.zawya.com/en/capital-markets/uk-and-europe/euro-zone-bond-yields-diverge-while-inflation-in-the-bloc-jumps-1487161</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Rivian deliveries hit record high as R2 rollout gains momentum</title>
+      <link>https://www.zawya.com/en/business/rivian-deliveries-hit-record-high-as-r2-rollout-gains-momentum-1491216</link>
+      <guid isPermaLink="false">772f74c13b15b7a2bbabfe0e</guid>
+      <pubDate>Fri, 02 Oct 2026 06:04:00 +0000</pubDate>
+      <description>Rivian Automotive reported record third-quarter deliveries on Friday, beating analysts' estimates after rolling out its cheaper R2 SUV targeted at a broader section of the mass EV market. Shares of ...</description>
+      <wire:foundAt>zawya_discovery</wire:foundAt>
+      <wire:platform>ZAWYA</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.zawya.com/en/business/rivian-deliveries-hit-record-high-as-r2-rollout-gains-momentum-1491216</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>SoftBank completes final phase of $30bln investment in OpenAI</title>
+      <link>https://www.zawya.com/en/special-coverage/investment/softbank-completes-final-phase-of-30bln-investment-in-openai-1486299</link>
+      <guid isPermaLink="false">87caaf3763d11c463e2e3916</guid>
+      <pubDate>Fri, 02 Oct 2026 06:03:12 +0000</pubDate>
+      <description>SoftBank Group said on Thursday it has completed its $30 billion investment in OpenAI as part of its commitment to the ChatGPT maker's last fundraising round. Here are some other ...</description>
+      <dc:creator>Arasu Kannagi Basil</dc:creator>
+      <wire:foundAt>zawya_discovery</wire:foundAt>
+      <wire:platform>ZAWYA</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.zawya.com/en/special-coverage/investment/softbank-completes-final-phase-of-30bln-investment-in-openai-1486299</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Europe needs simpler bank rules not lower capital: ECB's VP</title>
+      <link>https://www.zawya.com/en/world/europe-needs-simpler-bank-rules-not-lower-capital-ecbs-vp-1487560</link>
+      <guid isPermaLink="false">b741b79834dda09d15ed7282</guid>
+      <pubDate>Fri, 02 Oct 2026 05:59:00 +0000</pubDate>
+      <description>The US has been easing some capital rules and European bank lobbies are also calling for a review of the regulatory framework ...</description>
+      <wire:foundAt>zawya_discovery</wire:foundAt>
+      <wire:platform>ZAWYA</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.zawya.com/en/world/europe-needs-simpler-bank-rules-not-lower-capital-ecbs-vp-1487560</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Oil jumps 4% on US plan to deploy more troops to Mideast</title>
+      <link>https://www.zawya.com/en/world/oil-gas/oil-jumps-4-on-us-plan-to-deploy-more-troops-to-mideast-1486654</link>
+      <guid isPermaLink="false">b4de2ca74e082f96b7867e1b</guid>
+      <pubDate>Fri, 02 Oct 2026 03:52:08 +0000</pubDate>
+      <description>Oil prices jumped more than $4 per barrel at settlement on Thursday after a report said the US was sending additional troops and another aircraft carrier to the Middle East, while China suspended oil ...</description>
+      <dc:creator>Zawya</dc:creator>
+      <wire:foundAt>zawya_discovery</wire:foundAt>
+      <wire:platform>ZAWYA</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.zawya.com/en/world/oil-gas/oil-jumps-4-on-us-plan-to-deploy-more-troops-to-mideast-1486654</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>$5bln Firmus IPO divides investors after valuation triples in two months</title>
+      <link>https://www.zawya.com/en/capital-markets/5bln-firmus-ipo-divides-investors-after-valuation-triples-in-two-months-1487028</link>
+      <guid isPermaLink="false">9c6f32bd868c2e276c0c319b</guid>
+      <pubDate>Fri, 02 Oct 2026 02:39:00 +0000</pubDate>
+      <description>SYDNEY - As Australian data centre operator Firmus prepares to launch a $5 billion initial public offering, the country's second-largest ever, prospective investors are questioning the firm's surging ...</description>
+      <wire:foundAt>zawya_discovery</wire:foundAt>
+      <wire:platform>ZAWYA</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.zawya.com/en/capital-markets/5bln-firmus-ipo-divides-investors-after-valuation-triples-in-two-months-1487028</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Mideast Stocks: UAE stocks fall as US-Iran deadlock weighs</title>
+      <link>https://www.zawya.com/en/capital-markets/mideast-stocks-uae-stocks-fall-as-us-iran-deadlock-weighs-1489986</link>
+      <guid isPermaLink="false">72cb102f845ef3224be5a9ff</guid>
+      <pubDate>Thu, 01 Oct 2026 23:02:00 +0000</pubDate>
+      <description>United Arab Emirates stock markets closed lower on Friday as a stalemate in US-Iran negotiations dampened risk appetite and unsettled energy markets. Dubai's benchmark index fell for a fourth straight ...</description>
+      <wire:foundAt>zawya_discovery</wire:foundAt>
+      <wire:platform>ZAWYA</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.zawya.com/en/capital-markets/mideast-stocks-uae-stocks-fall-as-us-iran-deadlock-weighs-1489986</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Fed's Logan calls for '50 bps or more' in rate hikes</title>
+      <link>https://www.zawya.com/en/economy/feds-logan-calls-for-50-bps-or-more-in-rate-hikes-1486476</link>
+      <guid isPermaLink="false">f8157f05f0c091fbaff50a21</guid>
+      <pubDate>Thu, 01 Oct 2026 20:36:00 +0000</pubDate>
+      <description>The US central bank will need to raise short-term borrowing costs by at least another half of a percentage point to turn monetary policy "modestly restrictive" and get inflation back on track to the ...</description>
+      <wire:foundAt>zawya_discovery</wire:foundAt>
+      <wire:platform>ZAWYA</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.zawya.com/en/economy/feds-logan-calls-for-50-bps-or-more-in-rate-hikes-1486476</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Oil falls about 3% on talks over diesel, crude stock releases</title>
+      <link>https://www.zawya.com/en/business/oil-falls-about-3-on-talks-over-diesel-crude-stock-releases-1486567</link>
+      <guid isPermaLink="false">42b92e9393e9a23bf7a703d4</guid>
+      <pubDate>Thu, 01 Oct 2026 20:12:00 +0000</pubDate>
+      <description>LONDON - Oil prices fell about 3% and European gasoil futures dropped over 5% on Friday after reports of talks on additional diesel and crude stock releases, easing concerns over tight global energy ...</description>
+      <wire:foundAt>zawya_discovery</wire:foundAt>
+      <wire:platform>ZAWYA</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.zawya.com/en/business/oil-falls-about-3-on-talks-over-diesel-crude-stock-releases-1486567</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Saudi Vision 2030 programmes achieve 93% of targets, Crown Prince says</title>
+      <link>https://www.zawya.com/en/economy/saudi-vision-2030-programmes-achieve-93-of-targets-crown-prince-says-1459828</link>
+      <guid isPermaLink="false">4664e276f4bc0eea15820e8e</guid>
+      <pubDate>Thu, 01 Oct 2026 04:27:29 +0000</pubDate>
+      <description>Non-oil exports have increased 155% compared with 2016, while the private sector’s contribution to the economy has risen to 51% ...</description>
+      <dc:creator>Staff Writer</dc:creator>
+      <wire:foundAt>zawya_discovery</wire:foundAt>
+      <wire:platform>ZAWYA</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.zawya.com/en/economy/saudi-vision-2030-programmes-achieve-93-of-targets-crown-prince-says-1459828</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Mideast Stocks: Most Gulf bourses edge lower on mixed US-Iran cues</title>
+      <link>https://www.zawya.com/en/capital-markets/mideast-stocks-most-gulf-bourses-edge-lower-on-mixed-us-iran-cues-1481285</link>
+      <guid isPermaLink="false">ea68883fb427ea7afda9eb94</guid>
+      <pubDate>Thu, 01 Oct 2026 01:16:00 +0000</pubDate>
+      <description>Most Gulf bourses ended lower on Thursday, caught between rebounding regional oil flows and mixed diplomatic signals on the US-Iran conflict. Saudi Arabia's benchmark index dropped 0.5%, weighed down ...</description>
+      <wire:foundAt>zawya_discovery</wire:foundAt>
+      <wire:platform>ZAWYA</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.zawya.com/en/capital-markets/mideast-stocks-most-gulf-bourses-edge-lower-on-mixed-us-iran-cues-1481285</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Saudi Aramco and Sonatrach raise LPG prices for October</title>
+      <link>https://www.zawya.com/en/business/oil-gas/saudi-aramco-and-sonatrach-raise-lpg-prices-for-october-1460411</link>
+      <guid isPermaLink="false">922fd1690676152fc913615b</guid>
+      <pubDate>Wed, 30 Sep 2026 19:37:00 +0000</pubDate>
+      <description>MOSCOW - Saudi Arabia's state oil producer Saudi Aramco has raised official selling prices for liquefied petroleum gas by between 9% and 11% for October due to rising oil prices and higher demand on ...</description>
+      <wire:foundAt>zawya_discovery</wire:foundAt>
+      <wire:platform>ZAWYA</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.zawya.com/en/business/oil-gas/saudi-aramco-and-sonatrach-raise-lpg-prices-for-october-1460411</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
   </channel>
 </rss>
