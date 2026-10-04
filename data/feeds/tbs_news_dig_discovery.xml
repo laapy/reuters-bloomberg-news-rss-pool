@@ -1,12 +1,42 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>TBS NEWS DIG — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Anewsdig.tbs.co.jp+%28Reuters+OR+Bloomberg+OR+%E3%83%AD%E3%82%A4%E3%82%BF%E3%83%BC+OR+%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%90%E3%83%BC%E3%82%B0%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 03 Oct 2026 22:23:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 01:56:44 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ベッセント財務長官、米国債利回り上昇を懸念せず－世界的傾向と一致</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2987716</link>
+      <guid isPermaLink="false">06a57406589ada666a42db93</guid>
+      <pubDate>Sat, 03 Oct 2026 18:14:00 +0000</pubDate>
+      <description>三井住友DS国部氏、仏国債を全て売却－独・日本国債へシフト ...</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2987716</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>OpenAIの安全性担当者が退社、AI開発に「原発並み」の多層的対策訴え</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2987702</link>
+      <guid isPermaLink="false">f41c550ad1aa6c1647c1de8f</guid>
+      <pubDate>Sat, 03 Oct 2026 16:01:00 +0000</pubDate>
+      <description>三井住友DS国部氏、仏国債を全て売却－独・日本国債へシフト 【ノーカット】円安で高市総理の考えは変化？片山さつき財務大臣 単独インタビュー【news23】 ...</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2987702</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
     <item>
       <title>機長襲撃のフライドバイ機副操縦士、「テロ行為」図る－UAE検察</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2987595</link>
@@ -21,6 +51,22 @@
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2987595</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>ヘッジファンド、円売りポジションを再構築－円への下押し圧力続く</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2987596</link>
+      <guid isPermaLink="false">95a408d2c03f1484cf6180fb</guid>
+      <pubDate>Sat, 03 Oct 2026 07:57:00 +0000</pubDate>
+      <description>（ブルームバーグ）：円への下押し圧力が続く中、ヘッジファンドは円に対する売り持ちを再び積み上げた。米商品先物取引委員会（CFTC）が2日に公表したデータをブルームバーグがまとめたところによると、レバレッ… ECBに「悪夢のシナリオ」迫る、フランス国債利回り急上昇で対応圧力 ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2987596</wire:canonicalUrl>
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
@@ -40,26 +86,6 @@
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
-      <title>ヘッジファンド、円売りポジションを再構築－円への下押し圧力続く</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2987596</link>
-      <guid isPermaLink="false">95a408d2c03f1484cf6180fb</guid>
-      <pubDate>Sat, 03 Oct 2026 05:57:10 +0000</pubDate>
-      <description>（ブルームバーグ）：円への下押し圧力が続く中、ヘッジファンドは円に対する売り持ちを再び積み上げた。米商品先物取引委員会（CFTC）が2日に公表したデータをブルームバーグがまとめたところによると、レバレッ… ECBに「悪夢のシナリオ」迫る、フランス国債利回り急上昇で対応圧力 ...</description>
-      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;6時間前
-ベッセント財務長官、米国債利回り上昇を懸念せず－世界的傾向と一致&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2987596</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
       <title>片山財務相、新規国債40兆円に首相が言及の意味はある－来年度予算</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2987329</link>
       <guid isPermaLink="false">329c3f3b8ccffce4d84face6</guid>
@@ -76,19 +102,20 @@
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
-      <title>ベッセント財務長官、米国債利回り上昇を懸念せず－世界的傾向と一致</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2987716</link>
-      <guid isPermaLink="false">06a57406589ada666a42db93</guid>
-      <pubDate>Sat, 03 Oct 2026 04:14:00 +0000</pubDate>
-      <description>三井住友DS国部氏、仏国債を全て売却－独・日本国債へシフト ...</description>
+      <title>パウエル前FRB議長への刑事捜査、米司法省は再開せず－ブランチ長官</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2987328</link>
+      <guid isPermaLink="false">b9a11e9d405aab5631b0caac</guid>
+      <pubDate>Sat, 03 Oct 2026 04:48:00 +0000</pubDate>
+      <description>（ブルームバーグ）：米司法省は、米連邦準備制度理事会（FRB）の本部ビル改修プロジェクトの予算超過を巡り、パウエル前FRB議長に対する刑事捜査を再開しない方針だ。ブランチ司法長官は、プロジェクトの監督状況… 米金利5%はいつまで続く、ウォール街が警戒する高止まりの代償 ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
+      <wire:relation>repost</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
+      <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2987716</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2987328</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
       <title>ベトナムの7－9月期成長率9.95%、10%目標に迫る－貿易黒字に転換</title>
@@ -106,34 +133,11 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>パウエル前FRB議長への刑事捜査、米司法省は再開せず－ブランチ長官</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2987328</link>
-      <guid isPermaLink="false">b9a11e9d405aab5631b0caac</guid>
-      <pubDate>Sat, 03 Oct 2026 02:48:46 +0000</pubDate>
-      <description>（ブルームバーグ）：米司法省は、米連邦準備制度理事会（FRB）の本部ビル改修プロジェクトの予算超過を巡り、パウエル前FRB議長に対する刑事捜査を再開しない方針だ。ブランチ司法長官は、プロジェクトの監督状況… 米金利5%はいつまで続く、ウォール街が警戒する高止まりの代償 ...</description>
-      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;6時間前
-ベッセント財務長官、米国債利回り上昇を懸念せず－世界的傾向と一致&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2987328</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
       <title>米金利5%はいつまで続く、ウォール街が警戒する高止まりの代償</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2987331</link>
       <guid isPermaLink="false">e838671e10191a53c90b1883</guid>
-      <pubDate>Sat, 03 Oct 2026 00:39:13 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 02:39:00 +0000</pubDate>
       <description>（ブルームバーグ）：ウォール街はここ数週間、大規模な債券売りと折り合いをつけようとしてきた。2日は予想外に弱い雇用統計を受け一時的に安堵（あんど）する場面もあったが、高止まりする利回りがあらゆる投資… 「副操縦士は過激思想を理由に飛行禁止」イスラエル行き旅客機が緊急着陸米メディア報道 ...</description>
-      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;6時間前
-ベッセント財務長官、米国債利回り上昇を懸念せず－世界的傾向と一致&lt;/p&gt;</content:encoded>
       <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
@@ -141,7 +145,6 @@
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2987331</wire:canonicalUrl>
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
@@ -149,11 +152,8 @@
       <title>北朝鮮から弾道ミサイルの可能性のあるもの発射、既に落下か－防衛省</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2987095</link>
       <guid isPermaLink="false">2736475b3114cf14d5431611</guid>
-      <pubDate>Fri, 02 Oct 2026 23:10:48 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 01:09:00 +0000</pubDate>
       <description>（ブルームバーグ）：防衛省は3日、北朝鮮から弾道ミサイルの可能性のあるものが発射され、既に落下したと推定されると発表した。日本の排他的経済水域（EEZ）への飛来は現時点で確認されていないという。韓国当局… 【「Gemini 4 Argon」まだ“本命”じゃない】「Googleは脱落してない」今井翔太／機能絞って発表→GPT・Claude最新モデルに匹敵／AI暴走の本質は「強化学習」【AI QUES ...</description>
-      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;6時間前
-ベッセント財務長官、米国債利回り上昇を懸念せず－世界的傾向と一致&lt;/p&gt;</content:encoded>
       <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
@@ -161,16 +161,15 @@
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2987095</wire:canonicalUrl>
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
-      <title>【欧州市況】独仏の利回り差、仏財政懸念で一時159bpに拡大－株反発</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2987043</link>
-      <guid isPermaLink="false">0849d05cc508aef36b29d6d8</guid>
-      <pubDate>Fri, 02 Oct 2026 19:32:00 +0000</pubDate>
-      <description>（ブルームバーグ）：2日の欧州債券市場は、財政状況や来年の大統領選の行方を巡る懸念が続く中、フランス10年債利回りが5週連続で前週を上回った。フランス10年債とドイツ10年債の利回り差（スプレッド）が急拡大… イギリスでディーゼル燃料の平均価格が過去最高に 初めて1リットル＝2ポンド超え ...</description>
+      <title>眠らないウォール街、米株「23時間取引」開始へ－機関投資家は様子見</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2987022</link>
+      <guid isPermaLink="false">fa2128e7c098d5ed3aff7c8c</guid>
+      <pubDate>Fri, 02 Oct 2026 20:34:00 +0000</pubDate>
+      <description>（ブルームバーグ）：米株式市場では長年、夜間に数時間の休みがあった。だが12月から取引時間が大幅に延び、ほぼ24時間体制で売買できるようになる。ナスダック、NYSEアーカ、24Xナショナル・エクスチェンジ、Cboe… エヌビディア株、5月以来の最高値更新－史上初の時価総額6兆ドル視野 ...</description>
       <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
@@ -178,23 +177,7 @@
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2987043</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
-      <title>テスラの四半期販売台数、市場予想上回る－中核のEV事業に安定の兆し</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2987051</link>
-      <guid isPermaLink="false">de887717c19580a48fa1fa2c</guid>
-      <pubDate>Fri, 02 Oct 2026 16:20:00 +0000</pubDate>
-      <description>（ブルームバーグ）：電気自動車（EV）メーカーの米テスラが2日発表した第3四半期の販売台数は市場予想を上回った。EV市場が厳しい局面にある中、同社の中核事業の安定が示唆された。発表した資料によると、同四半… 【「Gemini 4 Argon」まだ“本命”じゃない】「Googleは脱落してない」今井翔太／機能絞って発表→GPT・Claude最新モデルに匹敵／AI暴走の本質は「強化学習」【AI QUE ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2987051</wire:canonicalUrl>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2987022</wire:canonicalUrl>
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
@@ -203,15 +186,12 @@
       <guid isPermaLink="false">8d76d3c7f55e3352ead1a2c6</guid>
       <pubDate>Sun, 28 Dec 2025 16:00:00 +0000</pubDate>
       <description>AIに関する記事一覧です。TBSとBloombergというタッグだからこそ生まれるもの。進みつづけるビジネスパーソンに、学びの深さがちがうニュースメディアを。経済、金融、投資、資産運用、キャリア、テクノロジーなど各分野のニュース、映像コンテンツを確かな信頼性とともにお届けします。 (10ページ) ...</description>
-      <content:encoded>&lt;p&gt;2025.12.29
-【“数学オリンピック優勝”のAIは便利なのか】今井翔太「AIは賢くなり過ぎた」「2026年は“仕事で使えるAI”の競争」／ChatGPTとGeminiは「動画と科学」で革命起こす【1on1 Tech】&lt;/p&gt;</content:encoded>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://newsdig.tbs.co.jp/list/withbloomberg/tag/AI?page=10</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
