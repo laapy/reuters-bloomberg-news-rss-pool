@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Aswissinfo.ch+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 04 Oct 2026 18:03:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 21:51:58 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Glencore Says Trading Profits Will Top $5 Billion This Year</title>
@@ -20,6 +20,21 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.swissinfo.ch/eng/glencore-says-trading-profits-will-top-%245-billion-this-year/92155750</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>European Stocks Drop as Bond Yields Spook Investors; Banks Lag</title>
+      <link>https://www.swissinfo.ch/eng/european-stocks-drop-as-bond-yields-spook-investors%3b-banks-lag/92149130</link>
+      <guid isPermaLink="false">ef277c38b3798a6be5bec0e8</guid>
+      <pubDate>Thu, 01 Oct 2026 11:02:00 +0000</pubDate>
+      <description>European stocks declined as regional bond yields climbed, denting the appeal of equities and fueling concerns about the economic impact of higher borrowing costs.</description>
+      <wire:foundAt>swissinfo_discovery</wire:foundAt>
+      <wire:platform>SWI swissinfo.ch</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.swissinfo.ch/eng/european-stocks-drop-as-bond-yields-spook-investors%3b-banks-lag/92149130</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -40,21 +55,6 @@
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.swissinfo.ch/eng/major-berentzen-holder-says-sazerac-takeover-bid-is-too-low/92148290</wire:canonicalUrl>
       <wire:evidence>structured credit: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Swiss Inflation Quickens to 2-Year High Driven by Oil, Franc</title>
-      <link>https://www.swissinfo.ch/eng/swiss-inflation-quickens-to-2-year-high-driven-by-oil%2c-franc/92148287</link>
-      <guid isPermaLink="false">c5e55ae68fc0b56209774c25</guid>
-      <pubDate>Thu, 01 Oct 2026 04:20:00 +0000</pubDate>
-      <description>Switzerland’s inflation rate rose to the highest level in two years as stronger oil prices and a weaker franc fanned price pressures that still appear feeble compared to the rest of Europe.</description>
-      <wire:foundAt>swissinfo_discovery</wire:foundAt>
-      <wire:platform>SWI swissinfo.ch</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.swissinfo.ch/eng/swiss-inflation-quickens-to-2-year-high-driven-by-oil%2c-franc/92148287</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
       <title>Swiss Franc Debt Lures First-Time Issuers From Chile to Latvia</title>
@@ -79,20 +79,16 @@
       <title>SNB Continued Franc Sales in Second Quarter, Stemming Flows</title>
       <link>https://www.swissinfo.ch/eng/snb-continued-franc-sales-in-second-quarter%2c-stemming-flows/92142317</link>
       <guid isPermaLink="false">a3749d4a99ec1b68d8bb8f88</guid>
-      <pubDate>Wed, 30 Sep 2026 07:02:41 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 02:02:00 +0000</pubDate>
       <description>The Swiss National Bank continued to sell francs in the second quarter, following through on its “increased willingness” to intervene against a stronger currency.</description>
-      <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;Ban on election observers, tariffs with China, and plummeting birth rates&lt;/p&gt;&lt;p&gt;Read more: Ban on election observers, tariffs with China, and plummeting birth rates&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>swissinfo_discovery</wire:foundAt>
       <wire:platform>SWI swissinfo.ch</wire:platform>
-      <wire:relation>repost</wire:relation>
+      <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
+      <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.swissinfo.ch/eng/snb-continued-franc-sales-in-second-quarter%2c-stemming-flows/92142317</wire:canonicalUrl>
-      <wire:evidence>structured credit: Bloomberg</wire:evidence>
+      <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
       <title>Swiss Lawmakers Want to Tax Firms When They Hire Foreign Workers</title>
@@ -174,21 +170,6 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Trump-Xi Showdown Casts a Shadow Over the Global Economy</title>
-      <link>https://www.swissinfo.ch/eng/trump-xi-showdown-casts-a-shadow-over-the-global-economy/92087302</link>
-      <guid isPermaLink="false">f2b193ccc127ff359b60b63a</guid>
-      <pubDate>Sun, 20 Sep 2026 15:02:00 +0000</pubDate>
-      <description>US President Donald Trump’s talks with China’s Xi Jinping is set to be the week’s pivotal event, covering crucial issues from tariffs to technology related to the world’s two largest economies.</description>
-      <wire:foundAt>swissinfo_discovery</wire:foundAt>
-      <wire:platform>SWI swissinfo.ch</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.swissinfo.ch/eng/trump-xi-showdown-casts-a-shadow-over-the-global-economy/92087302</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
       <title>Protesters smash windows and set car ablaze in anti-G7 protest in Geneva</title>
       <link>https://www.swissinfo.ch/eng/foreign-affairs/protesters-smash-windows-and-set-car-ablaze-in-anti-g7-protest-in-geneva/91585786</link>
       <guid isPermaLink="false">edf9504b2e4be6bd379e8f15</guid>
@@ -202,6 +183,25 @@
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.swissinfo.ch/eng/foreign-affairs/protesters-smash-windows-and-set-car-ablaze-in-anti-g7-protest-in-geneva/91585786</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Switzerland’s 10-Million Population Cap Is Worrying Executives</title>
+      <link>https://www.swissinfo.ch/eng/switzerlands-10-million-population-cap-is-worrying-executives/91479068</link>
+      <guid isPermaLink="false">2053ce34d6322cf769a9795c</guid>
+      <pubDate>Wed, 27 May 2026 04:00:09 +0000</pubDate>
+      <description>Read more: US price pressure ‘threatens new drugs’ in Switzerland Switzerland’s crackdown on dirty money has a blind spot Read more: Switzerland’s crackdown on dirty money has a blind spot How ...</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;Ban on election observers, tariffs with China, and plummeting birth rates&lt;/p&gt;&lt;p&gt;Read more: Ban on election observers, tariffs with China, and plummeting birth rates&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>swissinfo_discovery</wire:foundAt>
+      <wire:platform>SWI swissinfo.ch</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.swissinfo.ch/eng/switzerlands-10-million-population-cap-is-worrying-executives/91479068</wire:canonicalUrl>
+      <wire:evidence>structured credit: Bloomberg</wire:evidence>
     </item>
   </channel>
 </rss>
