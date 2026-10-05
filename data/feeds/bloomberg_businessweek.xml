@@ -1,11 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Bloomberg — diagnostic source feed</title>
     <link>https://feeds.bloomberg.com/businessweek/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 05 Oct 2026 00:34:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 06:40:15 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Bloomberg Businessweek’s 2026 Investor’s Guide to Africa: Data Centers, Energy</title>
+      <link>https://www.bloomberg.com/features/2026-investor-guide-to-africa/</link>
+      <guid isPermaLink="false">01c4d7e6551c7eeb99cb84e9</guid>
+      <pubDate>Mon, 05 Oct 2026 04:01:09 +0000</pubDate>
+      <description>The Middle East conflict reinforces the importance of supply security, and African industries are benefitting.</description>
+      <dc:creator>Monique Vanek and Yvonne Mhango (Economist)</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_businessweek</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/features/2026-investor-guide-to-africa/</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
   </channel>
 </rss>

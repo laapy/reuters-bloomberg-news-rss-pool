@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Mint — diagnostic source feed</title>
     <link>https://www.livemint.com/rss/news</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 05 Oct 2026 00:34:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 06:40:15 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Brazil election: Why Lula and Flavio Bolsonaro are headed for a high-stakes runoff</title>
+      <link>https://www.livemint.com/news/world/brazil-election-why-lula-and-flavio-bolsonaro-are-headed-for-a-high-stakes-runoff-11791175790905.html</link>
+      <guid isPermaLink="false">fe1cac36410007fe132b5fa4</guid>
+      <pubDate>Mon, 05 Oct 2026 05:36:17 +0000</pubDate>
+      <description>Brazil election: Brazil’s presidential election is headed for a runoff between incumbent Luiz Inacio Lula da Silva and right-wing Senator Flavio Bolsonaro after neither candidate secured more than 50% of the first-round vote.&amp;nbsp;</description>
+      <dc:creator>Bhanu Pratap</dc:creator>
+      <content:encoded>&lt;p&gt;Brazilians voted on Sunday in a high-stakes presidential election that pitted incumbent Luiz Inacio Lula da Silva against right-wing Senator Flavio Bolsonaro, as the country’s political battle unfolded amid a broader rightward shift across Latin America.Neither candidate secured more than 50% of the vote in the first round, sending Lula and Bolsonaro into a runoff scheduled for October 25, as per Reuters.Nearly 159 million eligible voters also cast ballots for 27 state governors, all 513 members of the lower house of Congress, 54 of the 81 senators and members of state legislatures, the report said.Polling stations closed at 5 pm, with voters still in line allowed to cast their ballots.Flavio Bolsonaro exceeds expectationsFlavio Bolsonaro, 45, the son of former far-right president Jair Bolsonaro, performed better than expected in the first round compared with earlier polls and finished with a narrow lead over Lula, setting up a closely fought runoff.The election was shaped by concerns over the cost of living, corruption and public security, while the contest also reflected a wider ideological divide playing out across Latin America.Right-wing parties aligned with US President Donald Trump have made gains in several countries in the region, including Argentina, Colombia, Honduras and Peru, according to Reuters.Flavio Bolsonaro has sought to emphasize his ties with the Trump administration.He has denied receiving assistance from the US government and has campaigned on tougher action against criminal groups, closer ties with the White House and better trade arrangements, including in the rare-minerals sector.He has also pledged to seek the release of his father and bring him back into political life.Lula seeks a fourth termLula, 80, is contesting his seventh presidential election and seeking another term after returning to office in 2023.His government has strengthened ties with Beijing. The president has increasingly made resistance to US pressure a campaign issue, particularly after the Trump administration imposed high tariffs on Brazilian exports, revoked the visa of Brazil’s ambassador and sanctioned a Supreme Court justice involved in the investigation that eventually led to Jair Bolsonaro’s conviction.Lula’s approval ratings have also fallen during his third term.After voting, Lula said that, if re-elected, he would need to “do double of what we have done” and expressed confidence that he could win in the first round, according to Reuters.But the election has proved more difficult than expected for the incumbent, amid concerns over affordability and a corruption scandal that also involved the judge who led the investigation into Bolsonaro.Bolsonaro campaigns on crime, securityFor Bolsonaro, crime and public security have been central campaign issues.Bolsonaro is also facing corruption allegations, including claims that he received millions of dollars from a disgraced banker to allegedly produce a film about his father’s life, according to reports.Lula’s supporters have pointed to his social welfare programmes and his resistance to pressure from Washington as key reasons to back him in the runoff.The incumbent has sought to portray his government as a defender of Brazil’s economic interests while highlighting policies aimed at reducing poverty and inequality.The October 25 runoff will force Brazilian voters to choose between keeping Lula in office and returning the country to the right under Flavio Bolsonaro.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>mint_news</wire:foundAt>
+      <wire:platform>Mint</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.livemint.com/news/world/brazil-election-why-lula-and-flavio-bolsonaro-are-headed-for-a-high-stakes-runoff-11791175790905.html</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: according to Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>

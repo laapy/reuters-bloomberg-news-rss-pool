@@ -1,24 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>BNN Bloomberg — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Abnnbloomberg.ca+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 05 Oct 2026 00:34:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 06:40:15 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>Here’s who’s appearing on BNN Bloomberg Market Call on Monday</title>
-      <link>https://www.bnnbloomberg.ca/faq/2025/10/24/heres-whos-appearing-on-bnn-bloomberg-market-call/</link>
-      <guid isPermaLink="false">f9db1d9a149d23022bbdf58f</guid>
-      <pubDate>Sun, 04 Oct 2026 11:21:00 +0000</pubDate>
-      <description>Market Call is Canada’s leading stock market call-in program. Every weekday, BNN Bloomberg hosts top fund managers and market analysts - professionals who handle billions in retail and institutional ...</description>
+      <title>U.S. Coast Guard calls off search for missing air ambulance</title>
+      <link>https://www.bnnbloomberg.ca/video/live/2026/10/05/us-coast-guard-calls-off-search-for-missing-air-ambulance/</link>
+      <guid isPermaLink="false">2c9e25a203cfa9b447b1a3ba</guid>
+      <pubDate>Sun, 04 Oct 2026 17:00:00 +0000</pubDate>
+      <description>Aviation analyst Keith Mackey discusses the U.S. Coast Guard’s announcement that the search for a missing air ambulance has been suspended.</description>
+      <content:encoded>&lt;p&gt;Opens in new window
+‘A manufactured crisis’: Union president speaks on ties between Stelco and U.S. government Opens in new window 04:14 · October 04, 2026 at 5:06p.m. EDT&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/live/2026/10/05/us-coast-guard-calls-off-search-for-missing-air-ambulance/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Here’s who’s appearing on BNN Bloomberg Market Call on Monday</title>
+      <link>https://www.bnnbloomberg.ca/faq/2025/10/24/heres-whos-appearing-on-bnn-bloomberg-market-call/</link>
+      <guid isPermaLink="false">f9db1d9a149d23022bbdf58f</guid>
+      <pubDate>Sun, 04 Oct 2026 15:41:14 +0000</pubDate>
+      <description>Market Call is Canada’s leading stock market call-in program. Every weekday, BNN Bloomberg hosts top fund managers and market analysts - professionals who handle billions in retail and institutional ...</description>
+      <dc:creator>BNNBloomberg.ca Staff</dc:creator>
+      <content:encoded>&lt;p&gt;Market Call is Canada’s leading stock market call-in program. Every weekday, BNN Bloomberg hosts top fund managers and market analysts - professionals who handle billions in retail and institutional investments. Call toll-free at 1-855-326-6266 or email marketcall@bnnbloomberg.ca. Monday, Oct. 5 Mike Vinokur, Propellus Wealth Partners, iA Private Wealth Focus: North American Large Caps Tuesday, Oct. 6 Kim Bolton, Black Swan Dexteritas Focus: Technology Stocks Wednesday, Oct. 7 Bill Smead, Smead Capital Management Focus: U.S Value Stocks Thursday, Oct. 8 Stan Wong, Scotia Wealth Management Focus: North American Large Caps &amp;amp; ETFs Friday, Oct. 9 Brian Madden, First Avenue Investment Counsel Focus: North American Equities&lt;/p&gt;</content:encoded>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/faq/2025/10/24/heres-whos-appearing-on-bnn-bloomberg-market-call/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
@@ -28,12 +49,15 @@
       <guid isPermaLink="false">11e9991b60b62516137eba6a</guid>
       <pubDate>Sun, 04 Oct 2026 08:37:00 +0000</pubDate>
       <description>U.S. political analyst Eric Ham discusses new rhetoric coming from the White House signaling that Canada will be blamed if the GOP loses midterm elections.</description>
+      <content:encoded>&lt;p&gt;Opens in new window
+‘A manufactured crisis’: Union president speaks on ties between Stelco and U.S. government Opens in new window 04:14 · October 04, 2026 at 5:06p.m. EDT&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/live/2026/10/03/trump-administration-suggests-canada-is-meddling-in-us-midterm-elections-ham/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
@@ -43,12 +67,15 @@
       <guid isPermaLink="false">bf71177323d2755b8561e744</guid>
       <pubDate>Sun, 04 Oct 2026 01:22:00 +0000</pubDate>
       <description>Ron Wells, president of United Steel Workers Local 1005, discusses the relationship between Stelco’s corporate governance and the Trump administration.</description>
+      <content:encoded>&lt;p&gt;Opens in new window
+‘A manufactured crisis’: Union president speaks on ties between Stelco and U.S. government Opens in new window 04:14 · October 04, 2026 at 5:06p.m. EDT&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/live/2026/10/04/a-manufactured-crisis-union-president-speaks-on-ties-between-stelco-and-us-government/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
@@ -56,7 +83,7 @@
       <title>Russian foreign ministry warns diplomats to leave Ukraine or risk being caught in strikes</title>
       <link>https://www.bnnbloomberg.ca/video/live/2026/10/03/russian-foreign-ministry-warns-diplomats-to-leave-ukraine-or-risk-being-caught-in-strikes/</link>
       <guid isPermaLink="false">393ddb89e75590bee18a8ff1</guid>
-      <pubDate>Sat, 03 Oct 2026 06:39:00 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 01:14:00 +0000</pubDate>
       <description>Former Canadian ambassador to Ukraine Roman Waschuk speaks more about the Russian foreign ministry’s message to international diplomats.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
@@ -65,21 +92,6 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/live/2026/10/03/russian-foreign-ministry-warns-diplomats-to-leave-ukraine-or-risk-being-caught-in-strikes/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Ontario-owned air ambulance carrying six people missing off U.S. coast</title>
-      <link>https://www.bnnbloomberg.ca/video/live/2026/10/03/ontario-owned-air-ambulance-carrying-six-people-missing-off-us-coast/</link>
-      <guid isPermaLink="false">0beca9f2094a5eff7deaa530</guid>
-      <pubDate>Sat, 03 Oct 2026 01:22:00 +0000</pubDate>
-      <description>An Ontario-owned air ambulance carrying six people from Bermuda to Boston has been reported missing off the coast of Nantucket.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/live/2026/10/03/ontario-owned-air-ambulance-carrying-six-people-missing-off-us-coast/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -113,18 +125,33 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Fed may skip October but pull U.S. rate hike trigger in December</title>
-      <link>https://www.bnnbloomberg.ca/business/economics/2026/10/02/fed-may-skip-october-but-pull-us-rate-hike-trigger-in-december/</link>
-      <guid isPermaLink="false">28b1414efacaf5e3c05628c1</guid>
-      <pubDate>Fri, 02 Oct 2026 12:08:00 +0000</pubDate>
-      <description>U.S. Federal Reserve policymakers were already leaning against delivering a second straight rate hike this month to give them time to sift through more economic data before pulling the trigger again, ...</description>
+      <title>China demands copper supply commitments for Anglo Teck merger approval, Reuters sources say</title>
+      <link>https://www.bnnbloomberg.ca/investing/commodities/2026/10/02/china-demands-copper-supply-commitments-for-anglo-teck-merger-approval-reuters-sources-say/</link>
+      <guid isPermaLink="false">09b96b79216e649e5f81b2b0</guid>
+      <pubDate>Fri, 02 Oct 2026 06:13:00 +0000</pubDate>
+      <description>China’s antitrust regulator has asked Anglo American to commit to supply the country with a steady flow of copper concentrate as a condition for approving its proposed US$54 billion merger with Canada ...</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/economics/2026/10/02/fed-may-skip-october-but-pull-us-rate-hike-trigger-in-december/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/investing/commodities/2026/10/02/china-demands-copper-supply-commitments-for-anglo-teck-merger-approval-reuters-sources-say/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Nike’s struggles test investor confidence in CEO Hill’s turnaround effort</title>
+      <link>https://www.bnnbloomberg.ca/business/company-news/2026/10/02/nikes-struggles-test-investor-confidence-in-ceo-hills-turnaround-effort/</link>
+      <guid isPermaLink="false">86e2c64dbe665bb5b6fd1dde</guid>
+      <pubDate>Fri, 02 Oct 2026 05:34:00 +0000</pubDate>
+      <description>When Nike brought Elliott Hill out of retirement in October 2024, investors hoped the company veteran would quickly reverse years of product missteps, rebuild relationships with wholesalers and ...</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/10/02/nikes-struggles-test-investor-confidence-in-ceo-hills-turnaround-effort/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -170,21 +197,6 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/2026/10/02/us-stocks-rise-toward-their-record-after-the-latest-jobs-report-calms-the-rattled-bond-market/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Swings in the bond market shake stock markets worldwide, as AI optimism supports Wall Street</title>
-      <link>https://www.bnnbloomberg.ca/markets/2026/10/01/tech-stocks-support-wall-street-as-pressure-from-rising-bond-yields-rattles-markets-worldwide/</link>
-      <guid isPermaLink="false">dae8d195d782d6e6ef35f562</guid>
-      <pubDate>Thu, 01 Oct 2026 03:02:00 +0000</pubDate>
-      <description>Strength for artificial-intelligence stocks is helping the U.S. market to hold firmer on Thursday, even as pressure from the bond market continues to rattle financial markets worldwide.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/2026/10/01/tech-stocks-support-wall-street-as-pressure-from-rising-bond-yields-rattles-markets-worldwide/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
