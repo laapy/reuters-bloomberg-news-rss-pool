@@ -1,45 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss version="2.0">
   <channel>
     <title>Investing.com — diagnostic source feed</title>
     <link>https://www.investing.com/rss/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 06 Oct 2026 16:23:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 21:11:00 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>US Senator Warren presses federal housing director to cooperate with probe</title>
-      <link>https://www.investing.com/news/economy-news/us-senator-warren-presses-federal-housing-director-to-cooperate-with-probe-4934950</link>
-      <guid isPermaLink="false">3e30e8d074f90e4a291f0749</guid>
-      <pubDate>Tue, 06 Oct 2026 15:31:00 +0000</pubDate>
-      <description />
-      <dc:creator>Reuters</dc:creator>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>investing_news</wire:foundAt>
-      <wire:platform>Investing.com</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>link_only</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.investing.com/news/economy-news/us-senator-warren-presses-federal-housing-director-to-cooperate-with-probe-4934950</wire:canonicalUrl>
-      <wire:evidence>structured credit: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>Texas AG Paxton probes Fruit of the Loom, Hanes over potential toxic chemicals in children’s underwear</title>
-      <link>https://www.investing.com/news/stock-market-news/texas-ag-paxton-probesfruit-of-the-loom-hanes-over-potential-toxic-chemicals-in-childrens-underwear-4934949</link>
-      <guid isPermaLink="false">6a0c1e4bac35661c3fda1133</guid>
-      <pubDate>Tue, 06 Oct 2026 15:30:46 +0000</pubDate>
-      <description />
-      <dc:creator>Reuters</dc:creator>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>investing_news</wire:foundAt>
-      <wire:platform>Investing.com</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>link_only</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/texas-ag-paxton-probesfruit-of-the-loom-hanes-over-potential-toxic-chemicals-in-childrens-underwear-4934949</wire:canonicalUrl>
-      <wire:evidence>structured credit: Reuters</wire:evidence>
-    </item>
   </channel>
 </rss>
