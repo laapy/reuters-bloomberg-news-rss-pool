@@ -1,25 +1,83 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>BNN Bloomberg — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Abnnbloomberg.ca+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 07 Oct 2026 00:59:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 07:06:05 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>U.S. stocks rise to a record on expectations companies will make even fatter profits</title>
+      <link>https://www.bnnbloomberg.ca/markets/dow-jones/2026/10/06/asian-shares-mostly-advance-after-wall-street-gains-and-oil-prices-fall/</link>
+      <guid isPermaLink="false">dca44c2874a7c5a31cec5cf8</guid>
+      <pubDate>Tue, 06 Oct 2026 20:25:54 +0000</pubDate>
+      <description>Asian shares were mostly higher on Tuesday and U.S. futures advanced after shares rose to near a record close on Wall Street.</description>
+      <dc:creator>The Associated Press</dc:creator>
+      <content:encoded>&lt;p&gt;NEW YORK — The U.S. stock market has never been higher, even though the list of challenges chipping away at it keeps growing. The S&amp;amp;P 500 climbed 0.6 per cent Tuesday to a record after topping its prior all-time high set in August. Despite worries about everything from war to high inflation to pressure from the bond market, the index at the heart of many 401(k) accounts has soared 23 per cent since hitting a bottom in late March. The Dow Jones Industrial Average added 253 points, or 0.5 per cent, while the Nasdaq composite tacked 0.4 per cent onto its own all-time high set the day before. The record-high stock prices are helping investors feel better about their finances, or at least less bad, when Americans are generally feeling discouraged about keeping up with the fast-rising cost of living. Many of the fears that sent the U.S. stock market to its bottom in March have indeed come true. Oil prices are high because of the war with Iran, which has made inflation worse. Yields have cranked higher in the bond market, which threatens to slow the economy by making it more expensive for everyone to borrow money. And Americans broadly say they’re feeling more pessimistic about the economy and where it’s heading. But one vital source of support has remained resolute for the U.S. stock market throughout: the relentless ability for companies to make more money. Lamb Weston, which sells frozen fries and other potato products, said on Tuesday that its profit and revenue during its latest quarter topped its projections, for example. The results also beat analysts’ expectations, and its stock rallied 7.5 per cent. CEO Mike Smith said the company continues to deal with unexpected increases in freight and other expenses. But the company nevertheless raised its forecast for an underlying measure of profit for its full fiscal year. It’s not just potato products proving to be profitable. All kinds of companies are lining up to report soon how much profit they made from July through September, and expectations are high. Delta Air Lines will report its third-quarter results on Friday, with several of the country’s biggest banks headlining the following week. Analysts expect companies in the S&amp;amp;P 500 to deliver overall growth of nearly 30 per cent in earnings per share from a year earlier, according to FactSet. If they’re correct, it would be the third straight quarter of growth better than 25 per cent. That’s crucial because corporate profits are one of the main levers that set prices for stocks, along with interest rates. At the moment, high bond yields are making investors less willing to pay high prices for investments that aren’t bonds. But the simultaneous strength for corporate profits is allowing the market to stay high and “to win the tug-of-war against yields,” according to strategists at Barclays. To be sure, much hinges on companies actually meeting those expectations for fatter profits. If they fail to do so, stock prices could easily fall off their records. Some critics also point to a possible bubble in stocks in the artificial-intelligence industry after how much they soared in the frenzy around the technology. AI stocks have been a huge force driving the U.S. market to records, including Nvidia’s 28.3 per cent surge so far this year. That’s roughly double the broad market’s gain. Constellation Energy jumped 12.2 per cent for one of Tuesday’s biggest gains in the S&amp;amp;P 500 because it’s also riding that rising tide. It announced a long-term deal to supply Google with about as much electricity as a new nuclear reactor makes. The boom in AI data centers has made not just electricity more in demand but also construction crews and materials throughout the economy. Elsewhere on Wall Street, Option Care Health soared 32.6 per cent after CD&amp;amp;R and McKesson said they’re buying the provider of infusion services. The two are paying US$32.05 for each Option Care Health share, valuing it at roughly US$5.8 billion. All told, the S&amp;amp;P 500 rose 44.98 points to 7,818.93. The Dow Jones Industrial Average added 253.38 to 51,521.28, and the Nasdaq composite climbed 122.48 to 27,599.79. Bond yields offered some slack on Tuesday after falling back from their highest levels in years or even decades. The yield on the 10-year Treasury, which is the focal point of the U.S. bond market, eased to 5.28 per cent from 5.31 per cent late Monday. It fell after oil prices steadied themselves somewhat. The price for a barrel of Brent crude oil, the international standard, dropped to roughly US$97 in the morning before pulling back to settle at US$100.58. While that was up 0.3 per cent from Monday’s settlement price, it’s still below the nearly US$110 it was at a few weeks ago. In stock markets abroad, indexes ticked higher in Europe as yields continue to swing in their bond markets amid concerns about high government debts and tight budgets. In France, tens of thousands of demonstrators marched in support of protests by students demanding more funding for schools. In Asia, Japan’s Nikkei 225 jumped 1.1 per cent, and Hong Kong’s Hang Seng climbed 1 per cent, but South Korea’s Kospi dropped 0.9 per cent. ___ Stan Choe, The Associated Press AP Business Writers Chan Ho-him and Matt Ott contributed to this report.&lt;/p&gt;</content:encoded>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/dow-jones/2026/10/06/asian-shares-mostly-advance-after-wall-street-gains-and-oil-prices-fall/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Emera bulks up for power demand boom with $14.3B Canadian Utilities deal</title>
+      <link>https://www.bnnbloomberg.ca/business/company-news/2026/10/06/emera-and-canadian-utilities-to-merge-creating-72b-company/</link>
+      <guid isPermaLink="false">bca4f9288ab1debede863bcd</guid>
+      <pubDate>Tue, 06 Oct 2026 20:19:31 +0000</pubDate>
+      <description>Canadian utility companies Emera and Canadian Utilities said on Tuesday they would merge to create a combined company with an enterprise value of about $72 billion (US$50.46 billion).</description>
+      <dc:creator>Reuters Staff</dc:creator>
+      <content:encoded>&lt;p&gt;Emera said on Tuesday it would buy peer Canadian Utilities for $14.3 billion in stock, strengthening its financial muscle as power companies ramp up investments to tap into booming demand. The deal, which will create one of Canada’s top power providers with an enterprise value of about $72 billion, comes when utilities across North America move ahead with costly upgrades of aging grid and transmission infrastructure. “As demand rises from electrification trends and major infrastructure development, the combined company will be better positioned to help meet growing energy needs,” Emera CEO Scott Balfour, who will lead the combined company, said in a statement. U.S. power firms NextEra Energy and Dominion Energy in May agreed to merge in a $66.8 billion deal amid soaring electricity demand fueled by the rapid expansion of data centers supporting the adoption of AI. Emera said the deal would support a planned $32 billion capital program through 2030, with an expected annual rate-base growth of seven to eight per cent. The combined company will have about six million customers and a presence in high-growth markets through a portfolio of 12 regulated utilities. “Florida and Alberta will become the company’s two largest jurisdictions, representing approximately 45 per cent and 34 per cent respectively,” Balfour said in a conference call. Deal closing in 2027 Under the offer, Class A shareholders of Canadian Utilities, excluding ATCO, will receive 0.755 Emera shares and Class B shareholders will get 0.819 for each share held. The deal values Canadian Utilities’ Class A shares at about $51.57 each, a premium of roughly 0.7 per cent to the stock’s close on Monday, according to LSEG data. Meanwhile, ATCO, which holds nearly 37 per cent of the outstanding non-voting shares and all outstanding voting shares of Canadian Utilities, will separate into a publicly traded industrial services company. Emera shares were down 1.2 per cent, Canadian Utilities rose 1.4 per cent and ATCO jumped 12.8 per cent in morning trading. The deal is expected to close in the third or fourth quarter of 2027 and add to earnings per share in the first full year following the completion. The new company will operate as Emera and maintain its public company headquarters in Halifax. --- Reporting by Katha Kalia in Bengaluru; Editing by Jonathan Ananda and Sriraj Kalluvila&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/10/06/emera-and-canadian-utilities-to-merge-creating-72b-company/</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters Staff</wire:evidence>
+    </item>
     <item>
       <title>Nortera, B&amp;G Foods drop merger attempt after competition watchdog steps in</title>
       <link>https://www.bnnbloomberg.ca/business/company-news/2026/10/06/nortera-bg-foods-drop-merger-attempt-after-competition-watchdog-steps-in/</link>
       <guid isPermaLink="false">a36a307e15abc52cb92030a4</guid>
-      <pubDate>Tue, 06 Oct 2026 13:16:00 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 20:16:52 +0000</pubDate>
       <description>Food giants Nortera and B&amp;G Foods Canada are abandoning their proposed deal after the Competition Bureau sought to block the move.</description>
+      <dc:creator>The Canadian Press</dc:creator>
+      <content:encoded>&lt;p&gt;Food giants Nortera and B&amp;amp;G Foods Canada are abandoning their proposed deal after the Competition Bureau sought to block the move. The two companies say Quebec-based Nortera has halted its bid to buy the Green Giant and Le Sieur brands of canned and frozen vegetables in Canada from New Jersey-based B&amp;amp;G Foods. A Competition Bureau investigation in August found that the acquisition would likely harm competition through higher prices and fewer choices in the wholesale supply of those vegetables, which include freezer staples such as corn and peas. Interim competition commissioner Jeanne Pratt has noted that Nortera is already Canada’s dominant processor of many canned and frozen veggies, which it sells under the Del Monte and Arctic Gardens brands. It has also been the exclusive producer of Green Giant and Le Sieur in Canada for 30 years, announcing in October 2025 a deal to buy the brands outright from B&amp;amp;G. The two companies say B&amp;amp;G Foods will continue to own and operate Green Giant Canada and Nortera will remain its main co-manufacturer. --- This report by The Canadian Press was first published Oct. 6, 2026.&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/10/06/nortera-bg-foods-drop-merger-attempt-after-competition-watchdog-steps-in/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Shoppers to spend less this holiday season, willing to pay more for Canadian goods: PwC</title>
+      <link>https://www.bnnbloomberg.ca/business/economics/2026/10/06/shoppers-to-spend-less-this-holiday-season-willing-to-pay-more-for-canadian-goods-pwc/</link>
+      <guid isPermaLink="false">55519730a975fbe6fc92c156</guid>
+      <pubDate>Tue, 06 Oct 2026 17:29:43 +0000</pubDate>
+      <description>TORONTO — A new report suggests Canadians plan to spend less this holiday season compared with last year, but more than half are willing to pay more for Canadian-made products over imported options.</description>
+      <dc:creator>The Canadian Press</dc:creator>
+      <content:encoded>&lt;p&gt;TORONTO — A new report suggests Canadians plan to spend less this holiday season compared with last year, but more than half are willing to pay more for Canadian-made products over imported options. The report by PwC Canada says 54 per cent of those surveyed say they would choose a more expensive Canadian-made product over a similar imported option, up from 49 per cent last year. The shift comes as the firm’s holiday outlook report says Canadians plan to spend an average of $1,487 this holiday season, down 11 per cent from last year. PwC added that its survey was conducted in July and early August, before the recent escalation in the trade fight with the United States, so the findings may under-represent current Canadian sentiment. Adam Boutros, partner and national consumer markets leader at PwC Canada, says more Canadians than ever want their money to stay in Canada. The report was based on an online survey of 1,016 respondents between July 30 and Aug. 6. The Canadian Research Insights Council, an industry organization that promotes polling standards, says online surveys cannot be assigned a margin of error because they do not randomly sample the population. --- This report by The Canadian Press was first published Oct. 6, 2026.&lt;/p&gt;</content:encoded>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/economics/2026/10/06/shoppers-to-spend-less-this-holiday-season-willing-to-pay-more-for-canadian-goods-pwc/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -53,33 +111,18 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Older Canadians less confident in their retirement finances: BlackRock survey</title>
-      <link>https://www.bnnbloomberg.ca/business/economics/2026/10/06/older-canadians-less-confident-in-their-retirement-finances-blackrock-survey/</link>
-      <guid isPermaLink="false">6657a9cde249610c3a97a7a6</guid>
-      <pubDate>Tue, 06 Oct 2026 12:18:00 +0000</pubDate>
-      <description>A new survey from BlackRock finds that Canadians who are closer to retirement age appear to be less confident about their plans compared with younger people.</description>
+      <title>Quantum BioPharma Signs Contract with Thermo Fisher Scientific’s Clinical Research Business to Implement Phase 2 Lucid-MS Trial in Multiple Sclerosis</title>
+      <link>https://www.bnnbloomberg.ca/press-releases/2026/10/06/quantum-biopharma-signs-contract-with-thermo-fisher-scientifics-clinical-research-business-to-implement-phase-2-lucid-ms-trial-in-multiple-sclerosis/</link>
+      <guid isPermaLink="false">a0eac8447ed2694581aacedd</guid>
+      <pubDate>Tue, 06 Oct 2026 06:39:00 +0000</pubDate>
+      <description>Quantum BioPharma Ltd. (NASDAQ: QNTM) (FRA: 0K91) (“Quantum BioPharma”), a biopharmaceutical company focused on developing innovative therapies and technologies, today announced that it has entered in ...</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/economics/2026/10/06/older-canadians-less-confident-in-their-retirement-finances-blackrock-survey/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Shoppers to spend less this holiday season, willing to pay more for Canadian goods: PwC</title>
-      <link>https://www.bnnbloomberg.ca/business/economics/2026/10/06/shoppers-to-spend-less-this-holiday-season-willing-to-pay-more-for-canadian-goods-pwc/</link>
-      <guid isPermaLink="false">55519730a975fbe6fc92c156</guid>
-      <pubDate>Tue, 06 Oct 2026 07:08:00 +0000</pubDate>
-      <description>TORONTO — A new report suggests Canadians plan to spend less this holiday season compared with last year, but more than half are willing to pay more for Canadian-made products over imported options.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/economics/2026/10/06/shoppers-to-spend-less-this-holiday-season-willing-to-pay-more-for-canadian-goods-pwc/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/press-releases/2026/10/06/quantum-biopharma-signs-contract-with-thermo-fisher-scientifics-clinical-research-business-to-implement-phase-2-lucid-ms-trial-in-multiple-sclerosis/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -98,18 +141,18 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Emera bulks up for power demand boom with $14.3B Canadian Utilities deal</title>
-      <link>https://www.bnnbloomberg.ca/business/company-news/2026/10/06/emera-and-canadian-utilities-to-merge-creating-72b-company/</link>
-      <guid isPermaLink="false">bca4f9288ab1debede863bcd</guid>
-      <pubDate>Tue, 06 Oct 2026 04:31:00 +0000</pubDate>
-      <description>Canadian utility companies Emera and Canadian Utilities said on Tuesday they would merge to create a combined company with an enterprise value of about $72 billion (US$50.46 billion).</description>
+      <title>Quebecers breathing a ‘big sigh of relief’ that the PQ did not earn a majority government: Mulcair</title>
+      <link>https://www.bnnbloomberg.ca/video/economics/2026/10/06/quebecers-breathing-a-big-sigh-of-relief-that-the-pq-did-not-earn-a-majority-government-mulcair/</link>
+      <guid isPermaLink="false">fd504407d71682c676d847cd</guid>
+      <pubDate>Tue, 06 Oct 2026 04:57:00 +0000</pubDate>
+      <description>CTV News’ Political Commentator Tom Mulcair on what a PQ victory means for the relationship with Ottawa and how it will change Quebec’s political landscape.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/10/06/emera-and-canadian-utilities-to-merge-creating-72b-company/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/10/06/quebecers-breathing-a-big-sigh-of-relief-that-the-pq-did-not-earn-a-majority-government-mulcair/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -155,36 +198,6 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/the-street/2026/10/06/toronto-condo-prices-hit-six-year-low/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>U.S. stocks rise to a record on expectations companies will make even fatter profits</title>
-      <link>https://www.bnnbloomberg.ca/markets/dow-jones/2026/10/06/asian-shares-mostly-advance-after-wall-street-gains-and-oil-prices-fall/</link>
-      <guid isPermaLink="false">dca44c2874a7c5a31cec5cf8</guid>
-      <pubDate>Tue, 06 Oct 2026 02:37:00 +0000</pubDate>
-      <description>Asian shares were mostly higher on Tuesday and U.S. futures advanced after shares rose to near a record close on Wall Street.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/dow-jones/2026/10/06/asian-shares-mostly-advance-after-wall-street-gains-and-oil-prices-fall/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Quebecers breathing a ‘big sigh of relief’ that the PQ did not earn a majority government: Mulcair</title>
-      <link>https://www.bnnbloomberg.ca/video/economics/2026/10/06/quebecers-breathing-a-big-sigh-of-relief-that-the-pq-did-not-earn-a-majority-government-mulcair/</link>
-      <guid isPermaLink="false">fd504407d71682c676d847cd</guid>
-      <pubDate>Mon, 05 Oct 2026 21:41:00 +0000</pubDate>
-      <description>CTV News’ Political Commentator Tom Mulcair on what a PQ victory means for the relationship with Ottawa and how it will change Quebec’s political landscape.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/10/06/quebecers-breathing-a-big-sigh-of-relief-that-the-pq-did-not-earn-a-majority-government-mulcair/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
