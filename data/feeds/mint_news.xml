@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Mint — diagnostic source feed</title>
     <link>https://www.livemint.com/rss/news</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 07 Oct 2026 20:29:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 00:25:50 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>US Forces in Okinawa Face Curfew After Marine’s Arrest</title>
+      <link>https://www.livemint.com/news/us-news/us-forces-in-okinawa-face-curfew-after-marine-s-arrest-11791415922022.html</link>
+      <guid isPermaLink="false">6e17a7c37efbb5d17e8a9e2b</guid>
+      <pubDate>Wed, 07 Oct 2026 23:32:01 +0000</pubDate>
+      <description>The US Forces in Okinawa paused operations for 48 hours starting at noon on Wednesday and imposed a month-long curfew on military personnel, following the arrest of a US Marine on suspicion of murdering a Japanese woman.</description>
+      <dc:creator>list.metadata.agency</dc:creator>
+      <content:encoded>&lt;p&gt;(Bloomberg) -- The US Forces in Okinawa paused operations for 48 hours starting at noon on Wednesday and imposed a month-long curfew on military personnel, following the arrest of a US Marine on suspicion of murdering a Japanese woman.US military personnel on Japan’s southernmost island of Okinawa will cease operations to undergo training on standards and discipline and will be prohibited from leaving their bases to socialize or from consuming alcohol, according to a statement.“Serving on Okinawa comes with responsibility,” the statement read. “Every interaction with our neighbors either builds or undermines the trust that is essential to our team. When that trust is damaged, it affects the strength of our alliance and the security of this region.”Following the operational pause, military personnel will be subject to a midnight curfew for a 30-day period, the statement added.Local police arrested a 20-year-old US serviceman on suspicion of killing 39-year-old Anna Yagi early Saturday at a hotel in the city of Naha. National broadcaster NHK said the serviceman denied the charges, citing police investigators.The incident threatens to reignite local opposition to the US military presence on Okinawa, where around 30,000 American service members are based. The rape of a 12-year-old Okinawan girl by three US troops in 1995 triggered major protests, and serious crimes involving US military personnel since then have periodically stoked opposition to the American military presence on the island.Ahead of a meeting Wednesday with Okinawa Governor Genta Koja, Japanese Prime Minister Sanae Takaichi offered condolences to the bereaved family and said her government had lodged a strong protest with Washington. Japan demanded full cooperation with the investigation, strict disciplinary action against US military personnel, thorough measures to prevent a recurrence of such incidents, and appropriate support for the victim’s family, she said.“As a result, the US side announced new measures,” Takaichi said. “We understand that the US side intends to further scrutinize its code of conduct going forward.”Koja earlier met with Defense Minister Shinjiro Koizumi and Foreign Minister Toshimitsu Motegi in Tokyo. Ahead of those meetings, Koja said, “This is the result of a failure of human rights training by the US military, given this happened despite repeated requests from the Okinawan side to ensure similar cases are prevented.”Koja became governor only last month after a campaign in which the long-running dispute over US bases took a back seat to other issues.“I feel deep frustration that such a heinous and deplorable crime has occurred, and an American serviceman was arrested in connection to it,” Koizumi said. “I hope to push forward discussions between Japan and the US on what measures will be effective in preventing such cases in the future.”(Adds meeting between Okinawa Governor Koja and Takaichi.)More stories like this are available on bloomberg.com©2026 Bloomberg L.P.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>mint_news</wire:foundAt>
+      <wire:platform>Mint</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.livemint.com/news/us-news/us-forces-in-okinawa-face-curfew-after-marine-s-arrest-11791415922022.html</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: ©2026 Bloomberg</wire:evidence>
+    </item>
   </channel>
 </rss>
