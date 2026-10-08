@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Amarketscreener.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 08 Oct 2026 00:25:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 06:33:08 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Trump says he may ask FBI to look into Nolan Wells death</title>
@@ -128,6 +128,21 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
+      <title>Microsoft revamps Copilot with code generation, agentic AI tools</title>
+      <link>https://www.marketscreener.com/news/microsoft-revamps-copilot-with-code-generation-agentic-ai-tools-ce785adfdf88f32c</link>
+      <guid isPermaLink="false">4e65bd3c64c3d2694efc1fe7</guid>
+      <pubDate>Fri, 25 Sep 2026 02:20:00 +0000</pubDate>
+      <description>Microsoft on Friday unveiled several new capabilities in its Copilot app, including a coding tool and an always-on AI agent, as the software giant seeks to transform its AI assistant into a one-stop ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/microsoft-revamps-copilot-with-code-generation-agentic-ai-tools-ce785adfdf88f32c</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
       <title>US, Iran Said to Be Exploring Phased Hormuz Deal</title>
       <link>https://www.marketscreener.com/news/us-iran-said-to-be-exploring-phased-hormuz-deal-ce785adfdd8dff24</link>
       <guid isPermaLink="false">42d4be6211ea9fc4d71f8161</guid>
@@ -170,21 +185,6 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.marketscreener.com/news/latest/Drug-developer-City-Therapeutics-files-for-US-IPO-as-biotech-listings-surge--12215290/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>White House reinstates access to CNN, MS NOW and Politico following judge's order</title>
-      <link>https://www.marketscreener.com/news/politico-ms-now-denied-access-to-white-house-after-judge-s-order-ce785adede8af42c</link>
-      <guid isPermaLink="false">69b79801364490b4830a0174</guid>
-      <pubDate>Thu, 24 Sep 2026 05:35:00 +0000</pubDate>
-      <description>WASHINGTON, Sept 24 (Reuters) - Politico and MS NOW reporters were barred from the White House on Thursday despite a judge's order calling for access to be restored immediately for journalists from ...</description>
-      <wire:foundAt>marketscreener_discovery</wire:foundAt>
-      <wire:platform>MarketScreener</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/news/politico-ms-now-denied-access-to-white-house-after-judge-s-order-ce785adede8af42c</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
