@@ -1,11 +1,222 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>TBS NEWS DIG — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Anewsdig.tbs.co.jp+%28Reuters+OR+Bloomberg+OR+%E3%83%AD%E3%82%A4%E3%82%BF%E3%83%BC+OR+%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%90%E3%83%BC%E3%82%B0%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 08 Oct 2026 20:04:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 00:37:28 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>【ミュトス級のサイバー能力なのに悪用対策が緩い】AIを“ちょっと騙す”だけで攻撃に使える／中国AI「GLM-5.3」の脅威／相次ぐ ...</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3000439?display=1</link>
+      <guid isPermaLink="false">f6da0afaac874285733348fe</guid>
+      <pubDate>Thu, 08 Oct 2026 22:00:00 +0000</pubDate>
+      <description>最先端のテックストーリーをわかりやすくお届けする番組「1on1 Tech」 今回のテーマは【AIが引き起こす“サイバー攻撃地獄”】です。 日本企業で相次ぐ不正アクセスや個人情報の漏洩。 その背後に、AIの進化は関係しているのでしょうか？ Claude Fable 5.1・GPT-6 Astraなどの最新モデルでは悪用を防ぐ対策が進む一方、強力なサイバー攻撃能力を持ちながら、歯止めが弱い中国AI「G ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;2026.10.07
+【多様化する社会で複雑になる管理職の重圧】仕事の意欲がなくなる日々の違和感／リーダー×女性×家庭の「こうあるべき」の呪縛から離れることで自分らしく働ける／管理職支援のプロ・丹下恵里【1on1】&lt;/p&gt;</content:encoded>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3000439?display=1</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>フランス国債急落、危機波及の兆し－それでもECBが介入に慎重な理由</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3000538</link>
+      <guid isPermaLink="false">6a28be7be43f71d0192a44ce</guid>
+      <pubDate>Thu, 08 Oct 2026 17:56:00 +0000</pubDate>
+      <description>（ブルームバーグ）：フランス国債が急落したことを受け、2009－2015年に欧州全域へと波及したソブリン債務危機の記憶が呼び覚まされている。市場の関心は今、欧州中央銀行（ECB）がどのように対応するかに移りつ… ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;1時間前
+香港とシンガポール、金取引のハブ目指す－中国との関係は是か非か&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3000538</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>グーグル、Geminiの職場向け「汎用型」エージェント発表</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3000481</link>
+      <guid isPermaLink="false">ebde384dbca3515ef5565ec5</guid>
+      <pubDate>Thu, 08 Oct 2026 14:55:00 +0000</pubDate>
+      <description>（ブルームバーグ）：アルファベット傘下のグーグルは8日、AIモデル「Gemini（ジェミニ）」の職場向け「汎用型」エージェントを発表した。法人顧客の獲得を巡り、OpenAIやアンソロピック、マイクロソフトとの競争… ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;1時間前
+香港とシンガポール、金取引のハブ目指す－中国との関係は是か非か&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3000481</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>米株下落、原油価格の急伸が市場を揺らす－短期債利回りは上昇</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3000507</link>
+      <guid isPermaLink="false">9a772d26068ef763959a94c5</guid>
+      <pubDate>Thu, 08 Oct 2026 14:54:00 +0000</pubDate>
+      <description>（ブルームバーグ）：8日午前の米株式相場は下落。原油価格の上昇が世界の金融市場に波及している。エネルギー高がインフレを押し上げ、米連邦準備制度理事会（FRB）に利上げを迫るとの懸念から、債券相場では不安… ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;1時間前
+香港とシンガポール、金取引のハブ目指す－中国との関係は是か非か&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3000507</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>米新規失業保険申請、小幅減で7月以来の低水準－レイオフなお限定的</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3000510</link>
+      <guid isPermaLink="false">43859b053a86eb111478850f</guid>
+      <pubDate>Thu, 08 Oct 2026 13:43:00 +0000</pubDate>
+      <description>（ブルームバーグ）：先週の米新規失業保険申請件数は小幅に減少し、7月以来の低水準となった。雇用市場全般でレイオフが引き続き限定的であることが示唆された。新規失業保険申請件数（10月3日終了週）は、前週比2… ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;1時間前
+香港とシンガポール、金取引のハブ目指す－中国との関係は是か非か&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3000510</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>香港とシンガポール、金取引のハブ目指す－中国との関係は是か非か</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3000584</link>
+      <guid isPermaLink="false">5bc825361b609984745846b6</guid>
+      <pubDate>Thu, 08 Oct 2026 11:13:00 +0000</pubDate>
+      <description>（ブルームバーグ）：香港とシンガポールが今週、アジアの金トレーディングの中心地となる計画をイタリアでの業界会議でそれぞれアピールした。新規ビジネスの獲得競争が激しさを増す中で、旺盛な金需要を取り込も… ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3000584</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>EU、対中貿易で強硬姿勢打ち出す－輸入上限導入なら中国が報復も</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3000014</link>
+      <guid isPermaLink="false">445c581db9ff464155524bf0</guid>
+      <pubDate>Thu, 08 Oct 2026 11:02:00 +0000</pubDate>
+      <description>（ブルームバーグ）：欧州連合（EU）の通商担当トップ、欧州委員会のシェフチョビッチ委員は北京を今週訪れ、中国の王文濤商務相との協議に臨む。EUは経済に打撃を与える貿易戦争の回避を目指す一方で、中国に対し… 身近に広がるサイバー攻撃によるシステム障害 冷凍食品から保育園にも… ニッスイの物流拠点停止で約1200社に影響相次ぐ情報漏えいに政府も対策 ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3000014</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>セブン&amp;アイの北米事業、客離れは止まず－ガソリン高で持ち直しも</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3000020</link>
+      <guid isPermaLink="false">6f926210eee0e3a581a8ab42</guid>
+      <pubDate>Thu, 08 Oct 2026 09:43:00 +0000</pubDate>
+      <description>（ブルームバーグ）：セブン＆アイ・ホールディングスの6－8月期（第2四半期）決算で、北米コンビニ事業を担うセブン－イレブン・インク（SEI）の営業利益が前年同期比25％増の1210億円となった。米イラン戦争によ… ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3000020</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>池上通信機が中間決算発表を延期、不正アクセスで手続きに遅れ</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2999622</link>
+      <guid isPermaLink="false">588155ecdc6323e9f9a8f369</guid>
+      <pubDate>Thu, 08 Oct 2026 09:12:00 +0000</pubDate>
+      <description>（ブルームバーグ）：池上通信機は8日、2027年3月期第2四半期（中間期）決算発表を延期すると発表した。9月に公表した不正アクセスで主要な社内システムを停止しており、決算と監査法人のレビュー手続きが遅れてい… ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2999622</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>ハーバード大など名門9校をビザ問題で調査-米政権、外国人材締め付け</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3000539</link>
+      <guid isPermaLink="false">6c6b9f9b9e27403126ebb715</guid>
+      <pubDate>Thu, 08 Oct 2026 07:24:00 +0000</pubDate>
+      <description>（ブルームバーグ）：トランプ米政権は、ハーバード大学、スタンフォード大学、マサチューセッツ工科大学（MIT）など米国の名門9大学を対象に、外国人向け交流訪問者ビザ制度の利用実態について調査を開始する。米… エヌビディア支援の豪ファーマス、IPO延期へ－調達ラウンドを協議 ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3000539</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>米、生産過剰への対処で日本など14カ国・地域と連携－貿易相共同声明</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2998891</link>
+      <guid isPermaLink="false">e33db13ee880738301de1500</guid>
+      <pubDate>Thu, 08 Oct 2026 06:44:00 +0000</pubDate>
+      <description>（ブルームバーグ）：米国は、特定分野での過剰生産能力や過剰生産に対処することを日本を含む14の国・地域と共に表明した。こうした問題を巡り、トランプ政権は同貿易相手国・地域の一部に制裁措置を講じることも… プルデンシャル生命社長らの“報酬の一部自主返納”を発表 顧客からの金銭詐取問題めぐり 営業社員には最低保証給など導入 ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2998891</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>エヌビディア支援の豪ファーマス、IPO延期へ－調達ラウンドを協議</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3000528</link>
+      <guid isPermaLink="false">4ad49ef28be4865590bc46ef</guid>
+      <pubDate>Thu, 08 Oct 2026 06:15:00 +0000</pubDate>
+      <description>（ブルームバーグ）：オーストラリアのデータセンター運営会社ファーマス・グリッドは、新規株式公開（IPO）を延期する見通しだ。事情に詳しい関係者が匿名を条件に明らかにした。エヌビディアの支援を受ける同社… ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3000528</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
   </channel>
 </rss>
