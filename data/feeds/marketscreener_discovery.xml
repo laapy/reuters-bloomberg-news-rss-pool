@@ -1,11 +1,191 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>MarketScreener — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Amarketscreener.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Fri, 09 Oct 2026 14:31:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 20:03:45 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Consensus S&amp;P Global, Inc.</title>
+      <link>https://www.marketscreener.com/quote/stock/S-P-GLOBAL-INC-27377749/consensus/</link>
+      <guid isPermaLink="false">cdbf12a8981758f80ade1369</guid>
+      <pubDate>Fri, 09 Oct 2026 00:52:00 +0000</pubDate>
+      <description>Oct. 07 S&amp;P Global, Moody's Face Weak Debt Issuance in Q3, Morgan Stanley Says MT Oct. 07 Morgan Stanley Adjusts S&amp;P Global Price Target to $477 From $525, Maintains Overweight Rating MT Oct. 05 ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/S-P-GLOBAL-INC-27377749/consensus/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Quotes Brookfield Infrastructure Partners L.P. Toronto S.E.</title>
+      <link>https://www.marketscreener.com/quote/stock/BROOKFIELD-INFRASTRUCTURE-807081/quotes/9464485</link>
+      <guid isPermaLink="false">1c6506a8eda111a832f4cfab</guid>
+      <pubDate>Fri, 09 Oct 2026 00:40:00 +0000</pubDate>
+      <description>Jul. 31 Brookfield Infrastructure Said to Consider $5 Billion Sale of NorthRiver Midstream MT Jul. 31 Brookfield Infrastructure Said to Consider $5 Billion Sale of NorthRiver Midstream, Reuters ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/BROOKFIELD-INFRASTRUCTURE-807081/quotes/9464485</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>North Carolina reports first flu death of 2026-27 season</title>
+      <link>https://www.marketscreener.com/news/north-carolina-reports-first-flu-death-of-2026-27-season-ce785ddfdb81f324</link>
+      <guid isPermaLink="false">15a4cfad6ab4e2d307007c21</guid>
+      <pubDate>Thu, 08 Oct 2026 07:43:00 +0000</pubDate>
+      <description>North Carolina health officials said on Thursday that an adult in the central part of the state has died from flu-related complications, marking the state's first influenza death of the 2026-27 ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/north-carolina-reports-first-flu-death-of-2026-27-season-ce785ddfdb81f324</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Nvidia-backed Firmus scraps $5 billion Australia IPO amid growing AI scrutiny</title>
+      <link>https://www.marketscreener.com/news/australian-nvidia-backed-ai-data-centre-operator-firmus-shelves-ipo-ce785ddfdc8df725</link>
+      <guid isPermaLink="false">8664cccc1cbe2778440c61ea</guid>
+      <pubDate>Thu, 08 Oct 2026 01:01:00 +0000</pubDate>
+      <description>Australia's Nvidia-backed AI data centre operator Firmus shelved its initial public offering citing recent market volatility, and will opt for a private fundraising round, the company said in a ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/australian-nvidia-backed-ai-data-centre-operator-firmus-shelves-ipo-ce785ddfdc8df725</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Trump says he may ask FBI to look into Nolan Wells death</title>
+      <link>https://www.marketscreener.com/news/trump-says-he-may-ask-fbi-to-look-into-nolan-wells-death-ce785ddedd8bf020</link>
+      <guid isPermaLink="false">b02bf982659b7197926f4537</guid>
+      <pubDate>Wed, 07 Oct 2026 12:04:00 +0000</pubDate>
+      <description>WASHINGTON, Oct 7 (Reuters) - US President Donald Trump on Wednesday said he was considering asking the FBI to look into the death of an 18-year-old Black man whose body was found on a Mississippi ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/trump-says-he-may-ask-fbi-to-look-into-nolan-wells-death-ce785ddedd8bf020</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Australia shares poised to open higher, NZ flat</title>
+      <link>https://www.marketscreener.com/news/australia-shares-poised-to-open-higher-nz-flat-ce785dd8dd8bf320</link>
+      <guid isPermaLink="false">d3d42e993b615eecdf983b8d</guid>
+      <pubDate>Mon, 05 Oct 2026 14:29:00 +0000</pubDate>
+      <description>Australian shares were set to open higher on Tuesday, with higher copper and gold prices expected to boost miners, while weaker oil prices were likely to weigh on energy firms. The local share ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/australia-shares-poised-to-open-higher-nz-flat-ce785dd8dd8bf320</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>French and Benelux stocks-Factors to watch</title>
+      <link>https://www.marketscreener.com/news/french-and-benelux-stocks-factors-to-watch-ce785ddbdf8cf320</link>
+      <guid isPermaLink="false">a81d452ecb719ef96fef5dfc</guid>
+      <pubDate>Sun, 04 Oct 2026 21:32:00 +0000</pubDate>
+      <description>Below are company-related news and stories from France and Benelux which could have an impact on the region's markets or individual stocks. FRANCE/PROTEST: The ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/french-and-benelux-stocks-factors-to-watch-ce785ddbdf8cf320</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Major drugmakers turn to China for licensing deals</title>
+      <link>https://www.marketscreener.com/news/major-drugmakers-turn-to-china-for-licensing-deals-ce785ddade89f620</link>
+      <guid isPermaLink="false">6c8e5c98c7539b74ead1eb11</guid>
+      <pubDate>Fri, 02 Oct 2026 02:52:00 +0000</pubDate>
+      <description>Novartis, Abogen Sign RNA Licensing Agreement Worth up to $7.2 Billion MT 04:14am Novartis, Abogen Sign RNA Therapeutics Deal With $575 Million Upfront, Up to $7.2 Billion in Milestones MT 03:58am ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/major-drugmakers-turn-to-china-for-licensing-deals-ce785ddade89f620</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Vietnam extends fuel tax relief measures until end-2026</title>
+      <link>https://www.marketscreener.com/news/vietnam-extends-fuel-tax-relief-measures-until-end-2026-ce785ad3da80f623</link>
+      <guid isPermaLink="false">6f0525d6924c4dc6105e1721</guid>
+      <pubDate>Wed, 30 Sep 2026 20:20:00 +0000</pubDate>
+      <description>Vietnam is extending a package of fuel-tax relief measures to the end of 2026, after having introduced them earlier this year to help stabilise the domestic market amid supply concerns due to war ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/vietnam-extends-fuel-tax-relief-measures-until-end-2026-ce785ad3da80f623</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Swiss stocks - Factors to watch on September 30</title>
+      <link>https://www.marketscreener.com/news/swiss-stocks-factors-to-watch-on-september-30-ce785ad2da8af72c</link>
+      <guid isPermaLink="false">6f8bf98bab133249f35ed9f4</guid>
+      <pubDate>Tue, 29 Sep 2026 21:52:00 +0000</pubDate>
+      <description>Here are some of the main factors that may affect Swiss stocks on Wednesday: COMPANY STATEMENTS RIETER HOLDING AG Company says CEO ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/swiss-stocks-factors-to-watch-on-september-30-ce785ad2da8af72c</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Dutch 'reformed hacker' arrested in ShinyHunters investigation, police and ex-boss say</title>
+      <link>https://www.marketscreener.com/news/amsterdam-man-arrested-in-shinyhunters-hacking-investigation-police-say-ce785adcd18ef224</link>
+      <guid isPermaLink="false">571e47c587122878184d0306</guid>
+      <pubDate>Mon, 28 Sep 2026 10:54:00 +0000</pubDate>
+      <description>AMSTERDAM, Sept 28 (Reuters) - A 24-year-old man from Amsterdam was arrested earlier this month as part of an investigation into the hacker group ShinyHunters, Dutch police said on Monday. The man ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/amsterdam-man-arrested-in-shinyhunters-hacking-investigation-police-say-ce785adcd18ef224</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Trump Xi Summit Leaves Big Issues Unresolved</title>
+      <link>https://www.marketscreener.com/news/trump-xi-summit-leaves-big-issues-unresolved-ce785adcda80f324</link>
+      <guid isPermaLink="false">32cb499f27532eed5a2e1593</guid>
+      <pubDate>Mon, 28 Sep 2026 01:26:00 +0000</pubDate>
+      <description>Bloomberg North Asia correspondent Stephen Engle tells Bloomberg This Weekend that President Donald Trump and Chinese President Xi Jinping bought more time to negotiate over trade while major ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/trump-xi-summit-leaves-big-issues-unresolved-ce785adcda80f324</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
   </channel>
 </rss>
