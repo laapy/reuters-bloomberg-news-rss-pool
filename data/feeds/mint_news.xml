@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Mint — diagnostic source feed</title>
     <link>https://www.livemint.com/rss/news</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 10 Oct 2026 12:54:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 17:45:13 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Putin informs Trump Iran's position on peace deal, reports Kremlin; what has Tehran proposed?</title>
+      <link>https://www.livemint.com/news/world/putin-tells-trump-irans-position-on-peace-deal-says-kremlin-what-has-tehran-proposed-11791644793307.html</link>
+      <guid isPermaLink="false">137cec66cbd72f10e097a735</guid>
+      <pubDate>Sat, 10 Oct 2026 15:29:52 +0000</pubDate>
+      <description>The Kremlin did not disclose the details of Iran’s position or say how Trump responded to the message. It also did not provide further information on the possible terms of a settlement.</description>
+      <dc:creator>Ravi Hari</dc:creator>
+      <content:encoded>&lt;p&gt;Russian President Vladimir Putin has conveyed Iran’s position on a possible resolution to the US-Iran conflict to US President Donald Trump, the Kremlin said on Saturday, October 10, as diplomatic efforts to end the war remain stalled.Kremlin spokesman Dmitry Peskov said Putin relayed Tehran’s views during a phone call with Trump on Friday, in coordination with Iranian President Masoud Pezeshkian, Reuters reported, citing Russia’s Interfax news agency.“In coordination with the president of Iran, Putin conveyed to Trump the Iranian side’s view on a possible resolution of the conflict,” Peskov was quoted as saying.The Kremlin did not disclose the details of Iran’s position or say how Trump responded to the message. It also did not provide further information on the possible terms of a settlement.Putin offers to help broker US-Iran peace dealPutin’s latest outreach comes amid a prolonged diplomatic impasse over the conflict, which began with US-Israeli strikes on Iran in February.Earlier this week, Putin met Pezeshkian on the sidelines of a summit in Turkmenistan. During the meeting, the Russian leader expressed Moscow’s interest in helping broker peace, signalling a possible diplomatic role for Russia in efforts to end the hostilities.However, it remains unclear whether Putin’s communication with Trump will lead to renewed negotiations or a breakthrough in the stalled peace process.Why have US-Iran peace talks stalled?Efforts to end the conflict have been at an impasse since the summer, despite an earlier understanding between Washington and Tehran.The United States and Iran agreed to a memorandum of understanding in June that outlined a framework for ending the conflict. However, Iranian attacks on ships in the Strait of Hormuz prompted a resumption of US military operations, undermining the diplomatic effort.More recent indirect talks between Washington and Tehran, held on the sidelines of the United Nations General Assembly, failed to produce a breakthrough.(With AFP, Reuters inputs)&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>mint_news</wire:foundAt>
+      <wire:platform>Mint</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.livemint.com/news/world/putin-tells-trump-irans-position-on-peace-deal-says-kremlin-what-has-tehran-proposed-11791644793307.html</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Reuters reported</wire:evidence>
+    </item>
   </channel>
 </rss>
