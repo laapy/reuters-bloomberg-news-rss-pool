@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>The Economic Times — diagnostic source feed</title>
     <link>https://economictimes.indiatimes.com/rssfeedsdefault.cms</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Fri, 09 Oct 2026 20:03:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 00:16:45 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>US stocks: US market posts weekly gains with earnings, inflation data on tap</title>
+      <link>https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-posts-weekly-gains-with-earnings-inflation-data-on-tap/articleshow/134842368.cms</link>
+      <guid isPermaLink="false">1465ee11f23650d614353ccf</guid>
+      <pubDate>Fri, 09 Oct 2026 20:09:00 +0000</pubDate>
+      <description>Wall Street finished strong on Friday, fueled by optimism ahead of the third-quarter earnings reports from major players like Wells Fargo and Goldman Sachs. Analysts predict a notable growth in S&amp;P 500 earnings year-over-year, even as worries about consumer sentiment loom. Oil prices dipped initially due to conflicting US-Iran news but later recovered. Moreover, significant companies such as Delta Air Lines and Apple reported hurdles impacting their respective stock performances.</description>
+      <dc:creator>ETMarkets.com</dc:creator>
+      <content:encoded>&lt;p&gt;Wall Street ended higher on Friday as investors shifted their focus to next week, with third-quarter earnings season set to start and inflation data expected, which could shed light on the Federal Reserve&amp;#x27;s next policy decision, Reuters reported.The S&amp;amp;P 500 gained 46.35 points, or 0.60%, to end at 7,811.71 points, while the Nasdaq Composite gained 172.83 points, or 0.64%, to 27,365.00. The Dow Jones Industrial Average rose 429.90 points, or 0.84%, to 51,661.54.The three major indexes pared earlier gains after crude oil reversed its decline and Treasury yields resumed their climb.“It’s the kind of back-and-forth market we’ve been in where we have the reversal of sentiment around Iran,” Ross Mayfield, investment strategy analyst at Baird in Louisville, Kentucky told Reuters. “With conflicting headlines coming out of the White House and parties in the Middle East, there’s just no edge there.”“That’s why it’s a fairly tepid rally,” Mayfield added.Oil prices initially fell after President Donald Trump said the United States would not attack Iran before the midterm elections. He also described talks between Washington and Tehran aimed at ending the conflict as “productive.”Long-term Treasury yields edged higher, although the benchmark 10-year yield remained below the 24-year high reached on Wednesday.Banks prepare to report earningsThe third-quarter earnings season begins in earnest next week, with major US banks including Wells Fargo, Goldman Sachs, Citigroup, JPMorgan Chase, Bank of America and Morgan Stanley scheduled to report results.Analysts expect aggregate S&amp;amp;P 500 earnings to rise 30.6% year over year in the July-September quarter, according to LSEG data. Energy and technology are projected to lead growth, with profits forecast to jump 123% and 66.5%, respectively.US consumer sentiment weakened this month, according to the University of Michigan. Near-term expectations fell to a record low, highlighting growing concerns among consumers, whose spending drives about 70% of the US economy.AI-linked momentum stocks broadly gained as the US bull market, driven largely by enthusiasm around artificial intelligence, approached its fourth anniversary.“Chips have been this year’s story,” said Michael Monaghan, portfolio manager at Founder ETFs in Dallas. “(It’s) a multidecade technological change and just at the beginning of whatever’s happening, not at the end.”SpaceX agreed to acquire a nationwide portfolio of low-band spectrum, mounting a direct challenge to established US wireless companies. T-Mobile US, AT&amp;amp;T and Verizon ended sharply lower.Humana jumped after US government data showed that 95% of the health insurer’s members were enrolled in Medicare Advantage plans rated four stars or higher for 2027.Apple declined after a media report said the company had asked some suppliers to reduce production of components for its newly launched iPhone 18 Pro and iPhone 18 Pro Max. Rising memory-chip costs and price increases were reportedly weighing on consumer demand.Delta Air Lines also fell after cutting its annual profit forecast.(Disclaimer: This article is based on inputs from agencies. These do not represent the views of The Economic Times)&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>economic_times</wire:foundAt>
+      <wire:platform>The Economic Times</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-posts-weekly-gains-with-earnings-inflation-data-on-tap/articleshow/134842368.cms</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Reuters reported</wire:evidence>
+    </item>
   </channel>
 </rss>
