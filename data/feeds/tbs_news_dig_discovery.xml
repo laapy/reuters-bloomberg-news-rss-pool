@@ -1,97 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>TBS NEWS DIG — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Anewsdig.tbs.co.jp+%28Reuters+OR+Bloomberg+OR+%E3%83%AD%E3%82%A4%E3%82%BF%E3%83%BC+OR+%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%90%E3%83%BC%E3%82%B0%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 11 Oct 2026 00:24:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 06:16:17 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>「俺を誰だと…」カスハラの正体と権威の錯覚</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2989348?page=4</link>
-      <guid isPermaLink="false">431545912f593e6ab72a5d0b</guid>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-      <description>カスハラの2つの方向性－「権威の持ち出し」と「権威の借用」－ 一方で、逆のケースも考えられる。必ずしも、会社で高い地位にあったり、周囲を動かせる実資本を持っていたりする人だけが、カスタマーハラスメントに向かうわけではない。むしろ日常生活では十分な権限を持たず、職場では上司の指示に従い、家庭や人間関係の中でも自分の意見が通りにくいなど、普段は「動かされる側」にいる人が、「客」という立場を得た瞬間に、 ...</description>
-      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;2時間前
-日本にいるのに“時差ぼけ”　現代人をを悩ます「ソーシャル・ジェットラグ」とは&lt;/p&gt;</content:encoded>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2989348?page=4</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>「106万円撤廃」と「130万円緩和」で変わるパート雇用最低賃金上昇で接近する“2つの”壁</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2989337</link>
-      <guid isPermaLink="false">9969a9f6c615ea5de2de6420</guid>
-      <pubDate>Sat, 10 Oct 2026 23:00:00 +0000</pubDate>
-      <description>■要旨・最低賃金の上昇により、政府はパートの106万円の壁を撤廃する。・政府は130万円の壁を緩和し、中小企業への適用拡大を進めている。・中小企業は制度変更に備え、従業員への説明や生産性向上を急いでいる。… ...</description>
-      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;1時間前
-【ナイキ王者陥落】「Just Do It」何故できない？／W杯ユニフォームに“欠陥”／傘下のコンバース 過去10年で最低水準／On・HOKAに奪われるシェア／中国で苦戦続く【CROSS DIG DOCUMENT】&lt;/p&gt;</content:encoded>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2989337</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>【ナイキ王者陥落】「Just Do It」何故できない？／W杯ユニフォームに“欠陥”／傘下のコンバース 過去10年で最低水準／On・HOKAに ...</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2995850?display=1</link>
-      <guid isPermaLink="false">4ddad3f012a121deb0258b7d</guid>
-      <pubDate>Sat, 10 Oct 2026 23:00:00 +0000</pubDate>
-      <description>ソフトバンク子会社IDCフロンティアのクラウドに不正アクセス 顧客データの復元困難な見通し CROSS DIG 1on1 【AIで会社を“自動化”する】ラクスル創業者・ジョーシスCEO松本恭攝／「AIで働く時間が激減」社員は1000人→20人の世界も／“AIがコード生成”開発者100人が消滅【CROSS DIG 1on1】 ...</description>
-      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;2026.10.04
-【リボ払い年利400％も】「スマホですぐ借金」フィンテックの弊害／分割払いは当たり前／スポーツ賭博が追い打ち／企業の借金は計7兆円／国の利払いはGDP8％超／そんなブラジルより多い日本の政府債務【CROSS DIG DOCUMENT】&lt;/p&gt;</content:encoded>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2995850?display=1</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>日本にいるのに“時差ぼけ” 現代人をを悩ます「ソーシャル・ジェットラグ」とは</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2989285?page=2</link>
-      <guid isPermaLink="false">a8e93c8fddd1c77230a0a488</guid>
-      <pubDate>Sat, 10 Oct 2026 22:00:00 +0000</pubDate>
-      <description>「ソーシャル・ジェットラグ」と「就寝の先延ばし」と「リベンジ夜更かし」 ここで区別しておきたいのが、「ソーシャル・ジェットラグ」と以前レポートで紹介した「就寝先延ばし（Bedtime Procrastination）」、そして「リベンジ夜更かし（Revenge Bedtime Procrastination）」である。私たちは日常的に夜更かしをする。見たいテレビ番組がある、友人と飲みに行くなど、普 ...</description>
-      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;21分前
-「俺を誰だと…」カスハラの正体と権威の錯覚&lt;/p&gt;</content:encoded>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2989285?page=2</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
     <item>
       <title>トランプ氏、ウクライナに「新大統領が必要」－ゼレンスキー氏を批判</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3004464</link>
       <guid isPermaLink="false">2f21fdb3e0960b02a3e2ff54</guid>
-      <pubDate>Sat, 10 Oct 2026 19:03:41 +0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 21:03:00 +0000</pubDate>
       <description>（ブルームバーグ）：トランプ米大統領は10日、ウクライナのゼレンスキー大統領に対し、ロシアの製油所への攻撃を停止するよう要求するとともに、大統領職から退くことを検討すべきだとの考えを示した。ディーゼル… ...</description>
-      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;1時間前
-【ナイキ王者陥落】「Just Do It」何故できない？／W杯ユニフォームに“欠陥”／傘下のコンバース 過去10年で最低水準／On・HOKAに奪われるシェア／中国で苦戦続く【CROSS DIG DOCUMENT】&lt;/p&gt;</content:encoded>
       <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
@@ -99,9 +20,130 @@
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3004464</wire:canonicalUrl>
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>サウジ、首都リヤドの空港の運用を一時停止－「敵」の攻撃受け</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3004459</link>
+      <guid isPermaLink="false">78a136ee6b2fcb1206ae4f6c</guid>
+      <pubDate>Sat, 10 Oct 2026 19:31:00 +0000</pubDate>
+      <description>（ブルームバーグ）：サウジアラビアは10日、「敵」による攻撃を受けたとして、首都リヤドのキング・ハーリド国際空港の運用を一時停止したと発表した。イエメンの親イラン武装組織フーシ派との対立が激化する中、… ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3004459</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>お小遣い以外にフリマやポイ活 α世代のお金事情 物価高とデジタル化が変える新しい金銭感覚</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2989409</link>
+      <guid isPermaLink="false">01fedba56cfed0b4cd45936c</guid>
+      <pubDate>Sat, 10 Oct 2026 14:00:00 +0000</pubDate>
+      <description>■要旨・物価高と交際費増により、親は中学生への小遣い負担に直面する。・中高生はフリマやポイ活を活用し、限られた資金を循環させる。・α世代はデジタル決済などの新たな消費環境で金銭感覚を養う。「Z世代」… ...</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2989409</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>「あるある」はもう幻想 消費の細分化で失われる社会の共通言語</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2989380?page=2</link>
+      <guid isPermaLink="false">64081918db4b82c000c63c4c</guid>
+      <pubDate>Sat, 10 Oct 2026 13:00:00 +0000</pubDate>
+      <description>かつて、娯楽と情報の流通においては、現在ほど選択肢が多くなく、テレビをはじめとするマスメディアは大きな存在感を持っていた。それは、多くの人が限られた番組や作品に接していたからである。例えば、『8時だヨ！全員集合』は1981年2月21日の放送で、関東地区の世帯視聴率47.6％を記録している。多くの人が同じコンテンツを消費しているからこそ、翌日その放送内容をフックにコミュニケーションを取ることができた ...</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2989380?page=2</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>「俺を誰だと…」カスハラの正体と権威の錯覚</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2989348?page=4</link>
+      <guid isPermaLink="false">431545912f593e6ab72a5d0b</guid>
+      <pubDate>Sat, 10 Oct 2026 12:01:00 +0000</pubDate>
+      <description>カスハラの2つの方向性－「権威の持ち出し」と「権威の借用」－ 一方で、逆のケースも考えられる。必ずしも、会社で高い地位にあったり、周囲を動かせる実資本を持っていたりする人だけが、カスタマーハラスメントに向かうわけではない。むしろ日常生活では十分な権限を持たず、職場では上司の指示に従い、家庭や人間関係の中でも自分の意見が通りにくいなど、普段は「動かされる側」にいる人が、「客」という立場を得た瞬間に、 ...</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2989348?page=4</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>「106万円撤廃」と「130万円緩和」で変わるパート雇用最低賃金上昇で接近する“2つの”壁</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2989337</link>
+      <guid isPermaLink="false">9969a9f6c615ea5de2de6420</guid>
+      <pubDate>Sat, 10 Oct 2026 11:00:00 +0000</pubDate>
+      <description>■要旨・最低賃金の上昇により、政府はパートの106万円の壁を撤廃する。・政府は130万円の壁を緩和し、中小企業への適用拡大を進めている。・中小企業は制度変更に備え、従業員への説明や生産性向上を急いでいる。… ...</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2989337</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>【ナイキ王者陥落】「Just Do It」何故できない？／W杯ユニフォームに“欠陥”／傘下のコンバース 過去10年で最低水準／On・HOKAに ...</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2995850?display=1</link>
+      <guid isPermaLink="false">4ddad3f012a121deb0258b7d</guid>
+      <pubDate>Sat, 10 Oct 2026 11:00:00 +0000</pubDate>
+      <description>ソフトバンク子会社IDCフロンティアのクラウドに不正アクセス 顧客データの復元困難な見通し CROSS DIG 1on1 【AIで会社を“自動化”する】ラクスル創業者・ジョーシスCEO松本恭攝／「AIで働く時間が激減」社員は1000人→20人の世界も／“AIがコード生成”開発者100人が消滅【CROSS DIG 1on1】 ...</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2995850?display=1</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>高金利でも止まらぬAI起債、市場の「安全弁」揺らぐ－供給吸収に懸念</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3004763</link>
+      <guid isPermaLink="false">a256e3036e63872b24e68229</guid>
+      <pubDate>Sat, 10 Oct 2026 10:02:00 +0000</pubDate>
+      <description>（ブルームバーグ）：資金調達コストが上昇すれば、通常なら企業の社債発行は減るが、テクノロジー企業は今年、むしろ発行を増やしている。ここにきてスペースXやブロードコムによる大型起債の計画も伝わり、今後… ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3004763</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>日本にいるのに“時差ぼけ” 現代人をを悩ます「ソーシャル・ジェットラグ」とは</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2989285?page=2</link>
+      <guid isPermaLink="false">a8e93c8fddd1c77230a0a488</guid>
+      <pubDate>Sat, 10 Oct 2026 10:00:00 +0000</pubDate>
+      <description>「ソーシャル・ジェットラグ」と「就寝の先延ばし」と「リベンジ夜更かし」 ここで区別しておきたいのが、「ソーシャル・ジェットラグ」と以前レポートで紹介した「就寝先延ばし（Bedtime Procrastination）」、そして「リベンジ夜更かし（Revenge Bedtime Procrastination）」である。私たちは日常的に夜更かしをする。見たいテレビ番組がある、友人と飲みに行くなど、普 ...</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/2989285?page=2</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
       <title>ベッセント氏、長期債の発行減額を来月発表する可能性－シティ予想</title>
@@ -117,70 +159,6 @@
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3004223</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
-      <title>サウジ、首都リヤドの空港の運用を一時停止－「敵」の攻撃受け</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3004459</link>
-      <guid isPermaLink="false">78a136ee6b2fcb1206ae4f6c</guid>
-      <pubDate>Sat, 10 Oct 2026 05:31:00 +0000</pubDate>
-      <description>（ブルームバーグ）：サウジアラビアは10日、「敵」による攻撃を受けたとして、首都リヤドのキング・ハーリド国際空港の運用を一時停止したと発表した。イエメンの親イラン武装組織フーシ派との対立が激化する中、… ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3004459</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
-      <title>パナマで70年超ぶりの強い地震､M7.7－余震続く､経済損失10億ドル超も</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3004152</link>
-      <guid isPermaLink="false">d4190470d6e2c1cd2ecae9a9</guid>
-      <pubDate>Sat, 10 Oct 2026 05:10:00 +0000</pubDate>
-      <description>（ブルームバーグ）：パナマで9日、70年以上で最も強い地震が発生し、その後も強い余震が相次いだ。ムリノ大統領は、地震直後の時点で死者は報告されていないと明らかにした。米地質調査所（USGS）によると、マグ… 建物倒壊など大きな被害パナマでM7.7の地震 日本沿岸では若干の海面変動が起きる可能性あるものの被害の心配なし ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3004152</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
-      <title>トランプ氏、ホワイトハウス報道官にザカリア氏を起用－保守系評論家</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3004002</link>
-      <guid isPermaLink="false">eeaac928f5cc5c0fc45c9caa</guid>
-      <pubDate>Sat, 10 Oct 2026 04:18:00 +0000</pubDate>
-      <description>（ブルームバーグ）：トランプ米大統領は、保守系コメンテーターで、トゥルース・ソーシャルのコミュニケーション担当アドバイザーを務めるケイティ・ザカリア氏を新たなホワイトハウス報道官に任命したと明らかに… ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3004002</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
-      <title>AI相場の陰で広がる金利ショック、ウォール街に忍び寄る市場の亀裂</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3004153</link>
-      <guid isPermaLink="false">14a739448311723851d33f13</guid>
-      <pubDate>Sat, 10 Oct 2026 03:38:00 +0000</pubDate>
-      <description>（ブルームバーグ）：世界で最も注目される株価指数はAIブームを追い風に底堅さを保っているが、その陰では金融市場全体で投資家の撤退が広がっている。原油価格と借り入れコストの高止まりが重荷となっている。米1… ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3004153</wire:canonicalUrl>
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
@@ -200,20 +178,19 @@
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
-      <title>トランプ氏、クックFRB理事の調査委設置－住宅ローン詐欺疑惑巡り</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3004001</link>
-      <guid isPermaLink="false">062f4526f4f704a782ad950e</guid>
-      <pubDate>Fri, 09 Oct 2026 17:09:00 +0000</pubDate>
-      <description>（ブルームバーグ）：トランプ米大統領が、連邦準備制度理事会（FRB）のクック理事に対する住宅ローン詐欺疑惑を調査する委員会を設置することが分かった。ホワイトハウスが7日、委員会の設置を指示するトランプ… トランプ氏、ホワイトハウス報道官にザカリア氏を起用－保守系評論家 ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
+      <title>楽天グループが社債発行へ、個人向け含め総額1500億円程度</title>
+      <link>https://newsdig.tbs.co.jp/articles/gallery/2037942?station=withbloomberg</link>
+      <guid isPermaLink="false">5f31c4d6f30188c2f7dacfd4</guid>
+      <pubDate>Thu, 10 Jul 2025 01:17:00 +0000</pubDate>
+      <description>楽天グループが社債発行へ、個人向け含め総額1500億円程度のフォトギャラリーです。TBSとBloombergというタッグだからこそ生まれるもの。進みつづけるビジネスパーソンに、学びの深さがちがうニュースメディアを。経済、金融、投資、資産運用、キャリア、テクノロジーなど各分野のニュース、映像コンテンツを確かな信頼性とともにお届けします。</description>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
+      <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
+      <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3004001</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/gallery/2037942?station=withbloomberg</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
 </rss>
