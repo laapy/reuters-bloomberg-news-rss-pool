@@ -1,25 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>BNN Bloomberg — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Abnnbloomberg.ca+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 11 Oct 2026 18:23:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 22:22:37 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>How is Ottawa responding to separatist sentiment in Quebec versus Alberta?</title>
-      <link>https://www.bnnbloomberg.ca/video/live/2026/10/11/how-is-ottawa-responding-to-separatist-sentiment-in-quebec-versus-alberta/</link>
-      <guid isPermaLink="false">ba16ab899154e8673bedce0a</guid>
-      <pubDate>Sun, 11 Oct 2026 09:28:00 +0000</pubDate>
-      <description>Panelists examine how the Carney government is approaching separatist groups in Quebec and Alberta, and the unique challenges they present to Ottawa.</description>
+      <title>The Week Ahead: Earnings from Domino’s Pizza, Blackrock</title>
+      <link>https://www.bnnbloomberg.ca/investing/2026/10/11/the-week-ahead-earnings-from-dominos-pizza-blackrock/</link>
+      <guid isPermaLink="false">061eb050a4a918a57480eff1</guid>
+      <pubDate>Sun, 11 Oct 2026 10:00:00 +0000</pubDate>
+      <description>Here's what investors will be watching for in the week ahead.</description>
+      <dc:creator>Cherise Smellie</dc:creator>
+      <content:encoded>&lt;p&gt;Monday, Oct. 12 Thanksgiving holiday (Canadian markets closed) Tuesday, Oct. 13 U.S. Earnings: Wednesday, Oct. 14 8:30 am: CAD Building Permits (Aug) 8:30 am: U.S. Consumer Price Index (Sep) 2:00 pm: U.S. Federal Reserve Beige Book U.S. Earnings: Thursday, Oct. 15 8:30 am: CAD Manufacturing Sales &amp;amp; Orders (Aug) 8:30 am: CAD Wholesale Trade (Aug) 8:30 am: U.S. Retail Sales (Sep) U.S. Earnings: Friday, Oct. 16 CAD Existing Home Sales, MLS Home Price Index (Sep) CAD Housing Starts (Sep) 8:30 am: CAD International Securities Transactions (Aug)&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/live/2026/10/11/how-is-ottawa-responding-to-separatist-sentiment-in-quebec-versus-alberta/</wire:canonicalUrl>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/investing/2026/10/11/the-week-ahead-earnings-from-dominos-pizza-blackrock/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -38,6 +41,21 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
+      <title>Low voter turn out could swing Alberta referendum to separatists: Former premier</title>
+      <link>https://www.bnnbloomberg.ca/video/live/2026/10/11/low-voter-turn-out-could-swing-alberta-referendum-to-separatists-former-premier/</link>
+      <guid isPermaLink="false">68110a8d776fb5277c58e0c5</guid>
+      <pubDate>Sun, 11 Oct 2026 08:38:00 +0000</pubDate>
+      <description>Former Alberta premier and federalist advocate Jason Kenney warns Albertans in favour of remaining in Canada not to get complacent come election day.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/live/2026/10/11/low-voter-turn-out-could-swing-alberta-referendum-to-separatists-former-premier/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
       <title>Canada’s climate change initiatives ‘nowhere near enough’: Canadian Climate Institute</title>
       <link>https://www.bnnbloomberg.ca/video/live/2026/10/11/canadas-climate-change-initiatives-nowhere-near-enough-canadian-climate-institute/</link>
       <guid isPermaLink="false">8141f335308e4ee412da6692</guid>
@@ -50,21 +68,6 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/live/2026/10/11/canadas-climate-change-initiatives-nowhere-near-enough-canadian-climate-institute/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>The Week Ahead: Earnings from Domino’s Pizza, Blackrock</title>
-      <link>https://www.bnnbloomberg.ca/investing/2026/10/11/the-week-ahead-earnings-from-dominos-pizza-blackrock/</link>
-      <guid isPermaLink="false">061eb050a4a918a57480eff1</guid>
-      <pubDate>Sun, 11 Oct 2026 03:00:00 +0000</pubDate>
-      <description>Here's what investors will be watching for in the week ahead.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/investing/2026/10/11/the-week-ahead-earnings-from-dominos-pizza-blackrock/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -143,33 +146,33 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Oilpatch convinced Pacific Link will go ahead, but less certain of timing: survey</title>
-      <link>https://www.bnnbloomberg.ca/markets/oil/2026/10/09/oilpatch-convinced-pacific-link-will-go-ahead-but-less-certain-of-timing-survey/</link>
-      <guid isPermaLink="false">2bb13c4d7b219f427d47c793</guid>
-      <pubDate>Fri, 09 Oct 2026 11:25:00 +0000</pubDate>
-      <description>A survey published this week by ATB Cormark suggests more than three quarters of oilpatch companies are convinced the Pacific Link pipeline to British Columbia and the Pathways carbon storage project ...</description>
+      <title>‘Quite disappointing’: Economists react to weak September jobs report</title>
+      <link>https://www.bnnbloomberg.ca/business/economics/2026/10/09/quite-disappointing-economists-react-to-weak-september-jobs-report/</link>
+      <guid isPermaLink="false">cf07978ba68004601a8dc538</guid>
+      <pubDate>Fri, 09 Oct 2026 09:58:00 +0000</pubDate>
+      <description>Canada’s sluggish economy has lost more than 100,000 jobs over the past two months amid a bitter trade war with the U.S., but economists say the hardest hit area has been the public sector, rather ...</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/oil/2026/10/09/oilpatch-convinced-pacific-link-will-go-ahead-but-less-certain-of-timing-survey/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/economics/2026/10/09/quite-disappointing-economists-react-to-weak-september-jobs-report/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Shell buying 30% stake in Bay du Nord oil project off Newfoundland</title>
-      <link>https://www.bnnbloomberg.ca/business/company-news/2026/10/09/shell-to-buy-30-stake-in-bay-du-nord-oil-project-off-newfoundland/</link>
-      <guid isPermaLink="false">69d42752452f6ae7067fdba7</guid>
-      <pubDate>Fri, 09 Oct 2026 06:00:00 +0000</pubDate>
-      <description>Norway-based Equinor says it has reached an agreement for Shell to buy a 30 per cent stake in the proposed Bay du Nord oil project off the coast of Newfoundland.</description>
+      <title>S&amp;P/TSX composite up more than 500 points, U.S. markets also rise</title>
+      <link>https://www.bnnbloomberg.ca/markets/2026/10/09/sptsx-composite-up-more-than-350-points-us-markets-also-positive/</link>
+      <guid isPermaLink="false">15a64000de50d75a22c5ba36</guid>
+      <pubDate>Fri, 09 Oct 2026 09:06:00 +0000</pubDate>
+      <description>Canada’s main stock index rose more than 350 points, helped by gains in the basic materials sector, while U.S. markets also gained ground.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/10/09/shell-to-buy-30-stake-in-bay-du-nord-oil-project-off-newfoundland/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/2026/10/09/sptsx-composite-up-more-than-350-points-us-markets-also-positive/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
