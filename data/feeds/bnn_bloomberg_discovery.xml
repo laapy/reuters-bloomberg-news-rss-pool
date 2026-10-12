@@ -1,12 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>BNN Bloomberg — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Abnnbloomberg.ca+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 12 Oct 2026 08:49:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 18:45:36 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>‘Novel solution’: Manitoba researchers develop technology to make farming autonomous</title>
+      <link>https://www.bnnbloomberg.ca/business/technology/2026/10/12/novel-solution-manitoba-researchers-develop-technology-to-make-farming-autonomous/</link>
+      <guid isPermaLink="false">a82819a9d7d686b1be3ad972</guid>
+      <pubDate>Mon, 12 Oct 2026 17:46:39 +0000</pubDate>
+      <description>At a farm field at the University of Manitoba, Jay Wang and a team of researchers are developing technology they hope will one day allow agricultural machinery to operate on its own.</description>
+      <dc:creator>Alex Karpa</dc:creator>
+      <content:encoded>&lt;p&gt;WINNIPEG – At a farm field at the University of Manitoba, Jay Wang and a team of researchers are developing technology they hope will one day allow agricultural machinery to operate on its own. Wang is developing, what he calls, a “brain” for farm machinery, combining artificial intelligence (AI) with physics to help machines make decisions when things go wrong. “We are trying to develop a novel solution for agricultural machinery, so they can travel by themselves,” said Wang, an assistant professor of mechanical engineering at the University of Manitoba. “We want the tractor to drive by itself, to be fully autonomous and go 24/7.” For autonomous farm equipment to work effectively, researchers say machines need to be able to respond to unpredictable conditions. Wang says his team is working to teach agricultural machinery how to adapt to those changes. “That’s the technology we are developing and hopefully we can use this technology to help farmers,” he said. “We will use less labour, we will use less oil, and we will produce more food.” The ultimate goal is to make existing farm equipment autonomous, reducing the need for someone to operate the machinery from behind the wheel. University of Manitoba research student Jerry Li says that could eventually allow farmers to let autonomous machines handle some tasks on their own in an industry that is already heavily labour-intensive. “We want to do automated farming and help our farmers, so with our technology, you can just stay home and let the machine automatically run on the farm,” he said. Wang and his team at the University of Manitoba are not the only researchers using AI to better the agriculture industry. Dilshan Benaragama and Nasem Badreldin are developing innovative technology designed to maximize crop yields while minimizing chemical use, applying treatments only where they are needed. Benaragama, an assistant professor at the University of Manitoba, told CTV News last month that the goal is to make farming smarter, more affordable and environmentally friendly. “We are focusing on bringing in technology, like most advances in remote sensing technology with drones and then combining with AI technologies to solve problems in western Canadian farms,” he said. AI another tool for agriculture industry Tech analyst Carmi Levy says AI could give farmers another tool to deal with the growing pressure to produce more with fewer resources. “Farmers are always struggling with doing more with less,” he said. “Artificial intelligence can be one of those enabling technologies that allows them to cover more ground; that allows them to plant and harvest more efficiently, larger amounts of land in less time; to adapt for things like weeds and changing climate and weather.” “Despite the overarching fears of artificial intelligence wiping out huge numbers of jobs, the reality on the ground is it could allow smaller farms to survive and thrive and compete, whereas otherwise they might simply go under,” he said. Wang says his focus is to develop the best technology as possible. “We hope using our technology to really help the farmers in Manitoba to make our agricultural machinery fully autonomous,” he said. He says his goal is to have this technology extend beyond farming, hoping one day, it could be deployed in other sectors, including space exploration.&lt;/p&gt;</content:encoded>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/technology/2026/10/12/novel-solution-manitoba-researchers-develop-technology-to-make-farming-autonomous/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
     <item>
       <title>Canada advises no travel to Riyadh after another Houthi attack on airport</title>
       <link>https://www.bnnbloomberg.ca/video/live/2026/10/11/canada-advises-no-travel-to-riyadh-after-another-houthi-attack-on-airport/</link>
@@ -50,36 +68,6 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/live/2026/10/11/stakes-are-high-and-anxiety-at-a-fever-pitch-as-us-midterms-could-have-big-impacts-on-canada/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Low voter turn out could swing Alberta referendum to separatists: Former premier</title>
-      <link>https://www.bnnbloomberg.ca/video/live/2026/10/11/low-voter-turn-out-could-swing-alberta-referendum-to-separatists-former-premier/</link>
-      <guid isPermaLink="false">68110a8d776fb5277c58e0c5</guid>
-      <pubDate>Sun, 11 Oct 2026 08:38:00 +0000</pubDate>
-      <description>Former Alberta premier and federalist advocate Jason Kenney warns Albertans in favour of remaining in Canada not to get complacent come election day.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/live/2026/10/11/low-voter-turn-out-could-swing-alberta-referendum-to-separatists-former-premier/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Canada’s climate change initiatives ‘nowhere near enough’: Canadian Climate Institute</title>
-      <link>https://www.bnnbloomberg.ca/video/live/2026/10/11/canadas-climate-change-initiatives-nowhere-near-enough-canadian-climate-institute/</link>
-      <guid isPermaLink="false">8141f335308e4ee412da6692</guid>
-      <pubDate>Sun, 11 Oct 2026 08:25:00 +0000</pubDate>
-      <description>Environment and Climate Change Minister Julie Dabrusin responds to the Canadian Climate Institute’s report that the nation is greatly behind on its goals.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/live/2026/10/11/canadas-climate-change-initiatives-nowhere-near-enough-canadian-climate-institute/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -128,6 +116,21 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
+      <title>Two dead, thousands without power after Hurricane Isaias makes landfall in Florida</title>
+      <link>https://www.bnnbloomberg.ca/video/live/2026/10/10/two-dead-thousands-without-power-after-hurricane-isaias-makes-landfall-in-florida/</link>
+      <guid isPermaLink="false">c36e339468aba6f90448fcee</guid>
+      <pubDate>Sat, 10 Oct 2026 10:25:00 +0000</pubDate>
+      <description>Environment Canada climatologist David Philips has more information about how the rest of this storm will play out, and it will impact Canada as it moves north.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/live/2026/10/10/two-dead-thousands-without-power-after-hurricane-isaias-makes-landfall-in-florida/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
       <title>Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms</title>
       <link>https://www.bnnbloomberg.ca/markets/oil/2026/10/09/trump-says-us-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms/</link>
       <guid isPermaLink="false">3632dbdabe391cd7714d9622</guid>
@@ -143,48 +146,48 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>‘Quite disappointing’: Economists react to weak September jobs report</title>
-      <link>https://www.bnnbloomberg.ca/business/economics/2026/10/09/quite-disappointing-economists-react-to-weak-september-jobs-report/</link>
-      <guid isPermaLink="false">cf07978ba68004601a8dc538</guid>
-      <pubDate>Fri, 09 Oct 2026 09:58:00 +0000</pubDate>
-      <description>Canada’s sluggish economy has lost more than 100,000 jobs over the past two months amid a bitter trade war with the U.S., but economists say the hardest hit area has been the public sector, rather ...</description>
+      <title>Cyber risks and the importance of caring</title>
+      <link>https://www.bnnbloomberg.ca/video/shows/taking-stock/2026/10/09/cyber-risks-and-the-importance-of-caring/</link>
+      <guid isPermaLink="false">b04bc60e2ce2b4f23b1c0a03</guid>
+      <pubDate>Fri, 09 Oct 2026 10:38:00 +0000</pubDate>
+      <description>Businesses know that cyber risk is real .. but some sectors are less protected than others... and it seems manufacturing and supply chains is among them. Amanda Lang speaks with Julien Ducloy, senior ...</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/economics/2026/10/09/quite-disappointing-economists-react-to-weak-september-jobs-report/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/taking-stock/2026/10/09/cyber-risks-and-the-importance-of-caring/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Shell buying 30% stake in Bay du Nord oil project off Newfoundland</title>
-      <link>https://www.bnnbloomberg.ca/business/company-news/2026/10/09/shell-to-buy-30-stake-in-bay-du-nord-oil-project-off-newfoundland/</link>
-      <guid isPermaLink="false">69d42752452f6ae7067fdba7</guid>
-      <pubDate>Fri, 09 Oct 2026 06:00:00 +0000</pubDate>
-      <description>Norway-based Equinor says it has reached an agreement for Shell to buy a 30 per cent stake in the proposed Bay du Nord oil project off the coast of Newfoundland.</description>
+      <title>S&amp;P/TSX composite up more than 500 points, U.S. markets also rise</title>
+      <link>https://www.bnnbloomberg.ca/markets/2026/10/09/sptsx-composite-up-more-than-350-points-us-markets-also-positive/</link>
+      <guid isPermaLink="false">15a64000de50d75a22c5ba36</guid>
+      <pubDate>Fri, 09 Oct 2026 09:06:00 +0000</pubDate>
+      <description>Canada’s main stock index rose more than 350 points, helped by gains in the basic materials sector, while U.S. markets also gained ground.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/10/09/shell-to-buy-30-stake-in-bay-du-nord-oil-project-off-newfoundland/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/2026/10/09/sptsx-composite-up-more-than-350-points-us-markets-also-positive/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Delta Air cuts profit forecast as US$6 billion fuel-cost surge outweighs fare gains</title>
-      <link>https://www.bnnbloomberg.ca/business/company-news/2026/10/09/delta-air-cuts-profit-forecast-as-us6-billion-fuel-cost-surge-outweighs-fare-gains/</link>
-      <guid isPermaLink="false">58b96c68ddae03087d7e6f74</guid>
-      <pubDate>Fri, 09 Oct 2026 05:19:00 +0000</pubDate>
-      <description>Delta Air Lines cut its annual profit forecast by nearly a quarter on Friday, as surging fuel costs, expected to add US$6 billion to its bill in 2026, overwhelmed resilient travel demand and higher ...</description>
+      <title>Paul Hollingsworth</title>
+      <link>https://www.bnnbloomberg.ca/team/paul-hollingsworth/</link>
+      <guid isPermaLink="false">bfe72862db94c07f95d6701f</guid>
+      <pubDate>Tue, 04 Feb 2025 13:29:00 +0000</pubDate>
+      <description>Multi-Skilled Journalist for CTV National News, based in Halifax. Born and raised in Halifax, Paul began as a reporter and quickly developed a talent for covering live events. Paul then broadened his ...</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/10/09/delta-air-cuts-profit-forecast-as-us6-billion-fuel-cost-surge-outweighs-fare-gains/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/team/paul-hollingsworth/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
