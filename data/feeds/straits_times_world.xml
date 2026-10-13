@@ -1,62 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss version="2.0">
   <channel>
     <title>The Straits Times — diagnostic source feed</title>
     <link>https://www.straitstimes.com/news/world/rss.xml</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 13 Oct 2026 08:14:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 16:18:44 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>Banking watchdogs ramp up AI scrutiny as stability fears mount, sources say</title>
-      <link>https://www.straitstimes.com/world/banking-watchdogs-ramp-up-ai-scrutiny-as-stability-fears-mount-sources-say</link>
-      <guid isPermaLink="false">e5c88327e40d98fa2edd39c3</guid>
-      <pubDate>Tue, 13 Oct 2026 07:15:00 +0000</pubDate>
-      <description>The debate over AI oversight has intensified amid warnings from the industry after recent incidents.</description>
-      <dc:creator>The Straits Times</dc:creator>
-      <content:encoded>&lt;p&gt;Banking watchdogs ramp up AI scrutiny as stability fears mount, sources say
-Sign up now: Get ST&amp;#x27;s newsletters delivered to your inbox&lt;/p&gt;&lt;p&gt;Three top regulators in the United States, including the Federal Reserve, are quizzing banks about their use of advanced artificial intelligence models, two of the people told Reuters, which adds to prior scrutiny.
-PHOTO: REUTERS&lt;/p&gt;&lt;p&gt;Published   Oct 13, 2026, 03:15 PM&lt;/p&gt;&lt;p&gt;Updated   Oct 13, 2026, 03:15 PM&lt;/p&gt;&lt;p&gt;Set as preferred source&lt;/p&gt;&lt;p&gt;Summarise&lt;/p&gt;&lt;p&gt;Banking regulators in the US and Europe are stepping up AI checks as fears grow that agentic AI could weaken cyber defences and threaten financial stability.
-US agencies, including the Fed, OCC and FDIC, are asking banks how they use advanced AI, especially foreign models, cyber defence agents and controls on autonomous systems.
-European supervisors want stronger recovery plans and better mapping of AI use across banks and providers, as experts warn a major attack could disrupt payments and lock customers out.&lt;/p&gt;&lt;p&gt;AI generated&lt;/p&gt;&lt;p&gt;NEW YORK/LONDON – Banking regulators are stepping up efforts to contain growing AI risks, six people familiar with the matter said, with some pointing to the potential for cyberattacks on banks or rogue agents undermining global financial stability .
-The regulatory scrutiny, fresh details of which are reported here for the first time, reflects growing recognition that advances in frontier AI may require costly investments in cyber recovery, greater attention to dependencies on external technology providers and in some jurisdictions more formal regulatory guidance, sources said.
-Three top regulators in the United States, including the Federal Reserve, are quizzing banks about their use of advanced artificial intelligence models, two of the people told Reuters, which adds to prior scrutiny.&lt;/p&gt;&lt;p&gt;Questions include whether they deploy Chinese-developed technology, use AI agents in cyber defence and can control increasingly autonomous systems, three of the people said.
-In Europe, supervisors including the Bank of England and the European Central Bank are pressing banks to improve recovery plans, concerned that rapid advances in AI could cause serious harm and disruption in financial markets sooner than previously feared, three people with knowledge of their thinking said.
-A senior executive at a large European bank said they too are worried about potentially major damage to banking and financial markets “within six months”.&lt;/p&gt;&lt;p&gt;The debate over AI oversight has intensified amid warnings from the industry after recent incidents, with JPMorgan chief executive Jamie Dimon urging corporate leaders to join a US-focused industry group to address AI risks, Reuters reported.
-US cybersecurity company CrowdStrike said in October a person in China likely used a Chinese-developed AI agent and Anthropic’s Claude Code in a hack on South Korean banks. Rogue AI agents developed by OpenAI were meanwhile involved in a breach of AI platform Hugging Face , Reuters reported.
-Anthropic researchers have warned that increasingly powerful AI systems could eventually escape human control and even pose an existential threat, prompting calls for stricter regulation.&lt;/p&gt;&lt;p&gt;Banks are competing to adopt agentic AI, which can accomplish tasks with minimal human supervision, while also grappling with the challenges of new models including IT weaknesses flagged by Anthropic’s Mythos tool.
-“The adoption of AI is often outpacing the ability to put the controls in place,” said Michael Woodbridge, London-based cybersecurity partner at Grant Thornton.
-US concerns aim at agentic AI The US regulatory inquiries centre on how banks use agentic AI in areas such as cybersecurity, focusing on whether AI agents are being used to identify, prioritise and respond to threats.
-Questions from the Office of the Comptroller of the Currency (OCC) and the Federal Deposit Insurance Corporation and the Fed focus on what limits are placed on systems, how their actions are monitored and approved and whether banks can clearly track and audit AI agent decisions, two of the people said.
-They are also asking what safeguards exist to prevent agents from exceeding their authority, whether humans remain involved in key decisions and how banks can shut down autonomous systems.
-The OCC, the Fed and the FDIC declined to comment.
-Through their questions, regulators are probing more specific issues tied to advanced AI models, including the use of autonomous AI agents, foreign-developed models and new cyber risks, the three people with knowledge of their thinking said.
-The written and verbal inquiries to large, mid-size and smaller banks show regulators are focusing on vulnerabilities from banks’ use of AI and their preparedness to act, they added.
-Regulators are still gathering information and are not yet being prescriptive about what lenders should be doing, they said.&lt;/p&gt;&lt;p&gt;More on this topic&lt;/p&gt;&lt;p&gt;Watchdog finds no Fed misconduct in renovation; Trump calls for Powell’s resignation&lt;/p&gt;&lt;p&gt;US Fed watchdog flags apparent data breaches by retiring staff member&lt;/p&gt;&lt;p&gt;Europeans worry about recovery Supervisors in Britain are separately encouraging the largest banks to examine so-called bare metal recovery plans, two of the people familiar with their thinking said. These systems are entirely independent from a bank’s main tech set-up and can kick in if primary operating systems are compromised.
-Building and maintaining such state-of-the-art recovery is expensive, however, the people said.
-Rather than introduce new requirements, British authorities intend to work collaboratively with industry, they added.
-The BoE declined to comment.
-The ECB in July gave lenders an end-October deadline to produce plans to counter AI-enabled cyber threats, including improved back-up and recovery.
-Asked about its strategy for regulating AI, the ECB referred to its July letter as well as a June speech by board member Frank Elderson who stressed the need to create a sense of urgency, not alarm, about the threats.
-The need for supervisory action has taken on added urgency after European banks and regulators expressed frustration at getting limited access to Mythos in 2026, amid concerns US banks will be given first sight to test frontier models.
-Like their US counterparts, British supervisors are also asking banks to use frontier AI to identify vulnerabilities and accelerate patching, two people said, with one adding that lenders were so far doing a good job.
-The third person said euro zone banks were also being asked to map how AI is being used across their businesses and third-party providers, to understand key dependencies and ensure they can switch off and restart systems in a controlled manner.
-Significant gaps remained at some firms, they added.
-“To protect against attacks, rapid recovery matters as much as prevention,” said Sukand Ramachandran, managing director and Senior Partner at BCG.
-Without separately-held clean, secure copies of critical data, “a serious attack could lock customers out of their accounts and disrupt payments across the wider economy”, Ramachandran told Reuters. REUTERS&lt;/p&gt;&lt;p&gt;More on this topic&lt;/p&gt;&lt;p&gt;OpenAI plans regular reports on unexpected or unauthorised AI behaviour&lt;/p&gt;&lt;p&gt;See more on&lt;/p&gt;&lt;p&gt;United States
-Britain
-AI/artificial intelligence
-Private banking/Wealth management&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>straits_times_world</wire:foundAt>
-      <wire:platform>The Straits Times</wire:platform>
-      <wire:relation>mention</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.86</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.straitstimes.com/world/banking-watchdogs-ramp-up-ai-scrutiny-as-stability-fears-mount-sources-say</wire:canonicalUrl>
-      <wire:evidence>reporting reference, not an exact wire credit: Reuters reported</wire:evidence>
-    </item>
   </channel>
 </rss>
