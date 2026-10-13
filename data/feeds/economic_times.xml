@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>The Economic Times — diagnostic source feed</title>
     <link>https://economictimes.indiatimes.com/rssfeedsdefault.cms</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 12 Oct 2026 18:45:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 01:11:40 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Global Market Today: Asian shares slide as chip stocks tumble; investors eye US earnings, CPI</title>
+      <link>https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-markets-slide-as-chip-stocks-tumble-investors-eye-us-earnings-cpi/articleshow/134905429.cms</link>
+      <guid isPermaLink="false">eab5c254604325d108d488eb</guid>
+      <pubDate>Tue, 13 Oct 2026 00:42:00 +0000</pubDate>
+      <description>The MSCI Asia Pacific Index declined 0.3% with equities in South Korea slipping over 3%. That came after a US gauge of chipmakers fell 2.7% Monday, while the Nasdaq 100 Index lost 0.7%.</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;Asian stocks dropped, tracking losses on Wall Street as weakness in US chipmakers dented sentiment ahead of the start of earnings season.The MSCI Asia Pacific Index declined 0.3% with equities in South Korea slipping over 3%. That came after a US gauge of chipmakers fell 2.7% Monday, while the Nasdaq 100 Index lost 0.7%.SK Hynix Inc.’s shares fell almost 4% in early Asian trading after Chinese rival CXMT said it made progress on a memory-chip design capable of storing more data. Sandisk Corp. slid 6% and Micron Technology Inc. declined 3.9%. Meta Platforms Inc. rose more than 3%, bucking a decline in the Nasdaq, after it unveiled its Muse Wonder AI model.Read more: Investors shrug off bear party, put big money into equity mutual fundsElsewhere, Brent crude oil fell 0.6% to around $106 a barrel. A Bloomberg gauge of the dollar’s strength broadly held its gains from the previous session, when it climbed to its highest since mid-May 2025.Enthusiasm for artificial intelligence eased as investors weighed the outlook for capital spending against rising borrowing costs. With the S&amp;amp;P 500 Index nearly 120% above its 2022 low, the durability of the four-year bull market increasingly hinges on earnings keeping pace with elevated valuations.“The selling pressure across AI-related equities remains a defining feature of the market,” wrote Chris Weston, head of research at Pepperstone. “Semiconductor stocks have broken below recent trading ranges.”Warnings are mounting around the AI trade, with Broadcom Inc. Chief Executive Officer Hock Tan the latest to flag concerns.The AI boom has attracted investors whose strategies resemble those of gamblers, he said on Monday, suggesting some of them have little understanding of what they’re betting on.Last week, billionaire Ray Dalio warned that AI is a “classic bubble” that is nearing a bursting point thanks to rising interest rates and the need to turn wealth into cash.In Asia, focus will be on the Indian rupee after the nation’s most aggressive currency defense in more than a decade is telling market watchers that the central bank is prepared to pull out all the stops to keep the rupee from weakening beyond 97 per dollar.Meanwhile, the earnings season in the US gets underway Tuesday, with Goldman Sachs Group Inc., JPMorgan Chase &amp;amp; Co., Citigroup Inc. and Wells Fargo &amp;amp; Co. due to report. Bank of America Corp. and Morgan Stanley follow Wednesday.S&amp;amp;P 500 companies are estimated to post a 25% increase in third-quarter profits from a year earlier, according to data compiled by Bloomberg Intelligence.Investors will also be monitoring this week’s US consumer price index reading.Federal Reserve Cleveland President Beth Hammack said smaller, more frequent policy adjustments can help keep inflation expectations anchored, though she stopped short of backing another rate increase this month.“This week’s CPI report is likely to be the most important release of data the Fed will see before its October meeting,” Jason Pride, chief of investment strategy and research at Glenmede, wrote. “Barring a stronger than expected inflation reading, the Fed is likely to take a patient approach to its next rate hike.”&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>economic_times</wire:foundAt>
+      <wire:platform>The Economic Times</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-markets-slide-as-chip-stocks-tumble-investors-eye-us-earnings-cpi/articleshow/134905429.cms</wire:canonicalUrl>
+      <wire:evidence>structured credit: Bloomberg</wire:evidence>
+    </item>
   </channel>
 </rss>
