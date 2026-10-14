@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Mint — diagnostic source feed</title>
     <link>https://www.livemint.com/rss/news</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 14 Oct 2026 15:27:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 19:39:41 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>US midterm elections: What election officials fear Trump could do before and after Election Day</title>
+      <link>https://www.livemint.com/news/us-news/us-midterm-elections-what-election-officials-fear-trump-could-do-before-and-after-election-day-11792002069728.html</link>
+      <guid isPermaLink="false">3901407034a325728b6f82d7</guid>
+      <pubDate>Wed, 14 Oct 2026 19:15:37 +0000</pubDate>
+      <description>The investigation, based on interviews with more than 50 election officials, voting experts and election lawyers, examines how the Trump administration could test the limits of federal authority before and after Election Day.</description>
+      <dc:creator>Ravi Hari</dc:creator>
+      <content:encoded>&lt;p&gt;US President Donald Trump could disrupt the 2026 midterm elections through a series of actions ranging from allegations of voter fraud and federal investigations to immigration enforcement near polling places and disputes over election results, according to a Reuters investigation.Reuters said it interviewed more than 50 election officials, voting experts and election lawyers, and reviewed Trump&amp;#x27;s public statements, court filings and federal agency actions to identify nine potential flashpoints before and after Election Day.The November midterm elections will determine control of the US Congress and several key state offices.Here are the nine key risks to the US midterm elections identified by the Reuters investigation report.1. Trump alleges election fraud or compromised voting machinesTrump could renew unsubstantiated claims of voter fraud, illegal voting or manipulated voting machines. Reuters noted that similar allegations following the 2020 election fuelled efforts to overturn his defeat and led to harassment of election workers. Experts say such claims could trigger legal challenges even if they are subsequently disproved.2. Pressuring election officials to change or cancel resultsThe administration could pressure state officials, legislators or election authorities to reject certified results or delay certification based on fraud allegations. Reuters cited Trump&amp;#x27;s efforts to overturn his 2020 defeat, including his call to Georgia&amp;#x27;s secretary of state to find enough votes to reverse the result.3. Seizing ballots or voting equipmentFederal agents could seek court-approved warrants or subpoenas to obtain ballots, voting machines and election records. Such seizures could disrupt vote counting, compromise the chain of custody and delay certification. Reuters cited the FBI&amp;#x27;s January raid on election offices in Georgia&amp;#x27;s Fulton County, where agents seized records from the 2020 election.4. Federal election monitors interfering with votingThe Justice Department plans to deploy 1,000 election monitors, nearly twice the 590 deployed in 2024. While the department says they will protect voting rights and ensure compliance with federal law, some officials fear monitors could exceed their traditional role by seeking access to voting equipment or interviewing voters.5. ICE presence near polling sitesImmigration enforcement operations near polling places could discourage people from voting, particularly in immigrant communities and Democratic-leaning areas. Legal experts say deploying armed federal agents directly at polling stations would likely violate federal law, although immigration agents could conduct operations nearby.6. Troops deployed at polling placesTrump could seek to invoke the Insurrection Act to justify military deployment by citing alleged election-related unrest or interference. Experts warn that troops near polling stations could intimidate voters and suppress turnout. Federal laws restrict military involvement in domestic law enforcement and prohibit voter intimidation.7. Declaring a national emergencyTrump could declare a national emergency over alleged voter fraud or foreign interference to justify greater federal involvement in elections, potentially including demands for hand-counting ballots. Legal experts say emergency powers would not allow him to take over election administration, which largely falls under state authority, but such a move could trigger litigation and delays.8. Federal investigations and charges against election officialsThe Justice Department could investigate or prosecute election administrators over alleged failures to prevent noncitizens from voting or maintain accurate voter rolls. Officials fear that subpoenas, interviews and document demands could drain resources and intimidate election workers, even without convictions.9. Congress refusing to seat election winnersRepublican congressional leaders could face pressure to delay or challenge the seating of Democratic winners in closely contested races. Although legal scholars consider outright refusal to seat certified winners unlikely to succeed, delayed certifications and unresolved disputes could leave seats vacant when the new Congress convenes on January 3, potentially affecting control of the House.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>mint_news</wire:foundAt>
+      <wire:platform>Mint</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.livemint.com/news/us-news/us-midterm-elections-what-election-officials-fear-trump-could-do-before-and-after-election-day-11792002069728.html</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Reuters said</wire:evidence>
+    </item>
   </channel>
 </rss>
