@@ -1,18 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>TBS NEWS DIG — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Anewsdig.tbs.co.jp+%28Reuters+OR+Bloomberg+OR+%E3%83%AD%E3%82%A4%E3%82%BF%E3%83%BC+OR+%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%90%E3%83%BC%E3%82%B0%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 15 Oct 2026 12:49:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 17:41:46 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>FRBは12月に0.5ポイント利上げも選択肢に－有力エコノミストが予想</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3014140</link>
-      <guid isPermaLink="false">4401318a4f7fcecdc5056857</guid>
-      <pubDate>Thu, 15 Oct 2026 05:22:00 +0000</pubDate>
-      <description>（ブルームバーグ）：米連邦準備制度による直近の利上げを早い段階で予想していたエコノミストが、12月には一段と大幅な0.5ポイントの利上げも選択肢になり得るとの見方を示した。プレステージ・エコノミクスのジ… ...</description>
+      <title>過熱するAI投資、3.5兆ドルが減損リスクに－ガートナーが警告</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3015988</link>
+      <guid isPermaLink="false">538212cc57b35bea8110ed05</guid>
+      <pubDate>Thu, 15 Oct 2026 15:25:32 +0000</pubDate>
+      <description>（ブルームバーグ）：市場調査会社ガートナーの分析によると、AI業界への投資は、それに見合う収益を得られない規模に膨らんでおり、2030年までに3兆5000億ドル（約550兆円）を超えるAIインフラ投資が減損リスクに… 公明党食料品消費減税の対案として「1人8万円給付」案を取りまとめる ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;2時間前
+コミックシーモアがサービス停止　外部から不正アクセスか&lt;/p&gt;</content:encoded>
       <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
@@ -20,7 +23,80 @@
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3014140</wire:canonicalUrl>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3015988</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>全銀協会長「銀行業界も深刻に受け止め」－不正アクセス多発で</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3015603</link>
+      <guid isPermaLink="false">be6daabd43088659b156646f</guid>
+      <pubDate>Thu, 15 Oct 2026 10:10:00 +0000</pubDate>
+      <description>（ブルームバーグ）：全国銀行協会の加藤勝彦会長（みずほ銀行頭取）は15日の定例記者会見で、インターネットを通じた企業への不正アクセスや顧客情報の漏えいが頻発していることについて、「銀行界も深刻に受け止… 57分前 ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3015603</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>城内経財相、リフレ政策は今必要としていない－デフレ脱却ステージに</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3015750</link>
+      <guid isPermaLink="false">f25593e73c5cc8ba3365ef0a</guid>
+      <pubDate>Thu, 15 Oct 2026 09:57:00 +0000</pubDate>
+      <description>（ブルームバーグ）：城内実経済財政担当相は15日、日本経済の現状はデフレから脱却しつつあるステージにあるとし、「リフレ政策は今必要としている政策ではない」と語った。都内で開かれたLSEG（ロンドン証券取引… ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;2時間前
+コミックシーモアがサービス停止　外部から不正アクセスか&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3015750</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>ECB、ややタカ派寄りの政策姿勢必要に－次期総裁候補クノット氏</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3015218</link>
+      <guid isPermaLink="false">079abe0b29ea06e22f3c9bb8</guid>
+      <pubDate>Thu, 15 Oct 2026 09:34:00 +0000</pubDate>
+      <description>（ブルームバーグ）：相次ぐ経済・地政学的な混乱を受け、欧州中央銀行（ECB）は金融引き締めにやや傾いた政策姿勢を取る必要が生じる可能性がある。ラガルド総裁の後任有力候補の1人であるクノット前オランダ中銀… 日銀小枝審議委員「利上げに過度に慎重になることはない」 ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3015218</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>フランス債巡るECBの市場介入、可能性は低い－ドラギ前総裁が見通し</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3015601</link>
+      <guid isPermaLink="false">2680f7994e37c971419974e8</guid>
+      <pubDate>Thu, 15 Oct 2026 08:43:00 +0000</pubDate>
+      <description>（ブルームバーグ）：欧州中央銀行（ECB）のマリオ・ドラギ前総裁は、ECBがフランスを支援するため、近く市場介入に踏み切る可能性は低いとの見通しを示した。当時のECB総裁としてユーロ圏債務危機への対応を担っ… ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;2時間前
+コミックシーモアがサービス停止　外部から不正アクセスか&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3015601</wire:canonicalUrl>
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
@@ -40,6 +116,26 @@
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
+      <title>FRBは12月に0.5ポイント利上げも選択肢に－有力エコノミストが予想</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3014140</link>
+      <guid isPermaLink="false">4401318a4f7fcecdc5056857</guid>
+      <pubDate>Thu, 15 Oct 2026 03:22:00 +0000</pubDate>
+      <description>（ブルームバーグ）：米連邦準備制度による直近の利上げを早い段階で予想していたエコノミストが、12月には一段と大幅な0.5ポイントの利上げも選択肢になり得るとの見方を示した。プレステージ・エコノミクスのジ… ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;2時間前
+コミックシーモアがサービス停止　外部から不正アクセスか&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3014140</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
       <title>デビアス買収にリシュモンとシグネットが参加検討－交渉進展</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3015747</link>
       <guid isPermaLink="false">290ea29b37e94ac9671c0120</guid>
@@ -53,22 +149,6 @@
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3015747</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
-      <title>城内経財相、リフレ政策は今必要としていない－デフレ脱却ステージに</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3015750</link>
-      <guid isPermaLink="false">f25593e73c5cc8ba3365ef0a</guid>
-      <pubDate>Wed, 14 Oct 2026 21:57:00 +0000</pubDate>
-      <description>（ブルームバーグ）：城内実経済財政担当相は15日、日本経済の現状はデフレから脱却しつつあるステージにあるとし、「リフレ政策は今必要としている政策ではない」と語った。都内で開かれたLSEG（ロンドン証券取引… ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3015750</wire:canonicalUrl>
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
@@ -88,54 +168,6 @@
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
-      <title>フランス債巡るECBの市場介入、可能性は低い－ドラギ前総裁が見通し</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3015601</link>
-      <guid isPermaLink="false">2680f7994e37c971419974e8</guid>
-      <pubDate>Wed, 14 Oct 2026 20:44:00 +0000</pubDate>
-      <description>（ブルームバーグ）：欧州中央銀行（ECB）のマリオ・ドラギ前総裁は、ECBがフランスを支援するため、近く市場介入に踏み切る可能性は低いとの見通しを示した。当時のECB総裁としてユーロ圏債務危機への対応を担っ… ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3015601</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
-      <title>全銀協会長「銀行業界も深刻に受け止め」－不正アクセス多発で</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3015603</link>
-      <guid isPermaLink="false">be6daabd43088659b156646f</guid>
-      <pubDate>Wed, 14 Oct 2026 20:11:00 +0000</pubDate>
-      <description>（ブルームバーグ）：全国銀行協会の加藤勝彦会長（みずほ銀行頭取）は15日の定例記者会見で、インターネットを通じた企業への不正アクセスや顧客情報の漏えいが頻発していることについて、「銀行界も深刻に受け止… 57分前 ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3015603</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
-      <title>ECB、ややタカ派寄りの政策姿勢必要に－次期総裁候補クノット氏</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3015218</link>
-      <guid isPermaLink="false">079abe0b29ea06e22f3c9bb8</guid>
-      <pubDate>Wed, 14 Oct 2026 19:34:00 +0000</pubDate>
-      <description>（ブルームバーグ）：相次ぐ経済・地政学的な混乱を受け、欧州中央銀行（ECB）は金融引き締めにやや傾いた政策姿勢を取る必要が生じる可能性がある。ラガルド総裁の後任有力候補の1人であるクノット前オランダ中銀… 日銀小枝審議委員「利上げに過度に慎重になることはない」 ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3015218</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
       <title>米中間選挙・トランプ大統領がアラスカ州で遊説…物価高で崖っぷち それでもMAGA派が“トランプ推し”の理由【news23】</title>
       <link>https://newsdig.tbs.co.jp/articles/-/3012565?page=3</link>
       <guid isPermaLink="false">b6ba20470c0d2695baeaac0f</guid>
@@ -151,38 +183,6 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>中国製AIモデルの利用、セキュリティーリスクに－OpenAIのCFOが警告</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3012595</link>
-      <guid isPermaLink="false">cf5ac5a347e01aebc625b069</guid>
-      <pubDate>Wed, 14 Oct 2026 18:15:00 +0000</pubDate>
-      <description>（ブルームバーグ）：OpenAIのサラ・フライアー最高財務責任者（CFO）は14日、低コストの中国製AIモデルを利用する企業は、サイバーセキュリティー上のリスクを負うことになると警告した。ダブリンで開催された国際… ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3012595</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
-      <title>TikTok中国親会社、台湾メディアテックからAI半導体購入へ－合意近い</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3014438</link>
-      <guid isPermaLink="false">60b38c6599435e7290ee8ff6</guid>
-      <pubDate>Wed, 14 Oct 2026 17:16:00 +0000</pubDate>
-      <description>（ブルームバーグ）：中国の字節跳動（バイトダンス）は、台湾の聯発科技（メディアテック）からデータセンター向け半導体を購入する契約の締結に近づいている。事情に詳しい関係者が明らかにした。動画共有サイト… 「バーガーキング」で約1118万件の個人情報流出アプリの会員氏名や電話番号など 今月2日～7日に不正アクセス ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3014438</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
       <title>モルガンS、ウェルス部門が好調－株式トレーディング収入は予想以上</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3012622</link>
       <guid isPermaLink="false">6c329432e887642ed5ed4ef8</guid>
@@ -196,6 +196,26 @@
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3012622</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>中国製AIモデルの利用、セキュリティーリスクに－OpenAIのCFOが警告</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3012595</link>
+      <guid isPermaLink="false">cf5ac5a347e01aebc625b069</guid>
+      <pubDate>Wed, 14 Oct 2026 16:15:00 +0000</pubDate>
+      <description>（ブルームバーグ）：OpenAIのサラ・フライアー最高財務責任者（CFO）は14日、低コストの中国製AIモデルを利用する企業は、サイバーセキュリティー上のリスクを負うことになると警告した。ダブリンで開催された国際… ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;2時間前
+コミックシーモアがサービス停止　外部から不正アクセスか&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3012595</wire:canonicalUrl>
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
   </channel>
