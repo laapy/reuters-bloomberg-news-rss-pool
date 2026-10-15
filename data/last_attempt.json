@@ -1,34 +1,34 @@
 {
   "status": "published",
-  "attempted_at": "2026-10-15T01:43:08Z",
+  "attempted_at": "2026-10-15T07:08:20Z",
   "summary": {
-    "generated_at": "2026-10-15T01:43:08Z",
+    "generated_at": "2026-10-15T07:08:20Z",
     "sources_total": 41,
     "sources_ok": 37,
     "sources_error": 4,
-    "items_total": 851,
-    "items_deduplicated": 801,
+    "items_total": 848,
+    "items_deduplicated": 802,
     "publishers": {
-      "Reuters": 356,
-      "Bloomberg": 311
+      "Reuters": 349,
+      "Bloomberg": 312
     },
     "relations": {
-      "original": 242,
-      "repost": 220,
-      "mention": 5,
-      "unknown": 384
+      "original": 245,
+      "repost": 211,
+      "mention": 7,
+      "unknown": 385
     },
     "content_levels": {
-      "full": 288,
-      "summary": 557,
+      "full": 284,
+      "summary": 558,
       "link_only": 6
     },
     "primary_feeds": {
-      "deduplicated.xml": 801,
-      "reuters.xml": 206,
-      "bloomberg.xml": 208,
+      "deduplicated.xml": 802,
+      "reuters.xml": 205,
+      "bloomberg.xml": 207,
       "fulltext.xml": 226
     },
-    "elapsed_seconds": 123.954
+    "elapsed_seconds": 126.677
   }
 }
