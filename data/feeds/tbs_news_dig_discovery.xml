@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>TBS NEWS DIG — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Anewsdig.tbs.co.jp+%28Reuters+OR+Bloomberg+OR+%E3%83%AD%E3%82%A4%E3%82%BF%E3%83%BC+OR+%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%90%E3%83%BC%E3%82%B0%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 15 Oct 2026 07:08:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 12:49:27 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>ルルレモン、原材料開発チーム再編－「透けるレギンス」問題受け</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3014442</link>
-      <guid isPermaLink="false">4bb0a255ebf15e47bb959304</guid>
-      <pubDate>Thu, 15 Oct 2026 06:15:44 +0000</pubDate>
-      <description>（ブルームバーグ）：カナダのヨガウエア大手ルルレモン・アスレティカは、製品上の問題が顧客からの批判を招いたことを受け、原材料開発チームの再編を進めている。今回の再編の一環として、同社は従業員7人を解… ...</description>
-      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;1時間前
-カシオ腕時計、タイ政界の新たなステータスシンボルに－価格60ドル弱&lt;/p&gt;</content:encoded>
+      <title>FRBは12月に0.5ポイント利上げも選択肢に－有力エコノミストが予想</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3014140</link>
+      <guid isPermaLink="false">4401318a4f7fcecdc5056857</guid>
+      <pubDate>Thu, 15 Oct 2026 05:22:00 +0000</pubDate>
+      <description>（ブルームバーグ）：米連邦準備制度による直近の利上げを早い段階で予想していたエコノミストが、12月には一段と大幅な0.5ポイントの利上げも選択肢になり得るとの見方を示した。プレステージ・エコノミクスのジ… ...</description>
       <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
@@ -23,19 +20,15 @@
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3014442</wire:canonicalUrl>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3014140</wire:canonicalUrl>
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
-      <title>カシオ腕時計、タイ政界の新たなステータスシンボルに－価格60ドル弱</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3014144</link>
-      <guid isPermaLink="false">de53ace1fce12d5945cc1051</guid>
-      <pubDate>Thu, 15 Oct 2026 05:27:16 +0000</pubDate>
-      <description>（ブルームバーグ）：高級腕時計がステータスシンボルとしておなじみのタイ政界で、いま最も注目を集める腕時計は60ドル（約9500円）もしない。贈り主は首相だ。アヌティン首相の名前が刻印されたカシオの「AE1200W… 【速報】対米投資第3弾は半導体工場ニューヨーク州の建設計画を赤沢経産大臣が発表「大変大きな意義を有する」 日本が最大210億ドルを投資 ...</description>
-      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;46分前
-ルルレモン、原材料開発チーム再編－「透けるレギンス」問題受け&lt;/p&gt;</content:encoded>
+      <title>SKハイニックス株、ピークから6割近く下落－AIトレード巻き戻し加速</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3013507</link>
+      <guid isPermaLink="false">b7d303bf3d57d43cfc8b9821</guid>
+      <pubDate>Thu, 15 Oct 2026 04:29:00 +0000</pubDate>
+      <description>（ブルームバーグ）：世界的な半導体株売りが続く中、韓国総合株価指数（KOSPI）は15日、一時8%下落した。SKハイニックスの株価は、4カ月前に記録した最高値からの下げ率が57%に達した。AIトレードの中でも特に過… ...</description>
       <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
@@ -43,19 +36,15 @@
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3014144</wire:canonicalUrl>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3013507</wire:canonicalUrl>
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
-      <title>米国債が全面高、世界的な株安でリスク回避強まる－日本国債も上昇</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3013844</link>
-      <guid isPermaLink="false">1756434b79fcfd0be01be346</guid>
-      <pubDate>Thu, 15 Oct 2026 03:17:00 +0000</pubDate>
-      <description>（ブルームバーグ）：米国債がアジア時間の取引で全年限で上昇した。世界的な株安を受け、安全資産への需要が高まった。アジア時間15日序盤の取引で、指標となる米10年国債利回りは7ベーシスポイント（bp、1bp＝0.0… ...</description>
-      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;50分前
-ルルレモン、原材料開発チーム再編－「透けるレギンス」問題受け&lt;/p&gt;</content:encoded>
+      <title>デビアス買収にリシュモンとシグネットが参加検討－交渉進展</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3015747</link>
+      <guid isPermaLink="false">290ea29b37e94ac9671c0120</guid>
+      <pubDate>Wed, 14 Oct 2026 21:59:00 +0000</pubDate>
+      <description>（ブルームバーグ）：高級ブランドを展開するリシュモンと米宝飾品小売りシグネット・ジュエラーズは、ダイヤモンド採掘大手デビアスの買収で最有力の位置にあるコンソーシアムへの参加に向け協議している。事情に… 米ジャーナリスト団体ロシアに拘束の北海道新聞記者の即時解放求める ...</description>
       <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
@@ -63,19 +52,15 @@
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3013844</wire:canonicalUrl>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3015747</wire:canonicalUrl>
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
-      <title>ウォーシュFRB議長の発言に注目集まる－予想上回る9月米CPI受け</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3013511</link>
-      <guid isPermaLink="false">385063c7166ae6324988bcf9</guid>
-      <pubDate>Wed, 14 Oct 2026 22:37:00 +0000</pubDate>
-      <description>（ブルームバーグ）：9月の米消費者物価指数（CPI）が予想を上回る強い内容となったことで、米連邦準備制度が今月利上げするかもしれないとの観測が一時急浮上した。複数の当局者がここ数週間、判断を急ぐ必要はな… ...</description>
-      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;50分前
-ルルレモン、原材料開発チーム再編－「透けるレギンス」問題受け&lt;/p&gt;</content:encoded>
+      <title>城内経財相、リフレ政策は今必要としていない－デフレ脱却ステージに</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3015750</link>
+      <guid isPermaLink="false">f25593e73c5cc8ba3365ef0a</guid>
+      <pubDate>Wed, 14 Oct 2026 21:57:00 +0000</pubDate>
+      <description>（ブルームバーグ）：城内実経済財政担当相は15日、日本経済の現状はデフレから脱却しつつあるステージにあるとし、「リフレ政策は今必要としている政策ではない」と語った。都内で開かれたLSEG（ロンドン証券取引… ...</description>
       <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
@@ -83,51 +68,94 @@
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3013511</wire:canonicalUrl>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3015750</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>スマートニュースが12月に上場先送り、時価総額目標500億円－関係者</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3015600</link>
+      <guid isPermaLink="false">615e2dfc93a624b6a95cea29</guid>
+      <pubDate>Wed, 14 Oct 2026 20:45:00 +0000</pubDate>
+      <description>（ブルームバーグ）：ニュースアプリを運営するスマートニュースが東京証券取引所への上場時期を12月に先送りし、過去の評価額を大幅に割り込む時価総額での新規株式公開（IPO）を目指している。事情に詳しい複数… ホワイトハウスの新報道官 「弁護士」自称も司法試験に合格していなかったWSJ報道 ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3015600</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>フランス債巡るECBの市場介入、可能性は低い－ドラギ前総裁が見通し</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3015601</link>
+      <guid isPermaLink="false">2680f7994e37c971419974e8</guid>
+      <pubDate>Wed, 14 Oct 2026 20:44:00 +0000</pubDate>
+      <description>（ブルームバーグ）：欧州中央銀行（ECB）のマリオ・ドラギ前総裁は、ECBがフランスを支援するため、近く市場介入に踏み切る可能性は低いとの見通しを示した。当時のECB総裁としてユーロ圏債務危機への対応を担っ… ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3015601</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>全銀協会長「銀行業界も深刻に受け止め」－不正アクセス多発で</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3015603</link>
+      <guid isPermaLink="false">be6daabd43088659b156646f</guid>
+      <pubDate>Wed, 14 Oct 2026 20:11:00 +0000</pubDate>
+      <description>（ブルームバーグ）：全国銀行協会の加藤勝彦会長（みずほ銀行頭取）は15日の定例記者会見で、インターネットを通じた企業への不正アクセスや顧客情報の漏えいが頻発していることについて、「銀行界も深刻に受け止… 57分前 ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3015603</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>ECB、ややタカ派寄りの政策姿勢必要に－次期総裁候補クノット氏</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3015218</link>
+      <guid isPermaLink="false">079abe0b29ea06e22f3c9bb8</guid>
+      <pubDate>Wed, 14 Oct 2026 19:34:00 +0000</pubDate>
+      <description>（ブルームバーグ）：相次ぐ経済・地政学的な混乱を受け、欧州中央銀行（ECB）は金融引き締めにやや傾いた政策姿勢を取る必要が生じる可能性がある。ラガルド総裁の後任有力候補の1人であるクノット前オランダ中銀… 日銀小枝審議委員「利上げに過度に慎重になることはない」 ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3015218</wire:canonicalUrl>
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
       <title>米中間選挙・トランプ大統領がアラスカ州で遊説…物価高で崖っぷち それでもMAGA派が“トランプ推し”の理由【news23】</title>
       <link>https://newsdig.tbs.co.jp/articles/-/3012565?page=3</link>
       <guid isPermaLink="false">b6ba20470c0d2695baeaac0f</guid>
-      <pubDate>Wed, 14 Oct 2026 16:52:00 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 18:52:00 +0000</pubDate>
       <description>政権発足から1年10か月。ロイター通信の世論調査では、支持率が過去最低水準の32％に。一方で、この約3割の人たちが、何があってもトランプ氏から離れない「岩盤支持層」とされています。</description>
-      <dc:creator>TBS NEWS DIG</dc:creator>
-      <content:encoded>&lt;p&gt;米中間選挙・トランプ大統領がアラスカ州で遊説…物価高で崖っぷち　それでもMAGA派が“トランプ推し”の理由【news23】&lt;/p&gt;&lt;p&gt;TBSテレビ&lt;/p&gt;&lt;p&gt;2026年10月15日(木) 01:52&lt;/p&gt;&lt;p&gt;国際
-news23&lt;/p&gt;&lt;p&gt;逆風でも支える岩盤支持層“MAGA派”がトランプ氏を推す理由&lt;/p&gt;&lt;p&gt;牙城で吹き荒れる逆風は、トランプ氏自身の失速のあらわれでもあります。&lt;/p&gt;&lt;p&gt;政権発足から1年10か月。ロイター通信の世論調査では、支持率が過去最低水準の32％に。一方で、この約3割の人たちが、何があってもトランプ氏から離れない「岩盤支持層」とされています。&lt;/p&gt;&lt;p&gt;「MAGA派」と呼ばれる熱狂的な支持者たちは、いまのトランプ氏に何を期待しているのか。&lt;/p&gt;&lt;p&gt;ペンシルベニア州に住むクズマさんは、自他ともに認めるMAGA派です。&lt;/p&gt;&lt;p&gt;トランプ支持者“MAGA派”　クズマさん&lt;/p&gt;&lt;p&gt;「誰もがMAGAであるべきだ。みんなアメリカが偉大であってほしいと思っている」&lt;/p&gt;&lt;p&gt;争点となっている「物価高」の批判は、メディアによる誇張だと主張します。&lt;/p&gt;&lt;p&gt;トランプ支持者“MAGA派”　クズマさん&lt;/p&gt;&lt;p&gt;「昔から言うように、嘘を繰り返せば人々は信じ込むんだ」&lt;/p&gt;&lt;p&gt;そんなクズマさんの心配ごとは、中間選挙の「投票率」。トランプ氏に直接投票することはできないため、支持者の関心がどこまで高まるかが焦点と言われています。&lt;/p&gt;&lt;p&gt;世論調査では、前回の大統領選挙でトランプ氏を支持した人のうち、中間選挙での投票に約半数が「熱心」と答えた一方、約2割は「関心がない」と答えています。&lt;/p&gt;&lt;p&gt;トランプ支持者“MAGA派”　クズマさん&lt;/p&gt;&lt;p&gt;「トランプのための選挙だと理解しなければ困ったことになる。もし中間選挙に敗れれば、我々はトランプ大統領を失ってしまう」&lt;/p&gt;&lt;p&gt;“崖っぷち”の中間選挙で、MAGAのトランプ支持者たちはどう動くのでしょうか。&lt;/p&gt;&lt;p&gt;次ページ&lt;/p&gt;&lt;p&gt;MAGA派はトランプ氏の“ストーリー”に熱狂か&lt;/p&gt;&lt;p&gt;1&lt;/p&gt;&lt;p&gt;2&lt;/p&gt;&lt;p&gt;3&lt;/p&gt;&lt;p&gt;4&lt;/p&gt;&lt;p&gt;この記事を読んでいかがでしたか？&lt;/p&gt;&lt;p&gt;参考になる&lt;/p&gt;&lt;p&gt;もっと知りたい&lt;/p&gt;&lt;p&gt;学びがある&lt;/p&gt;&lt;p&gt;シェア&lt;/p&gt;&lt;p&gt;X&lt;/p&gt;&lt;p&gt;LINE&lt;/p&gt;&lt;p&gt;コピー&lt;/p&gt;&lt;p&gt;URLをコピーしました&lt;/p&gt;&lt;p&gt;関連タグ：&lt;/p&gt;&lt;p&gt;物価
-トランプ大統領&lt;/p&gt;</content:encoded>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/-/3012565?page=3</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>AI相場は金利上昇を吸収できなくなったのか ～ 想定される3つのシナリオ 中でもハードランディングの可能性が最も高い</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3013020</link>
-      <guid isPermaLink="false">249e64e17341dbf7ac891f17</guid>
-      <pubDate>Wed, 14 Oct 2026 16:50:00 +0000</pubDate>
-      <description>10月14日に公表された米国の9月消費者物価指数（CPI）は市場予想を上回る内容となった。総合CPI、コアCPIともにインフレ圧力の根強さを示す結果となり、市場では「インフレ沈静化シナリオ」に対する疑念が改めて強… トップページ経済AI相場は金利上昇を吸収できなくなったのか ～ 想定される3つのシナリオ 中でもハードランディングの可能性が最も高い ...</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3013020</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>米中のはざまで生き残り模索、「ミドルパワー」が見据える新世界秩序</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3013849</link>
-      <guid isPermaLink="false">c2ff3805ccdf78dfe517d510</guid>
-      <pubDate>Wed, 14 Oct 2026 16:11:00 +0000</pubDate>
-      <description>（ブルームバーグ）：サプライチェーンの混乱や不安定な同盟関係によって世界秩序が変動する中、いわゆる「ミドルパワー」の国々は、生き残りに向けて新たな道を模索することを迫られている。米国と中国の競争激化… ドイツ 13歳未満の子どものSNS禁止へ13歳から18歳未満には段階的制限 EU・「子ども法案」発表 ...</description>
+      <title>中国製AIモデルの利用、セキュリティーリスクに－OpenAIのCFOが警告</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3012595</link>
+      <guid isPermaLink="false">cf5ac5a347e01aebc625b069</guid>
+      <pubDate>Wed, 14 Oct 2026 18:15:00 +0000</pubDate>
+      <description>（ブルームバーグ）：OpenAIのサラ・フライアー最高財務責任者（CFO）は14日、低コストの中国製AIモデルを利用する企業は、サイバーセキュリティー上のリスクを負うことになると警告した。ダブリンで開催された国際… ...</description>
       <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
@@ -135,15 +163,15 @@ news23&lt;/p&gt;&lt;p&gt;逆風でも支える岩盤支持層“MAGA派”がト
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3013849</wire:canonicalUrl>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3012595</wire:canonicalUrl>
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
-      <title>エヌビディアCEO、安全性に問題あるAI開発企業への供給停止も</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3013851</link>
-      <guid isPermaLink="false">97b595ed2cd0cef7b70b3665</guid>
-      <pubDate>Wed, 14 Oct 2026 15:54:00 +0000</pubDate>
-      <description>（ブルームバーグ）：米半導体大手エヌビディアのジェンスン・フアン最高経営責任者（CEO）は、安全性に問題があるAIソフトウエアを開発する顧客には半導体の供給を停止する考えを示した。一方、現在のAI技術を巡… ...</description>
+      <title>TikTok中国親会社、台湾メディアテックからAI半導体購入へ－合意近い</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3014438</link>
+      <guid isPermaLink="false">60b38c6599435e7290ee8ff6</guid>
+      <pubDate>Wed, 14 Oct 2026 17:16:00 +0000</pubDate>
+      <description>（ブルームバーグ）：中国の字節跳動（バイトダンス）は、台湾の聯発科技（メディアテック）からデータセンター向け半導体を購入する契約の締結に近づいている。事情に詳しい関係者が明らかにした。動画共有サイト… 「バーガーキング」で約1118万件の個人情報流出アプリの会員氏名や電話番号など 今月2日～7日に不正アクセス ...</description>
       <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
@@ -151,15 +179,15 @@ news23&lt;/p&gt;&lt;p&gt;逆風でも支える岩盤支持層“MAGA派”がト
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3013851</wire:canonicalUrl>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3014438</wire:canonicalUrl>
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
-      <title>SKハイニックス、米工場建設巡り対中装置輸出の認可求める－ロイター</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3013843</link>
-      <guid isPermaLink="false">2b82fa62da8e110bc8fa8c90</guid>
-      <pubDate>Wed, 14 Oct 2026 14:58:00 +0000</pubDate>
-      <description>（ブルームバーグ）：韓国のSKハイニックスは、米国に工場を建設する条件として、中国での生産拡大に向けて米国製の半導体製造装置を中国に輸出する承認を米政府に求めている。事情に詳しい関係者2人の話としてロ… 【速報】日経平均株価、一時3600円以上値下がり米金利高に警戒感で半導体株安受け 半導体大手・TSMCの決算発表前に利益確定売りも ...</description>
+      <title>モルガンS、ウェルス部門が好調－株式トレーディング収入は予想以上</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3012622</link>
+      <guid isPermaLink="false">6c329432e887642ed5ed4ef8</guid>
+      <pubDate>Wed, 14 Oct 2026 16:25:00 +0000</pubDate>
+      <description>（ブルームバーグ）：米モルガン・スタンレーが14日発表した7ー9月（第3四半期）決算は利益が前年同期比で増加した。株式トレーディング部門の収入がアナリスト予想を上回ったほか、ウェルス・マネジメント部門へ… ...</description>
       <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
@@ -167,55 +195,7 @@ news23&lt;/p&gt;&lt;p&gt;逆風でも支える岩盤支持層“MAGA派”がト
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3013843</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
-      <title>中国はドル離れではなく「ドル隠し」－米国債保有減少巡り観測広がる</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3013847</link>
-      <guid isPermaLink="false">8841ae1ed0c2dd7e79569753</guid>
-      <pubDate>Wed, 14 Oct 2026 13:35:00 +0000</pubDate>
-      <description>（ブルームバーグ）：ウォール街の多くのポートフォリオマネジャー同様、ダブルラインのヴィタリー・リバーマン氏も米国の債券について、外国勢の保有動向を定期的に調べてきた。トランプ米大統領のゼロサム的な通… ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3013847</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
-      <title>【日本市況】日経平均3600円安、AI懸念でリスクオフ－金利低下、円高</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3012799</link>
-      <guid isPermaLink="false">6ddda0ee6a7d77e9ffc04672</guid>
-      <pubDate>Wed, 14 Oct 2026 12:30:00 +0000</pubDate>
-      <description>（ブルームバーグ）：15日の日本市場では株式が大幅に下落、日経平均株価は6万6000円を割り込んだ。AI投資を巡る懸念や米国の早期利上げ観測を背景に半導体関連を中心に売りが優勢となっている。債券相場は上昇（… 【速報】日経平均株価、一時3000円以上値下がり米金利高に警戒感で半導体株安受け ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3012799</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
-      <title>アンソロピック、第3四半期の売上高が168億ドルに急増－IPO控え</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3012621</link>
-      <guid isPermaLink="false">20a7de9dc0ea304c7c37ab54</guid>
-      <pubDate>Wed, 14 Oct 2026 10:41:00 +0000</pubDate>
-      <description>（ブルームバーグ）：米AI開発のアンソロピックは、新規株式公開（IPO）に向けた計画を進める中、第3四半期の売上高が168億ドル（約2兆6600億円）に達したと投資家に説明した。事情に詳しい複数の関係者が明らかに… 【日本市況】株6万6000円割れ、コアウィーブ懸念－金利低下、円上昇 ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3012621</wire:canonicalUrl>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3012622</wire:canonicalUrl>
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
   </channel>
