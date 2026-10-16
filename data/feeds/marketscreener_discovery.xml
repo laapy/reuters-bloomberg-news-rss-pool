@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Amarketscreener.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Fri, 16 Oct 2026 03:41:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 08:50:52 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Pakistan school roof collapse kills 27 students, one teacher</title>
@@ -20,6 +20,51 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.marketscreener.com/news/seventeen-students-one-teacher-killed-in-school-roof-collapse-in-pakistan-ce785dd3d88df321</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Consensus FactSet Research Systems, Inc.</title>
+      <link>https://www.marketscreener.com/quote/stock/FACTSET-RESEARCH-SYSTEMS--12584/consensus/</link>
+      <guid isPermaLink="false">2d2d34e4a8e91548c2efc767</guid>
+      <pubDate>Wed, 14 Oct 2026 00:59:00 +0000</pubDate>
+      <description>Oct. 13 BMO Capital Adjusts Price Target on FactSet Research Systems to $314 From $300 MT Oct. 05 Autonomous Research Adjusts Price Target on FactSet Research Systems to $393 From $389, Maintains ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/FACTSET-RESEARCH-SYSTEMS--12584/consensus/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>State Street SPDR Bloomberg 1-3 Month T-Bill ETF - USD Stock</title>
+      <link>https://www.marketscreener.com/quote/etf/STATE-STREET-SPDR-BLOOMBE-38908502/</link>
+      <guid isPermaLink="false">8503c7f58516655ba08abce6</guid>
+      <pubDate>Wed, 14 Oct 2026 00:59:00 +0000</pubDate>
+      <description>Dec. 30 SPDR Series Trust - State Street SPDR Bloomberg 1-3 Month T-Bill ETF announces Monthly dividend, payable on October 06, 2026 CI Dec. 30 SPDR Series Trust - State Street SPDR Bloomberg 1-3 ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/quote/etf/STATE-STREET-SPDR-BLOOMBE-38908502/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Consensus S&amp;P Global, Inc.</title>
+      <link>https://www.marketscreener.com/quote/stock/S-P-GLOBAL-INC-27377749/consensus/</link>
+      <guid isPermaLink="false">cdbf12a8981758f80ade1369</guid>
+      <pubDate>Tue, 13 Oct 2026 17:00:00 +0000</pubDate>
+      <description>Oct. 14 JPMorgan Adjusts Price Target on S&amp;P Global to $520 From $530 MT Oct. 13 BMO Capital Adjusts Price Target on S&amp;P Global to $500 From $505 MT Oct. 12 Goldman Sachs Adjusts Price Target on S&amp;P ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/S-P-GLOBAL-INC-27377749/consensus/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -50,21 +95,6 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.marketscreener.com/news/abaxx-technologies-inc-reports-trading-results-for-the-six-months-ended-september-30-2026-and-thir-ce785dddde81ff20</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>State Street SPDR Bloomberg 1-3 Month T-Bill ETF - USD Stock</title>
-      <link>https://www.marketscreener.com/quote/etf/STATE-STREET-SPDR-BLOOMBE-38908502/</link>
-      <guid isPermaLink="false">8503c7f58516655ba08abce6</guid>
-      <pubDate>Tue, 13 Oct 2026 01:00:00 +0000</pubDate>
-      <description>Dec. 30 SPDR Series Trust - State Street SPDR Bloomberg 1-3 Month T-Bill ETF announces Monthly dividend, payable on October 06, 2026 CI Dec. 30 SPDR Series Trust - State Street SPDR Bloomberg 1-3 ...</description>
-      <wire:foundAt>marketscreener_discovery</wire:foundAt>
-      <wire:platform>MarketScreener</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/quote/etf/STATE-STREET-SPDR-BLOOMBE-38908502/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -143,48 +173,18 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Paramount Skydance Corporation Stock</title>
-      <link>https://www.marketscreener.com/quote/stock/PARAMOUNT-SKYDANCE-CORPOR-193240944/</link>
-      <guid isPermaLink="false">d5a41445dae6fb9bfee1dc4d</guid>
-      <pubDate>Tue, 09 Jun 2026 17:01:00 +0000</pubDate>
-      <description>Oct. 15 Skydance Corporation(NYSE:SKYD.WS) dropped from S&amp;P Global BMI Index CI Oct. 14 Skydance Corporation(NYSE:SKYD.WS) dropped from S&amp;P 500 Ex-Financials, Real Estate, Utilities and Transportation ...</description>
+      <title>Southern Company Stock</title>
+      <link>https://www.marketscreener.com/quote/stock/SOUTHERN-COMPANY-14441/</link>
+      <guid isPermaLink="false">0c1075d1df3054722f6f0dda</guid>
+      <pubDate>Thu, 30 Jul 2026 17:00:00 +0000</pubDate>
+      <description>06:19am Goldman Sachs Adjusts Price Target on Southern Company to $101 From $103 MT ...</description>
       <wire:foundAt>marketscreener_discovery</wire:foundAt>
       <wire:platform>MarketScreener</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/PARAMOUNT-SKYDANCE-CORPOR-193240944/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Liberty Global Ltd. Stock</title>
-      <link>https://www.marketscreener.com/quote/stock/LIBERTY-GLOBAL-LTD-13450308/</link>
-      <guid isPermaLink="false">cce0304a3830f0a7a020c15c</guid>
-      <pubDate>Tue, 21 Nov 2023 16:00:00 +0000</pubDate>
-      <description>Sep. 08 DigitalBridge, Partners to Acquire VodafoneZiggo Mobile Towers from Liberty Global for $777.2 Million MT ...</description>
-      <wire:foundAt>marketscreener_discovery</wire:foundAt>
-      <wire:platform>MarketScreener</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/LIBERTY-GLOBAL-LTD-13450308/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Netflix, Inc. Stock</title>
-      <link>https://www.marketscreener.com/quote/stock/NETFLIX-INC-44292425/</link>
-      <guid isPermaLink="false">27850b8735425075d7a9cbd0</guid>
-      <pubDate>Sun, 12 Jul 2020 17:00:00 +0000</pubDate>
-      <description>07:56pm Netflix Names Peter Rice Chief Content Officer MT 06:45pm Netflix names former Disney executive Rice as new content chief as Bajaria departs RE ...</description>
-      <wire:foundAt>marketscreener_discovery</wire:foundAt>
-      <wire:platform>MarketScreener</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/NETFLIX-INC-44292425/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/SOUTHERN-COMPANY-14441/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
