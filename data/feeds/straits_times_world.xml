@@ -1,11 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>The Straits Times — diagnostic source feed</title>
     <link>https://www.straitstimes.com/news/world/rss.xml</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Fri, 16 Oct 2026 17:51:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 20:41:09 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Trump says neither he nor Musk responsible for Ukraine loss of Starlink access</title>
+      <link>https://www.straitstimes.com/world/europe/trump-says-neither-he-nor-musk-responsible-for-ukraine-loss-of-starlink-access</link>
+      <guid isPermaLink="false">5cdf5edc9e84c4d48735c345</guid>
+      <pubDate>Fri, 16 Oct 2026 17:55:31 +0000</pubDate>
+      <description>WASHINGTON, Oct 16 - US President Donald Trump said on Friday that he did not think either he or Elon Musk was responsible for Ukraine losing Starlink access in a way that affected its military operations against Russia.</description>
+      <dc:creator>The Straits Times</dc:creator>
+      <content:encoded>&lt;p&gt;Trump says neither he nor Musk responsible for Ukraine loss of Starlink access
+Sign up now: Get ST&amp;#x27;s newsletters delivered to your inbox&lt;/p&gt;&lt;p&gt;Published   Oct 17, 2026, 01:55 AM&lt;/p&gt;&lt;p&gt;Updated   Oct 17, 2026, 02:00 AM&lt;/p&gt;&lt;p&gt;Set as preferred source&lt;/p&gt;&lt;p&gt;Listen&lt;/p&gt;&lt;p&gt;WASHINGTON, Oct 16 - US President Donald Trump said on Friday that he did not think either he or Elon Musk was responsible for Ukraine losing Starlink access in a way that affected its military operations against Russia.
+The reduction in services provided by the satellite company interrupted communications with headquarters and caused internet speeds to drop.
+Reuters reported on Thursday that the White House approved the reduction in Starshield services.&lt;/p&gt;&lt;p&gt;Trump, speaking to reporters as he left the White House on a trip to Georgia, said neither he nor Musk was responsible for Ukraine losing Starlink access.
+Any limit to Ukraine&amp;#x27;s access to the Starshield system was not imposed by the United States, Trump added.Starshield was developed by SpaceX specifically for government and national-security customers, particularly the US Department of Defense. Starshield uses the Starlink constellation as its backbone.
+Trump also he has a good relationship with Ukraine President Volodymyr Zelenskiy. REUTERS&lt;/p&gt;&lt;p&gt;See more on&lt;/p&gt;&lt;p&gt;Ukraine
+Elon Musk
+United States&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>straits_times_world</wire:foundAt>
+      <wire:platform>The Straits Times</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.straitstimes.com/world/europe/trump-says-neither-he-nor-musk-responsible-for-ukraine-loss-of-starlink-access</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Reuters reported</wire:evidence>
+    </item>
   </channel>
 </rss>
