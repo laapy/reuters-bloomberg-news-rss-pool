@@ -1,91 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss version="2.0">
   <channel>
     <title>Mint — diagnostic source feed</title>
     <link>https://www.livemint.com/rss/news</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 17 Oct 2026 01:28:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 06:02:18 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>Was White House behind Ukraine's Starlink, Starshield restriction? Trump breaks silence, says ‘it wasn’t me’ or Musk</title>
-      <link>https://www.livemint.com/news/us-news/was-white-house-behind-ukraines-starlink-starshield-restriction-trump-breaks-silence-says-it-wasn-t-me-or-musk-11792199672757.html</link>
-      <guid isPermaLink="false">3cd7f75cb974a11c0d9414e8</guid>
-      <pubDate>Sat, 17 Oct 2026 01:21:58 +0000</pubDate>
-      <description>US President Donald Trump's remarks came days after Ukrainian officials said SpaceX had restricted use of Starshield, a military-grade version of Starlink, without warning, impeding some military operations and its ability to defend civilians against intensifying attacks by Russia.</description>
-      <dc:creator>Akriti Anand</dc:creator>
-      <content:encoded>&lt;p&gt;US President Trump on Friday denied that the White House had ordered restrictions on SpaceX’s Starlink satellite internet services in Ukraine this week. Trump said he did not think either he or Elon Musk was responsible for Ukraine losing access to Starshield — Starlink&amp;#x27;s &amp;quot;military-grade&amp;quot; service.
-Reporters in Washington, DC, on Friday asked Trump who was responsible for pausing access for the Ukrainian military.
-“Well, I don’t know if it was anybody because it wasn’t me, and I don’t think it was Elon,” Trump said. “And from what I understand, it’s the same as it’s always been,&amp;quot; he was quoted by CNBC as saying.
-The Starlink, Starshield controversy
-Trump&amp;#x27;s remarks came days after Ukrainian officials said SpaceX had restricted use of Starshield, a military-grade version of Starlink, without warning, impeding some military operations and its ability to defend civilians against intensifying attacks by Russia.
-Ukraine relies on two satellite systems. One is SpaceX&amp;#x27;s Starlink, which is used for communications, ground forces, logistics and defensive drones — ones that shoot down incoming drones. The other is Starshield, which is used for offensive military purposes.
-“Both systems were restricted, according to Ukraine,” Axios had reported on Wednesday.
-Following the allegations, SpaceX boss pinned responsibility for any restrictions on the US government and Trump, posted on X, “Starshield systems are owned and controlled by the US government.”
-Musk said any restrictions on Starlink or Starshield in Ukraine would have come from decisions by the president or White House.
-Ukrainian forces have long relied on Starlink and Starshield to enable data gathering by their autonomous drones and for other communications during the war with Russia. The restrictions cut off connectivity for drones or other vehicles traveling above 160 kilometers per hour.
-Serhii Beskrestnov, an advisor to Ukrainian President Volodymyr Zelenskyy, wrote in a post on Telegram this week that, “Our armed forces did not receive a warning about these restrictions, and this led to the failure of a number of missions.”
-Radoslaw Sikorski, Poland’s deputy prime minister, criticised Musk on X about the restrictions. Poland has purchased Starlink services for Ukraine from SpaceX.
-“Hey, @elonmusk, big man, are you playing politics with your products again?” he wrote. “As your European customers, we are watching you.”
-The Telegraph reported Friday that Musk “approached Donald Trump with the idea of slowing down Starlink in Ukraine,” and both had a hand in imposing the restrictions.
-Reuters reported on Thursday, citing two US officials, that the call to restrict Starlink in Ukraine came from the White House, but did not say who made the order.
-According to Axios, US officials pointed to a technical malfunction in the system, but Ukrainian officials suspect that it was a warning shot from the Trump administration.
-Zelensky was quoted by Axios as saying, &amp;quot;We had massive [Russian] attacks today and it&amp;#x27;s a pity that we also had difficulties ... about Starlink and about intelligence and a lot of different surprises...We count on the partnership with the US but we just want to be very honest and very clear and be a strong partner.&amp;quot;
-On October 10, after Trump called on Ukraine to stop all attacks on Russian oil refineries, Musk wrote in a post on X, “Zelensky has gone too far.”
-Starlink access still not fully restored for Ukraine’s military, says Zelenskyy
-Even days after Ukrainian officials alleged a restriction on Starlink services, Volodymyr Zelenskyy said recently that the satellite internet service has not yet been fully restored, as media reports suggested the order to throttle the service had come from within the White House.
-Zelenskyy met European leaders on Friday in Brussels, where he asked the EU for another €70bn (£60bn) next year to fund Ukraine’s defence against Russia.
-Speaking after meeting EU leaders on Friday, Zelenskyy said that Starshield had not yet returned to normal.
-“Our defence ministry is in touch and my partners, they told me that there were signals from the White House that they would return these capabilities,” Zelenskyy said. “Have they returned to the previous speed limits? No. But is it coming back now? Yes.”
-(With inputs from reports)&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>mint_news</wire:foundAt>
-      <wire:platform>Mint</wire:platform>
-      <wire:relation>mention</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.86</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.livemint.com/news/us-news/was-white-house-behind-ukraines-starlink-starshield-restriction-trump-breaks-silence-says-it-wasn-t-me-or-musk-11792199672757.html</wire:canonicalUrl>
-      <wire:evidence>reporting reference, not an exact wire credit: Reuters reported</wire:evidence>
-    </item>
-    <item>
-      <title>Southern California Fire Burns Structures as Winds Intensify</title>
-      <link>https://www.livemint.com/news/southern-california-fire-burns-structures-as-winds-intensify-11792189207053.html</link>
-      <guid isPermaLink="false">eff71d86f2bba309ec59c20f</guid>
-      <pubDate>Fri, 16 Oct 2026 22:20:06 +0000</pubDate>
-      <description>A fast-moving wildfire in Orange County burned structures and forced evacuations Friday as powerful Santa Ana winds fueled a growing outbreak of fires across Southern California.</description>
-      <dc:creator>list.metadata.agency</dc:creator>
-      <content:encoded>&lt;p&gt;(Bloomberg) -- A fast-moving wildfire in Orange County burned structures and forced evacuations Friday as powerful Santa Ana winds fueled a growing outbreak of fires across Southern California. The Norte Fire in San Clemente emerged on Friday, prompting evacuation orders and burning 250 acres (101 hectares) as of 2:00 p.m. local time. Live footage from KABC showed the fire burning structures and threatening homes nearby. San Juan Capistrano School District sports and after school programs were canceled, the district said on social media, and a number of schools were dismissed early Friday.Meanwhile, at least one firefighter was injured and hundreds more are scrambling to contain a Malibu wildfire before dangerous winds ramp up again Friday.The Bryson Fire in Los Angeles County is among several conflagrations that have erupted in Southern California. Bryson had burned just 147 acres as of 10:39 a.m. local time Friday.But with more than 7,200 structures threatened and just 17% of the perimeter under containment, county officials said at a briefing Friday morning that they were mounting a large response before a multi-day Santa Ana windstorm causes conditions to deteriorate further.Gusts near the Bryson Fire footprint may reach 60 miles (97 kilometers) per hour by Friday afternoon, according to the US National Weather Service. At higher elevations through the San Gabriel Mountains, winds may top out closer to 80 mph.“This morning through this afternoon is our most critical period of time during this red flag event,” said Kevin McGowan, director of the Los Angeles County Office of Emergency Management. “Strong winds and very dry conditions will continue to cause fire starts to spread rapidly.”The Bryson Fire sits within 10 miles of major burn scars left behind in recent years. The fast-moving Franklin Fire destroyed 20 structures around Malibu just before Christmas 2024. A few weeks later, in early January 2025, the devastating Eaton and Palisades fires killed 31 people and inflicted billions in damages in the region.Though Santa Ana winds also fueled those blazes, weather service forecaster Rich Thompson said current fire conditions in Southern California are nowhere near as severe. Some areas have recently received rain that may limit fire spread. Ahead of the 2025 fires, “we’d had no rain for months,” Thompson said. “It’s not the same level at all, though it’s still very concerning.” As of Friday morning, more than 400 personnel had been deployed to fight the Malibu blaze. One had been transported to the hospital with minor injuries, according to Los Angeles County Fire Chief Anthony Marrone.The largest blaze active in Southern California is the Henderson Fire in San Diego County, near Camp Pendleton. Almost 2,100 acres had burned, with the fire 0% contained, as of midday Friday. The fire prompted the closure of north and southbound lanes on Interstate 5, according to the California Department of Transportation.In a bid to avoid starting new fires, PG&amp;amp;E Corp. and Edison International’s Southern California utility — two of California’s biggest electricity providers — have shut down circuits serving tens of thousands of customers this week. Edison had turned off power to more than 135,000 customers as of 2:30 p.m. local time.Edison said restoration work may begin as soon as Saturday.--With assistance from Sarah Gray, Julia Amann and Brian Eckhouse.More stories like this are available on bloomberg.com©2026 Bloomberg L.P.&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>mint_news</wire:foundAt>
-      <wire:platform>Mint</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.livemint.com/news/southern-california-fire-burns-structures-as-winds-intensify-11792189207053.html</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: ©2026 Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Malibu Fire Has Crews Racing Dryness, Fierce Santa Ana Winds</title>
-      <link>https://www.livemint.com/news/malibu-fire-has-crews-racing-dryness-fierce-santa-ana-winds-11792181045772.html</link>
-      <guid isPermaLink="false">c541c083dbf6a2f5e49dcbfb</guid>
-      <pubDate>Fri, 16 Oct 2026 20:04:05 +0000</pubDate>
-      <description>At least one firefighter has been injured and hundreds more are scrambling to contain a Malibu wildfire before dangerous winds ramp up again Friday.</description>
-      <dc:creator>list.metadata.agency</dc:creator>
-      <content:encoded>&lt;p&gt;(Bloomberg) -- At least one firefighter has been injured and hundreds more are scrambling to contain a Malibu wildfire before dangerous winds ramp up again Friday.The Bryson Fire in Los Angeles County had burned just 147 acres (59 hectares) as of 10:39 a.m. local time Friday. With more than 7,200 structures threatened and just 17% of the perimeter under containment, county officials said at a briefing Friday morning that they were mounting a large response before a multi-day Santa Ana windstorm causes conditions to deteriorate further.Gusts near the Bryson Fire footprint may reach 60 miles (97 kilometers) per hour by Friday afternoon, according to the US National Weather Service. At higher elevations through the San Gabriel Mountains, winds may top out closer to 80 mph.“This morning through this afternoon is our most critical period of time during this red flag event,” said Kevin McGowan, director of the Los Angeles County Office of Emergency Management. “Strong winds and very dry conditions will continue to cause fire starts to spread rapidly.”The Bryson Fire sits within 10 miles of major burn scars left behind in recent years. The fast-moving Franklin Fire destroyed 20 structures around Malibu just before Christmas 2024. A few weeks later, in early January 2025, the devastating Eaton and Palisades fires killed 31 people and inflicted billions in damages in the region.Though Santa Ana winds also fueled those blazes, weather service forecaster Rich Thompson said current fire conditions in Southern California are nowhere near as severe. Some areas have recently received rain that may limit fire spread. Ahead of the 2025 fires, “we’d had no rain for months,” Thompson said. “It’s not the same level at all, though it’s still very concerning.” As of Friday morning, more than 400 personnel had been deployed to fight the Malibu blaze. One had been transported to the hospital with minor injuries, according to Los Angeles County Fire Chief Anthony Marrone. The largest blaze currently active in Southern California is the Henderson Fire in San Diego County, near Camp Pendleton. Almost 2,100 acres had burned as of midday Friday. The fire prompted the closure of northbound lanes on Interstate 5 in the city of Oceanside, according to the California Department of Transportation.In a bid to avoid starting new fires, PG&amp;amp;E Corp. and Edison International’s Southern California utility — two of California’s biggest electricity providers — have shut down circuits serving tens of thousands of customers this week. Edison had turned off power to about 132,000 customers as of 12:25 p.m. local time.Edison said restoration work may begin as soon as Saturday.--With assistance from Sarah Gray, Julia Amann and Brian Eckhouse.(Updates throughout)More stories like this are available on bloomberg.com©2026 Bloomberg L.P.&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>mint_news</wire:foundAt>
-      <wire:platform>Mint</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.livemint.com/news/malibu-fire-has-crews-racing-dryness-fierce-santa-ana-winds-11792181045772.html</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: ©2026 Bloomberg</wire:evidence>
-    </item>
   </channel>
 </rss>
