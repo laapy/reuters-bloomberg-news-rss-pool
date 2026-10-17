@@ -1,28 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss version="2.0">
   <channel>
     <title>Bloomberg — diagnostic source feed</title>
     <link>https://feeds.bloomberg.com/businessweek/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 17 Oct 2026 14:07:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 17:26:56 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>UK Pumpkin Farms, Orchards Hurt by Summer Heat Cancel Fall Harvest Events</title>
-      <link>https://www.bloomberg.com/news/newsletters/2026-10-16/uk-pumpkin-farms-orchards-hurt-by-summer-heat-cancel-fall-harvest-events</link>
-      <guid isPermaLink="false">7e2e58bba60a59442af3f268</guid>
-      <pubDate>Fri, 16 Oct 2026 16:31:21 +0000</pubDate>
-      <description>Picture-perfect pumpkin patches are hard to find, and farmers are struggling.</description>
-      <dc:creator>Julia Press</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_businessweek</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/newsletters/2026-10-16/uk-pumpkin-farms-orchards-hurt-by-summer-heat-cancel-fall-harvest-events</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
   </channel>
 </rss>
