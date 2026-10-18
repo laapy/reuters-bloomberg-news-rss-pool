@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Aswissinfo.ch+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 18 Oct 2026 19:20:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 21:45:56 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Partners Group’s Gantner Calls for Swiss Tax on Firms EU Hiring</title>
@@ -141,6 +141,21 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
+      <title>EU Banks Face Extra Checks on Sovereign Bonds, Regulator Says</title>
+      <link>https://www.swissinfo.ch/eng/eu-banks-face-extra-checks-on-sovereign-bonds%2c-regulator-says/92192671</link>
+      <guid isPermaLink="false">48d2e241687cea98e19a64fe</guid>
+      <pubDate>Fri, 09 Oct 2026 01:10:00 +0000</pubDate>
+      <description>Europe’s banking supervisors are carrying out extra checks on the risks around lenders’ multitrillion portfolios of sovereign bonds, according to the head of one of the region’s top watchdogs.</description>
+      <wire:foundAt>swissinfo_discovery</wire:foundAt>
+      <wire:platform>SWI swissinfo.ch</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.swissinfo.ch/eng/eu-banks-face-extra-checks-on-sovereign-bonds%2c-regulator-says/92192671</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
       <title>China Defends Yuan Policy With Imbalances in Focus at EU Talks</title>
       <link>https://www.swissinfo.ch/eng/china-defends-yuan-policy-with-imbalances-in-focus-at-eu-talks/92189811</link>
       <guid isPermaLink="false">4f09908e4f318c815addd9b5</guid>
@@ -156,17 +171,35 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>International press relieved by Swiss immigration vote</title>
-      <link>https://www.swissinfo.ch/eng/swiss-democracy/international-press-relief-following-the-rejection-of-the-10-million/91588208</link>
-      <guid isPermaLink="false">c96537b1e2c89777fea731e0</guid>
-      <pubDate>Mon, 15 Jun 2026 04:06:00 +0000</pubDate>
-      <description>Read more: ‘Switzerland is a partial member of the EU,’ says historian Rising inequality, diesel deal and another execution Read more: Rising inequality, diesel deal and another execution Switzerland ...</description>
+      <title>Glencore Shrugs Off Coal Concerns Ahead of Australian Listing</title>
+      <link>https://www.swissinfo.ch/eng/glencore-shrugs-off-coal-concerns-ahead-of-australian-listing/92189945</link>
+      <guid isPermaLink="false">8aad2f5297ab69d34694b7ae</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Glencore Plc shrugged off concerns that its coal portfolio would make it unattractive to Australia’s A$4.8 trillion ($3.3 trillion) pension industry ahead of its listing in Sydney next Wednesday.</description>
       <wire:foundAt>swissinfo_discovery</wire:foundAt>
       <wire:platform>SWI swissinfo.ch</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.swissinfo.ch/eng/glencore-shrugs-off-coal-concerns-ahead-of-australian-listing/92189945</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>International press relieved by Swiss immigration vote</title>
+      <link>https://www.swissinfo.ch/eng/swiss-democracy/international-press-relief-following-the-rejection-of-the-10-million/91588208</link>
+      <guid isPermaLink="false">c96537b1e2c89777fea731e0</guid>
+      <pubDate>Mon, 15 Jun 2026 09:06:58 +0000</pubDate>
+      <description>Read more: ‘Switzerland is a partial member of the EU,’ says historian Rising inequality, diesel deal and another execution Read more: Rising inequality, diesel deal and another execution Switzerland ...</description>
+      <dc:creator>swissinfo.ch</dc:creator>
+      <content:encoded>&lt;p&gt;‘Switzerland is a partial member of the EU,’ says historian&lt;/p&gt;&lt;p&gt;Read more: ‘Switzerland is a partial member of the EU,’ says historian&lt;/p&gt;</content:encoded>
+      <wire:foundAt>swissinfo_discovery</wire:foundAt>
+      <wire:platform>SWI swissinfo.ch</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.swissinfo.ch/eng/swiss-democracy/international-press-relief-following-the-rejection-of-the-10-million/91588208</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
