@@ -1,11 +1,52 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Mint — diagnostic source feed</title>
     <link>https://www.livemint.com/rss/news</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 18 Oct 2026 16:46:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 19:20:41 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Milan protests turn violent as demonstrators clash with police over rising living costs</title>
+      <link>https://www.livemint.com/news/world/milan-protests-turn-violent-as-demonstrators-clash-with-police-over-rising-living-costs-11792345977754.html</link>
+      <guid isPermaLink="false">ca95bf994ab6970fe9661a97</guid>
+      <pubDate>Sun, 18 Oct 2026 18:24:13 +0000</pubDate>
+      <description>The unrest came a day after similar demonstrations and clashes were reported in several Italian cities, highlighting growing public discontent over the cost of living and the quality of public services</description>
+      <dc:creator>Livemint</dc:creator>
+      <content:encoded>&lt;p&gt;Police clashed with protesters in Milan on Sunday as demonstrations over rising living costs and poor public services turned violent, with demonstrators throwing stones, breaking shop windows and setting rubbish bins on fire.
+Riot police used tear gas and water cannons to disperse several hundred hooded protesters near the central Piazza Duomo, according to Reuters, citing sources.
+More than 60 protesters were taken to police stations for further checks, the report said.
+The unrest came a day after similar demonstrations and clashes were reported in several Italian cities, highlighting growing public discontent over the cost of living and the quality of public services.
+The latest violence added to pressure on Prime Minister Giorgia Meloni&amp;#x27;s government, which is preparing to address the situation at a meeting scheduled for Monday.
+28 protesters arrested after Saturday clashes
+Italian police arrested 28 protesters following clashes on Saturday in several northern cities, including Milan, Bologna, Brescia, Bergamo and Turin, according to a police report released on Sunday.
+The demonstrations spread across urban centres as protesters voiced concerns over rising household expenses and public services.
+Authorities faced the challenge of containing the unrest while restoring order in areas affected by vandalism and clashes. In Milan, the use of tear gas and water cannons followed incidents involving protesters who broke shop windows and set fire to bins near one of the city&amp;#x27;s central landmarks.
+The latest incidents came amid a broader wave of demonstrations across parts of Europe, where rising living costs and concerns about public services have fuelled public anger.
+Unrest draws comparisons with protests in France
+The violence in Italy echoed unrest in neighbouring France, where hundreds of thousands of people took to the streets on Saturday over rising costs and declining public services.
+The demonstrations in France were among the country&amp;#x27;s most violent in years, according to the report.
+The developments have drawn attention to mounting economic and social pressures facing governments across Europe, particularly as households contend with higher expenses and growing concerns about the quality and accessibility of public services.
+Although the demonstrations took place in different countries, the grievances cited in both cases included the cost of living and dissatisfaction with public services.
+The scale of the protests has also raised questions about how governments will respond to public demands while maintaining law and order.
+Meloni calls government meeting to address situation
+Italian Prime Minister Giorgia Meloni condemned the violence and announced that her government would meet on Monday to discuss how to respond to the situation.
+Meloni faces an election next year, adding political significance to the government&amp;#x27;s handling of the demonstrations.
+The planned meeting is expected to focus on the situation following the clashes, although specific measures to address the protesters&amp;#x27; grievances were not detailed in the report.
+The government faces the twin challenges of responding to concerns about living costs and public services while preventing further violence and damage to businesses.
+The latest clashes underscore the pressure on European governments to address economic concerns that have increasingly featured in public demonstrations.
+Further developments will depend on the government&amp;#x27;s response and whether authorities can contain the unrest while addressing the issues raised by demonstrators.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>mint_news</wire:foundAt>
+      <wire:platform>Mint</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.livemint.com/news/world/milan-protests-turn-violent-as-demonstrators-clash-with-police-over-rising-living-costs-11792345977754.html</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: according to Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>
