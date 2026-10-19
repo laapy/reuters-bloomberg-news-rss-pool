@@ -1,190 +1,198 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>BNN Bloomberg — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Abnnbloomberg.ca+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 19 Oct 2026 10:12:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 17:07:43 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>Statistics Canada set to release September inflation figures</title>
-      <link>https://www.bnnbloomberg.ca/business/economics/2026/10/19/statistics-canada-set-to-release-september-inflation-figures/</link>
-      <guid isPermaLink="false">bc9b585d57b6cdcfc01f37d3</guid>
-      <pubDate>Mon, 19 Oct 2026 02:50:00 +0000</pubDate>
-      <description>OTTAWA — Statistics Canada is set to report inflation data for September today. A Reuters poll of economists expects inflation accelerated to 3.2 per cent last month, up from three per cent in August.</description>
+      <title>Sentiment improved, but new tariffs weigh on business outlook: BoC report</title>
+      <link>https://www.bnnbloomberg.ca/business/economics/2026/10/19/sentiment-improved-but-new-tariffs-weigh-on-business-outlook-boc-report/</link>
+      <guid isPermaLink="false">9de0848b7a3b91cf5727ddfa</guid>
+      <pubDate>Mon, 19 Oct 2026 16:52:23 +0000</pubDate>
+      <description>The Bank of Canada’s latest outlook survey suggested that business sentiment improved on average in Q3, although concerns remained about rising costs.</description>
+      <dc:creator>The Canadian Press</dc:creator>
+      <content:encoded>&lt;p&gt;OTTAWA — The Bank of Canada’s latest outlook survey suggested that business sentiment improved on average in the third quarter, although concerns remained about rising costs and the war in the Middle East. However, about three-quarters of the interviews with businesses for the survey took place before trade talks between Canada and the United States broke down at the end of August and new Canadian counter-tariffs were announced. It says after the trade talks broke down, firms cited new U.S. tariffs on some goods and Canadian counter‑tariffs as factors weighing on their outlooks. The Bank of Canada says inflation expectations have risen alongside the new tariffs and the recent increase in energy prices. “The tariffs are also dampening business sentiment, weakening outlooks for exports and investment, and putting upward pressure on costs and prices,” the bank said in its report. The business outlook survey was conducted by in-person, video and phone interviews from Aug. 6 to Sept. 2. The bank said that at the time of the survey, a lessening of the drag from both trade tensions and geopolitical uncertainty in the Middle East helped firms report better sales outlooks than in the second quarter. The outlook survey said that roughly half the firms planned to continue passing some or all cost increases on to customers and that for several firms, those plans reflected somewhat improved demand and efforts to make up for past margin compression. At the same time, more companies than in the previous quarter said competitive pressures continue to limit their ability to increase prices. The report also noted that business investment intentions eased slightly, but remained robust with improvements in demand conditions supporting investment plans overall. In a separate report, also done mostly before the trade talks broke down, the Bank of Canada says its Canadian survey of consumer expectations found long-term inflation expectations rose to match those for the short term. The consumer report also says consumers reported better financial health than in the previous quarter, though high prices and economic uncertainty continue to weigh on Canadians. The reports comes ahead of the Bank of Canada’s next interest rate decision and monetary policy report set to be released on Oct. 28. This report by The Canadian Press was first published Oct. 19, 2026.&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/economics/2026/10/19/statistics-canada-set-to-release-september-inflation-figures/</wire:canonicalUrl>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/economics/2026/10/19/sentiment-improved-but-new-tariffs-weigh-on-business-outlook-boc-report/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Albertans head to polls in historic referendum on whether they want to stay in Canada</title>
-      <link>https://www.bnnbloomberg.ca/business/politics/2026/10/19/albertans-head-to-polls-in-historic-referendum-on-whether-they-want-to-stay-in-canada/</link>
-      <guid isPermaLink="false">84d7eb820bc88d3e1a74e693</guid>
-      <pubDate>Sun, 18 Oct 2026 22:03:00 +0000</pubDate>
-      <description>EDMONTON — Albertans head to the polls today for an historic vote on whether they want to stay in Canada. More than 1.3 million Albertans have already cast ballots by mail or in advanced polls in a ...</description>
+      <title>Higher gas prices drove inflation up to 3.1% in September: StatCan</title>
+      <link>https://www.bnnbloomberg.ca/business/economics/2026/10/19/higher-gas-prices-drove-inflation-up-to-31-in-september-statcan/</link>
+      <guid isPermaLink="false">234db575759b64720c23cf6c</guid>
+      <pubDate>Mon, 19 Oct 2026 16:30:46 +0000</pubDate>
+      <description>The annual pace of inflation rose to 3.1 per cent in September as war in the Middle East continued to drive up gas prices, Statistics Canada said Monday.</description>
+      <dc:creator>The Canadian Press</dc:creator>
+      <content:encoded>&lt;p&gt;OTTAWA — Canada’s annual inflation rate rose to 3.1 per cent in September as war in the Middle East continued to drive up gasoline prices, but economists say easing core inflation suggests higher energy costs have yet to spread widely throughout the economy. Statistics Canada said Monday the acceleration in headline inflation was led by a 27.8 per cent spike in gasoline prices last month compared with a year earlier, despite the switch to the less expensive winter gas blend. Excluding gasoline, however, consumer prices increased 2.2 per cent year-over-year in September after a 2.4 per cent rise in August. BMO chief economist Douglas Porter said while soaring gasoline prices are pushing inflation above the Bank of Canada’s target, underlying price pressures remain relatively contained. “The fact that a lot of measures of core inflation are holding steady at around two per cent suggests that the run-up in prices really is not spreading far and wide beyond the gasoline pump,” he said in an interview. “Overall inflation actually came in a just a little bit lower than what had been expected and there were lots of somewhat encouraging developments.” Economists had broadly expected inflation to accelerate to 3.2 per cent last month, up from three per cent in August, putting pressure on the Bank of Canada ahead of its next interest rate decision on Oct. 28. Yet Porter said the consumer price index report on its own “does nothing to advance the case for interest rate hikes.” The latest Statistics Canada inflation data showed moderation in grocery prices, with food purchased from stores up 1.7 per cent in September. That is the smallest yearly increase since May 2024. Driving the slowdown was a 2.9 per cent drop in prices for fresh vegetables, while sugar and confectionery items fell 2.7 per cent. Beef prices rose at a slower pace in September, up 8.7 per cent compared with an 11 per cent increase in August. Despite the year-over-year slowdown, prices for groceries have jumped 33 per cent since September 2020. September brought the yearly update to tuition fees, which rose 2.4 per cent following a 1.7 per cent increase in 2025, Statistics Canada said. Even though most tourism-related sectors saw normal seasonal price drops, ticket prices for flights surged 19.4 per cent in September, primarily because of escalating jet fuel costs. Meanwhile, September saw a wide divergence in inflation between regions. For example, inflation for all three Maritime provinces was above five per cent amid heating oil spikes. The agency said fuel oil and other fuels surged 57.8 per cent in September, hitting consumers hard in Atlantic Canada where many homes are heated with oil. Inflation in Ontario came in at 2.5 per cent in September, the lowest in the country. Porter said the wide gaps reflect deep differences in housing markets, as well as the downward pressure on central Canada due to trade issues with the United States. “We’ve got some really extreme regional variations across the country, and it’s showing up in the inflation numbers,” he said. Statistics Canada said measures of core inflation, which offer a clearer picture of underlying price trends by filtering out big price swings, eased slightly last month. The agency’s so-called CPI-trim, which excludes the biggest price increases and decreases, fell to 1.8 per cent year-over-year in September from 1.9 per cent in August. CPI-median, a measure of the midpoint of price changes across goods and services, declined to 1.9 per cent from two per cent. Andrew Grantham, senior economist with CIBC Capital Markets, said in a client note that the “hawkish tone” of Bank of Canada governor Tiff Macklem’s comments over the weekend had raised market expectations of an interest rate hike later this month. But the inflation report “suggests that there is little rush and policymakers can take more time to assess how U.S. trade relations and the impact of new tariffs develop before raising rates,” Grantham said. During a media roundtable from Thailand on Saturday, Macklem warned that persistently high energy prices were increasing the risk of broader inflation and that the central bank was prepared to raise rates if necessary. He said the prevailing message from his peers at the International Monetary Fund meetings in Bangkok was that the global economy has been performing better than expected in the face of ongoing wars in Iran and Ukraine, sweeping trade disruptions and higher borrowing costs from rising bond yields. But Macklem also said that resilience is increasingly “under strain” as shocks like the Middle East conflict persist and drive up energy prices. Some of those sources of resilience — like releasing global oil reserves — are being depleted, he said. “You can only release strategic energy, oil reserves so many times, but that has helped contain this energy price shock,” Macklem said. --- Brett Bundale, The Canadian Press This report by The Canadian Press was first published Oct. 19, 2026.&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/politics/2026/10/19/albertans-head-to-polls-in-historic-referendum-on-whether-they-want-to-stay-in-canada/</wire:canonicalUrl>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/economics/2026/10/19/higher-gas-prices-drove-inflation-up-to-31-in-september-statcan/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Alberta’s referendum is just the start: Kapelos</title>
-      <link>https://www.bnnbloomberg.ca/video/shows/2026/10/19/albertas-referendum-is-just-the-start-kapelos/</link>
-      <guid isPermaLink="false">f27db1a1daefa00a3cd2981f</guid>
-      <pubDate>Sun, 18 Oct 2026 16:59:00 +0000</pubDate>
-      <description>Even after the polls close, Alberta’s referendum could signify larger changes to come throughout the province, no matter what the ballot says.</description>
+      <title>Chorus Aviation buying SkyCare Air Ambulance for $40 million</title>
+      <link>https://www.bnnbloomberg.ca/business/company-news/2026/10/19/chorus-aviation-buying-skycare-air-ambulance-for-40-million/</link>
+      <guid isPermaLink="false">49b93a151315dbdd2d733435</guid>
+      <pubDate>Mon, 19 Oct 2026 14:30:40 +0000</pubDate>
+      <description>HALIFAX — Chorus Aviation Inc. has signed a deal to buy SkyCare Air Ambulance for $40 million. The company says SkyCare is the largest private fixed-wing air ambulance operator in northern Ontario. It ...</description>
+      <content:encoded>&lt;p&gt;HALIFAX — Chorus Aviation Inc. has signed a deal to buy SkyCare Air Ambulance for $40 million. The company says SkyCare is the largest private fixed-wing air ambulance operator in northern Ontario. It employs about 220 people across bases in Sioux Lookout, Thunder Bay and Kitchener in Ontario, as well as St. Andrews, Man. SkyCare operates a fleet of 22 aircraft, including turboprops and business jets configured for air ambulance and other specialized missions. Chorus says the purchase price will be funded by $32 million in cash with the remainder payable on or before March 31, 2029, subject to certain performance targets. The acquisition is expected to close in the fourth quarter of 2026. --- This report by The Canadian Press was first published Oct. 19, 2026.&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/2026/10/19/albertas-referendum-is-just-the-start-kapelos/</wire:canonicalUrl>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/10/19/chorus-aviation-buying-skycare-air-ambulance-for-40-million/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Alberta’s healthcare system quickly responds after deadly Wainwright fire</title>
-      <link>https://www.bnnbloomberg.ca/video/shows/2026/10/19/albertas-healthcare-system-quickly-responds-after-deadly-wainwright-fire/</link>
-      <guid isPermaLink="false">a6a2336538331002c1a33010</guid>
-      <pubDate>Sun, 18 Oct 2026 16:59:00 +0000</pubDate>
-      <description>Hospitals and emergency medical teams acted quickly to respond to the fire that injured dozens of people and killed four others. Kathy Le reports.</description>
+      <title>U.S. banning Chinese AI DeepSeek from government agency IT systems</title>
+      <link>https://www.bnnbloomberg.ca/business/international/2026/10/19/us-banning-chinese-ai-deepseek-from-government-agency-it-systems/</link>
+      <guid isPermaLink="false">a315593319b3198a3301e717</guid>
+      <pubDate>Mon, 19 Oct 2026 07:48:00 +0000</pubDate>
+      <description>The U.S. Homeland Security Department is ordering the removal of DeepSeek products and third-party services from U.S. civilian agency IT systems.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/2026/10/19/albertas-healthcare-system-quickly-responds-after-deadly-wainwright-fire/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/international/2026/10/19/us-banning-chinese-ai-deepseek-from-government-agency-it-systems/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Rapidly-moving fire moved on troops ‘within 30 seconds to a minute’: Maj. Gen L.W. Rutland</title>
-      <link>https://www.bnnbloomberg.ca/video/shows/2026/10/18/rapidly-moving-fire-moved-on-troops-within-30-seconds-to-a-minute-maj-gen-lw-rutland/</link>
-      <guid isPermaLink="false">1d5d3154fdda1672eab368ba</guid>
-      <pubDate>Sun, 18 Oct 2026 15:10:00 +0000</pubDate>
-      <description>Maj. Gen L.W. Rutland says the Company practiced during high winds and describes the rapidly-moving fire.</description>
+      <title>Total Energy Services Inc. Plans to Repurchase Shares</title>
+      <link>https://www.bnnbloomberg.ca/press-releases/2026/10/19/total-energy-services-inc-plans-to-repurchase-shares/</link>
+      <guid isPermaLink="false">4b1b3c2d4a7b75b47466bed9</guid>
+      <pubDate>Mon, 19 Oct 2026 06:32:00 +0000</pubDate>
+      <description>Total Energy Services Inc. (TSX:TOT) (“Total Energy” or the “Company”) announced today that it has filed a Notice with the Toronto Stock Exchange (the “TSX”) to undertake a normal course issuer bid ...</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/2026/10/18/rapidly-moving-fire-moved-on-troops-within-30-seconds-to-a-minute-maj-gen-lw-rutland/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/press-releases/2026/10/19/total-energy-services-inc-plans-to-repurchase-shares/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Military official names casualties of Wainwright CFB fire</title>
-      <link>https://www.bnnbloomberg.ca/video/shows/2026/10/18/military-official-names-casualties-of-wainwright-cfb-fire/</link>
-      <guid isPermaLink="false">73c3f55d82730af5266aca18</guid>
-      <pubDate>Sun, 18 Oct 2026 14:31:00 +0000</pubDate>
-      <description>Maj. Gen L.W. Rutland reads out the names of the victims in the Wainwright CFB fire and confirms the incident is ‘under active investigation.' ...</description>
+      <title>Allied Announces Appointment of Donald Clow to the Board of Trustees and Board Committee Chair Changes</title>
+      <link>https://www.bnnbloomberg.ca/press-releases/2026/10/19/allied-announces-appointment-of-donald-clow-to-the-board-of-trustees-and-board-committee-chair-changes/</link>
+      <guid isPermaLink="false">e123388382de28671b7b413b</guid>
+      <pubDate>Mon, 19 Oct 2026 06:28:00 +0000</pubDate>
+      <description>Allied Properties Real Estate Investment Trust (“Allied”) (TSX:AP.UN) today announced the appointment of Donald E. Clow to its Board of Trustees (the “Board”).</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/2026/10/18/military-official-names-casualties-of-wainwright-cfb-fire/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/press-releases/2026/10/19/allied-announces-appointment-of-donald-clow-to-the-board-of-trustees-and-board-committee-chair-changes/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>‘The nation is in mourning’: Watch Prime Minister Mark Carney's full address to Canadians</title>
-      <link>https://www.bnnbloomberg.ca/video/economics/2026/10/18/the-nation-is-in-mourning-watch-prime-minister-mark-carneys-full-address-to-canadians/</link>
-      <guid isPermaLink="false">6615d81053b6b05635734254</guid>
-      <pubDate>Sun, 18 Oct 2026 09:40:00 +0000</pubDate>
-      <description>PM Carney speaks on the tragic incident at CFB Wainwright and the mobilization of first responders, ministers, and officials thereafter.</description>
+      <title>'The pressure for them to hike rates very soon is a little bit lower': Jean on the BoC</title>
+      <link>https://www.bnnbloomberg.ca/video/shows/the-street/2026/10/19/the-pressure-for-them-to-hike-rates-very-soon-is-a-little-bit-lower-jean-on-the-boc/</link>
+      <guid isPermaLink="false">2c96c9819d5dd4c6d0b80a3e</guid>
+      <pubDate>Mon, 19 Oct 2026 06:21:00 +0000</pubDate>
+      <description>Jimmy Jean, vice-president, chief economist and strategist at Desjardins Group, joins BNN Bloomberg to discuss the latest CPI data for the month of September.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/10/18/the-nation-is-in-mourning-watch-prime-minister-mark-carneys-full-address-to-canadians/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/the-street/2026/10/19/the-pressure-for-them-to-hike-rates-very-soon-is-a-little-bit-lower-jean-on-the-boc/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Fire occurred at CFB Wainwright training centre: Here’s what we know so far</title>
-      <link>https://www.bnnbloomberg.ca/video/economics/2026/10/18/fire-occurred-at-cfb-wainwright-training-centre-heres-what-we-know-so-far/</link>
-      <guid isPermaLink="false">f10b758f600b1336f00bc469</guid>
-      <pubDate>Sun, 18 Oct 2026 05:21:00 +0000</pubDate>
-      <description>Gen. David Fraser says the military incident might be the worst he's ever seen in Canada.</description>
+      <title>Hammond Power Solutions Announces Retirement of Lead Director</title>
+      <link>https://www.bnnbloomberg.ca/press-releases/2026/10/19/hammond-power-solutions-announces-retirement-of-lead-director/</link>
+      <guid isPermaLink="false">138856d62d71fbb203cbbaf7</guid>
+      <pubDate>Mon, 19 Oct 2026 06:21:00 +0000</pubDate>
+      <description>Hammond Power Solutions Inc. (“HPS” or the “Company”; TSX: HPS.A) today announced that Mr. Fred Jaques will retire from the board of directors of the Company (the “Board”), effective November 3, 2026, ...</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/10/18/fire-occurred-at-cfb-wainwright-training-centre-heres-what-we-know-so-far/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/press-releases/2026/10/19/hammond-power-solutions-announces-retirement-of-lead-director/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Massive voter turnout could mean delays for Alberta’s referendum results</title>
-      <link>https://www.bnnbloomberg.ca/video/economics/2026/10/18/massive-voter-turnout-could-mean-delays-for-albertas-referendum-results/</link>
-      <guid isPermaLink="false">2ed3c662ca47b0fff8f5911a</guid>
-      <pubDate>Sun, 18 Oct 2026 04:27:00 +0000</pubDate>
-      <description>Elections Alberta has recruited thousands to count the ballots by hand, but with around a million people voting in advance, the results won’t be instant.</description>
+      <title>JPMorgan announces US$5B in investments in companies critical to U.S. national security</title>
+      <link>https://www.bnnbloomberg.ca/investing/2026/10/19/jpmorgan-announces-us5b-in-investments-in-companies-critical-to-us-national-security/</link>
+      <guid isPermaLink="false">605bcd1e35bd19672c85dac6</guid>
+      <pubDate>Mon, 19 Oct 2026 04:56:00 +0000</pubDate>
+      <description>JPMorgan Chase said it has invested US$5 billion in equity in industries critical to US economic and national security, as banks seek to capitalize on growing demand for domestic manufacturing, energy ...</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/10/18/massive-voter-turnout-could-mean-delays-for-albertas-referendum-results/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/investing/2026/10/19/jpmorgan-announces-us5b-in-investments-in-companies-critical-to-us-national-security/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Bank of Canada set for pair of important data drops ahead of 'live' rate decision</title>
-      <link>https://www.bnnbloomberg.ca/business/economics/2026/10/16/bank-of-canada-set-for-pair-of-important-data-drops-ahead-of-live-rate-decision/</link>
-      <guid isPermaLink="false">1fd9c3d0e0009f3f00b505ec</guid>
-      <pubDate>Sat, 17 Oct 2026 02:29:00 +0000</pubDate>
-      <description>The Bank of Canada will get a raft of fresh data to start next week as it weighs what could be a pivotal interest rate decision at the end of the month.</description>
+      <title>Trucking company Mullen Group buying customs brokerage firm Wilson International</title>
+      <link>https://www.bnnbloomberg.ca/business/company-news/2026/10/19/trucking-company-mullen-group-buying-customs-brokerage-firm-wilson-international/</link>
+      <guid isPermaLink="false">29e60559999293e84faa3d52</guid>
+      <pubDate>Mon, 19 Oct 2026 04:21:00 +0000</pubDate>
+      <description>Trucking and logistics company Mullen Group Ltd. has signed a deal to buy Wilson International Ltd., a customs brokerage firm with operations in Canada and the United States.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/economics/2026/10/16/bank-of-canada-set-for-pair-of-important-data-drops-ahead-of-live-rate-decision/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/10/19/trucking-company-mullen-group-buying-customs-brokerage-firm-wilson-international/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>U.S. is reviving shuttered nuclear plants to meet growing electricity demand and to power data centres</title>
-      <link>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/16/us-is-reviving-shuttered-nuclear-plants-to-meet-growing-electricity-demand-and-to-power-data-centres/</link>
-      <guid isPermaLink="false">6945e6fcc93a620b8de12c36</guid>
-      <pubDate>Fri, 16 Oct 2026 06:23:00 +0000</pubDate>
-      <description>The United States is making an unprecedented attempt to revive three shuttered nuclear plants to meet rising energy demand, including from large-scale data centres.</description>
+      <title>China's economy accelerated in the July-September quarter on robust exports</title>
+      <link>https://www.bnnbloomberg.ca/business/international/2026/10/19/chinas-economy-accelerated-in-the-july-september-quarter-on-robust-exports/</link>
+      <guid isPermaLink="false">8a378c096b433ba083367fa3</guid>
+      <pubDate>Mon, 19 Oct 2026 01:05:00 +0000</pubDate>
+      <description>China said Monday its economy grew 4.5 per cent in the July-September quarter from a year ago fueled by robust exports, moving closer to meeting its official annual growth target for the year as ...</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/16/us-is-reviving-shuttered-nuclear-plants-to-meet-growing-electricity-demand-and-to-power-data-centres/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/international/2026/10/19/chinas-economy-accelerated-in-the-july-september-quarter-on-robust-exports/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>U.S. markets are weighed down by an extended sell-off in the tech sector</title>
-      <link>https://www.bnnbloomberg.ca/markets/dow-jones/2026/10/16/us-markets-weighed-down-by-extended-sell-off-in-the-tech-sector/</link>
-      <guid isPermaLink="false">8f8e2e04a0727ab90ba9fcd1</guid>
-      <pubDate>Fri, 16 Oct 2026 04:33:00 +0000</pubDate>
-      <description>The S&amp;P 500 was down 1.1 per cent as of 2:01 p.m. Eastern time and on track for a weekly loss. The benchmark index is pulling back from the all-time high it set last week. The Dow Jones Industrial ...</description>
+      <title>Here's a list of September inflation rates for Canadian provinces</title>
+      <link>https://www.bnnbloomberg.ca/business/economics/2026/10/19/heres-a-list-of-september-inflation-rates-for-canadian-provinces/</link>
+      <guid isPermaLink="false">45b1d43866fd5de558864723</guid>
+      <pubDate>Mon, 19 Oct 2026 00:01:00 +0000</pubDate>
+      <description>Canada’s annual inflation rate was 3.1 per cent in September, Statistics Canada says. Here’s what happened in the provinces ...</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/dow-jones/2026/10/16/us-markets-weighed-down-by-extended-sell-off-in-the-tech-sector/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/economics/2026/10/19/heres-a-list-of-september-inflation-rates-for-canadian-provinces/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
