@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>The Economic Times — diagnostic source feed</title>
     <link>https://economictimes.indiatimes.com/rssfeedsdefault.cms</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 19 Oct 2026 00:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 04:29:32 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Gold edges higher as investors assess Fed rate-hike odds</title>
+      <link>https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-higher-as-investors-assess-fed-rate-hike-odds/articleshow/135037837.cms</link>
+      <guid isPermaLink="false">b4f6d64917d191d43e981b4a</guid>
+      <pubDate>Mon, 19 Oct 2026 02:09:00 +0000</pubDate>
+      <description>In early Asian trading, gold prices saw a modest uptick as speculation swirled regarding the Federal Reserve's policy stance. Investors are closely watching remarks from Fed Chairman Kevin Warsh on the state of the U.S. economy and rising inflation concerns. As import costs climb, expectations for a rate hike this December are building. Furthermore, unrest in the Middle East is contributing to market volatility, influencing investor confidence.</description>
+      <dc:creator>Reuters</dc:creator>
+      <content:encoded>&lt;p&gt;Gold prices edged higher in early Asian trading on Monday as investors weighed the likelihood of a Federal Reserve rate hike later this year and awaited fresh cues on the US central bank&amp;#x27;s policy path.FundamentalsSpot gold was up 0.2% at $4,174.54 per ounce by 0031 GMT, while U.S. gold futures for December delivery rose 0.4% to $4,195.70.Fed Chairman Kevin Warsh said on Friday he was optimistic about the strength of the US economy and surprised by how well global economies had hung in there despite energy shocks and tighter monetary policy aimed at curbing inflation.US import prices increased more than expected in September, boosted by higher costs for energy products and a range of other goods, further evidence of rising inflation pressures as the Middle East conflict persists.According to CME&amp;#x27;s FedWatch Tool, traders are pricing in a 16% chance of a rate hike this month and a 92% chance of an increase in December.While gold is typically considered a hedge against inflation, higher interest rates reduce the appeal of the non-yielding asset.The European Central Bank is likely to raise interest rates by 25 basis points at least one more time this year to fight inflationary pressures, the International Monetary Fund said on Friday in its regular forecast report for Europe.On the geopolitical front, Egypt is ready to provide Saudi Arabia with any support needed to safeguard its security and stability, the presidency said on Sunday, as attacks by Yemen&amp;#x27;s Iran-aligned Houthis on the kingdom raise the risk of a broader Middle East conflict.Among other metals, spot silver rose 0.5% to $57.27 per ounce, platinum gained 0.4% to $1,637.24 and palladium climbed roughly 1% to $1,122.32.Data/Events (Gmt)0200 China Urban Investment(YTD), YY September0200 China Retail Sales, YY September0200 China GDP, YY Q30200 China Unemp Rate Urban Area, September0400 Japan Tertiary Ind Act NSA, August N/A UK House Price Rightmove MM, YY October&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>economic_times</wire:foundAt>
+      <wire:platform>The Economic Times</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-higher-as-investors-assess-fed-rate-hike-odds/articleshow/135037837.cms</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>
