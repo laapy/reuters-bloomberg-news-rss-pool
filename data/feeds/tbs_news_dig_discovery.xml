@@ -1,11 +1,220 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>TBS NEWS DIG — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Anewsdig.tbs.co.jp+%28Reuters+OR+Bloomberg+OR+%E3%83%AD%E3%82%A4%E3%82%BF%E3%83%BC+OR+%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%90%E3%83%BC%E3%82%B0%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 20 Oct 2026 15:48:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 19:55:42 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>南北スーダン係争地にドローン攻撃 約73人死亡</title>
+      <link>https://newsdig.tbs.co.jp/articles/-/3026230</link>
+      <guid isPermaLink="false">aed90a8b7f50c5e6d9f4ad2c</guid>
+      <pubDate>Tue, 20 Oct 2026 12:09:26 +0000</pubDate>
+      <description>アフリカのスーダンと南スーダンが領有権を争う地域の市場がドローン攻撃を受け、およそ73人が死亡しました。ロイター通信は南スーダンの当局者の話として19日、スーダンとの係争地、アビエイにある市場が複数のド… 給食おかずを100円〜300円で自販機販売 「夜の時間が楽に」 新潟県内初の取り組み ...</description>
+      <dc:creator>TBS NEWS DIG</dc:creator>
+      <content:encoded>&lt;p&gt;南北スーダン係争地にドローン攻撃　少なくとも153人死亡&lt;/p&gt;&lt;p&gt;TBSテレビ&lt;/p&gt;&lt;p&gt;2026年10月20日(火) 21:09&lt;/p&gt;&lt;p&gt;国際&lt;/p&gt;&lt;p&gt;アフリカのスーダンと南スーダンが領有権を争う地域の市場がドローン攻撃を受け、150人以上が死亡しました。ロイター通信は南スーダンの当局者の話として19日、スーダンとの係争地、アビエイにある市場が複数のド…&lt;/p&gt;&lt;p&gt;続きを読む&lt;/p&gt;</content:encoded>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/-/3026230</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>ブレント原油が111ドル台、5カ月ぶり高値－イランの攻撃リスクを意識</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3026225</link>
+      <guid isPermaLink="false">1a09710ddc5df686df8d56b5</guid>
+      <pubDate>Tue, 20 Oct 2026 11:35:00 +0000</pubDate>
+      <description>（ブルームバーグ）：20日の取引で、北海ブレント原油先物が5カ月ぶりの高値に上昇。世界各地で燃料価格がすでに高止まりする中で、イランの攻撃がエネルギー供給を脅かすリスクが意識されている。原油相場の国際… フランス大規模デモリモージュ市庁舎損壊容疑で極左活動家逮捕 ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;23分前
+みずほ銀行など口座開設で「免許証の顔写真」使用とりやめへ 相次ぐ個人情報漏えいを受け&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3026225</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>独仏10年債スプレッド、再び150bpに－抗議活動や財政への懸念根強く</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3026076</link>
+      <guid isPermaLink="false">a8475db9dfff9705c7d6fe0e</guid>
+      <pubDate>Tue, 20 Oct 2026 11:19:00 +0000</pubDate>
+      <description>（ブルームバーグ）：フランス債のリスクを示す指標であるフランス10年債とドイツ10年債との利回り差（スプレッド）が20日、2ベーシスポイント（bp、1bp＝0.01%）拡大し150bpとなった。財政赤字の抑制と生活費高騰… ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3026076</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>トランプ米政権、DeepSeekを連邦政府機関のシステムから排除へ</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3026249</link>
+      <guid isPermaLink="false">744d1624d8df7a124f15601d</guid>
+      <pubDate>Tue, 20 Oct 2026 10:54:00 +0000</pubDate>
+      <description>（ブルームバーグ）：トランプ米政権は、軍以外の連邦政府機関が中国のAIスタートアップ、DeepSeek（ディープシーク）の製品・サービスを利用することを禁止した。同社の中国での事業活動が国家安全保障上の脅威と… フランス大規模デモリモージュ市庁舎損壊容疑で極左活動家逮捕 ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3026249</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>赤沢経産相、EUのEV優遇策で日本除外を懸念－同等扱い要求へ</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3026178</link>
+      <guid isPermaLink="false">6bfcc793217c54b0779dcfed</guid>
+      <pubDate>Tue, 20 Oct 2026 10:35:00 +0000</pubDate>
+      <description>（ブルームバーグ）：赤沢亮正経済産業相は20日の閣議後会見で、欧州連合（EU）が検討する欧州製の電気自動車（EV）優遇策について、日本製が対象外となれば「影響が小さいとはとても言えない」と述べた。日本製品… フランス大規模デモリモージュ市庁舎損壊容疑で極左活動家逮捕 ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;23分前
+みずほ銀行など口座開設で「免許証の顔写真」使用とりやめへ 相次ぐ個人情報漏えいを受け&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3026178</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>ニデック永守氏､ほとんどの事案で任務懈怠－計276億円の損害と調査委</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3025880</link>
+      <guid isPermaLink="false">3107b6964db7186f61eaa632</guid>
+      <pubDate>Tue, 20 Oct 2026 10:17:00 +0000</pubDate>
+      <description>（ブルームバーグ）：ニデックの不正会計での現旧幹部による法的責任に関する調査報告書が20日公表され、調査対象としたほとんどの事案で同社創業者の永守重信氏が任務懈怠があったと認定した。役員責任調査委員会… ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3025880</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>インドネシア株反発、MSCIの格下げ回避に向け当局対応－実効性疑念</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3026179</link>
+      <guid isPermaLink="false">94e81c96aa727af963aa4420</guid>
+      <pubDate>Tue, 20 Oct 2026 09:19:00 +0000</pubDate>
+      <description>（ブルームバーグ）：20日のインドネシア株は反発。指数算出会社MSCIによる2段階格下げの可能性を回避する措置を講じるため、当局が動いたことを織り込んだ。ただ、MSCIの懸念に対応するには措置が十分なのか、疑… フランス大規模デモリモージュ市庁舎損壊容疑で極左活動家逮捕 ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;23分前
+みずほ銀行など口座開設で「免許証の顔写真」使用とりやめへ 相次ぐ個人情報漏えいを受け&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3026179</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>銀行株が下げ幅拡大、20年債入札好調で長期金利ピークアウトとの見方</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3024831</link>
+      <guid isPermaLink="false">04076cd6d0989aff959dd638</guid>
+      <pubDate>Tue, 20 Oct 2026 06:44:00 +0000</pubDate>
+      <description>（ブルームバーグ）：20日午後の東京株式市場では銀行株が下げ幅を広げている。20年利付国債入札が強い結果となり、長期金利がピークアウトするとの見方が重しになっている。東証株価指数（TOPIX）銀行業指数は一時… ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3024831</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>Z.AI創業者、中国情報機関との関連疑われる機関が資金提供の研究参加</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3026077</link>
+      <guid isPermaLink="false">12d137e44418201e2ff180d9</guid>
+      <pubDate>Tue, 20 Oct 2026 06:21:00 +0000</pubDate>
+      <description>（ブルームバーグ）：中国の有力AI企業の1社、Z.AI（北京智譜華章科技）の創業者4人が、同国の主要情報機関と「非常に強いつながり」があると英政府が指摘した技術研究機関との共同プロジェクトで研究に携わってい… ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3026077</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>国内投資家の日本国債買い越し、上半期は2009年度以来の高水準</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3025884</link>
+      <guid isPermaLink="false">54f6ed197bd874038f1d8d98</guid>
+      <pubDate>Tue, 20 Oct 2026 05:56:00 +0000</pubDate>
+      <description>（ブルームバーグ）：年金基金や銀行など国内の主要投資家による日本国債の買越額が年度上半期として2009年度以来の大きさとなった。日本証券業協会が20日に公表した公社債店頭売買高をブルームバーグが集計したと… ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;23分前
+みずほ銀行など口座開設で「免許証の顔写真」使用とりやめへ 相次ぐ個人情報漏えいを受け&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3025884</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>フランス小売り大手カルフール、業績予想を下方修正－暴動で客足減少</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3026336</link>
+      <guid isPermaLink="false">c6fee5b88365a0d105eaca71</guid>
+      <pubDate>Tue, 20 Oct 2026 05:26:00 +0000</pubDate>
+      <description>（ブルームバーグ）：フランスの小売り大手カルフールは、通期の業績見通しを下方修正した。同国で最近起きた抗議行動が消費者心理を冷やし、客足が遠のいたことが響いた。同社は今年の調整後1株利益（EPS）の見通… ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3026336</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>過去最低の31％ トランプ大統領の支持率 ロイター通信など調査 不支持は66％ 中間選挙を前に逆風か</title>
+      <link>https://newsdig.tbs.co.jp/articles/-/3023372</link>
+      <guid isPermaLink="false">4893e1c3bd0140d02de9106d</guid>
+      <pubDate>Tue, 20 Oct 2026 02:13:00 +0000</pubDate>
+      <description>ロイター通信は19日、最新の世論調査でアメリカのトランプ大統領の支持率が過去最低の31％を記録したと報じました。世論調査は、ロイター通信と調査会社イプソスが今月16日から19日に実施したもので、トランプ大統… ...</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/-/3023372</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
   </channel>
 </rss>
