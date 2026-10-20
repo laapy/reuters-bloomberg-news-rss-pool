@@ -1,311 +1,223 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>TBS NEWS DIG — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Anewsdig.tbs.co.jp+%28Reuters+OR+Bloomberg+OR+%E3%83%AD%E3%82%A4%E3%82%BF%E3%83%BC+OR+%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%90%E3%83%BC%E3%82%B0%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 20 Oct 2026 05:48:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 11:07:49 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>アップル、28日に新製品発表会－初のタッチ画面MacBook Pro投入へ - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE1ySVNIX0YwZzRTLXFRMWpkZ21CbENsd083eFNOcHdTcE5wMTJaNTlUdDQzLUN2bnFnN1hRR0c1bUw1NGhXSUZkM1lvMXlPcWt1NXFsaHNUYXc5cTAzNnl2aE1obmZ4SlVDTENXRjJyZjhrTzND?oc=5</link>
-      <guid isPermaLink="false">2df182a731471c40f2f11475</guid>
-      <pubDate>Tue, 20 Oct 2026 04:01:00 +0000</pubDate>
-      <description>アップル、28日に新製品発表会－初のタッチ画面MacBook Pro投入へ    TBS NEWS DIG</description>
+      <title>独仏10年債スプレッド、再び150bpに－抗議活動や財政への懸念根強く</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3026076</link>
+      <guid isPermaLink="false">a8475db9dfff9705c7d6fe0e</guid>
+      <pubDate>Tue, 20 Oct 2026 09:18:00 +0000</pubDate>
+      <description>（ブルームバーグ）：フランス債のリスクを示す指標であるフランス10年債とドイツ10年債との利回り差（スプレッド）が20日、2ベーシスポイント（bp、1bp＝0.01%）拡大し150bpとなった。財政赤字の抑制と生活費高騰… ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;22分前
+民放連会員のうち184社が「ガバナンス指針」への対応状況を公表 人権尊重や法令遵守などの取り組みを自主点検&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
+      <wire:relation>repost</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
+      <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE1ySVNIX0YwZzRTLXFRMWpkZ21CbENsd083eFNOcHdTcE5wMTJaNTlUdDQzLUN2bnFnN1hRR0c1bUw1NGhXSUZkM1lvMXlPcWt1NXFsaHNUYXc5cTAzNnl2aE1obmZ4SlVDTENXRjJyZjhrTzND?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3026076</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
-      <title>20年国債入札、応札倍率は過去最高水準 - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE5WT0Nna1M0OUV3VVNLTGxhd1FDUXNVWHA4RmdlcG5NdFlsT0pjZkxNVnRiRnRRWTVmU2NlTUNHMG94dm1oYkpOQXpCalg5T2FYTXFVeTRrYl9tamxPZVJlLVpfT1hBMEhzdHBpbFBLVmUtcGQ4?oc=5</link>
-      <guid isPermaLink="false">68863f15826be14514223cf4</guid>
-      <pubDate>Tue, 20 Oct 2026 03:38:00 +0000</pubDate>
-      <description>20年国債入札、応札倍率は過去最高水準    TBS NEWS DIG</description>
+      <title>ニデック永守氏､ほとんどの事案で任務懈怠－計276億円の損害と調査委</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3025880</link>
+      <guid isPermaLink="false">3107b6964db7186f61eaa632</guid>
+      <pubDate>Tue, 20 Oct 2026 08:18:00 +0000</pubDate>
+      <description>（ブルームバーグ）：ニデックの不正会計での現旧幹部による法的責任に関する調査報告書が20日公表され、調査対象としたほとんどの事案で同社創業者の永守重信氏が任務懈怠があったと認定した。役員責任調査委員会… ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;21分前
+民放連会員のうち184社が「ガバナンス指針」への対応状況を公表 人権尊重や法令遵守などの取り組みを自主点検&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
+      <wire:relation>repost</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
+      <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE5WT0Nna1M0OUV3VVNLTGxhd1FDUXNVWHA4RmdlcG5NdFlsT0pjZkxNVnRiRnRRWTVmU2NlTUNHMG94dm1oYkpOQXpCalg5T2FYTXFVeTRrYl9tamxPZVJlLVpfT1hBMEhzdHBpbFBLVmUtcGQ4?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3025880</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
-      <title>片山財務相、防衛財源「具体的な手法決まっていない」－法人増税報道 - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE5UWVV4X3dBeGNueEpEbWppS0wxR3hPLW9zSXFqSmVzdFZ5UUM5Q09GdVhPaTc0b3JiZFNSZ3B2WXJUYzRMcF9CQzdGOTcxYzA1cUUyeXV2SjlRT3pOSUIxX3hCNFNkS2hmb0tqZnlpbTdTRUcw?oc=5</link>
-      <guid isPermaLink="false">694f4d367ed630b52b925b6a</guid>
-      <pubDate>Tue, 20 Oct 2026 01:37:00 +0000</pubDate>
-      <description>片山財務相、防衛財源「具体的な手法決まっていない」－法人増税報道    TBS NEWS DIG</description>
+      <title>東電HDのアライアンス交渉、進ちょくに著しい遅れなし－原賠機構</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3025881</link>
+      <guid isPermaLink="false">d9519b99653b57040c78dbc7</guid>
+      <pubDate>Tue, 20 Oct 2026 07:41:00 +0000</pubDate>
+      <description>（ブルームバーグ）：原子力損害賠償・廃炉等支援機構は20日、東京電力ホールディングス (HD)によるアライアンス候補者との交渉について、現時点で大きな遅れは出ていないとの見方を示した。同日の運営委員会後の記… ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;21分前
+民放連会員のうち184社が「ガバナンス指針」への対応状況を公表 人権尊重や法令遵守などの取り組みを自主点検&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
+      <wire:relation>repost</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
+      <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE5UWVV4X3dBeGNueEpEbWppS0wxR3hPLW9zSXFqSmVzdFZ5UUM5Q09GdVhPaTc0b3JiZFNSZ3B2WXJUYzRMcF9CQzdGOTcxYzA1cUUyeXV2SjlRT3pOSUIxX3hCNFNkS2hmb0tqZnlpbTdTRUcw?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3025881</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
-      <title>フランス暴動ほぼ沈静化、夜間外出禁止令で警備強化－抗議デモ発端 - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE1sRmZ1ZTNDSExicFZQc1hweGtHdkhCeVdla2dscE4xMDY0TzBCa19oSU93VGNlajZ4THJvVU1oUzlaUUtJZjFYSmNQLWFSSnMwY0dlRXFMdFBWQ2h0VlpBcDJTZkV1dEY5WEYwbHFxMTBmX3g2?oc=5</link>
-      <guid isPermaLink="false">20be6c6d1fe87f91bf928cf7</guid>
-      <pubDate>Tue, 20 Oct 2026 00:40:00 +0000</pubDate>
-      <description>フランス暴動ほぼ沈静化、夜間外出禁止令で警備強化－抗議デモ発端    TBS NEWS DIG</description>
+      <title>Z.AI創業者、中国情報機関との関連疑われる機関が資金提供の研究参加</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3026077</link>
+      <guid isPermaLink="false">12d137e44418201e2ff180d9</guid>
+      <pubDate>Tue, 20 Oct 2026 04:21:00 +0000</pubDate>
+      <description>（ブルームバーグ）：中国の有力AI企業の1社、Z.AI（北京智譜華章科技）の創業者4人が、同国の主要情報機関と「非常に強いつながり」があると英政府が指摘した技術研究機関との共同プロジェクトで研究に携わってい… ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;21分前
+民放連会員のうち184社が「ガバナンス指針」への対応状況を公表 人権尊重や法令遵守などの取り組みを自主点検&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
+      <wire:relation>repost</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
+      <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE1sRmZ1ZTNDSExicFZQc1hweGtHdkhCeVdla2dscE4xMDY0TzBCa19oSU93VGNlajZ4THJvVU1oUzlaUUtJZjFYSmNQLWFSSnMwY0dlRXFMdFBWQ2h0VlpBcDJTZkV1dEY5WEYwbHFxMTBmX3g2?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3026077</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
-      <title>過去最低の31％ トランプ大統領の支持率 ロイター通信など調査 不支持は66％ 中間選挙を前に逆風か - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qM0FWQjVvdTZZcDl5WUN3Qmw4MnhFMWphRS0taVVHRXhMNVphT29Vd3NuYnBSQk1ZTGRwSW1zLWRCZGFQQ2RNTlNhMkhGSENBNVItc2Zncw?oc=5</link>
-      <guid isPermaLink="false">71cd7a1da45faef2bfefe040</guid>
-      <pubDate>Tue, 20 Oct 2026 00:13:30 +0000</pubDate>
-      <description>過去最低の31％ トランプ大統領の支持率 ロイター通信など調査 不支持は66％ 中間選挙を前に逆風か    TBS NEWS DIG</description>
+      <title>大和証Gとみずほ、中国で全額出資証券事業の認可取得－関係者</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3023946</link>
+      <guid isPermaLink="false">bab7ee603f15e5b432b9f9ed</guid>
+      <pubDate>Tue, 20 Oct 2026 03:44:00 +0000</pubDate>
+      <description>（ブルームバーグ）：大和証券グループ本社とみずほフィナンシャルグループは、中国本土で全額出資の証券事業を開始するための認可を取得した。事情に詳しい関係者1人が明らかにした。一方、米競合の一部は長期に… 日本企業へのサイバー攻撃 一部で中国系AIを使用か “約80社が標的”に システムの脆弱性を自律的に探すのが特徴 ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
+      <wire:relation>repost</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
+      <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qM0FWQjVvdTZZcDl5WUN3Qmw4MnhFMWphRS0taVVHRXhMNVphT29Vd3NuYnBSQk1ZTGRwSW1zLWRCZGFQQ2RNTlNhMkhGSENBNVItc2Zncw?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3023946</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
-      <title>過去最低の31％ トランプ大統領の支持率 ロイター通信など調査 不支持は66％ 中間選挙を前に逆風か - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE9xQ3dpa3Z3bUtjOG1nWlpiWUpPVFQ3YXlUMWxmRHlrSDJPbVVxN3Q0RFM1VzNDWXpMejFRT2FoTEg2aXpkLUozdEowSE9hdy03YU15VVUydFEwdE50ckE2ZUNtQXdnMWVrNDNNZll3X1ExdUlm?oc=5</link>
-      <guid isPermaLink="false">96d423ecbb54fd2c4b04b892</guid>
-      <pubDate>Tue, 20 Oct 2026 00:13:30 +0000</pubDate>
-      <description>過去最低の31％ トランプ大統領の支持率 ロイター通信など調査 不支持は66％ 中間選挙を前に逆風か    TBS NEWS DIG</description>
+      <title>アップル、28日に新製品発表会－初のタッチ画面MacBook Pro投入へ</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3023945</link>
+      <guid isPermaLink="false">f3483d7f4a6cc36673aec9dc</guid>
+      <pubDate>Tue, 20 Oct 2026 00:45:00 +0000</pubDate>
+      <description>（ブルームバーグ）：米アップルは19日、新製品発表イベントを28日に開催すると確認した。同社初となるタッチ画面搭載ノート型パソコン（PC）「MacBook」を披露する予定だ。ロサンゼルスで開催するイベントは「Pro … ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
+      <wire:relation>repost</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
+      <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE9xQ3dpa3Z3bUtjOG1nWlpiWUpPVFQ3YXlUMWxmRHlrSDJPbVVxN3Q0RFM1VzNDWXpMejFRT2FoTEg2aXpkLUozdEowSE9hdy03YU15VVUydFEwdE50ckE2ZUNtQXdnMWVrNDNNZll3X1ExdUlm?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3023945</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
-      <title>元グーグルCEOのシュミット氏、アンソロピック株1%保有で巨額利益へ - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE9wVk1DcFhvLVdzbWRtSEt2VXFnZmFjck8tRXNsT1ZaWVoyQmRKYXg1bTVuSlEwYWFwMXFHWGx5QVFZUVJSX2JnWUdHenBrTVFHbk1WY0VXRXNSVG81cUxkWk5fcjRvNnYzSG93YUVObnFkM0Fk?oc=5</link>
-      <guid isPermaLink="false">b36eb45631e796df2c0b1f3e</guid>
-      <pubDate>Mon, 19 Oct 2026 22:25:27 +0000</pubDate>
-      <description>元グーグルCEOのシュミット氏、アンソロピック株1%保有で巨額利益へ    TBS NEWS DIG</description>
+      <title>ブラジル、アマゾン森林破壊率が過去最低に－ルラ大統領に追い風</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3024835</link>
+      <guid isPermaLink="false">c690bdb7480dad09e1a06f0a</guid>
+      <pubDate>Mon, 19 Oct 2026 17:54:00 +0000</pubDate>
+      <description>（ブルームバーグ）：ブラジルでは過去1年間のアマゾン森林破壊率が過去最低を記録した。ルラ大統領にとって、自身の政策の柱となってきた重要課題で成果を訴える材料となる。政府当局者は16日の記者会見で、森林… 「子ども2人目望む」過去最少28.2％にお金・時間・年齢…家庭の数だけ見える事情 子どもの将来と目の前の生活…広がる「二重の不安」【news23】 1時間前 トランプ大統領 米朝首脳会談「調整され ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
+      <wire:relation>repost</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
+      <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE9wVk1DcFhvLVdzbWRtSEt2VXFnZmFjck8tRXNsT1ZaWVoyQmRKYXg1bTVuSlEwYWFwMXFHWGx5QVFZUVJSX2JnWUdHenBrTVFHbk1WY0VXRXNSVG81cUxkWk5fcjRvNnYzSG93YUVObnFkM0Fk?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3024835</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
-      <title>日本、火星衛星探査機MMXを打ち上げ－中国と試料回収で世界初競う - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE9BRXhxOXlDUXQ5STViMWFfc2JCSHVxN3pHNjVrcUhjdDJxV2ZMUkVVUmdqOTEtbXZvUHBTZWU4ekMtUVlLdEhHbWxzdFl4WXlyb01DcXU4X2tCbC1aMnRHYktQaVQtU2JWQm5Ja3N0RHFjVDlv?oc=5</link>
-      <guid isPermaLink="false">4293111b7efb9528243ca414</guid>
-      <pubDate>Mon, 19 Oct 2026 20:52:00 +0000</pubDate>
-      <description>日本、火星衛星探査機MMXを打ち上げ－中国と試料回収で世界初競う    TBS NEWS DIG</description>
+      <title>ヘッジファンド、ハイテク株の持ち高を急速に縮小－ゴールドマン調査</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3025155</link>
+      <guid isPermaLink="false">b86ce2961becf26117603192</guid>
+      <pubDate>Mon, 19 Oct 2026 17:15:00 +0000</pubDate>
+      <description>（ブルームバーグ）：ヘッジファンドがハイテク株のポジションを少なくとも過去10年で最も急速に縮小したことが、ゴールドマン・サックスのプライムデスクのデータで分かった。15日までの5営業日で、ヘッジファン… 「子ども2人目望む」過去最少28.2％にお金・時間・年齢…家庭の数だけ見える事情 子どもの将来と目の前の生活…広がる「二重の不安」【news23】 ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
+      <wire:relation>repost</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
+      <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE9BRXhxOXlDUXQ5STViMWFfc2JCSHVxN3pHNjVrcUhjdDJxV2ZMUkVVUmdqOTEtbXZvUHBTZWU4ekMtUVlLdEhHbWxzdFl4WXlyb01DcXU4X2tCbC1aMnRHYktQaVQtU2JWQm5Ja3N0RHFjVDlv?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3025155</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
-      <title>ミラノの高級店、衝突警戒で営業切り上げ－政府は治安対策強化へ - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE9yZDJiTGg0azBLYkVRb2xiUGR3V1lndk93cHJ2aVh6ckI0OGl4dUcxaHRoWVZNcmQ1Vk1Najh4WkJJei14dHBHUW5zQ2tYOXZXME1SclNSYTd6YzkxVHUtdFBldVFxZW1BTmZPWmNqOUY3d0ta?oc=5</link>
-      <guid isPermaLink="false">a33a53093d66556bf45e737e</guid>
-      <pubDate>Mon, 19 Oct 2026 16:48:25 +0000</pubDate>
-      <description>ミラノの高級店、衝突警戒で営業切り上げ－政府は治安対策強化へ    TBS NEWS DIG</description>
+      <title>銀行株が下げ幅拡大、20年債入札好調で長期金利ピークアウトとの見方</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3024831</link>
+      <guid isPermaLink="false">04076cd6d0989aff959dd638</guid>
+      <pubDate>Mon, 19 Oct 2026 16:44:00 +0000</pubDate>
+      <description>（ブルームバーグ）：20日午後の東京株式市場では銀行株が下げ幅を広げている。20年利付国債入札が強い結果となり、長期金利がピークアウトするとの見方が重しになっている。東証株価指数（TOPIX）銀行業指数は一時… ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
+      <wire:relation>repost</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
+      <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE9yZDJiTGg0azBLYkVRb2xiUGR3V1lndk93cHJ2aVh6ckI0OGl4dUcxaHRoWVZNcmQ1Vk1Najh4WkJJei14dHBHUW5zQ2tYOXZXME1SclNSYTd6YzkxVHUtdFBldVFxZW1BTmZPWmNqOUY3d0ta?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3024831</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
-      <title>ぐるなび株一時ストップ高、高市首相が外食支援言及で関連株に買い - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE5oOG5XQzJFRDV5Ry1QWWxZZEtXX2hsZkNCemtUNjVKX2JMYTZ0eHJUblM5R05CUlBtWkZ0VDRGOHJsTUU5QkctQlY4eXVfdHhCVXRrbWVMNE50US1xOS0xQU8xejlSZlNfUjFQbHpoSUVTZE5M?oc=5</link>
-      <guid isPermaLink="false">0a04079efe93a725b80f2c20</guid>
-      <pubDate>Mon, 19 Oct 2026 09:44:00 +0000</pubDate>
-      <description>ぐるなび株一時ストップ高、高市首相が外食支援言及で関連株に買い    TBS NEWS DIG</description>
+      <title>20年国債入札、応札倍率は過去最高－「不明」8割超に年金買いの影も</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3024234</link>
+      <guid isPermaLink="false">05710e82d3e2ba63ed71fdee</guid>
+      <pubDate>Mon, 19 Oct 2026 15:38:00 +0000</pubDate>
+      <description>（ブルームバーグ）：財務省が20日に実施した20年利付国債入札は、投資家需要の強弱を反映する応札倍率が過去最高水準となった。利回りの高さから需要が集まり順調に消化された。応札倍率は5.84倍と、過去12カ月平… 日本企業へのサイバー攻撃 一部で中国系AIを使用か “約80社が標的”に システムの脆弱性を自律的に探すのが特徴 ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
+      <wire:relation>repost</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
+      <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE5oOG5XQzJFRDV5Ry1QWWxZZEtXX2hsZkNCemtUNjVKX2JMYTZ0eHJUblM5R05CUlBtWkZ0VDRGOHJsTUU5QkctQlY4eXVfdHhCVXRrbWVMNE50US1xOS0xQU8xejlSZlNfUjFQbHpoSUVTZE5M?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3024234</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
-      <title>投資・資産の記事一覧 (813ページ) | TBS CROSS DIG with Bloomberg - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxNbklDXzlwNWpLSTF5Y1cybW00eTMzOXE5OTBlRnNsdW1pRi02V0YxeS1UYXBZTDFGUTZOdG5jLXlSb254LUVmUGdnUElPekFJREdKeVEtakozMUFyQXZERzNmN3hiUndSYWV5ZHp1ODRwN0JzVHI1d2hsY0pFelJ6U3c5d3BJSHA1azNVcl9Wc0FMenpyS3FIUkhlNUxELU5oakYtUjNYVQ?oc=5</link>
-      <guid isPermaLink="false">d69699d2e7b68ccc57a03286</guid>
-      <pubDate>Mon, 19 Oct 2026 09:01:23 +0000</pubDate>
-      <description>投資・資産の記事一覧 (813ページ) | TBS CROSS DIG with Bloomberg    TBS NEWS DIG</description>
+      <title>トルコ市場規制当局トップが辞任、ファンド危機の余波なお続く</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3023295</link>
+      <guid isPermaLink="false">abfc4893e221dbe94adb0160</guid>
+      <pubDate>Mon, 19 Oct 2026 15:33:00 +0000</pubDate>
+      <description>（ブルームバーグ）：トルコの市場規制当局トップ、マフムト・スッチュ氏が19日、辞任した。同国では市場を揺さぶったファンド危機の余波がまだ続いている。国営アナドル通信によると、スッチュ氏は辞任の理由を「… ブラジル、アマゾン森林破壊率が過去最低に－ルラ大統領に追い風 ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;22分前
+民放連会員のうち184社が「ガバナンス指針」への対応状況を公表 人権尊重や法令遵守などの取り組みを自主点検&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
+      <wire:relation>repost</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
+      <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMipwFBVV95cUxNbklDXzlwNWpLSTF5Y1cybW00eTMzOXE5OTBlRnNsdW1pRi02V0YxeS1UYXBZTDFGUTZOdG5jLXlSb254LUVmUGdnUElPekFJREdKeVEtakozMUFyQXZERzNmN3hiUndSYWV5ZHp1ODRwN0JzVHI1d2hsY0pFelJ6U3c5d3BJSHA1azNVcl9Wc0FMenpyS3FIUkhlNUxELU5oakYtUjNYVQ?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3023295</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
-      <title>中国7－9月経済成長率4.5%、予想上回る－通年目標達成に現実味 - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE8zM1BjQTR6NFMwZXhjYUtSZUpEYkdHM1h1bGFsWGZQdmZvSlNzQUN3UDNCcm85eUE3ajNGS1VzakQ0YjBsSElacHlEUFg2SE84cnRMa3lsWE5VU1lDY1M2MWFsWU5qaVhUcXJEMFlEdDBQV05E?oc=5</link>
-      <guid isPermaLink="false">64779fae872083a0eecafb00</guid>
-      <pubDate>Mon, 19 Oct 2026 07:13:00 +0000</pubDate>
-      <description>中国7－9月経済成長率4.5%、予想上回る－通年目標達成に現実味    TBS NEWS DIG</description>
+      <title>ソフトバンクGの信用リスク、約4年ぶり高水準－AI投資の資金負担警戒</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3024236</link>
+      <guid isPermaLink="false">db660052834de514e5259ac9</guid>
+      <pubDate>Mon, 19 Oct 2026 14:07:00 +0000</pubDate>
+      <description>（ブルームバーグ）：ソフトバンクグループの信用リスクを示すクレジット・デフォルト・スワップ（CDS）が約4年ぶりの高水準に上昇している。AI関連企業の資金調達を巡る懸念が広がる中、新たな大型買収の可能性も… ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
+      <wire:relation>repost</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
+      <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE8zM1BjQTR6NFMwZXhjYUtSZUpEYkdHM1h1bGFsWGZQdmZvSlNzQUN3UDNCcm85eUE3ajNGS1VzakQ0YjBsSElacHlEUFg2SE84cnRMa3lsWE5VU1lDY1M2MWFsWU5qaVhUcXJEMFlEdDBQV05E?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>情報漏えいは企業の16.2％で発生、大企業は3割が経験－帝国データ - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE9YTVF3VWZ3T3c1TVo4aElrTVZscDV1QmkzTWlWd2hJaEVUT1h5ZktHVVZkZ1h3NHdYRjlzdV9PdkRhRXR3dWo3T0lxbGNfZUVhQms0Q1lrcjdQN2lRdXNkTERLeWdTZ19ZVmVCOGM0SDVmMWpM?oc=5</link>
-      <guid isPermaLink="false">76af8c33fd35aaec1da8a643</guid>
-      <pubDate>Mon, 19 Oct 2026 07:13:00 +0000</pubDate>
-      <description>情報漏えいは企業の16.2％で発生、大企業は3割が経験－帝国データ    TBS NEWS DIG</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE9YTVF3VWZ3T3c1TVo4aElrTVZscDV1QmkzTWlWd2hJaEVUT1h5ZktHVVZkZ1h3NHdYRjlzdV9PdkRhRXR3dWo3T0lxbGNfZUVhQms0Q1lrcjdQN2lRdXNkTERLeWdTZ19ZVmVCOGM0SDVmMWpM?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>中国住宅価格、9月は下落ペース鈍化－不動産市場の底打ち期待高まる - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE1qdmNYVHVzcE1RZEFFaHV4VnpVaDJGb3NieXNPMDFsY3J0S0E0d3RQNEYtRE5iMW9yTS1DWGlNTjk2TjI5WXJGTEE4SnZXcmQ1QThBUDVkMndfN1lQRHVmbFNNeHBpYlQ4bjNvWWtPZTRfcGtK?oc=5</link>
-      <guid isPermaLink="false">be085eaa17ebfb06e0c75ff8</guid>
-      <pubDate>Mon, 19 Oct 2026 06:01:00 +0000</pubDate>
-      <description>中国住宅価格、9月は下落ペース鈍化－不動産市場の底打ち期待高まる    TBS NEWS DIG</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE1qdmNYVHVzcE1RZEFFaHV4VnpVaDJGb3NieXNPMDFsY3J0S0E0d3RQNEYtRE5iMW9yTS1DWGlNTjk2TjI5WXJGTEE4SnZXcmQ1QThBUDVkMndfN1lQRHVmbFNNeHBpYlQ4bjNvWWtPZTRfcGtK?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>【日本市況】株式が下落、AI投資懸念で半導体に売り－債券は上昇 - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15NUJEZjZaTXlIbVRKSGl0dVFnRk5zVU5OeGJjUjlOQ2NMOGN4dzN0MnUxbGxpWkNOeDZvZmZldnVaRzNXdG44OVcxSFJBcFVpOUFPRm1YMUI5REtYSGhVS0ZoVFBWNFE?oc=5</link>
-      <guid isPermaLink="false">2090cd6b10a9a60b4234c093</guid>
-      <pubDate>Mon, 19 Oct 2026 03:05:00 +0000</pubDate>
-      <description>【日本市況】株式が下落、AI投資懸念で半導体に売り－債券は上昇    TBS NEWS DIG</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15NUJEZjZaTXlIbVRKSGl0dVFnRk5zVU5OeGJjUjlOQ2NMOGN4dzN0MnUxbGxpWkNOeDZvZmZldnVaRzNXdG44OVcxSFJBcFVpOUFPRm1YMUI5REtYSGhVS0ZoVFBWNFE?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>米、ドローン飛行をメキシコ国境沿いで制限－カルテル対策など支援 - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE5PMUI3SnBZRTRXVFZTSmZGenFlRi11dDYtQlhrNms5QWg5S2VlVkhueml2SG90M2RhVHNjMjFRM2tmX25KaVA4WTZOMkZkaFdiNl96WHNJMXlaQWVlODNHNmhxWnJTY0JsZ2lhX1RNbmI0V2RX?oc=5</link>
-      <guid isPermaLink="false">e13e6ecd4a9a9ca31ecd2bcd</guid>
-      <pubDate>Mon, 19 Oct 2026 02:24:39 +0000</pubDate>
-      <description>米、ドローン飛行をメキシコ国境沿いで制限－カルテル対策など支援    TBS NEWS DIG</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE5PMUI3SnBZRTRXVFZTSmZGenFlRi11dDYtQlhrNms5QWg5S2VlVkhueml2SG90M2RhVHNjMjFRM2tmX25KaVA4WTZOMkZkaFdiNl96WHNJMXlaQWVlODNHNmhxWnJTY0JsZ2lhX1RNbmI0V2RX?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>アンソロピック、株式5%を新設「公益」基金に拠出－AIの影響に対応へ - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTFA2a04yTXpBd1YzR0VTZ1BMR3c0dlRZb0ZCVW1YSWVLQ1lBZjY5MUN6WHV5LXhFendadktSVE9rOHVoUEhUd2hOb0JYVDF6MlNMZUJYV2hlbS1vUmNEYXNCWk1xMFVUYng1OTZzQnBZVTdnNW41?oc=5</link>
-      <guid isPermaLink="false">33a4a709e3e3cb48ca798900</guid>
-      <pubDate>Sun, 18 Oct 2026 19:31:37 +0000</pubDate>
-      <description>アンソロピック、株式5%を新設「公益」基金に拠出－AIの影響に対応へ    TBS NEWS DIG</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTFA2a04yTXpBd1YzR0VTZ1BMR3c0dlRZb0ZCVW1YSWVLQ1lBZjY5MUN6WHV5LXhFendadktSVE9rOHVoUEhUd2hOb0JYVDF6MlNMZUJYV2hlbS1vUmNEYXNCWk1xMFVUYng1OTZzQnBZVTdnNW41?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>ホルムズ海峡で石油タンカー2隻が機雷に接触－イランメディア | TBS CROSS DIG with Bloomberg - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0aWVjUnlDdEhlYnliVEJCamJ4U3J5VnREMHVMWm03SnFQX1FoSU9QOWd5eC1pM05ybmxtaFRYcnhsNXkxa1dUVjNMb0p6ODNJVTk0WnM4b3YzMGFoYzFtTEJKN0RnMU0?oc=5</link>
-      <guid isPermaLink="false">b9689cc863b0af2ad7838f4f</guid>
-      <pubDate>Sat, 17 Oct 2026 15:42:27 +0000</pubDate>
-      <description>ホルムズ海峡で石油タンカー2隻が機雷に接触－イランメディア | TBS CROSS DIG with Bloomberg    TBS NEWS DIG</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0aWVjUnlDdEhlYnliVEJCamJ4U3J5VnREMHVMWm03SnFQX1FoSU9QOWd5eC1pM05ybmxtaFRYcnhsNXkxa1dUVjNMb0p6ODNJVTk0WnM4b3YzMGFoYzFtTEJKN0RnMU0?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>墜落の空自無人機「グローバルホーク」の胴体の一部と思われる物体を回収 - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTFBiNDl0TkFDVEZNeUdVR3MwZ3dYbHhOU2pkTjNyaThwRzZuSFFYNXpaVnRUWkdmVHZYMGxQYlBUVFZHTE5zLVByX1R5Vk43alF4enJBRkFHN195bDdwNzU3QjBfSEFjWEN0dE9RUHZYWUhZRk8y?oc=5</link>
-      <guid isPermaLink="false">1756b83a0a53a4bf5fb3613f</guid>
-      <pubDate>Sat, 17 Oct 2026 10:28:23 +0000</pubDate>
-      <description>墜落の空自無人機「グローバルホーク」の胴体の一部と思われる物体を回収    TBS NEWS DIG</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTFBiNDl0TkFDVEZNeUdVR3MwZ3dYbHhOU2pkTjNyaThwRzZuSFFYNXpaVnRUWkdmVHZYMGxQYlBUVFZHTE5zLVByX1R5Vk43alF4enJBRkFHN195bDdwNzU3QjBfSEFjWEN0dE9RUHZYWUhZRk8y?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>三井住友DS国部氏、仏国債を全て売却－独・日本国債へシフト - TBS NEWS DIG</title>
-      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wLVBGNEk5QmFwampZaVpfUXZTZHowRXByLURSUW1INlVtWVBOT3o0SW1iZmI5X3dzd0xaSUlMMlZpX3p4YjZDODgycVZWaTkyWXdjSDRhc21lYkQ0YS16SmRKXzZGdmc?oc=5</link>
-      <guid isPermaLink="false">25b308b1edf5316df95be98f</guid>
-      <pubDate>Fri, 02 Oct 2026 07:00:00 +0000</pubDate>
-      <description>三井住友DS国部氏、仏国債を全て売却－独・日本国債へシフト    TBS NEWS DIG</description>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wLVBGNEk5QmFwampZaVpfUXZTZHowRXByLURSUW1INlVtWVBOT3o0SW1iZmI5X3dzd0xaSUlMMlZpX3p4YjZDODgycVZWaTkyWXdjSDRhc21lYkQ0YS16SmRKXzZGdmc?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3024236</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
   </channel>
 </rss>
