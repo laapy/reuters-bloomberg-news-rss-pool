@@ -1,45 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss version="2.0">
   <channel>
     <title>Investing.com — diagnostic source feed</title>
     <link>https://www.investing.com/rss/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 21 Oct 2026 06:30:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 12:18:36 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>Adidas shares rise after 2026 guidance hike</title>
-      <link>https://www.investing.com/news/stock-market-news/adidas-shares-rise-after-2026-guidance-hike-4961666</link>
-      <guid isPermaLink="false">476b99101edaa2b5f7bde8db</guid>
-      <pubDate>Wed, 21 Oct 2026 06:19:13 +0000</pubDate>
-      <description />
-      <dc:creator>Reuters</dc:creator>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>investing_news</wire:foundAt>
-      <wire:platform>Investing.com</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>link_only</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/adidas-shares-rise-after-2026-guidance-hike-4961666</wire:canonicalUrl>
-      <wire:evidence>structured credit: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>Australian AI data centre operator NextDC shares shed 42% on revenue delay, future plans on hold</title>
-      <link>https://www.investing.com/news/stock-market-news/australian-ai-data-centre-operator-nextdc-shares-shed-44-on-revenue-delay-4961468</link>
-      <guid isPermaLink="false">30b65ed37f7bfdef138a588b</guid>
-      <pubDate>Wed, 21 Oct 2026 06:18:27 +0000</pubDate>
-      <description />
-      <dc:creator>Reuters</dc:creator>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>investing_news</wire:foundAt>
-      <wire:platform>Investing.com</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>link_only</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/australian-ai-data-centre-operator-nextdc-shares-shed-44-on-revenue-delay-4961468</wire:canonicalUrl>
-      <wire:evidence>structured credit: Reuters</wire:evidence>
-    </item>
   </channel>
 </rss>
