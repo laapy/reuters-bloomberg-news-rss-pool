@@ -5,8 +5,293 @@
     <link>https://news.yahoo.co.jp/media/reut</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 21 Oct 2026 12:18:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 17:36:29 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>オープンＡＩ社長、ＡＩ規制反対派に2500万ドル寄付　真意に疑問</title>
+      <link>https://news.yahoo.co.jp/articles/c38fd4ae5e4eb4202d600753a5fe729258e94053</link>
+      <guid isPermaLink="false">aba7e06075f9fe9d7820609d</guid>
+      <pubDate>Wed, 21 Oct 2026 17:08:59 +0000</pubDate>
+      <description>Courtney Rozen
+
+[ワシントン ２１日 ロイター] -</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;Courtney Rozen&lt;/p&gt;&lt;p&gt;[ワシントン ２１日 ロイター] - 米人工知能（ＡＩ）開発企業オープンＡＩのブロックマン社長が、ＡＩ規制強化に反対する政治団体「リーディング・ザ・フューチャー」に対し、夫婦で計２５００万ドルを寄付したことが取り沙汰されている。オープンＡＩを巡っては、開発中のＡＩエージェントがシステムに不正侵入する問題が発生。経営陣は連邦政府による規制を訴えている中での多額の寄付の存在が明らかになり、米政府による規制導入を望んでいるのかどうか真意をいぶかる声が出ている。&lt;/p&gt;&lt;p&gt;団体は米国での「ＡＩ開発を過度に制約あるいは遅らせる」規制に反対を掲げ、１１月の米中間選挙に向けて、連邦議会上下両院の少なくとも４８の選挙区に絡んで数百万ドルを投じている。広報担当は「強力かつ責任ある国レベルの規制枠組みを推進するため、議会で協力できる支持者」を求めていると表明したが、寄付に関しては言及しなかった。&lt;/p&gt;&lt;p&gt;オープンＡＩはブログで、ブロックマン夫妻の寄付は個人的なものだと説明している。&lt;/p&gt;&lt;p&gt;トランプ米大統領は今年９月、オープンＡＩほかＡＩ開発主要６社とＡＩの脅威に自主的に対処するとの合意を発表した。規制強化をすれば、新モデルの発表遅延や安全面の懸念による性能変更などにつながり、業界の利益を損なう可能性がある。アンソロピックは、連邦規制が州法に優先することに反対する政治団体に、少なくとも４０００万ドルを寄付している。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/c38fd4ae5e4eb4202d600753a5fe729258e94053</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>情報ＢＯＸ：ＰＨＰの重大脆弱性、リスクと発見経緯</title>
+      <link>https://news.yahoo.co.jp/articles/1a22add280b68ffe7f98c4e0a1b12243262893c6</link>
+      <guid isPermaLink="false">c6cdf2a064b5c72b0b3a593c</guid>
+      <pubDate>Wed, 21 Oct 2026 16:40:37 +0000</pubDate>
+      <description>Leo Marchandon
+
+[２１日 ロイター] -</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;Leo Marchandon&lt;/p&gt;&lt;p&gt;[２１日 ロイター] - 欧州各地で２１日、政府ウェブサイトの停止が相次いだ。ウェブで最も広く使われているプログラミング言語の一つ、ＰＨＰ（ハイパーテキスト・プリプロセッサ）で２件の重大な脆弱性が見つかったためだ。&lt;/p&gt;&lt;p&gt;以下に押さえておくべきポイントをまとめた。&lt;/p&gt;&lt;p&gt;＜ＰＨＰとは＞&lt;/p&gt;&lt;p&gt;ＰＨＰはウェブサイトを動かすプログラミング言語で、利用者から見えないところで働いている。利用者がページを読み込むと、ＰＨＰが稼働するサーバーがコンテンツを組み立て、完成したページをブラウザーに送る。&lt;/p&gt;&lt;p&gt;無料のオープンソースソフトウエアで、ボランティアが保守している。サイトの所有者が直接操作することはほとんどない。&lt;/p&gt;&lt;p&gt;ウェブ技術の調査サービス「Ｗ３Ｔｅｃｈｓ」によると、使用するプログラミング言語を特定できるウェブサイトの７０％近くがＰＨＰで動いている。ＰＨＰは、全ウェブサイトの約４０％を支えるソフトウエア「ワードプレス」の基盤でもある。これらにはブログ、中小企業のページ、政府のポータルサイト、オンラインショップ、ニュースサイトなどが含まれる。&lt;/p&gt;&lt;p&gt;＜脆弱性のリスクは＞&lt;/p&gt;&lt;p&gt;２件の脆弱性は、業界標準の深刻度評価システム「ＣＶＳＳ」のバージョン４．０で、１０点満点中９．２点と評価されている。ＥＵのサイバーセキュリティー対応チーム「ＣＥＲＴ－ＥＵ」によると、この評価は認証なしで遠隔からコードを実行できることを示す。つまり、攻撃者はパスワードやアカウントがなくても、インターネット経由で脆弱なサーバー上でコマンドを実行できる。&lt;/p&gt;&lt;p&gt;ＰＨＰに一つの欠陥があるだけで、数百万台のサーバーに一斉に同じ侵入口が開かれる。欠陥を悪用すれば、ウェブサイトを支配できる。ウェブホスティングサービスのゴーダディによると、データの盗難やページの改ざん、システム全体の乗っ取りにつながる恐れがある。クラウドフレアの最高技術責任者は、初期の攻撃が発生し始めていると述べた。&lt;/p&gt;&lt;p&gt;小規模なウェブサイトの大半は通常、セキュリティー担当者のいない所有者が運営している。共用ホスティングサービスを利用していることも多く、その場合、所有者はサーバーを管理しておらず、誰がＰＨＰを更新するのか把握していない可能性がある。ワードプレス向けのセキュリティープラグイン「ワードフェンス」は、通常の自動更新では今回の修正は適用されないと警告した。ＣＥＲＴ－ＥＵは、影響を受けるサイトを危険にさらしたままにせず、公開を停止するよう勧告している。&lt;/p&gt;&lt;p&gt;＜どのように発見されたのか＞&lt;/p&gt;&lt;p&gt;セキュリティー企業カリフによると、オープンＡＩと協力する同社の研究者が、オープンＡＩのモデル「ＧＰＴ－５．６ Ｓｏｌ」を使って最初の欠陥を発見し、８月１１日にＰＨＰ側に報告した。アルファベット傘下グーグルが保有するセキュリティー企業ウィズも独自に欠陥を発見し、８月２４日に２件目を報告した。同社も人工知能（ＡＩ）モデルを使用した。&lt;/p&gt;&lt;p&gt;ウィズは、今回の欠陥について「ＰＨＰで見つかった脆弱性の中でも最も深刻な部類に入り、ソフトウエアの歴史全体でもそう言えるだろう」と説明した。根本的な欠陥は数十年前から存在していたが、悪用できると実証するには「人間の研究者が現実的に達成できる限界に近い」一連の手順が必要だったという。&lt;/p&gt;&lt;p&gt;トランプ米政権は「状況を注視し、修正プログラムの公開を早めるため、連邦機関や主要なＳＩ研究機関と調整している」と表明した。ＳＩは、トランプ氏が人工知能を指して好んで使う「超知能（スーパーインテリジェンス）」の略称。政権は今回の発見を、米国の「超知能」が国家安全保障を強化している証拠と位置付けた。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/1a22add280b68ffe7f98c4e0a1b12243262893c6</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>アップルの折り畳みｉＰｈｏｎｅ「デュオ」、23日発売　店頭は数量限定</title>
+      <link>https://news.yahoo.co.jp/articles/00a7a2d654909cbcfa90533e539622c79fee5bbd</link>
+      <guid isPermaLink="false">ffe6b7fe7cac5e08e820f521</guid>
+      <pubDate>Wed, 21 Oct 2026 15:39:57 +0000</pubDate>
+      <description>Stephen Nellis
+
+[サンフランシスコ　２１日　ロイター] - 米アップルは２１日、２３日に発売される同社初の折り畳みｉＰｈｏｎｅ「Ｄｕｏ（デュオ）」 について、店頭に来店した顧客向けに「数量限定」で提供すると発表した。オンラインでの先行予約が数分で完売し、一部顧客への配送時期が来年１月にずれ込んでいることを受けた措置となる。
+
+アップルは声明で「２３日の朝、アップルストアで『iPhone Duo』や素晴らしいiPhoneのラインアップを体験してもらえることを楽しみにしている」と表明。「アップルストアでは『iPhone</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;Stephen Nellis&lt;/p&gt;&lt;p&gt;[サンフランシスコ　２１日　ロイター] - 米アップルは２１日、２３日に発売される同社初の折り畳みｉＰｈｏｎｅ「Ｄｕｏ（デュオ）」 について、店頭に来店した顧客向けに「数量限定」で提供すると発表した。オンラインでの先行予約が数分で完売し、一部顧客への配送時期が来年１月にずれ込んでいることを受けた措置となる。&lt;/p&gt;&lt;p&gt;アップルは声明で「２３日の朝、アップルストアで『iPhone Duo』や素晴らしいiPhoneのラインアップを体験してもらえることを楽しみにしている」と表明。「アップルストアでは『iPhone Duo』を来店客向けに数量限定で用意しており、この革新的な新製品をできるだけ早く届けられるよう尽力している」と述べた。&lt;/p&gt;&lt;p&gt;アップルは、当日店頭で購入できる台数は国・地域によって異なるとしている。オンライン予約の店頭受け取りおよび数量限定の店頭販売は、米国、オーストラリア、カナダ、メキシコ、英国と欧州の大部分で利用可能となる。&lt;/p&gt;&lt;p&gt;一方、オンラインで事前購入した顧客のみに提供される地域もあり、中国本土、フランス、香港、インド、日本、マレーシア、韓国、台湾、タイ、アラブ首長国連邦（ＵＡＥ）が含まれるとした。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/00a7a2d654909cbcfa90533e539622c79fee5bbd</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>米イーベイ、従業員9％削減へ　約1000人が対象</title>
+      <link>https://news.yahoo.co.jp/articles/f5f4a98923bf115842e8e4f867de50f1bddef034</link>
+      <guid isPermaLink="false">9271310705d4e504e445ee3b</guid>
+      <pubDate>Wed, 21 Oct 2026 15:21:46 +0000</pubDate>
+      <description>Jaspreet Singh　Aditya Soni
+
+[２１日 ロイター] -</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;Jaspreet Singh　Aditya Soni&lt;/p&gt;&lt;p&gt;[２１日 ロイター] - 米電子商取引（ＥＣ）大手イーベイが、従業員の約９％を削減することが分かった。ジェイミー・イアンノーネ最高経営責任者（ＣＥＯ）が従業員に宛てたメモをロイターが確認した。業務を簡素化し、成長が最も速い分野に経営資源を振り向ける。&lt;/p&gt;&lt;p&gt;同社の広報担当者は２１日、人員削減を確認し、約１０００人が対象になると述べた。&lt;/p&gt;&lt;p&gt;２０２５年末の従業員数は１万２３００人だった。同社は業務効率化の一環として、２月にも従業員の約６％に当たる８００人を削減した。&lt;/p&gt;&lt;p&gt;イアンノーネ氏はメモで「今後の大きな機会を引き続き捉えるには、どこに注力し、投資するかについて慎重に選択する必要がある」と説明。対象の従業員には今後数日以内に通知するとした。&lt;/p&gt;&lt;p&gt;イーベイ株は取引序盤に約１％上昇した。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/f5f4a98923bf115842e8e4f867de50f1bddef034</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>再送-〔アングル〕マスク氏、テスラとスペースＸ統合に「多くのメリット」　株主投票がハードル</title>
+      <link>https://news.yahoo.co.jp/articles/31b7131cc419a8d0272ca5c2857c099d87655ffa</link>
+      <guid isPermaLink="false">371c96a37553cf772997d9bd</guid>
+      <pubDate>Wed, 21 Oct 2026 15:12:56 +0000</pubDate>
+      <description>(見出しの誤字を修正します)
+
+Akash Sriram
+
+[２１日　ロイター] -</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;(見出しの誤字を修正します)&lt;/p&gt;&lt;p&gt;Akash Sriram&lt;/p&gt;&lt;p&gt;[２１日　ロイター] - 電気自動車（ＥＶ）大手テスラを率いるイーロン・マスク氏は、同社と宇宙開発企業スペースＸの統合に「多くのメリットがある」との見方を示した。ただ、決定権はマスク氏にはなく、同氏が参加できない２つの特別委員会と、自身が「高いハードル」と呼ぶテスラの株主投票がその障害となっている。&lt;/p&gt;&lt;p&gt;多くのアナリストが不可避と見るこの統合には、こうしたジレンマが影を落としている。自らを「利害相反の当事者」と称するマスク氏は、両委員会はまだ条件で合意しておらず、市場が来年末までの合意成立を予想しているにもかかわらず、統合は確実ではないとの認識を示している。&lt;/p&gt;&lt;p&gt;フォーチュナ・インベストメンツのジャスタス・パーマー最高経営責任者（ＣＥＯ）は「テスラとスペースＸの合併は理にかなうと思う。両社とも人工知能（ＡＩ）と自律システムへ急速に移行しており、大規模なインフラ事業を抱えているため、極めて戦略的だ」と述べた。&lt;/p&gt;&lt;p&gt;アナリストらによると、ＡＩや宇宙関連インフラへの巨額の設備投資が膨らめば、スペースＸのフリーキャッシュフローは圧迫されるものの、合併企業であればテスラとサービスを共有し、共同で資金調達することで、その負担を緩和できるという。&lt;/p&gt;&lt;p&gt;テスラの株主で資産運用会社ディープウォーター・アセット・マネジメントのマネージングパートナー、ジーン・マンスター氏はＸへの投稿で、「（統合が）これほど理にかなう最大の理由は、テスラがしていることをスペースＸが必要とし、スペースＸがしていることをテスラが必要としていることだ」と述べた。&lt;/p&gt;&lt;p&gt;＜ハードルはテスラ株主投票＞&lt;/p&gt;&lt;p&gt;マスク氏が合併を望む背景には、支配権の問題もある。同氏は複数議決権株式を通じてスペースＸの議決権の約８５％を保有している一方、テスラではその割合は約２０％にとどまる。&lt;/p&gt;&lt;p&gt;ＲＥＸファイナンシャルのリサーチ責任者ビル・バーミンガム氏は、合併によりマスク氏の議決権比率は約５７％になると試算する。ダイアレクティックの創業者ライアン・ズラー氏は、バークレイズが例示した参考水準である、テスラ株１株に対しスペースＸ株０．７株の交換比率で計算すると、その割合は５８％になるとみている。&lt;/p&gt;&lt;p&gt;マスク氏によると、テスラ側では投票された株式ではなく発行済み全株式の過半数の賛成を必要とするため、未行使の議決権は全て反対票として扱われる。アナリストらは、投票率をリスクと指摘しており、昨年の株主総会で投じられなかった、証券会社経由で保有される株式の議決権が取引成立の可能性に影響する要因になり得るとの見方を示している。&lt;/p&gt;&lt;p&gt;ｅトロのアジア太平洋地域（ＡＰＡＣ）主席アナリスト、ジョシュ・ギルバート氏は「１人の人物が両方を統括するような取引は、ガバナンスを巡って厳しい疑問を招くだろう」との見方を示した。&lt;/p&gt;&lt;p&gt;２１日午前の取引でテスラの株価は約３％上昇、スペースＸの株価は約９％上昇した。テスラは同日の米市場引け後に第３・四半期決算を発表する。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/31b7131cc419a8d0272ca5c2857c099d87655ffa</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>米国株式市場・序盤＝3指数とも上昇、ＡＩ関連株が高い　ネトフリは5％安</title>
+      <link>https://news.yahoo.co.jp/articles/ae557e0dd380cf50d98d7ddf78710789b36e7e53</link>
+      <guid isPermaLink="false">6bdd91c49ff515766e3ad282</guid>
+      <pubDate>Wed, 21 Oct 2026 14:17:38 +0000</pubDate>
+      <description>［２１日　ロイター］　 - 序盤の米国株式市場は、主要３指数がいずれも上昇した。米実業家イーロン・マスク氏率いる宇宙開発企業スペースＸ とスーパー・マイクロ・コンピューター の四半期決算を受け、人工知能（ＡＩ）関連株への投資意欲が高まった。 
+
+一方、動画配信大手ネットフリックスは約５％下落した。利益と広告事業の見通しが低調な内容となり、業界内の競争激化を背景に視聴者数と売上高の伸びが鈍化していることへの投資家の懸念が深まった。
+
+同社株は年初来で２６％超下落しており、現状の下げ幅を維持すれば時価総額は約１３４億ドル目減りする計算となる。
+
+株価 前日比 ％ 始値 コード 時間
+
+ダウ工業株３０種 52566. +70.44 +0.13 52652. 09:58
+
+32 85
+
+前営業日終値 52495.
+
+88
+
+ナスダック総合 26578. +153.4 +0.58 26601. 09:53
+
+23 2</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;［２１日　ロイター］　 - 序盤の米国株式市場は、主要３指数がいずれも上昇した。米実業家イーロン・マスク氏率いる宇宙開発企業スペースＸ とスーパー・マイクロ・コンピューター の四半期決算を受け、人工知能（ＡＩ）関連株への投資意欲が高まった。&lt;/p&gt;&lt;p&gt;一方、動画配信大手ネットフリックスは約５％下落した。利益と広告事業の見通しが低調な内容となり、業界内の競争激化を背景に視聴者数と売上高の伸びが鈍化していることへの投資家の懸念が深まった。&lt;/p&gt;&lt;p&gt;同社株は年初来で２６％超下落しており、現状の下げ幅を維持すれば時価総額は約１３４億ドル目減りする計算となる。&lt;/p&gt;&lt;p&gt;株価 前日比 ％ 始値 コード 時間&lt;/p&gt;&lt;p&gt;ダウ工業株３０種 52566. +70.44 +0.13 52652. 09:58&lt;/p&gt;&lt;p&gt;32 85&lt;/p&gt;&lt;p&gt;前営業日終値 52495.&lt;/p&gt;&lt;p&gt;88&lt;/p&gt;&lt;p&gt;ナスダック総合 26578. +153.4 +0.58 26601. 09:53&lt;/p&gt;&lt;p&gt;23 2 73&lt;/p&gt;&lt;p&gt;前営業日終値 26424.&lt;/p&gt;&lt;p&gt;82&lt;/p&gt;&lt;p&gt;Ｓ＆Ｐ総合５００種 7730.3 +17.75 +0.23 7736.4 09:53&lt;/p&gt;&lt;p&gt;2 3&lt;/p&gt;&lt;p&gt;前営業日終値 7712.5&lt;/p&gt;&lt;p&gt;7&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/ae557e0dd380cf50d98d7ddf78710789b36e7e53</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>プーチン氏、中国首相と会談　中ロ関係の発展強調</title>
+      <link>https://news.yahoo.co.jp/articles/ff95400d942f467ba393303a393a712de772aad3</link>
+      <guid isPermaLink="false">a60af0d3bb9ff99ae28616e5</guid>
+      <pubDate>Wed, 21 Oct 2026 14:02:57 +0000</pubDate>
+      <description>[モスクワ ２１日 ロイター] -</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;[モスクワ ２１日 ロイター] - ロシアのプーチン大統領は２１日、ロシアを訪問している中国の李強首相と会談し、両国の関係は順調かつ力強く発展しているとの認識を示した。ロシア国営タス通信が報じた。&lt;/p&gt;&lt;p&gt;ロシア通信（ＲＩＡ）によると、プーチン氏は中国で開催されるアジア太平洋経済協力会議（ＡＰＥＣ）首脳会議の期間中に、中国の習近平国家主席と会談する機会があるとの見方を示した。&lt;/p&gt;&lt;p&gt;ロシアのペスコフ大統領報道官はこれまで、プーチン大統領、トランプ米大統領、中国の習近平国家主席が来月のＡＰＥＣ首脳会議に合わせて３者会談を行う可能性に言及。トランプ大統領も中ロ首脳との３者会談に前向きな姿勢を示している。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/ff95400d942f467ba393303a393a712de772aad3</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>ロシア、米・ウクライナとの3者協議再開へ　11月アブダビ開催の公算</title>
+      <link>https://news.yahoo.co.jp/articles/bbfa146ed8d92262b971d5f614cceeb37b4eeabf</link>
+      <guid isPermaLink="false">60b8d92783f82bc5897e1fae</guid>
+      <pubDate>Wed, 21 Oct 2026 14:01:24 +0000</pubDate>
+      <description>[モスクワ／サンクトペテルブルク／ワシントン　２１日　ロイター] -</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;[モスクワ／サンクトペテルブルク／ワシントン　２１日　ロイター] - ロシアのプーチン大統領は２１日、ウクライナ和平に向けた米国仲介の協議を早ければ来月にも再開することで合意した。米国のウィットコフ和平交渉担当特使と会談後にロシア大統領府が明らかにした。&lt;/p&gt;&lt;p&gt;ロシア大統領府によると、新たな協議はロシア、米国、ウクライナの実務レベルで行われる見通しで、戦争終結後のロシアとウクライナの安全保障の確保が主要議題になる。開催地としてアラブ首長国連邦（ＵＡＥ）のアブダビが検討されており、１１月１０日、もしくはそれ以降に実施される可能性があるという。&lt;/p&gt;&lt;p&gt;米政府当局者も、米国が提案した実務レベルの３者協議の開催をロシアが受け入れたと明らかにした。こうした協議は今年２月以降行われていない。&lt;/p&gt;&lt;p&gt;ウィットコフ氏は２０日にノルウェーの首都オスロでウクライナのゼレンスキー大統領、ノルウェーのストーレ首相、フィンランドのストゥブ大統領と会談した後、プーチン氏と２１日にロシア第２の都市サンクトペテルブルクで会談。プーチン氏とウィットコフ氏の会談は約３時間に及んだ。&lt;/p&gt;&lt;p&gt;ロシアのウシャコフ大統領補佐官によると、ウィットコフ氏はゼレンスキー氏との協議の内容をプーチン氏に説明。欧州諸国とウクライナの姿勢について「新たなアプローチや新たな論点が示された」と報告したものの、「ウクライナを巡る危機の解決という観点では有益な内容は多く含まれていなかった」との認識を示したという。&lt;/p&gt;&lt;p&gt;プーチン氏はウィットコフ氏との会談で、米ロ首脳が今月９日に合意したロシア産ディーゼル（軽油）を巡る合意の履行についても協議。イラン情勢についても話し合い、ウシャコフ氏によると、プーチン大統領は外交による解決の余地は依然として十分に残されているとし、イランを巡る問題の政治的、外交的解決策を模索する取り組みを今後も支援する用意があることを改めて確認した。&lt;/p&gt;&lt;p&gt;このほか、来月に中国で開催されるアジア太平洋経済協力会議（ＡＰＥＣ）首脳会議に合わせ、プーチン大統領、トランプ米大統領、中国の習近平国家主席が会談を実施する可能性についても協議された。ロシア大統領府によると、中国は米ロ中の首脳会談が実現すれば史上初となるとして、すでに準備に着手している。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/bbfa146ed8d92262b971d5f614cceeb37b4eeabf</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>経産省、来年からＥＶ補助6─8割に減額　予算内で制度維持へ</title>
+      <link>https://news.yahoo.co.jp/articles/a8434bb7043abab2e4a30dffd881e2cc5587ca56</link>
+      <guid isPermaLink="false">5beb495282afc55a0248b9b3</guid>
+      <pubDate>Wed, 21 Oct 2026 13:58:11 +0000</pubDate>
+      <description>Maki Shiraki
+
+[東京 ２１日 ロイター] -</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;Maki Shiraki&lt;/p&gt;&lt;p&gt;[東京 ２１日 ロイター] - 経済産業省は２１日、電気自動車（ＥＶ）など電動車の購入を促す補助金を来年から減額すると発表した。購入後に購入者が受け取れる補助金額を、現行の６割─８割程度に抑える。当初の想定より需要が強く、補助額を引き下げて予算内で制度を継続できるよう見直した。&lt;/p&gt;&lt;p&gt;来年１月１日以降に新車登録する車両から適用する。ＥＶの補助金は最大で１２５万円だったが、来年からは最大７５万円に減る。軽自動車のＥＶでは５５万円が４４万円に、プラグインハイブリッド車（ＰＨＶ）は８０万円が４８万円に、燃料電池車は１４５万円が８７万円にそれぞれ引き下がる。&lt;/p&gt;&lt;p&gt;車両に対する補助金とは別に、環境負荷の低減に向けた鋼材の導入に関する自動車メーカーの取り組みに応じて決める加算額も、軽のＥＶが最大３万円から１万８０００円に、それ以外の電動車は最大５万円から３万円に減額する。&lt;/p&gt;&lt;p&gt;政府は２０２５年度補正予算に、約１１００億円を補助分として計上していた。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/a8434bb7043abab2e4a30dffd881e2cc5587ca56</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>高市首相　速やかな対応呼びかけ　プログラミング言語ＰＨＰに脆弱性</title>
+      <link>https://news.yahoo.co.jp/articles/5c375367c19b48405824bfbff437cc26121cb3e8</link>
+      <guid isPermaLink="false">0e2bcfe2dc57fae008efb389</guid>
+      <pubDate>Wed, 21 Oct 2026 13:47:17 +0000</pubDate>
+      <description>[東京 ２１日 ロイター] -</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;[東京 ２１日 ロイター] - 高市早苗首相は２１日夜、ウェブサイトで広く使われているプログラミング言語ＰＨＰに深刻な脆弱性が見つかったことを受け、日本時間午後１１時に公開される修正プログラムを速やかに適用するよう呼びかけた。直ちに対応できない場合は、サイトなどを一時停止することも有効な対策とした。Ｘに投稿した。&lt;/p&gt;&lt;p&gt;ＰＨＰの開発者チームは同日、深刻な脆弱性２件に対応する修正プログラムを公開すると発表した。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/5c375367c19b48405824bfbff437cc26121cb3e8</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>トルコ・カタールなど4カ国が防衛協定署名、軍事生産で連携＝国防省</title>
+      <link>https://news.yahoo.co.jp/articles/085afaf2037db9c6ed7d815376642515cccc9406</link>
+      <guid isPermaLink="false">94b3e32921c0515fd643905e</guid>
+      <pubDate>Wed, 21 Oct 2026 13:44:38 +0000</pubDate>
+      <description>[アンカラ ２１日 ロイター] -</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;[アンカラ ２１日 ロイター] - トルコ、カタール、パキスタン、インドネシアの４カ国は２１日、防衛協力の推進と防衛能力の強化を目的とする協定に署名した。トルコ国防省が明らかにした。&lt;/p&gt;&lt;p&gt;同省は声明で、４カ国はカタールの首都ドーハで「バドル覚書」に署名し、協力をさらに深化させ、パートナーシップを発展させる意思を示したと述べた。&lt;/p&gt;&lt;p&gt;同省は「この協定は経済的にも極めて重要である」とした上で、軍事生産における協力促進、軍事能力の向上、技術的な軍事訓練や研究開発における連携支援を目指すものだと説明。&lt;/p&gt;&lt;p&gt;「各国独自の軍事生産能力を活用することで、協力と統合を促進し、防衛産業の能力を向上させ、同盟国や友好国のニーズに応えることが可能になる」と述べた。&lt;/p&gt;&lt;p&gt;北大西洋条約機構（ＮＡＴＯ）で２番目の規模の軍と、強固な防衛産業を有するトルコは、イラン戦争を背景に、自国の軍事基地を置くカタールをはじめとする湾岸諸国の防衛力強化を支援してきた。８月には、核保有国であるパキスタンおよびサウジアラビアと相互防衛協定を締結した。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/085afaf2037db9c6ed7d815376642515cccc9406</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>独経済は第3四半期停滞、今四半期回復を予想＝中銀</title>
+      <link>https://news.yahoo.co.jp/articles/5214fb789f7d50e503397a0163af51eb318c6da6</link>
+      <guid isPermaLink="false">92047fa68b8b5d0f6d9575d2</guid>
+      <pubDate>Wed, 21 Oct 2026 12:52:25 +0000</pubDate>
+      <description>[フランクフルト ２１日 ロイター] -</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;[フランクフルト ２１日 ロイター] - ドイツ連邦銀行（中央銀行）は２１日、国内経済が第３・四半期に停滞した可能性が高いとの見方を示した。輸出の低迷、ライン川の異例の水位低下による混乱、内需の弱さが、財政支出による下支え効果を相殺した。&lt;/p&gt;&lt;p&gt;連銀は第４・四半期に景気が回復するとの予想を維持。建設活動への恩恵が広がっているインフラ支出などが回復を主導するとみている。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/5214fb789f7d50e503397a0163af51eb318c6da6</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>米オープンＡＩ、グーグル・クラウドを通じて最先端モデル販売へ</title>
+      <link>https://news.yahoo.co.jp/articles/140ff89e54a214dbe51f1db3aaf20e73d0ec3f69</link>
+      <guid isPermaLink="false">f9ef1c127b455f74226d054a</guid>
+      <pubDate>Wed, 21 Oct 2026 12:32:19 +0000</pubDate>
+      <description>Krystal Hu
+
+[２１日 ロイター] - 米人工知能（ＡＩ）開発企業オープンＡＩは今後数週間以内に、最先端のＡＩモデルとコーディングエージェント「Codex」をグーグル・クラウドを通じて提供する。両社が２１日に発表した。競合する２社の関係が深まっているほか、主要なクラウドプロバイダーが最上位ＡＩモデルの主要ディストリビューターになりつつあることを示している。
+
+この提携により、オープンＡＩの最新モデルがグーグル・クラウドの「Model</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;Krystal Hu&lt;/p&gt;&lt;p&gt;[２１日 ロイター] - 米人工知能（ＡＩ）開発企業オープンＡＩは今後数週間以内に、最先端のＡＩモデルとコーディングエージェント「Codex」をグーグル・クラウドを通じて提供する。両社が２１日に発表した。競合する２社の関係が深まっているほか、主要なクラウドプロバイダーが最上位ＡＩモデルの主要ディストリビューターになりつつあることを示している。&lt;/p&gt;&lt;p&gt;この提携により、オープンＡＩの最新モデルがグーグル・クラウドの「Model Garden」に盛り込まれる。顧客は「グーグル・クラウド・マーケットプレイス」を通じてこれらのモデルを購入し、既存のクラウド利用契約を充当できるようになるという。&lt;/p&gt;&lt;p&gt;また、規制対象業界の顧客は、グーグル・クラウドのアクセス制御、データガバナンスツール・インフラストラクチャーを通じてオープンＡＩモデルにアクセスし、「エージェント型ＡＩワークフロー」を構築できるようになる。&lt;/p&gt;&lt;p&gt;グーグル・クラウドにとって、オープンＡＩのモデルを追加することは、自社製のモデルだけに頼るのではなく、顧客により幅広いサードパーティー製モデルを提供するという戦略を強化することになる。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/140ff89e54a214dbe51f1db3aaf20e73d0ec3f69</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
     <item>
       <title>米特使がプーチン氏と会談、和平協議再開促す　新提案も提示</title>
       <link>https://news.yahoo.co.jp/articles/25654b1afce3298e03cc7b11e90adff144763023</link>
@@ -84,13 +369,13 @@
       <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
     </item>
     <item>
-      <title>プーチン氏、元教師の米国人を解放と表明</title>
+      <title>プーチン氏、米国人元教師を解放と表明　トランプ氏の要請受け</title>
       <link>https://news.yahoo.co.jp/articles/9bc9ff2a242cdd75741053593573a8d3b8df92b2</link>
-      <guid isPermaLink="false">6ccf47b7bde0f397f2f49ed5</guid>
+      <guid isPermaLink="false">bbea4855a5f34fb219636837</guid>
       <pubDate>Wed, 21 Oct 2026 10:27:40 +0000</pubDate>
-      <description>[モスクワ ２１日 ロイター] -</description>
+      <description>[モスクワ　２１日　ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;[モスクワ ２１日 ロイター] - ロシアのプーチン大統領は２１日、２０２２年から同国で拘束されていた元教師の米国人スティーブン・ハバード氏（７４）が解放され、サンクトペテルブルクのプルコボ空港にいると表明した。ロシア国営メディアが報じた。これ以上の詳細は明らかにされていない。&lt;/p&gt;&lt;p&gt;ミシガン州出身のハバード氏は、非公開の裁判で雇い兵活動を行ったとして有罪判決を受け、ロシアで７年近くの刑に服していた。&lt;/p&gt;&lt;p&gt;ハバード氏は２２年４月、ウクライナ東部のイジューム市で逮捕された。ロシア検察当局は、同氏が同地でウクライナ軍の検問所の警備にあたっていたと主張していた。&lt;/p&gt;&lt;p&gt;ロシア国営メディアは、ハバード氏が起訴内容について有罪を認めたと報じた。しかし、米国を拠点とする同氏の弁護士マーティン・デ・ルカ氏は以前、ロイターに対し、ハバード氏から「自分に対する罪状は虚偽であり、いかなる戦闘部隊や軍事部隊にも所属していなかった」と伝えられていたことを明らかにしている。&lt;/p&gt;</content:encoded>
+      <content:encoded>&lt;p&gt;[モスクワ　２１日　ロイター] - ロシアのプーチン大統領は２１日、２０２２年から同国で拘束されていた元教師の米国人スティーブン・ハバード氏（７４）が解放され、サンクトペテルブルクのプルコボ空港に移送されたと明らかにした。ミシガン州出身のハバード氏は、非公開の裁判で雇い兵活動を行ったとして有罪判決を受け、ロシアで７年近くの刑に服していた。&lt;/p&gt;&lt;p&gt;プーチン氏は、サンクトペテルブルクでトランプ米政権のウィットコフ中東担当特使と会談した際にこの発表を行ったものの、それ以上の詳細は明らかにしなかった。ロシアのペスコフ大統領報道官は後に、プーチン氏がトランプ米大統領の要請を受けてハバード氏を解放したと述べ、同氏の健康状態も考慮したと説明した。&lt;/p&gt;&lt;p&gt;国営テレビで放映された会談で、ウィットコフ氏はプーチン氏に対し「（トランプ）大統領も、国民全体も、ハバード氏の件について感謝の意を示している」とし、「あなたのおかげで彼は家族の元に帰ることができる」と述べた。&lt;/p&gt;&lt;p&gt;ロイターに提供された動画には、ウィットコフ氏とロシア側交渉担当のドミトリエフ氏が、非公開の場所でハバード氏と対面する様子が映っていた。ハバード氏はウィットコフ氏と握手し、「尽力に深く感謝する」と語った。&lt;/p&gt;&lt;p&gt;トランプ氏は自身の交流サイト（ＳＮＳ）「トゥルース・ソーシャル」への投稿で、ハバード氏の解放を確認。その上で、「米国はトランプ大統領への敬意から、何も見返りを提供する必要がなかった。これはロシアにとって前例のない状況だ。今回の解放に『交換』は必要なかった。この重要な帰還は本来、ロシア大統領府との交渉で何も得られなかったバイデン前政権下でもっと早くに実現されるべきだった」と記した。&lt;/p&gt;&lt;p&gt;ハバード氏は２２年４月、ウクライナ東部のイジューム市で逮捕された。ロシア検察当局は、同氏が同地でウクライナ軍の検問所の警備にあたっていたと主張していた。&lt;/p&gt;&lt;p&gt;ロシア国営メディアは、ハバード氏が起訴内容について有罪を認めたと報じた。しかし、米国を拠点とする同氏の弁護士マーティン・デ・ルカ氏は以前、ロイターに対し、ハバード氏から「自分に対する罪状は虚偽であり、いかなる戦闘部隊や軍事部隊にも所属していなかった」と伝えられていたことを明らかにしている。&lt;/p&gt;</content:encoded>
       <wire:publisher>Reuters</wire:publisher>
       <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
       <wire:platform>Yahoo!ニュース日本</wire:platform>
@@ -269,21 +554,17 @@
       <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
     </item>
     <item>
-      <title>プログラミング言語ＰＨＰに深刻な脆弱性、ＥＵがサイト停止も警告</title>
+      <title>ＰＨＰ脆弱性の修正版公開、開発側は対応遅れ認める</title>
       <link>https://news.yahoo.co.jp/articles/b69d32425d7aea5c4a76e0644dc2a9dd886e78ca</link>
-      <guid isPermaLink="false">53f02c620d15674657144f9a</guid>
+      <guid isPermaLink="false">c47a7da9fdcd5ac06cd445c5</guid>
       <pubDate>Wed, 21 Oct 2026 08:23:24 +0000</pubDate>
       <description>Rajveer Pardesi　Raphael Satter
 
-[２１日 ロイター] - 広く使われているプログラミング言語ＰＨＰの開発者チームは２１日、深刻な脆弱性２件を修正するプログラムを公開すると発表した。欧州連合（ＥＵ）のサイバーセキュリティー当局は、修正を適用できない組織は影響を受けるウェブサイトを停止すべきだと警告した。
+[２１日 ロイター] - 広く使われているプログラミング言語ＰＨＰ（ハイパーテキスト・プリプロセッサ）の開発者チームは２１日、既に特定されていた２件の深刻な脆弱性を修正する更新プログラムを公開したと発表した。また、以前に把握していた欠陥への対応が遅れたことを認めた。 
 
-ＰＨＰはインターネット上で広く使われている。過去１日の間に、ＰＨＰで動くウェブサイトが深刻なサイバー攻撃で侵入される恐れがあるとの臆測が広がっていた。
-
-サイバーセキュリティー企業ハントレスによると、ＰＨＰはウェブサイトの構築・管理やサーバーの共有サービス、管理画面などに幅広く使われているほか、ＰＨＰの使用を明示していない多くのソフトウエアも内部ではＰＨＰで動いている。
-
-ＰＨＰの開発側はセキュリティーに関する告知で、２件の脆弱性はいずれも深刻度評価基準「ＣＶＳＳ</description>
+ＰＨＰはインターネットの広範な部分を支えており、今回の脆弱性によって多数のウェブサイトが攻撃を受ける恐れがあると懸念されていた。開発者チームは、ハッカーが脆弱なシステム上でコードを実行できる恐れがある２件の「深刻な」脆弱性に対応するため、４つの修正プログラムを公開。利用者に対し、直ちに更新するよう強く促した。</description>
       <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;Rajveer Pardesi　Raphael Satter&lt;/p&gt;&lt;p&gt;[２１日 ロイター] - 広く使われているプログラミング言語ＰＨＰの開発者チームは２１日、深刻な脆弱性２件を修正するプログラムを公開すると発表した。欧州連合（ＥＵ）のサイバーセキュリティー当局は、修正を適用できない組織は影響を受けるウェブサイトを停止すべきだと警告した。&lt;/p&gt;&lt;p&gt;ＰＨＰはインターネット上で広く使われている。過去１日の間に、ＰＨＰで動くウェブサイトが深刻なサイバー攻撃で侵入される恐れがあるとの臆測が広がっていた。&lt;/p&gt;&lt;p&gt;サイバーセキュリティー企業ハントレスによると、ＰＨＰはウェブサイトの構築・管理やサーバーの共有サービス、管理画面などに幅広く使われているほか、ＰＨＰの使用を明示していない多くのソフトウエアも内部ではＰＨＰで動いている。&lt;/p&gt;&lt;p&gt;ＰＨＰの開発側はセキュリティーに関する告知で、２件の脆弱性はいずれも深刻度評価基準「ＣＶＳＳ ｖ４．０」で、最高１０点のうち９．２と評価されていると明らかにした。その上で「修正版が公開され次第、速やかに更新する」よう利用者に呼びかけた。&lt;/p&gt;&lt;p&gt;修正プログラムは２１日１４００ＧＭＴ（日本時間午後１１時）に公開する予定としている。&lt;/p&gt;&lt;p&gt;ＥＵ機関サイバーセキュリティーサービス（ＣＥＲＴ－ＥＵ）は２０日の勧告で、９．２という評価は、認証なしで外部からコードを実行される危険性を示すと説明した。影響を受けるシステムなどに直ちに修正プログラムを適用できるよう準備を求め、対応できない場合は影響を受けるサイトの停止を検討すべきだとした。&lt;/p&gt;&lt;p&gt;ウェブホスティング企業ゴーダディは、この脆弱性により、攻撃者がインターネット経由で対象サーバー上でコードを実行できる恐れがあると説明。データの窃取やウェブサイトの改ざん、システム全体の乗っ取りにつながる可能性があるとした。&lt;/p&gt;</content:encoded>
+      <content:encoded>&lt;p&gt;Rajveer Pardesi　Raphael Satter&lt;/p&gt;&lt;p&gt;[２１日 ロイター] - 広く使われているプログラミング言語ＰＨＰ（ハイパーテキスト・プリプロセッサ）の開発者チームは２１日、既に特定されていた２件の深刻な脆弱性を修正する更新プログラムを公開したと発表した。また、以前に把握していた欠陥への対応が遅れたことを認めた。&lt;/p&gt;&lt;p&gt;ＰＨＰはインターネットの広範な部分を支えており、今回の脆弱性によって多数のウェブサイトが攻撃を受ける恐れがあると懸念されていた。開発者チームは、ハッカーが脆弱なシステム上でコードを実行できる恐れがある２件の「深刻な」脆弱性に対応するため、４つの修正プログラムを公開。利用者に対し、直ちに更新するよう強く促した。&lt;/p&gt;&lt;p&gt;ＰＨＰの開発・保守を統括するＰＨＰ財団はブログへの投稿で、セキュリティー研究者が２０２４年に、今回の脆弱性の一つにつながる欠陥の最初の兆候を発見していたと明らかにした。ただ、問題は「理論上は想定されていたが、具体的な攻撃経路は見つからず、影響が明確な他の具体的な問題が優先され、こうした懸念への対応は後回しになった」と説明した。同財団は、欠陥への対応の遅れは「構造的な不備によるものだった」と述べた。&lt;/p&gt;&lt;p&gt;開発者チームはこれに先立ち、深刻な脆弱性２件を特定したと発表し、修正版が公開され次第、できるだけ早くサイトを更新するよう利用者に呼びかけていた。セキュリティー専門家は、ハッカーが修正プログラムを素早く解析し、未修正のシステムの脆弱性を競って悪用する恐れがあると警告した。&lt;/p&gt;&lt;p&gt;米国家安全保障局（ＮＳＡ）は声明で、こうした脆弱性は「サーバーのファイルシステムやデータベースへの直接的な侵入経路になることが多い」と説明。直ちに更新できない場合、リスクを完全に抑えるため、組織はシステムをオフラインにすべきだとした。&lt;/p&gt;&lt;p&gt;米サイバーセキュリティー・インフラ安全保障局（ＣＩＳＡ）は勧告で、各組織は導入済みのＰＨＰを「直ちに更新すべきだ」と表明。「勧告の公表時点では、これらの脆弱性が悪用された事例を確認していないが、修正しないまま放置すれば組織にリスクをもたらす」とした。&lt;/p&gt;&lt;p&gt;これに先立ち、ＰＨＰの開発者チームは２０日、深刻な脆弱性２件を特定したと発表。ウェブサイト運営者が対応に追われる中、２１日に欧州などの政府ウェブサイトがオフラインになった。&lt;/p&gt;&lt;p&gt;開発者チームは２１日午後１時４５分ＧＭＴ（日本時間午後１０時４５分）ごろ、脆弱性を修正した新バージョンを公開した。&lt;/p&gt;&lt;p&gt;オランダやフィンランドの政府機関などは修正版公開を待たず、予防措置としてサイトを停止した。&lt;/p&gt;&lt;p&gt;ウェブ技術調査会社Ｗ３Ｔｅｃｈｓによると、プログラミング言語を特定できるウェブサイトのうち約７５％でＰＨＰが使われている。ブログや中小企業のページから政府ポータル、オンラインストア、ニュースサイトまで、全ウェブサイトの約４３％を支えるワードプレスの基盤でもある。サイバーセキュリティー企業ハントレスによると、ＰＨＰの使用を明示していない多くのソフトウエアも内部ではＰＨＰで動いている。&lt;/p&gt;&lt;p&gt;セキュリティー専門家によると、これほど多くのウェブサイトが同じ基盤ソフトウエアに依存しているため、今回の脆弱性は数百万台のサーバーに侵入を許す恐れがある。攻撃者は標的を個別に狙うのではなく、インターネットをスキャンして脆弱なバージョンのＰＨＰを動かすシステムを探し出すことができるという。&lt;/p&gt;&lt;p&gt;キングス・カレッジ・ロンドンの客員上級研究員ルカシュ・オレイニク氏は、ここ数週間に拡大しているＡＩ（人工知能）支援型のハッキングがこの脅威を増幅させる恐れがあると指摘。「規模が極めて大きい。ＡＩを使えば、悪用は瞬時に、大規模に行われる可能性がある」と語った。&lt;/p&gt;&lt;p&gt;欧州、オーストラリア、日本、英国の当局は、ＰＨＰ利用者に対し、直ちに更新するか、パッチが適用できるまでウェブサイトを停止するよう呼びかけた。オランダのサイバーセキュリティー当局自身もサイトをオフラインにし、脆弱性を踏まえた予防措置だと説明した。&lt;/p&gt;&lt;p&gt;当局者によると、ＰＨＰ ５以降の全てのバージョンが影響を受ける可能性があるが、ＰＨＰ側はどのバージョンが脆弱かはまだ明らかにしていない。&lt;/p&gt;&lt;p&gt;ＰＨＰの開発側はセキュリティーに関する告知で、２件の脆弱性はいずれも深刻度評価基準「ＣＶＳＳ ｖ４．０」で、最高１０点のうち９．２と評価されていると明らかにした。&lt;/p&gt;&lt;p&gt;ＥＵ機関サイバーセキュリティーサービス（ＣＥＲＴ－ＥＵ）は２０日の勧告で、９．２という評価は、認証なしで外部からコードを実行される危険性を示すと説明した。影響を受けるシステムなどに直ちに修正プログラムを適用できるよう準備を求め、対応できない場合は影響を受けるサイトの停止を検討すべきだとした。&lt;/p&gt;&lt;p&gt;ウェブホスティング企業ゴーダディは、この脆弱性により、攻撃者がインターネット経由で対象サーバー上でコードを実行できる恐れがあると説明。データの窃取やウェブサイトの改ざん、システム全体の乗っ取りにつながる可能性があるとした。&lt;/p&gt;&lt;p&gt;＜大規模な停止＞&lt;/p&gt;&lt;p&gt;オランダでは、国家サイバーセキュリティーセンター（ＮＣＳＣ）に続き、ロッテルダム港、政府ポータル「Ｏｖｅｒｈｅｉｄ．ｎｌ」、サッカー協会（ＫＮＶＢ）、国内主要５政党のウェブサイト、複数の病院サイトなどが、公開しているサイトをオフラインにした。&lt;/p&gt;&lt;p&gt;デンマークの自治体向けＩＴ企業コンビットの広報担当者はロイターに対し、全国的な学校連絡プラットフォームを含む複数のサービスを停止したと明らかにした。&lt;/p&gt;&lt;p&gt;混乱はフィンランドでさらに広範囲に及び、国営ＩＴサービス事業者バルトリは、政府の公衆ネットワークサービスを「予防措置として」オフラインにしたと説明した。&lt;/p&gt;&lt;p&gt;フランスの内務省は、セキュリティー修正版を待つ間、地方自治体の行政ウェブサイトを一時的にオフラインにしたと表明した。&lt;/p&gt;</content:encoded>
       <wire:publisher>Reuters</wire:publisher>
       <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
       <wire:platform>Yahoo!ニュース日本</wire:platform>
@@ -348,13 +629,15 @@
       <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
     </item>
     <item>
-      <title>北朝鮮、韓国軍が安全脅かせば断固対応　国境部隊に指示</title>
+      <title>北朝鮮、韓宣伝放送を10月中に開始　戦術部隊が新たな配置に</title>
       <link>https://news.yahoo.co.jp/articles/24676218e863fbfc34fc28efad6de72db155b7ed</link>
-      <guid isPermaLink="false">1b6ac38a3f33492fae97bb6b</guid>
+      <guid isPermaLink="false">be6840cd4df1488e066bf92f</guid>
       <pubDate>Wed, 21 Oct 2026 07:40:37 +0000</pubDate>
-      <description>[ソウル ２１日 ロイター] -</description>
+      <description>Joyce Lee　Kyu-seok Shim
+
+[ソウル ２１日 ロイター] -</description>
       <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;[ソウル ２１日 ロイター] - 北朝鮮の国営メディアは２１日、韓国軍が国境警備部隊の安全を脅かした場合、「迅速かつ断固とした行動」を取るよう部隊に指示が出されたと報じた。&lt;/p&gt;&lt;p&gt;韓国は２０日、北朝鮮が境界地帯の軍事態勢を強化するとの威嚇を実行に移しさらなる挑発に出れば、厳しく対応すると表明していた。&lt;/p&gt;&lt;p&gt;朝鮮中央通信（ＫＣＮＡ）によると、朝鮮人民軍の朴正天元帥は２０日、韓国との境界地帯にある防御施設を視察した。金正恩朝鮮労働党総書記の妹、金与正党総務部長が同行した。金氏は新たな火力部隊が境界地帯で「射撃位置に就いた」と述べた。&lt;/p&gt;</content:encoded>
+      <content:encoded>&lt;p&gt;Joyce Lee　Kyu-seok Shim&lt;/p&gt;&lt;p&gt;[ソウル ２１日 ロイター] - 北朝鮮の金正恩朝鮮労働党総書記の妹である金与正党総務部長は２１日、韓国との境界線全域で１０月末までに拡声器による宣伝放送を開始すると表明した。&lt;/p&gt;&lt;p&gt;韓国の李在明大統領は、２０２５年に対北朝鮮放送を停止して拡声器を撤去、北朝鮮との緊張緩和に向けた主要な成果の一つとして強調してきた。&lt;/p&gt;&lt;p&gt;金与正氏は境界地帯を視察後に厳しい批判を盛り込んだ声明を発表、北朝鮮の戦術部隊が新たな配置に就きつつあると説明。境界全域での拡声器配備は韓国側の措置に対する「最も正当な措置であり、適切な対応」だと主張した。国営の朝鮮中央通信（ＫＣＮＡ）が伝えた。&lt;/p&gt;&lt;p&gt;「われわれの戦術狩猟部隊は新たな配置に就きつつあり、１０月中に境界全域で対韓国心理戦用の拡声器が稼働する」と述べた。声明では韓国を正式名称の大韓民国の略称で呼んだ。&lt;/p&gt;&lt;p&gt;＜境界地帯の複数地点を視察＞&lt;/p&gt;&lt;p&gt;金与正氏は２１日朝、朝鮮人民軍の朴正天元帥と境界地帯の複数地点を視察し、境界が明確に遮断され、要塞化が一段と進んでいることを確認したと述べた。韓国軍が２１日、少なくとも２カ所で拡声器による警告と警告射撃を行ったと非難し、北朝鮮軍は自制し、あらゆる不測の事態に備えて万全の準備を進めているとした。&lt;/p&gt;&lt;p&gt;「敵の挑発的な警告射撃が、その名目上の目的を逸脱し、われわれの領土や兵士の安全に危害が及べば、境界警備部隊は理性を失った武装したならず者を容赦なく排除する」と述べた。&lt;/p&gt;&lt;p&gt;韓国は２０日、北朝鮮が境界地帯の軍事態勢を強化するとの威嚇を実行に移しさらなる挑発に出れば、厳しく対応すると表明していた。&lt;/p&gt;&lt;p&gt;ＫＣＮＡによると、金与正氏は新たな火力部隊が境界地帯で「射撃位置に就いた」と述べた。&lt;/p&gt;&lt;p&gt;＜朴元帥、境界を「難攻不落の要塞」に＞&lt;/p&gt;&lt;p&gt;北朝鮮が２０２４年４月に境界地帯の要塞化を始めて以降、南北間の緊張は高まっている。１９５３年に朝鮮戦争が休戦となった際に設けられた非武装地帯（ＤＭＺ）によって隔てられているが、韓国によると北朝鮮は今年に入り、最大７０００人の作業員を境界地帯に投入。ＤＭＺを二分する軍事境界線を越えて韓国側に入る事例が約５０回あったという。&lt;/p&gt;&lt;p&gt;ＫＣＮＡによると、北朝鮮は２１日、韓国側の主張を否定。朴氏は責任を転嫁するための「ばかげた主張」だと退けた。その上で北朝鮮軍は境界の位置を「誰よりもよく」把握しており、自国領内でなすべきことをしているにすぎないと主張。境界地帯を「難攻不落の要塞」にするよう兵士らに求めた。&lt;/p&gt;&lt;p&gt;韓国は、９月に境界地帯で発生し、韓国軍兵士２人が重傷を負った爆発は北朝鮮の地雷が原因だったとし、要塞化工事を中止するよう北朝鮮に求めた。&lt;/p&gt;</content:encoded>
       <wire:publisher>Reuters</wire:publisher>
       <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
       <wire:platform>Yahoo!ニュース日本</wire:platform>
@@ -814,271 +1097,6 @@
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://news.yahoo.co.jp/articles/ad0911c1c653cd853f908082708b01f96ea3997d</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>ロシア軽油輸出が正常化へ、トルコ・ブラジルなどに出荷再開</title>
-      <link>https://news.yahoo.co.jp/articles/a266e20ccb6ce7cfd084ca4fd12893cec342bcef</link>
-      <guid isPermaLink="false">ca25e51ea5e0831b1f6a0009</guid>
-      <pubDate>Wed, 21 Oct 2026 05:26:09 +0000</pubDate>
-      <description>Robert Harvey　Enes Tunagur　Ahmad Ghaddar
-
-[ロンドン ２０日 ロイター] -</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;Robert Harvey　Enes Tunagur　Ahmad Ghaddar&lt;/p&gt;&lt;p&gt;[ロンドン ２０日 ロイター] - ロシア産軽油は、従来の主要輸出先に出荷が再開されつつある。米国がロシア産燃料供給への制裁を一時停止し、ロシアも自国の輸出禁止措置を解除したためだ。船舶追跡データ会社ケプラーとＬＳＥＧのデータによると、少なくとも２隻のタンカーが最近、トルコとブラジルに向けて航行していることが分かった。&lt;/p&gt;&lt;p&gt;ロシアは９日、軽油の輸出禁止措置を解除。同措置は、ウクライナのドローン（無人機）攻撃による製油所被害を背景に国内で燃料不足が発生したことを受けて導入されていた。解除は、トランプ米大統領との間で世界市場向け軽油供給に関する合意に達した後に行われた。&lt;/p&gt;&lt;p&gt;合意には、ロシア産燃料供給に対する米国の制裁を一時的に解除する内容が含まれる。一方で、欧州連合（ＥＵ）と英国によるロシア産燃料輸入の禁輸措置は引き続き有効となっている。&lt;/p&gt;&lt;p&gt;ロシアは通常、米国に次ぐ世界第２位の軽油輸出国だが、輸出禁止措置導入前の夏場から輸出量を減らしていた。&lt;/p&gt;&lt;p&gt;データによると、今年のロシアの軽油輸出量はこれまでの平均で日量約３４万５０００バレルと、前年同期比４１％減少した。&lt;/p&gt;&lt;p&gt;こうした中で１隻のタンカーが１６日にロシア・バルト海沿岸のプリモルスク港を出港後、ブラジル北部マナウスを目的地として航行中で、１４日にもプリモルスク港を出港したタンカーが、トルコ南部アランヤに向かった。&lt;/p&gt;&lt;p&gt;ケプラーによると、両船とも３０万バレルの軽油を積載している。&lt;/p&gt;&lt;p&gt;そのほかモロッコも、ロシアによる輸出禁止措置解除後、軽油の輸入を開始した。ケプラーのデータに基づくと、今年のロシア産軽油積み出し先の内訳は、トルコが約３４％、ブラジルが２４％、モロッコが１０％となっている。&lt;/p&gt;&lt;p&gt;ケプラーの地政学リスク部門責任者ミシェル・ブロハード氏は「ロシア産軽油が市場に戻る過程では、既存の貿易ルートが最初の供給先として最も合理的だ。世界的な軽油供給が依然として逼迫する状況においては、新たな販路開拓に時間を費やすより、大量供給を迅速に受け入れられる顧客を優先するとみられる」と述べた。&lt;/p&gt;&lt;p&gt;また事情に詳しい関係者３人の話では、トルコの燃料供給業者はロシア産軽油輸出再開を見込み、国内製油所からの軽油購入を減らしている。&lt;/p&gt;&lt;p&gt;ケプラーによると、ロシアの軽油積み出し量は１１日から２０日までの期間で約２１万トン（約１５６万バレル）となった。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/a266e20ccb6ce7cfd084ca4fd12893cec342bcef</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>適切な金融政策による物価目標実現、持続的な成長に資する＝氷見野日銀副総裁</title>
-      <link>https://news.yahoo.co.jp/articles/51aabd262ec31c37ccb25117d5dd728ceeae6a65</link>
-      <guid isPermaLink="false">611ce1a3f42a3cf61f485e12</guid>
-      <pubDate>Wed, 21 Oct 2026 05:24:04 +0000</pubDate>
-      <description>Takahiko Wada
-
-［東京　２１日　ロイター］ -</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;Takahiko Wada&lt;/p&gt;&lt;p&gt;［東京　２１日　ロイター］ - 日銀の氷見野良三副総裁は２１日、衆院財務金融委員会で、現在のように物価の上振れリスクが高い状況で必要な政策調整が遅れると、経済への下振れリスクが顕在化し、その後の景気の悪化につながる恐れもあると指摘した。適切な金融政策運営を通じて物価安定を実現することは「成長投資を支える観点から重要なほか、わが国経済の持続的な成長の実現にも資する」と述べた。&lt;/p&gt;&lt;p&gt;牧野俊一委員（参政）の質問に答えた。&lt;/p&gt;&lt;p&gt;副総裁は９月の利上げについて、中長期の予想物価上昇率が引き続き上昇していることも踏まえれば「基調的な物価上昇率は２％にかなり近づいており、先行き物価安定の目標とおおむね整合的な水準となる」とした上で、こうした中心的な見通しに加え、金融環境が緩和的な状態にあることや物価の上振れリスクに留意する必要があることなどを踏まえて決めたと説明した。利上げ後も「緩和的な金融環境は維持されており、引き続き経済活動はしっかりとサポートされている」と話した。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/51aabd262ec31c37ccb25117d5dd728ceeae6a65</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>EXCLUSIVE-サムスンとＳＫハイニックス、中国工場を高度化　ＡＩ需要と競合に対応＝関係者</title>
-      <link>https://news.yahoo.co.jp/articles/e6d767d6a2e71ad2f1c84faf7a3f4856600136da</link>
-      <guid isPermaLink="false">8cf1e245bdfe09c4a39ccf5d</guid>
-      <pubDate>Wed, 21 Oct 2026 05:23:22 +0000</pubDate>
-      <description>Hyunjoo Jin　Liam Mo　Karen Freifeld
-
-[ソウル／北京／ニューヨーク ２１日 ロイター] -</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;Hyunjoo Jin　Liam Mo　Karen Freifeld&lt;/p&gt;&lt;p&gt;[ソウル／北京／ニューヨーク ２１日 ロイター] - 韓国のサムスン電子とＳＫハイニックスが、より先端的なメモリー半導体を生産するため、中国工場の高度化を進めている。計画に詳しい関係者４人が明らかにした。急成長する中国の競合企業に対抗するとともに、人工知能（ＡＩ）向けの膨大な需要に応える狙いだ。&lt;/p&gt;&lt;p&gt;米国が中国の技術進歩を遅らせようと２０２２年に一部の半導体製造装置に輸出規制を導入して以来、韓国の半導体大手２社にとって、中国事業にどこまで投資するかは難しい問題となっている。&lt;/p&gt;&lt;p&gt;両社は現在、エッチング装置など米国製の半導体製造装置を中国に導入する場合、毎年、米政府の許可を申請する必要がある。米商務省産業安全保障局（ＢＩＳ）は２０２５年、中国にある外国半導体メーカーの工場について、技術の高度化や生産能力拡大に向けた許可を出す意向はないとも表明した。&lt;/p&gt;&lt;p&gt;こうした規制上の難題は両社の工場の設備更新を制約しており、中国の長江存儲科技（ＹＭＴＣ）に市場シェアを奪われる一因となっている。両社の幹部は、地政学的緊張が中国事業に悪影響を及ぼしていると公に警告している。&lt;/p&gt;&lt;p&gt;サムスンとＳＫハイニックスはロイターに対し、米政府と緊密に協議しながら工場の高度化を進めていると認めた。ただ、今回初めて報じる生産計画の詳細は明らかにしなかった。&lt;/p&gt;&lt;p&gt;ロイターは、両社が計画する高度化に必要な装置について、米当局が輸出許可をどの程度付与しているか確認できなかった。&lt;/p&gt;&lt;p&gt;関係者によると、両社は中国工場で２００層を超えるＮＡＮＤ型フラッシュメモリーの製造に取り組んでいる。実現すれば、韓国で生産する製品と同水準になる。&lt;/p&gt;&lt;p&gt;ＮＡＮＤは電源を切ってもデータを保持できるメモリー半導体の一種で、スマートフォンやパソコン、ＡＩデータセンター向けのソリッドステートドライブ（ＳＳＤ）に広く使われている。積層数を増やすことで記憶密度が高まり、コストを抑えられる。&lt;/p&gt;&lt;p&gt;関係者２人によると、サムスンの世界のＮＡＮＤ生産量の約４０％を占める中国北西部・西安の工場では、現在、約２００層の製品を製造している。&lt;/p&gt;&lt;p&gt;関係者の１人によると、サムスンは２８６層の「Ｖ９」ＮＡＮＤを製造できるよう同工場を改修している。ウエハーの月間生産量を２０２６年１２月に５０００枚とし、２７年１２月までに４万枚へ大幅に引き上げることを目指す。&lt;/p&gt;&lt;p&gt;サムスンは、今回の高度化は米国の輸出規制に準拠していると説明。「米国を含む世界の顧客の需要増に対応することが目的だ。生産能力の拡大や新たな製造施設の建設は行っていない」と表明した。&lt;/p&gt;&lt;p&gt;事情に詳しい関係者らによると、ＳＫハイニックスは中国東北部・大連の施設で、２４０層以上のＮＡＮＤ製品の生産に切り替えることを目指している。&lt;/p&gt;&lt;p&gt;関係者の１人によると、同社は大連で最大２４０層の半導体を製造する許可を得ており、将来の米国生産に向けた基盤づくりにつながる３００層超の半導体の研究開発を同拠点で行うため、米政府に許可を求める可能性がある。&lt;/p&gt;&lt;p&gt;ＢＩＳは、韓国２社に対する許可の状況について、ロイターの質問に直接回答しなかった。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/e6d767d6a2e71ad2f1c84faf7a3f4856600136da</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>ロシア無人機攻撃、ハルキウ近郊で2人死亡　首都にも空爆</title>
-      <link>https://news.yahoo.co.jp/articles/7c863759a1900426fa84f9b5645c85959238e2e6</link>
-      <guid isPermaLink="false">07ed37616cc2913f597ecc2a</guid>
-      <pubDate>Wed, 21 Oct 2026 05:20:46 +0000</pubDate>
-      <description>[２１日 ロイター] -</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;[２１日 ロイター] - ウクライナのハルキウ州のシネフボフ知事は２１日、同国第２の都市ハルキウ近郊で夜間にロシアのドローン（無人機）攻撃があり、２人が死亡したと通信アプリ「テレグラム」で明らかにした。&lt;/p&gt;&lt;p&gt;知事によると、攻撃で民家などに被害が出た。このほか１１人にストレス反応が見られた。&lt;/p&gt;&lt;p&gt;首都キーウのクリチコ市長はテレグラムで、ロシアの空爆が高層集合住宅と交通インフラを直撃し、火災が発生したと明らかにした。&lt;/p&gt;&lt;p&gt;地元当局によると、ポルタワ州クレメンチュクでも大学が攻撃を受け、２人が負傷した。&lt;/p&gt;&lt;p&gt;一連の攻撃は、２１日に予定されているトランプ米大統領のウィットコフ和平交渉担当特使とロシアのプーチン大統領の会談を前に起きた。&lt;/p&gt;&lt;p&gt;米当局者によると、ウィットコフ氏は２０日、ノルウェーでウクライナのゼレンスキー大統領と「建設的な」協議を行った。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/7c863759a1900426fa84f9b5645c85959238e2e6</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>情報ＢＯＸ：スペースＸとテスラの統合協議、マスク氏の狙いは</title>
-      <link>https://news.yahoo.co.jp/articles/12b0a4fa17da5f7f5535a2dfbd66f438e45e9022</link>
-      <guid isPermaLink="false">43836b8cce75caff56f178a1</guid>
-      <pubDate>Wed, 21 Oct 2026 05:18:19 +0000</pubDate>
-      <description>Joe Brock
-
-[２１日 ロイター] -</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;Joe Brock&lt;/p&gt;&lt;p&gt;[２１日 ロイター] - 電気自動車（ＥＶ）大手テスラと宇宙開発企業スペースＸの最高経営責任者（ＣＥＯ）を兼ねるイーロン・マスク氏は２０日、両社の統合は良い案だと述べた。実現すれば時価総額が約３兆５０００億ドルと世界最大級となる企業が誕生することになる。&lt;/p&gt;&lt;p&gt;両社はかつて、全く異なる事業を手がける企業とみられていた。しかし、マスク氏が人工知能（ＡＩ）、ロボット工学、先端製造、衛星通信、さらには地上や将来的には軌道上のデータセンターを含むコンピューティング基盤へと事業を広げるにつれ、その境界は曖昧になっている。&lt;/p&gt;&lt;p&gt;経営統合が持つ意味を以下にまとめた。&lt;/p&gt;&lt;p&gt;＜なぜマスク氏は統合を進めるのか＞&lt;/p&gt;&lt;p&gt;統合によって、マスク氏の長期構想の中核を担う単一の企業が誕生する。それは地上から宇宙まで、ＡＩ、エネルギー、ロボット工学、通信、輸送にまたがる一体的な技術・製造の巨大企業だ。&lt;/p&gt;&lt;p&gt;マスク氏は２０日、「われわれは超知能によるシンギュラリティー（技術的特異点）にほぼ到達しており、両社の統合には大きな利点があると思う」とし、超知能ソフトウエアの開発、半導体設計、半導体合弁事業テラファブ、ロボット工学、軌道上データセンターとなるスターマインド衛星群の構築に向けた輸送能力、通信接続の分野で協力することで多くを得られると語った。&lt;/p&gt;&lt;p&gt;両社の統合は意思決定を簡素化する可能性もある。マスク氏のプロジェクトの多くは既に複数の企業にまたがり、それぞれの取締役会や株主の承認を必要としている。統合会社になれば、経営陣は資本、技術者、インフラを最も有望と見る分野に振り向ける自由度が高まる。&lt;/p&gt;&lt;p&gt;マスク氏は以前から、テスラのＡＩ・ロボット戦略を推進するには、同社への影響力を強める必要があると主張してきた。同氏はテスラ株の２割近くを保有し、スペースＸでは議決権を通じて経営を支配している。合併は同氏の影響力を集約することになり得る。&lt;/p&gt;&lt;p&gt;＜投資家にとっての意味は＞&lt;/p&gt;&lt;p&gt;テスラの株主は、スペースＸの急成長する衛星ブロードバンド通信「スターリンク」や打ち上げ事業、将来の宇宙事業にも投資することになる。一方、スペースＸの投資家は、テスラの自動車、蓄電、自動運転、ロボット事業を保有することになる。&lt;/p&gt;&lt;p&gt;統合会社は、自動車、ロボット工学、衛星通信、打ち上げサービス、蓄電、ＡＩインフラでそれぞれ主導的な地位を持つ事業を束ね、時価総額約３兆５０００億ドルと世界で最も価値の高い企業の一つになる可能性もある。&lt;/p&gt;&lt;p&gt;合併支持派は、相互依存が強まる事業間で、統合会社がより効率的に資本を配分できると主張するとみられる。&lt;/p&gt;&lt;p&gt;一方で批判派は、投資家がはるかに幅広い技術面、規制面、事業遂行上のリスクを負うことになり、その中には互いにほとんど関連しないものもあると指摘する。&lt;/p&gt;&lt;p&gt;＜両社が協力できる分野は＞&lt;/p&gt;&lt;p&gt;スターリンクの衛星は、テスラのロボタクシーや自律システム、将来世代の人型ロボット「オプティマス」に通信回線を提供できる可能性がある。テスラの電池や蓄電製品は、将来のデータセンター計画を含め、スペースＸで拡大する電力需要を支える一助となり得る。&lt;/p&gt;&lt;p&gt;マスク氏は既に、両社の大型協業計画となるテラファブを発表している。半導体・ＡＩコンピューティング事業で、テスラの自動運転車やオプティマスに必要な先端半導体を生産するとともに、スペースＸのＡＩ・データセンター構想にも対応することを目指す。マスク氏は２０２８年後半までの量産開始を望んでいる。&lt;/p&gt;&lt;p&gt;テスラが持つ大規模な工場自動化の専門技術は、スペースＸによる大型宇宙船「スターシップ」の量産体制構築を補完できる可能性がある。一方、スペースＸの技術は既にテスラ製品にも取り入れられている。特に注目されるのが、次世代「ロードスター」にロケット技術を応用した部品を採用する計画だ。&lt;/p&gt;&lt;p&gt;統合会社は、戦略的に重要なサプライチェーン（供給網）の確保でも足並みをそろえられる可能性がある。電池、半導体、製造装置におけるテスラの事業規模と、特殊金属、電子機器、推進装置の部品、衛星機器に対するスペースＸの需要を組み合わせて活用できる。&lt;/p&gt;&lt;p&gt;＜リスクは何か＞&lt;/p&gt;&lt;p&gt;最大の課題は地政学と規制かもしれない。&lt;/p&gt;&lt;p&gt;スペースＸは米軍、情報機関、米航空宇宙局（ＮＡＳＡ）の主要な契約先だ。一方、テスラは自動車の生産・販売で大きな役割を果たす上海工場を通じ、中国との深い結び付きを維持している。両社の統合によって、米国の規制当局や国家安全保障当局に加え、中国政府からも監視が強まる可能性がある。&lt;/p&gt;&lt;p&gt;統合には株主の理解や企業統治の面でもハードルがある。既に複雑な事業を抱える２社を統合した方が、別々に存続させるより多くの価値を生み出せると、投資家を納得させる必要がある。利益相反や議決権による支配、資本配分を巡る疑問も必然的に浮上するだろう。&lt;/p&gt;&lt;p&gt;さらに、事業遂行上のリスクもある。スターシップ、ロボタクシー、人型ロボット、ＡＩデータセンター、移動体通信、軌道上インフラは、いずれも巨額の費用を要し、技術的に困難な賭けだ。テスラとスペースＸを統合しても、こうしたリスクは軽減されるわけではなく、単に一つ屋根の下に集約されるだけになる。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/12b0a4fa17da5f7f5535a2dfbd66f438e45e9022</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>高市首相、「日本列島の隅々」に産業集積　就任1年で会見</title>
-      <link>https://news.yahoo.co.jp/articles/a727477c9609fbcd43cf220a402dd10a99e313ca</link>
-      <guid isPermaLink="false">96399b1732b299d4b7a1cf43</guid>
-      <pubDate>Wed, 21 Oct 2026 05:18:08 +0000</pubDate>
-      <description>Yoshifumi Takemoto
-
-［東京　２１日　ロイター］ -</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;Yoshifumi Takemoto&lt;/p&gt;&lt;p&gt;［東京　２１日　ロイター］ - 高市早苗首相は２１日、就任から１年を迎えて記者会見し、「責任ある積極財政」の基本方針を改めて強調した。政権が掲げる成長戦略を通じ、産業集積地を「日本列島の隅々」に広げる考えも示した。&lt;/p&gt;&lt;p&gt;日本経済について、賃金の上がりにくかった３０年から変化しつつあるとし、「この変化を一時的なものとしないため、成長戦略と地域未来戦略を両輪に予算編成の方針を大胆に見直す」と説明。「大規模で長期的に予見可能性の高い財政支出を計画的に実施し、民間投資を引き出す」と語った。&lt;/p&gt;&lt;p&gt;政権の実績として、内閣情報調査室を改組・格上げして国家情報局を設立したことを挙げ、「さらに情報力強化に取り組む」と表明。情報力の強化は「外交、経済、総合的な国力の強化につながる」と強調した。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/a727477c9609fbcd43cf220a402dd10a99e313ca</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>ＮＢＡ＝シクサーズ、新加入レブロン14得点　開幕戦で王者ニックス下す</title>
-      <link>https://news.yahoo.co.jp/articles/1c40466823c300c765ca59679b9c42cbb5e41c1e</link>
-      <guid isPermaLink="false">fb825e5a940b1254a118e1d5</guid>
-      <pubDate>Wed, 21 Oct 2026 05:14:53 +0000</pubDate>
-      <description>［２０日　ロイター］ -</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;［２０日　ロイター］ - 米プロバスケットボール協会（ＮＢＡ）は２０日、２０２６─２７シーズン開幕を迎え、レブロン・ジェームズが新加入したセブンティシクサーズが、昨季ファイナル王者ニックスを１０６─１００で下した。&lt;/p&gt;&lt;p&gt;シクサーズはタイリース・マクシーが両チーム最多の２８得点を決めた。前人未踏のＮＢＡ２４シーズン目に突入したレブロンは先発し、１４得点９リバウンド７アシストをマーク。同じく新加入のジェイレン・ブラウンが１９得点８リバウンド６アシストと、ともに新天地で力強いスタートを切った。&lt;/p&gt;&lt;p&gt;一方、昨季５３年ぶりの制覇を果たしたニックスでは、ファイナルＭＶＰ（最優秀選手）のジェイレン・ブランソンがチームトップの２１得点をマーク。カールアンソニー・タウンズが１９得点１２リバウンド、シクサーズから加入した新戦力アンドレ・ドラモンドが１２得点１４リバウンドを記録したが及ばなかった。&lt;/p&gt;&lt;p&gt;ピストンズはセルティックスに１２１─１１３で白星発進。最大で２２得点のリードを奪われたが、巻き返しに成功した。ジェイレン・デューレンが２２得点９リバウンド、ケイド・カニンガムが２２得点８アシストを挙げた。セルティックスはポール・ジョージが両チームトップの３８得点を決めたが、リードを守り切れなかった。&lt;/p&gt;&lt;p&gt;サンダーはスパーズに１１６─１０４で勝利。序盤にリードを奪われるも、最大で２６得点の差をつけるなどして逆転白星を飾った。シェイ・ギルジャス・アレクサンダーが両チーム最多の３２得点をマークしたほか、ジャレッド・マケインが２０得点を決めた。&lt;/p&gt;&lt;p&gt;スパーズはステフォン・キャッスルがチームトップの２４得点、ディラン・ハーパーが１８得点、ビクター・ウェンバンヤマが１２得点１３リバウンド３アシスト、６ブロックの内容だった。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/1c40466823c300c765ca59679b9c42cbb5e41c1e</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>大同生命、円債は下期も1000億円程度積み増し　金利次第で年度計画上振れも</title>
-      <link>https://news.yahoo.co.jp/articles/6284e82f52813cacd003fe2e8f0f334553277abc</link>
-      <guid isPermaLink="false">6602fd4eca5139985cb1e91e</guid>
-      <pubDate>Wed, 21 Oct 2026 05:14:45 +0000</pubDate>
-      <description>Hiroko Hamada
-
-［東京　２１日　ロイター］ -</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;Hiroko Hamada&lt;/p&gt;&lt;p&gt;［東京　２１日　ロイター］ - Ｔ＆Ｄホールディングス傘下の大同生命保険は２１日、２０２６年度下期の一般勘定資産運用計画で、国内債券は上期と同様に超長期債を中心に１０００億円程度を積み増す方針を示した。金利は上昇傾向が続くと見込んでおり、水準次第では年度計画以上の残高増となる可能性もあるという。&lt;/p&gt;&lt;p&gt;運用企画部長の朝野晃司氏がロイターなどに対し明らかにした。&lt;/p&gt;&lt;p&gt;円債は上期に残高を１０００億円程度増やしており、下期も同程度のペースで積み増す計画。日銀の利上げ継続や財政拡張懸念などを背景に金利上昇を見込む中で買い増しのタイミングもあるとみて、年度計画では２０００億円程度の残高増としている想定を上振れる可能性もある。&lt;/p&gt;&lt;p&gt;日銀の金融政策については、市場の大方の予想と同じ「３カ月に１回のペースでの利上げを見込んでいる」（朝野氏）という。同社は年度内の２０年金利のレンジを３．７０─４．３０％、３０年金利を３．９０─４．５０％とみている。年度末はそれぞれ４％、４．２％程度と予想している。&lt;/p&gt;&lt;p&gt;円建社債は上期に、１０年以下を中心に９００億円増額した。&lt;/p&gt;&lt;p&gt;外国債券はヘッジ付、オープンともに横ばいを計画する。上期は３００億円圧縮した。朝野氏は「年度当初は（外債の）ヘッジコストは下がると想定していたが、足元は下がっていない。外債の投資妙味が低下している点からも、国内債券を積み増す方が良いと判断した」と話した。&lt;/p&gt;&lt;p&gt;米金利を巡っては、連邦準備理事会（ＦＲＢ）は目先は利上げを続けるものの、一部の消費や雇用関連指標が弱いため来年には打ち止めとなると想定。日米金利差縮小の一方で原油高など構造的な円安要因があるため、ドル／円相場は横ばい傾向を予想する。&lt;/p&gt;&lt;p&gt;株式は国内外ともに市場動向を見極めながら、上期のように上昇局面が続いた場合は残高を削減する方針。&lt;/p&gt;&lt;p&gt;一方、貸し付けは海外のプロジェクトファイナンスを中心に残高を積み増す。オルタナティブ投資は、中長期的収益拡大に向けたリスク分散や収益獲得機会の拡大などのため増加を見込んでいる。&lt;/p&gt;&lt;p&gt;◎２６年度下期の相場見通し（レンジと年度末）は以下の通り。&lt;/p&gt;&lt;p&gt;日本国債１０年物利回り　　２．７０―３．６０％（年度末３．２５％&lt;/p&gt;&lt;p&gt;米１０年債利回り　　　　　４．５０─５．５０％（同４．９５％）&lt;/p&gt;&lt;p&gt;日経平均株価　　　　　　　６万円─７万５０００円（同７万１０００円）&lt;/p&gt;&lt;p&gt;米ダウ平均株価　　　　　　４万７０００ドル─５万７０００ドル（同５万３０００ドル）&lt;/p&gt;&lt;p&gt;ドル／円　　　　　　　　　１４７―１６５円（同１５５円）&lt;/p&gt;&lt;p&gt;ユーロ／円　　　　　　　　１６５―１８５円（同１７３円）&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/6284e82f52813cacd003fe2e8f0f334553277abc</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>ＥＣＢ流動性供給制度、ユーロの国際的役割強化に寄与＝レーン理事</title>
-      <link>https://news.yahoo.co.jp/articles/aa6c22eb2f8bbf959239d419d964d1f790e7429d</link>
-      <guid isPermaLink="false">8edb23f2c32295e7350a60e8</guid>
-      <pubDate>Wed, 21 Oct 2026 05:14:35 +0000</pubDate>
-      <description>[フランクフルト ２１日 ロイター] -</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;[フランクフルト ２１日 ロイター] - 欧州中央銀行（ＥＣＢ）のチーフエコノミストであるレーン専務理事は２１日、外国に流動性の安全網を提供することで、ユーロの国際的な役割を強化し、金融政策の波及効果を広げられると述べた。&lt;/p&gt;&lt;p&gt;上海で開かれた「ドルを超えた通貨システム」と題する非公開会合で講演した。レーン氏は、最近拡充したＥＣＢのユーロ流動性供給制度への需要は強く、３０を超える中央銀行が関心を示していると説明した。&lt;/p&gt;&lt;p&gt;同会合は年次会議「外灘金融サミット」の一環として開催された。&lt;/p&gt;&lt;p&gt;講演準備原稿によると、レーン氏は「流動性供給枠は通貨への信認を高め、関連するリスクを軽減することで、その利用拡大を支える」と述べた。&lt;/p&gt;&lt;p&gt;世界の政策当局者の間では、トランプ米大統領の予測困難な経済政策を背景に、ドルの長期的な優位性を疑問視する声が出ている。&lt;/p&gt;&lt;p&gt;レーン氏は、ユーロの国際的な利用が拡大すれば、ユーロ圏の金融政策が世界に及ぼす影響が広がり、ＥＣＢが物価安定の責務を果たす能力が高まると主張した。&lt;/p&gt;&lt;p&gt;外国中銀がユーロ建て担保と引き換えにユーロを調達できるＥＣＢの「ＥＵＲＥＰ」制度は、特に公的な外貨準備運用主体による購入増加を通じ、ユーロ圏の債券市場を押し上げる可能性があると述べた。&lt;/p&gt;&lt;p&gt;ＥＣＢのラガルド総裁は最近、通貨スワップ枠のネットワークも見直していると説明した。この枠組みでは、米連邦準備理事会（ＦＲＢ）や中国人民銀行（中央銀行）などの主要中銀が、自国通貨をユーロと交換できる。&lt;/p&gt;&lt;p&gt;レーン氏は、こうした取り決めがユーロ建て借り入れを促す可能性があると指摘。ただ、対象はユーロ圏と金融面での結び付きが強く、ユーロ建て債務の返済能力が明確な国・地域の中銀に限定すべきだと述べた。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/aa6c22eb2f8bbf959239d419d964d1f790e7429d</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>超長期国債中心に円債投資継続、償還多く残高は横ばい＝明治安田生命・26年度下期運用計画</title>
-      <link>https://news.yahoo.co.jp/articles/8900abaad9eb87399e6a71e8b70143f3e9808464</link>
-      <guid isPermaLink="false">c5c38ef70112cb4ceaae3ea8</guid>
-      <pubDate>Wed, 21 Oct 2026 05:12:09 +0000</pubDate>
-      <description>Tomo Uetake
-
-［東京　２１日　ロイター］ -</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;Tomo Uetake&lt;/p&gt;&lt;p&gt;［東京　２１日　ロイター］ - 明治安田生命保険は２１日、２０２６年度下期の一般勘定資産運用について、円建て債券は超長期の日本国債を中心に投資を継続する計画を示した。ただ保有債券の償還が多いため下期の円債残高は横ばい、通年度では残高増加を見込む。&lt;/p&gt;&lt;p&gt;北村乾一郎執行役員・運用企画部長が運用方針説明会で明らかにした。&lt;/p&gt;&lt;p&gt;円金利資産の核となる円建て債券は、資産と負債のマッチングと長期安定的な利配収入確保に向け、上期に続き、２０年債と３０年債を軸とした超長期国債を中心に買い入れる。北村氏は「３０年債で４％の利回りは魅力的」だとし、円債ポートフォリオのかなりの部分を今の金利水準で入れ替える意向を示した。「今の時間を大切に買い入れを進めていきたい。金利がここから上がっても買うし、このまま膠着したとしても買っていく」という。&lt;/p&gt;&lt;p&gt;ただ保有債券の償還が多いため、上期と同様の購入スタンスで臨んでも下期の円債残高は横ばいになると説明。一方、年度を通じた残高は増加を見込む。&lt;/p&gt;&lt;p&gt;日銀の金融政策は、２７年度にかけても利上げが継続される可能性が高いとみる。国内金利は、年度末に向けて１０年金利が２．３５─３．０５％（２１日時点は２．９０％）のレンジで推移するとの想定を８月初旬に置いたが、上方修正を検討中だという。&lt;/p&gt;&lt;p&gt;外国債券のうちソブリン債は、為替の見通しやヘッジコストに留意しつつ利回りの高い国を中心にヘッジ付きでの投資に機動的に対応する。このうち、政治と財政を巡る不安から足元で売り圧力が強まるフランス国債については、「持ってはいるが、外債における保有率は５％未満と非常に低い」（北村氏）と明かした上で、財政懸念含めて注視はするもののまだ静観する時期だとの考えを示した。 為替オープンでのソブリン投資には慎重なスタンスで下期の残高は減少、通年度の残高としては横ばいを見込む。&lt;/p&gt;&lt;p&gt;またクレジットについては、米国の高格付け銘柄を中心にヘッジ付きで積み増す計画だが、上期残高が減少したこともあり、通年度でも残高は減少する見通し。&lt;/p&gt;&lt;p&gt;外国投信がメインとなる外国株式は、上期に続き、自社のニューヨーク拠点を活用してプライベート・エクイティを中心に積み増す。またプライベート・デット（銀行を介さない融資）について、北村氏は「ＡＩ（人工知能）過剰投資にはわれわれも懸念を持っており、一極集中しないよう、セクター的に分散されたような保守的なものへの投資を始めている」と説明した。&lt;/p&gt;&lt;p&gt;国内株式は、総合収益の向上に向けた売却や入れ替えを継続するが、残高横ばいを見込む。このほか投資用不動産は、上期に続いて大都市圏を中心に保有物件の建て替え・再開発や新規物件への投資に取り組み、残高を増やす。&lt;/p&gt;&lt;p&gt;明治安田生命の一般勘定の資産残高は、３月末時点で４７兆５４４２億円。うち外貨建て資産は１６兆３０７２億円（３４．３％）。&lt;/p&gt;&lt;p&gt;２６年度下期の相場見通し（レンジと年度末中央値）は以下の通り。&lt;/p&gt;&lt;p&gt;日本国債１０年物利回り　２．３５％─３．０５％（中央値２．６０％）：上方修正検討&lt;/p&gt;&lt;p&gt;日本国債３０年物利回り　　　非　　公　　表&lt;/p&gt;&lt;p&gt;米１０年国債利回り　　　３．６０％─４．９０％（同４．２０％）：上方修正検討&lt;/p&gt;&lt;p&gt;日経平均株価　　　　　　６万４０００─７万６０００円（同６万８０００円）&lt;/p&gt;&lt;p&gt;米ダウ　　　　　　　　　４万８５００─５万６０００ドル（同５万１０００ドル）&lt;/p&gt;&lt;p&gt;ドル／円　　　　　　　　１４７─１６８円（同１５５円）&lt;/p&gt;&lt;p&gt;ユーロ／円　　　　　　　１７０─１９１円（同１８０円）&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/8900abaad9eb87399e6a71e8b70143f3e9808464</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>ＡＰＥＣ財務相会合、政策協調強化で合意　デジタルインフラ声明も</title>
-      <link>https://news.yahoo.co.jp/articles/2716be34baf4df40c296b97a5dcc8e23287f8156</link>
-      <guid isPermaLink="false">1a3eedfa6e754f345d6e8db6</guid>
-      <pubDate>Wed, 21 Oct 2026 05:11:39 +0000</pubDate>
-      <description>Yantoultra Ngui　Shi Bu
-
-［香港／北京 ２１日 ロイター］ -</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;Yantoultra Ngui　Shi Bu&lt;/p&gt;&lt;p&gt;［香港／北京 ２１日 ロイター］ - 中国の藍仏安財政相は２１日、香港で開かれたアジア太平洋経済協力会議（ＡＰＥＣ）財務相会合の閉幕に合わせて記者会見し、外部からのリスクや課題に対処するため、参加各国・地域がマクロ経済政策に関する意思疎通と協調を強化することで合意したと明らかにした。&lt;/p&gt;&lt;p&gt;「全てのメンバーがマクロ経済政策の健全性を高めるべきという点で合意した」と説明。閣僚らは、不確実性に適切に対処し、地域の経済・金融の安定を守るため、財政・金融システムを強化することにも合意したという。&lt;/p&gt;&lt;p&gt;人工知能（ＡＩ）やその他の新興技術が生産性を高め、新たな成長源を支える可能性があると指摘。また、会合では、家計支援のための財政政策、デジタルインフラの資金調達、金融アクセス、若手の金融専門家向けの機会や交流についても成果が得られたと述べた。&lt;/p&gt;&lt;p&gt;家計への支援や人材への投資が、家計支出、内需、生産性を押し上げ得るとしたほか、各政府は財政規律を維持し、持続可能な公的財政を確保する必要があると付け加えた。&lt;/p&gt;&lt;p&gt;これとは別に、貿易や経済的連結性を支援し、経済機会を拡大することを目的とした、アジア太平洋地域のデジタルインフラ資金調達に関する政策声明が発表された。&lt;/p&gt;&lt;p&gt;声明は「われわれは加盟経済体に対し、信頼性が高く、アクセスしやすく、拡張性があり、信頼され、安全で、強靭なデジタルインフラを整備し、デジタルリテラシー・スキルを向上させ、相互運用性およびクロスボーダーのデジタル接続性を促進し、アジア太平洋地域のデジタルトランスフォーメーションを加速させることを奨励する」と述べている。&lt;/p&gt;&lt;p&gt;また、閣僚らは、イノベーションの促進とリスク軽減を図るため、公共部門、民間部門、多国間開発銀行間のより深い連携を求めたという。&lt;/p&gt;&lt;p&gt;声明では、各政府は支援的な政策・規制環境を整備すべきであり、民間企業は資本を提供し、新たな資金調達手法を開発すべきで、多国間開発銀行はプロジェクトの準備を支援し、投資を誘致すべきとされた。&lt;/p&gt;&lt;p&gt;シンガポールのジェフリー・シオウ第２財務相は、長期化する紛争、地政学的分断の深刻化、ＡＩによる生産性向上が期待を下回ることが、世界経済の成長にとってリスクになっていると指摘。ＡＰＥＣが産業パートナー、技術プロバイダー、研修機関を結集させることで、中小企業によるＡＩ活用を支援できると述べた。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/2716be34baf4df40c296b97a5dcc8e23287f8156</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>アングル：共和党の牙城カンザスに異変、民主候補が現職と接戦　94年ぶり上院議席獲得も視野</title>
-      <link>https://news.yahoo.co.jp/articles/99ec2a6d3bfec44b0ab6dd1c442313c5b3a9997d</link>
-      <guid isPermaLink="false">d22757fa57cae05737988b87</guid>
-      <pubDate>Wed, 21 Oct 2026 04:56:57 +0000</pubDate>
-      <description>Renee Hickman
-
-[ガーデンシティ（カンザス州） ２０日 ロイター] -</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;Renee Hickman&lt;/p&gt;&lt;p&gt;[ガーデンシティ（カンザス州） ２０日 ロイター] - 米中部カンザス州が最後に民主党員を上院に送り出したのは、９４年前のこと。世界恐慌が同州の経済を襲い、小麦価格は暴落、干ばつによって大平原地帯は「ダストボウル」と化していた頃だ。時を経て今年、カンザス州で再び民主党上院議員が誕生する可能性が出てきている。&lt;/p&gt;&lt;p&gt;メガチャーチ（大規模教会）の牧師で民主党候補のアダム・ハミルトン氏は、米紙ニューヨーク・タイムズとシエナ大学共同の世論調査、エマーソン・カレッジによる調査でそれぞれ、共和党のロジャー・マーシャル上院議員と接戦を繰り広げている。２０２４年の大統領選挙で同州は、共和党候補のトランプ氏が５７％超の得票率で勝利を収めていた。&lt;/p&gt;&lt;p&gt;予想外の接戦は、共和党の牙城における亀裂を反映している。民主党は、過去最高水準に迫るディーゼル（軽油）燃料価格など農業コストの高騰やトランプ政権の移民取り締まりに対する不満が、この地の「進歩主義的ポピュリズム」を再び呼び起こせるかもしれないと見込んでいる。&lt;/p&gt;&lt;p&gt;バンス・エムケさんと妻ルイーズさんが営む小麦農場と種子事業の事務所は、かつての穀物サイロを改装した建物だ。壁に掛けられた有名な絵画の複製から、カンザスで奴隷制に反対して武装蜂起した奴隷制度廃止運動家のジョン・ブラウンが鋭い眼差しを向ける。&lt;/p&gt;&lt;p&gt;南北戦争終結から２０年後の１８８５年、バンスさんの先祖はカンザス州西部で農業を始めた。だが現在は、米国とイスラエルによる対イラン戦争に伴うコスト上昇を受け、自身や周辺の農場の暗い未来を憂いている。&lt;/p&gt;&lt;p&gt;「この１年で燃料価格はほとんど倍になった。そのせいで、５万ドル（約８００万円）もの予期せぬ出費を強いられた」&lt;/p&gt;&lt;p&gt;＜かさむ燃料・肥料コスト＞&lt;/p&gt;&lt;p&gt;２月のイラン戦争開始以降、燃料と肥料の価格は急騰した。農業機械を動かすディーゼル燃料の価格は戦争開始以来で７０％も上昇している。こうしたコスト高は、農業が地域経済の中心を占めるカンザス、アイオワ、ネブラスカなどの各州に大きな影響を及ぼしている。&lt;/p&gt;&lt;p&gt;引退する共和党ジョニ・アーンスト上院議員の後任を争う選挙となるアイオワ州では、共和党のアシュリー・ヒンソン下院議員と民主党のジョシュ・トゥレク候補が接戦となっていることが世論調査で示されている。ヒンソン氏は先月、ソーシャルメディアへの投稿で、「戦争の代償を、アイオワ州民がガソリンスタンドやレジで支払う必要はない」と訴え、イラン戦争の「即時終結」を求めた。&lt;/p&gt;&lt;p&gt;２４年大統領選でトランプ氏が２０ポイント超の大差で勝利したネブラスカ州でさえ、共和党のピート・リケッツ上院議員が無所属のダン・オズボーン氏と競り合っている。&lt;/p&gt;&lt;p&gt;民主党が上院の多数派を勝ち取るには、４議席の上乗せが必要だ。&lt;/p&gt;&lt;p&gt;＜共和党有力者が苦戦する候補を支援＞&lt;/p&gt;&lt;p&gt;トランプ大統領やバンス副大統領ら共和党の有力者は、中西部で苦戦する候補の応援に回っている。&lt;/p&gt;&lt;p&gt;トランプ氏は今月、ネブラスカ州で非課税軽油の利用拡大を約束。カンザス州ウィチタ近郊で１９日に行った集会では、農務省が収穫期のディーゼル燃料費を補填するため、農家に８０億ドルを支給する「収穫期燃料救済プログラム」を導入すると表明した。&lt;/p&gt;&lt;p&gt;牧師のハミルトン氏がカンザス州の農村部で支持を広げるには、なお大きな壁がある。エムケ夫妻の農場からほど近い場所には、マーシャル議員を支持する共和党員ロン・サペス氏の農場がある。&lt;/p&gt;&lt;p&gt;「過去にもディーゼル価格が高かった年はあった。どの政権下か、というのはあまり関係がないように思う。私はしばらく、この苦しみに耐えるつもりだ」とサペス氏は言う。&lt;/p&gt;&lt;p&gt;トランプ氏が優先する移民取り締まりも、９月下旬にカンザス州の食肉加工業界を直撃した。同州の連邦検事局によると、移民・税関捜査局（ＩＣＥ）の捜査官がドッジシティ、ガーデンシティ、リベラルおよび周辺地域で１０４人を逮捕した。&lt;/p&gt;&lt;p&gt;一部の従業員は逮捕を恐れて出勤しなかったため、牛肉価格の高騰に対する有権者の怒りが高まる中、カーギルやナショナル・ビーフといった大手加工業者の操業を遅らせることにもつながった。&lt;/p&gt;&lt;p&gt;＜有権者登録が急増＞&lt;/p&gt;&lt;p&gt;この取り締まりはまた、伝統的に保守的なこれらの町の政治傾向にも影響を与えた可能性がある。ウィチタ州立大学アイク研究所のアレクサンドラ・ミドルウッド教授によると、ＩＣＥによる一斉摘発が行われた郡では、９月の有権者登録数が大幅に増加したことが分かったという。&lt;/p&gt;&lt;p&gt;９月２２日、ドッジシティで食料品店を営むオスカー・ソトさんはソーシャルメディアで、ＩＣＥ捜査官が町へ大挙しているとの投稿を目にし、衝撃を受けた。地域活動家グループに加わり、外出を恐れる家庭や、生計の担い手が逮捕された家族に食事を届けた。&lt;/p&gt;&lt;p&gt;このボランティア活動中に目にした光景が、３９歳で初めて有権者登録をするきっかけになったと明かす。&lt;/p&gt;&lt;p&gt;「状況を少しでも変えるために、自分に何ができるのか。たどり着いた答えが投票だった」。ソトさんは民主党候補に投票する予定だと述べた。&lt;/p&gt;&lt;p&gt;２４年の選挙でトランプ氏は、ヒスパニック系有権者のほぼ半数の票を獲得した。しかし、１０月５日のロイター／イプソス調査では、トランプ氏の政権運営を支持するヒスパニック系米国人は２４％にとどまっている。ピュー・リサーチ・センターによると、２４年のカンザス州有権者に占めるヒスパニック系の割合は９％超だった。&lt;/p&gt;&lt;p&gt;＜選挙陣営が攻撃の応酬＞&lt;/p&gt;&lt;p&gt;マーシャル陣営は、ハミルトン氏の教会に関連するキャンプで、ボランティアが１０代の少年２人への性的虐待で告発された事件を取り上げ、同氏を批判している。教会指導者らは当初、この事件を内部調査にとどめたが、その後、このボランティアがキャンプに戻り、再び不適切な行為をしたと訴えられたことを受けて警察に通報した。&lt;/p&gt;&lt;p&gt;ハミルトン氏は、教会が当初から警察に通報すべきだったと認めた上で、この事件を受けて警察への通報を義務付ける方針へ変更したと述べた。&lt;/p&gt;&lt;p&gt;これに対しハミルトン陣営は９月のニューヨーク・タイムズ紙の報道を取り上げ、政界入り前に産科医だったマーシャル氏が未払いの医療費を巡り７００人超の患者を提訴していたことを強調した。マーシャル氏は、一般的な債権回収の手法に従っただけだと説明している。&lt;/p&gt;&lt;p&gt;マーシャル陣営は取材要請には応じなかったが声明を発表し、これまで農家支援のほか、中間層の減税、国境の安全確保で実績を上げたと主張した。またハミルトン氏を、ニューヨーク州選出の上院少数党院内総務チャック・シューマー氏が資金提供する民主党候補だと批判し、全国レベルの民主党との結び付きを強調した。&lt;/p&gt;&lt;p&gt;１０月９日、ガーデンシティの小さなカフェでは、引退した小児科医で共和党員として登録するマイケル・シャル氏らの有権者グループが、ハミルトン氏の訪問を待ち受けていた。シャル氏は、穏健な政治姿勢と、「人々と対話しようという意思がある」点から、ハミルトン氏を支持していると語る。&lt;/p&gt;&lt;p&gt;イベント後にロイターの取材に応じたハミルトン氏は、共和党の強固な地盤であるカンザス州で、シャル氏のような有権者が示すメッセージに焦点を当てている。&lt;/p&gt;&lt;p&gt;「単にカンザス州が激戦州となり、われわれが１議席を奪えるかもしれないというだけの話ではない。共和党の牙城であるカンザス州の人々が、首都ワシントンで起きていることは容認できないと訴えていること自体が重要だ」&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/99ec2a6d3bfec44b0ab6dd1c442313c5b3a9997d</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>中国、台湾実効支配の東沙諸島周辺で「秩序維持」と主張</title>
-      <link>https://news.yahoo.co.jp/articles/5fcd3929bfa5021a42e5d624cba517d48dac98f3</link>
-      <guid isPermaLink="false">072200f2f4f738ca025ca8de</guid>
-      <pubDate>Wed, 21 Oct 2026 04:55:30 +0000</pubDate>
-      <description>[北京 ２１日 ロイター] -</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;[北京 ２１日 ロイター] - 中国政府は２１日、台湾が実効支配する東沙（プラタス）諸島の周辺で、中国海警局が「秩序を維持している」と述べた。南シナ海北端にある東沙諸島は戦略的な要衝に位置し、台湾側は中国が管轄権の行使を図っていると警戒している。&lt;/p&gt;&lt;p&gt;台湾を自国領と見なす中国は先週、台湾の海巡署（沿岸警備隊）が東沙諸島付近で中国漁船に放水砲を使用したことを巡り、台湾側は『その結果を引き受けなければならない』と警告した。&lt;/p&gt;&lt;p&gt;台湾は１８日以降、中国海警局の船舶が東沙諸島に接近した事例を２件確認したと発表し、中国側の行動を挑発的だと非難している。&lt;/p&gt;&lt;p&gt;中国国務院台湾事務弁公室の張晗報道官は定例記者会見で、中国は東沙諸島を含む南シナ海の島々とその周辺海域に対し「争う余地のない主権」を有すると述べた。&lt;/p&gt;&lt;p&gt;張氏は「関係海域で法執行のための巡視を行う中国海警局の船舶は、法に従って職務を遂行し、正常な航行や操業の秩序を維持している」と説明し、海警局の船は「台湾海峡両岸の人々の合法的かつ正当な権益と、生命・財産の安全を効果的に守っている」と述べた。&lt;/p&gt;&lt;p&gt;また、台湾の与党が分離独立の立場に「固執している」ことが、台湾海峡で戦争の危険が生じる根本原因だと主張した。&lt;/p&gt;&lt;p&gt;一方、台湾で対中国政策を担う大陸委員会の邱垂正主任委員は２０日夜、台北で開かれたフォーラムで、中国は台湾問題を「国内問題化」し、「台湾周辺の海域や離島に対し、事実上の管轄権を持つかのような印象をつくり出そうとしている」と述べた。&lt;/p&gt;&lt;p&gt;邱氏は、習近平国家主席の４期目入りが２０２７年に決まると見込まれる中、中国にとって「国家統一の実現」という使命の切迫性が一段と増していると指摘した。&lt;/p&gt;&lt;p&gt;「中国の対台湾政策は、『統一を実現する前に管轄権を行使する』という、より攻撃的で挑発的な戦略に移行するとわれわれは分析している」と述べた。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/5fcd3929bfa5021a42e5d624cba517d48dac98f3</wire:canonicalUrl>
       <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
     </item>
   </channel>

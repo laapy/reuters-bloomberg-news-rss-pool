@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>TBS NEWS DIG — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Anewsdig.tbs.co.jp+%28Reuters+OR+Bloomberg+OR+%E3%83%AD%E3%82%A4%E3%82%BF%E3%83%BC+OR+%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%90%E3%83%BC%E3%82%B0%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 21 Oct 2026 12:18:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 17:36:29 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>東京電力HD、11月料金は9700円台で過去最高へ－中東混乱でLNGが高騰</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3029095</link>
       <guid isPermaLink="false">dd817f73c2fe281fb95a8a2b</guid>
-      <pubDate>Wed, 21 Oct 2026 08:32:00 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 10:33:00 +0000</pubDate>
       <description>（ブルームバーグ）：東京電力ホールディングス傘下企業が提供する電気料金が、11月使用分は平均的な家庭で9700円台と、過去最高を更新する見込みだとわかった。広報担当者が明らかにした。もっと読むにはこちら ...</description>
-      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;4分前
-ビール酒造組合が11月のイベントの開催を見送り　メーカー各社に“カルテル疑惑”の中…「諸般の状況を総合的に勘案」&lt;/p&gt;</content:encoded>
       <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
@@ -23,19 +20,31 @@
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3029095</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>国内生保が国債投資を維持・拡大へ、入札の安定需要に期待の声</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3029096</link>
+      <guid isPermaLink="false">40439b2fe06c3966172df883</guid>
+      <pubDate>Wed, 21 Oct 2026 10:14:00 +0000</pubDate>
+      <description>（ブルームバーグ）：日本の生命保険会社は、今年度下期に国内債券への投資規模を維持または増やす方針を示しており、今後の国債入札を支える買い手となる可能性がある。かんぽ生命保険は円債投資を積極化する方針… 「衝撃だ」官邸に危機感　武部新氏を簗農水大臣の後任に起用の理由は？ 農水副大臣や党の農林部会長を歴任　問われる任命責任…重要法案の審議にも影響生じかねない状況に ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3029096</wire:canonicalUrl>
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
       <title>ブラックロックのフィンク氏、データセンター建設遅れはインフレ要因</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3028809</link>
       <guid isPermaLink="false">386a7c5b64f698932d7bb96a</guid>
-      <pubDate>Wed, 21 Oct 2026 06:52:00 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 08:52:00 +0000</pubDate>
       <description>（ブルームバーグ）：米投資会社ブラックロックのラリー・フィンク最高経営責任者（CEO）は21日、AI需要が加速する中、データセンターの建設の遅れはコンピューティング費用を押し上げ、経済成長を脅かす可能性が… ...</description>
-      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;4分前
-ビール酒造組合が11月のイベントの開催を見送り　メーカー各社に“カルテル疑惑”の中…「諸般の状況を総合的に勘案」&lt;/p&gt;</content:encoded>
       <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
@@ -43,7 +52,6 @@
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3028809</wire:canonicalUrl>
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
@@ -51,11 +59,8 @@
       <title>大同生命、国内債券の積み増し上振れ－上期1300億円増で下期も同程度</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3028067</link>
       <guid isPermaLink="false">c9f5f0f417af8335251f2f55</guid>
-      <pubDate>Wed, 21 Oct 2026 05:39:00 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 07:39:00 +0000</pubDate>
       <description>（ブルームバーグ）：大同生命保険は2026年度の国内債券の積み増し規模を引き上げた。社債を中心に買い入れを増やす。朝野晃司運用企画部長が21日の運用説明会で明らかにした。上期は国内債券を1300億円買い増した… ...</description>
-      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;4分前
-ビール酒造組合が11月のイベントの開催を見送り　メーカー各社に“カルテル疑惑”の中…「諸般の状況を総合的に勘案」&lt;/p&gt;</content:encoded>
       <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
@@ -63,7 +68,6 @@
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3028067</wire:canonicalUrl>
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
@@ -71,11 +75,8 @@
       <title>高市首相、公約実現で試練の2年目－高支持率支えに成長実現へ正念場</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3028460</link>
       <guid isPermaLink="false">db7205755b7e4ccbf516904c</guid>
-      <pubDate>Wed, 21 Oct 2026 05:30:00 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 07:29:00 +0000</pubDate>
       <description>（ブルームバーグ）：高市早苗氏は昨年10月、女性では憲政史上初めて首相の座に就いた。高い内閣支持率を維持しながら1年が経過した今、問われているのは、公約を実現できるかどうかだ。高市氏は巧みな発信力を駆… ...</description>
-      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;30分前
-武部農水大臣　寄付は返金・政治資金収支報告書も訂正　新たな報道については「公職選挙法に違反しているという認識はない」&lt;/p&gt;</content:encoded>
       <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
@@ -83,16 +84,15 @@
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3028460</wire:canonicalUrl>
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
-      <title>ソフトバンクG出資デイワン、米IPOで選択肢検討と関係者－延期も視野</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3027455</link>
-      <guid isPermaLink="false">00b0a290169e3139901a033e</guid>
-      <pubDate>Wed, 21 Oct 2026 04:52:00 +0000</pubDate>
-      <description>（ブルームバーグ）：シンガポールのデータセンター運営会社デイワン・データセンターズが、米国での新規株式公開（IPO）に関して、延期や規模縮小などの選択肢を検討している。事情に詳しい複数の関係者が明らか… 中国9月の若者失業率18.0％ 前の月から改善も高止まり ...</description>
+      <title>第一ライフの豪運用会社買収、提案額「低い」と専門家－引き上げ余地</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3028068</link>
+      <guid isPermaLink="false">e150baa6b32d5e1991c449d6</guid>
+      <pubDate>Wed, 21 Oct 2026 07:23:00 +0000</pubDate>
+      <description>（ブルームバーグ）：第一ライフグループによる豪資産運用会社チャレンジャーの買収提案について、複数のアナリストは第一ライフ側の提示額は低く、今後の交渉を通じて引き上げられる可能性があると指摘している。… ...</description>
       <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
@@ -100,7 +100,39 @@
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3027455</wire:canonicalUrl>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3028068</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>氷見野日銀副総裁、緩和調整が遅れれば景気悪化につながる可能性</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3027753</link>
+      <guid isPermaLink="false">c17cba3ce81f297fe706de4d</guid>
+      <pubDate>Wed, 21 Oct 2026 06:45:00 +0000</pubDate>
+      <description>（ブルームバーグ）：日本銀行の氷見野良三副総裁は21日、 金融政策運営で緩和調整が遅れれば、景気の悪化につながる可能性があるとの見解を示した。衆院財務金融委員会で答弁した。氷見野氏は、9月の金融政策決定… 「電気・ガス補助金」来年1月から再開で調整今年度予備費の活用軸 ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3027753</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>日銀政策金利は来春1.75%へ、次の利上げは12月の可能性－前田元理事</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3027453</link>
+      <guid isPermaLink="false">41741c2bb011d16ba8092b97</guid>
+      <pubDate>Wed, 21 Oct 2026 05:40:00 +0000</pubDate>
+      <description>（ブルームバーグ）：元日本銀行理事の前田栄治ちばぎん総合研究所社長は、日銀は今後も3カ月に1回程度の利上げを行い、政策金利を来春までに1.75%程度に引き上げる可能性があるとの見方を示した。前田氏は20日の… 中国9月の若者失業率18.0％ 前の月から改善も高止まり ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3027453</wire:canonicalUrl>
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
@@ -120,11 +152,11 @@
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
-      <title>OpenAI、AIエージェントが監視機能を弱める－問題行動の検知システム</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3026794</link>
-      <guid isPermaLink="false">5842158cf188acae1fce20d4</guid>
-      <pubDate>Wed, 21 Oct 2026 02:47:00 +0000</pubDate>
-      <description>（ブルームバーグ）：米OpenAIは20日、AIモデルの不適切な挙動を検知する社内監視システムで、AIエージェントが警告機能を弱めたり、無効にしたりした事例を確認したと発表した。AIを巡ってはここ数カ月、モデルが… 中国9月の若者失業率18.0％ 前の月から改善も高止まり ...</description>
+      <title>【日本市況】株式反発、スペースX決算でAI懸念薄れる－債券と円迷走</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3026555</link>
+      <guid isPermaLink="false">058703f01bcafc6fa8a00d77</guid>
+      <pubDate>Wed, 21 Oct 2026 02:43:00 +0000</pubDate>
+      <description>（ブルームバーグ）：21日の日本市場は株式が反発。前日の米国市場でイーロン・マスク氏率いるスペースXなどAI関連企業の好決算が相次ぎ、需要動向や信用力に対する懸念が和らいだ。円相場はリスクオフの巻き戻し… 中国9月の若者失業率18.0％ 前の月から改善も高止まり ...</description>
       <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
@@ -132,7 +164,7 @@
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3026794</wire:canonicalUrl>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3026555</wire:canonicalUrl>
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
@@ -152,14 +184,11 @@
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
-      <title>【日本市況】株式反発、スペースX決算でAI懸念薄れる－債券と円迷走</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3026555</link>
-      <guid isPermaLink="false">058703f01bcafc6fa8a00d77</guid>
-      <pubDate>Wed, 21 Oct 2026 00:42:00 +0000</pubDate>
-      <description>（ブルームバーグ）：21日の日本市場は株式が反発。前日の米国市場でイーロン・マスク氏率いるスペースXなどAI関連企業の好決算が相次ぎ、需要動向や信用力に対する懸念が和らいだ。円相場はリスクオフの巻き戻し… 中国9月の若者失業率18.0％ 前の月から改善も高止まり ...</description>
-      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;4分前
-ビール酒造組合が11月のイベントの開催を見送り　メーカー各社に“カルテル疑惑”の中…「諸般の状況を総合的に勘案」&lt;/p&gt;</content:encoded>
+      <title>ベッセント氏、フランス国債市場の混乱波及は「予想していない」</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3026334</link>
+      <guid isPermaLink="false">1fdf54e5fe4f3bd77e698cdc</guid>
+      <pubDate>Tue, 20 Oct 2026 19:02:00 +0000</pubDate>
+      <description>（ブルームバーグ）：ベッセント米財務長官は、利回りが急上昇しているフランス国債市場について、他市場への波及は予想していないとの見方を示した。ベッセント氏は20日、2Wayで「フランスで起きていることが波及… ...</description>
       <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
@@ -167,56 +196,7 @@
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3026555</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
-      <title>オラクルのデータセンター反対運動、環境活動家の全米展開のひな型に</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3027759</link>
-      <guid isPermaLink="false">7b3f16e9835745345237c0ce</guid>
-      <pubDate>Tue, 20 Oct 2026 16:51:00 +0000</pubDate>
-      <description>（ブルームバーグ）：米IT大手オラクルがニューメキシコ州南部で進める巨大データセンタープロジェクトは、反対運動や規制上の障害に直面している。法的な異議申し立てで成果を上げた環境活動家は、ハイパースケー… ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3027759</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
-      <title>氷見野日銀副総裁、緩和調整が遅れれば景気悪化につながる可能性</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3027753</link>
-      <guid isPermaLink="false">c17cba3ce81f297fe706de4d</guid>
-      <pubDate>Tue, 20 Oct 2026 16:44:00 +0000</pubDate>
-      <description>（ブルームバーグ）：日本銀行の氷見野良三副総裁は21日、 金融政策運営で緩和調整が遅れれば、景気の悪化につながる可能性があるとの見解を示した。衆院財務金融委員会で答弁した。氷見野氏は、9月の金融政策決定… 「電気・ガス補助金」来年1月から再開で調整今年度予備費の活用軸 ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3027753</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
-      <title>バークレイズ、ヘッジファンド向け融資拡大へ資本再配分－関係者</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3027459</link>
-      <guid isPermaLink="false">4f243c0bdfba0c0688f8f037</guid>
-      <pubDate>Tue, 20 Oct 2026 16:20:00 +0000</pubDate>
-      <description>（ブルームバーグ）：今年に入ってアジアのAI関連株が急騰する中、英銀バークレイズの幹部らは、ヘッジファンドの顧客への融資に向け、資金供給枠の拡大を模索した。打ち出した解決策は、マクロ金利トレーダーに割… トランプ政権 中国製AI「ディープ・シーク」の使用を禁止情報漏えいを懸念 中国側は撤回を要求 ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3027459</wire:canonicalUrl>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3026334</wire:canonicalUrl>
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
   </channel>
