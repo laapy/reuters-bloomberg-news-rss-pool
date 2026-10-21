@@ -1,12 +1,32 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>TBS NEWS DIG — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Anewsdig.tbs.co.jp+%28Reuters+OR+Bloomberg+OR+%E3%83%AD%E3%82%A4%E3%82%BF%E3%83%BC+OR+%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%90%E3%83%BC%E3%82%B0%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 21 Oct 2026 17:36:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 21:25:33 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米メディア重鎮､スカイダンスとスペースXの取引を大胆予想－米業界誌</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3029480</link>
+      <guid isPermaLink="false">8bc76dc6d7bac6d1264275b3</guid>
+      <pubDate>Wed, 21 Oct 2026 18:26:10 +0000</pubDate>
+      <description>（ブルームバーグ）：米メディア界の重鎮ジョン・マローン氏は、イーロン・マスク氏率いるスペースXと米メディア大手スカイダンスの間で取引が成立する可能性があるとの見方を示した。マローン氏は21日、ニューヨ… PHPに重大欠陥 WEB停止相次ぐ 総理も異例の呼びかけ ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;1時間前
+スペースX債に売り、積極投資で借り入れ拡大警戒－信用リスクも上昇&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3029480</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
     <item>
       <title>東京電力HD、11月料金は9700円台で過去最高へ－中東混乱でLNGが高騰</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3029095</link>
@@ -21,22 +41,6 @@
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3029095</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
-      <title>国内生保が国債投資を維持・拡大へ、入札の安定需要に期待の声</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3029096</link>
-      <guid isPermaLink="false">40439b2fe06c3966172df883</guid>
-      <pubDate>Wed, 21 Oct 2026 10:14:00 +0000</pubDate>
-      <description>（ブルームバーグ）：日本の生命保険会社は、今年度下期に国内債券への投資規模を維持または増やす方針を示しており、今後の国債入札を支える買い手となる可能性がある。かんぽ生命保険は円債投資を積極化する方針… 「衝撃だ」官邸に危機感　武部新氏を簗農水大臣の後任に起用の理由は？ 農水副大臣や党の農林部会長を歴任　問われる任命責任…重要法案の審議にも影響生じかねない状況に ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3029096</wire:canonicalUrl>
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
@@ -56,11 +60,14 @@
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
-      <title>大同生命、国内債券の積み増し上振れ－上期1300億円増で下期も同程度</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3028067</link>
-      <guid isPermaLink="false">c9f5f0f417af8335251f2f55</guid>
-      <pubDate>Wed, 21 Oct 2026 07:39:00 +0000</pubDate>
-      <description>（ブルームバーグ）：大同生命保険は2026年度の国内債券の積み増し規模を引き上げた。社債を中心に買い入れを増やす。朝野晃司運用企画部長が21日の運用説明会で明らかにした。上期は国内債券を1300億円買い増した… ...</description>
+      <title>国内生保が国債投資を維持・拡大へ、入札の安定需要に期待の声</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3029096</link>
+      <guid isPermaLink="false">40439b2fe06c3966172df883</guid>
+      <pubDate>Wed, 21 Oct 2026 08:14:00 +0000</pubDate>
+      <description>（ブルームバーグ）：日本の生命保険会社は、今年度下期に国内債券への投資規模を維持または増やす方針を示しており、今後の国債入札を支える買い手となる可能性がある。かんぽ生命保険は円債投資を積極化する方針… 「衝撃だ」官邸に危機感　武部新氏を簗農水大臣の後任に起用の理由は？ 農水副大臣や党の農林部会長を歴任　問われる任命責任…重要法案の審議にも影響生じかねない状況に ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;1時間前
+スペースX債に売り、積極投資で借り入れ拡大警戒－信用リスクも上昇&lt;/p&gt;</content:encoded>
       <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
@@ -68,39 +75,8 @@
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3028067</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
-      <title>高市首相、公約実現で試練の2年目－高支持率支えに成長実現へ正念場</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3028460</link>
-      <guid isPermaLink="false">db7205755b7e4ccbf516904c</guid>
-      <pubDate>Wed, 21 Oct 2026 07:29:00 +0000</pubDate>
-      <description>（ブルームバーグ）：高市早苗氏は昨年10月、女性では憲政史上初めて首相の座に就いた。高い内閣支持率を維持しながら1年が経過した今、問われているのは、公約を実現できるかどうかだ。高市氏は巧みな発信力を駆… ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3028460</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
-      <title>第一ライフの豪運用会社買収、提案額「低い」と専門家－引き上げ余地</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3028068</link>
-      <guid isPermaLink="false">e150baa6b32d5e1991c449d6</guid>
-      <pubDate>Wed, 21 Oct 2026 07:23:00 +0000</pubDate>
-      <description>（ブルームバーグ）：第一ライフグループによる豪資産運用会社チャレンジャーの買収提案について、複数のアナリストは第一ライフ側の提示額は低く、今後の交渉を通じて引き上げられる可能性があると指摘している。… ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3028068</wire:canonicalUrl>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3029096</wire:canonicalUrl>
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
@@ -136,11 +112,14 @@
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
-      <title>エヌビディア、IPO断念の豪ファーマスに数億ドル出資を協議－報道</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3026556</link>
-      <guid isPermaLink="false">ee2fe84ece7b0fff2726045f</guid>
-      <pubDate>Wed, 21 Oct 2026 02:51:00 +0000</pubDate>
-      <description>（ブルームバーグ）：米半導体大手エヌビディアは、新規株式公開（IPO）を断念したオーストラリアのデータセンター運営会社ファーマス・グリッドに対し数億ドルの出資を協議している。テクノロジー系ニュースサイ… 消費税減税法案「誰にどの程度の恩恵があるのか不透明」野党側が追及委員会で片山大臣への質疑開始 野党の対案に“歩み寄り”の余地を検討 ...</description>
+      <title>大同生命、国内債券の積み増し上振れ－上期1300億円増で下期も同程度</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3028067</link>
+      <guid isPermaLink="false">c9f5f0f417af8335251f2f55</guid>
+      <pubDate>Wed, 21 Oct 2026 05:39:00 +0000</pubDate>
+      <description>（ブルームバーグ）：大同生命保険は2026年度の国内債券の積み増し規模を引き上げた。社債を中心に買い入れを増やす。朝野晃司運用企画部長が21日の運用説明会で明らかにした。上期は国内債券を1300億円買い増した… ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;1時間前
+スペースX債に売り、積極投資で借り入れ拡大警戒－信用リスクも上昇&lt;/p&gt;</content:encoded>
       <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
@@ -148,7 +127,48 @@
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3026556</wire:canonicalUrl>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3028067</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>高市首相、公約実現で試練の2年目－高支持率支えに成長実現へ正念場</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3028460</link>
+      <guid isPermaLink="false">db7205755b7e4ccbf516904c</guid>
+      <pubDate>Wed, 21 Oct 2026 05:30:00 +0000</pubDate>
+      <description>（ブルームバーグ）：高市早苗氏は昨年10月、女性では憲政史上初めて首相の座に就いた。高い内閣支持率を維持しながら1年が経過した今、問われているのは、公約を実現できるかどうかだ。高市氏は巧みな発信力を駆… ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;1時間前
+スペースX債に売り、積極投資で借り入れ拡大警戒－信用リスクも上昇&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3028460</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
+      <title>第一ライフの豪運用会社買収、提案額「低い」と専門家－引き上げ余地</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3028068</link>
+      <guid isPermaLink="false">e150baa6b32d5e1991c449d6</guid>
+      <pubDate>Wed, 21 Oct 2026 05:23:00 +0000</pubDate>
+      <description>（ブルームバーグ）：第一ライフグループによる豪資産運用会社チャレンジャーの買収提案について、複数のアナリストは第一ライフ側の提示額は低く、今後の交渉を通じて引き上げられる可能性があると指摘している。… ...</description>
+      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;1時間前
+スペースX債に売り、積極投資で借り入れ拡大警戒－信用リスクも上昇&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3028068</wire:canonicalUrl>
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>

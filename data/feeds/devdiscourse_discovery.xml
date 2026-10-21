@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Adevdiscourse.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 21 Oct 2026 17:36:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 21:25:33 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Premier League stars shine among 2026 Ballon d’Or nominees</title>
@@ -101,6 +101,21 @@ Following the development, Witkoff conveyed that Trump and the entire nation ext
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.devdiscourse.com/article/international/3995810-trump-terms-no-swap-release-of-us-citizen-stephen-hubbard-from-russia-unprecedented</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Trump, in North Carolina, says Republicans will defy midterm odds</title>
+      <link>https://www.devdiscourse.com/article/international/3995773-trump-in-north-carolina-says-republicans-will-defy-midterm-odds</link>
+      <guid isPermaLink="false">26c45bbb2ff671f25be69a9f</guid>
+      <pubDate>Wed, 21 Oct 2026 05:55:00 +0000</pubDate>
+      <description>Tillis told Politico in a Tuesday interview that his fellow Republicans were headed toward “a train wreck” and a "whoop ass" in November. But Trump, speaking in the eastern city of Greenville on ...</description>
+      <wire:foundAt>devdiscourse_discovery</wire:foundAt>
+      <wire:platform>Devdiscourse</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.devdiscourse.com/article/international/3995773-trump-in-north-carolina-says-republicans-will-defy-midterm-odds</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -206,21 +221,6 @@ Following the development, Witkoff conveyed that Trump and the entire nation ext
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.devdiscourse.com/article/international/3995447-student-protests-erupt-across-indonesia-over-rising-living-costs-forest-fires</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>"Hormuz is closed until America accepts our conditions": Araghchi demands US to honour MoU commitments</title>
-      <link>https://www.devdiscourse.com/article/international/3995429-hormuz-is-closed-until-america-accepts-our-conditions-araghchi-demands-us-to-honour-mou-commitments</link>
-      <guid isPermaLink="false">4e9045aea46df4e2245503b6</guid>
-      <pubDate>Tue, 20 Oct 2026 21:04:00 +0000</pubDate>
-      <description>"What we want from the American side is adherence to all the commitments contained in the Islamabad Memorandum of Understanding that was signed earlier," Araghchi said. "After they adhere to these ...</description>
-      <wire:foundAt>devdiscourse_discovery</wire:foundAt>
-      <wire:platform>Devdiscourse</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.devdiscourse.com/article/international/3995429-hormuz-is-closed-until-america-accepts-our-conditions-araghchi-demands-us-to-honour-mou-commitments</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
