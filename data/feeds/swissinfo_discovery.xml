@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Aswissinfo.ch+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 22 Oct 2026 05:15:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 10:30:36 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Stocks Climb in Late Hours on Tesla, Meta Results: Markets Wrap</title>
@@ -27,6 +27,25 @@
       <wire:evidence>structured credit: Bloomberg</wire:evidence>
     </item>
     <item>
+      <title>Stocks Extend Tech-Fueled Gains as Oil Rally Eases: Markets Wrap</title>
+      <link>https://www.swissinfo.ch/eng/stocks-extend-tech-fueled-gains-as-oil-rally-eases%3a-markets-wrap/92248255</link>
+      <guid isPermaLink="false">355c677dac4541bcb1439d5d</guid>
+      <pubDate>Wed, 21 Oct 2026 21:07:27 +0000</pubDate>
+      <description>(Bloomberg) — Stocks extended gains as concerns over an imminent escalation of Middle East hostilities eased. A late-day advance in Brent crude lost steam after the US Department of State clarified ...</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;Trump and Putin, Silicon Valley war lords and rejecting Palantir&lt;/p&gt;&lt;p&gt;Read more: Trump and Putin, Silicon Valley war lords and rejecting Palantir&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>swissinfo_discovery</wire:foundAt>
+      <wire:platform>SWI swissinfo.ch</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.swissinfo.ch/eng/stocks-extend-tech-fueled-gains-as-oil-rally-eases%3a-markets-wrap/92248255</wire:canonicalUrl>
+      <wire:evidence>structured credit: Bloomberg</wire:evidence>
+    </item>
+    <item>
       <title>New UBS Investment Bankers See Smaller Pay Gain on Promotion</title>
       <link>https://www.swissinfo.ch/eng/new-ubs-investment-bankers-see-smaller-pay-gain-on-promotion/92252520</link>
       <guid isPermaLink="false">be15d66990f5a941f097b82b</guid>
@@ -44,21 +63,6 @@
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.swissinfo.ch/eng/new-ubs-investment-bankers-see-smaller-pay-gain-on-promotion/92252520</wire:canonicalUrl>
       <wire:evidence>structured credit: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Stocks Extend Tech-Fueled Gains as Oil Rally Eases: Markets Wrap</title>
-      <link>https://www.swissinfo.ch/eng/stocks-extend-tech-fueled-gains-as-oil-rally-eases%3a-markets-wrap/92248255</link>
-      <guid isPermaLink="false">355c677dac4541bcb1439d5d</guid>
-      <pubDate>Wed, 21 Oct 2026 14:35:00 +0000</pubDate>
-      <description>(Bloomberg) — Stocks extended gains as concerns over an imminent escalation of Middle East hostilities eased. A late-day advance in Brent crude lost steam after the US Department of State clarified ...</description>
-      <wire:foundAt>swissinfo_discovery</wire:foundAt>
-      <wire:platform>SWI swissinfo.ch</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.swissinfo.ch/eng/stocks-extend-tech-fueled-gains-as-oil-rally-eases%3a-markets-wrap/92248255</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
       <title>Europe’s Shift to T+1 Settlement Risks Millions in Daily Fines</title>
@@ -83,20 +87,16 @@
       <title>Audemars Piguet Bets on Hong Kong’s Rich With Mega Flagship</title>
       <link>https://www.swissinfo.ch/eng/audemars-piguet-bets-on-hong-kongs-rich-with-mega-flagship/92248295</link>
       <guid isPermaLink="false">351ed749a6d89042cf9d5219</guid>
-      <pubDate>Wed, 21 Oct 2026 07:49:04 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 02:49:00 +0000</pubDate>
       <description>Luxury Swiss watchmaker Audemars Piguet is set to open one of its largest Asian flagship stores in a prime Hong Kong tower owned by New World Development Co., betting on resilient demand from the city ...</description>
-      <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;Pharma pushes for higher European drug prices, Trump or no Trump&lt;/p&gt;&lt;p&gt;Read more: Pharma pushes for higher European drug prices, Trump or no Trump&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>swissinfo_discovery</wire:foundAt>
       <wire:platform>SWI swissinfo.ch</wire:platform>
-      <wire:relation>repost</wire:relation>
+      <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
+      <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.swissinfo.ch/eng/audemars-piguet-bets-on-hong-kongs-rich-with-mega-flagship/92248295</wire:canonicalUrl>
-      <wire:evidence>structured credit: Bloomberg</wire:evidence>
+      <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
       <title>Barclays Freed Up Cash for Hedge Fund Bets as It Hit Loan Limits</title>
@@ -118,7 +118,7 @@
       <link>https://www.swissinfo.ch/eng/partners-groups-gantner-calls-for-swiss-tax-on-firms-eu-hiring/92234809</link>
       <guid isPermaLink="false">b575315d0ea708f4d9cf1a82</guid>
       <pubDate>Sun, 18 Oct 2026 06:36:00 +0000</pubDate>
-      <description>Read more: Trump and Putin, Silicon Valley war lords and rejecting Palantir When international justice finds itself in Donald Trump’s crosshairs Read more: When international justice finds itself in ...</description>
+      <description>Partners Group Holding AG co-founder Alfred Gantner is calling for Swiss companies that hire foreign workers to be taxed and for the resulting revenues to be distributed among the population as way to ...</description>
       <wire:foundAt>swissinfo_discovery</wire:foundAt>
       <wire:platform>SWI swissinfo.ch</wire:platform>
       <wire:relation>unknown</wire:relation>
@@ -186,21 +186,6 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.swissinfo.ch/eng/china-defends-yuan-policy-with-imbalances-in-focus-at-eu-talks/92189811</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Switzerland’s drone dilemma</title>
-      <link>https://www.swissinfo.ch/eng/foreign-affairs/switzerlands-drone-dilemma/87693979</link>
-      <guid isPermaLink="false">cba318013ee55d1b589cd25a</guid>
-      <pubDate>Tue, 22 Oct 2024 02:00:00 +0000</pubDate>
-      <description>Read more: ‘Switzerland is a partial member of the EU,’ says historian Rising inequality, diesel deal and another execution Read more: Rising inequality, diesel deal and another execution Switzerland ...</description>
-      <wire:foundAt>swissinfo_discovery</wire:foundAt>
-      <wire:platform>SWI swissinfo.ch</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.swissinfo.ch/eng/foreign-affairs/switzerlands-drone-dilemma/87693979</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
