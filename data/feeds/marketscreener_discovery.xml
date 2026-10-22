@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Amarketscreener.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 22 Oct 2026 15:35:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 19:50:35 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Starboard Value CEO Jeff Smith Lays Out Case for New Bets</title>
@@ -20,6 +20,21 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.marketscreener.com/news/starboard-value-ceo-jeff-smith-lays-out-case-for-new-bets-ce785cd9dc8bf720</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>What you need to know about the 2026 US midterm elections</title>
+      <link>https://www.marketscreener.com/news/what-you-need-to-know-about-the-2026-us-midterm-elections-ce785cdbd98efe27</link>
+      <guid isPermaLink="false">f28f4b43f785b8b3000cd6b9</guid>
+      <pubDate>Wed, 21 Oct 2026 13:23:00 +0000</pubDate>
+      <description>Early voting has been underway for weeks ahead of the November 3, 2026, midterm elections, when US voters will elect members of the House of Representatives and Senate and governors in states across ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/what-you-need-to-know-about-the-2026-us-midterm-elections-ce785cdbd98efe27</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -170,21 +185,6 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.marketscreener.com/news/three-issues-defining-the-2026-us-midterm-elections-ce785cd8dd8cf023</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Dubai Investments plans to float 20% stake in DIP Holding in UAE's first IPO of the year</title>
-      <link>https://www.marketscreener.com/news/dubai-investments-plans-to-float-20-stake-in-dip-holding-in-uae-s-first-ipo-of-the-year-ce785cdad080f52d</link>
-      <guid isPermaLink="false">2362c85d24ad125ccd256944</guid>
-      <pubDate>Sun, 18 Oct 2026 23:35:00 +0000</pubDate>
-      <description>Dubai Investments plans to float 20% stake in DIP Holding in UAE's first IPO of the year RE Oct. 19 Dubai Investments Unit DIP Holding Plans UAE IPO MT Oct. 19 Dubai Investments' Unit launches UAE's ...</description>
-      <wire:foundAt>marketscreener_discovery</wire:foundAt>
-      <wire:platform>MarketScreener</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/news/dubai-investments-plans-to-float-20-stake-in-dip-holding-in-uae-s-first-ipo-of-the-year-ce785cdad080f52d</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
