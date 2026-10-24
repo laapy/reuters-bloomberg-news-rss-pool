@@ -5,16 +5,88 @@
     <link>./</link>
     <description>Confirmed Bloomberg originals and reposts.</description>
     <language>mul</language>
-    <lastBuildDate>Fri, 23 Oct 2026 23:57:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 03:46:46 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>Hartnett, de BofA, advierte que la aversión al riesgo persistirá hasta mediados de noviembre</title>
-      <link>https://www.bloomberglinea.com/mercados/hartnett-de-bofa-advierte-que-la-aversion-al-riesgo-persistira-hasta-mediados-de-noviembre/</link>
-      <guid isPermaLink="false">28cad49ccaa9350977ca819f</guid>
-      <pubDate>Fri, 23 Oct 2026 23:31:38 +0000</pubDate>
-      <description>Michael Hartnett, estratega de Bank of America, prevé una tendencia a la baja en las acciones, los rendimientos y el dólar estadounidense, mientras persisten los temores por una burbuja de la IA y las ...</description>
-      <dc:creator>Levin Stamm</dc:creator>
-      <content:encoded>&lt;p&gt;Bloomberg — Es probable que la actitud de aversión al riesgo de los inversores se mantenga hasta bien entrado noviembre, según Michael Hartnett, de Bank of America Corp. ( BAC ), lo que constituye otra señal de cómo la agitación alredor del sector de la IA y a las elecciones estadounidenses de mitad de legislatura ha frenado los mercados bursátiles. “Nos mantenemos tácticamente reacios al riesgo hasta mediados de noviembre”, escribió el estratega en una nota dirigida a sus clientes este viernes. “Esperamos una tendencia a la baja en los rendimientos, en las acciones y en el dólar estadounidense”. Hartnett señaló que el mercado todavía tiene que descontar plenamente una victoria demócrata tanto en la Cámara de Representantes como en el Senado, lo que resultaría negativo para el crecimiento de las ganancias, ya que supondría el fin del actual régimen de bajos impuestos y escasa regulación. Según el estratega, otro factor que daría señales de una reactivación del apetito por el riesgo sería la intervención del BCE o del Gobierno francés para frenar la caída de los rendimientos de la deuda francesa. Ver más: Los países de América Latina más preparados para la inteligencia artificial, según ranking de Cepal Añadió que un repunte de los diferenciales de deuda de las grandes compañías de inteligencia artificial, que han generado inquietud en los mercados últimamente, también podría deberse a recortes en el gasto de capital o al “anuncio de una emisión accionarial extrema”. Los inversionistas siguen acudiendo en masa a los sectores relacionados con la IA. Los datos de EPFR Global citados por el banco mostraron las mayores entradas semanales en acciones tecnológicas desde julio. Una encuesta de Bank of America de este mes también reveló que los inversionistas globales están más expuestos al sector tecnológico desde agosto de 2020. Ver más: Ya no es solo el petróleo o la Fed: la IA ahora mueve al dólar y los bonos No obstante, en los últimos días también han adoptado una postura defensiva, buscando refugio frente a una serie de riesgos que van desde la subida de los precios del petróleo y el encarecimiento de los costes de financiación, hasta la preocupación de que el sector de la inteligencia artificial esté comenzando a mostrar signos de burbuja. El multimillonario Ken Griffin advirtió esta semana de que los inversionistas se encuentran “casi con toda seguridad” en medio de una burbuja de la IA. Una versión ponderada por igual del índice S&amp;amp;P 500, un indicador de la amplitud del mercado, registró este jueves su mejor jornada desde 2024 en comparación con el S&amp;amp;P 500 ponderado por capitalización bursátil. Por su parte, los valores defensivos de productos básicos de consumo van camino de registrar su mejor mes desde 1998. Lea más en bloomberg.com&lt;/p&gt;</content:encoded>
+      <title>OpenAI resumes training AI, blocks internet access over security risks</title>
+      <link>https://www.business-standard.com/technology/tech-news/openai-resumes-training-ai-blocks-internet-access-over-security-risks-126102400095_1.html</link>
+      <guid isPermaLink="false">9d722a50f9c1261da81aee47</guid>
+      <pubDate>Sat, 24 Oct 2026 03:26:18 +0000</pubDate>
+      <description>The company said it would keep its most advanced models offline during training until safeguards are adequate, following incidents in which AI systems accessed the web and breached external systems ...</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;By Rachel Metz OpenAI has begun cutting off internet access for its most capable artificial intelligence models during the training process in response to prior incidents in which its systems breached other companies. The company said in a blog post Friday that, after a pause last month, it had resumed training its most advanced models but intends to block internet access until it feels it has adequate safeguards in place to mitigate the risk of unreleased models being able to take unapproved actions online during training.  “Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no internet access,” the company wrote. In late September, the company said it would pause training its most advanced AI models after it discovered that one of its AI agent systems that was being trained in what was supposed to be a secured, internet-free environment was able to gain access to the web to reach an external, third-party chatbot. At the time, OpenAI described the breakout as the first security incident of its kind since a combination of models gained internet access during internal testing and inadvertently breached the system of the AI platform Hugging Face in July.  The models involved in the inadvertent Hugging Face breach were operating without the usual safety guardrails, the company has said, because OpenAI had intended them to remain in a testing area known as a “sandbox” — essentially, an isolated virtual software environment that’s meant to run security tests or analyse unsafe code in a controlled way. The models were able to break out of that sandbox, however, by leveraging a software vulnerability to access the open internet. OpenAI said that after the Hugging Face incident, it reduced the connections through which its models might be able to reach the internet during training and testing but kept some for the purpose of metrics, logging and authentication. It also spent a vast amount of computing power on tasking agentic AI systems with identifying vulnerabilities in its training environments as part of a red-teaming effort, a phrase typically used to describe deliberate attempts to break into systems to uncover vulnerabilities before real attackers can. “Our red-teaming agents found vulnerabilities in almost every one of these services that gave them limited forms of internet access,” the firm said in its post. The company said it has since deployed software patches, imposed tighter network restrictions and disclosed the findings to vendors. There have been a series of disclosures in recent months from OpenAI and rivals including Anthropic PBC about incidents in which their models carried out self-directed attacks or unsanctioned actions on third-party websites and systems.  These cases, and a series of stark warnings from within the industry, have vaulted the safety debate into the mainstream. AI developers have warned that their systems could soon become too sophisticated for people to control, adding to concerns the technology could be used by malicious human actors to create bioweapons or carry out devastating cyberattacks.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.business-standard.com/technology/tech-news/openai-resumes-training-ai-blocks-internet-access-over-security-risks-126102400095_1.html</wire:canonicalUrl>
+      <wire:evidence>structured credit: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>UK vows 100 mn euros for biosecurity lab with OpenAI, Anthropic, and Google</title>
+      <link>https://www.business-standard.com/technology/tech-news/uk-vows-100-mn-euros-for-biosecurity-lab-with-openai-anthropic-and-google-126102400093_1.html</link>
+      <guid isPermaLink="false">58d0997f043d3c81c27fba90</guid>
+      <pubDate>Sat, 24 Oct 2026 03:23:04 +0000</pubDate>
+      <description>The lab will use AI to detect and monitor biological threats, with OpenAI and Anthropic providing up to 200 million euros in AI model credits ...</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;By Jacob Reid The UK announced 100 million euro ($134 million) for a AI Biosecurity Lab which will be supported by OpenAI, Anthropic and Google DeepMind, part of a raft of measures designed to improve the government’s ability to understand and tackle the risks posed by the technology.  The lab will use AI to detect and monitor biological threats, with the funding coming alongside up to 200 million euro in AI model credits from OpenAI and Anthropic, according to a government statement. The lab will also work in partnership with Google DeepMind and life sciences company Basecamp Research, while the government announced a separate 65 million euro for developing countermeasures for pathogens.  “As AI becomes more powerful, Britain must have the capabilities to protect its people and shape its own future,” said Kanishka Narayan, Britain’s AI minister. “That means staying ahead of emerging threats, from cyber attacks to biological risks, while building more of the critical technology our security depends on.” The lab “will be a major new global institution, bringing together world-leading scientific expertise to protect people from emerging biological threats and ensure Britain leads the world in AI safety and security,” Narayan added. Its creation makes the government’s AI strategy increasingly clear: forming institutions outside of existing government departments to research, monitor and harness different aspects of the technology. The announcement also included 120 million euro in extra funding for the AI Security Institute, which is the best-funded government agency focused on regularly evaluating cutting-edge AI models, and 23 million euro more for the AI Economics Institute, which is being set up to analyse the economic impacts of the technology.‘Honest Broker’The strategy is a key part of the country’s attempt to remain relevant in the AI space despite lagging behind the US and China on cutting edge AI models. It’s trying to act as an “honest broker” for monitoring and regulating, and taking a distinct role from the European Union, which has strongly regulated the tech.  “AI is changing both the biological risks we face and the nature of biological discovery, and we applaud the UK government’s foresight in opening the AI Biosecurity Lab,” said Matt Clifford, who leads International Affairs at Anthropic, and was the Prime Minister’s AI advisor until last June.  “Bringing together frontier AI, the UK’s scientific strength, and government expertise to detect threats earlier and speed up the development of medical treatments will contribute to the safe deployment of AI across industry and society,” he added. The government also announced 130 million euro to use AI to identify cyber vulnerabilities in critical infrastructure and the economy and improve the country’s cyber defenses. That comes after governments and companies around the world rushed to patch two critical flaws in widely used technology on Thursday, which AI helped to find.  There will also be a 120 million euro boost to the Sovereign AI Fund to broaden its remit to include physical and industrial AI such as robotics, autonomous systems and advanced manufacturing, and expand its procurement program for British start-ups.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.business-standard.com/technology/tech-news/uk-vows-100-mn-euros-for-biosecurity-lab-with-openai-anthropic-and-google-126102400093_1.html</wire:canonicalUrl>
+      <wire:evidence>structured credit: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Some Canadian Tariffs Exempted, Trump Ordered Alaska Lawsuit</title>
+      <link>https://www.bloomberg.com/news/audio/2026-10-24/some-canadian-tariffs-exempted-trump-ordered-alaska-lawsuit</link>
+      <guid isPermaLink="false">69f529ecd017ad2a230d7568</guid>
+      <pubDate>Sat, 24 Oct 2026 02:47:21 +0000</pubDate>
+      <description>Source: Bloomberg, 5:53</description>
+      <dc:creator>ED KALEGI</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_business</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-10-24/some-canadian-tariffs-exempted-trump-ordered-alaska-lawsuit</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Iran Plots, Houthi Attacks Spur US Departure Orders in Mideast</title>
+      <link>https://www.bloomberg.com/news/articles/2026-10-24/iran-plots-houthi-attacks-spurred-us-depature-orders-in-mideast</link>
+      <guid isPermaLink="false">52854cd91e9b3294c221e9b3</guid>
+      <pubDate>Sat, 24 Oct 2026 02:43:17 +0000</pubDate>
+      <description>The US has ordered the departure of diplomatic personnel and adjusted staffing at embassies across the Middle East as a result of Iranian efforts to target Americans, as well as threats from Houthi militants in Yemen, according to an American official.</description>
+      <dc:creator>Iain Marlow</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_markets</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-10-24/iran-plots-houthi-attacks-spurred-us-depature-orders-in-mideast</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>SpaceX afronta dificultades en las negociaciones por su deuda de US$40.000 millones para IA</title>
+      <link>https://www.bloomberglinea.com/mercados/spacex-afronta-dificultades-en-las-negociaciones-por-su-deuda-de-us40000-millones-para-ia/</link>
+      <guid isPermaLink="false">a7a6e087b5c1656d80ab0c8b</guid>
+      <pubDate>Sat, 24 Oct 2026 02:30:00 +0000</pubDate>
+      <description>La volatilidad en los mercados de crédito ha complicado las negociaciones sobre el precio de la operación, diseñada para financiar la compra de chips de Nvidia sin registrar la deuda en los libros con ...</description>
+      <dc:creator>Carmen Arroyo, Laura Benitez</dc:creator>
+      <content:encoded>&lt;p&gt;Bloomberg — Los esfuerzos de SpaceX ( SPCX ) por ultimar una estructura de deuda fuera de balance por valor de US$40.000 millones destinada a la expansión de su división de inteligencia artificial se han visto afectados por las recientes turbulencias del mercado, que han elevado los costes de financiación en todo el sector y han complicado las negociaciones sobre los precios. La operación que se está debatiendo está diseñada para financiar la compra de chips de Nvidia Corp. ( NVDA ) a través de una entidad con fines específicos, lo que mantendrá los pasivos fuera de los libros contables de SpaceX y salvaguardará sus calificaciones de grado de inversión, según fuentes familiarizadas con el asunto. Los banqueros, liderados por Goldman Sachs Group Inc. ( GS ), están debatiendo la estructura con inversores encabezados por Apollo Global Management Inc. ( APO ), y está previsto que Atlas SP —respaldada por Apollo— se encargue de gestionar la entidad, según indicaron dichas fuentes, que solicitaron mantener el anonimato al tratar información privada. Pacific Investment Management Co. también está valorando la posibilidad de invertir, según las mismas fuentes. Ver más: SpaceX negocia acceso a 80.000 estaciones base en EE.UU. para su nueva red móvil Aunque las negociaciones sobre el precio siguen en curso, encontrar niveles en los que ambas partes puedan ponerse de acuerdo se ha complicado debido a la inquietud que se ha extendido por los mercados de crédito en los últimos días, según indicaron las fuentes. Los inversores en deuda están cada vez más preocupados por la enorme carga de deuda que se está acumulando para financiar inversiones en IA, lo que está provocando una ola de ventas de acciones del sector de la IA, ampliando los diferenciales de los bonos corporativos y haciendo que los indicadores de riesgo crediticio se disparen. Las negociaciones de las últimas semanas habían situado una parte subordinada de la deuda en un rango de rendimiento en torno al 8%, aunque la reciente volatilidad ha obligado a los inversores a volver a empezar desde cero, según indicaron dichas fuentes. Los representantes de SpaceX y Atlas no respondieron a las solicitudes de comentarios, mientras que los de Goldman, Apollo y Pimco se negaron a hacer declaraciones. Ver más: Fusión de Tesla y SpaceX podría aumentar la fortuna de Elon Musk en US$110.000 millones Con la estructura más reciente, SpaceX podría evitar que se repita el intento de financiación del año pasado por parte de xAI, la startup de IA de Elon Musk. En esa operación, una entidad buscó obtener hasta US$20.000 millones en deuda fuera de balance mediante un acuerdo de venta con arrendamiento posterior (sale-leaseback) con Valor Equity Partners, un aliado de larga data de Musk. Sin embargo, SpaceX tuvo que contabilizar finalmente unos US$13.000 millones de esa deuda como propia después de que los auditores la declararan un “acuerdo de venta con arrendamiento posterior fallido”, según el informe de resultados de SpaceX publicado esta semana. En el marco de la operación propuesta, los banqueros que asesoran a SpaceX están buscando la estructura de una entidad con fines específicos (SPV), dado que la deuda de la empresa se encuentra a solo unos pocos niveles de calificación por debajo de la categoría de “basura” y sus bonos actuales cotizan a niveles de grado especulativo. Goldman también podría asumir parte de la deuda, según estas fuentes. Se espera que el paquete de deuda se emita en tres tramos de los denominados bonos 144a, una estructura de colocación privada que se ha vuelto habitual en la captación de fondos para unidades de procesamiento general, o chips. Ver más: Acción de SpaceX se dispara en bolsa: la IA supera a Starlink y Wall Street cree que puede subir 50% Un tramo subordinado oscilará entre US$25.000 y US$30.000 millones, y los otros dos tramos serán de US$10.000 millones y hasta US$5.000 millones, según indicaron las fuentes. Las conversaciones iniciales habían situado la deuda en diferenciales que oscilaban entre 230 puntos básicos por encima de los índices de referencia para algunos de los préstamos y más de 300 puntos básicos, según indicaron. Esta última operación se produce tras unos sólidos resultados del tercer trimestre, en el que la unidad de IA de SpaceX obtuvo ganancias por primera vez. La empresa está impulsando cada vez más sus ingresos mediante la venta de potencia de cálculo de sus centros de datos de Memphis a laboratorios de IA externos y a hiperescaladores. El aumento de la elevada carga de deuda de SpaceX podría ejercer presión sobre sus calificaciones crediticias, justo cuando se intensifican las necesidades de capital para centros de datos y chips. Durante la conferencia sobre resultados de SpaceX celebrada el martes, el director financiero, Bret Johnsen, indicó que la captación de deuda continuará, citando conversaciones con varias fuentes de capital de deuda disponibles. Ver más: Fusión de Tesla y SpaceX: 5 preguntas para entender el gigante de US$3,6 billones que estudia Elon Musk “Estamos plenamente convencidos de que podremos llevar esto a cabo de forma muy mesurada y seguir manteniendo nuestra calificación de grado de inversión (IG) a lo largo del proceso”, afirmó. Para Apollo, esta operación se suma a una serie de importantes financiaciones en el ámbito de la inteligencia artificial. Se espera que la estructura adopte un enfoque similar al de una operación de gran envergadura que Apollo lideró a principios de este año y que permitió a Anthropic PBC adquirir chips de Broadcom Inc. ( AVGO ). En aquella operación, la gestora de activos utilizó su unidad Atlas para recaudar capital y mantener la deuda fuera del balance de Broadcom, sin dejar de contar con una garantía de esta empresa de primer orden. Apollo afirmó que se trataba de su operación más compleja hasta la fecha. Lea más en Bloomberg.com&lt;/p&gt;</content:encoded>
       <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>bloomberg_linea_discovery</wire:foundAt>
       <wire:platform>Bloomberg Línea</wire:platform>
@@ -23,8 +95,182 @@
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.bloomberglinea.com/mercados/hartnett-de-bofa-advierte-que-la-aversion-al-riesgo-persistira-hasta-mediados-de-noviembre/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bloomberglinea.com/mercados/spacex-afronta-dificultades-en-las-negociaciones-por-su-deuda-de-us40000-millones-para-ia/</wire:canonicalUrl>
       <wire:evidence>retained wire byline/source: Bloomberg —</wire:evidence>
+    </item>
+    <item>
+      <title>Malaysia May Widen Ban on Israel-Based Waze Traffic App, PM Says</title>
+      <link>https://www.bloomberg.com/news/articles/2026-10-24/malaysia-may-widen-ban-on-israel-based-waze-traffic-app-pm-says</link>
+      <guid isPermaLink="false">0769462501197ece90345a17</guid>
+      <pubDate>Sat, 24 Oct 2026 02:08:35 +0000</pubDate>
+      <description>Prime Minister Anwar Ibrahim said Malaysia’s security cannot be compromised as he held fast on the government’s partial ban of Google’s navigation app Waze and said authorities aren’t ruling out even wider restrictions.</description>
+      <dc:creator>Anuradha Raghu</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_technology</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-10-24/malaysia-may-widen-ban-on-israel-based-waze-traffic-app-pm-says</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Trump Ordered Alaska Lawsuit,Some Canadian Tariffs Exempted,More</title>
+      <link>https://www.bloomberg.com/news/audio/2026-10-24/trump-ordered-alaska-lawsuit-some-canadian-tariffs-exempted-more-mvlraey0</link>
+      <guid isPermaLink="false">ae69f82ae9e6cfb464c1e9bc</guid>
+      <pubDate>Sat, 24 Oct 2026 02:04:46 +0000</pubDate>
+      <description>Source: Bloomberg, 6:10</description>
+      <dc:creator>ED KALEGI</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_business</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-10-24/trump-ordered-alaska-lawsuit-some-canadian-tariffs-exempted-more-mvlraey0</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Australian Lawmaker Who Lost Legs After Alleged Attack is Stable</title>
+      <link>https://www.bloomberg.com/news/articles/2026-10-24/australian-lawmaker-who-lost-legs-after-alleged-attack-is-stable</link>
+      <guid isPermaLink="false">cd7ffefa2180bcd4156c6cab</guid>
+      <pubDate>Sat, 24 Oct 2026 01:57:30 +0000</pubDate>
+      <description>An Australian lawmaker whose legs were amputated after she was struck by a car in an alleged attack outside her office in rural Victoria is in stable condition, according to hospital authorities.</description>
+      <dc:creator>David Stringer</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_politics</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-10-24/australian-lawmaker-who-lost-legs-after-alleged-attack-is-stable</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Trump Ordered Alaska Lawsuit, Exemption on Some Canadian Tariffs</title>
+      <link>https://www.bloomberg.com/news/audio/2026-10-24/trump-ordered-alaska-lawsuit-exemption-on-some-canadian-tariffs</link>
+      <guid isPermaLink="false">ff5255501e0c4a1861904b8d</guid>
+      <pubDate>Sat, 24 Oct 2026 01:03:32 +0000</pubDate>
+      <description>Source: Bloomberg, 5:55</description>
+      <dc:creator>ED KALEGI</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_business</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-10-24/trump-ordered-alaska-lawsuit-exemption-on-some-canadian-tariffs</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Singapore Feels the Cooling of Asia’s 2026 IPO Party</title>
+      <link>https://www.bloomberg.com/news/newsletters/2026-10-24/singapore-feels-the-cooling-of-asia-s-2026-ipo-party</link>
+      <guid isPermaLink="false">dd263a48a195fbb87589b1b1</guid>
+      <pubDate>Sat, 24 Oct 2026 01:00:03 +0000</pubDate>
+      <description>Plus, another rocky week for Indonesian markets.</description>
+      <dc:creator>Julia Fioretti, Elffie Chew, Anand Krishnamoorthy and Bernadette Toh</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_business</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/newsletters/2026-10-24/singapore-feels-the-cooling-of-asia-s-2026-ipo-party</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>OpenAI bloquea el acceso a internet de sus modelos de IA más avanzados durante el entrenamiento</title>
+      <link>https://www.bloomberglinea.com/tecnologia/openai-bloquea-el-acceso-a-internet-de-sus-modelos-de-ia-mas-avanzados-durante-el-entrenamiento/</link>
+      <guid isPermaLink="false">5e0dd174e37f77d624db288d</guid>
+      <pubDate>Sat, 24 Oct 2026 00:57:00 +0000</pubDate>
+      <description>La decisión llega tras incidentes en los que modelos de IA de OpenAI lograron conectarse a la web y vulnerar la seguridad de sistemas de terceros, incluida la plataforma Hugging Face.</description>
+      <dc:creator>Rachel Metz</dc:creator>
+      <content:encoded>&lt;p&gt;Bloomberg — OpenAI comenzó a bloquear el acceso a Internet de sus modelos de inteligencia artificial más avanzados durante el proceso de entrenamiento, como respuesta a incidentes anteriores en los que sus sistemas vulneraron la seguridad de otras empresas. La empresa afirmó el viernes en una entrada de blog que, tras una pausa el mes pasado, había reanudado el entrenamiento de sus modelos más avanzados, pero que tiene la intención de bloquear el acceso a Internet hasta que considere que dispone de las medidas de seguridad adecuadas para mitigar el riesgo de que los modelos aún no publicados puedan llevar a cabo acciones no autorizadas en línea durante el entrenamiento. “Teniendo en cuenta el estado actual de la investigación sobre alineación, los sistemas de supervisión y la seguridad de la infraestructura de Internet, creemos que el enfoque responsable consiste en llevar a cabo el entrenamiento de modelos de vanguardia sin acceso a Internet”, escribió la empresa. Ver más: OpenAI apuntaría a una valoración de US$1,25 billones en nueva ronda de US$30.000 millones A finales de septiembre, la empresa anunció que suspendería el entrenamiento de sus modelos de IA más avanzados tras descubrir que uno de sus sistemas de agentes de IA, que se estaba entrenando en lo que se suponía que era un entorno seguro y sin conexión a Internet, había logrado acceder a la web para conectarse con un chatbot externo de terceros. En aquel momento, OpenAI describió esta fuga como el primer incidente de seguridad de este tipo desde que, en julio, una combinación de modelos obtuviera acceso a Internet durante unas pruebas internas y violara inadvertidamente la seguridad de la plataforma de IA Hugging Face. Los modelos implicados en la filtración involuntaria de Hugging Face funcionaban sin las medidas de seguridad habituales, según ha declarado la empresa, ya que OpenAI tenía la intención de que permanecieran en un área de pruebas conocida como sandbox —esencialmente, un entorno de software virtual aislado destinado a realizar pruebas de seguridad o analizar código inseguro de forma controlada—. Sin embargo, los modelos lograron escapar de ese sandbox aprovechando una vulnerabilidad del software para acceder a Internet. Ver más: OpenAI se compromete a no usar secretos comerciales de Apple durante una audiencia clave OpenAI ha señalado que, tras el incidente de Hugging Face, redujo las conexiones a través de las cuales sus modelos podían acceder a Internet durante el entrenamiento y las pruebas, aunque mantuvo algunas con fines de métricas, registro y autenticación. Asimismo, dedicó una enorme cantidad de potencia de cálculo a encargar a sistemas de IA agentiva la identificación de vulnerabilidades en sus entornos de entrenamiento, como parte de una iniciativa de “red teaming”, una expresión que suele utilizarse para describir los intentos deliberados de infiltrarse en sistemas con el fin de descubrir vulnerabilidades antes de que lo hagan los atacantes reales. “Nuestros agentes del “red team” detectaron vulnerabilidades en casi todos estos servicios que les proporcionaban formas limitadas de acceso a Internet&amp;quot;, señaló la empresa en su publicación. Ver más: OpenAI se disculpa por hackeo en Australia y promete informar más rápido sobre estos casos La empresa señaló que, desde entonces, ha implementado parches de software, ha impuesto restricciones de red más estrictas y ha comunicado los hallazgos a los proveedores. En los últimos meses se han producido una serie de revelaciones por parte de OpenAI y de sus competidores, entre ellos Anthropic PBC, sobre incidentes en los que sus modelos llevaron a cabo ataques autónomos o acciones no autorizadas en sitios web y sistemas de terceros. Estos casos, junto con una serie de severas advertencias procedentes del propio sector, han situado el debate sobre la seguridad en el centro de la atención pública. Los desarrolladores de IA han advertido de que sus sistemas podrían llegar pronto a ser demasiado sofisticados para que las personas puedan controlarlos, lo que se suma a la preocupación de que la tecnología pueda ser utilizada por actores humanos malintencionados para crear armas biológicas o llevar a cabo ciberataques devastadores. Lea más en Bloomberg.com&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_linea_discovery</wire:foundAt>
+      <wire:platform>Bloomberg Línea</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bloomberglinea.com/tecnologia/openai-bloquea-el-acceso-a-internet-de-sus-modelos-de-ia-mas-avanzados-durante-el-entrenamiento/</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: Bloomberg —</wire:evidence>
+    </item>
+    <item>
+      <title>Los disturbios disparan las ventas de armas de autodefensa en las ciudades más afectadas de Francia</title>
+      <link>https://www.bloomberglinea.com/mundo/los-disturbios-disparan-las-ventas-de-armas-de-autodefensa-en-las-ciudades-mas-afectadas-de-francia/</link>
+      <guid isPermaLink="false">68ac8ef9d190c0b8533a9d5d</guid>
+      <pubDate>Sat, 24 Oct 2026 00:39:34 +0000</pubDate>
+      <description>Los comerciantes franceses refuerzan la seguridad de sus negocios ante una nueva jornada de disturbios. Las ventas de armas de autodefensa se han multiplicado por diez en las ciudades más afectadas.</description>
+      <dc:creator>Angelina Rascouet</dc:creator>
+      <content:encoded>&lt;p&gt;Bloomberg — A última hora de la mañana del viernes, Sam salió de una tienda de caza en el centro de París, tras haber gastado EUR$600 (US$671) en armas destinadas a la autodefensa. El tendero, que se negó a dar su apellido por motivos de seguridad, es propietario de una joyería de bisutería en Les Halles, un extenso distrito comercial. Su negocio se libró de los alborotadores que saquearon las tiendas cercanas el pasado fin de semana, pero quiere estar preparado por si se producen nuevos episodios de violencia. Ver más: Francia desplegará militares para contener nuevas protestas este fin de semana Entre sus compras figuraban una porra, así como una pistola de plástico que dispara pequeños cartuchos de una sustancia similar al gas lacrimógeno. A diferencia de lo que ocurre en gran parte de Estados Unidos, la compra de armas de fuego en Francia está estrictamente restringida. Sam también ha contratado a guardias de seguridad privados con perros y está tapiando sus escaparates. A pesar de sus preocupaciones, tiene previsto abrir el negocio. “Nunca pensé que se llegaría a esto”, afirmó. “Estoy tomando estas medidas, pero no me siento tranquilo”. Las protestas del pasado sábado en toda Francia degeneraron en actos de vandalismo y violencia, cuando grupos itinerantes de alborotadores atacaron cientos de tiendas, rompiendo escaparates y llevándose la mercancía. Desde entonces, los disturbios se han calmado, pero dado que los manifestantes han convocado otra jornada de disturbios para este sábado, los residentes, las autoridades y los comerciantes están en vilo. Sam compró su equipo en l’Armurerie de la Bourse, cuyo propietario, Yves Gollety, preside la organización que representa a los vendedores de armas en toda Francia —un cargo que le proporciona una perspectiva nacional—. Ver más: Macron acusa a líderes extranjeros de aprovecharse de los disturbios en Francia Su tienda está registrando unos niveles de actividad extraordinarios, según afirmó, y no es la única. Gollety, que suele atender a cazadores y tiradores deportivos, calcula que las ventas de armas para la autodefensa se han multiplicado por diez en las ciudades que han sufrido los mayores disturbios, como París, Marsella, Lyon y Burdeos. “La gente quedó traumatizada por lo ocurrido el pasado fin de semana, cuando en ocasiones se vieron solos, a veces durante dos o tres horas o incluso todo el día, enfrentándose a los alborotadores”, explicó Gollety. “Los comerciantes, los propietarios de restaurantes y los particulares se asustaron y buscan defenderse. No pretenden tomarse la justicia por su mano”. Si bien las ventas tradicionales de rifles de caza se han desplomado, la demanda de sprays de pimienta, botes similares al gas lacrimógeno, pistolas que disparan balas de goma y otros equipos no letales se ha disparado. El aumento de las ventas no tiene “precedentes”, señaló Gollety, y es más pronunciado que en episodios anteriores de disturbios y agitación social. La tienda de Gollety estuvo abierta el sábado pasado, pero no sufrió daños, a pesar de que otros comercios de la zona fueron atacados y saqueados. Tiene previsto abrir mañana, aunque solo sea para proteger su tienda. Ver más: Violencia en Francia eleva las alertas en Europa ante nuevas protestas y elecciones La Prefectura de Policía instó a los propietarios de negocios a contratar a más agentes de seguridad privada antes del sábado, lo que provocó la ira de muchos, entre ellos Eric Larcheveque, cofundador de Ledger, fabricante de carteras de hardware para criptomonedas. Este escribió en X que, si el Estado ya no puede proteger a la población, los franceses deberían dejar de pagar impuestos. -Con la colaboración de Julius Domoney. Lea más en Bloomberg.com&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_linea_discovery</wire:foundAt>
+      <wire:platform>Bloomberg Línea</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bloomberglinea.com/mundo/los-disturbios-disparan-las-ventas-de-armas-de-autodefensa-en-las-ciudades-mas-afectadas-de-francia/</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: Bloomberg —</wire:evidence>
+    </item>
+    <item>
+      <title>Bloomberg Business of Sports: Morgan Shaw Parker (Podcast)</title>
+      <link>https://www.bloomberg.com/news/audio/2026-10-24/bloomberg-business-of-sports-morgan-shaw-parker-podcast</link>
+      <guid isPermaLink="false">b91c0144af8154c12642d0e4</guid>
+      <pubDate>Sat, 24 Oct 2026 00:32:37 +0000</pubDate>
+      <description>Source: Bloomberg, 0:00</description>
+      <dc:creator>DANIEL KARP</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_business</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-10-24/bloomberg-business-of-sports-morgan-shaw-parker-podcast</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Growth, Value Stocks Set for Reshuffle as S&amp;P Adopts New Rules</title>
+      <link>https://www.bloomberg.com/news/articles/2026-10-24/growth-value-stocks-set-for-reshuffle-as-s-p-adopts-new-rules</link>
+      <guid isPermaLink="false">f2dc70fcdd9b326a4e8e7f16</guid>
+      <pubDate>Sat, 24 Oct 2026 00:12:59 +0000</pubDate>
+      <description>Growth and value shares are set for an overhaul after S&amp;P Dow Jones Indices adopted new rules on how to sort equities into the two investment styles.</description>
+      <dc:creator>Lu Wang</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_markets</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-10-24/growth-value-stocks-set-for-reshuffle-as-s-p-adopts-new-rules</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Ocean-Themed Aoi Deconstructs Japanese Fine Dining in Hong Kong</title>
+      <link>https://www.bloomberg.com/news/articles/2026-10-24/ocean-themed-aoi-deconstructs-japanese-fine-dining-in-hong-kong</link>
+      <guid isPermaLink="false">ce16d6f92ca6b944b55322c3</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:04 +0000</pubDate>
+      <description>New restaurant lures island dwellers to cross Victoria Harbour.</description>
+      <dc:creator>Minmin Low</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_business</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-10-24/ocean-themed-aoi-deconstructs-japanese-fine-dining-in-hong-kong</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
       <title>Bloomberg Businessweek Daily: Farmgirl Flowers Founder (Podcast)</title>
@@ -109,23 +355,6 @@
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/videos/2026-10-23/balance-of-power-late-edition-10-23-2026-video</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Trump Ordered Alaska Lawsuit, Exemption on Some Canadian Tariffs</title>
-      <link>https://www.bloomberg.com/news/audio/2026-10-23/trump-ordered-alaska-lawsuit-exemption-on-some-canadian-tariffs</link>
-      <guid isPermaLink="false">3af319a5dd619dabe10d3726</guid>
-      <pubDate>Fri, 23 Oct 2026 23:03:29 +0000</pubDate>
-      <description>Source: Bloomberg, 5:54</description>
-      <dc:creator>ED KALEGI</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_business</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-10-23/trump-ordered-alaska-lawsuit-exemption-on-some-canadian-tariffs</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
@@ -274,23 +503,6 @@
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/videos/2026-10-23/andrew-brandt-on-mlb-salary-cap-as-world-series-begins-video</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Trump Ordered Alaska Lawsuit,Some Canadian Tariffs Exempted,More</title>
-      <link>https://www.bloomberg.com/news/audio/2026-10-23/trump-ordered-alaska-lawsuit-some-canadian-tariffs-exempted-more</link>
-      <guid isPermaLink="false">ae2f0dd66f1e82521e45c7bc</guid>
-      <pubDate>Fri, 23 Oct 2026 22:05:27 +0000</pubDate>
-      <description>Source: Bloomberg, 5:19</description>
-      <dc:creator>ED KALEGI</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_business</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-10-23/trump-ordered-alaska-lawsuit-some-canadian-tariffs-exempted-more</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
@@ -658,26 +870,6 @@
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
-      <title>フランス、ムーディーズの格下げ回避－見通しはネガティブ</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3035426</link>
-      <guid isPermaLink="false">f0962c9300362c3c0e31d753</guid>
-      <pubDate>Fri, 23 Oct 2026 21:15:04 +0000</pubDate>
-      <description>（ブルームバーグ）：フランスは、格付け会社ムーディーズ・レーティングスによる格下げを免れた。国債利回りの急上昇や政治の行き詰まり、街頭での抗議活動に揺れる同国にとって、ひとまず安堵（あんど）の材料と… フランス 24日の大規模デモに備え 店舗で暴徒対策 ...</description>
-      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;1時間前
-【Meta“ナンバー2”が語る「Muse」日本上陸】GPT・Claudeに挑む「パーソナル超知能」の勝算／ザッカーバーグ氏と二人三脚／“29歳”最高AI責任者アレクサンダー・ワン【1on1 Tech】&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3035426</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
       <title>Everybody's Business: Let Them Eat Steak (Podcast)</title>
       <link>https://www.bloomberg.com/news/audio/2026-10-23/everybody-s-business-let-them-eat-steak-podcast</link>
       <guid isPermaLink="false">6da3242adeaf5db2a5ac4b3d</guid>
@@ -741,40 +933,6 @@
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/videos/2026-10-23/opinion-the-urgent-need-for-whistleblowers-video</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Trump Ordered Alaska Lawsuit, Exempted Some Canadian Tariffs</title>
-      <link>https://www.bloomberg.com/news/audio/2026-10-23/trump-ordered-alaska-lawsuit-exempted-some-canadian-tariffs</link>
-      <guid isPermaLink="false">d58c166f0cf111aca16c1ea8</guid>
-      <pubDate>Fri, 23 Oct 2026 21:00:26 +0000</pubDate>
-      <description>Source: Bloomberg, 0:00</description>
-      <dc:creator>AMY MORRIS</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_business</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-10-23/trump-ordered-alaska-lawsuit-exempted-some-canadian-tariffs</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Bloomberg Wall Street Week: October 23rd, 2026 (Podcast)</title>
-      <link>https://www.bloomberg.com/news/audio/2026-10-23/bloomberg-wall-street-week-october-23rd-2026-podcast</link>
-      <guid isPermaLink="false">0f36d5eed591627d64009c07</guid>
-      <pubDate>Fri, 23 Oct 2026 20:59:06 +0000</pubDate>
-      <description>Source: Bloomberg, 0:00</description>
-      <dc:creator>JUSTIN MILLINER</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_business</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-10-23/bloomberg-wall-street-week-october-23rd-2026-podcast</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
@@ -896,23 +1054,6 @@
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
-      <title>Masters in Business: Robin Wigglesworth (Podcast)</title>
-      <link>https://www.bloomberg.com/news/audio/2026-10-23/masters-in-business-robin-wigglesworth-podcast</link>
-      <guid isPermaLink="false">ad51a007fef2cd141d14e63c</guid>
-      <pubDate>Fri, 23 Oct 2026 20:32:53 +0000</pubDate>
-      <description>Source: Bloomberg, 0:00</description>
-      <dc:creator>JUSTIN MILLINER</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_business</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-10-23/masters-in-business-robin-wigglesworth-podcast</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
       <title>AI Trade Stumbles Again as Investors Rediscover Treasury Haven</title>
       <link>https://www.bloomberg.com/news/articles/2026-10-23/ai-trade-stumbles-again-as-investors-rediscover-treasury-haven</link>
       <guid isPermaLink="false">c3e44476e77f213e8e1606b3</guid>
@@ -979,58 +1120,23 @@
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
-      <title>Stocks Close Lower, Oil Jumps, Trump Sues Alaska over Election</title>
-      <link>https://www.bloomberg.com/news/audio/2026-10-23/stocks-close-lower-oil-jumps-trump-sues-alaska-over-election</link>
-      <guid isPermaLink="false">30b52ec4f3219bdaa82af4d4</guid>
-      <pubDate>Fri, 23 Oct 2026 20:10:14 +0000</pubDate>
-      <description>Source: Bloomberg, 0:00</description>
-      <dc:creator>AMY MORRIS</dc:creator>
+      <title>Tech Rout Eases With Oil Strength Capping Relief: Markets Wrap</title>
+      <link>https://www.swissinfo.ch/eng/tech-rout-eases-with-oil-strength-capping-relief%3a-markets-wrap/92260391</link>
+      <guid isPermaLink="false">fd5048137f1a993b9020b511</guid>
+      <pubDate>Fri, 23 Oct 2026 20:05:55 +0000</pubDate>
+      <description>A rout in the artificial intelligence trade faded, offering global stock investors some respite in the final session of a volatile week, with further gains in oil prices keeping sentiment cautious.</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;How Trump’s magnet fixation puts Swiss high-tech industry in tough spot&lt;/p&gt;&lt;p&gt;Read more: How Trump’s magnet fixation puts Swiss high-tech industry in tough spot&lt;/p&gt;</content:encoded>
       <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_business</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-10-23/stocks-close-lower-oil-jumps-trump-sues-alaska-over-election</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Bloomberg Money: October 23rd, 2026 (Podcast)</title>
-      <link>https://www.bloomberg.com/news/audio/2026-10-23/bloomberg-money-october-23rd-2026-podcast</link>
-      <guid isPermaLink="false">3811b26ea8338ff5e26b8632</guid>
-      <pubDate>Fri, 23 Oct 2026 20:07:37 +0000</pubDate>
-      <description>Source: Bloomberg, 0:00</description>
-      <dc:creator>JUSTIN MILLINER</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_business</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-10-23/bloomberg-money-october-23rd-2026-podcast</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>カナダのボンバルディア、米に2.7億ドル投資－トランプ氏と雪解けか</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3035414</link>
-      <guid isPermaLink="false">fb8761d03c32bf157346a35a</guid>
-      <pubDate>Fri, 23 Oct 2026 20:05:24 +0000</pubDate>
-      <description>（ブルームバーグ）：カナダのプライベートジェットメーカー、ボンバルディアは、トランプ米大統領が同社への強硬姿勢を和らげるなか、米国で800人を採用すると発表した。同社は23日、800人のうち500人について、… 高リスク銀行債の需要に陰り、新発物利回り上昇－投資家の姿勢に変化 ...</description>
-      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;1時間前
-【Meta“ナンバー2”が語る「Muse」日本上陸】GPT・Claudeに挑む「パーソナル超知能」の勝算／ザッカーバーグ氏と二人三脚／“29歳”最高AI責任者アレクサンダー・ワン【1on1 Tech】&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:foundAt>swissinfo_discovery</wire:foundAt>
+      <wire:platform>SWI swissinfo.ch</wire:platform>
       <wire:relation>repost</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
+      <wire:confidence>0.99</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3035414</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+      <wire:canonicalUrl>https://www.swissinfo.ch/eng/tech-rout-eases-with-oil-strength-capping-relief%3a-markets-wrap/92260391</wire:canonicalUrl>
+      <wire:evidence>structured credit: Bloomberg</wire:evidence>
     </item>
     <item>
       <title>Big Take: Benjamin Netanyahu’s Referendum Has Finally Arrived</title>
@@ -1047,23 +1153,6 @@
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/videos/2026-10-23/big-take-benjamin-netanyahu-s-referendum-has-finally-arrived</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Oncologists Cheer Melanoma Data</title>
-      <link>https://www.bloomberg.com/news/videos/2026-10-23/oncologists-cheer-melanoma-data-video</link>
-      <guid isPermaLink="false">6a8db32ebf77953d0839eeaf</guid>
-      <pubDate>Fri, 23 Oct 2026 19:58:07 +0000</pubDate>
-      <description>Leaked data from Moderna and Merck's highly anticipated melanoma vaccine trial has led to a rare disconnect between doctors, who celebrated the result, and Wall Street, which sold off the stocks.
-Normally results of such pivotal drug studies are binary, with doctors, patients and investors all learning whether a novel medicine will make a meaningful difference in people’s lives and forming the same conclusion. Instead, as reports leaked out on social media about the findings of the melanoma shot — days before the carefully scripted presentation planned for thousands of oncologists gathered in Madrid for the European Society for Medical Oncology meeting — realities diverged.  Madison Muller, Bloomberg News Healthcare Reporter, reports. (Source: Bloomberg)</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_markets</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/videos/2026-10-23/oncologists-cheer-melanoma-data-video</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
@@ -1113,60 +1202,6 @@ Normally results of such pivotal drug studies are binary, with doctors, patients
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-10-23/openai-to-train-ai-models-without-internet-after-cyber-incidents</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>マジック・ジョンソン氏の関連会社、捜査渦中のウォルター氏側に融資</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3035437</link>
-      <guid isPermaLink="false">df8ae452edc5317cda966189</guid>
-      <pubDate>Fri, 23 Oct 2026 19:32:31 +0000</pubDate>
-      <description>（ブルームバーグ）：億万長者マーク・ウォルター氏が率いる保険会社は2月、連邦刑事捜査で召喚状を受け取った後、同氏への融資を突然停止した。ところが数週間後、ウォルター氏がビジネス面で指導してきたバスケ… ...</description>
-      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;1時間前
-【Meta“ナンバー2”が語る「Muse」日本上陸】GPT・Claudeに挑む「パーソナル超知能」の勝算／ザッカーバーグ氏と二人三脚／“29歳”最高AI責任者アレクサンダー・ワン【1on1 Tech】&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3035437</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
-      <title>Bloomberg Tech: OpenAI En Route To $1.25T Value (Podcast)</title>
-      <link>https://www.bloomberg.com/news/audio/2026-10-23/bloomberg-tech-openai-en-route-to-1-25t-value-podcast</link>
-      <guid isPermaLink="false">f2e631de3664987aa05936c6</guid>
-      <pubDate>Fri, 23 Oct 2026 19:32:12 +0000</pubDate>
-      <description>Source: Bloomberg, 0:00</description>
-      <dc:creator>JUSTIN MILLINER</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_business</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-10-23/bloomberg-tech-openai-en-route-to-1-25t-value-podcast</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Stock Movers: Bloom Energy, GM, Palo Alto (Podcast)</title>
-      <link>https://www.bloomberg.com/news/audio/2026-10-23/stock-movers-bloom-energy-gm-palo-alto-podcast</link>
-      <guid isPermaLink="false">c17a431ac56fcf7e05da5da3</guid>
-      <pubDate>Fri, 23 Oct 2026 19:26:14 +0000</pubDate>
-      <description>Source: Bloomberg, 0:00</description>
-      <dc:creator>JUSTIN MILLINER</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_business</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/audio/2026-10-23/stock-movers-bloom-energy-gm-palo-alto-podcast</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
@@ -1301,22 +1336,6 @@ Normally results of such pivotal drug studies are binary, with doctors, patients
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
-      <title>OpenAI Moves Toward a $1.25 Trillion Value</title>
-      <link>https://www.bloomberg.com/news/videos/2026-10-23/bloomberg-tech-10-23-2026-video</link>
-      <guid isPermaLink="false">27e220ca1286dde2de77e428</guid>
-      <pubDate>Fri, 23 Oct 2026 17:56:21 +0000</pubDate>
-      <description>Bloomberg’s Ed Ludlow takes a look at OpenAI's potential fundraising at a staggering $1.25 trillion valuation. Plus, Anthropic's looming IPO could deliver blockbuster gains for some of its biggest investors, with billions of dollars on the line. And, SpaceX is taking another step toward becoming a major US wireless carrier, eyeing access to at least 80,000 cell sites nationwide. (Source: Bloomberg)</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_technology</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/videos/2026-10-23/bloomberg-tech-10-23-2026-video</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
       <title>NWSL, Union Reach Agreement to Expand Rodman Rule to All Players</title>
       <link>https://www.bloomberg.com/news/articles/2026-10-23/nwsl-union-reach-agreement-to-expand-rodman-rule-to-all-players</link>
       <guid isPermaLink="false">bb2a29cf9700621c14d73bbf</guid>
@@ -1348,23 +1367,6 @@ Normally results of such pivotal drug studies are binary, with doctors, patients
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-10-23/macron-pledges-to-overhaul-university-admissions-afp-says</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Magyar Praises Hungary-EU Ties on Day of Anti-Soviet Uprising</title>
-      <link>https://www.bloomberg.com/news/articles/2026-10-23/magyar-praises-hungary-eu-ties-on-day-of-anti-soviet-uprising</link>
-      <guid isPermaLink="false">6eb3cf4244faee744106513a</guid>
-      <pubDate>Fri, 23 Oct 2026 17:08:04 +0000</pubDate>
-      <description>Prime Minister Peter Magyar used a commemoration of Hungary’s 1956 anti-Soviet uprising to reaffirm his country’s place in Europe, following years of pro-Moscow policies under his predecessor Viktor Orban.</description>
-      <dc:creator>Thomas Escritt</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_politics</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-10-23/magyar-praises-hungary-eu-ties-on-day-of-anti-soviet-uprising</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
@@ -1436,22 +1438,6 @@ Normally results of such pivotal drug studies are binary, with doctors, patients
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
-      <title>米総合PMI、伸び鈍化も引き続き堅調－販売価格は約4年ぶり高水準</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3035353</link>
-      <guid isPermaLink="false">c968b52d3ad8977a8a631412</guid>
-      <pubDate>Fri, 23 Oct 2026 16:24:00 +0000</pubDate>
-      <description>（ブルームバーグ）：米国の企業活動は10月、前月に比べて拡大ペースがやや鈍化したものの、数年ぶりの高水準付近を維持した。堅調な需要を背景に、新規受注や雇用、価格がいずれも上昇した。S&amp;Pグローバルが発表… アメックス、従業員数約3500人削減へ－組織効率化目指す ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3035353</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
       <title>Ebola Vaccine Trial Begins in Congo With Three Shots in Sight</title>
       <link>https://www.bloomberg.com/news/articles/2026-10-23/ebola-vaccine-trial-begins-in-congo-with-three-shots-in-sight</link>
       <guid isPermaLink="false">c99023665aa98d4a4d2e43d1</guid>
@@ -1484,38 +1470,6 @@ Normally results of such pivotal drug studies are binary, with doctors, patients
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-10-23/milei-loses-top-energy-official-in-potential-dent-to-argentina-shale-boom</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>アメックス、従業員数約3500人削減へ－組織効率化目指す</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3035355</link>
-      <guid isPermaLink="false">a934f775c88c43ab6b013340</guid>
-      <pubDate>Fri, 23 Oct 2026 16:16:00 +0000</pubDate>
-      <description>（ブルームバーグ）：クレジットカード大手の米アメリカン・エキスプレス（アメックス）は23日、世界の従業員の5%に当たる約3500人を削減すると明らかにした。コストが増加する中、スティーブ・スクエリ最高経営責… ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3035355</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
-      <title>米国株が下落、金利は小幅上昇－原油が再び上昇しインフレ懸念強まる</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3035357</link>
-      <guid isPermaLink="false">e2c4d4e73037f02dbd761df2</guid>
-      <pubDate>Fri, 23 Oct 2026 16:08:00 +0000</pubDate>
-      <description>（ブルームバーグ）：23日の米金融市場では株式と国債が下落。原油価格が再び上昇し、インフレへの懸念が強まった。中東で戦闘が再び激化し、世界の供給が脅かされるとの懸念から、北海ブレント原油は1バレル＝115… ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3035357</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
       <title>Food Allergy Biotech Firm Lycia Jumps 67% After Upsized IPO</title>
@@ -1566,38 +1520,6 @@ Normally results of such pivotal drug studies are binary, with doctors, patients
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/videos/2026-10-23/the-circuit-season-6-trailer-video</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>ブレント原油115ドル突破、5カ月ぶり高値－中東の供給リスク強まる</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3035373</link>
-      <guid isPermaLink="false">44ca2876889adcf7ffde181c</guid>
-      <pubDate>Fri, 23 Oct 2026 15:52:00 +0000</pubDate>
-      <description>（ブルームバーグ）：23日の北海ブレント原油は、5月以来の高値圏で推移している。サウジアラビアへの攻撃が激化し、イランとの戦争も解決のめどが立っていない。北海ブレント12月限は1バレル＝115ドルを上回った… 米総合PMI、伸び鈍化も引き続き堅調－販売価格は約4年ぶり高水準 ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3035373</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
-      <title>ウクライナとロシア、メラニア夫人の仲介で局地的停戦に合意－米政府</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3035356</link>
-      <guid isPermaLink="false">361a26a65fdcab092c9fe673</guid>
-      <pubDate>Fri, 23 Oct 2026 15:45:00 +0000</pubDate>
-      <description>（ブルームバーグ）：トランプ米大統領の妻メラニア夫人は、ウクライナ南部ヘルソン州のオレシキ市でのロシアとウクライナの局地的な停戦を仲介した。ホワイトハウスが声明で明らかにした。声明によると、停戦は10… 米総合PMI、伸び鈍化も引き続き堅調－販売価格は約4年ぶり高水準 ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3035356</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
       <title>NYSE Options Exchange Trading Halted by ‘Technical Issue’</title>
@@ -1666,6 +1588,22 @@ Normally results of such pivotal drug studies are binary, with doctors, patients
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-10-23/oncologists-cheer-melanoma-data-that-tanked-moderna-s-shares</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>中国で欧米製自動車の市場、急速になくなりつつある－ボルボ･カーCEO</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3035328</link>
+      <guid isPermaLink="false">ac8dcb1d3a1b2e806a1bfc89</guid>
+      <pubDate>Fri, 23 Oct 2026 14:09:00 +0000</pubDate>
+      <description>（ブルームバーグ）：23日の欧州株式市場でスウェーデンの自動車メーカー、ボルボ・カーの株価がおよそ30%下落し、過去最安値を更新した。同社の最高経営責任者（CEO）が「中国における欧米製自動車の市場は急速に… ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3035328</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
       <title>US Consumer Sentiment Slips to Five-Month Low on Inflation</title>
@@ -1751,6 +1689,22 @@ Normally results of such pivotal drug studies are binary, with doctors, patients
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-10-23/ai-driven-job-losses-and-inequality-a-guide-to-proposals-for-helping-workers</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>投資家のリスク回避、11月中旬まで続く見通し－ BofAハートネット氏</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3035329</link>
+      <guid isPermaLink="false">a0fd47b47f711ee47df701d3</guid>
+      <pubDate>Fri, 23 Oct 2026 13:06:00 +0000</pubDate>
+      <description>（ブルームバーグ）：バンク・オブ・アメリカ（BofA）のマイケル・ハートネット氏によると、投資家のリスク回避姿勢は11月に入ってもしばらく続く可能性が高い。AI関連投資や米中間選挙を巡る不安が、株式相場の重… ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3035329</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
       <title>A French Accident Waiting to Happen</title>
@@ -1889,22 +1843,6 @@ Normally results of such pivotal drug studies are binary, with doctors, patients
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
-      <title>ECBの利上げは12月の見込み、10月は据え置きへ－エコノミスト調査</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3035381</link>
-      <guid isPermaLink="false">18aa6e8c83375b7a0711d0de</guid>
-      <pubDate>Fri, 23 Oct 2026 11:47:00 +0000</pubDate>
-      <description>（ブルームバーグ）：欧州中央銀行（ECB）は28ー29日の会合で政策金利を据え置き、12月に最後の利上げを実施すると、エコノミストが予想していることがブルームバーグの調査で分かった。今後さらに多くの利上げを… 自衛官の基本給“引き上げ”へ衆院・安全保障委員会で審議入り 新たな転勤手当制度も ...</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3035381</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
       <title>AI Efficiencies Can Stifle Corporate Innovation</title>
       <link>https://www.bloomberg.com/opinion/articles/2026-10-23/ai-efficiencies-can-stifle-corporate-innovation</link>
       <guid isPermaLink="false">aa136ddc05f8ea2032c0a15a</guid>
@@ -1956,6 +1894,22 @@ Normally results of such pivotal drug studies are binary, with doctors, patients
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
+      <title>米シティ、中国完全子会社で証券事業開始へ－5年越しで認可取得</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3035413</link>
+      <guid isPermaLink="false">c49b6c95e1bccb411f4fe787</guid>
+      <pubDate>Fri, 23 Oct 2026 11:12:00 +0000</pubDate>
+      <description>（ブルームバーグ）：米シティグループは、中国の完全子会社で証券事業を始める認可を取得した。米中双方が課す規制上の制約で約5年続いていた手続きに終止符を打つ。シティが確認し、中国証券監督管理委員会（証… ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3035413</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
       <title>Bolsonaro Trade Faces Reckoning in Too-Close-to-Call Brazil Vote</title>
       <link>https://www.bloomberg.com/news/articles/2026-10-23/bolsonaro-trade-faces-reckoning-in-too-close-to-call-brazil-vote</link>
       <guid isPermaLink="false">aa1925c6e49dcaaa440ac75e</guid>
@@ -1990,6 +1944,22 @@ Normally results of such pivotal drug studies are binary, with doctors, patients
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
+      <title>AIバブル警戒するウォール街、米国債に資金逃避－信用リスクも上昇</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3035467</link>
+      <guid isPermaLink="false">e6c6b5536b668de2a60a1358</guid>
+      <pubDate>Fri, 23 Oct 2026 10:55:00 +0000</pubDate>
+      <description>（ブルームバーグ）：米投資会社ブラックストーンのジョン・グレイ社長によると、AIにバブルはない。ベッセント米財務長官も、AIブームに「システミックな問題」は見当たらないとしている。だが、ウォール街の幹部… ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3035467</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
       <title>Bank of Russia Sees Key Rate High for Longer on Refinery Strikes</title>
       <link>https://www.bloomberg.com/news/articles/2026-10-23/russia-holds-key-rate-as-ukrainian-strikes-spur-inflation</link>
       <guid isPermaLink="false">c24477fb1b0d28c1f96feeba</guid>
@@ -2021,6 +1991,23 @@ Normally results of such pivotal drug studies are binary, with doctors, patients
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/opinion/articles/2026-10-23/a-grad-school-loan-should-reflect-your-wage-prospects</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Eurogroup Extends ECB Board-Application Deadline by a Month</title>
+      <link>https://www.bloomberg.com/news/articles/2026-10-23/eurogroup-extends-deadline-for-ecb-board-applications-by-a-month</link>
+      <guid isPermaLink="false">68991993720d677b3bd58e3c</guid>
+      <pubDate>Fri, 23 Oct 2026 10:22:53 +0000</pubDate>
+      <description>The deadline for applications to replace European Central Bank Executive Board member Isabel Schnabel was extended by a month to allow countries more time to propose candidates.</description>
+      <dc:creator>Jorge Valero, Mark Schroers and Alexander Weber</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_economics</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-10-23/eurogroup-extends-deadline-for-ecb-board-applications-by-a-month</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
@@ -2126,14 +2113,14 @@ Normally results of such pivotal drug studies are binary, with doctors, patients
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
-      <title>米シティ、中国完全子会社で証券事業開始へ－5年越しで認可取得</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3035413</link>
-      <guid isPermaLink="false">c49b6c95e1bccb411f4fe787</guid>
-      <pubDate>Fri, 23 Oct 2026 09:12:04 +0000</pubDate>
-      <description>（ブルームバーグ）：米シティグループは、中国の完全子会社で証券事業を始める認可を取得した。米中双方が課す規制上の制約で約5年続いていた手続きに終止符を打つ。シティが確認し、中国証券監督管理委員会（証… ...</description>
+      <title>フランス、週末のデモ対策で軍展開へ－現場配置の警察官も2割増員</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3035196</link>
+      <guid isPermaLink="false">90777e934da99a0092ce6fd8</guid>
+      <pubDate>Fri, 23 Oct 2026 09:15:00 +0000</pubDate>
+      <description>（ブルームバーグ）：24日に再び予定される抗議活動にフランス当局は備え、警察を支援する形で軍を展開する。先週末に起きたような暴動を防ぎ、暴力に動揺した市場を安心させる狙いがある。フランス内務省は先週土… ...</description>
       <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
       <content:encoded>&lt;p&gt;1時間前
-【Meta“ナンバー2”が語る「Muse」日本上陸】GPT・Claudeに挑む「パーソナル超知能」の勝算／ザッカーバーグ氏と二人三脚／“29歳”最高AI責任者アレクサンダー・ワン【1on1 Tech】&lt;/p&gt;</content:encoded>
+労働分配率は本当に下がっているのか？ 2つの統計が描く「ねじれた現実」&lt;/p&gt;</content:encoded>
       <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
@@ -2142,7 +2129,7 @@ Normally results of such pivotal drug studies are binary, with doctors, patients
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3035413</wire:canonicalUrl>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3035196</wire:canonicalUrl>
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
@@ -2248,6 +2235,22 @@ Normally results of such pivotal drug studies are binary, with doctors, patients
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
+      <title>カナダのボンバルディア、米に2.7億ドル投資－トランプ氏と雪解けか</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3035414</link>
+      <guid isPermaLink="false">fb8761d03c32bf157346a35a</guid>
+      <pubDate>Fri, 23 Oct 2026 08:04:00 +0000</pubDate>
+      <description>（ブルームバーグ）：カナダのプライベートジェットメーカー、ボンバルディアは、トランプ米大統領が同社への強硬姿勢を和らげるなか、米国で800人を採用すると発表した。同社は23日、800人のうち500人について、… 高リスク銀行債の需要に陰り、新発物利回り上昇－投資家の姿勢に変化 ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3035414</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
+    </item>
+    <item>
       <title>Euro-Zone Business Activity Slowed as France Unrest Weighs</title>
       <link>https://www.bloomberg.com/news/articles/2026-10-23/euro-zone-business-activity-slowed-as-france-unrest-weighs</link>
       <guid isPermaLink="false">be7c357e038060122c41e7e1</guid>
@@ -2262,23 +2265,6 @@ Normally results of such pivotal drug studies are binary, with doctors, patients
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-10-23/euro-zone-business-activity-slowed-as-france-unrest-weighs</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>ECB Says Consumers’ Inflation Expectations Edge Up in September</title>
-      <link>https://www.bloomberg.com/news/articles/2026-10-23/ecb-says-consumers-inflation-expectations-edge-up-in-september</link>
-      <guid isPermaLink="false">c77051e72f5fbff1b39a32d2</guid>
-      <pubDate>Fri, 23 Oct 2026 08:00:00 +0000</pubDate>
-      <description>Inflation expectations among euro-area households increased slightly in September, supporting expectations that the European Central Bank will keep raising borrowing costs.</description>
-      <dc:creator>Alexander Weber</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_economics</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-10-23/ecb-says-consumers-inflation-expectations-edge-up-in-september</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
@@ -2299,11 +2285,11 @@ Normally results of such pivotal drug studies are binary, with doctors, patients
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
-      <title>高リスク銀行債の需要に陰り、新発物利回り上昇－投資家の姿勢に変化</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3035388</link>
-      <guid isPermaLink="false">e65704a2b006635df212f02b</guid>
-      <pubDate>Fri, 23 Oct 2026 05:29:00 +0000</pubDate>
-      <description>（ブルームバーグ）：米国や欧州の銀行が販売するリスクの高い証券への投資家たちは、新規の発行案件に対して従来よりも高い上乗せ利回りを要求し始めた。バンク・オブ・ニューヨーク・メロン（BNYメロン）が今週… ...</description>
+      <title>マジック・ジョンソン氏の関連会社、捜査渦中のウォルター氏側に融資</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3035437</link>
+      <guid isPermaLink="false">df8ae452edc5317cda966189</guid>
+      <pubDate>Fri, 23 Oct 2026 07:32:00 +0000</pubDate>
+      <description>（ブルームバーグ）：億万長者マーク・ウォルター氏が率いる保険会社は2月、連邦刑事捜査で召喚状を受け取った後、同氏への融資を突然停止した。ところが数週間後、ウォルター氏がビジネス面で指導してきたバスケ… ...</description>
       <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
@@ -2311,7 +2297,7 @@ Normally results of such pivotal drug studies are binary, with doctors, patients
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.94</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3035388</wire:canonicalUrl>
+      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3035437</wire:canonicalUrl>
       <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
     </item>
     <item>
@@ -2451,23 +2437,6 @@ Normally results of such pivotal drug studies are binary, with doctors, patients
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
-      <title>Stocks Fall as Oil Rally Keeps a Lid on Treasuries: Markets Wrap</title>
-      <link>https://www.bloomberg.com/news/articles/2026-10-22/stock-market-today-dow-s-p-live-updates</link>
-      <guid isPermaLink="false">d4b0656a8ff0282c6ecce63a</guid>
-      <pubDate>Thu, 22 Oct 2026 22:05:06 +0000</pubDate>
-      <description>A resurgence in oil prices dragged down stocks and bonds, stoking concerns about inflation just days ahead of the Federal Reserve decision on interest rates.</description>
-      <dc:creator>Rita Nazareth</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_markets</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-10-22/stock-market-today-dow-s-p-live-updates</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
       <title>US Proposes Curbs on Investment in Chinese Biotech Firms</title>
       <link>https://www.bloomberg.com/news/articles/2026-10-22/us-proposes-curbs-on-investment-in-chinese-biotech-firms</link>
       <guid isPermaLink="false">2baa268dc392abd94530ae17</guid>
@@ -2499,23 +2468,6 @@ Normally results of such pivotal drug studies are binary, with doctors, patients
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-10-22/western-digital-gives-solid-outlook-hikes-dividend-on-ai-demand</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>AI Agents Are a Bigger Threat to Bank Deposits Than Stablecoins</title>
-      <link>https://www.bloomberg.com/opinion/articles/2026-10-22/ai-agents-are-a-bigger-threat-to-bank-deposits-than-stablecoins</link>
-      <guid isPermaLink="false">7330a016020e8655b99467af</guid>
-      <pubDate>Thu, 22 Oct 2026 18:01:12 +0000</pubDate>
-      <description>Banks found it relatively easy to fend off the crypto bros. Artificial intelligence agents may prove a lot harder to tame.</description>
-      <dc:creator>Andy Mukherjee</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_opinion</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/opinion/articles/2026-10-22/ai-agents-are-a-bigger-threat-to-bank-deposits-than-stablecoins</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>

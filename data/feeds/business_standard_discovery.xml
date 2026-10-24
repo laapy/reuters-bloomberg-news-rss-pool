@@ -5,171 +5,111 @@
     <link>https://www.bing.com/news/search?q=site%3Abusiness-standard.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Fri, 23 Oct 2026 23:57:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 03:46:46 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>OpenAI resumes training AI, blocks internet access over security risks</title>
+      <link>https://www.business-standard.com/technology/tech-news/openai-resumes-training-ai-blocks-internet-access-over-security-risks-126102400095_1.html</link>
+      <guid isPermaLink="false">9d722a50f9c1261da81aee47</guid>
+      <pubDate>Sat, 24 Oct 2026 03:26:18 +0000</pubDate>
+      <description>The company said it would keep its most advanced models offline during training until safeguards are adequate, following incidents in which AI systems accessed the web and breached external systems ...</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;By Rachel Metz OpenAI has begun cutting off internet access for its most capable artificial intelligence models during the training process in response to prior incidents in which its systems breached other companies. The company said in a blog post Friday that, after a pause last month, it had resumed training its most advanced models but intends to block internet access until it feels it has adequate safeguards in place to mitigate the risk of unreleased models being able to take unapproved actions online during training.  “Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no internet access,” the company wrote. In late September, the company said it would pause training its most advanced AI models after it discovered that one of its AI agent systems that was being trained in what was supposed to be a secured, internet-free environment was able to gain access to the web to reach an external, third-party chatbot. At the time, OpenAI described the breakout as the first security incident of its kind since a combination of models gained internet access during internal testing and inadvertently breached the system of the AI platform Hugging Face in July.  The models involved in the inadvertent Hugging Face breach were operating without the usual safety guardrails, the company has said, because OpenAI had intended them to remain in a testing area known as a “sandbox” — essentially, an isolated virtual software environment that’s meant to run security tests or analyse unsafe code in a controlled way. The models were able to break out of that sandbox, however, by leveraging a software vulnerability to access the open internet. OpenAI said that after the Hugging Face incident, it reduced the connections through which its models might be able to reach the internet during training and testing but kept some for the purpose of metrics, logging and authentication. It also spent a vast amount of computing power on tasking agentic AI systems with identifying vulnerabilities in its training environments as part of a red-teaming effort, a phrase typically used to describe deliberate attempts to break into systems to uncover vulnerabilities before real attackers can. “Our red-teaming agents found vulnerabilities in almost every one of these services that gave them limited forms of internet access,” the firm said in its post. The company said it has since deployed software patches, imposed tighter network restrictions and disclosed the findings to vendors. There have been a series of disclosures in recent months from OpenAI and rivals including Anthropic PBC about incidents in which their models carried out self-directed attacks or unsanctioned actions on third-party websites and systems.  These cases, and a series of stark warnings from within the industry, have vaulted the safety debate into the mainstream. AI developers have warned that their systems could soon become too sophisticated for people to control, adding to concerns the technology could be used by malicious human actors to create bioweapons or carry out devastating cyberattacks.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.business-standard.com/technology/tech-news/openai-resumes-training-ai-blocks-internet-access-over-security-risks-126102400095_1.html</wire:canonicalUrl>
+      <wire:evidence>structured credit: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>UK vows 100 mn euros for biosecurity lab with OpenAI, Anthropic, and Google</title>
+      <link>https://www.business-standard.com/technology/tech-news/uk-vows-100-mn-euros-for-biosecurity-lab-with-openai-anthropic-and-google-126102400093_1.html</link>
+      <guid isPermaLink="false">58d0997f043d3c81c27fba90</guid>
+      <pubDate>Sat, 24 Oct 2026 03:23:04 +0000</pubDate>
+      <description>The lab will use AI to detect and monitor biological threats, with OpenAI and Anthropic providing up to 200 million euros in AI model credits ...</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;By Jacob Reid The UK announced 100 million euro ($134 million) for a AI Biosecurity Lab which will be supported by OpenAI, Anthropic and Google DeepMind, part of a raft of measures designed to improve the government’s ability to understand and tackle the risks posed by the technology.  The lab will use AI to detect and monitor biological threats, with the funding coming alongside up to 200 million euro in AI model credits from OpenAI and Anthropic, according to a government statement. The lab will also work in partnership with Google DeepMind and life sciences company Basecamp Research, while the government announced a separate 65 million euro for developing countermeasures for pathogens.  “As AI becomes more powerful, Britain must have the capabilities to protect its people and shape its own future,” said Kanishka Narayan, Britain’s AI minister. “That means staying ahead of emerging threats, from cyber attacks to biological risks, while building more of the critical technology our security depends on.” The lab “will be a major new global institution, bringing together world-leading scientific expertise to protect people from emerging biological threats and ensure Britain leads the world in AI safety and security,” Narayan added. Its creation makes the government’s AI strategy increasingly clear: forming institutions outside of existing government departments to research, monitor and harness different aspects of the technology. The announcement also included 120 million euro in extra funding for the AI Security Institute, which is the best-funded government agency focused on regularly evaluating cutting-edge AI models, and 23 million euro more for the AI Economics Institute, which is being set up to analyse the economic impacts of the technology.‘Honest Broker’The strategy is a key part of the country’s attempt to remain relevant in the AI space despite lagging behind the US and China on cutting edge AI models. It’s trying to act as an “honest broker” for monitoring and regulating, and taking a distinct role from the European Union, which has strongly regulated the tech.  “AI is changing both the biological risks we face and the nature of biological discovery, and we applaud the UK government’s foresight in opening the AI Biosecurity Lab,” said Matt Clifford, who leads International Affairs at Anthropic, and was the Prime Minister’s AI advisor until last June.  “Bringing together frontier AI, the UK’s scientific strength, and government expertise to detect threats earlier and speed up the development of medical treatments will contribute to the safe deployment of AI across industry and society,” he added. The government also announced 130 million euro to use AI to identify cyber vulnerabilities in critical infrastructure and the economy and improve the country’s cyber defenses. That comes after governments and companies around the world rushed to patch two critical flaws in widely used technology on Thursday, which AI helped to find.  There will also be a 120 million euro boost to the Sovereign AI Fund to broaden its remit to include physical and industrial AI such as robotics, autonomous systems and advanced manufacturing, and expand its procurement program for British start-ups.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.business-standard.com/technology/tech-news/uk-vows-100-mn-euros-for-biosecurity-lab-with-openai-anthropic-and-google-126102400093_1.html</wire:canonicalUrl>
+      <wire:evidence>structured credit: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Whistleblower tipoffs on insider trading up sharply as Sebi gets 25 in FY26</title>
+      <link>https://www.business-standard.com/markets/news/whistleblower-tipoffs-on-insider-trading-up-sharply-as-sebi-gets-25-in-fy26-126102301683_1.html</link>
+      <guid isPermaLink="false">868fa878ba9489d87748da60</guid>
+      <pubDate>Fri, 23 Oct 2026 17:35:49 +0000</pubDate>
+      <description>Whistleblower reports rise as market expands, but experts call for greater transparency, stronger safeguards and wider coverage of violations ...</description>
+      <dc:creator>Sachin P Mampatta</dc:creator>
+      <content:encoded>&lt;p&gt;Home / Markets / News / Whistleblower tipoffs on insider trading up sharply as Sebi gets 25 in FY26&lt;/p&gt;&lt;p&gt;Whistleblower tipoffs on insider trading up sharply as Sebi gets 25 in FY26 Whistleblower reports rise as market expands, but experts call for greater transparency, stronger safeguards and wider coverage of violations
+premium&lt;/p&gt;&lt;p&gt;Sebi received 25 insider-trading tipoffs in FY26, compared with just five over the previous six financial years. (Photo: Reuters)&lt;/p&gt;&lt;p&gt;Sachin P Mampatta Mumbai 4 min read Last Updated : Oct 23 2026 | 11:05 PM IST&lt;/p&gt;&lt;p&gt;Listen to This Article&lt;/p&gt;&lt;p&gt;A regulatory mechanism to provide tipoffs on violations in insider trading in return for monetary rewards as high as ~10 crore may finally be showing signs of taking off.&lt;/p&gt;&lt;p&gt;The Securities and Exchange Board of India (Sebi)   in December 2019 had established the Office of Informant Protection (OIP) to process tipoffs on insider trading. However, the response was that informants provided just five tipoffs in the first six years of the programme — from 2019-20 (FY20) to FY25.&lt;/p&gt;&lt;p&gt;But FY26 was different. The number of tipoffs in a single financial year increased to 25, shows the latest Annual Report, released on August 6. Fourteen of these have been concluded (including one from the previous year) while 12 were still under examination, according to the report.&lt;/p&gt;&lt;p&gt;This may point to the beginning of a rising role of whistleblowers in aiding stock-market policing amid the rapid expansion in capital markets in recent years.&lt;/p&gt;&lt;p&gt;The stock exchanges have added over 180 million investors and hundreds of companies since FY19, the last year before the establishment of the whistleblower mechanism.&lt;/p&gt;&lt;p&gt;The regulator added more than 300 employees since FY19 and invested in advanced technology to keep up with increased demands.&lt;/p&gt;&lt;p&gt;“This could possibly be a sign of increasing confidence in the reporting mechanism by potential whistleblowers with substantive information in hand to report,” noted Rohitashwa Prasad, partner at law firm Dentons Link Legal. More can be done to encourage people to come forward, he said.&lt;/p&gt;&lt;p&gt;According to Prasad, mature markets such as the United States (US) have limited legal delays and avoid a cap on rewards, besides providing more protection against employer retaliation.&lt;/p&gt;&lt;p&gt;The US Securities Exchange Commission (US SEC) announced a $279 million reward (or over ~2,000 crore, based on the prevailing exchange rate) for a tip in May 2023, shows SEC statement disclosures.&lt;/p&gt;&lt;p&gt;Whistleblowers whose employment is affected because of reporting violations to the regulator have stronger safeguards against retaliation, Prasad said.&lt;/p&gt;&lt;p&gt;“Under the Dodd Frank Act, an employee who has reported to the SEC can make a retaliation claim directly in a federal court,” he said. The SEC website tells whistleblowers facing retaliation that “you may be able to sue your employer in federal court and seek double back pay (with interest), reinstatement, reasonable attorneys’ fees, and reimbursement for certain costs in connection with the litigation”.&lt;/p&gt;&lt;p&gt;The Sebi regulation notes that informants facing retaliation from employers can approach competent courts or tribunals for relief. It also adds that employers found to be in violation may be liable for regulatory action, but adds that “nothing in these regulations will require the Board to direct reinstatement or compensation by an employer”.&lt;/p&gt;&lt;p&gt;Sumit Agrawal, founder, Regstreet Law Advisors and former Sebi officer, noted that there was limited publicly available information on the outcomes of the OIP mechanism. It can be difficult to objectively evaluate the effectiveness of the initiative without granular information on the number of informants rewarded, the number of tipoffs that resulted in investigations or enforcement proceedings, and the eventual outcomes of such proceedings, Agrawal said.&lt;/p&gt;&lt;p&gt;A request under the Right to Information (RTI) Act that Business Standard filed separately also did not result in additional information.&lt;/p&gt;&lt;p&gt;The scope of violations covered by the informant mechanism can also be expanded, according to Agrawal.&lt;/p&gt;&lt;p&gt;“They should consider a mechanism covering all serious security-market violations. The mechanism could include front-running, fraudulent or manipulative conduct, material disclosure violations, falsifying accounts and serious intermediary misconduct. There is no clear policy reason for an incentivised informant mechanism to remain restricted to insider trading,” Agrawal said. An email sent to the regulator did not receive a reply.&lt;/p&gt;&lt;p&gt;Topics : SEBI Insider Trading market whistleblower Industry Report&lt;/p&gt;</content:encoded>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.business-standard.com/markets/news/whistleblower-tipoffs-on-insider-trading-up-sharply-as-sebi-gets-25-in-fy26-126102301683_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Flipkart deal helps Netflix log record quarterly subscriber gains in India</title>
+      <link>https://www.business-standard.com/companies/news/flipkart-deal-helps-netflix-log-record-quarterly-subscriber-gains-in-india-126102301220_1.html</link>
+      <guid isPermaLink="false">e1f09c847d63e345e3112dc2</guid>
+      <pubDate>Fri, 23 Oct 2026 12:44:51 +0000</pubDate>
+      <description>Netflix reported record quarterly paid subscriber additions in India and 18 per cent revenue growth in Q3 2026, aided by its transaction-based loyalty partnership with Flipkart ...</description>
+      <dc:creator>Peerzada Abrar</dc:creator>
+      <content:encoded>&lt;p&gt;Flipkart’s partnership with Netflix helped the streaming platform record its highest-ever quarterly paid subscriber additions in India in the July-September quarter, with the company also reporting 18 per cent year-on-year revenue growth in the country. Netflix disclosed the performance in its Q3 2026 shareholder letter, highlighting the results from its first transaction-based loyalty bundle with Flipkart. Announced on July 31, 2026, the partnership allows eligible Flipkart Plus members to earn a 30-day Netflix Mobile subscription every month by completing four qualifying orders of ₹299 or more each. The benefit is available on eligible purchases across Flipkart, Flipkart Grocery and Flipkart Minutes. The model links everyday shopping to entertainment access, allowing customers to unlock a streaming subscription through their transactions rather than paying separately for the qualifying month’s plan. The subscription benefit can be earned again each month by meeting the order requirement. “With our first transaction-based loyalty bundle with Flipkart, we achieved our largest quarter ever of paid net additions in India and grew Q3 revenue in India around 18 per cent year over year on a F/X neutral basis,” Netflix said in its shareholder letter. The partnership brings together Flipkart’s e-commerce, grocery and quick-commerce platforms with Netflix’s streaming service. This is creating a transaction-led route to customer acquisition for the entertainment platform while offering an additional benefit to shoppers. For Flipkart, the arrangement expands the utility of its loyalty programme by connecting shopping frequency with access to a global streaming service. The model also creates an incentive for eligible customers to consolidate more of their monthly purchases on its platforms. Netflix did not disclose the number of subscribers added through the partnership or quantify its contribution to the company’s overall subscriber additions and revenue growth. The India performance comes amid competition among streaming platforms to expand paid subscriptions through local content, pricing strategies and distribution partnerships.&lt;/p&gt;</content:encoded>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.business-standard.com/companies/news/flipkart-deal-helps-netflix-log-record-quarterly-subscriber-gains-in-india-126102301220_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
     <item>
       <title>Sebi mulls automatic approval for investments, activities by exchanges</title>
       <link>https://www.business-standard.com/markets/news/sebi-mulls-automatic-approval-for-investments-activities-by-exchanges-126102301079_1.html</link>
       <guid isPermaLink="false">a5587668a207460241fe4f24</guid>
       <pubDate>Fri, 23 Oct 2026 11:15:00 +0000</pubDate>
       <description>Sebi has proposed an automatic approval route for certain activities and investments by market infrastructure institutions, subject to financial limits and governance safeguards.</description>
-      <content:encoded>&lt;p&gt;Home / Markets / News / Sebi mulls automatic approval for investments, activities by exchanges&lt;/p&gt;&lt;p&gt;Sebi mulls automatic approval for investments, activities by exchanges Sebi has proposed an automatic approval route for certain activities and investments by market infrastructure institutions, subject to financial limits and governance safeguards.&lt;/p&gt;&lt;p&gt;Sebi has proposed allowing stock exchanges and depositories to undertake certain activities and investments without prior regulatory approval, subject to safeguards. (Photo: Reuters)&lt;/p&gt;&lt;p&gt;Press Trust of India 3 min read Last Updated : Oct 23 2026 | 11:45 PM IST&lt;/p&gt;&lt;p&gt;Listen to This Article&lt;/p&gt;&lt;p&gt;Markets regulator Sebi has proposed allowing stock and depositories to deploy funds and undertake activities related to their core functions without its prior approval, a move aimed at reducing regulatory burden and improving ease of doing business.
-  In its consultation paper, the Securities and Exchange Board of India (Sebi) has proposed an automatic approval route for activities related or incidental to the core functions of exchanges and depositories, subject to specified financial limits and governance safeguards.
-  The proposal covers market infrastructure institutions (MIIs), which currently require prior Sebi approval for activities involving fund deployment or otherwise, except for treasury investments made under a board-approved investment policy.&lt;/p&gt;&lt;p&gt;&amp;quot;The MIIs (excluding the recognized clearing corporations) may engage in activities whether involving deployment of funds or otherwise, without prior approval of Sebi (herein after referred to as the &amp;quot;automatic route&amp;quot;), in the following routes (A&amp;amp;B) and subject to the financial limits ... and the governance conditions,&amp;quot; Sebi said.
-  Under the proposed framework, the automatic Route A would cover activities undertaken pursuant to Sebi directions, certain transfers of shares within an MII group, and deployment of funds by an operating subsidiary exclusively from its own operational earnings.
-Also Read&lt;/p&gt;&lt;p&gt;Sebi orders Avadhut Sathe Trading Academy and its founder to refund ₹546 cr&lt;/p&gt;&lt;p&gt;Sebi eases call-recording mandate for research analysts dealing with funds&lt;/p&gt;&lt;p&gt;Whistleblower tipoffs on insider trading up sharply as Sebi gets 25 in FY26 premium&lt;/p&gt;&lt;p&gt;Sebi warns investors against fraudulent WhatsApp stock tip groups&lt;/p&gt;&lt;p&gt;Sebi allows margin relief on subsequent trades against early pay-in&lt;/p&gt;&lt;p&gt;The Route B would cover activities similar in function to those carried out by an MII through an entity regulated by another financial sector regulator in India, provided Sebi has previously approved such activity and its nature remains unchanged.&lt;/p&gt;&lt;p&gt;Also, Sebi has proposed capping aggregate fund deployment under the automatic route in a financial year at the lower of 5 per cent of the MII&amp;#x27;s net worth as of March 31 of the preceding financial year or the regulatory minimum net worth requirement.
-Further, the MII&amp;#x27;s net worth after the proposed deployment should not fall below 1.5 times the minimum net worth prescribed by the regulator.
-  The proposed framework also mandates governance safeguards, including prior approval of each new activity or fund deployment by the MII&amp;#x27;s governing board, measures to prevent conflicts of interest, and compliance with fit-and-proper criteria by investee companies, their directors and shareholders.&lt;/p&gt;&lt;p&gt;MIIs would also be required to put in place board-approved standard operating procedures and submit half-yearly reports to   Sebi detailing activities undertaken under the automatic route within 30 days of the end of each half-year.
-  The regulator said the existing framework imposes the same approval requirement on activities irrespective of their size, nature or risk, creating an additional compliance burden even for small investments that directly support market operations.
-  It also noted that separate approvals could lead to duplication of regulatory scrutiny in cases where activities are already directed by Sebi or involve entities regulated by other financial sector regulators.
-  The Securities and Exchange Board of India (Sebi) has sought public comments till November 12 on the proposals.&lt;/p&gt;&lt;p&gt;More From This Section&lt;/p&gt;&lt;p&gt;Input cost inflation, Lloyd&amp;#x27;s losses likely to weigh on Havells India premium&lt;/p&gt;&lt;p&gt;Jio Platforms IPO rides institutional demand to 22.19 times subscription&lt;/p&gt;&lt;p&gt;Tumultuous week: Midcaps and smallcaps suffer worst losses in 20 months&lt;/p&gt;&lt;p&gt;Stalled housing project, running EMIs: What are homebuyers&amp;#x27; legal options?&lt;/p&gt;&lt;p&gt;Higher advertising spends, rising competition to weigh on Colgate margins premium&lt;/p&gt;&lt;p&gt;Topics : SEBI Sebi norms stockbroker Capital markets
-Buzzing : Stock Market Live Stocks to Watch Muhurat Trading 2026 Gold Silver Price Today Q2 Results Today Bonfiglioli Transmissions shares Sahajanand Medical shares Stock Market Crash Swiggy Share Price&lt;/p&gt;&lt;p&gt;Don&amp;#x27;t miss the most important news and views of the day. Get them on our Telegram channel
-First Published: Oct 23 2026 | 11:45 PM IST&lt;/p&gt;</content:encoded>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.business-standard.com/markets/news/sebi-mulls-automatic-approval-for-investments-activities-by-exchanges-126102301079_1.html</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Sebi orders Avadhut Sathe Trading Academy and its founder to refund ₹546 cr</title>
-      <link>https://www.business-standard.com/markets/news/sebi-orders-avadhut-sathe-trading-academy-and-its-founder-to-refund-546-cr-126102301645_1.html</link>
-      <guid isPermaLink="false">94c307e6edb29c091cc3f644</guid>
-      <pubDate>Fri, 23 Oct 2026 11:06:00 +0000</pubDate>
-      <description>The regulator has also barred the academy and Sathe from accessing the securities market for two years or until compliance with the refund direction, whichever is later ...</description>
+      <title>'Political leadership' clear on theatre commands, says defence secretary</title>
+      <link>https://www.business-standard.com/external-affairs-defence-security/news/political-leadership-clear-on-theatre-commands-says-defence-secretary-126102301446_1.html</link>
+      <guid isPermaLink="false">c9fa0b9682f92c76349e417b</guid>
+      <pubDate>Fri, 23 Oct 2026 07:38:00 +0000</pubDate>
+      <description>In an era where warfare involves multiples domains such as space, cyber, land, sea and air, the integrated theatre commands are needed to safeguard India's interests, Rajesh Kumar Singh said ...</description>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/markets/news/sebi-orders-avadhut-sathe-trading-academy-and-its-founder-to-refund-546-cr-126102301645_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Sebi eases call-recording mandate for research analysts dealing with funds</title>
-      <link>https://www.business-standard.com/markets/news/sebi-eases-call-recording-mandate-for-research-analysts-dealing-with-funds-126102301112_1.html</link>
-      <guid isPermaLink="false">1c4dc1dbbd01f511b1db4c5c</guid>
-      <pubDate>Fri, 23 Oct 2026 10:57:00 +0000</pubDate>
-      <description>Market regulator Sebi on Friday eased the mandatory requirement for research analysts to maintain call recordings of their interactions with institutional investors to reduce compliance burden and ...</description>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/markets/news/sebi-eases-call-recording-mandate-for-research-analysts-dealing-with-funds-126102301112_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Infosys Q2 results: Net profit rises 6.2% to ₹7,823 cr, revenue up 10.7%</title>
-      <link>https://www.business-standard.com/companies/quarterly-results/infosys-q2-results-net-profit-rises-6-2-to-7-823-cr-revenue-up-10-2-126102300941_1.html</link>
-      <guid isPermaLink="false">6b26eba1c38965fafeeb0c00</guid>
-      <pubDate>Fri, 23 Oct 2026 10:51:32 +0000</pubDate>
-      <description>Net profit rises 6.2% to ₹7,823 cr, revenue up 10.2% ...</description>
-      <dc:creator>Avik Das</dc:creator>
-      <content:encoded>&lt;p&gt;Information technology services firm Infosys, the country’s second-largest, has reduced its revenue forecast for 2026-27 because growth in its largest market, the United States (US), is expected to weaken and deflationary pressure from artificial intelligence (AI) is anticipated to increase.  On Friday, the company said it expected revenues to grow 1-2 per cent in constant currency, down from the 1.5-3 per cent it expected three months ago. Its net profit for the second quarter rose 6.2 per cent to ₹7,828 crore while revenues were up 10.7 per cent to ₹49,244 crore, helped by its financial-services, and energy and utilities businesses. While net profit missed analyst estimates, revenues exceeded those.  Analysts polled by Bloomberg had expected net profit and revenues to be ₹7,904 crore and ₹49,108 crore, respectively. Dollar revenues were up 1.3 per cent while in constant-currency terms, the increase was 1.5 per cent, which was just more than Wipro’s 0.6 per cent. The Bengaluru-based company grew at its slowest pace in at least six quarters. On top of it, the outlook was clouded by AI deflationary pressure, lower than expected discretionary spending, sector-specific softness, and an ongoing volatile economic environment. These are expected to make the second half tougher than the first. “It was a soft quarter for us. The volumes were softer and in AI we are also seeing compression. We are only taking up contracts that meet our economic guidelines,” Chief Executive Officer (CEO) and Managing Director (MD) Salil Parekh said. With little visibility on large deals, the impact was evident on Infosys’ US-listed shares, which were down almost 6.4 per cent in pre-market trading. The total contract value of large deals won during the three months of the quarter was $5.2 billion, which included one of more than $2 billion. However, the benefits will kick in from April. Such deals are geared towards cost optimisation and vendor-consolidation projects. They take time to materialise. In a subdued demand, large deals would also mean fierce competition among players, leading to margins being eroded. The positive aspect of the results was AI revenues. Infosys also said its AI revenues accounted for 10.5 per cent of its top line, up from the 8.2 per cent in the first quarter and growing 29 per cent sequentially. That market opportunity, which Parekh held up as a $300 billion opportunity, consists of AI strategy and engineering, the data for AI, process AI, agentic legacy modernisation, physical AI and AI trust. “Although the operating margin remained stable at 21 per cent, the weaker growth outlook is likely to remain the key focus for investors. If Infosys continues to rely on acquisitions to support reported growth without a meaningful recovery in its underlying business, the market could begin to assign it a lower valuation multiple,” Manav Medewala of Mirae Asset Sharekhan wrote in a note. Financial services, the main contributor to revenues, were up 2.1 per cent while energy, utilities and resources increased 7.3 per cent. Retail, which still faces headwinds, was down 7.7 per cent and hi-tech dipped 17.3 per cent. North America revenues dropped 1.5 per cent while those of Europe were up 4.6 per cent. The operating margin was nearly flat at 21.1 per cent with positive currency impacts and higher working days more than offset by acquisition-related efforts. “The second half will be impacted from wage hikes and the continued intensity on pricing,” Chief Financial Officer Jayesh Sanghrajka said. The company added 4,480 employees and the headcount was 332,542 at the end of September. Voluntary attrition was 12.7 per cent and it hired 8,000 freshers in the quarter.&lt;/p&gt;</content:encoded>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.business-standard.com/companies/quarterly-results/infosys-q2-results-net-profit-rises-6-2-to-7-823-cr-revenue-up-10-2-126102300941_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Apple India revenue grows 32% to cross ₹1 trillion mark in FY26: Tofler</title>
-      <link>https://www.business-standard.com/companies/news/apple-india-revenue-grows-32-to-cross-1-trillion-mark-in-fy26-tofler-126102301658_1.html</link>
-      <guid isPermaLink="false">b041bf328e4013ffda90e002</guid>
-      <pubDate>Fri, 23 Oct 2026 10:47:00 +0000</pubDate>
-      <description>Phone maker Apple's India revenue grew by over 32 per cent to Rs 1,04,607 crore in FY26, according to the document shared by market intelligence firm Tofler. The company recorded revenue of Rs 79,060.</description>
-      <content:encoded>&lt;p&gt;Home / Companies / News / Apple India revenue grows 32% to cross ₹1 trillion mark in FY26: Tofler&lt;/p&gt;&lt;p&gt;Apple India revenue grows 32% to cross ₹1 trillion mark in FY26: Tofler The company&amp;#x27;s total expenses for the fiscal were reported at Rs 96,224 crore, Tofler said&lt;/p&gt;&lt;p&gt;(Photo: Reuters)&lt;/p&gt;&lt;p&gt;Press Trust of India New Delhi 1 min read Last Updated : Oct 23 2026 | 11:17 PM IST&lt;/p&gt;&lt;p&gt;Listen to This Article&lt;/p&gt;&lt;p&gt;iPhone maker Apple&amp;#x27;s India revenue grew by over 32 per cent to Rs 1,04,607 crore in FY26, according to the document shared by market intelligence firm Tofler.
-The company recorded revenue of Rs 79,060.5 crore in FY25.
-&amp;quot;Apple India Private Limited provides and markets Apple brand products and software, and reported its revenues for the financial year 2025-26 at Rs 1,04,607 crore, a 32 per cent jump since the last financial year,&amp;quot; Tofler said.
-Apple India net profit grew by 66 per cent to Rs 5,311 crore in the same fiscal.
-The company&amp;#x27;s total expenses for the fiscal were reported at Rs 96,224 crore, Tofler said.&lt;/p&gt;&lt;p&gt;(Only the headline and picture of this report may have been reworked by the Business Standard staff; the rest of the content is auto-generated from a syndicated feed.)&lt;/p&gt;&lt;p&gt;More From This Section&lt;/p&gt;&lt;p&gt;Godrej Properties plans ₹32,000 crore project launches in H2 FY27: CEO&lt;/p&gt;&lt;p&gt;DHL bets on India growth, prefers organic expansion over acquisitions premium&lt;/p&gt;&lt;p&gt;NLC India lines up ₹37,000 crore for power and mineral projects in Odisha&lt;/p&gt;&lt;p&gt;IT companies add 16,055 employees in H1FY27, but demand remains weak premium&lt;/p&gt;&lt;p&gt;Italian fashion brand OVS plans 11 stores by 2028, faster growth from 2029&lt;/p&gt;&lt;p&gt;Topics : Apple India Apple smartphone
-Buzzing : Stock Market Live Stocks to Watch Muhurat Trading 2026 Gold Silver Price Today Q2 Results Today Bonfiglioli Transmissions shares Sahajanand Medical shares Stock Market Crash Swiggy Share Price&lt;/p&gt;&lt;p&gt;Don&amp;#x27;t miss the most important news and views of the day. Get them on our Telegram channel
-First Published: Oct 23 2026 | 11:16 PM IST&lt;/p&gt;</content:encoded>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.business-standard.com/companies/news/apple-india-revenue-grows-32-to-cross-1-trillion-mark-in-fy26-tofler-126102301658_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>NBFCs' dependence on bank borrowings rose in 2025: RBI October Bulletin</title>
-      <link>https://www.business-standard.com/industry/banking/nbfcs-reliance-on-bank-borrowings-rises-amid-strong-credit-growth-rbi-126102301611_1.html</link>
-      <guid isPermaLink="false">6b2a55af93f4d7a5f0dcffcf</guid>
-      <pubDate>Fri, 23 Oct 2026 10:46:00 +0000</pubDate>
-      <description>NBFCs saw stronger credit growth, led by retail and industry lending, while their reliance on bank funding increased following the restoration of earlier risk weights, says RBI Bulletin ...</description>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/industry/banking/nbfcs-reliance-on-bank-borrowings-rises-amid-strong-credit-growth-rbi-126102301611_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Whistleblower tipoffs on insider trading up sharply as Sebi gets 25 in FY26</title>
-      <link>https://www.business-standard.com/markets/news/whistleblower-tipoffs-on-insider-trading-up-sharply-as-sebi-gets-25-in-fy26-126102301683_1.html</link>
-      <guid isPermaLink="false">868fa878ba9489d87748da60</guid>
-      <pubDate>Fri, 23 Oct 2026 10:35:00 +0000</pubDate>
-      <description>Whistleblower reports rise as market expands, but experts call for greater transparency, stronger safeguards and wider coverage of violations ...</description>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/markets/news/whistleblower-tipoffs-on-insider-trading-up-sharply-as-sebi-gets-25-in-fy26-126102301683_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>AI-discovered software bugs may trigger more outages, warn cyber experts</title>
-      <link>https://www.business-standard.com/world-news/ai-discovered-software-bugs-may-trigger-more-outages-warn-cyber-experts-126102301660_1.html</link>
-      <guid isPermaLink="false">0a1c0ae736a3d60f50e39f5d</guid>
-      <pubDate>Fri, 23 Oct 2026 10:07:00 +0000</pubDate>
-      <description>Cybersecurity experts say AI is accelerating the discovery and exploitation of software flaws, raising the risk of further disruptions even as its impact on successful hacks remains uncertain ...</description>
-      <content:encoded>&lt;p&gt;Home / World News / AI-discovered software bugs may trigger more outages, warn cyber experts&lt;/p&gt;&lt;p&gt;AI-discovered software bugs may trigger more outages, warn cyber experts Cybersecurity experts say AI is accelerating the discovery and exploitation of software flaws, raising the risk of further disruptions even as its impact on successful hacks remains uncertain&lt;/p&gt;&lt;p&gt;(Photo: Reuetrs)&lt;/p&gt;&lt;p&gt;Reuters 5 min read Last Updated : Oct 23 2026 | 10:37 PM IST&lt;/p&gt;&lt;p&gt;Listen to This Article&lt;/p&gt;&lt;p&gt;Advances in artificial intelligence (AI) have uncovered a stream of new software vulnerabilities that are almost certain to trigger more disruptions along the lines of the outages that spread across government websites globally this week, according to seven cybersecurity professionals who spoke to Reuters.
-  AI helped drive a doubling of the number of digital flaws discovered year-on-year, according to research due to be published in the coming days by VulnCheck, a Massachusetts-based threat intelligence firm.
-  Matthew Prince, the chief executive of digital infrastructure firm Cloudflare, told Reuters he was aware of “a bunch of additional severe vulnerabilities that are present in other pieces of critical software” and predicted busy months ahead as AI surfaced long-hidden weaknesses in the fabric of the internet.&lt;/p&gt;&lt;p&gt;“I think we’re going to have a couple years where every single week it’s going to feel like the sky is falling,” Prince said in an interview on Thursday.
-  The outages that spread across government sites in Europe and elsewhere beginning on Wednesday happened after the discovery of weaknesses in PHP, a long-established programming language that powers a huge swathe of the internet. Operators have been rushing to fix their software in anticipation of mass exploitation and, because some felt they could not patch the vulnerabilities before hackers exploited them, some simply took their sites offline until they could make them safe.&lt;/p&gt;&lt;p&gt;Also Read&lt;/p&gt;&lt;p&gt;The coming global wealth destruction premium&lt;/p&gt;&lt;p&gt;Microsoft develops AI tool that can diagnose &amp;#x27;sequentially&amp;#x27; like doctor&lt;/p&gt;&lt;p&gt;OpenAI shifts valuation to $1.25 trillion as funding talks near final stage&lt;/p&gt;&lt;p&gt;Only 1% of engineers work in FDE roles despite rising AI demand: Report&lt;/p&gt;&lt;p&gt;AI data centre backlash threatens Australia&amp;#x27;s $70 billion investment boom&lt;/p&gt;&lt;p&gt;VulnCheck researcher Patrick Garrity said the scramble to fix PHP came during an already busy week in cybersecurity. The week also brought disclosures of vulnerabilities in PHP alternative Node.js and streaming programme Plex, breaches tied to AI gateway LiteLLM and development platform Railway, and the revelation that Indian certificate authority eMudhra had used an extraordinarily weak cryptographic key that potentially put users across the internet at risk.
-  “If we just saw four or five things like this, this week, I would expect we’re going to see a lot more,” Garrity said. “I think there’s going to be a lot more fire drills for anything that’s internet exposed.”&lt;/p&gt;&lt;p&gt;Timelines Shortening
-  The codebases that run modern programs are sprawling, and mistakes, or “bugs”, that open up potential avenues for exploitation often crop up in unexpected places.
-  Previously, finding bugs required a baseline level of skill, and taking advantage of those bugs to build digital lockpicks — called “exploits” — could be expected to take weeks or months of work by an experienced professional.
-  That would, in the past, have provided defenders a little breathing room to fix bugs and gradually roll out software updates.
-  AI has effectively thrown those assumptions out of the window.
-  Models can find one bug after another by subjecting codebases to round-the-clock scrutiny and can produce exploits in hours.&lt;/p&gt;&lt;p&gt;Shane Fry, the chief technology officer of Virginia-based RunSafe Security, said the demonstrated performance of AI models over the past few months had effectively laid to rest any doubts over whether they would change the industry.
-  “What&amp;#x27;s fundamentally, and unquestionably, changing is the timescale for not only finding vulnerabilities, but how quickly adversaries can weaponize them,” Fry said.
-  Scary monsters
-  While all the experts Reuters spoke to agreed that defenders’ timelines were getting shorter, they were split on whether AI would lead to a hacker free-for-all.
-  Daniel Stenberg, the lead developer of the file transfer tool curl, argued that the vulnerabilities found by AI models tended to be exotic bugs that were difficult for rogue actors to take advantage of. Ramy Rahman, a senior principal solutions engineer at cybersecurity company ArmorCode, said “more disclosed vulnerabilities do not automatically mean more successful attacks.&amp;quot;&lt;/p&gt;&lt;p&gt;There was tentative evidence of that around the PHP vulnerability that drew worldwide concern this week. Threat intelligence firm Hunt.io said that — like Amazon and Cloudflare — it had seen aggressive attempts to take advantage of the bug. But the firm’s head of research, Esteban Borges, said that, as of 2 p.m. Eastern Time on Thursday (1800 GMT), the cybercriminals he tracked appeared to have failed to cobble together a working tool to take advantage of it.
-  Prince, of Cloudflare, told Reuters he had seen anecdotal evidence of compromises linked to the PHP vulnerability.
-  The deluge of AI-driven discoveries might rattle the industry but would be a net positive in the end, he said, comparing it to slaying the monsters in a haunted house.&lt;/p&gt;&lt;p&gt;The confrontation might be scary, he said, but leaving the monsters to lurk quietly behind closed doors was far worse.
-  “The reality is, we’re going to get a lot of this stuff cleaned up,” he said.   Japan to simulate cyberattacks   
-Japan said on Friday it will set up a team to simulate  cyberattacks using artificial intelligence (AI) to identify weaknesses in technology systems as organisations scramble to curtail risks from flaws in the PHP programming language that underpins much of the internet. Highlighting the extent of the disruption, Japan’s third-largest mobile carrier, SoftBank, said on Friday it was suspending its emergency alert system for mobile users.That means customers will not receive early warnings for earthquakes, tsunami alerts or disaster and evacuation information.&lt;/p&gt;&lt;p&gt;More From This Section&lt;/p&gt;&lt;p&gt;First Russian diesel shipment since 2022 heads to US under Trump-Putin deal&lt;/p&gt;&lt;p&gt;France steps up security, deploys military to contain fresh protests&lt;/p&gt;&lt;p&gt;US startup claims it turned mercury into gold in lab using nuclear fusion&lt;/p&gt;&lt;p&gt;Odds of 2026 becoming the hottest year surge higher with strong El Niño&lt;/p&gt;&lt;p&gt;14 nationals on board a yacht off Yemen coast safe, says Indian embassy&lt;/p&gt;&lt;p&gt;Topics : Artificial intelligence cybersecurity software
-Buzzing : Stock Market Live Stocks to Watch Muhurat Trading 2026 Gold Silver Price Today Q2 Results Today Bonfiglioli Transmissions shares Sahajanand Medical shares Stock Market Crash Swiggy Share Price&lt;/p&gt;&lt;p&gt;Don&amp;#x27;t miss the most important news and views of the day. Get them on our Telegram channel
-First Published: Oct 23 2026 | 10:37 PM IST&lt;/p&gt;</content:encoded>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.business-standard.com/world-news/ai-discovered-software-bugs-may-trigger-more-outages-warn-cyber-experts-126102301660_1.html</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.business-standard.com/external-affairs-defence-security/news/political-leadership-clear-on-theatre-commands-says-defence-secretary-126102301446_1.html</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -188,48 +128,78 @@ First Published: Oct 23 2026 | 10:37 PM IST&lt;/p&gt;</content:encoded>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Flipkart deal helps Netflix log record quarterly subscriber gains in India</title>
-      <link>https://www.business-standard.com/companies/news/flipkart-deal-helps-netflix-log-record-quarterly-subscriber-gains-in-india-126102301220_1.html</link>
-      <guid isPermaLink="false">e1f09c847d63e345e3112dc2</guid>
-      <pubDate>Fri, 23 Oct 2026 05:44:00 +0000</pubDate>
-      <description>Netflix reported record quarterly paid subscriber additions in India and 18 per cent revenue growth in Q3 2026, aided by its transaction-based loyalty partnership with Flipkart ...</description>
+      <title>SBI data breach explained: What are your rights if personal data is leaked?</title>
+      <link>https://www.business-standard.com/industry/banking/sbi-data-breach-explained-what-are-your-rights-if-personal-data-is-leaked-126102301021_1.html</link>
+      <guid isPermaLink="false">cde855b917c0ef43da802d72</guid>
+      <pubDate>Fri, 23 Oct 2026 04:27:00 +0000</pubDate>
+      <description>SBI's reported data leak has raised questions about customer privacy. Here's what Indian laws require banks to do, whether affected customers can seek compensation and how they can protect themselves ...</description>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/companies/news/flipkart-deal-helps-netflix-log-record-quarterly-subscriber-gains-in-india-126102301220_1.html</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.business-standard.com/industry/banking/sbi-data-breach-explained-what-are-your-rights-if-personal-data-is-leaked-126102301021_1.html</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>OpenAI shifts valuation to $1.25 trillion as funding talks near final stage</title>
-      <link>https://www.business-standard.com/world-news/openai-shifts-valuation-to-1-25-trillion-as-funding-talks-near-final-stage-126102300159_1.html</link>
-      <guid isPermaLink="false">791f94670d749f4450aeddf7</guid>
-      <pubDate>Thu, 22 Oct 2026 20:38:00 +0000</pubDate>
-      <description>OpenAI, which is seeking to raise around $30 billion in a fresh funding round, is now targeting a valuation of $1.25 trillion during the final stages of negotiations, according to people familiar with ...</description>
+      <title>RBI's ₹2.5 trillion liquidity infusion sends mixed signals: SBI Research</title>
+      <link>https://www.business-standard.com/economy/news/rbi-s-2-5-trillion-liquidity-infusion-sends-mixed-signals-sbi-research-126102300929_1.html</link>
+      <guid isPermaLink="false">9a2397e448ed14d37cc86bdb</guid>
+      <pubDate>Fri, 23 Oct 2026 03:44:00 +0000</pubDate>
+      <description>SBI Research says the RBI's ₹2.5 trillion liquidity injection amid calibrated monetary tightening sends contradictory signals and could complicate monetary policy transmission ...</description>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/world-news/openai-shifts-valuation-to-1-25-trillion-as-funding-talks-near-final-stage-126102300159_1.html</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.business-standard.com/economy/news/rbi-s-2-5-trillion-liquidity-infusion-sends-mixed-signals-sbi-research-126102300929_1.html</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Musk's donations top $445 million in push for Republicans in US midterms</title>
-      <link>https://www.business-standard.com/world-news/musk-s-donations-top-445-million-in-push-for-republicans-in-us-midterms-126102300126_1.html</link>
-      <guid isPermaLink="false">ba747c2f4310b8ed207183d0</guid>
-      <pubDate>Thu, 22 Oct 2026 20:34:00 +0000</pubDate>
-      <description>The world's richest person put $77 million into America PAC, Federal Election Commission filings show, in an effort to elect Republicans in November midterm contests ...</description>
+      <title>Dr Reddy's launches new generic Ozempic brands amid Obeda supply disruption</title>
+      <link>https://www.business-standard.com/industry/news/dr-reddy-s-launches-new-generic-ozempic-brands-amid-obeda-supply-disruption-126102300794_1.html</link>
+      <guid isPermaLink="false">d47d39c198d78ec75549983c</guid>
+      <pubDate>Fri, 23 Oct 2026 03:05:00 +0000</pubDate>
+      <description>Obeda Pro and Obeda Plus are made by a different manufacturer than the original Obeda injectable, supplies of which were halted in July after Dr Reddy's discovered an impurity in active ingredients ...</description>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/world-news/musk-s-donations-top-445-million-in-push-for-republicans-in-us-midterms-126102300126_1.html</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.business-standard.com/industry/news/dr-reddy-s-launches-new-generic-ozempic-brands-amid-obeda-supply-disruption-126102300794_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>ICRIER urges caution on AgriStack-led fertiliser subsidy rationalisation</title>
+      <link>https://www.business-standard.com/industry/agriculture/fertiliser-subsidy-direct-cash-transfer-icrier-agristack-fy27-126102300585_1.html</link>
+      <guid isPermaLink="false">033fa54a004ef7d1aa42748e</guid>
+      <pubDate>Fri, 23 Oct 2026 01:07:00 +0000</pubDate>
+      <description>The paper says Punjab and Haryana receive a much larger volume of central government support relative to the value of what they produce than most other states ...</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.business-standard.com/industry/agriculture/fertiliser-subsidy-direct-cash-transfer-icrier-agristack-fy27-126102300585_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Crude oil up 85% in 2026 poses threat to global economy; Brent may hit $120</title>
+      <link>https://www.business-standard.com/markets/news/crude-oil-up-85-in-2026-poses-threat-to-global-economy-brent-may-hit-120-126102300498_1.html</link>
+      <guid isPermaLink="false">007afc9e1b5dcabac6ca2d36</guid>
+      <pubDate>Thu, 22 Oct 2026 23:53:00 +0000</pubDate>
+      <description>Brent climbed back above $113 a barrel after a deadly drone strike on Saudi Aramco's Shaybah field, highlights Mohammed Imran of Mirae Asset Sharekhan.</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.business-standard.com/markets/news/crude-oil-up-85-in-2026-poses-threat-to-global-economy-brent-may-hit-120-126102300498_1.html</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
