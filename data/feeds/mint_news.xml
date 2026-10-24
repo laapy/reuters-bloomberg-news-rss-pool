@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Mint — diagnostic source feed</title>
     <link>https://www.livemint.com/rss/news</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 24 Oct 2026 13:12:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 16:51:38 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Pakistan's LPG crisis deepens as prices hit 600 PKR/kg, hundreds of trucks stranded at Iran border</title>
+      <link>https://www.livemint.com/news/world/pakistans-lpg-crisis-deepens-as-prices-hit-600-pkr-kg-hundreds-of-trucks-stranded-at-iran-border-11792856462903.html</link>
+      <guid isPermaLink="false">656292d89d0ea9d276ad45b1</guid>
+      <pubDate>Sat, 24 Oct 2026 15:55:33 +0000</pubDate>
+      <description>Pakistan's LPG imports from Iran have halted after two key border crossings were closed, pushing up cylinder prices and raising fears of worsening shortages. Traders warn of further increases as hundreds of trucks remain stranded and both countries discuss resuming trade.</description>
+      <dc:creator>Prabhakar Jha</dc:creator>
+      <content:encoded>&lt;p&gt;Pakistan is facing liquefied petroleum gas (LPG) shortages and rising prices after the closure of two border crossings with Iran disrupted supplies, Reuters reported.The Gabd-Rimdan and Taftan crossings were shut on October 17, with the two countries offering different explanations. Pakistan&amp;#x27;s Balochistan government cited security concerns and efforts to curb smuggling, while Iran&amp;#x27;s foreign ministry attributed the closure to technical issues.Pakistan imports around 7,000 metric tonnes of LPG daily from Iran, according to the Pakistan LPG Association. More than 4,000 tonnes of the daily supply passes through Gabd-Rimdan alone, said Shamsul Haq, former president of the Gwadar Chamber of Commerce and Industry.&amp;quot;These imports are at halt,&amp;quot; Haq told Reuters.The disruption has pushed up LPG prices within days. Traders said the price of a 12-kg cylinder had climbed to 7,000 Pakistani rupees ($25) from 4,500 rupees ($16), with further increases possible if supplies remain disrupted.LPG prices rise across PakistanThe impact of the supply disruption is already being felt across the country. Pakistan LPG Association Chairman Irfan Khokhar told Reuters that a 12-kg cylinder was selling for around 7,000 rupees in Balochistan, 7,500 rupees in Lahore and 8,200 rupees in Skardu.Khokhar warned that shortages and price increases could intensify. He also said higher LPG prices were contributing to increases in the cost of other goods.Farhat Abbas, a resident of Lahore, told Reuters that the price he paid for LPG had doubled or more since the crossings were closed. He previously paid 250 rupees per kg but was now paying between 500 and 600 rupees per kg.Consumers are concerned that the supply constraints could worsen as winter approaches, when demand for fuel may rise.Trucks stranded as trade comes under pressureThe border closures have also disrupted the movement of goods between the two countries. Haq said hundreds of trucks, including LPG tankers, were stranded on both sides of the border.More than 1,000 Pakistani containers carrying potatoes, bananas and rice destined for Iran were also held up, he said. The Gabd-Rimdan crossing reopened on Wednesday for Pakistani exports of perishable goods, although LPG imports remained halted, according to the report.The Quetta Chamber of Commerce and Industry has advised its members to suspend new orders from Iran until further notice.Truck drivers stranded at the crossings described waiting for days in difficult conditions, with limited access to basic amenities. One driver, Abdul Ghani Baloch, told Reuters he had been waiting for more than a week for the border to reopen.Pakistan and Iran discuss resuming tradeThe disruption comes as Pakistan and Iran maintain significant cross-border trade ties. Bilateral trade stood at around $2.8 billion in the 2023-24 fiscal year, including approximately $684 million in Pakistani exports, according to the Federation of Pakistan Chambers of Commerce and Industry.Pakistan&amp;#x27;s army chief visited Tehran this week to discuss the US-Iran war and also held discussions with Iranian leaders on border issues. Iran&amp;#x27;s foreign ministry said consultations on restarting trade were under way.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>mint_news</wire:foundAt>
+      <wire:platform>Mint</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.livemint.com/news/world/pakistans-lpg-crisis-deepens-as-prices-hit-600-pkr-kg-hundreds-of-trucks-stranded-at-iran-border-11792856462903.html</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Reuters reported</wire:evidence>
+    </item>
   </channel>
 </rss>
