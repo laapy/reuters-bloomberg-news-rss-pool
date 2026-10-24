@@ -5,35 +5,31 @@
     <link>https://www.bing.com/news/search?q=site%3Abnnbloomberg.ca+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 24 Oct 2026 08:46:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 13:12:26 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software</title>
       <link>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/24/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/</link>
       <guid isPermaLink="false">1b3fb3947a6f28e2a6ea2397</guid>
-      <pubDate>Sat, 24 Oct 2026 01:10:09 +0000</pubDate>
+      <pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
       <description>OpenAI said on Friday it had resumed training of its most advanced AI models after tightening security and barring internet access, and disclosed a flaw in a widely used software.</description>
-      <dc:creator>Reuters Staff</dc:creator>
-      <content:encoded>&lt;p&gt;OpenAI said on Friday it had resumed training of its most advanced AI models after tightening security and barring internet access, and disclosed a flaw in a widely used software that it found while testing its defences. The disclosure comes amid concerns over the ability of increasingly capable AI agents to identify and exploit software flaws, including in the guardrails meant to contain them. OpenAI had paused training of its most capable models after one of its research models used a configuration error to gain limited internet access in September. The company said it contained the incident and used the pause to strengthen its defences. To test them, OpenAI had teams of AI agents try to break out of their restricted environments. It said the agents found previously unknown flaws, which it had fixed, and training resumed on Oct. 1. During that exercise, the ChatGPT maker found a flaw in Brotli, a widely used data compression tool. The company said attackers could exploit the flaw by sending malicious data that lets them run their own code on affected systems, including those using popular web software such as Node.js, Bun and Envoy. OpenAI said the root cause was fixed in Brotli’s source code in February, before it was known to create a security vulnerability, but no new version was released at the time. Brotli has since released updated versions and published a public record of the flaw after OpenAI disclosed it. Separately on Thursday, AI safety evaluators METR and Redwood Research said they found several new vulnerabilities in OpenAI’s internal system, including an exploit agents could have used to keep hundreds of their actions from being monitored, in a pilot review earlier this year. OpenAI told the safety organizations it has since patched all vulnerabilities affecting its production safeguards, although METR and Redwood said they had not verified the fixes. OpenAI has been conducting a broad review of its AI models’ activity since the Hugging Face incident in July, and has informed more than 100 organizations about incidents of unauthorized activity tied to its AI agents. (Reporting by Jaspreet Singh in Bengaluru, Chris Thomas in Mexico City; Editing by Pooja Desai and Stephen Coates)&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/24/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/</wire:canonicalUrl>
-      <wire:evidence>structured credit: Reuters Staff</wire:evidence>
+      <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Wall Street mostly loses ground under pressure from rising oil prices</title>
-      <link>https://www.bnnbloomberg.ca/markets/2026/10/23/us-futures-under-pressure-as-crude-reaches-levels-not-seen-since-may/</link>
-      <guid isPermaLink="false">ec40d46124f8e13cf1371cf1</guid>
-      <pubDate>Fri, 23 Oct 2026 20:37:21 +0000</pubDate>
-      <description>Futures are lower as oil prices reach levels not seen since May amid halting efforts to bring the U.S. and Iran back to the negotiation table.</description>
-      <dc:creator>The Associated Press</dc:creator>
-      <content:encoded>&lt;p&gt;NEW YORK — Stocks on Wall Street closed broadly lower Friday as oil prices climbed to their highest level in more than four years, ratcheting up pressure on the market. The S&amp;amp;P 500 fell 0.5 per cent, adding to its decline from a day before. The index posted its second-straight weekly loss. The Dow Jones Industrial Average fell 1.2 per cent, and the Nasdaq composite slipped 0.2 per cent after giving up a modest gain. Rising oil prices weighed heavily on the market, where nearly three out of every four stocks within the benchmark S&amp;amp;P 500 index fell. The price for a barrel of Brent crude oil rose 3.1 per cent to settle at US$116.72. It has surged from less than US$97 at the start of October and is now at its highest level since June 2022. Several AI-related companies rallied, helping ease some of the impact from the broader market slide. Micron Technology rose 2.5 per cent, Intel gained 1.7 per cent, Microsoft added 0.7 per cent, and Advanced Micro Devices closed 1.7 per cent higher. The tech sector’s influence is also capable of quickly switching over to a heavy weight. Stocks that have benefited from the frenzy over AI have been swinging over rising worries about their path ahead. Investors are worried about whether their high prices are justified. Many of those companies have been borrowing to fund investments in AI technology and high interest rates are making those loans more expensive. “Investors appear increasingly focused on the economics of AI, particularly the substantial upfront costs required to build AI infrastructure and the uncertainty around the timing of returns on those investments,” said Angelo Kourkafas, senior global strategist at Edward Jones, in a research note. The latest round of corporate earnings are being closely watched to help get a better sense of whether those investments are paying off, or might pay off. Several influential AI-related companies report their latest financial results next week, including Google’s parent, Alphabet, along with Microsoft and Amazon. Industrial companies had some of the biggest losses. Caterpillar fell 2.4 per cent. American Express slumped 3.7 per cent, one of several financial stocks that lost ground, despite r eporting profits for its most recent quarter that beat analysts’ forecasts. The company did announce its first major job cuts in roughly a decade. JPMorgan Chase fell 1.5 per cent, Citigroup dropped 1.5 per cent and Capital One Financial slid 1 per cent. While higher oil prices weighed down much of the market, they helped boost energy companies. Chevron rose 2.9 per cent and ConocoPhillips gained 3.6 per cent. European markets closed mostly lower. France’s main index fell 0.4 per cent, though yields on French government bonds eased a bit. Treasury yields in the U.S. edged higher following sharp drops on Thursday. The yield on the 10-year Treasury edged up to 4.99 per cent from 4.96 per cent late Thursday. Yields have been rising globally, partly over worries about governments taking on too much debt. Inflation also remains a concern and is stubbornly well above 3 per cent in the U.S. That prompted the Federal Reserve to raise its benchmark interest rate at its last meeting in an effort to cool inflation. Wall Street expects the central bank to hold rates steady at its meeting next week, but is leaning heavily toward another rate hike in December. Wall Street will also get several big economic updates next week, including the Fed’s preferred measure of inflation. The personal consumption expenditures index, or PCE, is expected to show that inflation rose at a 3.7 per cent rate in September, sharply above the Fed’s 2 per cent target. The U.S. war with Iran has severely cut the world’s oil supply, driving energy prices higher and fueling a sharp jump in the cost of everything from gasoline to food and clothes. All told, the S&amp;amp;P 500 fell 39.75 points to 7,623.68. The Dow dropped 652.82 points to 52,215.16, and the Nasdaq gave up 53.52 points to close at 25,955.34. --- Damian J. Troise and Alex Veiga, The Associated Press&lt;/p&gt;</content:encoded>
+      <title>Rogers seeks to offset hit from CRTC fee ban as wireless service revenue dips in Q3</title>
+      <link>https://www.bnnbloomberg.ca/business/company-news/2026/10/23/rogers-seeks-to-offset-hit-from-crtc-fee-ban-as-wireless-service-revenue-dips-in-q3/</link>
+      <guid isPermaLink="false">08aee14783adf32c0b12426b</guid>
+      <pubDate>Fri, 23 Oct 2026 16:09:33 +0000</pubDate>
+      <description>Rogers Communications Inc. says it is seeking to offset the hit it has taken from the CRTC’s recent ban on telecommunications carriers charging certain administrative fees.</description>
+      <dc:creator>The Canadian Press</dc:creator>
+      <content:encoded>&lt;p&gt;TORONTO — Rogers Communications Inc. says it is seeking to offset the hit it has taken from the CRTC’s recent ban on telecommunications carriers charging certain administrative fees. While Rogers reported a year-over-year increase in overall revenue during its most recent quarter, primarily due to growth in its media division, the company said wireless service revenue decreased one per cent. During its third quarter, Rogers’ mobile phone average monthly revenue per user was $55.22, down from $56.70 in the same quarter of the prior year. Chief financial officer Glenn Brandt said the “largest impact” to that closely watched figure came from the CRTC’s move in June to prohibit telecoms from charging customers when they activate, change or cancel plans. “The purpose of those setup fees was exactly that — to offset costs of account changes or new accounts coming on,” Brandt told analysts on a conference call Friday. “The charge disappeared (due to) the CRTC decision. The costs don’t.” He said Rogers put in place some “early initiatives” during the quarter to recover some of those costs, but “there’s still more work to do.” “We’re now moving back to finding alternatives for covering those costs, shipping costs, for example … so that effort remains ongoing.” The CRTC has said the new rules are meant to make it easier for customers to switch internet and cellphone plans without having to worry about unexpected charges. The regulator is in the midst of a review into whether Rogers, along with rivals Bell Canada and Telus Corp., violated the ban by introducing new fees around the time it took effect. It said Rogers began charging customers a $40 device setup fee, $25 shipping charge, and an unspecified SIM card fee in mid-June that “would not appear” to qualify for an exemption under the rules for optional services or products that consumers consent to purchase. Rogers has argued the device setup fee is related to an optional purchase. It also said the shipping and SIM fees were not new, and that the latter is only charged when a customer replaces a lost or damaged SIM, rather than at activation. Overall, the quarter saw a “less active telecom market,” said Rogers president and CEO Tony Staffieri said, as the company reported a profit attributable to shareholders of $482 million. “In wireless, we stayed focused on financials versus chasing subscriber volume in what is typically a busy back-to-school quarter,” he told analysts. The company reported 17,000 total mobile phone net subscriber additions, including 6,000 postpaid — those who pay a monthly bill for their wireless services after charges have accumulated. That was down from 62,000 postpaid additions in the same quarter last year. Rogers’ monthly churn — a measure of those who cancelled their service — for net postpaid mobile subscribers was 1.03 per cent, up from 0.99 per cent during its previous third quarter. Retail internet net additions totalled 10,000, down from 29,000 a year earlier. The company said its profit amounted to 88 cents per diluted share for the quarter ended Sept. 30. The result compared with a profit of $5.71 billion or $10.54 per diluted share a year ago when it saw a $5-billion non-cash gain related to its stake in Maple Leaf Sports &amp;amp; Entertainment and $151-million gain on the redemption of long-term debt. On an adjusted basis, Rogers said it earned $704 million in net income, or $1.29 per diluted share in its latest quarter, down from an adjusted profit of $1.37 per diluted share a year ago. Revenue totalled $5.44 billion, up from $5.35 billion in the same quarter last year. “Financial results were in line with our forecast while subscriber growth was a little lighter than our forecast,” said RBC analyst Drew McReynolds in a note. “We view the results as largely neutral for the shares at current levels.” Earlier this month, Rogers completed its $4.35-billion purchase of the remaining 25 per cent stake in MLSE it did not already hold, giving it complete ownership of the sports conglomerate that includes the Maple Leafs, Raptors, Toronto FC and Argonauts. Staffieri reiterated Rogers’ plan to sell a minority interest in its consolidated sports, media and entertainment portfolio to third-party investors, adding he remains “bullish about our plan to unlock shareholder value and drive long-term growth.” Rogers is targeting the first half of 2027 to close that minority interest sale. “Investor interest in these assets is substantial as sports franchise valuations continue to rise,” Staffieri said. This report by The Canadian Press was first published Oct. 23, 2026. By Sammy Hudes BNN Bloomberg, CTV News and CP24 are owned by Bell Media, which is a division of BCE.&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
@@ -41,37 +37,7 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/2026/10/23/us-futures-under-pressure-as-crude-reaches-levels-not-seen-since-may/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Will the new tariff exemptions be enough to help Maine Sen. Susan Collins win re-election?</title>
-      <link>https://www.bnnbloomberg.ca/video/investing/2026/10/24/will-the-new-tariff-exemptions-be-enough-to-help-maine-sen-susan-collins-win-re-election/</link>
-      <guid isPermaLink="false">39a14b04649d27bdc9ccb928</guid>
-      <pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
-      <description>KPMG Law international trade lawyer Robert Glasgow says more items are coming off the list of goods facing 50 per cent tariffs than have been added to it.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/10/24/will-the-new-tariff-exemptions-be-enough-to-help-maine-sen-susan-collins-win-re-election/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>'If you hold all the cards, you don't reshuffle the deck': Trade lawyer on Trump's trade comments</title>
-      <link>https://www.bnnbloomberg.ca/video/investing/2026/10/24/if-you-hold-all-the-cards-you-dont-reshuffle-the-deck-trade-lawyer-on-trumps-trade-comments/</link>
-      <guid isPermaLink="false">319eb4454c28d2f3f102809c</guid>
-      <pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
-      <description>International trade lawyer Barry Appleton says Trump shuffling his tariffs is a sign that his policy 'is starting to find its natural limit.' ...</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/10/24/if-you-hold-all-the-cards-you-dont-reshuffle-the-deck-trade-lawyer-on-trumps-trade-comments/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/10/23/rogers-seeks-to-offset-hit-from-crtc-fee-ban-as-wireless-service-revenue-dips-in-q3/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -90,6 +56,36 @@
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/economics/2026/10/23/statistics-canada-reports-retail-sales-up-12-in-august-at-746-billion/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>How Canadian publishers are pushing back against AI</title>
+      <link>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/23/publishers-rely-on-trust-not-tech-to-ensure-books-arent-ai-generated/</link>
+      <guid isPermaLink="false">ba466e145d513fbe641dc87f</guid>
+      <pubDate>Fri, 23 Oct 2026 12:18:00 +0000</pubDate>
+      <description>In the absence of surefire technology to determine whether something was written by artificial intelligence, some Canadian publishers say they have to rely on something nearly as thorny: trust.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/23/publishers-rely-on-trust-not-tech-to-ensure-books-arent-ai-generated/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Barclays is latest to redirect spending toward AI as it trims its workforce</title>
+      <link>https://www.bnnbloomberg.ca/business/2026/10/23/barclays-is-latest-to-redirect-spending-toward-ai-as-it-trims-its-workforce/</link>
+      <guid isPermaLink="false">99d87386bd840a757feeba0c</guid>
+      <pubDate>Fri, 23 Oct 2026 12:14:00 +0000</pubDate>
+      <description>The cost of building out the infrastructure needed to satisfy booming demand for artificial intelligence is changing the way major companies allocate resources.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/2026/10/23/barclays-is-latest-to-redirect-spending-toward-ai-as-it-trims-its-workforce/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -138,21 +134,6 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Rogers seeks to offset hit from CRTC fee ban as wireless service revenue dips in Q3</title>
-      <link>https://www.bnnbloomberg.ca/business/company-news/2026/10/23/rogers-seeks-to-offset-hit-from-crtc-fee-ban-as-wireless-service-revenue-dips-in-q3/</link>
-      <guid isPermaLink="false">08aee14783adf32c0b12426b</guid>
-      <pubDate>Fri, 23 Oct 2026 06:04:00 +0000</pubDate>
-      <description>Rogers Communications Inc. says it is seeking to offset the hit it has taken from the CRTC’s recent ban on telecommunications carriers charging certain administrative fees.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/10/23/rogers-seeks-to-offset-hit-from-crtc-fee-ban-as-wireless-service-revenue-dips-in-q3/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
       <title>Canadian jet maker Bombardier says it plans new US$270 million U.S. investment</title>
       <link>https://www.bnnbloomberg.ca/business/company-news/2026/10/23/canadian-jet-maker-bombardier-says-it-plans-new-us270-million-us-investment/</link>
       <guid isPermaLink="false">791fbc7b349d0c64534b5f6a</guid>
@@ -165,6 +146,21 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/10/23/canadian-jet-maker-bombardier-says-it-plans-new-us270-million-us-investment/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Wall Street mostly loses ground under pressure from rising oil prices</title>
+      <link>https://www.bnnbloomberg.ca/markets/2026/10/23/us-futures-under-pressure-as-crude-reaches-levels-not-seen-since-may/</link>
+      <guid isPermaLink="false">ec40d46124f8e13cf1371cf1</guid>
+      <pubDate>Fri, 23 Oct 2026 03:27:00 +0000</pubDate>
+      <description>Futures are lower as oil prices reach levels not seen since May amid halting efforts to bring the U.S. and Iran back to the negotiation table.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/2026/10/23/us-futures-under-pressure-as-crude-reaches-levels-not-seen-since-may/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -188,33 +184,14 @@
       <guid isPermaLink="false">df54c6066964ad727b1d8508</guid>
       <pubDate>Fri, 23 Oct 2026 03:01:00 +0000</pubDate>
       <description>In Buchanan’s view, quality companies have steady, recurring revenue, pricing power, and enough cash to keep paying and raising dividends in good times and bad. Dividends, in his opinion, are a kind ...</description>
-      <content:encoded>&lt;p&gt;Quality is one of the most overused words in investing. But what makes a stock a quality stock?
-For Keith Buchanan, one clue is the dividend, and whether a company can keep paying it.&lt;/p&gt;&lt;p&gt;In the latest episode of Ticker Take , I spoke with Buchanan of GLOBALT Investments about how he uses that idea to find quality companies, which leads him to a number of opportunities beyond popular sectors like tech.
-In Buchanan’s view, quality companies have steady, recurring revenue, pricing power, and enough cash to keep paying and raising dividends in good times and bad. Dividends, in his opinion, are a kind of receipt that the business model is working.
-At the same time, Buchanan warns that high dividend yields can look like quality marks, when in fact they are the opposite. When a stock falls, its yield rises even if the company never pays an extra cent, so an unusually big yield can be the market warning you that the payout is in trouble.
-For that reason, Buchanan would rather own a company that can grow a smaller dividend than one that looks generous right before it has to cut.
-Here are six stocks he used to show how to assess quality companies. We have included some of the analyst recommendations, as measured by Bloomberg. As always, this is not financial advice.
-Delta Air Lines ( DAL ) Airlines have a rough history with investors: capital intensive, boom and bust, famous for adding too many seats at the wrong time. However, Buchanan says this cycle is different, with fewer and more global players showing real discipline. He says Delta in particular has been out front on a premium, loyalty-driven model, anchored by its American Express partnership. Delta cut its dividend during the pandemic, before bringing it back in 2023. He thinks the company can keep raising it. And he’s not alone in his bullishness. Nearly every analyst who covers the stock rates it a buy.
-Waste Management ( WM ) There is nothing glamorous about garbage, but trash leads to cash. Whether the economy grows or not, people and businesses keep producing waste, which gives Waste Management steady demand and real pricing power. Buchanan points to the recurring cash that has funded more than 20 straight years of dividend increases. About two-thirds of analysts rate it a buy.
-JPMorgan Chase ( JPM ) Wall Street is split on JPMorgan, with only about half of analysts calling it a buy, but that suits Buchanan just fine. He is willing to pay a premium for the biggest U.S. bank because of the cash the Chase franchise generates and the interest income he expects over the next few years. JPMorgan raised its dividend again this fall, and he says its commitment to that payout has held through every kind of cycle.
-Devon Energy ( DVN ) Energy is about as cyclical as it gets, and producers have little say over the prices they receive, so Buchanan focuses on the people running the company. He liked Devon’s merger with Coterra this year, which created a bigger producer with strong assets and a management team he trusts to ride out the swings and keep returning cash. Devon raised its dividend by roughly a third after the deal closed, and about nine out of every ten analysts rate it a buy.
-Hasbro ( HAS ) Hasbro’s dividend has been flat since 2022, so it would fail a strict dividend-growth screen, but Buchanan keeps it for where he thinks it is headed. The draw is the intellectual property, with franchises such as Magic: The Gathering offering better economics than traditional toys. Pair that with a solid balance sheet, he says, and Hasbro has the capacity to start growing its payout again. According to Bloomberg, more than 90 per cent of the street currently recommends the stock.
-Automatic Data Processing ( ADP ) ADP has raised its dividend for 50 years in a row, which is the longest streak on this list. While most analysts are not recommending the stock, it handles payroll for many leading businesses and throws off plenty of free cash flow. Buchanan notes it is not a direct AI winner, though it can use AI inside its own operations to widen margins.
-The Ticker Take Regardless of whether it’s an airline or a garbage business, Buchanan hunts for companies that generate cash and have the discipline to keep paying shareholders. That, to him, is the definition of quality.
-Jon Erlichman is a BNN Bloomberg contributor and the host of Ticker Take on YouTube .
-Related Stories 8 must-own stocks for the rest of 2026: Jon Erlichman
-9 stocks powering the AI boom: Jon Erlichman
-7 AI stocks on sale?: Jon Erlichman&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>mention</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.86</wire:confidence>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/ticker-take/2026/10/23/beyond-big-tech-6-quality-dividend-stocks-to-own-jon-erlichman/</wire:canonicalUrl>
-      <wire:evidence>reporting reference, not an exact wire credit: According to Bloomberg</wire:evidence>
+      <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
 </rss>

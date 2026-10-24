@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Amarketscreener.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 24 Oct 2026 08:46:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 13:12:26 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Judge puts off decision on Charlie Kirk murder trial date, media reports</title>
@@ -35,6 +35,21 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.marketscreener.com/news/starboard-value-ceo-jeff-smith-lays-out-case-for-new-bets-ce785cd9dc8bf720</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>What you need to know about the 2026 US midterm elections</title>
+      <link>https://www.marketscreener.com/news/what-you-need-to-know-about-the-2026-us-midterm-elections-ce785cdbd98efe27</link>
+      <guid isPermaLink="false">f28f4b43f785b8b3000cd6b9</guid>
+      <pubDate>Wed, 21 Oct 2026 13:23:00 +0000</pubDate>
+      <description>Early voting has been underway for weeks ahead of the November 3, 2026, midterm elections, when US voters will elect members of the House of Representatives and Senate and governors in states across ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/what-you-need-to-know-about-the-2026-us-midterm-elections-ce785cdbd98efe27</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -170,21 +185,6 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.marketscreener.com/news/teck-receives-strike-notice-at-highland-valley-copper-operation-ce785cd9dd88f624</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Three issues defining the 2026 US midterm elections</title>
-      <link>https://www.marketscreener.com/news/three-issues-defining-the-2026-us-midterm-elections-ce785cd8dd8cf023</link>
-      <guid isPermaLink="false">fb429c8ea52a5223c12d3500</guid>
-      <pubDate>Tue, 20 Oct 2026 12:10:00 +0000</pubDate>
-      <description>WASHINGTON, Oct 20 (Reuters) - President Donald Trump's record-low popularity, voter frustration over the cost of living and a fierce immigration fight are shaping the November 3 midterm elections, ...</description>
-      <wire:foundAt>marketscreener_discovery</wire:foundAt>
-      <wire:platform>MarketScreener</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/news/three-issues-defining-the-2026-us-midterm-elections-ce785cd8dd8cf023</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
