@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Aswissinfo.ch+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 24 Oct 2026 19:19:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 21:48:35 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Novartis’ Kisqali Cuts Death Risk 19% in Breast Cancer Study</title>
@@ -98,21 +98,6 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Stocks Extend Tech-Fueled Gains as Oil Rally Eases: Markets Wrap</title>
-      <link>https://www.swissinfo.ch/eng/stocks-extend-tech-fueled-gains-as-oil-rally-eases%3a-markets-wrap/92248255</link>
-      <guid isPermaLink="false">355c677dac4541bcb1439d5d</guid>
-      <pubDate>Wed, 21 Oct 2026 14:35:00 +0000</pubDate>
-      <description>(Bloomberg) — Stocks extended gains as concerns over an imminent escalation of Middle East hostilities eased. A late-day advance in Brent crude lost steam after the US Department of State clarified ...</description>
-      <wire:foundAt>swissinfo_discovery</wire:foundAt>
-      <wire:platform>SWI swissinfo.ch</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.swissinfo.ch/eng/stocks-extend-tech-fueled-gains-as-oil-rally-eases%3a-markets-wrap/92248255</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
       <title>Europe’s Shift to T+1 Settlement Risks Millions in Daily Fines</title>
       <link>https://www.swissinfo.ch/eng/europes-shift-to-t%2b1-settlement-risks-millions-in-daily-fines/92252248</link>
       <guid isPermaLink="false">225ad51949adfbf54ac418f5</guid>
@@ -200,6 +185,21 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.swissinfo.ch/eng/foreign-affairs/gifts-to-trump-seco-they-were-for-the-american-people/92218806</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Rolex and Gold Were for US and Not Trump, Swiss Trade Chief Says</title>
+      <link>https://www.swissinfo.ch/eng/rolex-and-gold-were-for-us-and-not-trump%2c-swiss-trade-chief-says/92214070</link>
+      <guid isPermaLink="false">52025ed828a4a67ae1ed3126</guid>
+      <pubDate>Wed, 14 Oct 2026 04:28:00 +0000</pubDate>
+      <description>Gifts presented to President Donald Trump by Swiss executives were actually for the American people, according to Bern’s top trade diplomat.</description>
+      <wire:foundAt>swissinfo_discovery</wire:foundAt>
+      <wire:platform>SWI swissinfo.ch</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.swissinfo.ch/eng/rolex-and-gold-were-for-us-and-not-trump%2c-swiss-trade-chief-says/92214070</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>

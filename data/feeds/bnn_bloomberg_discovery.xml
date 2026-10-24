@@ -1,81 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>BNN Bloomberg — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Abnnbloomberg.ca+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 24 Oct 2026 19:19:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 21:48:35 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software</title>
-      <link>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/24/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/</link>
-      <guid isPermaLink="false">1b3fb3947a6f28e2a6ea2397</guid>
-      <pubDate>Sat, 24 Oct 2026 01:10:09 +0000</pubDate>
-      <description>OpenAI said on Friday it had resumed training of its most advanced AI models after tightening security and barring internet access, and disclosed a flaw in a widely used software.</description>
-      <dc:creator>Reuters Staff</dc:creator>
-      <content:encoded>&lt;p&gt;OpenAI said on Friday it had resumed training of its most advanced AI models after tightening security and barring internet access, and disclosed a flaw in a widely used software that it found while testing its defences. The disclosure comes amid concerns over the ability of increasingly capable AI agents to identify and exploit software flaws, including in the guardrails meant to contain them. OpenAI had paused training of its most capable models after one of its research models used a configuration error to gain limited internet access in September. The company said it contained the incident and used the pause to strengthen its defences. To test them, OpenAI had teams of AI agents try to break out of their restricted environments. It said the agents found previously unknown flaws, which it had fixed, and training resumed on Oct. 1. During that exercise, the ChatGPT maker found a flaw in Brotli, a widely used data compression tool. The company said attackers could exploit the flaw by sending malicious data that lets them run their own code on affected systems, including those using popular web software such as Node.js, Bun and Envoy. OpenAI said the root cause was fixed in Brotli’s source code in February, before it was known to create a security vulnerability, but no new version was released at the time. Brotli has since released updated versions and published a public record of the flaw after OpenAI disclosed it. Separately on Thursday, AI safety evaluators METR and Redwood Research said they found several new vulnerabilities in OpenAI’s internal system, including an exploit agents could have used to keep hundreds of their actions from being monitored, in a pilot review earlier this year. OpenAI told the safety organizations it has since patched all vulnerabilities affecting its production safeguards, although METR and Redwood said they had not verified the fixes. OpenAI has been conducting a broad review of its AI models’ activity since the Hugging Face incident in July, and has informed more than 100 organizations about incidents of unauthorized activity tied to its AI agents. (Reporting by Jaspreet Singh in Bengaluru, Chris Thomas in Mexico City; Editing by Pooja Desai and Stephen Coates)&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/24/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/</wire:canonicalUrl>
-      <wire:evidence>structured credit: Reuters Staff</wire:evidence>
-    </item>
-    <item>
-      <title>How Canadian publishers are pushing back against AI</title>
-      <link>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/23/publishers-rely-on-trust-not-tech-to-ensure-books-arent-ai-generated/</link>
-      <guid isPermaLink="false">ba466e145d513fbe641dc87f</guid>
-      <pubDate>Fri, 23 Oct 2026 20:33:35 +0000</pubDate>
-      <description>In the absence of surefire technology to determine whether something was written by artificial intelligence, some Canadian publishers say they have to rely on something nearly as thorny: trust.</description>
-      <dc:creator>The Canadian Press</dc:creator>
-      <content:encoded>&lt;p&gt;TORONTO — In the absence of surefire technology to determine whether something was written by artificial intelligence, some Canadian publishers say they have to rely on something nearly as thorny: trust. Alana Wilcox, the editorial director of Coach House Books, wrote in an email that the company asks writers to be upfront about whether their work contains material generated by AI. She said the existing tools to discern the use of AI have proven unreliable and problematic. “As AI becomes more sophisticated, we don’t imagine the existing tools will become more reliable — it will become more and more difficult to identify AI use,” she wrote. There is renewed attention on the role of artificial intelligence in the book industry after a Quebec publisher cut ties with an author accused of using AI to write his debut novel. Earlier this week, Montreal-based publishing house Les Éditions du Boréal said an analysis of some documents’ metadata found evidence author Thélyson Orélien used AI while writing his novel “C’était ça ou mourir” (“It was either that or dying”). Allegations that Orélien used AI in his book first emerged on social media in September. The author denied using AI to write the book but said he had used it for research. Orélien did not respond to The Canadian Press’ request for comment following the publisher’s announcement on Wednesday. Before the controversy, the novel had been nominated for several major French literary awards and won the Prix du Roman Fnac. It has since been removed from contention for France’s prestigious Prix Goncourt.  Les Éditions du Boréal didn’t specify which metadata showed the AI use. And while the allegations against Orélien illustrate that trust may not always be enough, Wilcox said the Toronto-based Coach House Books doesn’t see much of an alternative. “Our contract asks the author to affirm that their book does not contain AI-generated material. But there is no reliable way to police this: the tools that exist have proven unreliable and problematic in countless ways,” she wrote. “Nor are we interested in supporting systems that were trained on stolen material — our books,” she added, referencing the fact that AI detection tools are, themselves, artificial intelligence. David Caron, the co-publisher of Toronto-based ECW Press, said their author contracts include language around AI use in the warranty clause, which asks an author to guarantee specific facts about their manuscript -- including that the work is original and wholly owned by the writer. “We have to rely on you to tell us what it is that you’ve done and what’s here in your manuscript,” Caron said. ”Our best is what we can do, but we rely on the author to tell us about the things that we don’t know.” Lisa Quinn, president of the Association of Canadian Publishers, said “the publishing industry strongly believes that artistic creation, intellectual creation is a human-centred activity.” But Quinn, who is also the executive director of McGill-Queen’s University Press, said AI technology is a broad descriptor and there is nuance in how assistive AI tools can be used in publishing.  For example, she said there is a significant difference between using assistive AI technology to help in the translation of a sentence for comprehension versus using generative AI to produce a translation of a complex work. “Those uses are radically different … where the AI is in fact a generative AI engaged in the act of writing,” she said. Like Wilcox, Quinn said she has concerns about relying on AI-detection technology because they’re predictive models built on “truthiness rather than truth,” she said. “A perfect answer will not be forthcoming,” Quinn said. “What you will get is a likelihood that something may or may not be the case. And that I think puts writers and publishers in a very, very difficult position.” Quinn said the evolution of AI technology is outpacing the industry’s ability to set policies around it and there are unanswered questions about how to regulate it. “This is where, I think, having clear policy as a publisher is helpful, but it must be built on a relationship of trust and with the human-centred principle very clearly a component of that trust.” This report by The Canadian Press was first published Oct. 23, 2026. Kaitlyn McGrath, The Canadian Press&lt;/p&gt;</content:encoded>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/23/publishers-rely-on-trust-not-tech-to-ensure-books-arent-ai-generated/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Barclays is latest to redirect spending toward AI as it trims its workforce</title>
-      <link>https://www.bnnbloomberg.ca/business/2026/10/23/barclays-is-latest-to-redirect-spending-toward-ai-as-it-trims-its-workforce/</link>
-      <guid isPermaLink="false">99d87386bd840a757feeba0c</guid>
-      <pubDate>Fri, 23 Oct 2026 19:19:44 +0000</pubDate>
-      <description>The cost of building out the infrastructure needed to satisfy booming demand for artificial intelligence is changing the way major companies allocate resources.</description>
-      <dc:creator>The Associated Press</dc:creator>
-      <content:encoded>&lt;p&gt;The cost of building out the infrastructure needed to satisfy booming demand for artificial intelligence is changing the way major companies allocate resources. That can mean an end to some jobs once done by humans. Yet in many cases it means repurposing money once spent on workers so that more capital can be devoted to boosting AI capabilities. Just how much money is being spent on AI is a hot topic as fears of a bubble in the sector grow, but the potential impact on workers in some sectors is clear. Here’s a look at some of the companies that have announced layoffs or hiring reductions this year that are tied in some way to massive spending on AI. Barclays The U.K. bank and financial services company revealed in a quarterly financial report this week that it is looking to cut 5,000 jobs, or about five per cent of its workforce. The company said that it was seeking “organisational simplification and technology change efficiency driven by AI.” Approximately 60 per cent of the cuts will be from support functions, including developers. Financial institutions are among the most active in deploying AI, in many cases at the expense of workers. Norway’s DNB and Commerzbank in Germany have also announced job cuts in parallel with a push into AI. Kroger Kroger said last week that it will lay off 3,000 corporate employees over the next three years as the national grocery chain ramps up its use of artificial intelligence. “Technology is reshaping what’s possible,” CEO Greg Foran wrote in a memo to employees. “The way work gets done is changing across every industry; we must adapt and take advantage of technology. We need to adopt capabilities, reduce duplicative work and look closely at where work is best fit to be done.” Kroger last month outlined its AI strategy, meant “to improve the customer experience, make work easier for associates and produce better business outcomes.” The Cincinnati company is the largest standalone U.S. supermarket chain with 409,000 employees and more than 2,700 stores operating under various brands, including Ralphs, King Soopers, Smith’s and Fred Meyer. Meta The company that runs Facebook and Instagram said it would lay off about 8,000 workers, or about 10 per cent of its workforce, as it continues to ramp up spending on artificial intelligence infrastructure and highly paid AI-expert hires. The company said in April that it was making the cuts for the sake of efficiency and to allow new investments in parts of its business, as first reported by Bloomberg, which also said the company will leave about 6,000 jobs unfilled. Meta had already warned investors that its 2026 expenses will grow significantly — to as much as US$169 billion — driven by infrastructure costs and employee compensation, particularly for the artificial intelligence experts it’s been hiring. Microsoft Software giant Microsoft is offering voluntary buyouts to thousands of its U.S. employees. The company planned to make the offers in early May to about 8,750 people, or 7 per cent of its U.S. workforce, according to two people familiar with the plan who were not authorized to speak about it publicly. Microsoft has spent billions of dollars operating an ever-expanding global network of data centres powering cloud computing services, AI systems and its own suite of productivity tools, including the AI assistant Copilot. Standard Chartered The U.K.-based bank is planning to cut more than 15 per cent of its back office employees by 2030. Standard Chartered said in May that it was “scaling practical uses of automation, advanced analytics and artificial intelligence to streamline processes, improve decision‑making and enhance both client service and internal efficiency.” Coinbase The cryptocurrency trading platform is cutting approximately 14 per cent of its workforce partly due to AI. In a blog post, CEO Brian Armstrong said that AI was changing the way that Coinbase worked. “Over the past year, I’ve watched engineers use AI to ship in days what used to take a team weeks,” he wrote. “Non-technical teams are now shipping production code and many of our workflows are being automated. The pace of what’s possible with a small, focused team has changed dramatically, and it’s accelerating every day.” Armstrong said that the company needed to take action. “We are adjusting early and deliberately to rebuild Coinbase to be lean, fast, and AI-native,” he wrote. Pinterest Pinterest announced in January that it planned to lay off under 15 per cent of its workforce as part of a broader restructuring as the image-sharing platform pivots more of its money to artificial intelligence. In a securities filing, the company said that it was making the cuts to support “transformation initiatives” — which include reallocating resources to AI-focused roles and prioritizing AI-powered products. It said it was also working to reshape its “sales and go-to-market approach.” Snap The owner of social media platform Snapchat is eliminating about 16 per cent of its global workforce, or about 1,000 jobs. “The headcount reduction is designed to further streamline our operations and reallocate resources toward our highest-priority initiatives, leveraging increased operational efficiencies to accelerate our path toward net-income profitability,” the company said in a regulatory filing. CEO Evan Spiegel said in a letter to staff in April that another 300 open roles would not be filled. Block Financial technology company Block is laying off more than 4,000 of its 10,000 plus employees, reconfiguring to capitalize on its use of artificial intelligence. “The core thesis is simple. Intelligence tools have changed what it means to build and run a company,” Jack Dorsey said in a letter to shareholders in Block, the parent company to online payment platforms such as Square and Cash App. “A significantly smaller team, using the tools we’re building, can do more and do it better,” he said. Dorsey’s comments explicitly naming AI as a key driver behind the decision were also posted on X, or Twitter, a company he co-founded. The announcement has sent shares of the company sharply higher this year, up 19 per cent, reversing a 12 per cent decline in the previous year. --- Michelle Chapman, The Associated Press&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>mention</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.86</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/2026/10/23/barclays-is-latest-to-redirect-spending-toward-ai-as-it-trims-its-workforce/</wire:canonicalUrl>
-      <wire:evidence>reporting reference, not an exact wire credit: as first reported by Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>'If you hold all the cards, you don't reshuffle the deck': Trade lawyer on Trump's trade comments</title>
-      <link>https://www.bnnbloomberg.ca/video/investing/2026/10/24/if-you-hold-all-the-cards-you-dont-reshuffle-the-deck-trade-lawyer-on-trumps-trade-comments/</link>
-      <guid isPermaLink="false">319eb4454c28d2f3f102809c</guid>
-      <pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
-      <description>International trade lawyer Barry Appleton says Trump shuffling his tariffs is a sign that his policy 'is starting to find its natural limit.' ...</description>
+      <title>‘Buy himself political favour’, Trump walks back certain tariffs as trade war appears to sway voters</title>
+      <link>https://www.bnnbloomberg.ca/video/live/2026/10/24/buy-himself-political-favour-trump-walks-back-certain-tariffs-as-trade-war-appears-to-sway-voters/</link>
+      <guid isPermaLink="false">bdd64c2255fdbb343f42964d</guid>
+      <pubDate>Sat, 24 Oct 2026 12:29:00 +0000</pubDate>
+      <description>Political commentator Scott Reid discusses the implications of U.S. President Trump’s repeal of certain tariffed items amid the upcoming midterm election.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/10/24/if-you-hold-all-the-cards-you-dont-reshuffle-the-deck-trade-lawyer-on-trumps-trade-comments/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/live/2026/10/24/buy-himself-political-favour-trump-walks-back-certain-tariffs-as-trade-war-appears-to-sway-voters/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software</title>
+      <link>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/24/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/</link>
+      <guid isPermaLink="false">1b3fb3947a6f28e2a6ea2397</guid>
+      <pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
+      <description>OpenAI said on Friday it had resumed training of its most advanced AI models after tightening security and barring internet access, and disclosed a flaw in a widely used software.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/24/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -91,6 +50,21 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/10/24/will-the-new-tariff-exemptions-be-enough-to-help-maine-sen-susan-collins-win-re-election/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>'If you hold all the cards, you don't reshuffle the deck': Trade lawyer on Trump's trade comments</title>
+      <link>https://www.bnnbloomberg.ca/video/investing/2026/10/24/if-you-hold-all-the-cards-you-dont-reshuffle-the-deck-trade-lawyer-on-trumps-trade-comments/</link>
+      <guid isPermaLink="false">319eb4454c28d2f3f102809c</guid>
+      <pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
+      <description>International trade lawyer Barry Appleton says Trump shuffling his tariffs is a sign that his policy 'is starting to find its natural limit.' ...</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/10/24/if-you-hold-all-the-cards-you-dont-reshuffle-the-deck-trade-lawyer-on-trumps-trade-comments/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -139,33 +113,63 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Tariff relief on Canadian products in Maine may not ‘move the needle very much’: former ambassador</title>
-      <link>https://www.bnnbloomberg.ca/video/shows/2026/10/23/tariff-relief-on-canadian-products-in-maine-may-not-move-the-needle-very-much-former-ambassador/</link>
-      <guid isPermaLink="false">332e397ccd50dcdc5eb09912</guid>
-      <pubDate>Fri, 23 Oct 2026 12:40:00 +0000</pubDate>
-      <description>Former Canadian ambassador to the U.S. Frank McKenna says there are still ‘large tariffs in place,’ despite relief coming for some Canadian products in Maine.</description>
+      <title>Regardless of midterms, S&amp;P will be 'up in double digit territory in the next 12 months': Manzi</title>
+      <link>https://www.bnnbloomberg.ca/video/shows/the-close/2026/10/23/regardless-of-midterms-sp-will-be-up-in-double-digit-territory-in-the-next-12-months-manzi/</link>
+      <guid isPermaLink="false">b30f43a6432c6f8c8aeb6f61</guid>
+      <pubDate>Fri, 23 Oct 2026 13:35:00 +0000</pubDate>
+      <description>Tracey Manzi, senior investment strategist at Raymond James, joins BNN Bloomberg to provide a wrap on the markets.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/2026/10/23/tariff-relief-on-canadian-products-in-maine-may-not-move-the-needle-very-much-former-ambassador/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/the-close/2026/10/23/regardless-of-midterms-sp-will-be-up-in-double-digit-territory-in-the-next-12-months-manzi/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>‘We have all the cards’: Trump on stalling trade talks with Canada and Mexico</title>
-      <link>https://www.bnnbloomberg.ca/video/investing/2026/10/23/we-have-all-the-cards-trump-on-stalling-trade-talks-with-canada-and-mexico/</link>
-      <guid isPermaLink="false">5cbcad4682f6e3e18d5e271e</guid>
-      <pubDate>Fri, 23 Oct 2026 08:22:00 +0000</pubDate>
-      <description>U.S. President Trump speaks on the current trade tensions and claims Canada ‘is working very hard’ to make a deal.</description>
+      <title>From a strategic point, US$270 million investment in America 'makes good sense for Bombardier': Lee</title>
+      <link>https://www.bnnbloomberg.ca/video/shows/the-close/2026/10/23/from-a-strategic-point-us270-million-investment-in-america-makes-good-sense-for-bombardier-lee/</link>
+      <guid isPermaLink="false">39ada241d038f50c5a559e38</guid>
+      <pubDate>Fri, 23 Oct 2026 13:23:00 +0000</pubDate>
+      <description>Ian Lee, associate professor at Carleton University, joins BNN Bloomberg to discuss Bombardier's manufacturing future in Canada.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/10/23/we-have-all-the-cards-trump-on-stalling-trade-talks-with-canada-and-mexico/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/the-close/2026/10/23/from-a-strategic-point-us270-million-investment-in-america-makes-good-sense-for-bombardier-lee/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>How Canadian publishers are pushing back against AI</title>
+      <link>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/23/publishers-rely-on-trust-not-tech-to-ensure-books-arent-ai-generated/</link>
+      <guid isPermaLink="false">ba466e145d513fbe641dc87f</guid>
+      <pubDate>Fri, 23 Oct 2026 12:18:00 +0000</pubDate>
+      <description>In the absence of surefire technology to determine whether something was written by artificial intelligence, some Canadian publishers say they have to rely on something nearly as thorny: trust.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/23/publishers-rely-on-trust-not-tech-to-ensure-books-arent-ai-generated/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Rogers seeks to offset hit from CRTC fee ban as wireless service revenue dips in Q3</title>
+      <link>https://www.bnnbloomberg.ca/business/company-news/2026/10/23/rogers-seeks-to-offset-hit-from-crtc-fee-ban-as-wireless-service-revenue-dips-in-q3/</link>
+      <guid isPermaLink="false">08aee14783adf32c0b12426b</guid>
+      <pubDate>Fri, 23 Oct 2026 06:04:00 +0000</pubDate>
+      <description>Rogers Communications Inc. says it is seeking to offset the hit it has taken from the CRTC’s recent ban on telecommunications carriers charging certain administrative fees.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/10/23/rogers-seeks-to-offset-hit-from-crtc-fee-ban-as-wireless-service-revenue-dips-in-q3/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -182,40 +186,6 @@
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/10/23/canadian-jet-maker-bombardier-says-it-plans-new-us270-million-us-investment/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Beyond big tech: 6 quality dividend stocks to own: Jon Erlichman</title>
-      <link>https://www.bnnbloomberg.ca/ticker-take/2026/10/23/beyond-big-tech-6-quality-dividend-stocks-to-own-jon-erlichman/</link>
-      <guid isPermaLink="false">df54c6066964ad727b1d8508</guid>
-      <pubDate>Fri, 23 Oct 2026 03:01:00 +0000</pubDate>
-      <description>In Buchanan’s view, quality companies have steady, recurring revenue, pricing power, and enough cash to keep paying and raising dividends in good times and bad. Dividends, in his opinion, are a kind ...</description>
-      <content:encoded>&lt;p&gt;Quality is one of the most overused words in investing. But what makes a stock a quality stock?
-For Keith Buchanan, one clue is the dividend, and whether a company can keep paying it.&lt;/p&gt;&lt;p&gt;In the latest episode of Ticker Take , I spoke with Buchanan of GLOBALT Investments about how he uses that idea to find quality companies, which leads him to a number of opportunities beyond popular sectors like tech.
-In Buchanan’s view, quality companies have steady, recurring revenue, pricing power, and enough cash to keep paying and raising dividends in good times and bad. Dividends, in his opinion, are a kind of receipt that the business model is working.
-At the same time, Buchanan warns that high dividend yields can look like quality marks, when in fact they are the opposite. When a stock falls, its yield rises even if the company never pays an extra cent, so an unusually big yield can be the market warning you that the payout is in trouble.
-For that reason, Buchanan would rather own a company that can grow a smaller dividend than one that looks generous right before it has to cut.
-Here are six stocks he used to show how to assess quality companies. We have included some of the analyst recommendations, as measured by Bloomberg. As always, this is not financial advice.
-Delta Air Lines ( DAL ) Airlines have a rough history with investors: capital intensive, boom and bust, famous for adding too many seats at the wrong time. However, Buchanan says this cycle is different, with fewer and more global players showing real discipline. He says Delta in particular has been out front on a premium, loyalty-driven model, anchored by its American Express partnership. Delta cut its dividend during the pandemic, before bringing it back in 2023. He thinks the company can keep raising it. And he’s not alone in his bullishness. Nearly every analyst who covers the stock rates it a buy.
-Waste Management ( WM ) There is nothing glamorous about garbage, but trash leads to cash. Whether the economy grows or not, people and businesses keep producing waste, which gives Waste Management steady demand and real pricing power. Buchanan points to the recurring cash that has funded more than 20 straight years of dividend increases. About two-thirds of analysts rate it a buy.
-JPMorgan Chase ( JPM ) Wall Street is split on JPMorgan, with only about half of analysts calling it a buy, but that suits Buchanan just fine. He is willing to pay a premium for the biggest U.S. bank because of the cash the Chase franchise generates and the interest income he expects over the next few years. JPMorgan raised its dividend again this fall, and he says its commitment to that payout has held through every kind of cycle.
-Devon Energy ( DVN ) Energy is about as cyclical as it gets, and producers have little say over the prices they receive, so Buchanan focuses on the people running the company. He liked Devon’s merger with Coterra this year, which created a bigger producer with strong assets and a management team he trusts to ride out the swings and keep returning cash. Devon raised its dividend by roughly a third after the deal closed, and about nine out of every ten analysts rate it a buy.
-Hasbro ( HAS ) Hasbro’s dividend has been flat since 2022, so it would fail a strict dividend-growth screen, but Buchanan keeps it for where he thinks it is headed. The draw is the intellectual property, with franchises such as Magic: The Gathering offering better economics than traditional toys. Pair that with a solid balance sheet, he says, and Hasbro has the capacity to start growing its payout again. According to Bloomberg, more than 90 per cent of the street currently recommends the stock.
-Automatic Data Processing ( ADP ) ADP has raised its dividend for 50 years in a row, which is the longest streak on this list. While most analysts are not recommending the stock, it handles payroll for many leading businesses and throws off plenty of free cash flow. Buchanan notes it is not a direct AI winner, though it can use AI inside its own operations to widen margins.
-The Ticker Take Regardless of whether it’s an airline or a garbage business, Buchanan hunts for companies that generate cash and have the discipline to keep paying shareholders. That, to him, is the definition of quality.
-Jon Erlichman is a BNN Bloomberg contributor and the host of Ticker Take on YouTube .
-Related Stories 8 must-own stocks for the rest of 2026: Jon Erlichman
-9 stocks powering the AI boom: Jon Erlichman
-7 AI stocks on sale?: Jon Erlichman&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>mention</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.86</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/ticker-take/2026/10/23/beyond-big-tech-6-quality-dividend-stocks-to-own-jon-erlichman/</wire:canonicalUrl>
-      <wire:evidence>reporting reference, not an exact wire credit: According to Bloomberg</wire:evidence>
     </item>
   </channel>
 </rss>
