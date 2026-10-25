@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>BNN Bloomberg — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Abnnbloomberg.ca+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 25 Oct 2026 17:50:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 20:34:20 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Parliamentary watchdog releases economic forecast, what’s on the horizon for Canada?</title>
@@ -38,38 +38,19 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>‘Oh my god what a story’: B.C. Conservatives achieve stunning political upset, how did they do it?</title>
-      <link>https://www.bnnbloomberg.ca/video/live/2026/10/25/oh-my-god-what-a-story-bc-conservatives-achieve-stunning-political-upset-how-did-they-do-it/</link>
-      <guid isPermaLink="false">e74995cd8d58e6bcf4887c9b</guid>
-      <pubDate>Sun, 25 Oct 2026 08:21:00 +0000</pubDate>
-      <description>The Sunday Strategy Session discusses how the relatively unknown Lorne Doerkson rose to the rank of Premier in just five weeks and David Eby’s miscalculations.</description>
+      <title>OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software</title>
+      <link>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/24/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/</link>
+      <guid isPermaLink="false">1b3fb3947a6f28e2a6ea2397</guid>
+      <pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
+      <description>OpenAI said on Friday it had resumed training of its most advanced AI models after tightening security and barring internet access, and disclosed a flaw in a widely used software.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/live/2026/10/25/oh-my-god-what-a-story-bc-conservatives-achieve-stunning-political-upset-how-did-they-do-it/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software</title>
-      <link>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/24/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/</link>
-      <guid isPermaLink="false">1b3fb3947a6f28e2a6ea2397</guid>
-      <pubDate>Sat, 24 Oct 2026 01:10:09 +0000</pubDate>
-      <description>OpenAI said on Friday it had resumed training of its most advanced AI models after tightening security and barring internet access, and disclosed a flaw in a widely used software.</description>
-      <dc:creator>Reuters Staff</dc:creator>
-      <content:encoded>&lt;p&gt;OpenAI said on Friday it had resumed training of its most advanced AI models after tightening security and barring internet access, and disclosed a flaw in a widely used software that it found while testing its defences. The disclosure comes amid concerns over the ability of increasingly capable AI agents to identify and exploit software flaws, including in the guardrails meant to contain them. OpenAI had paused training of its most capable models after one of its research models used a configuration error to gain limited internet access in September. The company said it contained the incident and used the pause to strengthen its defences. To test them, OpenAI had teams of AI agents try to break out of their restricted environments. It said the agents found previously unknown flaws, which it had fixed, and training resumed on Oct. 1. During that exercise, the ChatGPT maker found a flaw in Brotli, a widely used data compression tool. The company said attackers could exploit the flaw by sending malicious data that lets them run their own code on affected systems, including those using popular web software such as Node.js, Bun and Envoy. OpenAI said the root cause was fixed in Brotli’s source code in February, before it was known to create a security vulnerability, but no new version was released at the time. Brotli has since released updated versions and published a public record of the flaw after OpenAI disclosed it. Separately on Thursday, AI safety evaluators METR and Redwood Research said they found several new vulnerabilities in OpenAI’s internal system, including an exploit agents could have used to keep hundreds of their actions from being monitored, in a pilot review earlier this year. OpenAI told the safety organizations it has since patched all vulnerabilities affecting its production safeguards, although METR and Redwood said they had not verified the fixes. OpenAI has been conducting a broad review of its AI models’ activity since the Hugging Face incident in July, and has informed more than 100 organizations about incidents of unauthorized activity tied to its AI agents. (Reporting by Jaspreet Singh in Bengaluru, Chris Thomas in Mexico City; Editing by Pooja Desai and Stephen Coates)&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/24/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/</wire:canonicalUrl>
-      <wire:evidence>structured credit: Reuters Staff</wire:evidence>
+      <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
       <title>Regardless of midterms, S&amp;P will be 'up in double digit territory in the next 12 months': Manzi</title>
@@ -189,6 +170,21 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/2026/10/23/us-futures-under-pressure-as-crude-reaches-levels-not-seen-since-may/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Beyond big tech: 6 quality dividend stocks to own: Jon Erlichman</title>
+      <link>https://www.bnnbloomberg.ca/ticker-take/2026/10/23/beyond-big-tech-6-quality-dividend-stocks-to-own-jon-erlichman/</link>
+      <guid isPermaLink="false">df54c6066964ad727b1d8508</guid>
+      <pubDate>Fri, 23 Oct 2026 03:01:00 +0000</pubDate>
+      <description>In Buchanan’s view, quality companies have steady, recurring revenue, pricing power, and enough cash to keep paying and raising dividends in good times and bad. Dividends, in his opinion, are a kind ...</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/ticker-take/2026/10/23/beyond-big-tech-6-quality-dividend-stocks-to-own-jon-erlichman/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
