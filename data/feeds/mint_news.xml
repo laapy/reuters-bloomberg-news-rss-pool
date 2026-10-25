@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Mint — diagnostic source feed</title>
     <link>https://www.livemint.com/rss/news</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 25 Oct 2026 05:08:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 10:03:49 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Audi to invest $4.2 billion in first US factory, plans to build 2 lakh SUVs annually</title>
+      <link>https://www.livemint.com/news/us-news/audi-to-invest-4-2-billion-in-first-us-factory-plans-to-build-2-lakh-suvs-annually-11792917236098.html</link>
+      <guid isPermaLink="false">acd794b50015cc877f57aad6</guid>
+      <pubDate>Sun, 25 Oct 2026 08:43:31 +0000</pubDate>
+      <description>Audi plans to invest $4.2 billion in its first US factory in Georgia, targeting annual production of 2 lakh SUVs and creating around 4,500 jobs. Construction is expected to begin in 2027, with production scheduled to start in the early 2030s.</description>
+      <dc:creator>Pragya Singha Roy</dc:creator>
+      <content:encoded>&lt;p&gt;US President Donald Trump announced on Saturday, October 24, 2026, that German luxury carmaker Audi plans to invest $4.2 billion (around ₹37,000 crore) in a new vehicle assembly plant near Macon, Georgia. It is Audi&amp;#x27;s first car manufacturing plant in the United States and will be able to make 200,000 SUVs a year and about 4,500 jobs.The announcement came ahead of the November 3 US midterm elections, as Trump continues to promote his tariff policies as a way to boost domestic manufacturing. Audi, a subsidiary of Volkswagen Group, confirmed the investment in a statement, stating construction will start in 2027 and production in the early 2030s. The investment comes in the wake of a growing push by foreign car makers to ramp up production in the U.S., Reuters reported.Audi to manufacture premium SUVs in GeorgiaAudi is planning to make some of the biggest SUVs at the proposed plant in Georgia. According to a US official cited by Reuters, the plant is expected to assemble the Audi Q7, Q8 and Q9 models. At the event Audi CEO Gernot Döllner said that the company plans to make its biggest and most expensive SUVs locally, indicating its plans to have a long-term presence in the American market.According to Audi, the investment will help the company consolidate its role as a strong production base in North America, in addition to Europe and China. At present, the company imports all the vehicles sold in the US from Europe or Mexico. Last year, the US tariffs cost Audi some €1.2 billion (around $1.4 billion), according to Reuters.Trump credits tariffs for Audi&amp;#x27;s investmentTrump made the announcement of the proposed factory at a campaign rally in Perry, near Macon, Georgia, on Saturday. He touted the investment as proof that his trade policies were promoting automakers to move to the US.Republican Senator Bernie Moreno also attributed tariffs and regulations for the proposed plant. However, critics argue that higher import duties have increased vehicle prices and created uncertainty around investment decisions. The announcement comes as Democrats push the economy, such as the effects of tariff policy, as a topic in battleground midterm elections.Volkswagen faces global challengesInvestment follows as Volkswagen Group is under pressure from Chinese competition, falling demand in Europe and trade barriers in the US. Reuters reports that sales of Audis are down 7% worldwide in the first half of 2026 and 16% in the U.S.Other car companies are also looking to increase US production. Toyota announced a $3.6 billion investment in a Texas truck assembly facility in July 2026, with completion targeted by 2030 and around 2,000 jobs expected. At the same time, Honda expressed worries about the uncertainty of trade policy, and Hyundai has tied additional U.S. investment in Mexico and Canada with greater clarity on the future of the US-Mexico-Canada Agreement.Audi&amp;#x27;s proposed Georgia plant would be a significant change in the South&amp;#x27;s production strategy, but it is expected to start rolling off the manufacturing line in the early 2030s.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>mint_news</wire:foundAt>
+      <wire:platform>Mint</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.livemint.com/news/us-news/audi-to-invest-4-2-billion-in-first-us-factory-plans-to-build-2-lakh-suvs-annually-11792917236098.html</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: according to Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>

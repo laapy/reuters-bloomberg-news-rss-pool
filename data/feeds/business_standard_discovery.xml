@@ -5,16 +5,34 @@
     <link>https://www.bing.com/news/search?q=site%3Abusiness-standard.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 25 Oct 2026 05:08:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 10:03:49 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>Sinking profits turn China's $3.5 trillion stock rout into a deeper trap</title>
-      <link>https://www.business-standard.com/world-news/sinking-profits-turn-china-s-3-5-trillion-stock-rout-into-a-deeper-trap-126102500055_1.html</link>
-      <guid isPermaLink="false">92cfa0c4c29ba5260ce22e67</guid>
-      <pubDate>Sun, 25 Oct 2026 02:48:06 +0000</pubDate>
-      <description>The world's second-largest equities market has lost $3.5 trillion in value from a peak in May, data compiled by Bloomberg show ...</description>
+      <title>Critical flaw affecting 70% of websites has cybersecurity world panicked</title>
+      <link>https://www.business-standard.com/world-news/critical-flaw-affecting-70-of-websites-has-cybersecurity-world-panicked-126102500328_1.html</link>
+      <guid isPermaLink="false">6d24817a231eff0c771619c7</guid>
+      <pubDate>Sun, 25 Oct 2026 09:17:41 +0000</pubDate>
+      <description>Emergency patches have been released for the vulnerability in PHP, which powers more than 70% of websites, as governments and operators warn of risks and urge developers to update systems ...</description>
+      <dc:creator>The Conversation</dc:creator>
+      <content:encoded>&lt;p&gt;Details have been published of a critical flaw in the programming language PHP, which is the backbone of more than 70% of all websites. Left unfixed, the flaw would allow hackers to easily take over and compromise millions of websites and the information held on their servers. In response, multiple European governments and operators including the Port of Rotterdam have taken websites offline. The Australian Signals Directorate, America’s Cyber Defence Agency, and similar bodies from the United Kingdom, Europe and Japan have all warned web developers to apply urgent updates to their core systems, and to consider taking down websites until safety can be guaranteed.The organisation behind the free, open-source language has published updates that patch the flaw, but performing the updates on the millions of systems that use PHP will take time.What is PHP?PHP is often called “the backbone of the web”. It’s a programming language – a way to give instructions to computers – that has been around since 1997, and it allows websites to manage user inputs and process information behind the scenes.The power of PHP is its versatility. Websites use it for everything from logging users into accounts and running online stores, to requesting data from databases and powering millions of blog posts and news sites.PHP runs on the server rather than your personal computer. This means most of us interact with PHP every single day without ever seeing it.A timeline of concernsIn August, a cybersecurity researchers from a company called Wiz used their own tools and the latest versions of Google’s Gemini and OpenAI’s ChatGPT AI models to trawl through PHP’s massive codebase.The Wiz team were searching for hidden programming weaknesses that an attacker could chain together to take over a system running PHP simply by sending a carefully crafted request over the internet.Within a few days, they found ways to break into PHP-powered systems from Drupal and WordPress which are used in huge swathes of the web.Wiz contacted the PHP security team to let them know about the flaws they had found. By late September, the PHP developers confirmed that the issue existed, and quietly began working on a fix.In cybersecurity, the responsible thing to do when you find a bug is to keep it private until a patch is ready. This is because public disclosure could provide a detailed map for hackers to exploit.This appears to be what the PHP developers were planning. However, yesterday a user on popular industry website Hacker News let news slip about the security flaws before any patches were ready.Following the leak, PHP’s developers rushed to publicly confirm the issue on October 21, releasing emergency patches ahead of schedule.Implementing the patches is far from simple. Because PHP sits underneath thousands of third-party plugins, frameworks and managed hosting services, websites are only secure once every individual layer of the supply chain integrates and deploys the PHP fix.Why does this keep happening?Much of the internet is built on foundational technologies that were developed and maintained by hobbyist developers. Many rely on goodwill and donations rather than robust corporate funding.Many of these tools were first developed decades ago. They were never designed to safely support a world where millions of websites and billions of devices use them to handle sensitive and private data.Compounding this issue is the fact that maintenance is rarely a priority for organisations. All too often, companies have only the most basic knowledge about all the pieces of their supply chains – either physical or digital.Even in high profile cases such as this one, many businesses don’t even realise what software they depend on, let alone have any idea of how secure it actually is.What should you do?This issue is mainly one for people who maintain websites or manage technical infrastructure. For those people, the priority is clear: patch systems immediately when updates are available, and consider taking down critical systems from the internet until you can be confident about their security.For everyday internet users, these vulnerabilities affect the servers hosting websites rather than your personal device. However, because some sites may be temporarily compromised before they can patch, it is wise to be cautious about entering sensitive personal data on unfamiliar websites over the next few days.Major cloud providers and security firms are rolling out emergency filters, but the global scramble to secure the web is just beginning.Cybersecurity teams around the world are rushing to contain the damage. But the scope of this issue should be a wake-up call.Governments and businesses cannot ignore the resilience of their digital supply chains. Just as manufacturers track the suppliers of the physical components they depend upon, we should expect that digital infrastructure also traces every system and framework it depends on.Gathering this information is the first step for businesses and governments to truly understand how heavily their digital viability relies on underfunded, volunteer-maintained code. Until businesses treat funding open-source foundational tools as a critical security investment rather than a charity, these vulnerabilities will keep happening.&lt;/p&gt;</content:encoded>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.business-standard.com/world-news/critical-flaw-affecting-70-of-websites-has-cybersecurity-world-panicked-126102500328_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Britain's migration clampdown puts fear into $20 billion care sector</title>
+      <link>https://www.business-standard.com/world-news/britain-s-migration-clampdown-puts-fear-into-20-billion-care-sector-126102500246_1.html</link>
+      <guid isPermaLink="false">8de1e4a966f455925eee2abc</guid>
+      <pubDate>Sun, 25 Oct 2026 07:52:18 +0000</pubDate>
+      <description>Roughly one-third of workers in the UK's wider adult care sector are migrants, according to the Work Rights Centre ...</description>
       <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;By Jeanny Yu Pessimism has gripped Chinese stocks, with no end in sight for a deepening selloff as investors confront the realities of an economy that’s weak enough to erode corporate profits but not to trigger forceful new stimulus. The world’s second-largest equities market has lost $3.5 trillion in value from a peak in May, data compiled by Bloomberg show. The rout intensified last week, pushing the onshore benchmark CSI 300 Index into a bear market and a technology sector gauge in Hong Kong toward erasing all its gains since Beijing’s sweeping growth support package two years ago. At the heart of investor gloom is an unsettling realization that a protracted consumption slump and the race-to-the-bottom mentality among businesses is taking a heavier toll on earnings across industries from banks to electric car makers and AI model developers. Further darkening the outlook is the growing perception that Chinese leaders are in no rush to jump-start an economy that is slowing but at a tolerable speed.  “It is too early to conclude that the worst is over,” said Ulrich Urbahn, head of multi-asset strategy and research at Berenberg. “The biggest concern remains profitability: China’s strength in production and exports is not translating consistently into stronger domestic demand, pricing power and corporate earnings.” The third-quarter reporting season got off a disappointing start, with battery giant Contemporary Amperex Technology Co. Ltd., or CATL, suffering a profit miss that was symptomatic of both weak demand and fierce competition.   The consensus 2026 earnings forecasts for the MSCI China Index members has declined by over 4% since the end of March, according to data compiled by Bloomberg. The Hang Seng Tech Index, dominated by Chinese Internet firms mired in e-commerce price wars, has seen profit projections plunge more than 13% during the period. Yet even against the lowered expectations, the MSCI China’s constituents that have released results have missed consensus forecasts by an average of 9%, set for the second worst quarterly miss in two years, according to Bloomberg calculations. Among them, AI infrastructure builder China Mobile Ltd.’s January-September net profit tumbled 8% on year amid cost pressures, while major materials firm Ganfeng Lithium Group Co. also missed estimates on falling prices.  “CATL is the best poster child of what’s going on: great innovative company that’s doing great things but a victim of cut-throat competition and margin squeeze,” said Jason Lemire, chief investment officer at Bold Wealth Partners. “Competition is encouraged and generally brutal in China, not shareholder friendly.” Profit SqueezeThe earnings pressure has left companies, particularly China’s Internet behemoths that are in a tense race to fund costly AI infrastructure build-outs, increasingly out of cash. That has forced some of them to tap the equities market to raise funds, such as Alibaba Group Holding Ltd.’s $10 billion follow-on stock sale, which further diluted share value.  “I’d always weigh Japan, Korea and Taiwanese firms over China because they have better earnings,” said Stanley Tang, senior portfolio manager at Sumitomo Mitsui DS Asset Management. “If you ask me what China can do, hard to think of any - even further localization of tech may not help to boost share prices.”   Weakening investor confidence is also showing up via other measures. Turnover in China’s onshore stock market is hovering near the lowest level since July last year, while the outstanding amount of margin trades — bets funded by borrowed cash — fell to the least in a year. To be sure, the slumping market has already prompted authorities to mobilize state funds known as the national team to prevent stock prices from spiraling out of control.  Meanwhile, the recent rout has boosted the appeal of Chinese equities to some investors. Bridgewater Associates’ China arm, for one, said it has turned “prudently optimistic” on local stocks, saying the declines in the third quarter were largely driven by liquidity while valuations aren’t high. It also argued that policy favors long-term capital formation and more money may flow into equities given low bond yields.  Still, skepticism abounds that while the national team’s rescue efforts may be a temporary fix, the market’s long-term prospect remains dim given policymakers’ reluctance to adopt big-bang stimulus measures to accelerate economic growth.  China’s third-quarter gross domestic product grew 4.5% from a year ago, nudging expansion in the first nine months back into the government’s annual goal of 4.5%-5%. That target-meeting performance has given authorities more reason to stick to a drip-feed style of growth support, without compromising fiscal discipline or further reducing historically low borrowing costs. “Policymakers are comfortable with the nature of economic growth,” said William Bratton, head of cash equity research for Asia Pacific at BNP Paribas. “As a result, either because they’re consciously keeping it in reserve or because philosophically they don’t believe in it, there’s no urgency to use fiscal measures to promote large scale consumption.”&lt;/p&gt;</content:encoded>
+      <content:encoded>&lt;p&gt;By Lucy White In Britain, the government ensures that more than 650,000 vulnerable people receive daily visits from carers who help them wash, eat and attend to any medical conditions. That same government’s crackdown on immigration is putting the sector at risk. Roughly one-third of workers in the UK’s wider adult care sector are migrants, according to the Work Rights Centre. Around 280,000 came to the country under a Health and Care Visa between February 2022 and July 2025, a route that has since been suspended by the Labour government over fears it was being abused. Holders of the visas brought with them 429,200 dependents, many of whom also ended up working in the care sector. At the time the visa was suspended, Labour — under then-prime minister Keir Starmer — lagged far behind Nigel Farage’s far-right Reform UK in voter surveys. With migration high on voters’ concerns, the ruling party in September 2025 tasked a new home secretary, Shabana Mahmood, with introducing even greater restrictions on new arrivals as well as non-citizens already working in the UK. The government has signaled that, from July 2028, migrants will no longer be able to renew their Health and Care Visa, and instead will have to transfer to a Skilled Worker route. That carries a much higher salary requirement, and domiciliary care businesses — many of whom rely on contracts from local authorities — say they don’t get enough funding to cover paychecks of that scale.  “I will have to either downsize or just sell to a corporation,” said Shweta Maulayah, a managing director of a small care business called Maucare. “This is something that I built with passion, but I would not be able to financially keep it afloat.” The 2028 date looms large for many businesses and workers in the domiciliary care and supported living sector, which combined is worth around £15 billion ($20 billion), and their jitters are being heightened by Mahmood’s so-called “earned settlement” proposals.  Under current rules, a person arriving in Britain must stay for five years before they can apply for settlement, meaning most carers who came in 2022 and early 2023 would be eligible by the time the Health and Care Visa expires. But now Mahmood is proposing that the five-year baseline should be extended to 10 years, with reductions for high earners and those who make exceptional contributions to society through volunteering. Maulayah started recruiting from abroad in January 2023, and so has several staff who wouldn’t be eligible for settlement under those terms before the July 2028 visa deadline. “How am I going to keep them if it goes to 10 years?” she asked.Labour PoliticsPrime Minister Andy Burnham is leaning toward excluding care workers from the extension, according to a report in the Times newspaper, though it’s unclear whether the Home Office would support exemptions for people with Health and Care Visas.  Some Labour backbenchers object to the application of the new rules to people already in the country. Bloomberg reported in March that more than 100 parliamentarians signed a private letter urging the home secretary to rethink her plans. Left-leaning Labour lawmakers have made a set of demands, according to one person familiar with the matter, including that the new timelines for settlement shouldn’t be applied retroactively, that people from the same household should be able to benefit from the same timeline, and that the maximum timeline to claim settled status should be seven years. Cabinet ministers including Energy Secretary Miatta Fahnbulleh and Housing Secretary Angela Rayner have also refused to publicly back Mahmood’s reforms. Mike Tapp, a former Home Office minister who worked with Mahmood on the proposals, has also called for an exemption for care workers. During Labour’s annual conference last month the home secretary gave a first hint that she was rethinking aspects of her reforms. “I know that, throughout our consultation process, some have said elements of these reforms are not fair,” she said. “We will come to a position that balances fairness for those who came here legally and fairness to British citizens across this country.” But that might come too late for some care firms. One owner of a domiciliary care business in the south of England, who was granted anonymity discussing commercial matters, said the uncertainty has prompted her to explore options to sell her firm or wind it up. Even if exemptions from Mahmood’s reforms were introduced for care workers, she worried that current restrictions on hiring workers from abroad ultimately made her business unsustainable, as she’d find it hard to hire British staff willing to work at the pay levels her contracts with the local authority allow. Maulayah faces the same dilemma. “We’re not getting a lot of locals joining this industry,” she said. “Even youngsters that go to career fairs, they’re not that interested because they feel that care is a low-skilled job. One of them said to me, ‘I’d rather stack shelves in Tesco,’” she said, referring to the Tesco Plc supermarket chain. Back in 2022, the industry was crying out for more staff. Thousands of workers from European Union countries had left the UK following Brexit, while its aging population meant there was relentless demand.  But, following an influx from countries such as India and Nigeria, it emerged that unscrupulous care agencies were abusing the sponsored visa route. A Bloomberg investigation last year revealed that many carers who entered the UK to work in good faith were being charged tens of thousands of pounds for their visa by the business who was supposed to be sponsoring them, but that there was no job for them when they arrived in the country.  Speaking to journalists on Friday, Burnham stopped short of committing to all of Mahmood’s proposals. “We’ve been consulting on those reforms, and we will come forward with our decisions soon,” the PM said. “But I strongly support the Home Secretary when she says that settlement is a right to be earned through contribution.” Proposals are expected next month. A spokesperson for the Home Office didn’t respond to requests from Bloomberg for comment.&lt;/p&gt;</content:encoded>
       <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
@@ -23,8 +41,82 @@
       <wire:confidence>0.99</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.business-standard.com/world-news/sinking-profits-turn-china-s-3-5-trillion-stock-rout-into-a-deeper-trap-126102500055_1.html</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.business-standard.com/world-news/britain-s-migration-clampdown-puts-fear-into-20-billion-care-sector-126102500246_1.html</wire:canonicalUrl>
       <wire:evidence>structured credit: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Carlsberg India revenue slips to ₹8,708.8 cr in FY26, profit rises 22%</title>
+      <link>https://www.business-standard.com/companies/quarterly-results/carlsberg-india-revenue-slips-to-8-708-8-cr-in-fy26-profit-rises-22-126102500107_1.html</link>
+      <guid isPermaLink="false">8ef3e7940c459f62b3befb7f</guid>
+      <pubDate>Sun, 25 Oct 2026 05:59:19 +0000</pubDate>
+      <description>The company's total income, including other income, declined 2.25 per cent to ₹8,814.96 crore in the financial year ended March 2026 ...</description>
+      <dc:creator>Press Trust of India</dc:creator>
+      <content:encoded>&lt;p&gt;IPO-bound brewer Carlsberg India has reported a 2.2 per cent decline in its revenue to ₹8,708.8 crore for FY26; however, its profit rose 22 per cent to ₹534.51 crore. The company&amp;#x27;s total income, including other income, declined 2.25 per cent to ₹8,814.96 crore in the financial year ended March 2026, according to financial data accessed through business intelligence platform Tofler. Carlsberg India Ltd, part of Danish brewing major Carlsberg Group, had reported revenue from operations of ₹8,906.50 crore and a profit of ₹437.94 crore in FY25. The company, which operates in India with popular beer brands such as Tuborg, Carlsberg Elephant and Kronenbourg 1664 Blanc, in July 2026 filed confidential papers with capital markets regulator SEBI for a proposed initial public offering (IPO) and received approval on October 1, 2026. It is preparing for a public listing, which, according to reports, could raise up to USD 700 million. Carlsberg India&amp;#x27;s royalty paid to its parent entity was up 13.23 per cent to ₹90.01 crore in FY26. Expenses on excise duty paid to governments declined by around 12 per cent in the financial year ended March 2026. It stood at ₹4,816.83 crore in FY26, compared with around ₹5,468.24 crore in the preceding financial year. Carlsberg India&amp;#x27;s &amp;#x27;Marketing and Publicity Expenses&amp;#x27; were down 2.24 per cent to ₹69.22 crore. However, its expenses on &amp;#x27;Sales Promotion&amp;#x27; were up 42.62 per cent to ₹848.71 crore compared with ₹595.07 crore in FY25. Total expenses for Carlsberg India were down 4 per cent to ₹8,090.81 crore in FY26. It was ₹8,426.23 crore in the financial year ended March 2025. South Asian Breweries Pte Ltd, Singapore, holds a 100 per cent stake in Carlsberg India Ltd. It is a subsidiary of Carlsberg South Asia Pte Ltd, which serves as the holding company for Carlsberg India.&lt;/p&gt;</content:encoded>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.business-standard.com/companies/quarterly-results/carlsberg-india-revenue-slips-to-8-708-8-cr-in-fy26-profit-rises-22-126102500107_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>India slams Pakistan at UN, says military remains country's 'real rulers'</title>
+      <link>https://www.business-standard.com/world-news/india-slams-pakistan-at-un-says-military-remains-country-s-real-rulers-126102500180_1.html</link>
+      <guid isPermaLink="false">740ccda1cbefec31287a516a</guid>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <description>India's representative accused Islamabad of deflecting attention from economic distress and human rights violations, while rejecting Pakistan's claims on Jammu and Kashmir ...</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.business-standard.com/world-news/india-slams-pakistan-at-un-says-military-remains-country-s-real-rulers-126102500180_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Q2 results, US Fed decision, crude oil may drive stock markets this week</title>
+      <link>https://www.business-standard.com/markets/news/q2-results-us-fed-decision-crude-oil-may-drive-stock-markets-this-week-126102500192_1.html</link>
+      <guid isPermaLink="false">4275cf0f0a047b9f228eb18c</guid>
+      <pubDate>Sat, 24 Oct 2026 23:50:00 +0000</pubDate>
+      <description>Besides, Jio Platforms' market debut, trading activity of foreign investors and global trends would also dictate investors' sentiment ...</description>
+      <content:encoded>&lt;p&gt;Home / Markets / News / Q2 results, US Fed decision, crude oil may drive stock markets this week&lt;/p&gt;&lt;p&gt;Q2 results, US Fed decision, crude oil may drive stock markets this week Besides, Jio Platforms&amp;#x27; market debut, trading activity of foreign investors and global trends would also dictate investors&amp;#x27; sentiment&lt;/p&gt;&lt;p&gt;In a holiday-shortened last week, the 30-share BSE Sensex tumbled 1,605.44 points, or 2.15 per cent, while the 50-share NSE Nifty slumped 546.15 points, or 2.36 per cent | Image: Bloomberg&lt;/p&gt;&lt;p&gt;Press Trust of India New Delhi 3 min read Last Updated : Oct 25 2026 | 12:20 PM IST&lt;/p&gt;&lt;p&gt;Listen to This Article&lt;/p&gt;&lt;p&gt;Quarterly earnings, the US Fed interest rate decision, movement in crude oil and developments related to West Asia tensions will be the key divers for stock markets this week, analysts said.
+  Besides, Jio Platforms&amp;#x27; market debut, trading activity of foreign investors and global trends would also dictate investors&amp;#x27; sentiment, they added.
+  &amp;quot;Investors will track September industrial production and manufacturing output data on October 28. Corporate earnings will remain a key driver, with TVS Motor, Asian Paints, Trent, Sun Pharma, Bharat Electronics, Indian Oil, Bank of Baroda and GAIL India, among others, scheduled to announce their results,&amp;quot; Ajit Mishra, SVP - Research, Religare Broking, said.&lt;/p&gt;&lt;p&gt;The US Federal Reserve&amp;#x27;s interest rate decision on Wednesday, October 28, will be the key global event, he said, adding that investors will closely examine the policy statement and accompanying commentary for signals on the future interest rate trajectory.
+  &amp;quot;Movements in US Treasury yields, crude oil prices, geopolitical developments and broader global risk appetite will also influence domestic market direction,&amp;quot; Mishra added.
+Also Read&lt;/p&gt;&lt;p&gt;Stock Market Close: Sensex falls for 4th day, ends 126 pts lower; Nifty at 22,600; VIX rises 6%&lt;/p&gt;&lt;p&gt;Shree Cement rebounds, gains over 5% from day&amp;#x27;s low post Q2 results&lt;/p&gt;&lt;p&gt;MSCI India rejig: JM Financial sees 3 inclusions, 2 exits &amp;amp; $1.4 bn inflows&lt;/p&gt;&lt;p&gt;Swiggy slumps 15% to new low as Q2 below expectations, analysts cut targets&lt;/p&gt;&lt;p&gt;Zetwerk shares debut at 5% premium over IPO price, beat expectations&lt;/p&gt;&lt;p&gt;&amp;quot;The US Federal Reserve&amp;#x27;s October 27-28 meeting will be the principal global trigger. Markets largely expect rates to remain unchanged, making the policy guidance more important than the decision itself. A continued focus on inflation could push US yields and the dollar higher and keep foreign flows into emerging markets under pressure, while balanced guidance may support a temporary recovery in global equities,&amp;quot; Hariselvan Radhakrishnan, Founder &amp;amp; CEO of HST Wealth, a Research Analyst firm, said.&lt;/p&gt;&lt;p&gt;Domestically, industrial production data and quarterly earnings will determine whether India&amp;#x27;s resilient growth outlook can counter the external pressure, he said.
+  Meanwhile, Jio Platforms shares are scheduled to debut on the stock exchanges on October 28 and will be a key sentiment trigger for the primary market.
+  &amp;quot;Crude oil remains a central concern. Prices at elevated levels amid escalating geopolitical tensions threaten to push up India&amp;#x27;s energy import bill, complicate the inflation outlook and add pressure on the rupee and corporate margins. 
+  The US Federal Reserve&amp;#x27;s upcoming monetary policy meeting will be another key event for global markets. Investors will look for signals on the interest rate outlook, particularly as elevated US Treasury yields continue to influence the dollar and global risk appetite,&amp;quot; Ponmudi R, CEO - Enrich Money, an online trading and wealth tech firm, said.&lt;/p&gt;&lt;p&gt;In a holiday-shortened last week, the 30-share BSE Sensex tumbled 1,605.44 points, or 2.15 per cent, while the 50-share NSE Nifty slumped 546.15 points, or 2.36 per cent.&lt;/p&gt;&lt;p&gt;More From This Section&lt;/p&gt;&lt;p&gt;FPIs withdraw ₹48,056 crore from equities in Oct amid elevated oil prices&lt;/p&gt;&lt;p&gt;Utssav CZ Gold Jewels approves 1:1 bonus issue, to double equity capital&lt;/p&gt;&lt;p&gt;Sebi reviews short selling, SLB rules; plans AI sandbox, bond market-making&lt;/p&gt;&lt;p&gt;NSE reviewing network vulnerabilities as AI cyber threats rise: Chauhan&lt;/p&gt;&lt;p&gt;Sebi mulls automatic approval for investments, activities by exchanges&lt;/p&gt;&lt;p&gt;Topics : Stock Market stock markets Indian stock market Indian stock markets
+Buzzing : Stock Market Live Stocks to Watch Muhurat Trading 2026 Gold Silver Price Today Q2 Results Today Bonfiglioli Transmissions shares Sahajanand Medical shares Stock Market Crash Swiggy Share Price&lt;/p&gt;&lt;p&gt;Don&amp;#x27;t miss the most important news and views of the day. Get them on our Telegram channel
+First Published: Oct 25 2026 | 12:20 PM IST&lt;/p&gt;</content:encoded>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.business-standard.com/markets/news/q2-results-us-fed-decision-crude-oil-may-drive-stock-markets-this-week-126102500192_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Brown-Forman aims to make India a top 10 market for Scotch in five years</title>
+      <link>https://www.business-standard.com/companies/news/brown-forman-aims-to-make-india-a-top-10-market-for-scotch-in-five-years-126102500116_1.html</link>
+      <guid isPermaLink="false">3a1eb12e6311464bbb2a8192</guid>
+      <pubDate>Sat, 24 Oct 2026 23:16:00 +0000</pubDate>
+      <description>Brown-Forman, known for its iconic brands such as Jack Daniel's and Woodford Reserve, sees a scale of opportunity in the Indian Scotch market ...</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.business-standard.com/companies/news/brown-forman-aims-to-make-india-a-top-10-market-for-scotch-in-five-years-126102500116_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
       <title>Barack Obama targets 'spineless Congress' in push for Democrat El-Sayed</title>
@@ -46,23 +138,13 @@
       <link>https://www.business-standard.com/world-news/trump-weighs-fresh-iran-strikes-as-he-keeps-prospect-of-a-deal-open-126102500072_1.html</link>
       <guid isPermaLink="false">db43dd2d5f248efb7cc0ea27</guid>
       <pubDate>Sat, 24 Oct 2026 20:56:00 +0000</pubDate>
-      <description>US President Donald Trump bristled when asked how far he was from a possible attack on Iran. He recently said on social media he would not hit Iran again before the Nov 3 midterm elections. "Do you ...</description>
-      <content:encoded>&lt;p&gt;Home / World News / Trump weighs fresh Iran strikes as he keeps prospect of a deal open&lt;/p&gt;&lt;p&gt;Trump weighs fresh Iran strikes as he keeps prospect of a deal open He recently said on social media he would not hit Iran again before the Nov 3 midterm elections&lt;/p&gt;&lt;p&gt;Anxiety has been growing in Iran and elsewhere that the US or Israel will resume attacks before or just after Tuesday&amp;#x27;s elections in Israel or the US midterm elections (Photo: Reuters)&lt;/p&gt;&lt;p&gt;AP Washington 2 min read Last Updated : Oct 25 2026 | 9:26 AM IST&lt;/p&gt;&lt;p&gt;Listen to This Article&lt;/p&gt;&lt;p&gt;US President Donald Trump bristled when asked how far he was from a possible attack on Iran.
-  He recently said on social media he would not hit Iran again before the Nov 3 midterm elections.
-  &amp;quot;Do you really think I&amp;#x27;m going to tell you if I&amp;#x27;m going to do it?&amp;quot; Trump told reporters here on Saturday.
-  &amp;quot;And there&amp;#x27;s a possibility I will. There&amp;#x27;s also a possibility we&amp;#x27;ll have a nice, big, beautiful agreement,&amp;quot; he said in response to a question.  
-Trump repeated his assertion that Iran wants to make a deal, &amp;quot;but the problem is, will they hold the deal?&amp;quot;
-Also Read&lt;/p&gt;&lt;p&gt;Kim Jong Un visits China again in over a year ahead of Trump&amp;#x27;s Asia visit&lt;/p&gt;&lt;p&gt;US reducing staffing at 4 West Asian embassies over threats from Iran&lt;/p&gt;&lt;p&gt;US intel warns of Iranian threats to American diplomats in West Asia&lt;/p&gt;&lt;p&gt;First Russian diesel shipment since 2022 heads to US under Trump-Putin deal&lt;/p&gt;&lt;p&gt;Trump says Musk restored Ukraine&amp;#x27;s Starlink access, dodges call question&lt;/p&gt;&lt;p&gt;Meanwhile, Iranian President Masoud Pezeshkian accused Washington of disrupting negotiations to end the war but said he still believes &amp;quot;we have to go and finish it&amp;quot;.&lt;/p&gt;&lt;p&gt;In comments aired on state television, he said Iran&amp;#x27;s supreme leader had instructed Iranian officials to &amp;quot;go and finish it (the deal),&amp;quot; but &amp;quot;these scoundrels broke the rules of the game. We were holding talks, and they disrupted them&amp;quot;.
-  Anxiety has been growing in Iran and elsewhere that the US or Israel will resume attacks before or just after Tuesday&amp;#x27;s elections in Israel or the US midterm elections.&lt;/p&gt;&lt;p&gt;More From This Section&lt;/p&gt;&lt;p&gt;Yemen&amp;#x27;s Houthis say they targeted Saudi oil sites, attacks reported in Aden&lt;/p&gt;&lt;p&gt;Sinking profits turn China&amp;#x27;s $3.5 trillion stock rout into a deeper trap&lt;/p&gt;&lt;p&gt;Soldiers guard centre of Milan as thousands protest across European cities&lt;/p&gt;&lt;p&gt;Israelis hold final rally against Netanyahu ahead of consequential election&lt;/p&gt;&lt;p&gt;Musk says he was behind Starlink speed curbs after Ukraine service restored&lt;/p&gt;&lt;p&gt;Topics : Donald Trump Israel Iran Conflict US-Iran tensions US Iran tensions
-Buzzing : Stock Market Live Stocks to Watch Muhurat Trading 2026 Gold Silver Price Today Q2 Results Today Bonfiglioli Transmissions shares Sahajanand Medical shares Stock Market Crash Swiggy Share Price&lt;/p&gt;&lt;p&gt;Don&amp;#x27;t miss the most important news and views of the day. Get them on our Telegram channel
-First Published: Oct 25 2026 | 9:26 AM IST&lt;/p&gt;</content:encoded>
+      <description>In comments aired on state television, he said Iran's supreme leader had instructed Iranian officials to "go and finish it (the deal)," but "these scoundrels broke the rules of the game. We were ...</description>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.business-standard.com/world-news/trump-weighs-fresh-iran-strikes-as-he-keeps-prospect-of-a-deal-open-126102500072_1.html</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
@@ -72,30 +154,28 @@ First Published: Oct 25 2026 | 9:26 AM IST&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">39c2f3d2964ba1cd5f9dbd51</guid>
       <pubDate>Sat, 24 Oct 2026 19:58:00 +0000</pubDate>
       <description>Yemen's Saudi-backed government said the Houthis also fired three ballistic missiles at coast guard sites in the southern Yemeni port city of Aden ...</description>
-      <content:encoded>&lt;p&gt;Home / World News / Yemen&amp;#x27;s Houthis say they targeted Saudi oil sites, attacks reported in Aden&lt;/p&gt;&lt;p&gt;Yemen&amp;#x27;s Houthis say they targeted Saudi oil sites, attacks reported in Aden Yemen&amp;#x27;s Saudi-backed government said the Houthis also fired three ballistic missiles at coast guard sites in the southern Yemeni port city of Aden&lt;/p&gt;&lt;p&gt;The escalation has opened another front in the US-Israeli war on Iran | Image: Reuters&lt;/p&gt;&lt;p&gt;Reuters 3 min read Last Updated : Oct 25 2026 | 8:28 AM IST&lt;/p&gt;&lt;p&gt;Listen to This Article&lt;/p&gt;&lt;p&gt;Yemen&amp;#x27;s Iran-allied Houthis said they launched attacks on Saudi oil facilities and airports on Saturday, and the Saudi-led coalition fighting the group said it downed two missiles, as clashes between the two sides intensified.
-  On another front of an escalating conflict reignited by the Iran war, Yemen&amp;#x27;s Saudi-backed government said the Houthis also fired three ballistic missiles at coast guard sites in the southern Yemeni port city of Aden.
-  Saudi authorities did not comment directly on the Houthi statements, though they reported missile debris falling near the site of one of the purported oil targets. It was not immediately clear if any of the reported attacks had hit their targets in the kingdom or had been intercepted.&lt;/p&gt;&lt;p&gt;Saudis report debris from intercepted missiles  
-Houthi military spokesperson Yahya Saree said the group targeted King Khalid International Airport in Riyadh, an Aramco facility in Yanbu, the Rabigh oil refinery, crude oil pumping stations and the East-West Pipeline.
-Also Read&lt;/p&gt;&lt;p&gt;IndiGo extends cancellation of flights to Saudi Arabia: Indian Embassy&lt;/p&gt;&lt;p&gt;14 nationals on board a yacht off Yemen coast safe, says Indian embassy&lt;/p&gt;&lt;p&gt;India coordinating with airlines for return of Saudi pilgrims: MEA&lt;/p&gt;&lt;p&gt;Indian national killed, 2 hurt in attack on Saudi Arabia&amp;#x27;s Dammam airport&lt;/p&gt;&lt;p&gt;Saudi Arabia seeks access to foreign strategic oil reserves for Aramco&lt;/p&gt;&lt;p&gt;He also said the group targeted King Fahd International Airport in Dammam, an airport in Najran and an airbase in Khamis Mushait.  
-The Saudi-led coalition earlier said it destroyed two ballistic missiles fired by Houthis towards Yanbu and Taif.
-  Saudi Civil Defence said debris from intercepted missiles had fallen in the Mecca and Medina regions, home to Islam&amp;#x27;s holiest sites visited by millions of Muslim pilgrims every year.&lt;/p&gt;&lt;p&gt;It said parts of the intercepted missiles fell in Wadi al-Mughammas in Mecca, while debris also fell in areas in Jeddah, Taif and Rabigh. It was not clear if that was linked to the Houthis&amp;#x27; reported targeting of the Rabigh oil refinery.
-  Shortly after that, Houthis denied that they attacked Mecca and Medina, saying that their operations &amp;quot;target Saudi oil facilities and military bases.&amp;quot;
-  The renewed fighting has shattered a 2022 UN-brokered truce that largely halted cross-border attacks between the Saudi-led coalition, which backs Yemen&amp;#x27;s internationally recognised government, and the Houthis, who control the capital Sanaa.
-  The escalation has opened another front in the US-Israeli war on Iran.&lt;/p&gt;&lt;p&gt;In Yemen, the Interior Ministry of the internationally recognised government said two of the Houthis&amp;#x27; missiles had struck a coast guard headquarters, while a third hit a coast guard building in the Tawahi district.
-  Houthi spokesman Saree said the group&amp;#x27;s forces had targeted Saudi-backed military gatherings at what he called Al-Nasr camp and a naval base in Aden, saying Saudi officers were overseeing the mobilisation there.
-  There was no immediate comment from the Saudi-led coalition on that assertion.
-  Earlier on Saturday, Saudi Arabia&amp;#x27;s Civil Defence briefly issued alerts warning residents of potential danger in Taif and Yanbu, as well as in the holy city of Mecca and the kingdom&amp;#x27;s second-largest city, Jeddah.&lt;/p&gt;&lt;p&gt;About 10 minutes later, the agency said the threat had passed.
-  The Houthis warned airlines earlier this month against using Saudi airspace, exempting only the airspace over Mecca and Medina, as they intensified attacks on the kingdom.&lt;/p&gt;&lt;p&gt;(Only the headline and picture of this report may have been reworked by the Business Standard staff; the rest of the content is auto-generated from a syndicated feed.)&lt;/p&gt;&lt;p&gt;More From This Section&lt;/p&gt;&lt;p&gt;Sinking profits turn China&amp;#x27;s $3.5 trillion stock rout into a deeper trap&lt;/p&gt;&lt;p&gt;Soldiers guard centre of Milan as thousands protest across European cities&lt;/p&gt;&lt;p&gt;Israelis hold final rally against Netanyahu ahead of consequential election&lt;/p&gt;&lt;p&gt;Musk says he was behind Starlink speed curbs after Ukraine service restored&lt;/p&gt;&lt;p&gt;Police, protesters clash in Paris as 410,000 demonstrate across France&lt;/p&gt;&lt;p&gt;Topics : Houti Attack Saudi Arabia Saudi Arabia economy Yemen
-Buzzing : Stock Market Live Stocks to Watch Muhurat Trading 2026 Gold Silver Price Today Q2 Results Today Bonfiglioli Transmissions shares Sahajanand Medical shares Stock Market Crash Swiggy Share Price&lt;/p&gt;&lt;p&gt;Don&amp;#x27;t miss the most important news and views of the day. Get them on our Telegram channel
-First Published: Oct 25 2026 | 8:28 AM IST&lt;/p&gt;</content:encoded>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.business-standard.com/world-news/yemen-s-houthis-say-they-targeted-saudi-oil-sites-attacks-reported-in-aden-126102500057_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Sinking profits turn China's $3.5 trillion stock rout into a deeper trap</title>
+      <link>https://www.business-standard.com/world-news/sinking-profits-turn-china-s-3-5-trillion-stock-rout-into-a-deeper-trap-126102500055_1.html</link>
+      <guid isPermaLink="false">92cfa0c4c29ba5260ce22e67</guid>
+      <pubDate>Sat, 24 Oct 2026 19:49:00 +0000</pubDate>
+      <description>The world's second-largest equities market has lost $3.5 trillion in value from a peak in May, data compiled by Bloomberg show ...</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.business-standard.com/world-news/sinking-profits-turn-china-s-3-5-trillion-stock-rout-into-a-deeper-trap-126102500055_1.html</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -104,40 +184,12 @@ First Published: Oct 25 2026 | 8:28 AM IST&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">bf2b12292b98e04212100df9</guid>
       <pubDate>Sat, 24 Oct 2026 19:36:00 +0000</pubDate>
       <description>Premier Giorgia Meloni announced a raft of measures, including sending an additional 500 soldiers to Milan and tougher penalties for minors, who police said made up a large part of the violent ...</description>
-      <content:encoded>&lt;p&gt;Home / World News / Soldiers guard centre of Milan as thousands protest across European cities&lt;/p&gt;&lt;p&gt;Soldiers guard centre of Milan as thousands protest across European cities The protests encompass a broad range of issues from education and corruption to anti-war movements, pensions and housing&lt;/p&gt;&lt;p&gt;Members of the military walk by a boarded-up Saint Laurent store, ahead of a protest called by the October 17 Movement against the rising cost of living, in Milan, Italy (Photo: Reuters)&lt;/p&gt;&lt;p&gt;AP Milan 6 min read Last Updated : Oct 25 2026 | 8:06 AM IST&lt;/p&gt;&lt;p&gt;Listen to This Article&lt;/p&gt;&lt;p&gt;Thousands of young people marched on Saturday through the streets of several Italian cities, including Milan, Rome and Turin, as authorities deployed large numbers of police and soldiers in a largely-successful bid to stave off a repeat of the violent clashes and looting that marred similar protests last week.
-The demonstration in Milan remained peaceful, but there were brief clashes with police in both Rome and Turin.
-In Milan, thousands of young people marched the streets as soldiers were deployed and luxury boutiques were boarded up, but by late afternoon, most shops had opened, Italian media reported.
-Premier Giorgia Meloni announced a raft of measures, including sending an additional 500 soldiers to Milan and tougher penalties for minors, who police said made up a large part of the violent protesters last week. In Milan, police detained several minors as a preventive measure, media reported.&lt;/p&gt;&lt;p&gt;While protests in France have claimed most international attention, large demonstrations also rocked many European cities on Saturday from Milan to Rome to Madrid, Lisbon and Tirana.
-Also Read&lt;/p&gt;&lt;p&gt;Police, protesters clash in Paris as 410,000 demonstrate across France&lt;/p&gt;&lt;p&gt;Italy sends more soldiers to Milan as European cities brace for protests&lt;/p&gt;&lt;p&gt;AISA chief Neha Bora refuses to sign peace bond, questions curbs on dissent&lt;/p&gt;&lt;p&gt;SC panel to hear Jantar Mantar protest violence complaints on Oct 29, 30&lt;/p&gt;&lt;p&gt;France deploys 70,000 security personnel as new protests raise riot fears&lt;/p&gt;&lt;p&gt;The protests encompass a broad range of issues from education and corruption to anti-war movements, pensions and housing.
-Army vehicles and boarded-up luxury stores in Milan   In Milan, huge crowds of mostly young people gathered as night fell, chanting insults to Meloni and holding aloft banners such as &amp;quot;No to lies of the state&amp;quot;.
-A group of protesters dumped manure outside Italy&amp;#x27;s energy regulator and burned a symbolic, oversized electricity bill, images broadcast on local television showed.&lt;/p&gt;&lt;p&gt;The 500 soldiers deployed to Milan came in addition to hundreds already stationed there, supporting about 5,000 police and other security personnel. Authorities used drone surveillance, checks at railway stations, rapid-response units and online monitoring for potential calls to violence.
-A mayoral hopeful, Pierfrancesco Majorino, who announced his candidacy on Thursday, joined the marchers and remarked how peaceful the day was, according to Italian media. He will contest a centre-left primary in early 2027. Milan&amp;#x27;s centre-left Mayor Giuseppe Sala, who has held the role since 2016, is not running again.
-Many stores, particularly luxury boutiques within Milan&amp;#x27;s fashion district including Omega, Tiffany and Gucci, boarded up their front windows. The Apple store also shut down and remained shut even as others reopened.&lt;/p&gt;&lt;p&gt;Rioters last weekend smashed their way into stores, targeting sneakers, athletic wear and sporting goods on streets that run off the city&amp;#x27;s central Duomo square.
-Security measures extended beyond the city centre over concerns protesters could move into other neighbourhoods.
-The protesters ended their march peacefully on Saturday evening outside the Milan Polytechnic, more than three kilometres (two miles) from the city centre.
-Officials said on Saturday they were investigating a 30-year-old freelance journalist said to be the &amp;quot;mastermind&amp;quot; of the newly-formed October 17 movement, which has been the main driver of the recent protests in Italy.
-Milan police say last week&amp;#x27;s violence and looting involved about 2,000 very young protesters, many of them &amp;quot;naturalised, second-generation Italians&amp;quot;, alongside foreign nationals. Over two days, police arrested 45 people, including 34 minors.&lt;/p&gt;&lt;p&gt;A group of about 30 far-right activists, described as hooligans linked to Inter Milan soccer club, made a brief appearance chanting anti-immigrant and anti-Muslim slogans but were isolated by police.
-Defence Minister Guido Crosetto said the soldiers deployed on Saturday were only recently allowed to use plastic restraint ties and only in areas around train stations, not throughout the city. They are not authorised to carry pepper spray or tasers, he said.
-Protesters try to force entry into Colosseum in Rome   Security was also heightened in Rome, where authorities locked down luxury shopping streets and stepped up controls around the Circus Maximus and Piazza del Popolo.&lt;/p&gt;&lt;p&gt;A small number of protesters tried to force their way into the Colosseum, but were ushered out by guards. Elsewhere, several hundred students demonstrated peacefully to stress they were not rioters.
-&amp;quot;I think the images from last week were truly something terrible, especially for the young people, for the students, for the vast majority of the younger generations who want to study ... and do not accept being represented by those who use issues and needs to devastate entire cities,&amp;quot; said Riccardo Ponzio, national president of an Italian far-right student association.
-A separate anti-war march took place in central Rome. Organisers sought to distance themselves from potential unrest, urging participants to keep their faces uncovered and hands visible.&lt;/p&gt;&lt;p&gt;But it was these marchers who briefly clashed with police near the Piazza della Repubblica, even as organisers were trying to hold the crowd back using batons and tear gas. In the end, the protesters pulled back when a water cannon was turned on. They retreated to a location about half a kilometre away.
-Clashes and buildings set on fire in Albania   In Albania&amp;#x27;s capital Tirana, riot police used water cannons on large groups of protesters, some of whom set government buildings on fire and threw projectiles at police. Authorities said 2,500 officers patrolled the streets on Saturday.
-For over a week, protesters have hurled rocks, flares, firebombs and fireworks at police who have used batons and tear gas in clashes in the city centre.&lt;/p&gt;&lt;p&gt;High school and university students are demanding lower tuition fees, greater state investment in education and protesting corruption in the education system. Some have joined a broader anti-government movement calling for the resignation of Socialist Prime Minister Edi Rama.
-A separate protest organised by the opposition outside the prime minister&amp;#x27;s office turned violent earlier, with some activists lighting fires on the street.
-Rama said on Saturday his government was preparing a response to the students&amp;#x27; demands and called them to a dialogue. He warned that violent protesters will face penalties.
-Pensions and housing spark Madrid and Lisbon protests   Thousands of retirees and others marched peacefully in Spain&amp;#x27;s capital on Saturday to demand public pensions are not meddled with.&lt;/p&gt;&lt;p&gt;&amp;quot;They are threatening us with privatising pensions. It is just another thing they want to profit from,&amp;quot; said Maria Jose Benito, 68.
-The protests came ahead of next month&amp;#x27;s snap election as Prime Minister Pedro Sanchez&amp;#x27;s Socialist Party criticised the conservative opposition Popular Party for making overtures about privatising public pensions. Spain also has been roiled by protests this fall around the issue of housing, as rental and home costs have risen in recent years beyond what many Spaniards can afford.
-Taking their cue from Spaniards, protesters in Lisbon demanding affordable housing marched across the city on Saturday.
-They have also targeted recent measures announced by the government of Prime Minister Luis Montenegro that include easing the cap on yearly rent increases and facilitating the eviction of tenants who fail to pay rent.&lt;/p&gt;&lt;p&gt;Montenegro defends the measures, saying that they aim at reinforcing trust between tenants and landlords and boosting the rentals market. Protesters claim that the measures are not balanced and put tenants in a more vulnerable position.&lt;/p&gt;&lt;p&gt;(Only the headline and picture of this report may have been reworked by the Business Standard staff; the rest of the content is auto-generated from a syndicated feed.)&lt;/p&gt;&lt;p&gt;More From This Section&lt;/p&gt;&lt;p&gt;Israelis hold final rally against Netanyahu ahead of consequential election&lt;/p&gt;&lt;p&gt;Musk says he was behind Starlink speed curbs after Ukraine service restored&lt;/p&gt;&lt;p&gt;Mass protests challenge Macron as French police fire tear gas, use cannons&lt;/p&gt;&lt;p&gt;Venezuela to restart major power plant with help from Chinese firm&lt;/p&gt;&lt;p&gt;5.3-magnitude earthquake hits China&amp;#x27;s Qinghai days after Tibet quake&lt;/p&gt;&lt;p&gt;Topics : Europe Italy Protest
-Buzzing : Stock Market Live Stocks to Watch Muhurat Trading 2026 Gold Silver Price Today Q2 Results Today Bonfiglioli Transmissions shares Sahajanand Medical shares Stock Market Crash Swiggy Share Price&lt;/p&gt;&lt;p&gt;Don&amp;#x27;t miss the most important news and views of the day. Get them on our Telegram channel
-First Published: Oct 25 2026 | 8:05 AM IST&lt;/p&gt;</content:encoded>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.business-standard.com/world-news/soldiers-guard-centre-of-milan-as-thousands-protest-across-european-cities-126102500050_1.html</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
@@ -154,96 +206,6 @@ First Published: Oct 25 2026 | 8:05 AM IST&lt;/p&gt;</content:encoded>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.business-standard.com/world-news/musk-says-he-was-behind-starlink-speed-curbs-after-ukraine-service-restored-126102500019_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Air India and AI Express cancel Riyadh, Dammam flights till Nov 7</title>
-      <link>https://www.business-standard.com/industry/aviation/air-india-and-ai-express-cancel-riyadh-dammam-flights-till-nov-7-126102401155_1.html</link>
-      <guid isPermaLink="false">04445233def5f0322886cb83</guid>
-      <pubDate>Sat, 24 Oct 2026 10:51:00 +0000</pubDate>
-      <description>IndiGo and Akasa Air have also cancelled their services to Saudi Arabian cities amid escalating geopolitical tensions in the region and attacks at airports in the Gulf country.</description>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/industry/aviation/air-india-and-ai-express-cancel-riyadh-dammam-flights-till-nov-7-126102401155_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Kotak Mahindra Bank's Q2 consolidated net profit rises 26% to ₹5,645 crore</title>
-      <link>https://www.business-standard.com/companies/quarterly-results/kotak-mahindra-bank-q2-fy27-profit-nii-fcnr-deposits-asset-quality-126102400637_1.html</link>
-      <guid isPermaLink="false">45201b3ccd45c2718a1b0bd2</guid>
-      <pubDate>Sat, 24 Oct 2026 02:56:00 +0000</pubDate>
-      <description>Standalone profit rose 29 per cent as NII grew 16 per cent and provisions fell, though large FCNR(B) inflows pushed net interest margin down to 4.31 per cent ...</description>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/companies/quarterly-results/kotak-mahindra-bank-q2-fy27-profit-nii-fcnr-deposits-asset-quality-126102400637_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>France deploys 70,000 security personnel as new protests raise riot fears</title>
-      <link>https://www.business-standard.com/world-news/france-deploys-70-000-security-personnel-as-new-protests-raise-riot-fears-126102400438_1.html</link>
-      <guid isPermaLink="false">edce2916f695330909cdaa83</guid>
-      <pubDate>Sat, 24 Oct 2026 00:26:00 +0000</pubDate>
-      <description>Paris has boarded up shops and shut 3 major museums ahead of Saturday's protests, while a football match has been postponed; President Macron acknowledged planning failures after last weekend's unrest ...</description>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/world-news/france-deploys-70-000-security-personnel-as-new-protests-raise-riot-fears-126102400438_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Q2 results: IDFC First Bank, Castrol India, JK Cement, 30 more on Oct 24</title>
-      <link>https://www.business-standard.com/companies/quarterly-results/q2-results-idfc-first-bank-castrol-india-jk-cement-30-more-on-oct-24-126102400225_1.html</link>
-      <guid isPermaLink="false">df5904e1ed45e1ebf2c70d0a</guid>
-      <pubDate>Fri, 23 Oct 2026 22:04:00 +0000</pubDate>
-      <description>Firms including Kotak Mahindra, AU Small Finance Bank, Kajaria Ceramics, Netweb Technologies, and Apollo Micro Systems are also to release their July-September earnings today ...</description>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/companies/quarterly-results/q2-results-idfc-first-bank-castrol-india-jk-cement-30-more-on-oct-24-126102400225_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Stock Market Close: Sensex falls for 4th day, ends 126 pts lower; Nifty at 22,600; VIX rises 6%</title>
-      <link>https://www.business-standard.com/markets/news/stock-market-live-october-23-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-jio-ipo-q2-results-today-126102300078_1.html</link>
-      <guid isPermaLink="false">4d3a618de5ee7258bc5c873e</guid>
-      <pubDate>Thu, 22 Oct 2026 17:17:00 +0000</pubDate>
-      <description>Overnight, the Nasdaq Composite posted the worst session since June and settled 2.60 per cent lower at 26,008.86. The Dow Jones Industrial Average rose 0.02 per cent, and the S&amp;P 500 fell 1.21 per ...</description>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/markets/news/stock-market-live-october-23-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-jio-ipo-q2-results-today-126102300078_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Swiggy Q2 net loss narrows 15.6% to ₹922 crore, revenue rises 36%</title>
-      <link>https://www.business-standard.com/companies/quarterly-results/swiggy-q2-net-loss-narrows-15-6-to-922-crore-revenue-rises-36-126102201389_1.html</link>
-      <guid isPermaLink="false">56c2d9d59452865c07226020</guid>
-      <pubDate>Thu, 22 Oct 2026 02:36:00 +0000</pubDate>
-      <description>Swiggy's food delivery adjusted EBITDA rose ₹101 crore year-on-year to ₹341 crore in Q2FY27, while Instamart's gross order value grew 16.7 per cent sequentially to ₹9,230 crore.</description>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/companies/quarterly-results/swiggy-q2-net-loss-narrows-15-6-to-922-crore-revenue-rises-36-126102201389_1.html</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
