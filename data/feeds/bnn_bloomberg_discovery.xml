@@ -1,56 +1,48 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>BNN Bloomberg — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Abnnbloomberg.ca+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 24 Oct 2026 21:48:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 00:07:06 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>‘Buy himself political favour’, Trump walks back certain tariffs as trade war appears to sway voters</title>
-      <link>https://www.bnnbloomberg.ca/video/live/2026/10/24/buy-himself-political-favour-trump-walks-back-certain-tariffs-as-trade-war-appears-to-sway-voters/</link>
-      <guid isPermaLink="false">bdd64c2255fdbb343f42964d</guid>
-      <pubDate>Sat, 24 Oct 2026 12:29:00 +0000</pubDate>
-      <description>Political commentator Scott Reid discusses the implications of U.S. President Trump’s repeal of certain tariffed items amid the upcoming midterm election.</description>
+      <title>Elon Musk says he cut back Starlink access in Ukraine, impacting defence operations</title>
+      <link>https://www.bnnbloomberg.ca/business/politics/2026/10/24/elon-musk-says-he-cut-back-starlink-access-in-ukraine-impacting-defence-operations/</link>
+      <guid isPermaLink="false">827a4e1b97bb0709e9d1550e</guid>
+      <pubDate>Sat, 24 Oct 2026 22:20:30 +0000</pubDate>
+      <description>Elon Musk said on Saturday that his company SpaceX had throttled the Starlink satellite internet service in Ukraine, disrupting operations that the country relies on to defend itself against Russia.</description>
+      <dc:creator>The Associated Press</dc:creator>
+      <content:encoded>&lt;p&gt;KYIV, Ukraine — Elon Musk said on Saturday that his company SpaceX had throttled the Starlink satellite internet service in Ukraine, disrupting operations that the country relies on to defend itself against Russia. Musk’s admission on social media came after Ukrainian President Volodymyr Zelenskyy said that Ukraine’s access to Starlink and Starshield satellite links has been restored to the speeds it had before restrictions that disrupted front-line operations for more than a week. Questions have persisted since last week about who ordered the interruptions to the Musk-made satellite internet system that Kyiv has relied on for years to counter Moscow’s attacks. “The speeds are now where they need to be,” Zelenskyy wrote on X, adding that restoration began overnight and were sufficient by Saturday morning, improving front-line logistics and defense against Russian jet-powered Shahed drones. Musk admits he was behind Starlink’s speed restriction After Ukraine said the services had been restored, Elon Musk spoke out on the speed restrictions that began last week. In a post Saturday on X, Musk acknowledged that his company SpaceX throttled the Starlink satellite internet service. “Using Starlink, a civilian commercial service, for offensive drone strikes to kill people has never been allowed, nor should it be,” Musk wrote. “Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed last week.” But he maintained that the U.S. government controlled whatever changes happened with Starshield, the military-grade version of Starlink that is the backbone of Ukraine’s drone operations and communication. He also defended the role of SpaceX in bolstering Ukraine’s defenses since Russia’s full-scale invasion of Ukraine in February 2022. Restrictions imposed last week on Starshield alarmed the country’s military and government officials, with commanders reporting lost drones and disrupted missions. The restoration follows a new U.S. diplomatic push to end the war. Russia agreed Wednesday to resume three-way negotiations with Washington and Kyiv next month. On Friday, Kyiv and Moscow also agreed to a localized ceasefire brokered by first lady Melania Trump around Oleshky, a war-ravaged, Russian-occupied town in Ukraine’s southern Kherson region. Restriction led to tensions between Ukraine and the U.S. The episode added to tensions between Kyiv and Washington, a relationship already strained by U.S. President Donald Trump’s reported deal with Moscow on Russian diesel imports, which Ukraine viewed as a betrayal. Ukraine’s Defence Minister Yevhenii Khmara credited “direct dialogue” and Zelenskyy’s diplomacy with Washington, adding that the outcome mattered most “for our front, for the military, the work of drones, logistics and communications.” Trump has maintained that he didn’t make the call, while also saying Musk should not be blamed. U.S. Vice-President JD Vance has hinted at White House coordination with Musk, while Secretary of State Marco Rubio and Defense Secretary Pete Hegseth have denied any administration involvement. Russia and Ukraine have continued to target each other Meanwhile, a man was killed and two others wounded in a missile attack on the city of Lozova in Ukraine’s Kharkiv region, local officials said Saturday. Moscow-installed authorities in cities across Russia-occupied Crimea reported power blackouts Saturday following overnight Ukrainian attacks. Ukraine’s General Staff said Saturday that its forces hit a chemical plant in the Russian city of Tolyatti, which produces materials used in rocket fuel. Tolyatti Mayor Ilya Sukhikh said the overnight attack damaged industrial facilities in the city. Ukrainian forces also hit an electronics plant in the city of Oryol, Ukraine’s General Staff confirmed Saturday. Local officials in Oryol said Saturday that three people were killed in Friday’s attack. The General Staff said the plant makes components for the cruise and ballistic missiles Russia fires at Ukrainian cities. Ukrainian drones also reached Russia’s Omsk region in western Siberia, more than 2,000 kilometres (1,242 miles) from the border with Ukraine. Omsk regional Gov. Vitaly Khotsenko said drones “reached a northern industrial hub.” Online retailer Ozon said Saturday that its logistics center in Omsk has been attacked by a drone, but there were no casualties. Ozon is a competitor to Wildberries, whose facilities Ukraine has also targeted. Morton reported from London. Susie Blann And Elise Morton, The Associated Press&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/live/2026/10/24/buy-himself-political-favour-trump-walks-back-certain-tariffs-as-trade-war-appears-to-sway-voters/</wire:canonicalUrl>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/politics/2026/10/24/elon-musk-says-he-cut-back-starlink-access-in-ukraine-impacting-defence-operations/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
       <title>OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software</title>
       <link>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/24/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/</link>
       <guid isPermaLink="false">1b3fb3947a6f28e2a6ea2397</guid>
-      <pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 01:10:09 +0000</pubDate>
       <description>OpenAI said on Friday it had resumed training of its most advanced AI models after tightening security and barring internet access, and disclosed a flaw in a widely used software.</description>
+      <dc:creator>Reuters Staff</dc:creator>
+      <content:encoded>&lt;p&gt;OpenAI said on Friday it had resumed training of its most advanced AI models after tightening security and barring internet access, and disclosed a flaw in a widely used software that it found while testing its defences. The disclosure comes amid concerns over the ability of increasingly capable AI agents to identify and exploit software flaws, including in the guardrails meant to contain them. OpenAI had paused training of its most capable models after one of its research models used a configuration error to gain limited internet access in September. The company said it contained the incident and used the pause to strengthen its defences. To test them, OpenAI had teams of AI agents try to break out of their restricted environments. It said the agents found previously unknown flaws, which it had fixed, and training resumed on Oct. 1. During that exercise, the ChatGPT maker found a flaw in Brotli, a widely used data compression tool. The company said attackers could exploit the flaw by sending malicious data that lets them run their own code on affected systems, including those using popular web software such as Node.js, Bun and Envoy. OpenAI said the root cause was fixed in Brotli’s source code in February, before it was known to create a security vulnerability, but no new version was released at the time. Brotli has since released updated versions and published a public record of the flaw after OpenAI disclosed it. Separately on Thursday, AI safety evaluators METR and Redwood Research said they found several new vulnerabilities in OpenAI’s internal system, including an exploit agents could have used to keep hundreds of their actions from being monitored, in a pilot review earlier this year. OpenAI told the safety organizations it has since patched all vulnerabilities affecting its production safeguards, although METR and Redwood said they had not verified the fixes. OpenAI has been conducting a broad review of its AI models’ activity since the Hugging Face incident in July, and has informed more than 100 organizations about incidents of unauthorized activity tied to its AI agents. (Reporting by Jaspreet Singh in Bengaluru, Chris Thomas in Mexico City; Editing by Pooja Desai and Stephen Coates)&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/24/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Will the new tariff exemptions be enough to help Maine Sen. Susan Collins win re-election?</title>
-      <link>https://www.bnnbloomberg.ca/video/investing/2026/10/24/will-the-new-tariff-exemptions-be-enough-to-help-maine-sen-susan-collins-win-re-election/</link>
-      <guid isPermaLink="false">39a14b04649d27bdc9ccb928</guid>
-      <pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
-      <description>KPMG Law international trade lawyer Robert Glasgow says more items are coming off the list of goods facing 50 per cent tariffs than have been added to it.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/10/24/will-the-new-tariff-exemptions-be-enough-to-help-maine-sen-susan-collins-win-re-election/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
+      <wire:evidence>structured credit: Reuters Staff</wire:evidence>
     </item>
     <item>
       <title>'If you hold all the cards, you don't reshuffle the deck': Trade lawyer on Trump's trade comments</title>
@@ -68,48 +60,18 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Republicans ‘paying the price’ for trade war in the polls – will a deal happen before midterms?</title>
-      <link>https://www.bnnbloomberg.ca/video/shows/2026/10/23/republicans-paying-the-price-for-trade-war-in-the-polls-will-a-deal-happen-before-midterms/</link>
-      <guid isPermaLink="false">fd9d6991c6f7dd5bfb3568c5</guid>
-      <pubDate>Fri, 23 Oct 2026 15:01:00 +0000</pubDate>
-      <description>The Front Bench panel discusses the rumours that a trade deal is still possible with the U.S. ahead of the midterm elections.</description>
+      <title>Will the new tariff exemptions be enough to help Maine Sen. Susan Collins win re-election?</title>
+      <link>https://www.bnnbloomberg.ca/video/investing/2026/10/24/will-the-new-tariff-exemptions-be-enough-to-help-maine-sen-susan-collins-win-re-election/</link>
+      <guid isPermaLink="false">39a14b04649d27bdc9ccb928</guid>
+      <pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
+      <description>KPMG Law international trade lawyer Robert Glasgow says more items are coming off the list of goods facing 50 per cent tariffs than have been added to it.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/2026/10/23/republicans-paying-the-price-for-trade-war-in-the-polls-will-a-deal-happen-before-midterms/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>How soon could a broader trade deal be reached between Canada and the U.S.?</title>
-      <link>https://www.bnnbloomberg.ca/video/investing/2026/10/23/how-soon-could-a-broader-trade-deal-be-reached-between-canada-and-the-us/</link>
-      <guid isPermaLink="false">0b05696854665d55e4a9040c</guid>
-      <pubDate>Fri, 23 Oct 2026 14:51:00 +0000</pubDate>
-      <description>Vassy Kapelos breaks down a small tariff concession from the Trump administration that raised questions about a potential Canada-U.S. trade deal.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/10/23/how-soon-could-a-broader-trade-deal-be-reached-between-canada-and-the-us/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>‘If it happens, it could happen quite quickly’: Is the tide turning on a trade deal with the U.S.?</title>
-      <link>https://www.bnnbloomberg.ca/video/shows/2026/10/23/if-it-happens-it-could-happen-quite-quickly-is-the-tide-turning-on-a-trade-deal-with-the-us/</link>
-      <guid isPermaLink="false">34d1df7da2fd1c94a00fd3b9</guid>
-      <pubDate>Fri, 23 Oct 2026 14:18:00 +0000</pubDate>
-      <description>Former High commissioner to the U.K Ralph Goodale and Canadian Chamber of Commerce President Candace Laing discuss the U.S. trade situation.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/2026/10/23/if-it-happens-it-could-happen-quite-quickly-is-the-tide-turning-on-a-trade-deal-with-the-us/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/10/24/will-the-new-tariff-exemptions-be-enough-to-help-maine-sen-susan-collins-win-re-election/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -158,6 +120,36 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
+      <title>Market Outlook: Canadian telecom stocks offer value amid Starlink fears</title>
+      <link>https://www.bnnbloomberg.ca/investing/market-outlook/2026/10/23/market-outlook-canadian-telecom-stocks-offer-value-amid-starlink-fears/</link>
+      <guid isPermaLink="false">5ca0d3c4f37ddcde0e40bdba</guid>
+      <pubDate>Fri, 23 Oct 2026 09:10:00 +0000</pubDate>
+      <description>John Zechner discusses Canadian telecom stocks, Starlink competition, Rogers earnings and portfolio changes in energy and technology.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/investing/market-outlook/2026/10/23/market-outlook-canadian-telecom-stocks-offer-value-amid-starlink-fears/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>S&amp;P/TSX composite down more than 150 points as oil tops US$100 per barrel</title>
+      <link>https://www.bnnbloomberg.ca/markets/2026/10/23/sptsx-composite-down-more-than-150-points-as-oil-tops-us100-per-barrel/</link>
+      <guid isPermaLink="false">7dac393b0ab8f6c5368e8053</guid>
+      <pubDate>Fri, 23 Oct 2026 08:41:00 +0000</pubDate>
+      <description>Canada’s main stock index was down more than 150 points, despite strength in the energy sector as the price of oil rose to top US$100 per barrel.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/2026/10/23/sptsx-composite-down-more-than-150-points-as-oil-tops-us100-per-barrel/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
       <title>Rogers seeks to offset hit from CRTC fee ban as wireless service revenue dips in Q3</title>
       <link>https://www.bnnbloomberg.ca/business/company-news/2026/10/23/rogers-seeks-to-offset-hit-from-crtc-fee-ban-as-wireless-service-revenue-dips-in-q3/</link>
       <guid isPermaLink="false">08aee14783adf32c0b12426b</guid>
@@ -185,6 +177,21 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/10/23/canadian-jet-maker-bombardier-says-it-plans-new-us270-million-us-investment/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Wall Street mostly loses ground under pressure from rising oil prices</title>
+      <link>https://www.bnnbloomberg.ca/markets/2026/10/23/us-futures-under-pressure-as-crude-reaches-levels-not-seen-since-may/</link>
+      <guid isPermaLink="false">ec40d46124f8e13cf1371cf1</guid>
+      <pubDate>Fri, 23 Oct 2026 03:27:00 +0000</pubDate>
+      <description>Futures are lower as oil prices reach levels not seen since May amid halting efforts to bring the U.S. and Iran back to the negotiation table.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/2026/10/23/us-futures-under-pressure-as-crude-reaches-levels-not-seen-since-may/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
