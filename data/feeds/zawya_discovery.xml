@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Azawya.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 25 Oct 2026 10:03:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 14:32:30 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Mideast Stocks: UAE shares extend losses on regional conflict fears</title>
@@ -147,21 +147,6 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Turkey says it is waiting for sale contract from Qatar for Eurofighter Typhoon jet procurement</title>
-      <link>https://www.zawya.com/en/business/middle-east/turkey-says-it-is-waiting-for-sale-contractfrom-qatar-for-eurofighter-typhoon-jet-procurement-1847480</link>
-      <guid isPermaLink="false">59d9de89917b3449431479a4</guid>
-      <pubDate>Wed, 21 Oct 2026 23:33:00 +0000</pubDate>
-      <description>Turkey is waiting for Qatar to send it a sale contract and a draft training programme as part of its deal with Britain to procure Eurofighter Typhoon jets, the Turkish Defence Ministry said on ...</description>
-      <wire:foundAt>zawya_discovery</wire:foundAt>
-      <wire:platform>ZAWYA</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.zawya.com/en/business/middle-east/turkey-says-it-is-waiting-for-sale-contractfrom-qatar-for-eurofighter-typhoon-jet-procurement-1847480</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
       <title>Government websites go dark after AI-discovered flaw sparks security scramble</title>
       <link>https://www.zawya.com/en/special-coverage/uk-and-europe/government-websites-go-dark-after-ai-discovered-flaw-sparks-security-scramble-1834529</link>
       <guid isPermaLink="false">e80caadc8430080a5a14c4a4</guid>
@@ -189,6 +174,21 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.zawya.com/en/business/indian-sub-continent/ubs-acquires-4.8-stake-in-indian-wealth-manager-360-one-wam-1837156</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>About ZAWYA</title>
+      <link>https://www.zawya.com/en/about-zawya</link>
+      <guid isPermaLink="false">f4ebb3f1c4e0df862fa0d873</guid>
+      <pubDate>Fri, 17 Jul 2026 03:08:00 +0000</pubDate>
+      <description>ZAWYA by LSEG is a leading and trusted source of regional business and financial news and intelligence for millions of professionals across the UAE, Saudi Arabia, Egypt, and other parts of the Middle ...</description>
+      <wire:foundAt>zawya_discovery</wire:foundAt>
+      <wire:platform>ZAWYA</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.zawya.com/en/about-zawya</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
