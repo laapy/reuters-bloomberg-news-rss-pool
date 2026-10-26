@@ -1,186 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>BNN Bloomberg — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Abnnbloomberg.ca+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 26 Oct 2026 07:33:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:58:29 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>Insiders try to draw new blood into Newfoundland and Labrador’s fishing industry</title>
-      <link>https://www.bnnbloomberg.ca/video/economics/2026/10/26/insiders-try-to-draw-new-blood-into-newfoundland-and-labradors-fishing-industry/</link>
-      <guid isPermaLink="false">89e969abb82ec52ecc80e80a</guid>
-      <pubDate>Sun, 25 Oct 2026 17:00:00 +0000</pubDate>
-      <description>Garret Barry reports on a new initiative by industry insiders to attract new talent to Newfoundland's fisheries, amid concerns of a looming labour shortage.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/10/26/insiders-try-to-draw-new-blood-into-newfoundland-and-labradors-fishing-industry/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>B.C. Conservatives form majority in a cautionary tale of political miscalculation</title>
-      <link>https://www.bnnbloomberg.ca/video/live/2026/10/26/bc-conservatives-form-majority-in-a-cautionary-tale-of-political-miscalculation/</link>
-      <guid isPermaLink="false">9501fa8902bfc87842b78647</guid>
-      <pubDate>Sun, 25 Oct 2026 17:00:00 +0000</pubDate>
-      <description>Andrew Johnson observes the dramatic victory of the B.C. Conservatives and the political blunder that led to the collapse of the B.C. NDP.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/live/2026/10/26/bc-conservatives-form-majority-in-a-cautionary-tale-of-political-miscalculation/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>What does a Conservative win in B.C. mean for PM Carney?</title>
-      <link>https://www.bnnbloomberg.ca/video/economics/2026/10/26/what-does-a-conservative-win-in-bc-mean-for-pm-carney/</link>
-      <guid isPermaLink="false">02eb3930b534e0623c732068</guid>
-      <pubDate>Sun, 25 Oct 2026 17:00:00 +0000</pubDate>
-      <description>Vassy Kapelos discusses the reaction of the federal government following B.C. Premier-designate Lorne Doerkson's win and what it could mean going forward.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/10/26/what-does-a-conservative-win-in-bc-mean-for-pm-carney/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Ottawa not closing the door on provincial control over immigration following Alberta referendum</title>
-      <link>https://www.bnnbloomberg.ca/video/economics/2026/10/26/ottawa-not-closing-the-door-on-provincial-control-over-immigration-following-alberta-referendum/</link>
-      <guid isPermaLink="false">d79c68fda84b4e3accb7269b</guid>
-      <pubDate>Sun, 25 Oct 2026 17:00:00 +0000</pubDate>
-      <description>Alberta's referendum results have reignited discussions about immigration in Canada and the direction the federal government will take. Jeremie Charron reports.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/10/26/ottawa-not-closing-the-door-on-provincial-control-over-immigration-following-alberta-referendum/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software</title>
-      <link>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/24/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/</link>
-      <guid isPermaLink="false">1b3fb3947a6f28e2a6ea2397</guid>
-      <pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
-      <description>OpenAI said on Friday it had resumed training of its most advanced AI models after tightening security and barring internet access, and disclosed a flaw in a widely used software.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/24/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Barclays is latest to redirect spending toward AI as it trims its workforce</title>
-      <link>https://www.bnnbloomberg.ca/business/2026/10/23/barclays-is-latest-to-redirect-spending-toward-ai-as-it-trims-its-workforce/</link>
-      <guid isPermaLink="false">99d87386bd840a757feeba0c</guid>
-      <pubDate>Fri, 23 Oct 2026 12:14:00 +0000</pubDate>
-      <description>The cost of building out the infrastructure needed to satisfy booming demand for artificial intelligence is changing the way major companies allocate resources.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/2026/10/23/barclays-is-latest-to-redirect-spending-toward-ai-as-it-trims-its-workforce/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Loblaw says March data breach affected about two million Canadians</title>
-      <link>https://www.bnnbloomberg.ca/business/company-news/2026/10/23/loblaw-says-march-data-breach-affected-about-two-million-canadians/</link>
-      <guid isPermaLink="false">1675cdab5bc2c360b15b7e38</guid>
-      <pubDate>Fri, 23 Oct 2026 10:50:00 +0000</pubDate>
-      <description>Loblaw says it is starting to notify about two million Canadians who were affected by a data breach in March with specifics about which personal information of theirs leaked.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/10/23/loblaw-says-march-data-breach-affected-about-two-million-canadians/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Market Outlook: Canadian telecom stocks offer value amid Starlink fears</title>
-      <link>https://www.bnnbloomberg.ca/investing/market-outlook/2026/10/23/market-outlook-canadian-telecom-stocks-offer-value-amid-starlink-fears/</link>
-      <guid isPermaLink="false">5ca0d3c4f37ddcde0e40bdba</guid>
-      <pubDate>Fri, 23 Oct 2026 09:10:00 +0000</pubDate>
-      <description>John Zechner discusses Canadian telecom stocks, Starlink competition, Rogers earnings and portfolio changes in energy and technology.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/investing/market-outlook/2026/10/23/market-outlook-canadian-telecom-stocks-offer-value-amid-starlink-fears/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>S&amp;P/TSX composite down more than 150 points as oil tops US$100 per barrel</title>
-      <link>https://www.bnnbloomberg.ca/markets/2026/10/23/sptsx-composite-down-more-than-150-points-as-oil-tops-us100-per-barrel/</link>
-      <guid isPermaLink="false">7dac393b0ab8f6c5368e8053</guid>
-      <pubDate>Fri, 23 Oct 2026 08:41:00 +0000</pubDate>
-      <description>Canada’s main stock index was down more than 150 points, despite strength in the energy sector as the price of oil rose to top US$100 per barrel.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/2026/10/23/sptsx-composite-down-more-than-150-points-as-oil-tops-us100-per-barrel/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Rogers seeks to offset hit from CRTC fee ban as wireless service revenue dips in Q3</title>
-      <link>https://www.bnnbloomberg.ca/business/company-news/2026/10/23/rogers-seeks-to-offset-hit-from-crtc-fee-ban-as-wireless-service-revenue-dips-in-q3/</link>
-      <guid isPermaLink="false">08aee14783adf32c0b12426b</guid>
-      <pubDate>Fri, 23 Oct 2026 06:04:00 +0000</pubDate>
-      <description>Rogers Communications Inc. says it is seeking to offset the hit it has taken from the CRTC’s recent ban on telecommunications carriers charging certain administrative fees.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/10/23/rogers-seeks-to-offset-hit-from-crtc-fee-ban-as-wireless-service-revenue-dips-in-q3/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Wall Street mostly loses ground under pressure from rising oil prices</title>
-      <link>https://www.bnnbloomberg.ca/markets/2026/10/23/us-futures-under-pressure-as-crude-reaches-levels-not-seen-since-may/</link>
-      <guid isPermaLink="false">ec40d46124f8e13cf1371cf1</guid>
-      <pubDate>Fri, 23 Oct 2026 03:27:00 +0000</pubDate>
-      <description>Futures are lower as oil prices reach levels not seen since May amid halting efforts to bring the U.S. and Iran back to the negotiation table.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/2026/10/23/us-futures-under-pressure-as-crude-reaches-levels-not-seen-since-may/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Hot Picks</title>
-      <link>https://www.bnnbloomberg.ca/investing/hot-picks/</link>
-      <guid isPermaLink="false">60e1554ee82159d3537210ac</guid>
-      <pubDate>Wed, 21 Oct 2026 11:31:00 +0000</pubDate>
-      <description>Three U.S. stock picks span SharkNinja, Dynatrace and Amer Sports, with a focus on consumer spending and AI software. Talen Energy, Flex and MonotaRO offer exposure to data-centre power, ...</description>
-      <content:encoded>&lt;p&gt;Hot Picks: Three consumer stocks poised for stronger earnings Video
-Derek Lessard discusses rebound potential in Boyd Group Services, Premium Brands and Primo Brands after recent share price weakness.
-October 23, 2026 at 1:40p.m. EDT&lt;/p&gt;</content:encoded>
+      <title>High Liner Foods to be bought by Umios in deal valued at $804M</title>
+      <link>https://www.bnnbloomberg.ca/business/company-news/2026/10/26/high-liner-foods-to-be-bought-by-umios-in-deal-valued-at-804m/</link>
+      <guid isPermaLink="false">e9269dc2f6325732518b0e4d</guid>
+      <pubDate>Mon, 26 Oct 2026 14:13:21 +0000</pubDate>
+      <description>Seafood processor High Liner Foods Inc. says it has signed a deal to be bought by Japanese company Umios Corp. in an agreement valued at $804 million.</description>
+      <dc:creator>The Canadian Press</dc:creator>
+      <content:encoded>&lt;p&gt;LUNENBURG — Seafood processor High Liner Foods Inc. says it has signed a deal to be bought by Japanese company Umios Corp. in an agreement valued at $804 million. Under the agreement, Umios, one of the world’s largest seafood companies, will pay $27 per share in cash. High Liner shares closed at $15.08 on the Toronto Stock Exchange on Friday. The companies say Umios plans to establish High Liner Foods as the core platform for its North American business, while maintaining its headquarters in Nova Scotia. They say Umios has committed to maintaining High Liner Foods’ workforce and operations, established brands and customer relationships. Thornridge Holdings Ltd., which holds a 41.4 per cent stake in High Liner, has agreed to support the deal, which requires shareholder and other approvals. This report by The Canadian Press was first published Oct. 26, 2026.&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
@@ -188,7 +22,157 @@ October 23, 2026 at 1:40p.m. EDT&lt;/p&gt;</content:encoded>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/investing/hot-picks/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/10/26/high-liner-foods-to-be-bought-by-umios-in-deal-valued-at-804m/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>CAE to sell aviation operations software business Flightscape</title>
+      <link>https://www.bnnbloomberg.ca/business/company-news/2026/10/26/cae-to-sell-aviation-operations-software-business-flightscape/</link>
+      <guid isPermaLink="false">bceb3b2c81fdcebca43cffb8</guid>
+      <pubDate>Mon, 26 Oct 2026 07:32:00 +0000</pubDate>
+      <description>CAE Inc. has signed a deal to sell Flightscape, its airline operations software business, to aviation technology company SITA.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/10/26/cae-to-sell-aviation-operations-software-business-flightscape/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Taking the financial reins when you turn 18 can build confidence for the future</title>
+      <link>https://www.bnnbloomberg.ca/investing/personal-finance/2026/10/26/taking-the-financial-reins-when-you-turn-18-can-build-confidence-for-the-future/</link>
+      <guid isPermaLink="false">27b74b5b14395008fba66fce</guid>
+      <pubDate>Mon, 26 Oct 2026 07:04:00 +0000</pubDate>
+      <description>But becoming independent takes time. Some young adults remain on their parents’ phone plans or continue to share a joint bank account well into their 20s. But experts say having autonomy over your ...</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/investing/personal-finance/2026/10/26/taking-the-financial-reins-when-you-turn-18-can-build-confidence-for-the-future/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>AI giant Anthropic files papers for what may be largest IPO in history</title>
+      <link>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/26/ai-giant-anthropic-files-papers-for-what-may-be-largest-ipo-in-history/</link>
+      <guid isPermaLink="false">e8ee2425691b8c531b4cdb4e</guid>
+      <pubDate>Mon, 26 Oct 2026 06:35:00 +0000</pubDate>
+      <description>Artificial intelligence giant Anthropic filed papers Monday for what could be the biggest initial public offering of stock ever even as its top executive warns that advanced AI could pose an ...</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/26/ai-giant-anthropic-files-papers-for-what-may-be-largest-ipo-in-history/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>'We're in a real special place in the copper outlook in history': Coppernico Metals CEO</title>
+      <link>https://www.bnnbloomberg.ca/video/shows/the-street/2026/10/26/were-in-a-real-special-place-in-the-copper-outlook-in-history-coppernico-metals-ceo/</link>
+      <guid isPermaLink="false">26550845fba709f5715fee1a</guid>
+      <pubDate>Mon, 26 Oct 2026 06:22:00 +0000</pubDate>
+      <description>Philip Petursson, chief investment strategist at IG Wealth Management, joins BNN Bloomberg to share stocks to keep on your radar.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/the-street/2026/10/26/were-in-a-real-special-place-in-the-copper-outlook-in-history-coppernico-metals-ceo/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Abcourt Mines Produces 740 Ounces of Gold in September</title>
+      <link>https://www.bnnbloomberg.ca/press-releases/2026/10/26/abcourt-mines-produces-740-ounces-of-gold-in-september/</link>
+      <guid isPermaLink="false">49d90eff0d2ccc5d8d5c8714</guid>
+      <pubDate>Mon, 26 Oct 2026 06:21:00 +0000</pubDate>
+      <description>Abcourt Mines Inc. (“Abcourt” or the “Company”) is pleased to provide an update on its mining and gold milling operations for the month of September. This latest update demonstrates accelerating ...</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/press-releases/2026/10/26/abcourt-mines-produces-740-ounces-of-gold-in-september/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Gildan Completes Sale of HanesBrands Australia</title>
+      <link>https://www.bnnbloomberg.ca/press-releases/2026/10/26/gildan-completes-sale-of-hanesbrands-australia/</link>
+      <guid isPermaLink="false">3a380d4163e06746f8ed45da</guid>
+      <pubDate>Mon, 26 Oct 2026 06:20:00 +0000</pubDate>
+      <description>Gildan Activewear Inc. (“Gildan” or the “Company”) today announced it has completed the previously announced sale of HanesBrands Australia (“HAA”) to BBFIT Investments Pte Ltd, an associated entity of ...</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/press-releases/2026/10/26/gildan-completes-sale-of-hanesbrands-australia/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>North Vector Dynamics Closes Series A Exceeding USD $20 Million, One of Canada’s Largest Defence Technology Financings</title>
+      <link>https://www.bnnbloomberg.ca/press-releases/2026/10/26/north-vector-dynamics-closes-series-a-exceeding-usd-20-million-one-of-canadas-largest-defence-technology-financings/</link>
+      <guid isPermaLink="false">1f943445d88dff0bb866767c</guid>
+      <pubDate>Mon, 26 Oct 2026 06:13:00 +0000</pubDate>
+      <description>North Vector Dynamics (NVD), a Canadian-owned and controlled defence technology company headquartered in Calgary, Alberta, has closed a Series A round exceeding $20 million USD ($29 million CAD) that ...</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/press-releases/2026/10/26/north-vector-dynamics-closes-series-a-exceeding-usd-20-million-one-of-canadas-largest-defence-technology-financings/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Ovintiv to buy Logan Energy in deal valued at $1.26 billion, including debt</title>
+      <link>https://www.bnnbloomberg.ca/markets/oil/2026/10/26/ovintiv-to-buy-logan-energy-in-deal-valued-at-126-billion-including-debt/</link>
+      <guid isPermaLink="false">01e8585dfed54b8701c27fc9</guid>
+      <pubDate>Mon, 26 Oct 2026 05:45:00 +0000</pubDate>
+      <description>Oil and gas producer Ovintiv said on Monday it would acquire Canadian producer Logan Energy in an all-cash deal valuing the company at about US$890 million, including debt.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/oil/2026/10/26/ovintiv-to-buy-logan-energy-in-deal-valued-at-126-billion-including-debt/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Ovintiv to buy Logan Energy for US$890M, expanding Montney oil position</title>
+      <link>https://www.bnnbloomberg.ca/markets/oil/2026/10/26/ovintiv-to-buy-logan-energy-for-us890m-expanding-montney-oil-position/</link>
+      <guid isPermaLink="false">792ec07b838fa1234ea16438</guid>
+      <pubDate>Mon, 26 Oct 2026 05:45:00 +0000</pubDate>
+      <description>Oil and gas producer Ovintiv said on Monday it would acquire Canadian producer Logan Energy in an all-cash deal valuing the company at about US$890 million, including debt.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/oil/2026/10/26/ovintiv-to-buy-logan-energy-for-us890m-expanding-montney-oil-position/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>U.S. futures climb ahead of big earnings week and another Fed rate call</title>
+      <link>https://www.bnnbloomberg.ca/markets/2026/10/26/world-shares-mostly-advance-after-a-decline-on-wall-street-and-oil-prices-fall-more-than-1/</link>
+      <guid isPermaLink="false">7a1a1f43a7a7166960bbf8df</guid>
+      <pubDate>Mon, 26 Oct 2026 03:14:00 +0000</pubDate>
+      <description>U.S. futures are climbing as oil prices ease ahead of a big week of corporate earnings and a rate decision by the U.S. Federal Reserve.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/2026/10/26/world-shares-mostly-advance-after-a-decline-on-wall-street-and-oil-prices-fall-more-than-1/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
