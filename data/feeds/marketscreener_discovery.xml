@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Amarketscreener.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 26 Oct 2026 01:33:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 07:33:32 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Houthis deny report that they attacked Mecca and Medina</title>
@@ -20,6 +20,21 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.marketscreener.com/news/houthis-deny-report-that-they-attacked-mecca-and-medina-ce785cdfde81f725</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Violence flares in Paris after largely peaceful protests across France</title>
+      <link>https://www.marketscreener.com/news/latest/Violence-flares-in-Paris-after-largely-peaceful-protests-across-France-12769558/</link>
+      <guid isPermaLink="false">eff1b674912d401c2d9cfeee</guid>
+      <pubDate>Sat, 24 Oct 2026 10:51:00 +0000</pubDate>
+      <description>PARIS, Oct 24 (Reuters) - Hundreds of thousands of demonstrators marched in France on Saturday, with largely peaceful rallies giving way to clashes in Paris and Marseille as night fell despite a huge ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/latest/Violence-flares-in-Paris-after-largely-peaceful-protests-across-France-12769558/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -170,21 +185,6 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.marketscreener.com/news/teck-receives-strike-notice-at-highland-valley-copper-operation-ce785cd9dd88f624</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Serious incident at Canada military base in Alberta causes major fire, Carney says</title>
-      <link>https://www.marketscreener.com/news/serious-incident-at-canada-military-base-in-alberta-causes-major-fire-carney-says-ce785cdad189f42d</link>
-      <guid isPermaLink="false">3d487394d78fa06772ee754f</guid>
-      <pubDate>Sat, 17 Oct 2026 19:13:00 +0000</pubDate>
-      <description>CALGARY, Oct 17 (Reuters) - Canadian Prime Minister Mark Carney said on Saturday that a "serious incident" had caused a major fire at a military base in northern Alberta. o The incident took place at ...</description>
-      <wire:foundAt>marketscreener_discovery</wire:foundAt>
-      <wire:platform>MarketScreener</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/news/serious-incident-at-canada-military-base-in-alberta-causes-major-fire-carney-says-ce785cdad189f42d</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
