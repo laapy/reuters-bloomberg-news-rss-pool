@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Azawya.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 25 Oct 2026 23:05:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 01:33:19 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Mideast Stocks: UAE shares extend losses on regional conflict fears</title>
@@ -37,6 +37,22 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.zawya.com/en/business/amex-lifts-2026-profit-forecast-plans-to-cut-5-of-workforce-1849001</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>FRA approves raising Banque du Caire’s IPO stake to 45%</title>
+      <link>https://www.zawya.com/en/capital-markets/fra-approves-raising-banque-du-caires-ipo-stake-to-45-1847931</link>
+      <guid isPermaLink="false">cb6a6cb47ff814a7d99857a4</guid>
+      <pubDate>Fri, 23 Oct 2026 03:32:41 +0000</pubDate>
+      <description>The Financial Regulatory Authority (FRA) agreed to increase the stake offered for sale in Banque du Caire’s initial public offering (IPO) from 30% to 45% of the total issued share capital, as per a ...</description>
+      <dc:creator>Staff Writer</dc:creator>
+      <wire:foundAt>zawya_discovery</wire:foundAt>
+      <wire:platform>ZAWYA</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.zawya.com/en/capital-markets/fra-approves-raising-banque-du-caires-ipo-stake-to-45-1847931</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -83,21 +99,6 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.zawya.com/en/business/apples-foldable-iphone-hits-stores-with-2000-price-tag-and-scarce-supply-1848987</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>FRA approves raising Banque du Caire’s IPO stake to 45%</title>
-      <link>https://www.zawya.com/en/capital-markets/fra-approves-raising-banque-du-caires-ipo-stake-to-45-1847931</link>
-      <guid isPermaLink="false">cb6a6cb47ff814a7d99857a4</guid>
-      <pubDate>Thu, 22 Oct 2026 20:32:00 +0000</pubDate>
-      <description>The Financial Regulatory Authority (FRA) agreed to increase the stake offered for sale in Banque du Caire’s initial public offering (IPO) from 30% to 45% of the total issued share capital, as per a ...</description>
-      <wire:foundAt>zawya_discovery</wire:foundAt>
-      <wire:platform>ZAWYA</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.zawya.com/en/capital-markets/fra-approves-raising-banque-du-caires-ipo-stake-to-45-1847931</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -149,9 +150,8 @@
       <title>ADNOC's XRG in talks to buy stake in Eni's Libya oil and gas business, sources say</title>
       <link>https://www.zawya.com/en/business/ma/adnocs-xrg-in-talks-to-buy-stake-in-enis-libya-oil-and-gas-business-sources-say-1847708</link>
       <guid isPermaLink="false">c4ee0e597391fad06d578c86</guid>
-      <pubDate>Thu, 22 Oct 2026 15:13:25 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 08:13:00 +0000</pubDate>
       <description>XRG, the international investment arm of Abu Dhabi National Oil Company (ADNOC), is in talks with Eni about potentially buying a stake in the Italian company's oil and gas business in Libya, two ...</description>
-      <dc:creator>Francesca Landini</dc:creator>
       <wire:foundAt>zawya_discovery</wire:foundAt>
       <wire:platform>ZAWYA</wire:platform>
       <wire:relation>unknown</wire:relation>
@@ -177,18 +177,18 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>UBS acquires 4.8% stake in Indian wealth manager 360 One Wam</title>
-      <link>https://www.zawya.com/en/business/indian-sub-continent/ubs-acquires-4.8-stake-in-indian-wealth-manager-360-one-wam-1837156</link>
-      <guid isPermaLink="false">2421e230a0ee52a15d47c321</guid>
-      <pubDate>Wed, 21 Oct 2026 17:07:00 +0000</pubDate>
-      <description>UBS has acquired an approximately 4.8% stake in India's 360 One Wam after converting warrants into shares, the Swiss bank said on Thursday, marking another step in the companies' strategic partnership ...</description>
+      <title>About ZAWYA</title>
+      <link>https://www.zawya.com/en/about-zawya</link>
+      <guid isPermaLink="false">f4ebb3f1c4e0df862fa0d873</guid>
+      <pubDate>Fri, 17 Jul 2026 03:08:00 +0000</pubDate>
+      <description>ZAWYA by LSEG is a leading and trusted source of regional business and financial news and intelligence for millions of professionals across the UAE, Saudi Arabia, Egypt, and other parts of the Middle ...</description>
       <wire:foundAt>zawya_discovery</wire:foundAt>
       <wire:platform>ZAWYA</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.zawya.com/en/business/indian-sub-continent/ubs-acquires-4.8-stake-in-indian-wealth-manager-360-one-wam-1837156</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.zawya.com/en/about-zawya</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
