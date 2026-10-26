@@ -1,11 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Bitget News — diagnostic source feed</title>
     <link>https://www.bitget.com/stp-news-en-sitemap.xml</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 26 Oct 2026 14:58:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 20:24:01 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>The United States and Canada may reach an agreement to ease steel and automotive tariffs</title>
+      <link>https://www.bitget.com/news/detail/12560606024469</link>
+      <guid isPermaLink="false">3a91d77810a723af70442fb5</guid>
+      <pubDate>Mon, 26 Oct 2026 19:33:02 +0000</pubDate>
+      <description>ChainCatcher news, according to Reuters, sources say the United States and Canada are working toward an agreement to ease U.S. tariffs on steel and automobi</description>
+      <dc:creator>Chaincatcher</dc:creator>
+      <content:encoded>&lt;p&gt;ChainCatcher news, according to Reuters, sources say the United States and Canada are working toward an agreement to ease U.S. tariffs on steel and automobile imports from Canada.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>bitget_news</wire:foundAt>
+      <wire:platform>Bitget News</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>Bitget News source metadata</wire:summarySource>
+      <wire:bodySource>Bitget News public article data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bitget.com/news/detail/12560606024469</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: according to Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>Under financial pressure from AI investments, Microsoft offers voluntary severance packages to 60,000 employees, affecting departments such as Xbox and Windows</title>
+      <link>https://www.bitget.com/news/detail/12560606024202</link>
+      <guid isPermaLink="false">b676d00360516f1356edb712</guid>
+      <pubDate>Mon, 26 Oct 2026 18:11:04 +0000</pubDate>
+      <description>As of the end of June, Microsoft had a total of 223,000 employees worldwide. This latest round of measures involves more than one-quarter of the total workforce, covering departments such as Xbox, Windows, Copilot, and Finance. Positions related to data centers, sales, cybersecurity, and quantum computing are not included. A Microsoft spokesperson stated that the proportion of employees expected to accept the proposal is below 30%. Microsoft is scheduled to release its financial report on Wednesday, and the market is focused on whether its investments in AI have begun to yield quantifiable returns.</description>
+      <dc:creator>华尔街见闻</dc:creator>
+      <content:encoded>&lt;p&gt;Microsoft is undergoing a rare large-scale voluntary resignation program to reshape its workforce structure, aiming to control costs and raise funds for its extensive investments in AI. According to Bloomberg citing a Microsoft spokesperson, the company will offer voluntary severance packages to approximately 60,000 employees across the United States, Canada, India, and the United Kingdom, targeting staff at the vice president level and below. Chief Human Resources Officer Amy Coleman stated in a memo to employees on Monday that this initiative is intended to provide a supportive transition path for employees &amp;quot;considering leaving the company,&amp;quot; with compensation comparable to the standard severance package. Microsoft will release its financial report on Wednesday, with the market focused on whether the substantial AI investments have begun to yield measurable returns. As of publication, Microsoft shares were up 1.1% in Tuesday&amp;#x27;s trading session. Xbox, Windows, and Other Divisions Fully Involved; Data Center Roles Not Included According to Bloomberg citing informed sources, the Xbox, Windows, Copilot, and Finance divisions will be fully involved in this program; however, certain employee groups are excluded, including positions focused on data centers, sales, marketing, cybersecurity, and quantum computing. A Microsoft spokesperson stated that compared to the voluntary severance plan for retirement-age employees introduced in July this year, the company expects the proportion of staff accepting the offer this time to be significantly lower. At that time, among approximately 8,750 eligible employees, over 30% accepted the package. As of the end of June this year, Microsoft’s global headcount stood at 223,000. Since the company began substantial investments in AI and data center construction around 2022, total employee numbers have remained largely steady—indicating that surging AI expenditures have effectively compressed hiring and budgeting for other areas. The “Embrace AI or Leave” Logic Deepens in the Tech Sector This resignation program reflects a clearer strategic direction for talent. A Microsoft spokesperson said the company seeks to retain employees truly committed to tackling critical challenges, aligning closely with public statements from management at other tech companies—where continued employment means accepting a faster work pace and greater demands for change. This trend is not isolated in the industry. After Elon Musk acquired Twitter in 2022, he required employees to choose between “hardcore work” or severance pay. Reports indicate that earlier this year, a Google executive also told team members they could opt for voluntary resignation if they were not “all-in” on AI. Last year, Alphabet, Google’s parent company, launched similar programs across several divisions; Meta Platforms has also reduced its workforce by over 20,000 people since the peak at the end of 2022. Both companies rank among the world’s largest investors in data center infrastructure. How Employees Weigh Choices, and How the Company Provides a Safety Net For employees, whether to accept a voluntary severance package often depends on multiple factors: personal savings, the potential risk of layoffs, the capacity of the current job market, and whether compensation provides a sufficient buffer to achieve a career transition. Compared to involuntary layoffs, voluntary resignation packages are typically more generous and often target higher-paid mid- and senior-level employees. A Microsoft spokesperson added that if certain top talent chooses to accept the package, the company will also attempt to retain them. In the memo, Amy Coleman described this initiative as another tool for business units to “adjust workforce structures to meet evolving demands.” In recent years, Microsoft has undergone several rounds of large-scale layoffs, cutting tens of thousands of positions. This compensation plan, oriented towards voluntary exits, represents a softer yet equally resolute way for the company to transition its human capital to the AI era.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bitget_news</wire:foundAt>
+      <wire:platform>Bitget News</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>Bitget News source metadata</wire:summarySource>
+      <wire:bodySource>Bitget News public article data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bitget.com/news/detail/12560606024202</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: According to Bloomberg</wire:evidence>
+    </item>
   </channel>
 </rss>
