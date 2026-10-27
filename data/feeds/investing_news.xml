@@ -1,45 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss version="2.0">
   <channel>
     <title>Investing.com — diagnostic source feed</title>
     <link>https://www.investing.com/rss/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 27 Oct 2026 16:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 20:35:58 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>Meta eyes record $97.5 billion equity raise to fund AI expansion</title>
-      <link>https://www.investing.com/news/economy-news/meta-eyes-record-975-billion-equity-raise-to-fund-ai-expansion-4975360</link>
-      <guid isPermaLink="false">9b2aa26197866526021fecc2</guid>
-      <pubDate>Tue, 27 Oct 2026 15:48:38 +0000</pubDate>
-      <description />
-      <dc:creator>Reuters</dc:creator>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>investing_news</wire:foundAt>
-      <wire:platform>Investing.com</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>link_only</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.investing.com/news/economy-news/meta-eyes-record-975-billion-equity-raise-to-fund-ai-expansion-4975360</wire:canonicalUrl>
-      <wire:evidence>structured credit: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>High inflation to persist globally into next year, Reuters poll shows</title>
-      <link>https://www.investing.com/news/economy-news/high-inflation-to-persist-globally-into-next-year-reuters-poll-shows-4975885</link>
-      <guid isPermaLink="false">ce4c2564f5db48fc21186b90</guid>
-      <pubDate>Tue, 27 Oct 2026 15:48:20 +0000</pubDate>
-      <description />
-      <dc:creator>Reuters</dc:creator>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>investing_news</wire:foundAt>
-      <wire:platform>Investing.com</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>link_only</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.investing.com/news/economy-news/high-inflation-to-persist-globally-into-next-year-reuters-poll-shows-4975885</wire:canonicalUrl>
-      <wire:evidence>structured credit: Reuters</wire:evidence>
-    </item>
   </channel>
 </rss>
