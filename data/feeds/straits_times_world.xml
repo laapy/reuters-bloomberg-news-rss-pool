@@ -1,11 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>The Straits Times — diagnostic source feed</title>
     <link>https://www.straitstimes.com/news/world/rss.xml</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 27 Oct 2026 04:53:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 10:17:55 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Privacy group files complaints against Scale AI over alleged worker surveillance</title>
+      <link>https://www.straitstimes.com/world/europe/privacy-group-files-complaints-against-scale-ai-over-alleged-worker-surveillance</link>
+      <guid isPermaLink="false">3af21d5912960f76724aa6fd</guid>
+      <pubDate>Tue, 27 Oct 2026 09:56:00 +0000</pubDate>
+      <description>Trackers follow workers while they work, including recording keystrokes and mouse movements.</description>
+      <dc:creator>The Straits Times</dc:creator>
+      <content:encoded>&lt;p&gt;Privacy group files complaints against Scale AI over alleged worker surveillance
+Sign up now: Get ST&amp;#x27;s newsletters delivered to your inbox&lt;/p&gt;&lt;p&gt;European digital privacy advocacy group NOYB is asking regulators to fine Scale AI and examine how the platform assigns tasks.
+PHOTO: REUTERS&lt;/p&gt;&lt;p&gt;Published   Oct 27, 2026, 05:56 PM&lt;/p&gt;&lt;p&gt;Updated   Oct 27, 2026, 05:58 PM&lt;/p&gt;&lt;p&gt;Set as preferred source&lt;/p&gt;&lt;p&gt;Listen
+Summarise&lt;/p&gt;&lt;p&gt;Privacy group noyb filed five complaints against Scale AI in four EU countries over alleged illegal worker surveillance on Outlier, a platform used to create AI training data.
+The complaints say up to 19 trackers recorded keystrokes and mouse movements, and workers faced repeated ID and face checks that may break EU biometric rules.
+noyb wants fines and a review of task assignment. DiPLab also found bonuses and game-like rewards pushed workers to complete many tasks fast.&lt;/p&gt;&lt;p&gt;AI generated&lt;/p&gt;&lt;p&gt;European digital privacy advocacy group NOYB filed five complaints against Scale AI in France, Italy, the Netherlands and Austria on Oct 27 , alleging it illegally monitored freelance workers who produce training data for artificial intelligence models.
+The complaints target Outlier, a platform it operates on which more than 900,000 freelancers perform various tasks that are recorded to create AI training data for clients such as Meta, OpenAI and Google. Meta owns 49% of Scale AI.
+NOYB is asking regulators to fine Scale AI and examine how the platform assigns tasks.&lt;/p&gt;&lt;p&gt;“You don’t work when you want,” said Thomas Le Bonniec, who spent two years studying the platform for Paris-based research collective DiPLab. “You work when the platform wants you to and there are tasks available.”
+Scale AI did not immediately respond to a request for comment.
+The complaints seen by Reuters said up to 19 trackers follow workers while they work, including recording keystrokes and mouse movements every few seconds. An investigation by DiPLab found the resulting file could be rebuilt into a video that replays a work session from start to finish.&lt;/p&gt;&lt;p&gt;Workers must also submit identification documents and face video to identity verification firm Persona. The complaints said the checks were invasive, repeated without explanation, and broke European Union rules on biometric data.
+Outlier also uses game-like mechanisms, and bonuses are a key part of its incentive system, DiPLab found.
+Outlier offered bonuses of US$100 (S$128) to US$200 for completing 200 tasks in 24 hours, Le Bonniec said, citing interviews with workers during his investigation. Italy’s data protection authority fined delivery platform Glovo in 2021 over similar gamification, he added.&lt;/p&gt;&lt;p&gt;Four workers asked Outlier for copies of their data between December 2025 and May 2026. None received an answer, the complaints said. REUTERS&lt;/p&gt;&lt;p&gt;More on this topic&lt;/p&gt;&lt;p&gt;US trade commission chair suggests AI developers should be liable for conduct of agents&lt;/p&gt;&lt;p&gt;Weapons, spying and cyber operations: Anthropic exposes Claude misuse&lt;/p&gt;&lt;p&gt;See more on&lt;/p&gt;&lt;p&gt;Europe
+Artificial Intelligence
+AI/artificial intelligence
+Privacy issues
+Surveillance&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>straits_times_world</wire:foundAt>
+      <wire:platform>The Straits Times</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.straitstimes.com/world/europe/privacy-group-files-complaints-against-scale-ai-over-alleged-worker-surveillance</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Reuters said</wire:evidence>
+    </item>
   </channel>
 </rss>
