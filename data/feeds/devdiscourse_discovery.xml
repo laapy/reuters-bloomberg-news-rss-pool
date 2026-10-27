@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Adevdiscourse.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 26 Oct 2026 20:24:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 00:01:03 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>US STOCKS-Wall St set for higher open as Anthropic's IPO filing sharpens AI focus</title>
@@ -41,15 +41,25 @@ Among other movers, US-listed shares of Brazilian companies tumbled after Presid
       <guid isPermaLink="false">f51bdb339adeed8d14a3dd40</guid>
       <pubDate>Mon, 26 Oct 2026 06:11:00 +0000</pubDate>
       <description>Citing findings published by Microsoft on October 21, the report said the hacking group Storm-0940, which Microsoft has tracked since 2021, compromised credentials associated with ConnectWise’s Cloud ...</description>
-      <content:encoded>&lt;p&gt;China-aligned hackers used AI tool to target over 2,250 cloud environments worldwide Citing findings published by Microsoft on October 21, the report said the hacking group Storm-0940, which Microsoft has tracked since 2021, compromised credentials associated with ConnectWise’s Cloud Backup application.
-ANI | Updated: 26-10-2026 18:41 IST | Created: 26-10-2026 18:41 IST&lt;/p&gt;&lt;p&gt;Representative Image (Photo/Reuters). Image Credit: ANI&lt;/p&gt;&lt;p&gt;SHARE&lt;/p&gt;&lt;p&gt;Key Takeaways
-AI Summary&lt;/p&gt;&lt;p&gt;Analyzing article...&lt;/p&gt;&lt;p&gt;A China-aligned hacking group used an artificial intelligence (AI) tool to accelerate cyberattacks against hundreds of organisations worldwide, including an incident involving US technology company ConnectWise, according to a report by The Epoch Times (TET). Citing findings published by Microsoft on October 21, the report said the hacking group Storm-0940, which Microsoft has tracked since 2021, compromised credentials associated with ConnectWise’s Cloud Backup application. The stolen credentials potentially enabled attackers to exploit access already authorised by customers using Microsoft’s cloud services.
-The group reportedly used ARTEX, a Chinese-developed AI security-testing tool, to automate scanning, password attempts and exploitation of application permissions. Its targets included government agencies, defence contractors, financial institutions, technology companies and other organisations. According to the TET report, Storm-0940 attempted to access more than 2,250 customer cloud environments through compromised ConnectWise applications. Microsoft clarified that this figure represented attempted access, not confirmed breaches.
-In several cases, the attackers obtained privileged access to cloud systems in less than three hours after initial targeting. Microsoft observed the group examining cloud resources, modifying application credentials and attempting to change permissions. Such changes could allow unauthorised access to persist even after the original compromised credentials were disabled. However, Microsoft noted that successful access did not necessarily mean customer data had been stolen.
-ConnectWise confirmed unauthorised access to credentials associated with its Cloud Backup service, formerly known as SkyKick. In an October 25 update, the company said existing backup archives remained encrypted, isolated and preserved, with no indication they had been compromised. It also reported no evidence that other ConnectWise products or services were affected. The incident disrupted access to Cloud Backup while investigations and restoration work continued. ConnectWise planned to begin allowing partners to restore data from existing backups on October 26, followed by phased re-enrolment. Customers were advised to keep affected application connections disabled until restoration instructions arrived and to check their Microsoft 365 environments for suspicious activity.
-As cited by TET, ARTEX was originally developed to help security professionals identify weaknesses in computer systems. The tool uses AI to plan operations, direct other tools and pursue different ways into networks with limited human intervention. Microsoft said the automation enabled Storm-0940 to conduct operations simultaneously and exploit stolen credentials rapidly. Its researchers warned that the speed of the activity left defenders with very little time to respond to alerts.
-The report noted that ARTEX had previously been identified in attacks involving South Korean financial institutions and Japanese companies. Japanese investigators reportedly found the tool on six overseas servers targeting approximately 80 businesses. Microsoft did not attribute those earlier attacks to Storm-0940. According to TET, ARTEX creator Autumn-27 condemned the tool’s misuse in an October 8 statement, denied involvement in the reported attacks and announced that public updates and maintenance would end.
-Chinese cybersecurity company ThreatBook said on October 16 that ARTEX began as a personal project by its RedAgents product lead. The company acknowledged misuse of the open-source version in major financial-sector security incidents and said it lacked built-in security controls. TET reported that it contacted ThreatBook, Microsoft and ConnectWise for further comment, but none had responded by publication time. (ANI)&lt;/p&gt;&lt;p&gt;(This story has not been edited by Devdiscourse staff and is auto-generated from a syndicated feed.)&lt;/p&gt;&lt;p&gt;READ MORE ON:&lt;/p&gt;&lt;p&gt;Microsoft&lt;/p&gt;&lt;p&gt;Storm-0940&lt;/p&gt;&lt;p&gt;ThreatBook&lt;/p&gt;&lt;p&gt;SkyKick&lt;/p&gt;&lt;p&gt;ConnectWise&lt;/p&gt;&lt;p&gt;Japanese&lt;/p&gt;&lt;p&gt;RedAgents&lt;/p&gt;&lt;p&gt;South Korean&lt;/p&gt;&lt;p&gt;China&lt;/p&gt;&lt;p&gt;Cloud Backup&lt;/p&gt;&lt;p&gt;Chinese&lt;/p&gt;&lt;p&gt;The Epoch Times&lt;/p&gt;&lt;p&gt;ARTEX&lt;/p&gt;&lt;p&gt;ALSO READ&lt;/p&gt;&lt;p&gt;Anthropic&amp;#x27;s IPO filing reveals 1,300% revenue growth, USD 132.9 billion accumulated deficit&lt;/p&gt;&lt;p&gt;Tata Communications to invest Rs 4,350 crore to build India&amp;#x27;s AI Super Highway, connect major data centre hubs&lt;/p&gt;&lt;p&gt;POST / READ COMMENTS&lt;/p&gt;</content:encoded>
+      <wire:foundAt>devdiscourse_discovery</wire:foundAt>
+      <wire:platform>Devdiscourse</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.devdiscourse.com/article/international/3997433-china-aligned-hackers-used-ai-tool-to-target-over-2250-cloud-environments-worldwide</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Brazil Treasury cancels inflation-linked, fixed-rate bond auctions</title>
+      <link>https://www.devdiscourse.com/article/international/3997428-brazil-treasury-cancels-inflation-linked-fixed-rate-bond-auctions</link>
+      <guid isPermaLink="false">d484e647ae85020b2f62c09b</guid>
+      <pubDate>Mon, 26 Oct 2026 06:04:00 +0000</pubDate>
+      <description>Brazil's National Treasury said in a statement on Monday it has canceled the conventional auctions of inflation-linked and fixed-rate government bonds scheduled for Oct 27 and Oct 29, 2026, ...</description>
+      <content:encoded>&lt;p&gt;Brazil Treasury cancels inflation-linked, fixed-rate bond auctions
+Reuters | Updated: 26-10-2026 18:34 IST | Created: 26-10-2026 18:34 IST&lt;/p&gt;&lt;p&gt;SHARE&lt;/p&gt;&lt;p&gt;Key Takeaways
+AI Summary&lt;/p&gt;&lt;p&gt;Analyzing article...&lt;/p&gt;&lt;p&gt;Brazil&amp;#x27;s National Treasury said in a statement on Monday it has canceled the conventional auctions of inflation-linked and fixed-rate government bonds scheduled for Oct 27 and Oct 29, 2026, respectively.
+The Treasury will continue to monitor market conditions and act as needed to ensure the proper functioning of the government bond market and other related asset markets, it added.&lt;/p&gt;&lt;p&gt;(This story has not been edited by Devdiscourse staff and is auto-generated from a syndicated feed.)&lt;/p&gt;&lt;p&gt;POST / READ COMMENTS&lt;/p&gt;</content:encoded>
       <wire:foundAt>devdiscourse_discovery</wire:foundAt>
       <wire:platform>Devdiscourse</wire:platform>
       <wire:relation>unknown</wire:relation>
@@ -57,7 +67,7 @@ Chinese cybersecurity company ThreatBook said on October 16 that ARTEX began as 
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.devdiscourse.com/article/international/3997433-china-aligned-hackers-used-ai-tool-to-target-over-2250-cloud-environments-worldwide</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.devdiscourse.com/article/international/3997428-brazil-treasury-cancels-inflation-linked-fixed-rate-bond-auctions</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -158,21 +168,6 @@ Additionally, “Chinese automakers are increasingly forming alliances with esta
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>80-year old Left leader Lula da Silva elected Brazil President for fourth time</title>
-      <link>https://www.devdiscourse.com/article/international/3997074-80-year-old-left-leader-lula-da-silva-elected-brazil-president-for-fourth-time</link>
-      <guid isPermaLink="false">3f1dee8ccceb0f13043aa424</guid>
-      <pubDate>Sun, 25 Oct 2026 21:29:00 +0000</pubDate>
-      <description>Victory makes the Workers' Party member extend his record as the second longest-serving holder of the office, behind Getúlio Vargas ...</description>
-      <wire:foundAt>devdiscourse_discovery</wire:foundAt>
-      <wire:platform>Devdiscourse</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.devdiscourse.com/article/international/3997074-80-year-old-left-leader-lula-da-silva-elected-brazil-president-for-fourth-time</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
       <title>Brazilian media projects Lula to win presidential runoff against Flávio Bolsonaro</title>
       <link>https://www.devdiscourse.com/article/international/3997071-brazilian-media-projects-lula-to-win-presidential-runoff-against-flvio-bolsonaro</link>
       <guid isPermaLink="false">c65efa37158741d2abe7918a</guid>
@@ -185,6 +180,21 @@ Additionally, “Chinese automakers are increasingly forming alliances with esta
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.devdiscourse.com/article/international/3997071-brazilian-media-projects-lula-to-win-presidential-runoff-against-flvio-bolsonaro</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>80-year old Left leader Lula da Silva elected Brazil President for fourth time</title>
+      <link>https://www.devdiscourse.com/article/international/3997074-80-year-old-left-leader-lula-da-silva-elected-brazil-president-for-fourth-time</link>
+      <guid isPermaLink="false">3f1dee8ccceb0f13043aa424</guid>
+      <pubDate>Sun, 25 Oct 2026 21:29:00 +0000</pubDate>
+      <description>Victory makes the Workers' Party member extend his record as the second longest-serving holder of the office, behind Getúlio Vargas ...</description>
+      <wire:foundAt>devdiscourse_discovery</wire:foundAt>
+      <wire:platform>Devdiscourse</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.devdiscourse.com/article/international/3997074-80-year-old-left-leader-lula-da-silva-elected-brazil-president-for-fourth-time</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -215,21 +225,6 @@ Additionally, “Chinese automakers are increasingly forming alliances with esta
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.devdiscourse.com/article/international/3997070-libya-cannot-remain-a-corridor-for-illegal-migration-trump</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>DIARY-Political and General News Events from October 22</title>
-      <link>https://www.devdiscourse.com/article/international/3996483-diary-political-and-general-news-events-from-october-22</link>
-      <guid isPermaLink="false">225585434e27aac9e40e948d</guid>
-      <pubDate>Thu, 22 Oct 2026 05:52:00 +0000</pubDate>
-      <description>THURSDAY, OCTOBER 22 BERKSHIRE, United Kingdom - King Charles III will welcome Sultan Haitham bin Tarik of Oman to Windsor Castle at the start of a three-day state visit (Final day) ...</description>
-      <wire:foundAt>devdiscourse_discovery</wire:foundAt>
-      <wire:platform>Devdiscourse</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.devdiscourse.com/article/international/3996483-diary-political-and-general-news-events-from-october-22</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
