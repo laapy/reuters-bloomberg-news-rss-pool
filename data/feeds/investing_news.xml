@@ -1,11 +1,79 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Investing.com — diagnostic source feed</title>
     <link>https://www.investing.com/rss/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 29 Oct 2026 09:36:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 16:45:52 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>IMF says Federal Reserve is ’appropriately’ keeping close eye on data</title>
+      <link>https://www.investing.com/news/economy-news/imf-says-federal-reserve-is-appropriately-keeping-close-eye-on-data-4984746</link>
+      <guid isPermaLink="false">0f507c757a94a91d9363553e</guid>
+      <pubDate>Thu, 29 Oct 2026 16:25:06 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/economy-news/imf-says-federal-reserve-is-appropriately-keeping-close-eye-on-data-4984746</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>DoorDash’s Instacart deal may draw FTC scrutiny amid cost-of-living concerns</title>
+      <link>https://www.investing.com/news/stock-market-news/doordashs-instacart-deal-may-draw-ftc-scrutiny-amid-costofliving-concerns-4984745</link>
+      <guid isPermaLink="false">5f014de27dcd8661e4cbd33d</guid>
+      <pubDate>Thu, 29 Oct 2026 16:24:28 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/doordashs-instacart-deal-may-draw-ftc-scrutiny-amid-costofliving-concerns-4984745</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>FTC, states sue Toast over fees, deceptive subscription practices</title>
+      <link>https://www.investing.com/news/stock-market-news/ftc-states-sue-toast-over-fees-deceptive-subscription-practices-4984736</link>
+      <guid isPermaLink="false">5492ae576a6469e0dbf38924</guid>
+      <pubDate>Thu, 29 Oct 2026 16:19:13 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/ftc-states-sue-toast-over-fees-deceptive-subscription-practices-4984736</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>Exclusive-First Russian diesel from Putin-Trump deal heading for US, data shows</title>
+      <link>https://www.investing.com/news/economic-indicators/exclusivefirst-russian-diesel-from-putintrump-deal-heading-for-us-data-shows-4984735</link>
+      <guid isPermaLink="false">dc5ef0623cb6a90f4d36e156</guid>
+      <pubDate>Thu, 29 Oct 2026 16:18:58 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/economic-indicators/exclusivefirst-russian-diesel-from-putintrump-deal-heading-for-us-data-shows-4984735</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>
