@@ -1,11 +1,79 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Investing.com — diagnostic source feed</title>
     <link>https://www.investing.com/rss/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 29 Oct 2026 21:38:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 01:42:27 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Bayer wins Roundup weedkiller cancer trial while awaiting settlement ruling</title>
+      <link>https://www.investing.com/news/stock-market-news/bayer-wins-roundup-weedkiller-cancer-trial-while-awaiting-settlement-ruling-4985676</link>
+      <guid isPermaLink="false">effc390be848f36bd5312d22</guid>
+      <pubDate>Fri, 30 Oct 2026 01:24:20 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/bayer-wins-roundup-weedkiller-cancer-trial-while-awaiting-settlement-ruling-4985676</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>Amazon burns cash, Intel flags weak PC demand as AI boom’s costs ripple across markets</title>
+      <link>https://www.investing.com/news/stock-market-news/weak-quarter-for-intel-sends-shivers-through-cooling-chip-stocks-4985272</link>
+      <guid isPermaLink="false">836300558768d627b01d3dcd</guid>
+      <pubDate>Fri, 30 Oct 2026 01:18:40 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/weak-quarter-for-intel-sends-shivers-through-cooling-chip-stocks-4985272</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>Microsoft expects to raise $25 billion in US bond sale, sources say</title>
+      <link>https://www.investing.com/news/stock-market-news/microsoft-expects-to-raise-25-billion-in-us-bond-sale-source-says-4984856</link>
+      <guid isPermaLink="false">6f2edeb212a14ce82be7637c</guid>
+      <pubDate>Fri, 30 Oct 2026 01:18:25 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/microsoft-expects-to-raise-25-billion-in-us-bond-sale-source-says-4984856</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>Anthropic accounts for over a third of SpaceX revenue in Q3, Bloomberg reports</title>
+      <link>https://www.investing.com/news/stock-market-news/anthropic-accounts-for-over-a-third-of-spacex-revenue-in-q3-bloomberg-reports-4985678</link>
+      <guid isPermaLink="false">ab03bfc1c15552ffcb5db045</guid>
+      <pubDate>Fri, 30 Oct 2026 01:14:51 +0000</pubDate>
+      <description />
+      <dc:creator>Investing.com</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/anthropic-accounts-for-over-a-third-of-spacex-revenue-in-q3-bloomberg-reports-4985678</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Bloomberg reports</wire:evidence>
+    </item>
   </channel>
 </rss>
