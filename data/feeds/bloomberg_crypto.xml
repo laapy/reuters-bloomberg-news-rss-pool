@@ -5,7 +5,7 @@
     <link>https://feeds.bloomberg.com/crypto/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Fri, 30 Oct 2026 08:15:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 15:14:30 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Record Binance Hack Shows No Crypto Firm Is Too Big to Breach</title>
@@ -25,11 +25,28 @@
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
-      <title>Bitcoin Drops on Binance Hack as Stock Selloff Also Weighs</title>
+      <title>Bitcoin Stolen in Binance Hack Is Likely ‘Gone,’ Ballet Says</title>
+      <link>https://www.bloomberg.com/news/articles/2026-10-30/bitcoin-stolen-in-binance-hack-is-likely-gone-ballet-says</link>
+      <guid isPermaLink="false">ab364b682808ab4349ce0397</guid>
+      <pubDate>Fri, 30 Oct 2026 05:19:19 +0000</pubDate>
+      <description>The Bitcoin stolen in the hack of Binance’s crypto exchange will probably be impossible to recover, according to Bobby Lee, founder of digital-asset hardware wallet company Ballet Global Inc.</description>
+      <dc:creator>Haslinda Amin</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_crypto</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-10-30/bitcoin-stolen-in-binance-hack-is-likely-gone-ballet-says</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Bitcoin Drops Below $77,000 as Binance Hack Shakes Crypto</title>
       <link>https://www.bloomberg.com/news/articles/2026-10-30/bitcoin-drops-on-binance-hack-as-stock-selloff-also-weighs</link>
-      <guid isPermaLink="false">6fc1a7552aed23cbbcdf97c7</guid>
+      <guid isPermaLink="false">bcf93eef31e7ed4f8d0a3c1e</guid>
       <pubDate>Fri, 30 Oct 2026 03:40:56 +0000</pubDate>
-      <description>Bitcoin fell below $77,000 for the first time in over a month after Binance Holdings, the world’s largest crypto exchange, said it had been hacked.</description>
+      <description>Bitcoin sank below $77,000 for the first time in more than a month, deepening a selloff after Binance Holdings revealed a record hack that rattled the crypto industry and renewed questions about the security of customer assets — even at the world’s largest digital-asset exchange.</description>
       <dc:creator>Suvashree Ghosh</dc:creator>
       <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>bloomberg_crypto</wire:foundAt>
@@ -56,23 +73,6 @@
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/newsletters/2026-10-29/bitcoin-s-18th-birthday-is-not-without-growing-pains</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Bitcoin Traders Expect Swings on $11 Billion Options Expiry</title>
-      <link>https://www.bloomberg.com/news/articles/2026-10-29/bitcoin-traders-brace-for-swings-on-11-billion-options-expiry</link>
-      <guid isPermaLink="false">2700be08980c753bb9ac04d7</guid>
-      <pubDate>Thu, 29 Oct 2026 00:50:59 +0000</pubDate>
-      <description>Bitcoin traders are bracing for potentially sharper price swings as $11 billion of options expire this week, just days before US midterm elections that could add further uncertainty to crypto markets.</description>
-      <dc:creator>Sidhartha Shukla</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_crypto</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-10-29/bitcoin-traders-brace-for-swings-on-11-billion-options-expiry</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
   </channel>
