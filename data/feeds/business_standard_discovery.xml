@@ -5,35 +5,34 @@
     <link>https://www.bing.com/news/search?q=site%3Abusiness-standard.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Fri, 30 Oct 2026 01:42:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 08:15:41 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>Microsoft's cloud growth, cash flow offer respite from AI spending fears</title>
-      <link>https://www.business-standard.com/world-news/microsoft-s-cloud-growth-cash-flow-offer-respite-from-ai-spending-fears-126102901904_1.html</link>
-      <guid isPermaLink="false">3981056594788e0ccf7945fe</guid>
-      <pubDate>Thu, 29 Oct 2026 18:22:32 +0000</pubDate>
-      <description>Microsoft's Azure cloud business grew 48% in the September quarter, while free cash flow reached $18.6 billion, easing investor concerns over mounting AI infrastructure spending.</description>
-      <dc:creator>Reuters</dc:creator>
-      <content:encoded>&lt;p&gt;Microsoft on Wednesday delivered a big cash flow beat and forecast strong cloud growth, offering fresh evidence that its hefty artificial intelligence (AI) bets were paying off even as concerns mount over Big Tech’s spending spree. The results underscore a widening financial divide among the industry&amp;#x27;s biggest AI spenders, as soaring infrastructure costs force some rivals to turn more heavily to capital markets. Microsoft’s shares rose more than 3 per cent in after-hours trading. The company posted market-beating 48 per cent growth in its Azure cloud business in its fiscal first quarter ended September, and generated $18.6 billion in free cash flow, some $10 billion more than analysts expected. That financial firepower set the firm apart from its rivals such as Alphabet and Meta, whose heavy AI investments have squeezed free cash flow and increased their reliance on borrowing. “Microsoft’s first-quarter report was about as clean as it gets for a company this size,” said Jesse Cohen, senior analyst at Investing.com. “After Meta’s and Alphabet’s numbers revived AI-spending anxiety, this is the counterweight. Demand still exceeds supply, the commercial backlog is enormous, and returns are finally showing up in earnings and overall revenue.” The results also showed Microsoft capitalising on corporate demand for AI, easing fears that the technology threatens its software empire and that its AI fortunes are too closely tied to unprofitable OpenAI. Still, its ties to the AI lab netted it $10 billion in revenue in the September quarter. Microsoft shares have risen about 9 per cent so far this year compared with a 13 per cent rise in the S&amp;amp;P 500 index.&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
+      <title>Explained: What are dark GPUs and how are they holding back the AI boom?</title>
+      <link>https://www.business-standard.com/technology/tech-news/what-are-dark-gpus-data-centres-electricity-shortage-ai-boom-amazon-nvidia-126103000350_1.html</link>
+      <guid isPermaLink="false">4e512a77589a0b98eb033b51</guid>
+      <pubDate>Fri, 30 Oct 2026 04:54:32 +0000</pubDate>
+      <description>Power shortages are leaving billions of dollars' worth of AI chips unused at data centres. Here's what dark GPUs are, why they matter and how they could slow the AI boom ...</description>
+      <dc:creator>Rimjhim Singh</dc:creator>
+      <content:encoded>&lt;p&gt;The artificial intelligence (AI) boom has run into an unexpected problem: some of the world&amp;#x27;s most powerful computer chips are sitting idle because data centres do not have enough electricity to run them, Business Insider reported. These unused chips, known as &amp;#x27;dark GPUs&amp;#x27;, highlight a growing gap between the pace of investment in AI infrastructure and the availability of power to support it. Business Insider reported last week that Amazon was buying billions of dollars&amp;#x27; worth of Nvidia AI systems even as some of its data centres lacked the electricity needed to operate them. Internal company emails reviewed by Business Insider showed that Amazon Web Services (AWS) expected to receive about $5 billion worth of Nvidia GB300 server racks in August this year, followed by around $3 billion worth every month. Some of the equipment was being stored in warehouses until the required power infrastructure became available. What are dark GPUs? A graphics processing unit (GPU) is a specialised computer chip designed to handle several calculations at the same time. Unlike a central processing unit (CPU), which handles a wide range of general computing tasks, GPUs can process large amounts of data simultaneously. This makes them particularly useful for AI applications, including training large language models, generating images and running AI-powered services. Companies such as Amazon, Microsoft and Google buy thousands of these chips and install them in data centres, where they work together in server racks to provide computing capacity. Dark GPUs are not a separate category of chips. The term refers to GPUs that have been purchased but remain unused because they cannot be switched on or fully utilised. This could be due to inadequate electricity supply, incomplete data centre infrastructure or problems with system design that prevent the hardware from being used efficiently. Why are GPUs sitting idle? The biggest reason is the shortage of electricity and the time required to build supporting infrastructure. AI data centres consume large amounts of electricity because they house thousands of powerful chips that need to operate continuously. They also require cooling systems to prevent the equipment from overheating, along with networking infrastructure to connect the servers. However, building a data centre and securing the required electricity supply can take years. Grid connections, transmission infrastructure and approvals can delay projects even after companies have purchased the hardware. As a result, chips may arrive before the facilities are ready to accommodate them. Research organisation Epoch AI estimated in December 2025 that GPUs account for about 40 per cent of the electricity used by frontier AI data centres at peak operation. Cooling, networking and other infrastructure account for much of the remaining consumption. What problems do dark GPUs create? • Billions of dollars tied up in idle equipmentGPUs are expensive, and companies often spend billions of dollars securing supplies. When these chips remain unused, the investment does not immediately generate revenue. In Amazon&amp;#x27;s case, its Early Rack Receipt programme allows it to take ownership of server racks earlier in the supply chain. While this helps the company secure scarce Nvidia hardware, it also means money is tied up before the equipment starts generating revenue. • Higher costs and financial pressureCompanies must also bear costs associated with storing, maintaining and eventually installing the equipment. They may need additional financing while waiting for data centres to become operational. • Delays in AI servicesWhen computing infrastructure is not ready, companies cannot deploy the full capacity they have purchased. This can delay the expansion of cloud computing services and the availability of computing resources for AI developers and businesses. • Pressure on the wider supply chainThe problem could extend beyond data centre operators. A Reuters report on October 5, citing Morgan Stanley, said US data centre developers faced an estimated net power shortfall of 34 per cent, or 32 gigawatts, through 2028. The brokerage warned that delays in deploying AI infrastructure could also affect demand for memory, optical and other chip components. Is the problem getting bigger? Recent developments at Amazon suggest that the infrastructure challenge is continuing even as technology companies increase their AI investments. On Thursday, Amazon reiterated its plan to spend $220 billion on capital expenditure in 2026, with Chief Executive Officer (CEO) Andy Jassy saying the company expected to spend even more in 2027. The company&amp;#x27;s results for the third quarter showed that its free cash flow had turned negative by $42.4 billion over the trailing 12 months. Jassy, however, said Amazon had strong visibility into customer demand for AI computing capacity through 2027, 2028 and 2029. Amazon&amp;#x27;s third-quarter results showed its free cash flow turned negative, with an outflow of $42.4 billion over the trailing 12 months. The company attributed the decline primarily to higher spending on property and equipment, driven by AI investments.&lt;/p&gt;</content:encoded>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
-      <wire:relation>repost</wire:relation>
+      <wire:relation>unknown</wire:relation>
       <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
+      <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.business-standard.com/world-news/microsoft-s-cloud-growth-cash-flow-offer-respite-from-ai-spending-fears-126102901904_1.html</wire:canonicalUrl>
-      <wire:evidence>structured credit: Reuters</wire:evidence>
+      <wire:canonicalUrl>https://www.business-standard.com/technology/tech-news/what-are-dark-gpus-data-centres-electricity-shortage-ai-boom-amazon-nvidia-126103000350_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Alphabet loses over $500 billion in market value as AI hits Google search</title>
-      <link>https://www.business-standard.com/companies/news/alphabet-loses-over-500-billion-in-market-value-as-ai-hits-google-search-126102901917_1.html</link>
-      <guid isPermaLink="false">080581712b0bd8af5a009cbb</guid>
-      <pubDate>Thu, 29 Oct 2026 17:54:02 +0000</pubDate>
-      <description>Alphabet lost over $500 billion in market value as weaker-than-expected search and advertising sales raised concerns over AI's impact on Google's core business and soaring infrastructure costs.</description>
+      <title>Big tech's $750 billion AI bet faces strain with slowing core growth</title>
+      <link>https://www.business-standard.com/world-news/big-tech-s-750-billion-ai-bet-faces-strain-with-slowing-core-growth-126103000106_1.html</link>
+      <guid isPermaLink="false">30634eb4e02f87657478cac5</guid>
+      <pubDate>Fri, 30 Oct 2026 03:27:06 +0000</pubDate>
+      <description>The earnings reports and the ensuing stock selloffs expose the tensions escalating over big tech's transition to new AI-powered products, and the spending required to get there ...</description>
       <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;Alphabet Inc.’s shares fell more than 13%, for its biggest-ever market value wipeout of more than $500 billion, after the company reported disappointing search and advertising sales that reinforced investor concerns about AI’s threat to its core business. The Google parent reported sales, excluding partner payouts, of $111.2 billion for the third quarter, falling short of analysts’ projections. Ad sales from search and other channels — a business line that accounts for roughly half of overall revenue and is critical to financing the massive AI investments — also missed forecasts, growing at the slowest pace in five quarters. The results and share reaction “show us the margin for error when a hyperscaler spending hundreds of billions on the AI infrastructure buildout” posts disappointing results in its core business, JPMorgan analysts including Doug Anmuth said in a note. The shares declined 13% to $281.37, wiping $511 billion from Alphabet’s market value as of 9:35 a.m. in New York. The company’s performance stood in particularly stark contrast to rival Microsoft Corp., which reported growth in its cloud business that surpassed Wall Street’s expectations while keeping its spending in check. Chief Business Officer Philipp Schindler said in an earnings call with investors late Wednesday that the growing popularity of AI Mode, a new tab in Google Search, took a toll on the company’s results. AI queries have “lower monetization,” Schindler said, though he noted that the company was optimistic and has plans to bring more ads to that part of the search engine. For years, Google executives have argued that AI chatbots and features won’t cut significantly into its search business. But investors have worried about the impact on the company’s cash cow as consumers turn to rivals ChatGPT, Claude and Google’s own AI features. The pressure is mounting on Alphabet Chief Executive Officer Sundar Pichai to justify the more than $1 trillion that Google is facing in future payments on resources such as data centers, computing and energy to power his AI ambitions. “This quarter feels like a moment of truth for Alphabet: Either Pichai and his team fix the way the company monetizes AI, or the giant risks losing its leadership in several of its core businesses in the near future,” said Thomas Monteiro, senior analyst at Investing.com. “Until Google shows it can charge for AI the way it once charged for search ads,” he said, every capital spending forecast it issues is going to “read less like ambition and more like a bill.” Google’s sprint to build AI infrastructure for both itself and customers has sent the firm’s capital expenditures soaring to record levels. The firm is working to overhaul popular products such as the search engine, YouTube and Gmail with AI. But those efforts have yet to yield the kind of revenue the investors want to see to justify all the spending. Google’s overall services revenue totaled $96.3 billion in the third quarter, below estimates for $98.4 billion. YouTube advertising sales of $11.2 billion also fell below projections. In the meantime, Google’s AI bets are getting even more expensive. By the end of the third quarter, Google’s future commitments to buy resources such as computing power and energy totaled $924 billion. Upcoming obligations such as data-center leases that haven’t yet commenced hit $152 billion, bringing the company’s total future obligations to well over $1 trillion. For the second quarter in a row, the company posted negative free cash flow, something it had, up until now, never seen since going public. “Search still generates the bulk of Alphabet’s cash, and two straight quarters of negative free cash flow show the pure AI math isn’t working right now,” said Anders Bylund, contributing tech analyst at the Motley Fool. Alphabet said in July that capital expenditures will reach as much as $205 billion this year, more than double what it spent last year. AI requires massive amounts of computing power, and Google is racing to build data centers so it can meet demand for AI from consumers, businesses and its own employees. Alphabet’s equity investments also weighed on the company’s bottom line. Those stakes posted an $8.7 billion loss, in large part due to Alphabet’s SpaceX position. That’s a sharp reversal from the gains it saw a year earlier and the windfall in the second quarter that was mainly driven by SpaceX and an investment in a private company that Bloomberg later identified as Anthropic PBC. Its third-quarter net income was $2.12 a share, falling far below Wall Street’s estimate of $2.99. One bright spot in the report was Google Cloud, which is seen as a key gauge of demand for the company’s AI products and hosting services. The division reported sales of $30.7 billion and profit of $11.1 billion, surpassing analyst estimates of $29.1 billion in revenue and $9.8 billion in profit. Among the unit’s biggest customers are startups such as Anthropic that compete with Google in the AI race. “Cloud is booming, but many of its best customers are building assistants that are already beating Google with consumers,” Monteiro wrote. “Right now, Alphabet earns more selling AI to its rivals than using it itself, and that gap should keep growing over the next few quarters unless its models change drastically, and quickly.” Over the past few years, Google has been working to reinvent its search engine for the AI age, trying to keep consumers in the habit of relying on its answers even as chatbots from OpenAI and Anthropic become more popular. The company now delivers AI-generated answers in response to many searches, a shift that has had major implications for businesses that have traditionally relied on the search giant for traffic and advertising revenue. Google has worked particularly hard on building an edge by generating more personalized responses to questions, leveraging years of information about its users. In recent months, though, the company has fallen behind Anthropic and OpenAI in developing AI coding tools. Google recently released Gemini 4, which it says excels in areas such as coding and cybersecurity, though some employees fear the company has yet to fully catch up. Hours before its earnings call, Google announced yet another new AI model known as Carbon, a potential answer to the critics who’ve called for the company to speed up the pace of AI development. “We have more models coming soon,” Pichai told analysts on the call, “including more efficient versions to help developers optimize for speed and cost and to deploy across our billions of users.”&lt;/p&gt;</content:encoded>
+      <content:encoded>&lt;p&gt;By Julia Love and Spencer Soper The core businesses of America’s technology giants — the advertising, consumer and retail machines propping up a collective $750 billion in AI spending this year — are starting to show signs of slowing. In some cases, they’re being cannibalized by the very technology the firms are betting the house on. Earlier this week, Google owner Alphabet Inc. reported that ad sales from search and other channels — a business line that accounts for roughly half of overall revenue — grew at the slowest pace in five quarters. Yet the company maintained a capital spending outlook of as much as $205 billion for this year. Amazon.com Inc. said Thursday that growth in both its core ecommerce juggernaut and the advertising business slowed last quarter, before reiterating its plan for roughly $220 billion in capital expenditures this year. Microsoft Corp. and Meta Platforms Inc. similarly maintained their spending guidance, while posting results that ultimately underwhelmed investors.  The earnings reports and the ensuing stock selloffs expose the tensions escalating over big tech’s transition to new AI-powered products, and the spending required to get there. The companies have been issuing unprecedented levels of debt, selling equity, signing multibillion-dollar data center deals and taking on trillions of dollars in future obligations to pay for a worldwide build-out of AI infrastructure. All this while new products are eroding the profitability and drawing attention away from some of their legacy offerings.  Investor patience is wearing thin. Alphabet’s shares plunged by a record on Thursday, wiping out nearly $500 billion in market value. Amazon’s stock was down 7% in late trading. Meta has fallen 10% since reporting earnings last week, when it told investors that it plans to bet even more aggressively on AI while warning that the new agentic AI app Muse is proving to be incredibly computing intensive.  The market is “scratching its head — how does all this pay off?” Dan Morgan, senior portfolio manager at Synovus Trust, said following Alphabet’s earnings.   Even Microsoft, which reported strong growth in its cloud business and kept spending in check, couldn’t avoid the fallout. The company’s shares initially surged after the firm reported that sales at Azure, the closely watched cloud computing division, grew 48% to $33.2 billion during the quarter ending in September. By the time markets closed on Thursday, the stock had erased all gains and was down 0.2%.  Amazon’s results were more nuanced. The company had shifted its annual Prime Day from the third quarter last year to the second quarter this year, which explained some of the slowdown. But analysts had already adjusted their estimates with that in mind, and results still came up short. The commerce giant’s advertising services unit saw growth of 11%, the slowest pace since Amazon first broke it out as a separate category in 2022. And the online stores business grew by just 2%, a level not seen in more than three years when people resumed pre-pandemic spending habits and online shopping cooled.  Those results overshadowed the growth of Amazon’s cloud-computing segment and stoked investors’ doubts about its aggressive investments in AI. Cloud computing was also a bright spot for Google. The cloud division’s sales more than doubled from a year earlier. Operating income more than tripled. The unit’s chief executive officer, Thomas Kurian, joined the earnings call for the first time, signaling the business’ importance to Google going forward.  But investors were more fixated on the cracks emerging within Google Search, which remains the lifeblood of the company. To stay relevant as chatbots such as ChatGPT become more popular, Google has woven more AI into the search engine, including a dedicated tab called AI Mode. But the growing popularity of that feature has hurt the profitability of Google Search. Chief Business Officer Philipp Schindler acknowledged on Wednesday that the firm is seeing “lower monetization” for queries with AI Mode, an admission that sent its stock falling further. Schindler said the company is working to bring more ads to AI Mode and is optimistic about the product’s trajectory. Google has struggled this year to keep up in the AI race against startups Anthropic and OpenAI. If the company can regain footing on AI model development, it will likely resume delivering the returns that investors have come to expect, said Mandeep Singh, an analyst with Bloomberg Intelligence. “With all these transitions, sometimes we get too fixated on the cash cow business,” Singh said. “Given how Cloud has been expanding margins, I feel a combination of the cloud business and search, once they are at the frontier, would take their profitability back to where they were.” It’s also common for new ad formats to launch with lower margins that gradually increase over time, Gene Munster, managing partner of Deepwater Asset Management, said of Google’s lower AI Mode monetization. The firm’s larger challenge is building agents that can make purchases on behalf of users and pocketing a cut of those transactions — a business model that many in Silicon Valley believe is within reach after the success of Meta’s Muse personal assistant.  “The old way of doing it was blue links or display advertising to influence consumer behavior,” Munster said. “The new way is how do you influence the bot.”&lt;/p&gt;</content:encoded>
       <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
@@ -42,164 +41,187 @@
       <wire:confidence>0.99</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.business-standard.com/companies/news/alphabet-loses-over-500-billion-in-market-value-as-ai-hits-google-search-126102901917_1.html</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.business-standard.com/world-news/big-tech-s-750-billion-ai-bet-faces-strain-with-slowing-core-growth-126103000106_1.html</wire:canonicalUrl>
       <wire:evidence>structured credit: Bloomberg</wire:evidence>
     </item>
     <item>
-      <title>Israel seeks election probe after Netanyahu alleges Arab vote rigging</title>
-      <link>https://www.business-standard.com/world-news/israel-seeks-election-probe-after-netanyahu-alleges-arab-vote-rigging-126102901922_1.html</link>
-      <guid isPermaLink="false">11a412a023403a97d103ceee</guid>
-      <pubDate>Thu, 29 Oct 2026 11:22:00 +0000</pubDate>
-      <description>Israel's election watchdog has sought a probe into alleged foreign interference after Netanyahu questioned high Arab voter turnout, as his bloc fell short of a parliamentary majority.</description>
+      <title>Mumbai's coastal edge fades as air pollution levels surge sharply</title>
+      <link>https://www.business-standard.com/india-news/mumbai-s-coastal-edge-fades-as-air-pollution-levels-surge-sharply-126103000556_1.html</link>
+      <guid isPermaLink="false">1c03529dec77d758bfbde795</guid>
+      <pubDate>Thu, 29 Oct 2026 23:48:00 +0000</pubDate>
+      <description>The surge puts the metropolis on track for its sharpest deterioration in air quality during the post-monsoon transition since at least 2019 ...</description>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/world-news/israel-seeks-election-probe-after-netanyahu-alleges-arab-vote-rigging-126102901922_1.html</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.business-standard.com/india-news/mumbai-s-coastal-edge-fades-as-air-pollution-levels-surge-sharply-126103000556_1.html</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Price stability top policy agenda in H2FY27 amid inflation: FinMin review</title>
-      <link>https://www.business-standard.com/economy/news/price-stability-top-policy-agenda-in-h2fy27-amid-inflation-finmin-review-126102901807_1.html</link>
-      <guid isPermaLink="false">bf7c5af9b308629fc844289b</guid>
-      <pubDate>Thu, 29 Oct 2026 11:07:00 +0000</pubDate>
-      <description>The finance ministry flagged elevated crude oil prices, food inflation and kharif crop uncertainty as key risks to price stability, while projecting 7.35% GDP growth in Q2FY27 ...</description>
+      <title>US plans to ban Chinese telecom firms from direct access to phone numbers</title>
+      <link>https://www.business-standard.com/world-news/us-plans-to-ban-chinese-telecom-firms-from-direct-access-to-phone-numbers-126103000244_1.html</link>
+      <guid isPermaLink="false">36c1903a4ffcbb2e3b958f17</guid>
+      <pubDate>Thu, 29 Oct 2026 21:22:00 +0000</pubDate>
+      <description>The US Federal Communications Commission said on Thursday that it will vote on November 19 on a proposal to ban China Mobile, China Telecom and China Unicom and other IP-enabled service providers ...</description>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/economy/news/price-stability-top-policy-agenda-in-h2fy27-amid-inflation-finmin-review-126102901807_1.html</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.business-standard.com/world-news/us-plans-to-ban-chinese-telecom-firms-from-direct-access-to-phone-numbers-126103000244_1.html</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Govt, Volkswagen clash in court over record $1.2 billion tax dispute</title>
-      <link>https://www.business-standard.com/companies/news/govt-volkswagen-clash-in-court-over-record-1-2-billion-tax-dispute-126102901520_1.html</link>
-      <guid isPermaLink="false">84b04c360cd031b5dc01c713</guid>
-      <pubDate>Thu, 29 Oct 2026 11:02:00 +0000</pubDate>
-      <description>By Aditi Shah India defended its record $1.2 billion tax demand against Volkswagen in a Mumbai court on Thursday, saying the German company never provided required information in time, while the ...</description>
+      <title>'Businesses at risk': Delhi traders urge Congress to postpone Nov 1 rally</title>
+      <link>https://www.business-standard.com/india-news/businesses-at-risk-delhi-traders-urge-congress-to-postpone-nov-1-rally-126103000205_1.html</link>
+      <guid isPermaLink="false">9d5771aeeda92d349524067d</guid>
+      <pubDate>Thu, 29 Oct 2026 21:21:00 +0000</pubDate>
+      <description>The CTI has sought a postponement of the November 1 Ramlila Maidan rally, warning that traffic disruption could hit business in 20 key markets during the peak Diwali shopping period ...</description>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/companies/news/govt-volkswagen-clash-in-court-over-record-1-2-billion-tax-dispute-126102901520_1.html</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.business-standard.com/india-news/businesses-at-risk-delhi-traders-urge-congress-to-postpone-nov-1-rally-126103000205_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Microsoft's $25 billion blowout bond puts it in AI winners' circle</title>
+      <link>https://www.business-standard.com/world-news/microsoft-s-25-billion-blowout-bond-puts-it-in-ai-winners-circle-126103000215_1.html</link>
+      <guid isPermaLink="false">0b730595c569ae8a0378db3d</guid>
+      <pubDate>Thu, 29 Oct 2026 20:51:00 +0000</pubDate>
+      <description>The software giant, and one of the premier AI hyperscalers, drew more than four times demand for its 10-part debt sale Thursday ...</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.business-standard.com/world-news/microsoft-s-25-billion-blowout-bond-puts-it-in-ai-winners-circle-126103000215_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Credit swaps for tech companies reach records amid supply concerns</title>
+      <link>https://www.business-standard.com/world-news/credit-swaps-for-tech-companies-reach-records-amid-supply-concerns-126103000211_1.html</link>
+      <guid isPermaLink="false">cb83a2bd6244220350658e83</guid>
+      <pubDate>Thu, 29 Oct 2026 20:49:00 +0000</pubDate>
+      <description>In the credit derivatives market, the cost of protecting Broadcom Inc.'s debt against default for five years rose by about 10 basis points to 175.4 basis points a year ...</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.business-standard.com/world-news/credit-swaps-for-tech-companies-reach-records-amid-supply-concerns-126103000211_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Glacial lake burst triggers flash flood in Bhutan, no injuries reported</title>
+      <link>https://www.business-standard.com/world-news/glacial-lake-burst-triggers-flash-flood-in-bhutan-no-injuries-reported-126103000099_1.html</link>
+      <guid isPermaLink="false">709963119afffb2b45ec61cc</guid>
+      <pubDate>Thu, 29 Oct 2026 20:28:00 +0000</pubDate>
+      <description>A flood caused by the Shintaphu glacial lake bursting its banks damaged infrastructure at the Gasa Tshachu hot springs, a major tourist attraction ...</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.business-standard.com/world-news/glacial-lake-burst-triggers-flash-flood-in-bhutan-no-injuries-reported-126103000099_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Oil prices rise on supply concerns as Houthis attack Saudi Arabia</title>
+      <link>https://www.business-standard.com/markets/commodities/oil-prices-rise-on-supply-concerns-as-houthis-attack-saudi-arabia-126103000085_1.html</link>
+      <guid isPermaLink="false">ecf76d0edaf7e2ce166d067c</guid>
+      <pubDate>Thu, 29 Oct 2026 20:15:00 +0000</pubDate>
+      <description>Brent crude futures rose 86 cents, or 0.75%, to $115.74 a barrel as of 0122 GMT while US West Texas Intermediate (WTI) crude futures rose 72 cents, or 0.71%, to $102.72 ...</description>
+      <content:encoded>&lt;p&gt;Home / Markets / Commodities / Oil prices rise on supply concerns as Houthis attack Saudi Arabia&lt;/p&gt;&lt;p&gt;Oil prices rise on supply concerns as Houthis attack Saudi Arabia Brent crude futures rose 86 cents, or 0.75%, to $115.74 a barrel as of 0122 GMT while US West Texas Intermediate (WTI) crude futures rose 72 cents, or 0.71%, to $102.72&lt;/p&gt;&lt;p&gt;For the month, Brent was on course to finish nearly 14% higher, while WTI was heading for a 15% jump to close above $100 for the first time since April&lt;/p&gt;&lt;p&gt;Reuters SINGAPORE 2 min read Last Updated : Oct 30 2026 | 8:45 AM IST&lt;/p&gt;&lt;p&gt;Listen to This Article&lt;/p&gt;&lt;p&gt;Oil prices climbed in early trade on Friday on supply concerns after Yemen&amp;#x27;s Iran-aligned Houthis stepped up attacks on Saudi Arabia, on track for a fourth straight monthly gain and the steepest since July.
+Brent crude futures rose 86 cents, or 0.75%, to $115.74 a barrel as of 0122 GMT. US West Texas Intermediate (WTI) crude futures rose 72 cents, or 0.71%, to $102.72.
+For the month, Brent was on course to finish nearly 14% higher, while WTI was heading for a 15% jump to close above $100 for the first time since April.
+On Thursday, the Houthis said they had attacked several sites in Saudi Arabia, including its largest oil refinery, Ras Tanura, the Rabigh refinery and an Aramco facility in Abqaiq, while a Saudi-led coalition said it had intercepted a cruise missile launched by the Houthis towards the kingdom&amp;#x27;s western region.&lt;/p&gt;&lt;p&gt;&amp;quot;Continued kinetic action around the Strait of Hormuz amidst doubts of a viable diplomatic pathway are keeping oil prices elevated in expectation of an escalation of the conflict in coming weeks,&amp;quot; said MST Marquee Head of Energy Research Saul Kavonic.
+Also Read&lt;/p&gt;&lt;p&gt;Price stability top policy agenda in H2FY27 amid inflation: FinMin review&lt;/p&gt;&lt;p&gt;Oil prices fall as hopes of US-Iran peace talks ease supply fears&lt;/p&gt;&lt;p&gt;BFSI Insight Summit 2026: &amp;#x27;Lower taxes may bring back foreign investors&amp;#x27;&lt;/p&gt;&lt;p&gt;Brent holds atop $110 as geopolitical risk overrides easing physical stress&lt;/p&gt;&lt;p&gt;Oil rises after attack on Saudi Arabian refinery reignites supply concerns&lt;/p&gt;&lt;p&gt;US President Donald Trump said on Thursday that Vice President JD Vance had reached out to Iran to help the country get medical supplies, after US media reported Vance had written to Tehran&amp;#x27;s top security official to revive peace talks.
+Iran has received a letter from Vance but it has not responded to it yet, the country&amp;#x27;s semi-official Tasnim news agency reported, while adding that Tehran wants the US to meet its conditions and &amp;quot;any position that contradicts this framework is unacceptable.&amp;quot;&lt;/p&gt;&lt;p&gt;Meanwhile, Iran&amp;#x27;s Revolutionary Guards said three tankers hit sea mines, exploded and caught fire while attempting to use an unauthorised route south of the Strait of Hormuz.
+Amid security concerns in the region, ExxonMobil and Chevron have cancelled plans for their executives to travel to the United Arab Emirates&amp;#x27; biggest oil show next week, two sources familiar with the developments told Reuters.&lt;/p&gt;&lt;p&gt;(Only the headline and picture of this report may have been reworked by the Business Standard staff; the rest of the content is auto-generated from a syndicated feed.)&lt;/p&gt;&lt;p&gt;More From This Section&lt;/p&gt;&lt;p&gt;Gold, silver open weak after Fed keeps rates unchanged, prices volatile&lt;/p&gt;&lt;p&gt;Gold, silver prices slip ahead of US Fed decision, Israel election results&lt;/p&gt;&lt;p&gt;Jewellers hold back gold purchases betting on further price drops&lt;/p&gt;&lt;p&gt;Gold prices fall ₹492 ahead of US Fed meeting, silver slips ₹2,004&lt;/p&gt;&lt;p&gt;Oil eases on Gulf diplomacy hopes, Saudi attacks keep supply worries alive&lt;/p&gt;&lt;p&gt;Topics : Crude Oil Price Oil Prices Crude Oil Prices
+Buzzing : Stock Market Live Stocks to Watch Stocks to buy Jio Platforms Share Price Q2 Results Today Market fall explained Microsoft&amp;#x27;s Voluntary Exit Offer Cabinet approves 3% DA hike Gold Silver Price&lt;/p&gt;&lt;p&gt;Don&amp;#x27;t miss the most important news and views of the day. Get them on our Telegram channel
+First Published: Oct 30 2026 | 8:45 AM IST&lt;/p&gt;</content:encoded>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.business-standard.com/markets/commodities/oil-prices-rise-on-supply-concerns-as-houthis-attack-saudi-arabia-126103000085_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>AI firm AM Intelligence seeks $3 billion financing for Nvidia chips order</title>
+      <link>https://www.business-standard.com/companies/news/ai-firm-am-intelligence-seeks-3-billion-financing-for-nvidia-chips-order-126103000083_1.html</link>
+      <guid isPermaLink="false">cae4ce6fa97e910f0dbc674b</guid>
+      <pubDate>Thu, 29 Oct 2026 19:31:00 +0000</pubDate>
+      <description>The funding package for the company, established by the founders of renewable energy producer Greenko Group Plc, could comprise of bonds and bank loans ...</description>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.business-standard.com/companies/news/ai-firm-am-intelligence-seeks-3-billion-financing-for-nvidia-chips-order-126103000083_1.html</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Binance's possible hack triggers $3 billion freeze in crypto assets</title>
+      <link>https://www.business-standard.com/markets/cryptocurrency/binance-s-possible-hack-triggers-3-billion-freeze-in-crypto-assets-126103000072_1.html</link>
+      <guid isPermaLink="false">8934d1cd8c94812fd1fdf6fc</guid>
+      <pubDate>Thu, 29 Oct 2026 18:55:00 +0000</pubDate>
+      <description>The market impact of the possible hacking, which could be the largest-ever crypto heist according to analytics firm Chainalysis, was felt immediately in early Asian trading on Friday ...</description>
+      <content:encoded>&lt;p&gt;Home / Markets / Cryptocurrency / Binance&amp;#x27;s possible hack triggers $3 billion freeze in crypto assets&lt;/p&gt;&lt;p&gt;Binance&amp;#x27;s possible hack triggers $3 billion freeze in crypto assets The market impact of the possible hacking, which could be the largest-ever crypto heist according to analytics firm Chainalysis, was felt immediately in early Asian trading on Friday&lt;/p&gt;&lt;p&gt;Binance, which allows users to buy, sell and trade digital assets, has more than 335 million registered users globally and had about $160 billion in assets under custody as of the exchange&amp;#x27;s 2024 annual report (Photo: Reuters)&lt;/p&gt;&lt;p&gt;Reuters 4 min read Last Updated : Oct 30 2026 | 7:25 AM IST&lt;/p&gt;&lt;p&gt;Listen to This Article&lt;/p&gt;&lt;p&gt;Binance, the world&amp;#x27;s largest cryptocurrency exchange, said on Thursday it had frozen $3 billion in crypto assets as it investigated a potential security breach, with stablecoin issuers Circle and Tether freezing related assets.
+  &amp;quot;Binance will cover all hacking losses,&amp;quot; Binance co-founder Yi He said, without providing more details about the incident.
+  The market impact of the possible hacking, which could be the largest-ever crypto heist according to analytics firm Chainalysis, was felt immediately in early Asian trading on Friday.
+  Bitcoin dropped about 2% to a six-week low of $77,646 and ether fell around 2% to a two-month low of $2,238.76. BNB, a token originally launched as Binance Coin that can be used to pay Binance fees, was down more than 8% over the past 24 hours at $694, according to market aggregator CoinGecko.&lt;/p&gt;&lt;p&gt;Crypto exchange Coinbase Global slid 4.8% while those of bitcoin buyer Strategy fell nearly 6% in extended US trading.
+Also Read&lt;/p&gt;&lt;p&gt;Crypto investors must research; invest only what they can lose: Experts&lt;/p&gt;&lt;p&gt;BFSI Insight Summit: Crypto industry calls for greater regulatory clarity&lt;/p&gt;&lt;p&gt;Crypto industry leaders flag tax hurdles, seek regulatory clarity in India&lt;/p&gt;&lt;p&gt;Crypto boom or risk trap? Experts explain what young investors need to know&lt;/p&gt;&lt;p&gt;Tokenisation offers common ledger for real-world assets, says Edul Patel&lt;/p&gt;&lt;p&gt;Binance said the amount frozen could increase as it worked with law enforcement agencies, token issuers, blockchain intelligence firms and other industry partners to trace and freeze additional assets.
+  Binance co-founder Changpeng Zhao, who no longer runs the company, said in a post on X that the incident &amp;quot;looked like a hack.&amp;quot;
+  Binance, which allows users to buy, sell and trade digital assets, has more than 335 million registered users globally and had about $160 billion in assets under custody as of the exchange&amp;#x27;s 2024 annual report.&lt;/p&gt;&lt;p&gt;BINANCE HAS SECURE ASSET FUND   Binance runs a secure asset fund for users, according to its website, which is a reserve held entirely in bitcoin that is intended to protect user assets in cases of security breaches.
+  &amp;quot;It&amp;#x27;s becoming very hard to counter hacks as AI can find vulnerabilities faster than you can fix them, said Bernardo Brites, CEO of Trace Finance, a payments and stablecoin infrastructure company.
+  &amp;quot;My view is that users will move away from smaller and medium-sized exchanges, (it is) becoming too risky to park your money somewhere that couldn&amp;#x27;t cover a hack of meaningful size.&amp;quot;
+  Tether said it had frozen nearly $1.57 billion in assets linked to the incident, while Circle froze more than $800 million.&lt;/p&gt;&lt;p&gt;Binance said it was conducting security checks and would resume withdrawals once the issue was fully resolved. It added user funds remained safe and that teams were reviewing the incident.
+  The exchange also temporarily suspended trading on its Binance Alpha platform as a precaution.
+  World Liberty Financial, a crypto company linked to US President Donald Trump and his family, said on Thursday it had worked with cryptocurrency custodian BitGo to freeze funds stolen in what it described as a Binance hack. Binance&amp;#x27;s Yi said $27 million in stablecoins and about $2 million worth of World Liberty tokens had been frozen.
+  Crypto firm Ripple also froze roughly $200 million in funds, Yi said. Jack McDonald, senior vice president of stablecoins at Ripple, said the company was closely monitoring reports of a potential exploit involving Binance and was freezing affected funds and coordinating with relevant parties.&lt;/p&gt;&lt;p&gt;INCIDENT ADDS TO STRING OF CRYPTO THEFTS   Miguel Morel, CEO of blockchain intelligence firm Arkham, said data indicated that billions of dollars appeared to have been hacked from Binance by an unknown actor, though the exact cause had not been confirmed. Morel said the incident began around 4:30 p.m. EDT (2030 GMT) and appeared to be ongoing.
+  The incident adds to a string of crypto thefts. Last year, attackers stole $2.9 billion worth of cryptocurrency across nearly 150 attacks, according to researchers at TRM Labs. In September, cryptocurrency exchange Bitget said roughly $350 million in crypto had been stolen from its platform, underscoring the industry&amp;#x27;s vulnerability to hackers.&lt;/p&gt;&lt;p&gt;Authorities have warned that organised crime groups are increasingly using cryptocurrencies to move funds across borders outside the traditional financial system.
+  Binance.US, a separate cryptocurrency exchange, said it was not affected by the security incident.
+  Coinbase said it was unaffected and was monitoring the situation.
+  In an unrelated incident earlier on Thursday, prediction market operator Polymarket temporarily halted trading after a security incident involving a third-party provider. It later resumed trading and said it would fully reimburse affected traders.&lt;/p&gt;&lt;p&gt;(Only the headline and picture of this report may have been reworked by the Business Standard staff; the rest of the content is auto-generated from a syndicated feed.)&lt;/p&gt;&lt;p&gt;More From This Section&lt;/p&gt;&lt;p&gt;Parliamentary panel may recommend govt for action on monitoring crypto&lt;/p&gt;&lt;p&gt;Who is Adam Back, the Bitcoin pioneer behind Blockstream and Liquid?&lt;/p&gt;&lt;p&gt;Bitcoin leads cryptocurrency back above $3 trillion as risky bets grow&lt;/p&gt;&lt;p&gt;FIU issues notice to 15 crypto service providers, asks to take down URLs&lt;/p&gt;&lt;p&gt;Bitcoin hack drains $320 mn from crypto network in latest security breach&lt;/p&gt;&lt;p&gt;Topics : crypto trading cryptocurrency cryptocurrencies bitcoin cryptocurrencies cryptocurrencies bitcoin
+Buzzing : Stock Market Live Stocks to Watch Stocks to buy Jio Platforms Share Price Q2 Results Today Market fall explained Microsoft&amp;#x27;s Voluntary Exit Offer Cabinet approves 3% DA hike Gold Silver Price&lt;/p&gt;&lt;p&gt;Don&amp;#x27;t miss the most important news and views of the day. Get them on our Telegram channel
+First Published: Oct 30 2026 | 7:25 AM IST&lt;/p&gt;</content:encoded>
+      <wire:foundAt>business_standard_discovery</wire:foundAt>
+      <wire:platform>Business Standard</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.business-standard.com/markets/cryptocurrency/binance-s-possible-hack-triggers-3-billion-freeze-in-crypto-assets-126103000072_1.html</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
       <title>Sunil Bharti Mittal awarded France's Legion of Honour for business ties</title>
       <link>https://www.business-standard.com/india-news/sunil-bharti-mittal-awarded-france-s-legion-of-honour-for-business-ties-126102901052_1.html</link>
       <guid isPermaLink="false">df26f57f141ceb0b6151e64b</guid>
-      <pubDate>Thu, 29 Oct 2026 10:37:11 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 03:37:00 +0000</pubDate>
       <description>France's highest civilian distinction acknowledges the Bharti Enterprises chairman's longstanding role in expanding business cooperation and strategic engagement between the two countries ...</description>
-      <dc:creator>Sarjna Rai</dc:creator>
-      <content:encoded>&lt;p&gt;France has honoured Sunil Bharti Mittal, founder and chairman of Bharti Enterprises, with its highest civilian distinction, the Legion of Honour, for his contribution to strengthening economic ties between India and France and his achievements in telecommunications and satellite communications. French Ambassador to India Thierry Mathou conferred the insignia of Chevalier de l&amp;#x27;Ordre national de la Légion d&amp;#x27;honneur, or Knight of the National Order of the Legion of Honour, on Mittal during a ceremony at the Residence of France on October 28. The honour recognises Mittal&amp;#x27;s role in promoting Indo-French business relations through strategic partnerships, investments and collaboration in digital infrastructure and satellite communications. Addressing the gathering, Ambassador Mathou highlighted Mittal&amp;#x27;s associations with French multinational insurance group AXA and telecommunications equipment maker Alcatel-Lucent. He also acknowledged Mittal&amp;#x27;s investment in Eutelsat, the French satellite operator, which supports France&amp;#x27;s ambition to strengthen its strategic independence in space communications. Mathou said the award reflected France&amp;#x27;s appreciation for Mittal&amp;#x27;s longstanding commitment to deepening bilateral economic ties. Accepting the award, Mittal said he was humbled by the recognition. He traced his association with France to 1992, when Compagnie Générale des Eaux partnered with Bharti to introduce mobile telephony in India. His engagement continues through his role as vice-chairman of Eutelsat. The recognition comes as India and France deepen cooperation in space and digital technology under their Special Global Strategic Partnership, with telecommunications and satellite communications emerging as important areas of collaboration.&lt;/p&gt;</content:encoded>
       <wire:foundAt>business_standard_discovery</wire:foundAt>
       <wire:platform>Business Standard</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.business-standard.com/india-news/sunil-bharti-mittal-awarded-france-s-legion-of-honour-for-business-ties-126102901052_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Trent Q2 net profit rises 25% to ₹468 crore on strong apparel sales</title>
-      <link>https://www.business-standard.com/companies/news/trent-q2-net-profit-rises-23-to-464-crore-on-strong-apparel-sales-126102901089_1.html</link>
-      <guid isPermaLink="false">acda5f7cfbbbf18893a615d2</guid>
-      <pubDate>Thu, 29 Oct 2026 06:05:00 +0000</pubDate>
-      <description>Trent reported a 23.1 per cent rise in consolidated net profit to ₹464 crore in the September quarter, driven by strong fashion and lifestyle sales and continued store expansion.</description>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/companies/news/trent-q2-net-profit-rises-23-to-464-crore-on-strong-apparel-sales-126102901089_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Australia sees gains in contest with China for Pacific's 'great game'</title>
-      <link>https://www.business-standard.com/world-news/australia-sees-gains-in-contest-with-china-for-pacific-s-great-game-126102900114_1.html</link>
-      <guid isPermaLink="false">273c8e4d576bff178d2b7504</guid>
-      <pubDate>Thu, 29 Oct 2026 03:18:52 +0000</pubDate>
-      <description>Pacific Island Affairs Minister Pat Conroy said Canberra must deliver on regional commitments to remain the partner of choice, citing treaties and new alliances as key achievements ...</description>
-      <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;By James Mayger Australia’s “permanent contest” with China for influence in the Pacific region, a challenge compared to the 19th century’s Great Game, has made progress over the past few years, according to the official leading the charge against Beijing. “I think we’ve done pretty well,” Minister for Pacific Island Affairs Pat Conroy said in an interview. Yet Canberra now has to deliver on commitments it has made across the region if it wants to remain the partner of choice, he said, adding it’s his job to ensure “every Pacific nation that’s elevated their relationship with us sees the benefits of that.” Since taking power in 2022, the center-left government has focused its foreign and defense policies on China, rebooting ties with Beijing while also attempting to counter its growing sway across the region. Pacific island nations have been a particular focus of Canberra, which is working to undo China’s attempts to build security ties with the tiny states and replace them instead with stronger relationships with Australia, the US and New Zealand.   “We can’t rest on our laurels. It’s a permanent contest,” Conroy said late Wednesday in his office in Canberra, which is decorated with gifts from across the region gathered during his four years in the role.  “But if you think about what we’ve achieved since 2022 with the treaties with Tuvalu, with Nauru, with Fiji, PNG, Vanuatu, the two new alliances, the fact that we’re negotiating treaties right now with Solomons and with Tonga — I think this is one of the critical foreign policy achievements of the Albanese government.”  The attempt to overturn China’s pact with the Solomon Islands is emblematic of that effort.  In 2022, just prior to the Australian election that brought Conroy’s Labor party to power, the Pacific nation signed a security deal with China. Canberra has spent the past four years trying to reverse that accord and an “in principle” deal agreed last month with the Solomons’ new, Australia-friendly leader, is seen as a vindication of that effort. Prime Minister Anthony Albanese said Thursday he would meet with his Solomon Islands counterpart Matthew Wale next week at an international meeting, along with the leaders of Papua New Guinea, Fiji, Tuvalu and Nauru. While Australia is the largest development partner for Pacific island nations, according to the Lowy Institute in Sydney, it has failed to sufficiently promote those efforts and to emphasize the economic advantages of ties with Canberra compared with Beijing, Conroy said.   “Being very frank with you, we can do better on public diplomacy,” he said. “We’ve been focused on delivering projects that have the best value for our partner countries, rather than getting credit for it. And that’s obviously something that comes at a cost for us. So we need to get better at the public diplomacy aspect of it.” Another area where the government has sought to roll back Beijing’s influence is by reducing the presence of Chinese contractors in the construction phase of development activities across the region. “Too often, there are projects around the Indo-Pacific, but particularly in the Pacific, that are funded by countries like Australia and Japan, that because the tendering process has been flawed, and they’ve chosen the lowest bidder rather than the best quality, have gone to a state-owned enterprise of China,” Conroy said.  “Then the Chinese state-owned enterprise has branded it with their branding, and people assume China is funding the project, when it’s taxpayers of Japan or Australia,” he said. Chinese SOEs win a substantial amount of the contracts from multilateral development banks, according to Lowy, although these institutions have acknowledged complaints from Australia and others, according to Conroy. He said the World Bank is moving the fastest to change its procurement practices to prioritize quality and local content over cost.  The Asian Development Bank is also improving, but “I’d still like them to do better in terms of choosing tenderers who prioritize local content,” Conroy said. “If a project’s good enough to be in the Solomons, it’s good enough to use Solomons companies and Solomons workers rather than shipping them all in.” Australia’s drive in the Pacific has elicited some pushback from China, according to Conroy. While declining to detail the specific countermeasures Beijing has used, he reiterated that “we’re in a permanent state of contest. We expect every move we take to advance our partnerships to be tested by other countries who want to be the primary partner.”&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.business-standard.com/world-news/australia-sees-gains-in-contest-with-china-for-pacific-s-great-game-126102900114_1.html</wire:canonicalUrl>
-      <wire:evidence>structured credit: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Shell beats expectations with $10.8 billion profit, hikes buybacks</title>
-      <link>https://www.business-standard.com/world-news/shell-beats-expectations-with-10-8-billion-profit-hikes-buybacks-126102900601_1.html</link>
-      <guid isPermaLink="false">b4d9922e230b4bc96f9dfd9f</guid>
-      <pubDate>Thu, 29 Oct 2026 00:39:00 +0000</pubDate>
-      <description>Shell beat analyst estimates and increased share buybacks as stronger refining margins and higher LNG prices lifted quarterly net profit from $5.43 billion a year earlier ...</description>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/world-news/shell-beats-expectations-with-10-8-billion-profit-hikes-buybacks-126102900601_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Trump and Obama trade barbs in closing week of US midterm election</title>
-      <link>https://www.business-standard.com/world-news/trump-and-obama-trade-barbs-in-closing-week-of-us-midterm-election-126102900493_1.html</link>
-      <guid isPermaLink="false">a8466ae26b7d67f61e0901a2</guid>
-      <pubDate>Wed, 28 Oct 2026 23:18:00 +0000</pubDate>
-      <description>Trump has stepped up rallies amid Republican concerns over losing Congress, while Obama has criticised the president and campaigned for Georgia Senator Jon Ossoff ahead of Tuesday's vote ...</description>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/world-news/trump-and-obama-trade-barbs-in-closing-week-of-us-midterm-election-126102900493_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Why Microsoft thinks most employees will reject its voluntary exit offer</title>
-      <link>https://www.business-standard.com/technology/tech-news/microsoft-buyout-cfo-expects-few-employees-to-accept-voluntary-exit-offer-126102900297_1.html</link>
-      <guid isPermaLink="false">623f88dea7e3359554284146</guid>
-      <pubDate>Wed, 28 Oct 2026 21:41:00 +0000</pubDate>
-      <description>Microsoft has opened a voluntary exit offer for around 60,000 employees across four countries, but CFO Amy Hood expects few eligible staff to accept, citing growth opportunities ...</description>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/technology/tech-news/microsoft-buyout-cfo-expects-few-employees-to-accept-voluntary-exit-offer-126102900297_1.html</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Unocoin Launches India's First Bitcoin Lending Service with Multisig Wallet Security</title>
-      <link>https://www.business-standard.com/content/press-releases-ani/unocoin-launches-india-s-first-bitcoin-lending-service-with-multisig-wallet-security-126102901265_1.html</link>
-      <guid isPermaLink="false">4706abcb7722d9ad6b24c027</guid>
-      <pubDate>Wed, 28 Oct 2026 13:35:00 +0000</pubDate>
-      <description>Unocoin, which has been serving Indian Bitcoin users since 2013 and has over 2.5 million registered users, today announced UnocoinXPledg, India's first Bitcoin lending service with multisig wallet ...</description>
-      <wire:foundAt>business_standard_discovery</wire:foundAt>
-      <wire:platform>Business Standard</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.business-standard.com/content/press-releases-ani/unocoin-launches-india-s-first-bitcoin-lending-service-with-multisig-wallet-security-126102901265_1.html</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
