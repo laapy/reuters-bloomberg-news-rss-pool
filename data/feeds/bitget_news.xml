@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Bitget News — diagnostic source feed</title>
     <link>https://www.bitget.com/stp-news-en-sitemap.xml</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Fri, 30 Oct 2026 20:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 23:37:58 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Deutsche Bank's AI Dollar Warning Could Hit Bitcoin, Gold, and Stocks</title>
+      <link>https://www.bitget.com/news/detail/12560606068095</link>
+      <guid isPermaLink="false">05a6984f04eacbb4042a7da5</guid>
+      <pubDate>Fri, 30 Oct 2026 17:54:30 +0000</pubDate>
+      <description>Foreigners own more than $20 trillion of US shares. Deutsche Bank warned Friday that an AI-led selloff could cut both those stocks and the dollar. That woul</description>
+      <dc:creator>BeInCrypto</dc:creator>
+      <content:encoded>&lt;p&gt;Foreigners own more than $20 trillion of US shares. Deutsche Bank warned Friday that an AI-led selloff could cut both those stocks and the dollar. That would break a decade-old pattern. The dollar usually rises when stocks fall, making it a safe haven. Bitcoin and gold are priced in dollars, and both rallied in August on a weaker dollar and Fed rate bets. Why Foreign Investors Could Lose Twice George Saravelos, Deutsche Banks global head of FX research, set out the case in a client note, Bloomberg reported. He said foreign buying of US stocks now funds the entire US current account deficit. That is the gap between what the US spends abroad and earns. We estimate that roughly 90% of the $20+ trillion value of US equities owned by foreigners is attributable to price appreciation rather than underlying buying. For years, foreigners skipped currency hedging because falling stocks usually lifted the dollar. Saravelos said that cushion flips when the shock starts in the US. Investors rushing to hedge must then sell dollars. That happened after Liberation Day, President Donald Trumps April 2025 tariff announcement. The Bank for International Settlements (BIS) found that hedging by non-US investors fed the dollars slide. Is the AI Dollar Already Breaking With Stocks? Intel fell nearly 30% on a weak forecast, and Amazon slid with other tech names. The SP 500 was down 1.28% by mid-afternoon UTC, TradingView data showed. However, the US Dollar Index, which tracks the dollar against six major currencies, edged up 0.09%. Gold dropped 2.44%, and Bitcoin traded lower. US Dollar Index (DXY), Bitcoin, Gold and SP500 Performance. Source: TradingView Both rank among 2026s worst major assets, despite golds best month since 1999 in August. Deutsche Banks reported comments did not address either asset. DEUTSCHE BANK WARNS AI SELLOFF COULD WEAKEN US DOLLARDeutsche Bank warns the US dollar may lose its traditional safe-haven status during an AI-driven stock market correction. Saravelos named the signal to watch. That is falling US real yields, or bond returns after inflation, alongside weaker stocks and a weaker dollar. It would show markets cutting AI spending forecasts. Fridays trading did not show that mix, as the dollar held firm. Saravelos did not predict a crash. He said dollar risks are more two-sided than markets have priced in recent weeks. Read the article at BeInCrypto&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bitget_news</wire:foundAt>
+      <wire:platform>Bitget News</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>Bitget News source metadata</wire:summarySource>
+      <wire:bodySource>Bitget News public article data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bitget.com/news/detail/12560606068095</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Bloomberg reported</wire:evidence>
+    </item>
   </channel>
 </rss>
