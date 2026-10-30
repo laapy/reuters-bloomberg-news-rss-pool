@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>The Economic Times — diagnostic source feed</title>
     <link>https://economictimes.indiatimes.com/rssfeedsdefault.cms</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Fri, 30 Oct 2026 15:14:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 20:02:06 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Intel stock plunges 30% as weak PC demand and AI costs trigger global chip selloff</title>
+      <link>https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/intel-plunges-25-as-weak-pc-demand-and-ai-costs-trigger-global-chip-selloff/articleshow/135371230.cms</link>
+      <guid isPermaLink="false">0686fc36687120aecf0af45a</guid>
+      <pubDate>Fri, 30 Oct 2026 17:07:00 +0000</pubDate>
+      <description>Intel shares plunged 30% after the chipmaker issued a weak fourth-quarter revenue forecast and warned of negative cash flow for the year. The warning triggered a global semiconductor selloff, with Nvidia, AMD and other chip stocks declining as weak PC demand and rising AI infrastructure costs weighed on sentiment.</description>
+      <dc:creator>ETMarkets.com</dc:creator>
+      <content:encoded>&lt;p&gt;Intel shares tumbled 30% on Friday after the chipmaker issued a weaker than expected revenue outlook and warned that it would not generate positive cash flow this year. The warning added to concerns over slowing PC demand and the mounting costs of expanding artificial intelligence infrastructure, triggering a broader selloff across semiconductor stocks, Reuters reported.Intel stock was trading at $64.54, down 29.9%, after having fallen to a low of $64.11 earlier in the day.The weakness extended beyond Intel, with shares of Advanced Micro Devices, Arm Holdings, Qualcomm, Nvidia, Broadcom and Micron falling between 2% and 9% in premarket trading. The selloff also hit companies supplying equipment and infrastructure to the semiconductor industry, reflecting growing investor caution over the AI investment cycle.For live updates on US Markets, click here The market is in a sell first, ask questions later mood right now, and Intel&amp;#x27;s warning has given investors an easy excuse to take some money off the table across chip stocks, said Matt Britzman, senior equity analyst at Hargreaves Lansdown, according to Reuters.Intel turnaround faces fresh hurdlesIntel&amp;#x27;s outlook has raised fresh questions about CEO Lip Bu Tan&amp;#x27;s efforts to revive the chipmaker, which continues to struggle with a prolonged downturn in the personal computer market while spending heavily on manufacturing expansion and AI related opportunities.The company forecast fourth quarter revenue of $15 billion to $16 billion, below analysts&amp;#x27; average estimate of $17.07 billion, according to data compiled by LSEG. Finance chief David Zinsner also said Intel does not expect to generate positive cash flow this year, Reuters reported.Read more: Nasdaq sinks 2.2% as Amazon, Intel fuel fresh fears over AI spendingIntel was on track to lose more than $123 billion in market value.Memory costs add to PC market pressureRising memory prices are creating another challenge for the chipmaker. Suppliers are shifting production capacity towards high bandwidth memory chips used in AI systems, pushing up PC costs and putting further pressure on consumer demand.PC chips contributed roughly half of Intel&amp;#x27;s third quarter revenue. The company expects sales from the segment to decline more than 20% sequentially in the current quarter, following a 5% drop in the September quarter, Reuters reported. It will be important to see if Intel can expand the highly profitable Xeon product supply to help offset this developing weakness in PC, said Brian Mulberry, chief market strategist at Zacks Investment Management.He added, Bottom line, weaker sales volumes, higher manufacturing costs, and an out of cycle product mix is a recipe for the stock to decline over the near term as future earnings are under a lot of pressure. (Disclaimer: This article is based on inputs from agencies. These do not represent the views of The Economic Times)&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>economic_times</wire:foundAt>
+      <wire:platform>The Economic Times</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/intel-plunges-25-as-weak-pc-demand-and-ai-costs-trigger-global-chip-selloff/articleshow/135371230.cms</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: according to Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>
