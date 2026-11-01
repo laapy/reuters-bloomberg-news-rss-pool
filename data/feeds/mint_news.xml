@@ -1,11 +1,41 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Mint — diagnostic source feed</title>
     <link>https://www.livemint.com/rss/news</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 01 Nov 2026 09:39:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 16:38:42 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Double pay amid protests? Why are Bangladesh garment workers demanding this? How unrest threatens a $47 bn export sector</title>
+      <link>https://www.livemint.com/news/world/double-pay-amid-protests-why-are-bangladesh-garment-workers-demanding-this-how-unrest-threatens-a-47-bn-export-sector-11793543085409.html</link>
+      <guid isPermaLink="false">7da2cc5626e5a27cc2043200</guid>
+      <pubDate>Sun, 01 Nov 2026 15:31:31 +0000</pubDate>
+      <description>Bangladesh garment workers are demanding a minimum monthly wage of 30,000 taka, more than double the current rate, as rising living costs fuel violent protests. The unrest has shut 529 factories, threatening a $47 billion export industry that employs millions and supplies global brands.</description>
+      <dc:creator>Bhanu Pratap</dc:creator>
+      <content:encoded>&lt;p&gt;Bangladesh has set up a wage board to review pay in its garment industry as violent protests over low wages forced more than 500 factories to suspend operations, disrupting one of the country&amp;#x27;s most important export sectors.The government announced the formation of the six-member panel on Sunday and urged workers to return to their jobs. However, the move failed to immediately ease tensions, as thousands of garment workers continued to protest in the capital city Dhaka, and the industrial hub of Gazipur on its outskirts.Police fired tear gas and used water cannons to disperse protesters after some demonstrators allegedly threw bricks at officers.A police vehicle and a police box were also set on fire in separate incidents, Reuters reported. Meanwhile, authorities deployed Border Guard Bangladesh personnel to help maintain order.According to the Bangladesh Garment Manufacturers and Exporters Association (BGMEA), the unrest has forced 529 factories to shut down, leaving nearly 987,190 workers out of work across the country&amp;#x27;s main industrial hubs.Why are Bangladesh garment workers protesting?Workers are demanding a minimum monthly wage of 30,000 taka (around $245), more than double the existing minimum of 12,500 taka. They say the rising cost of food, housing, transport and healthcare has eroded their earnings, leaving many struggling to meet basic household expenses.&amp;quot;The cost of living has increased far beyond our incomes,&amp;quot; worker Mahin Hossain said. After paying rent, he said, workers are left with little money for food, children&amp;#x27;s education and other essential needs.The latest protests follow an unsuccessful attempt by garment manufacturers to raise the minimum monthly wage by 25% to around $90. The proposed increase failed to satisfy workers, who say it falls well short of what they need to cope with rising living costs. The dispute has been escalating since the last week of October. Protests in Ashulia, a major garment manufacturing centre on the outskirts of Dhaka, led dozens of factories to suspend operations on Saturday, with workers taking to the streets to demand higher wages.
+What is the wage board and what will it do?
+Labour and Employment Minister Ariful Haque Choudhury said the wage board was formed following discussions with representatives of workers and employers. He appealed to employees to resume work, warning that continued disruption could affect both manufacturers and workers.
+The six-member panel includes two representatives each from workers and employers, one government representative and an independent member. It has been tasked with reviewing wages in the garment sector and recommending revised pay rates.
+Choudhury cautioned that prolonged factory closures could delay export shipments and payments from international buyers, adding to the financial pressure on manufacturers and workers.
+Why the unrest is concerning for Bangladesh&amp;#x27;s economy
+The protests threaten to disrupt an industry that is central to Bangladesh&amp;#x27;s economy and its position in global supply chains. The ready-made garment sector employs around 4 million people, accounts for more than 80% of the country&amp;#x27;s export earnings and contributes roughly 10% of its gross domestic product.
+Bangladesh is the world&amp;#x27;s second-largest garment exporter after China. Its approximately 3,500 textile and clothing factories supply international brands and retailers, including Levi&amp;#x27;s, Zara, Walmart and H&amp;amp;M.
+Garment exports generated around $55 billion last year, with the sector accounting for approximately 85% of the country&amp;#x27;s export revenue, as per Reuters report.
+Any prolonged shutdown could therefore have consequences beyond factory workers, affecting manufacturers, overseas buyers and the country&amp;#x27;s wider export economy.
+Manufacturers of the country are grappling with rising production costs, periodic shortages of gas and electricity, and uncertainty in energy markets amid tensions in the Middle East.
+With inputs from Reuters&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>mint_news</wire:foundAt>
+      <wire:platform>Mint</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.livemint.com/news/world/double-pay-amid-protests-why-are-bangladesh-garment-workers-demanding-this-how-unrest-threatens-a-47-bn-export-sector-11793543085409.html</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Reuters reported</wire:evidence>
+    </item>
   </channel>
 </rss>
