@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Abnnbloomberg.ca+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 31 Oct 2026 23:11:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 02:30:17 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Loblaw says March data breach affected about two million Canadians</title>
@@ -20,21 +20,6 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/10/23/loblaw-says-march-data-breach-affected-about-two-million-canadians/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Dale Jackson: Canadian investors are not as diversified as they think, survey finds</title>
-      <link>https://www.bnnbloomberg.ca/investing/opinion/2026/10/23/dale-jackson-canadian-investors-are-not-as-diversified-as-they-think-survey-finds/</link>
-      <guid isPermaLink="false">b5bace358f094fa4d37f4286</guid>
-      <pubDate>Fri, 23 Oct 2026 07:13:00 +0000</pubDate>
-      <description>A new survey commissioned by Picton Investments and conducted by Pollara Strategic Insights found 83 per cent of Canadian investors are confident their portfolios are well diversified. But are they?</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/investing/opinion/2026/10/23/dale-jackson-canadian-investors-are-not-as-diversified-as-they-think-survey-finds/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -233,6 +218,21 @@ October’s troubling reputation and what the numbers really say: Stan Wong&lt;/
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/10/20/gm-shares-sink-as-full-year-profit-forecast-misses-wall-street-estimates/</wire:canonicalUrl>
       <wire:evidence>structured credit: Reuters Staff</wire:evidence>
+    </item>
+    <item>
+      <title>SpaceX, Tesla earnings to test Musk’s AI spending ambitions as merger talk grows</title>
+      <link>https://www.bnnbloomberg.ca/business/company-news/2026/10/19/spacex-tesla-earnings-to-test-musks-ai-spending-ambitions-as-merger-talk-grows/</link>
+      <guid isPermaLink="false">777b6456be62b8d30424651b</guid>
+      <pubDate>Mon, 19 Oct 2026 04:47:00 +0000</pubDate>
+      <description>SpaceX and Tesla will report third-quarter results on consecutive days this week, giving investors a rare side-by-side look at Elon Musk’s two most valuable companies as merger speculation gathers ...</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/10/19/spacex-tesla-earnings-to-test-musks-ai-spending-ambitions-as-merger-talk-grows/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Aswissinfo.ch+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 31 Oct 2026 23:11:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 02:30:17 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>US Jobs Pickup May Keep Fed on Track to Hike Rates Again</title>
@@ -155,18 +155,36 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Wall Street’s AI Debt Machine Is Starting to Choke on Supply</title>
-      <link>https://www.swissinfo.ch/eng/wall-streets-ai-debt-machine-is-starting-to-choke-on-supply/92288022</link>
-      <guid isPermaLink="false">17b8c2e66a36f598b328dec0</guid>
-      <pubDate>Wed, 28 Oct 2026 04:31:00 +0000</pubDate>
-      <description>A new anxiety is gripping Wall Street as it bankrolls the vast network of data centers and chips behind the artificial intelligence boom: Early signs suggest that the credit market is approaching the ...</description>
+      <title>Switzerland knocked off world competitiveness perch</title>
+      <link>https://www.swissinfo.ch/eng/various/switzerland-drops-two-places-in-the-competitiveness-rankings/91608155</link>
+      <guid isPermaLink="false">aa3cd1c42201bac97bc76d21</guid>
+      <pubDate>Thu, 18 Jun 2026 08:35:12 +0000</pubDate>
+      <description>Read more: The mid-terms and democracy, a new national park, and political hamburgers Switzerland, China and Germany’s mistakes Read more: Switzerland, China and Germany’s mistakes Newsletter: Who ...</description>
+      <dc:creator>swissinfo.ch</dc:creator>
+      <content:encoded>&lt;p&gt;WHO candidate Hanan Balkhy: ‘The bottom line is that the funding is slimmer’&lt;/p&gt;&lt;p&gt;Read more: WHO candidate Hanan Balkhy: ‘The bottom line is that the funding is slimmer’&lt;/p&gt;</content:encoded>
       <wire:foundAt>swissinfo_discovery</wire:foundAt>
       <wire:platform>SWI swissinfo.ch</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.swissinfo.ch/eng/wall-streets-ai-debt-machine-is-starting-to-choke-on-supply/92288022</wire:canonicalUrl>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.swissinfo.ch/eng/various/switzerland-drops-two-places-in-the-competitiveness-rankings/91608155</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Swiss watchdog investigates banks over sharing pay details</title>
+      <link>https://www.swissinfo.ch/eng/business/swiss-watchdog-investigates-banks-over-sharing-pay-details/48108898</link>
+      <guid isPermaLink="false">32dabc28093454dbfd09122d</guid>
+      <pubDate>Mon, 05 Dec 2022 00:42:00 +0000</pubDate>
+      <description>Read more: How Trump’s magnet fixation puts Swiss high-tech industry in tough spot Swiss drone defence: ‘We’re flying partly blind’ Read more: Swiss drone defence: ‘We’re flying partly blind’ Trump ...</description>
+      <wire:foundAt>swissinfo_discovery</wire:foundAt>
+      <wire:platform>SWI swissinfo.ch</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.swissinfo.ch/eng/business/swiss-watchdog-investigates-banks-over-sharing-pay-details/48108898</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
