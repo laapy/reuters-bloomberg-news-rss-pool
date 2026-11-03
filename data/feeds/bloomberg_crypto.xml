@@ -5,7 +5,7 @@
     <link>https://feeds.bloomberg.com/crypto/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 03 Nov 2026 06:33:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 14:55:39 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Binance Hack Linked to North Korea Raises Questions for Crypto</title>
@@ -90,6 +90,40 @@
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-11-02/bitcoin-s-resilience-after-binance-hack-masks-market-jitters</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Over Sleepless Nights, Binance Fought to Contain Hack</title>
+      <link>https://www.bloomberg.com/news/articles/2026-10-31/rogue-code-2-test-runs-and-no-sleep-inside-the-binance-hack</link>
+      <guid isPermaLink="false">55786841c2260f4ebf10ae0a</guid>
+      <pubDate>Sat, 31 Oct 2026 14:10:00 +0000</pubDate>
+      <description>The biggest crypto hack in history began with a rehearsal.</description>
+      <dc:creator>Ben Weiss, Muyao Shen and Olga Kharif</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_crypto</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-10-31/rogue-code-2-test-runs-and-no-sleep-inside-the-binance-hack</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Binance Hack Exposes Crypto Risk: Disappearing Money</title>
+      <link>https://www.bloomberg.com/news/articles/2026-10-30/record-binance-hack-shows-no-crypto-firm-is-too-big-to-breach</link>
+      <guid isPermaLink="false">12c84a3dadb7044dcdfe7e8c</guid>
+      <pubDate>Fri, 30 Oct 2026 07:15:53 +0000</pubDate>
+      <description>The theft of at least $6.3 billion in cryptocurrency from the world’s marquee digital-asset exchange shows that however sophisticated the fortifications, high-tech criminals are still finding a way in.</description>
+      <dc:creator>Suvashree Ghosh and Scott Patterson</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_crypto</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-10-30/record-binance-hack-shows-no-crypto-firm-is-too-big-to-breach</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
   </channel>
