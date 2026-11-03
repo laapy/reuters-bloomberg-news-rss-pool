@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>The Economic Times — diagnostic source feed</title>
     <link>https://economictimes.indiatimes.com/rssfeedsdefault.cms</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 02 Nov 2026 17:22:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 00:01:03 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Anthropic revenue jumps 1,100% ahead of IPO as AI spending commitments near $900 billion</title>
+      <link>https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-revenue-jumps-1100-ahead-of-ipo-as-ai-spending-commitments-near-900-billion/articleshow/135472235.cms</link>
+      <guid isPermaLink="false">44e65d586bcc33585dc744bc</guid>
+      <pubDate>Mon, 02 Nov 2026 18:51:00 +0000</pubDate>
+      <description>Anthropic reported a 1,100% surge in third quarter revenue to $17 billion ahead of its planned IPO later this month. However, the AI company also disclosed a $23.3 billion net loss and nearly $895 billion in spending commitments, raising questions about AI infrastructure costs and investor appetite for its proposed listing.</description>
+      <dc:creator>ETMarkets.com</dc:creator>
+      <content:encoded>&lt;p&gt;AI Claude maker Anthropic reported a sharp surge in revenue ahead of its planned stock market debut (IPO) later this month, but its latest financial filing also highlights the enormous costs of competing in the artificial intelligence race. The five year old company recorded $17 billion in third quarter revenue, up more than 1,100% from $1.4 billion a year earlier, AFP reported.The San Francisco based AI developer, founded by former OpenAI researchers Dario Amodei and Daniela Amodei, reported a net loss of $23.3 billion for the July-September quarter, according to its amended IPO filing cited by AFP. Much of the loss stemmed from non-cash accounting charges linked to the company&amp;#x27;s rising valuation.For live updates on US Markets, click here However, its operating loss stood at $567 million as the company spent more on short term computing capacity. Revenue growth also slowed from previous quarters amid intensifying competition from OpenAI and lower cost AI models, many of them from China.$895 billion in AI commitmentsAnthropic&amp;#x27;s amended filing disclosed spending commitments of approximately $895 billion, largely towards computing infrastructure, with $70 billion due before September 2027.The scale of these obligations comes at a time when investors are increasingly questioning whether massive investments in AI infrastructure will generate returns quickly enough. AFP noted that concerns over AI spending triggered a sharp selloff in Big Tech stocks last week after corporate earnings highlighted heavy investments without clear signs of corresponding returns.Also Read: US stocks rise as oil tumbles on peace hopes, investors eye midterm electionThe company&amp;#x27;s roughly 400 page filing also devoted more than 90 pages to risks, including concerns about unexpected and potentially harmful AI behaviour.Anthropic IPO to test investor appetite for AIAnthropic&amp;#x27;s proposed listing is emerging as a major test of investor confidence in the AI boom. The company is considering raising around $100 billion at a valuation of $1.5 trillion to $2 trillion. Such an offering would surpass the record $86 billion raised by SpaceX in June.The company&amp;#x27;s corporate structure also gives its founders significant control. Dario and Daniela Amodei will retain 50.1% of shareholder voting power through a special share, limiting the influence of public investors.The IPO comes as other major AI players seek capital to fund their ambitions. Meta and Alphabet have launched fundraising plans, while Oracle announced a $20 billion capital raising plan on Monday, despite investor concerns about its financial exposure to AI spending, AFP reported.Anthropic plans to sell $3.5 billion worth shares to Japanese investorsAnthropic plans to raise up to 552.9 billion yen ($3.5 billion) through a share sale to Japanese investors as part of its planned US public listing, according to a filing released on Monday, Reuters reported.Proceeds from the newly issued shares will be used to support working capital requirements, cover operating expenses and finance capital expenditure, the filing stated.Mizuho Securities will oversee the share offering in Japan. Goldman Sachs, Mitsubishi UFJ Morgan Stanley Securities and Morgan Stanley MUFG Securities will assist in handling investor subscription applications, the filing added.(Disclaimer: This article is based on inputs from agencies. These do not represent the views of The Economic Times)&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>economic_times</wire:foundAt>
+      <wire:platform>The Economic Times</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-revenue-jumps-1100-ahead-of-ipo-as-ai-spending-commitments-near-900-billion/articleshow/135472235.cms</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Reuters reported</wire:evidence>
+    </item>
   </channel>
 </rss>

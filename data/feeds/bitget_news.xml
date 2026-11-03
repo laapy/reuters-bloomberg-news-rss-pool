@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Bitget News — diagnostic source feed</title>
     <link>https://www.bitget.com/stp-news-en-sitemap.xml</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 02 Nov 2026 17:22:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 00:01:03 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>TotalEnergies says Iran war could accelerate energy transition</title>
+      <link>https://www.bitget.com/news/detail/12560606078057</link>
+      <guid isPermaLink="false">38f2f7d0ec732326fac029a6</guid>
+      <pubDate>Mon, 02 Nov 2026 18:39:36 +0000</pubDate>
+      <description>TotalEnergies (EPA: TTE) sees potential for the war with Iran to accelerate the energy transition after a surge in electric vehicle sales in recent months,</description>
+      <dc:creator>Mining.com</dc:creator>
+      <content:encoded>&lt;p&gt;TotalEnergies (EPA: TTE) sees potential for the war with Iran to accelerate the energy transition after a surge in electric vehicle sales in recent months, its sustainability chief said on Monday, though the trend will need to continue for it to revise its forecasts. CEO Patrick Pouyanne said the company still expects oil prices to peak sometime in the 2030s or 2040s, though he added that the company could not be more precise. The US-Israeli war with Iran has upended global energy markets, sending oil and gas prices soaring and pushing consumers to switch to electric vehicles to reduce the cost of pricey fuel. In its annual energy outlook, TotalEnergies said the crisis could act as an “accelerator” of the energy transition, pointing to a sharp increase in EV sales in Asia, Latin America and Europe, and an increase in biofuel blending requirements that were influencing energy consumption patterns. Sustainability and Strategy Director Aurelien Hamelle told reporters there had been a “stunning acceleration” of low-carbon technology between the second quarter of 2025 and the second quarter of 2026. However Hamelle said that despite the acceleration in electric vehicle adoption, “oil demand will rebound once prices normalize”. He also pointed to stronger-than-expected growth in the aviation sector and more robust growth in the petrochemical industry offsetting some of the benefit from more EV use. Under the company’s current trends scenario, the report also projects global natural gas demand to rise by 12.5% from 2025 to 2035, reaching 4,780 billion cubic metres. Electricity demand is projected to nearly double from 31,900 terawatt hours in 2025 to 59,300 terawatt hours in 2050. (Reporting by Dominique Patton; Editing by Alison Williams and Jan Harvey)&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>bitget_news</wire:foundAt>
+      <wire:platform>Bitget News</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>Bitget News source metadata</wire:summarySource>
+      <wire:bodySource>Bitget News public article data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bitget.com/news/detail/12560606078057</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: Reporting by Dominique Patton; Editing by</wire:evidence>
+    </item>
   </channel>
 </rss>
