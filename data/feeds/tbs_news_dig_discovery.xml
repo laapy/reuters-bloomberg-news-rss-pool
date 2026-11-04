@@ -1,49 +1,310 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>TBS NEWS DIG — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Anewsdig.tbs.co.jp+%28Reuters+OR+Bloomberg+OR+%E3%83%AD%E3%82%A4%E3%82%BF%E3%83%BC+OR+%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%90%E3%83%BC%E3%82%B0%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 03 Nov 2026 20:48:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 01:07:18 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>米パランティアの見通し、AI主導の売上高成長に減速の兆し示す</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3058306</link>
-      <guid isPermaLink="false">62eb4a92de6740f09468f9d1</guid>
-      <pubDate>Tue, 03 Nov 2026 06:03:00 +0000</pubDate>
-      <description>（ブルームバーグ）：米パランティア・テクノロジーズの四半期見通しは、売上高の伸びが鈍化する可能性を示した。同社は米軍を主要顧客の一つとするAIを活用したデータ分析プラットフォーム。パランティアは10－12… ...</description>
-      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;1時間前
-BMW、利益見通しを2四半期連続で下方修正－事業再編進める&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
-      <wire:platform>TBS NEWS DIG</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3058306</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: （ブルームバーグ）</wire:evidence>
-    </item>
-    <item>
-      <title>AI・半導体で韓国景気は堅調も冷え込む家計 「K字型」の二極化がより鮮明に</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3047580</link>
-      <guid isPermaLink="false">5de2de0295eb949d6ad209fc</guid>
-      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
-      <description>■要旨・韓国景気経済はAI・半導体需要を追い風に輸出主導で堅調な成長。・物価高や株安で家計は低迷し二極化する「K字型」格差が拡大。・景気恩恵の偏りと家計部門の疲弊が李在明政権の重しである。　韓国では、… ...</description>
-      <dc:creator>TBS CROSS DIG with Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;1時間前
-BMW、利益見通しを2四半期連続で下方修正－事業再編進める&lt;/p&gt;</content:encoded>
+      <title>S&amp;P500種が小反発、半導体に買いも中間選挙で様子見－円158円台半ば - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE1NV0pHbmxCTlh1cmdVNF9IbGdnTWM1MVVSc21ZeXZtR0l1aV9YQlVRME9jd1Z5a2hhdW9BT1hmOFJaQ2hrQTNwX0U1YlNvYXpjMWp6RlVVVWJwQUVub21LUXRmb0ROdjM4NTI2ZVhSMXp6NVR5?oc=5</link>
+      <guid isPermaLink="false">b94a9084dcf1e502d7f8c2b3</guid>
+      <pubDate>Tue, 03 Nov 2026 22:28:00 +0000</pubDate>
+      <description>S&amp;P500種が小反発、半導体に買いも中間選挙で様子見－円158円台半ば    TBS NEWS DIG</description>
       <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
       <wire:platform>TBS NEWS DIG</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://newsdig.tbs.co.jp/articles/withbloomberg/3047580</wire:canonicalUrl>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE1NV0pHbmxCTlh1cmdVNF9IbGdnTWM1MVVSc21ZeXZtR0l1aV9YQlVRME9jd1Z5a2hhdW9BT1hmOFJaQ2hrQTNwX0U1YlNvYXpjMWp6RlVVVWJwQUVub21LUXRmb0ROdjM4NTI2ZVhSMXp6NVR5?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>【欧州市況】株は下落、米イラン合意期待しぼむ－英・独債反落 - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE8ySWxFOUxDa05xYlh0ZzBLWHNITHgyTzgycnRoNkNJVTlLa05QZ3l4T1lPOGczLTBwOHBNNnU2Mmp5YmlobDJ2Ty1LMkMxZEpMNGpQWWFzdHJZUVhnWWVuUER3V0Y0VnF3T1JqOXltZ3NRd1ky?oc=5</link>
+      <guid isPermaLink="false">5166b8566c92f9e564b9243f</guid>
+      <pubDate>Tue, 03 Nov 2026 22:28:00 +0000</pubDate>
+      <description>【欧州市況】株は下落、米イラン合意期待しぼむ－英・独債反落    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE8ySWxFOUxDa05xYlh0ZzBLWHNITHgyTzgycnRoNkNJVTlLa05QZ3l4T1lPOGczLTBwOHBNNnU2Mmp5YmlobDJ2Ty1LMkMxZEpMNGpQWWFzdHJZUVhnWWVuUER3V0Y0VnF3T1JqOXltZ3NRd1ky?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>原油と天然ガスが一段安、米・イラン外交進展の新たな報道で - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE5SaDNVRUk5a0JraDR4RFdMdlBLQ2JycUp4LUI3VDZnWHBKdVQyWTNuX3VEYllFa3NJanJFRl9qRmJUekowbTBlVENmd05HX1VYTEZGYVQ4MmhHdXFhbHVsN2NOdVFDb3BUR3A2Y2loak84U2V6?oc=5</link>
+      <guid isPermaLink="false">9e07d913a0710269730936ac</guid>
+      <pubDate>Tue, 03 Nov 2026 22:28:00 +0000</pubDate>
+      <description>原油と天然ガスが一段安、米・イラン外交進展の新たな報道で    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE5SaDNVRUk5a0JraDR4RFdMdlBLQ2JycUp4LUI3VDZnWHBKdVQyWTNuX3VEYllFa3NJanJFRl9qRmJUekowbTBlVENmd05HX1VYTEZGYVQ4MmhHdXFhbHVsN2NOdVFDb3BUR3A2Y2loak84U2V6?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>スーパー・マイクロ、売上高見通しが予想上回る－AIサーバー需要堅調 - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE5HM2EzY1pNRVZPWmQ0dUVpUjhFYlNwNzlLMGR1MlRHUHVJSURGTXlnN1ZBSndEVVlJMlIxZE5lcGs2NzRNX3BIV2pHZnhuR0FPTUhGVlF3M1MxLUxYSERQWURtZDhaWUVmRUU4b1RwdXZJUnRx?oc=5</link>
+      <guid isPermaLink="false">d163d4b536bc2014c8eefee3</guid>
+      <pubDate>Tue, 03 Nov 2026 22:10:33 +0000</pubDate>
+      <description>スーパー・マイクロ、売上高見通しが予想上回る－AIサーバー需要堅調    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE5HM2EzY1pNRVZPWmQ0dUVpUjhFYlNwNzlLMGR1MlRHUHVJSURGTXlnN1ZBSndEVVlJMlIxZE5lcGs2NzRNX3BIV2pHZnhuR0FPTUhGVlF3M1MxLUxYSERQWURtZDhaWUVmRUU4b1RwdXZJUnRx?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>BMW、利益見通しを2四半期連続で下方修正－事業再編進める - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTFBwNlZlZnBTWjA2M3lsQ2IyOFdrRXloYnFuMnR3emF2alhYeG5fT0lhbWdVWFltbHNWY2dBcnZjZUhKSnlfVnJaWlJXWE40WUE2UUpZRTN4SmJNYmFBOVFIejl5QV9zTTh5cGRNMGFXVE9CQTJs?oc=5</link>
+      <guid isPermaLink="false">259e61d18e19cebac00c96d4</guid>
+      <pubDate>Tue, 03 Nov 2026 19:33:44 +0000</pubDate>
+      <description>BMW、利益見通しを2四半期連続で下方修正－事業再編進める    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTFBwNlZlZnBTWjA2M3lsQ2IyOFdrRXloYnFuMnR3emF2alhYeG5fT0lhbWdVWFltbHNWY2dBcnZjZUhKSnlfVnJaWlJXWE40WUE2UUpZRTN4SmJNYmFBOVFIejl5QV9zTTh5cGRNMGFXVE9CQTJs?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>米・イラン、仲介国の最新案を検討－全面戦争の再燃回避を模索 - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tSlBkZGZQU09YdVNIbnNDbENSemRhRlpjQ0JneVh6QWRWV0hXaHVyVUZVS05Xa2haUXp6VVc2dWpiQkkzYThkTkNDYm9FTmNTalB0ZkVfcmpjSkhwUms3ZzRWdV94REk?oc=5</link>
+      <guid isPermaLink="false">7bcc951b11675359ebd23e62</guid>
+      <pubDate>Tue, 03 Nov 2026 09:17:00 +0000</pubDate>
+      <description>米・イラン、仲介国の最新案を検討－全面戦争の再燃回避を模索    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tSlBkZGZQU09YdVNIbnNDbENSemRhRlpjQ0JneVh6QWRWV0hXaHVyVUZVS05Xa2haUXp6VVc2dWpiQkkzYThkTkNDYm9FTmNTalB0ZkVfcmpjSkhwUms3ZzRWdV94REk?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>中国人民銀、外貨預金準備率を2ポイント引き上げへ－15日から実施 - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTFB4YXBWZnVGXzhWY3htc1lxUzhrMWNmX2tHVXkxZ2NOX25FZGlGajVXaEJrcWNEVHdXb3ZpUlZUeUJJRTFoTUF6YXpfblN0WGZ4YmJtNDVtVW9HRFFHVVNXclF2Wm5oTThUR3BsaHRURE9qVlFp?oc=5</link>
+      <guid isPermaLink="false">0179c92a35b109596d41f634</guid>
+      <pubDate>Tue, 03 Nov 2026 08:06:00 +0000</pubDate>
+      <description>中国人民銀、外貨預金準備率を2ポイント引き上げへ－15日から実施    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTFB4YXBWZnVGXzhWY3htc1lxUzhrMWNmX2tHVXkxZ2NOX25FZGlGajVXaEJrcWNEVHdXb3ZpUlZUeUJJRTFoTUF6YXpfblN0WGZ4YmJtNDVtVW9HRFFHVVNXclF2Wm5oTThUR3BsaHRURE9qVlFp?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>米オラクル、株式売り出しで99億ドル調達－11%のディスカウント - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE5GUnFFYTFWZ3RlUlVEdkZTblhtdnFBZ3NaaXpLYm5QSTVnZ2dMRUpUTU53M29iTEJoWGFwWWFFd1JrX2xjTGQzeHhtaEVpMEMwTWU1TUlYc3ZfLW13ZWZZMUxxdGVJSktLTEFtV2hpalhHTkFp?oc=5</link>
+      <guid isPermaLink="false">ca369adc4465b024d7827189</guid>
+      <pubDate>Tue, 03 Nov 2026 08:04:00 +0000</pubDate>
+      <description>米オラクル、株式売り出しで99億ドル調達－11%のディスカウント    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE5GUnFFYTFWZ3RlUlVEdkZTblhtdnFBZ3NaaXpLYm5QSTVnZ2dMRUpUTU53M29iTEJoWGFwWWFFd1JrX2xjTGQzeHhtaEVpMEMwTWU1TUlYc3ZfLW13ZWZZMUxxdGVJSktLTEFtV2hpalhHTkFp?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>ディズニー、数千人規模の削減検討－管理職に20%のコスト削減要請 - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTFA3ZTlWWWdNZHp3UzR4LUNmSlFNSHVBckFkLXlyMldHY3RqeXdXQUpCTnBOaEw5aG5BaHJudHp4TGJhVEFILWxhS0poNlFCNEJacEdIeUl0dFpJNy02dHFtM3daWko2aWJ6TFNjdElteXdOWHVp?oc=5</link>
+      <guid isPermaLink="false">c882e0232c500b1e86236f48</guid>
+      <pubDate>Tue, 03 Nov 2026 08:04:00 +0000</pubDate>
+      <description>ディズニー、数千人規模の削減検討－管理職に20%のコスト削減要請    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTFA3ZTlWWWdNZHp3UzR4LUNmSlFNSHVBckFkLXlyMldHY3RqeXdXQUpCTnBOaEw5aG5BaHJudHp4TGJhVEFILWxhS0poNlFCNEJacEdIeUl0dFpJNy02dHFtM3daWko2aWJ6TFNjdElteXdOWHVp?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>米株は反発、イラン巡る外交進展の観測で原油急落－ドル157円台後半 - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTFBvZ1NXWkprMXRSRFhkSklfSkhSR0k5RHhPVTBrbmFWenViem5XMllWY3dkSEFJTmZPdXpTYV8xMFdWR1c0cjFfOS1mY1VxMXFEWjhUTnNJLXhhSjQ0a3N5TWU5Q0lrVHU4Qm0wX2NwaDNFY0Z2?oc=5</link>
+      <guid isPermaLink="false">0fe7067bc7342c5476269fa4</guid>
+      <pubDate>Mon, 02 Nov 2026 23:58:00 +0000</pubDate>
+      <description>米株は反発、イラン巡る外交進展の観測で原油急落－ドル157円台後半    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTFBvZ1NXWkprMXRSRFhkSklfSkhSR0k5RHhPVTBrbmFWenViem5XMllWY3dkSEFJTmZPdXpTYV8xMFdWR1c0cjFfOS1mY1VxMXFEWjhUTnNJLXhhSjQ0a3N5TWU5Q0lrVHU4Qm0wX2NwaDNFY0Z2?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>トランプ氏、民主が議会掌握ならマスク氏「守る」－予防的恩赦辞さず - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE9lbElqaHlCaVJGdUt2OEFXSGh4cHR4NktVZ2JxN09fU0ZPaE90LWhOQkp5TC1EWTA3OTlva0tkd1JBdlRCc0g0NElUSFI3V3BKQ1BqYlNrUTBMdFNxbFpQWTM1SVV6S0E2RFBuUktaVmMtVDcw?oc=5</link>
+      <guid isPermaLink="false">82a4b4d9332a866aed99ddf9</guid>
+      <pubDate>Mon, 02 Nov 2026 23:58:00 +0000</pubDate>
+      <description>トランプ氏、民主が議会掌握ならマスク氏「守る」－予防的恩赦辞さず    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE9lbElqaHlCaVJGdUt2OEFXSGh4cHR4NktVZ2JxN09fU0ZPaE90LWhOQkp5TC1EWTA3OTlva0tkd1JBdlRCc0g0NElUSFI3V3BKQ1BqYlNrUTBMdFNxbFpQWTM1SVV6S0E2RFBuUktaVmMtVDcw?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>米ISM製造業指数、拡大ペースやや加速－生産が約5年ぶり高水準 - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE5mNks2a2hEOEVPcThxamtKUG8xSjhBbi1mRnhuZ3JBU05BS3NhWDFaNXAxaEdwcTR4WWtXaTVja2hyV3h0RVM4U0NJZ1VReDhCdGhlcFRkY2M5M1ByWHJ3ZUVWb0pqdDJIaVZCSHROWkNFZFFr?oc=5</link>
+      <guid isPermaLink="false">9ac7ea4d5f36eea6521d1253</guid>
+      <pubDate>Mon, 02 Nov 2026 23:57:00 +0000</pubDate>
+      <description>米ISM製造業指数、拡大ペースやや加速－生産が約5年ぶり高水準    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE5mNks2a2hEOEVPcThxamtKUG8xSjhBbi1mRnhuZ3JBU05BS3NhWDFaNXAxaEdwcTR4WWtXaTVja2hyV3h0RVM4U0NJZ1VReDhCdGhlcFRkY2M5M1ByWHJ3ZUVWb0pqdDJIaVZCSHROWkNFZFFr?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>SBIHDとフジHD、メディア・コンテンツ領域で資本業務提携－合弁設立 - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE5aZ2xHR2RtaERTVVBRUm1PcmVadkxJb3oyekM2anpzc0Z5U0RGS1YxRTJuYzRkOWxuM0RsNXFUa0MtZjFnWTI2Yl9nR2FXQ1NoaXhTRDZFdVpCVVpKa2ptU0xDNlhKZkVrZmJoZjVpbzNwQ2FS?oc=5</link>
+      <guid isPermaLink="false">e94872ce81cae4d86382717c</guid>
+      <pubDate>Mon, 02 Nov 2026 08:34:00 +0000</pubDate>
+      <description>SBIHDとフジHD、メディア・コンテンツ領域で資本業務提携－合弁設立    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE5aZ2xHR2RtaERTVVBRUm1PcmVadkxJb3oyekM2anpzc0Z5U0RGS1YxRTJuYzRkOWxuM0RsNXFUa0MtZjFnWTI2Yl9nR2FXQ1NoaXhTRDZFdVpCVVpKa2ptU0xDNlhKZkVrZmJoZjVpbzNwQ2FS?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>GMOが役員報酬減額、熊谷CEOは月額報酬30%を3カ月－不正アクセスで - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTFBUZ2ItVzJXZExhQXUxNUYyYjd2RDhNOEtUOFdtaHczUjNkYW4xYmthZzdXR0NMa1lHc0FKWVVTRmRDNnhGYUNEX0hKdVY4Nk13NUx2bVlybUcxSHlqSEFpZm5TQWxvWm9pNlZyOVdmZnQxLUY0?oc=5</link>
+      <guid isPermaLink="false">f9c3cf3d1c5d0f43b2b5528a</guid>
+      <pubDate>Mon, 02 Nov 2026 08:34:00 +0000</pubDate>
+      <description>GMOが役員報酬減額、熊谷CEOは月額報酬30%を3カ月－不正アクセスで    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTFBUZ2ItVzJXZExhQXUxNUYyYjd2RDhNOEtUOFdtaHczUjNkYW4xYmthZzdXR0NMa1lHc0FKWVVTRmRDNnhGYUNEX0hKdVY4Nk13NUx2bVlybUcxSHlqSEFpZm5TQWxvWm9pNlZyOVdmZnQxLUY0?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>三菱商事のカナダLNG事業､ブラックストーンらが一部取得－約4900億円 - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE5BY1ZSRVhObDZFTGtwalhvam5CV25XeWtoTm8yMGFReFd3T2pNSDBaSDVGUXdyeUVDNWc4UHQ0aVhhQVZoRmlLU1NBdmdLVGVIY0FpRlFEeGVYS2lwY2d6OUIzdW9RekEwcTJfODg0VEd4bjdL?oc=5</link>
+      <guid isPermaLink="false">54a6bc44707798b36278c42c</guid>
+      <pubDate>Mon, 02 Nov 2026 08:34:00 +0000</pubDate>
+      <description>三菱商事のカナダLNG事業､ブラックストーンらが一部取得－約4900億円    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE5BY1ZSRVhObDZFTGtwalhvam5CV25XeWtoTm8yMGFReFd3T2pNSDBaSDVGUXdyeUVDNWc4UHQ0aVhhQVZoRmlLU1NBdmdLVGVIY0FpRlFEeGVYS2lwY2d6OUIzdW9RekEwcTJfODg0VEd4bjdL?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>米民主マーフィー上院議員、腕のしびれ訴え病院に搬送－脳卒中と診断 - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE1rOERNNUZNd054dER2Wl91ZnI4YUJmSjkybkxib1RYa1hwbmVEOGFXZk50NXMzVGs5ajl3R0xBU3R0Z3NfV0pJdWZEeFM5cGs5aFM4ejFaUWk0MHhNN3QxSXdYSkhzbHp0UlR4dk0xWTdQZElS?oc=5</link>
+      <guid isPermaLink="false">3a9916960e211ebe95d78780</guid>
+      <pubDate>Mon, 02 Nov 2026 06:38:00 +0000</pubDate>
+      <description>米民主マーフィー上院議員、腕のしびれ訴え病院に搬送－脳卒中と診断    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE1rOERNNUZNd054dER2Wl91ZnI4YUJmSjkybkxib1RYa1hwbmVEOGFXZk50NXMzVGs5ajl3R0xBU3R0Z3NfV0pJdWZEeFM5cGs5aFM4ejFaUWk0MHhNN3QxSXdYSkhzbHp0UlR4dk0xWTdQZElS?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>台湾株、海外勢が10月に過去最大の約5兆円売り越し－AI関連株急落で - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE9OOHlBQVJjLVhUeDJ2REJQd1JmUXFKQmVKMFBpaVpDV0V6TXU5VkEtcjMwRWRlYVJMaGFqOGpWbFVWRGIzUUNnUlFmZUtHYzNzekFSNmQtWlh6YXduRDYtNk1UV1lKSW56eWRMNEFtdG0wVHZv?oc=5</link>
+      <guid isPermaLink="false">74d4ac1024913c320d5f2b37</guid>
+      <pubDate>Mon, 02 Nov 2026 03:23:00 +0000</pubDate>
+      <description>台湾株、海外勢が10月に過去最大の約5兆円売り越し－AI関連株急落で    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE9OOHlBQVJjLVhUeDJ2REJQd1JmUXFKQmVKMFBpaVpDV0V6TXU5VkEtcjMwRWRlYVJMaGFqOGpWbFVWRGIzUUNnUlFmZUtHYzNzekFSNmQtWlh6YXduRDYtNk1UV1lKSW56eWRMNEFtdG0wVHZv?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>野村元役員が3メガ系証券幹部に相次ぎ転身､三菱モルガンも元常務起用 - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Ld1BhRkNnemJrOWNscWU0aUxlWENDbk90U1N1Znp6ZUlaajFrNTk1M0V0NHNNd1VXczRQMFhFZnA4VmxfX0lVbVpJenpXTkJNWlBFS0dlbmE1R1puZnNFb1FnOTRzdG8?oc=5</link>
+      <guid isPermaLink="false">f86c7082b6319adcd6153283</guid>
+      <pubDate>Mon, 02 Nov 2026 03:05:00 +0000</pubDate>
+      <description>野村元役員が3メガ系証券幹部に相次ぎ転身､三菱モルガンも元常務起用    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Ld1BhRkNnemJrOWNscWU0aUxlWENDbk90U1N1Znp6ZUlaajFrNTk1M0V0NHNNd1VXczRQMFhFZnA4VmxfX0lVbVpJenpXTkJNWlBFS0dlbmE1R1puZnNFb1FnOTRzdG8?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>キオクシアHD株が大幅安､3Q計画は市場期待に届かず-還元策強化も - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE54dE5jUS1LUVh4RnpQODNnRGdfZU94T0hOUlg0c2NxX1EzSkNveGlHN1NLenZzZU9NZkF1WS1uQk9aTl9zSHdteS1iaGQ5VWtRNkVlUVVWdHhhWkJtOVNHbDBJMUYwU2dwcDRtRFhsOEVKbVhB?oc=5</link>
+      <guid isPermaLink="false">fbd2f20ca9873da0628114b4</guid>
+      <pubDate>Mon, 02 Nov 2026 00:23:00 +0000</pubDate>
+      <description>キオクシアHD株が大幅安､3Q計画は市場期待に届かず-還元策強化も    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMidEFVX3lxTE54dE5jUS1LUVh4RnpQODNnRGdfZU94T0hOUlg0c2NxX1EzSkNveGlHN1NLenZzZU9NZkF1WS1uQk9aTl9zSHdteS1iaGQ5VWtRNkVlUVVWdHhhWkJtOVNHbDBJMUYwU2dwcDRtRFhsOEVKbVhB?oc=5</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>キオクシアHD利益計画予想下振れ、アナリスト悲観視も4Q期待不変 - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5ZWprRUFmMFJhQXgyQnRJdGhvSWFZU0NBSXJVZ19IczI3SF9FcTAyTThGUE1MNk5oMHVuQVVmMm5SWUxrYWxldG5VQmJkRHg3WTY0cmJvaGtmalpZV0d5QzRGcUZLZkE?oc=5</link>
+      <guid isPermaLink="false">0584b7911f8010f2b2dc1d04</guid>
+      <pubDate>Sun, 01 Nov 2026 23:38:00 +0000</pubDate>
+      <description>キオクシアHD利益計画予想下振れ、アナリスト悲観視も4Q期待不変    TBS NEWS DIG</description>
+      <wire:foundAt>tbs_news_dig_discovery</wire:foundAt>
+      <wire:platform>TBS NEWS DIG</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5ZWprRUFmMFJhQXgyQnRJdGhvSWFZU0NBSXJVZ19IczI3SF9FcTAyTThGUE1MNk5oMHVuQVVmMm5SWUxrYWxldG5VQmJkRHg3WTY0cmJvaGtmalpZV0d5QzRGcUZLZkE?oc=5</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
