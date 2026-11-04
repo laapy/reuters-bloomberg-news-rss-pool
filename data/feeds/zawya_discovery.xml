@@ -1,314 +1,194 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>ZAWYA — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Azawya.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 04 Nov 2026 07:52:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 16:02:43 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>Emaar considers buyout of construction arm valued at nearly $14bln, Bloomberg News reports - Zawya</title>
-      <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxNVmxwVnJuU2lHZFNZY014Y2pROTkxVFNkZWlBVklBbzVTVXRiMFRidGQzeVhsakF1UkFJMVRhX3VsNkFMb25YWGd2NW16clpQdUg5QVh6RlBjNzhYY2V4RGpSNEdqbXNYNVhKQkxUcno0Xy1Dem9EUVBxbFhzRi13V0tTRUtpMlBlUzJBZmhrZTdXdzY1TEp6d2tjdloyMkFQNWFKY1V4Y1FpRlRxMXJSRzhQb3YwN0NaMEVQa1BXeGIzS25WcG04a2J6OVN5Zw?oc=5</link>
-      <guid isPermaLink="false">6463e862af1d1002a69072c2</guid>
-      <pubDate>Tue, 03 Nov 2026 15:05:07 +0000</pubDate>
-      <description>Emaar considers buyout of construction arm valued at nearly $14bln, Bloomberg News reports    Zawya</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>zawya_discovery</wire:foundAt>
-      <wire:platform>ZAWYA</wire:platform>
-      <wire:relation>mention</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.86</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMizgFBVV95cUxNVmxwVnJuU2lHZFNZY014Y2pROTkxVFNkZWlBVklBbzVTVXRiMFRidGQzeVhsakF1UkFJMVRhX3VsNkFMb25YWGd2NW16clpQdUg5QVh6RlBjNzhYY2V4RGpSNEdqbXNYNVhKQkxUcno0Xy1Dem9EUVBxbFhzRi13V0tTRUtpMlBlUzJBZmhrZTdXdzY1TEp6d2tjdloyMkFQNWFKY1V4Y1FpRlRxMXJSRzhQb3YwN0NaMEVQa1BXeGIzS25WcG04a2J6OVN5Zw?oc=5</wire:canonicalUrl>
-      <wire:evidence>reporting reference, not an exact wire credit: Bloomberg News reports</wire:evidence>
-    </item>
-    <item>
-      <title>Emaar studying buyout of $14bln construction arm, Bloomberg News reports - Zawya</title>
-      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxOSWRENjBkWHFWblFxN2hneDFUWEdTcWlQZzJvQTFKWFpPeDJic2ZDUFRXRS1tcjZHckViWXRxSl9sdW9mR0hLWFhFVlBLSVYxdkF0aVdBa0xDZUxtdmgyZlNkU3FFNTgxMWhBZXRyNVV6Y1RVRTBHQU1wYXVxUHlPa0EweUFLRGE0WXI5OFFvNXJhcVpMc3ZkLTVYY0FQQ0JoTEVyRjZPRFNKOFVwWEpPcHFKTGxjQQ?oc=5</link>
-      <guid isPermaLink="false">0f957427e05bcb6c379ebcfa</guid>
-      <pubDate>Tue, 03 Nov 2026 14:00:00 +0000</pubDate>
-      <description>Emaar studying buyout of $14bln construction arm, Bloomberg News reports    Zawya</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>zawya_discovery</wire:foundAt>
-      <wire:platform>ZAWYA</wire:platform>
-      <wire:relation>mention</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.86</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMitgFBVV95cUxOSWRENjBkWHFWblFxN2hneDFUWEdTcWlQZzJvQTFKWFpPeDJic2ZDUFRXRS1tcjZHckViWXRxSl9sdW9mR0hLWFhFVlBLSVYxdkF0aVdBa0xDZUxtdmgyZlNkU3FFNTgxMWhBZXRyNVV6Y1RVRTBHQU1wYXVxUHlPa0EweUFLRGE0WXI5OFFvNXJhcVpMc3ZkLTVYY0FQQ0JoTEVyRjZPRFNKOFVwWEpPcHFKTGxjQQ?oc=5</wire:canonicalUrl>
-      <wire:evidence>reporting reference, not an exact wire credit: Bloomberg News reports</wire:evidence>
-    </item>
-    <item>
-      <title>Disney eyes thousands of layoffs, managers asked to cut 20% in costs, Bloomberg News reports - Zawya</title>
-      <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxPMHpvX0ZUczBKZmx1aXBpa0ZMYzU3UGNLbGZTTGpEZ0pLcHYyWXozTEhOZjFwaFBsWjhjWDNlU3VPMDZRTkRRQjBfN0NWeWFTMi1MQ2x0LW1IMmx4Xy12UFJ4Y1ZEUWRuaHlhVzlTeGQwUDVFd1V4YXpacmR0bmQ2RDBZWTdiRnYyZm04c1p6QVJfc3MyZWF3Y1VGY2h0YkNOZC1aU0xOR21fbEVxMWhPQ2tuUFJwanpXRk04cm1sMkIyejFudnNybzln?oc=5</link>
-      <guid isPermaLink="false">921a2d46f95ba73fede93a18</guid>
-      <pubDate>Tue, 03 Nov 2026 03:00:00 +0000</pubDate>
-      <description>Disney eyes thousands of layoffs, managers asked to cut 20% in costs, Bloomberg News reports    Zawya</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>zawya_discovery</wire:foundAt>
-      <wire:platform>ZAWYA</wire:platform>
-      <wire:relation>mention</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.86</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiygFBVV95cUxPMHpvX0ZUczBKZmx1aXBpa0ZMYzU3UGNLbGZTTGpEZ0pLcHYyWXozTEhOZjFwaFBsWjhjWDNlU3VPMDZRTkRRQjBfN0NWeWFTMi1MQ2x0LW1IMmx4Xy12UFJ4Y1ZEUWRuaHlhVzlTeGQwUDVFd1V4YXpacmR0bmQ2RDBZWTdiRnYyZm04c1p6QVJfc3MyZWF3Y1VGY2h0YkNOZC1aU0xOR21fbEVxMWhPQ2tuUFJwanpXRk04cm1sMkIyejFudnNybzln?oc=5</wire:canonicalUrl>
-      <wire:evidence>reporting reference, not an exact wire credit: Bloomberg News reports</wire:evidence>
-    </item>
-    <item>
-      <title>Abu Dhabi's ADNOC, G42 sign deal with OpenAI as Sam Altman travels to UAE - Zawya</title>
-      <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRWV5WHQ3NWFpYjRpN25VLUR5M0JYd0o3OXFVdVNqS29yaWpyNmZTWEluWEZEUnpQcVFfR2hkemVpZ250bWZSQlhOUWFJcUQzLTF3eWotbXVhWV9NeEFRZElESHpjVF9pWnVQUDFHRzVvZDBVTTRTeDZRSWZDRmxJcklEUk9LX056bWl6bEIwQ2VyUTZGZXpfa3pvQkZlZXBJNWNhUC1xRHJrTDFpZUxwaDByU1lqbGV4MG1sUlZEV3lwY3gyS25yRUVxdklVNXFneWFyeU9R?oc=5</link>
-      <guid isPermaLink="false">3f239fde4364e9e96ec47dc2</guid>
-      <pubDate>Mon, 02 Nov 2026 08:53:48 +0000</pubDate>
-      <description>Abu Dhabi's ADNOC, G42 sign deal with OpenAI as Sam Altman travels to UAE    Zawya</description>
+      <title>India's IndiGo in talks with Embraer to buy 100 jets, sources say</title>
+      <link>https://www.zawya.com/en/business/indian-sub-continent/indias-indigo-in-talks-with-embraer-to-buy-100-jets-sources-say-1973996</link>
+      <guid isPermaLink="false">cd3ffb0a5891726e3aee7962</guid>
+      <pubDate>Wed, 04 Nov 2026 15:03:53 +0000</pubDate>
+      <description>India's largest airline IndiGo is in talks to buy 100 Embraer regional jets, with the option for about 50 more, three people with direct knowledge of the matter said, in what could be one of the ...</description>
+      <dc:creator>Abhijith Ganapavaram, Aditi Shah</dc:creator>
       <wire:foundAt>zawya_discovery</wire:foundAt>
       <wire:platform>ZAWYA</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRWV5WHQ3NWFpYjRpN25VLUR5M0JYd0o3OXFVdVNqS29yaWpyNmZTWEluWEZEUnpQcVFfR2hkemVpZ250bWZSQlhOUWFJcUQzLTF3eWotbXVhWV9NeEFRZElESHpjVF9pWnVQUDFHRzVvZDBVTTRTeDZRSWZDRmxJcklEUk9LX056bWl6bEIwQ2VyUTZGZXpfa3pvQkZlZXBJNWNhUC1xRHJrTDFpZUxwaDByU1lqbGV4MG1sUlZEV3lwY3gyS25yRUVxdklVNXFneWFyeU9R?oc=5</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.zawya.com/en/business/indian-sub-continent/indias-indigo-in-talks-with-embraer-to-buy-100-jets-sources-say-1973996</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>China stocks post biggest monthly loss since 2016 on AI selloff - Zawya</title>
-      <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNmVsbTFZbFNQWkpoaDg0elN3dTI0c25IMWdzVy1YUU10N3Y3RDdxM2pGdzV0MEZ1RW1wVlZqc081ZlFnTVFkRW5GMnNZdm1udmRTRzl4REpqVHBKRUVHZmU4UnFBZjNyR3JEeERHV2I0eUtNWjMwTzlicGJIb3ByZ2Y2UHloQWNseHhtTW05VVF6czlXMzdJQkpLdWZ4OXhKekFpYlBBNkx0cXlKSm0tdW9yNVhUNk0ydUVjWTNTblFFUmcwaTI5aHgxTWprQjh3?oc=5</link>
-      <guid isPermaLink="false">be98c2626aa33f1fa5e19539</guid>
-      <pubDate>Fri, 30 Oct 2026 09:17:33 +0000</pubDate>
-      <description>China stocks post biggest monthly loss since 2016 on AI selloff    Zawya</description>
+      <title>JPMorgan says rising exports, weak demand push global oil market into surplus</title>
+      <link>https://www.zawya.com/en/business/jpmorgan-says-rising-exports-weak-demand-push-global-oil-market-into-surplus-1967832</link>
+      <guid isPermaLink="false">4ddcd533b835a9a0d6228e5b</guid>
+      <pubDate>Wed, 04 Nov 2026 14:57:35 +0000</pubDate>
+      <description>JPMorgan estimates the global oil market returned to a surplus of 1.1 million barrels per day in September, widening to 1.4 million bpd in October, nearly matching last year's average of 1.3 million ...</description>
+      <dc:creator>Pablo Sinha</dc:creator>
       <wire:foundAt>zawya_discovery</wire:foundAt>
       <wire:platform>ZAWYA</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNmVsbTFZbFNQWkpoaDg0elN3dTI0c25IMWdzVy1YUU10N3Y3RDdxM2pGdzV0MEZ1RW1wVlZqc081ZlFnTVFkRW5GMnNZdm1udmRTRzl4REpqVHBKRUVHZmU4UnFBZjNyR3JEeERHV2I0eUtNWjMwTzlicGJIb3ByZ2Y2UHloQWNseHhtTW05VVF6czlXMzdJQkpLdWZ4OXhKekFpYlBBNkx0cXlKSm0tdW9yNVhUNk0ydUVjWTNTblFFUmcwaTI5aHgxTWprQjh3?oc=5</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.zawya.com/en/business/jpmorgan-says-rising-exports-weak-demand-push-global-oil-market-into-surplus-1967832</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Microsoft to raise $25bln in US bond sale, Bloomberg News reports - Zawya</title>
-      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxQVkF3T2VVVGcwWWRhNlJiR05oX0gwY0k0dTRMc1ZVN0gwcnRXMDNfSld4eHVKeVdZS29SdDhBdUhMSkhSSlFpOS1yTlpJS2pMQzh0cXh0WFNuVXRrR1FjdExTenlpTklUbGRQMkFHRTVNcWhrd0d4b2NzY3V5WXI1ejFHMzk4RmFMMmdxQW5ldTR6a0xyYVpxeDVzY29ZczFvX1dOVzIxMVZfZ0FTMDRhSlln?oc=5</link>
-      <guid isPermaLink="false">6a6ff5aadacd2a54eb889a9a</guid>
-      <pubDate>Thu, 29 Oct 2026 18:44:34 +0000</pubDate>
-      <description>Microsoft to raise $25bln in US bond sale, Bloomberg News reports    Zawya</description>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>zawya_discovery</wire:foundAt>
-      <wire:platform>ZAWYA</wire:platform>
-      <wire:relation>mention</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.86</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMisgFBVV95cUxQVkF3T2VVVGcwWWRhNlJiR05oX0gwY0k0dTRMc1ZVN0gwcnRXMDNfSld4eHVKeVdZS29SdDhBdUhMSkhSSlFpOS1yTlpJS2pMQzh0cXh0WFNuVXRrR1FjdExTenlpTklUbGRQMkFHRTVNcWhrd0d4b2NzY3V5WXI1ejFHMzk4RmFMMmdxQW5ldTR6a0xyYVpxeDVzY29ZczFvX1dOVzIxMVZfZ0FTMDRhSlln?oc=5</wire:canonicalUrl>
-      <wire:evidence>reporting reference, not an exact wire credit: Bloomberg News reports</wire:evidence>
-    </item>
-    <item>
-      <title>Masdar prices $600mln blue bond; orders top $1.4bln - Zawya</title>
-      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxNeVlJRUQ3TVN0LWFoRnFnRHZ6M3JxSUpZNXZfZGg1YzJoQzgtSEFsTHhRLUdfTE1OMlBFWHlkNGRHX1Y5R2ZvTE1uMXBDak9UQm1DazJ5SEFiQ3luMlRodVNIQkxOZVhvSE13WkRYVlBTaTFIQUFINzlOcnBHZVd2N1Vpb0RNNlJheEpkdWJJcDdrZFprbDZNcklveWFEUQ?oc=5</link>
-      <guid isPermaLink="false">86723fa9a80867c3065a4ee8</guid>
-      <pubDate>Thu, 22 Oct 2026 07:00:00 +0000</pubDate>
-      <description>Masdar prices $600mln blue bond; orders top $1.4bln    Zawya</description>
+      <title>Mideast Stocks: Dubai leads Gulf gains as investors assess US midterm fallout and Iran standoff</title>
+      <link>https://www.zawya.com/en/capital-markets/mideast-stocks-dubai-leads-gulf-gains-as-investors-assess-us-midterm-fallout-and-iran-standoff-1969406</link>
+      <guid isPermaLink="false">46dbe305cdcbd05e8ed828ed</guid>
+      <pubDate>Wed, 04 Nov 2026 14:49:23 +0000</pubDate>
+      <description>Dubai's main share index jumped 4%, with top lender Emirates NBD surging 6.1% and blue-chip developer Emaar Properties increasing 4.4% ...</description>
+      <dc:creator>Ateeq Shariff</dc:creator>
       <wire:foundAt>zawya_discovery</wire:foundAt>
       <wire:platform>ZAWYA</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMingFBVV95cUxNeVlJRUQ3TVN0LWFoRnFnRHZ6M3JxSUpZNXZfZGg1YzJoQzgtSEFsTHhRLUdfTE1OMlBFWHlkNGRHX1Y5R2ZvTE1uMXBDak9UQm1DazJ5SEFiQ3luMlRodVNIQkxOZVhvSE13WkRYVlBTaTFIQUFINzlOcnBHZVd2N1Vpb0RNNlJheEpkdWJJcDdrZFprbDZNcklveWFEUQ?oc=5</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.zawya.com/en/capital-markets/mideast-stocks-dubai-leads-gulf-gains-as-investors-assess-us-midterm-fallout-and-iran-standoff-1969406</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Thomson Reuters and SpendConsole launch integrated e-invoicing and payables solution for the UAE and GCC - Zawya</title>
-      <link>https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcHBMa1h1Y3VlTjJucURaX050czNrZDZaSEwyY1VTQ0hkaHgxWHdjRk1YaEZoV1VHU2JoaXdVWFdjelFwb3dVVXBZTFZwSTlMNnh6cW92WWU2eXp4M183ekUtVzFJYXlMT3VTMDh0Mkkzb3V5eUdPbjVsQzVyeHc3NVJYTXdfQVV0VGQxU0JMYkVtN09sZnQ0UXRuZEs0aUx3ZU51SkJ3c3B3OUc4dzZYMVkwTlNhLUdxeHpYcjlybU0yZ1NvMXZPaXVBbUVqWHF4UW1HWnI5WFhQYmVhT1ZWLXZEQWt0dw?oc=5</link>
-      <guid isPermaLink="false">57a6420f00c4daf7370f3339</guid>
-      <pubDate>Wed, 21 Oct 2026 07:00:00 +0000</pubDate>
-      <description>Thomson Reuters and SpendConsole launch integrated e-invoicing and payables solution for the UAE and GCC    Zawya</description>
+      <title>US trade deficit narrows slightly in September; imports race to record high</title>
+      <link>https://www.zawya.com/en/world/us-trade-deficit-narrows-slightly-in-september-imports-race-to-record-high-1970945</link>
+      <guid isPermaLink="false">0fa2682c8d4d1d6bed82f6ca</guid>
+      <pubDate>Wed, 04 Nov 2026 14:42:45 +0000</pubDate>
+      <description>Imports increased 1.2% to $426.6 billion in September, a record high. Goods imports rose 1.3% to an all-time high of $346.9 billion.Exports advanced 1.9% to $321.5 billion. Goods exports increased 2.5 ...</description>
+      <dc:creator>Lucia Mutikani</dc:creator>
       <wire:foundAt>zawya_discovery</wire:foundAt>
       <wire:platform>ZAWYA</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcHBMa1h1Y3VlTjJucURaX050czNrZDZaSEwyY1VTQ0hkaHgxWHdjRk1YaEZoV1VHU2JoaXdVWFdjelFwb3dVVXBZTFZwSTlMNnh6cW92WWU2eXp4M183ekUtVzFJYXlMT3VTMDh0Mkkzb3V5eUdPbjVsQzVyeHc3NVJYTXdfQVV0VGQxU0JMYkVtN09sZnQ0UXRuZEs0aUx3ZU51SkJ3c3B3OUc4dzZYMVkwTlNhLUdxeHpYcjlybU0yZ1NvMXZPaXVBbUVqWHF4UW1HWnI5WFhQYmVhT1ZWLXZEQWt0dw?oc=5</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.zawya.com/en/world/us-trade-deficit-narrows-slightly-in-september-imports-race-to-record-high-1970945</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Sisi says Egypt would defend Saudi territory but rules out attack on Yemen - Zawya</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQam84d1hCUjVEdlNyOE9vYUt5ZXR3bFNlNjlETHdxN094M3pMNDBjYU1aODRQR2x2b21EYzlDOUxvQUJLOWkydGktV3ZReWxFNjl6LUpOalk4VGxrRFN3azlJeTV3RldER1pfSWFuUDZnbkVWMXNBRzE0YnZ5eEIzSnpUWjJNTHV1dDVOQXFnTnVfZ1hSZFdBSDNuNVQ2ZTBZcThrRk5XOUh0X0F1azZNSEFNTQ?oc=5</link>
-      <guid isPermaLink="false">59760c143bbb4e78811fe1fd</guid>
-      <pubDate>Wed, 21 Oct 2026 07:00:00 +0000</pubDate>
-      <description>Sisi says Egypt would defend Saudi territory but rules out attack on Yemen    Zawya</description>
+      <title>India says PepsiCo, Monster marketed with 'energy drink' label to dupe consumers</title>
+      <link>https://www.zawya.com/en/world/india-says-pepsico-monster-marketed-with-energy-drink-label-to-dupe-consumers-1960209</link>
+      <guid isPermaLink="false">02cdc2a7a96e8f617048c367</guid>
+      <pubDate>Tue, 03 Nov 2026 21:47:00 +0000</pubDate>
+      <description>PepsiCo, which popularized energy drinks in India with its 2017 launch of 21-cent bottles of Sting drink, and Monster Beverage have mounted separate legal challenges against a June decision barring ...</description>
       <wire:foundAt>zawya_discovery</wire:foundAt>
       <wire:platform>ZAWYA</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiswFBVV95cUxQam84d1hCUjVEdlNyOE9vYUt5ZXR3bFNlNjlETHdxN094M3pMNDBjYU1aODRQR2x2b21EYzlDOUxvQUJLOWkydGktV3ZReWxFNjl6LUpOalk4VGxrRFN3azlJeTV3RldER1pfSWFuUDZnbkVWMXNBRzE0YnZ5eEIzSnpUWjJNTHV1dDVOQXFnTnVfZ1hSZFdBSDNuNVQ2ZTBZcThrRk5XOUh0X0F1azZNSEFNTQ?oc=5</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.zawya.com/en/world/india-says-pepsico-monster-marketed-with-energy-drink-label-to-dupe-consumers-1960209</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Egypt fintech firm MNT-Halan rises 6.6% on debut after biggest IPO since 2021 - Zawya</title>
-      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMGcyNU9PaThRSEdpTlZNYnRMUE9CTDY0OThzZTRBeXZ4Z0V1cGVEa3pIb25nM1A2MTllR0xVS0FJV18yN1o1aDlmVHA0U0FMUGNhV18wMWk2SmkyazlBNzc4WUY5R1FLQVRlQ2doUk1JNFdoc0lYSVJVRnh0WHRJZTlBaVJ3MUhDN2pNUWEyWWlJcWpzRGdSSHQ3enZrSzgxV0YyM204aGhaNVhwTnNrMTN1SEFoREZoa1FTNE9ldkozN28?oc=5</link>
-      <guid isPermaLink="false">420adcda0c7ab9dc67b1f10d</guid>
-      <pubDate>Tue, 20 Oct 2026 07:00:00 +0000</pubDate>
-      <description>Egypt fintech firm MNT-Halan rises 6.6% on debut after biggest IPO since 2021    Zawya</description>
+      <title>Elon Musk's business empire braces for Democratic wave as Texas flips blue</title>
+      <link>https://www.zawya.com/en/world/elon-musks-business-empire-braces-for-democratic-wave-as-texas-flips-blue-1962528</link>
+      <guid isPermaLink="false">de99fc69b4e5f89a25113c3f</guid>
+      <pubDate>Tue, 03 Nov 2026 21:43:00 +0000</pubDate>
+      <description>Those bets unraveled as Democrats seized both chambers of Congress and Gina Hinojosa defeated Greg Abbott in the Texas governor's race, in a stinging rebuke to US President Donald Trump, a close Musk ...</description>
       <wire:foundAt>zawya_discovery</wire:foundAt>
       <wire:platform>ZAWYA</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMGcyNU9PaThRSEdpTlZNYnRMUE9CTDY0OThzZTRBeXZ4Z0V1cGVEa3pIb25nM1A2MTllR0xVS0FJV18yN1o1aDlmVHA0U0FMUGNhV18wMWk2SmkyazlBNzc4WUY5R1FLQVRlQ2doUk1JNFdoc0lYSVJVRnh0WHRJZTlBaVJ3MUhDN2pNUWEyWWlJcWpzRGdSSHQ3enZrSzgxV0YyM204aGhaNVhwTnNrMTN1SEFoREZoa1FTNE9ldkozN28?oc=5</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.zawya.com/en/world/elon-musks-business-empire-braces-for-democratic-wave-as-texas-flips-blue-1962528</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Riyadh airport ops suspended till October 17, air travel hit - Zawya</title>
-      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxPMHpnZWt1NDZGb0FrUUt2b04zNEV6SnhfUnJCekVQQXM3aDhteUtmNTN4OFFZTzNlTHhZMFdtVnVwbll1eXVkOVpSaHBzcVlQYnR2cEM4a3NjazNvR0N0YVZtX2p1ZGcycEpJSWM0blJVWHIyVjdqOEQtT0hZT29HRWdpUUxybzlkX1pYcy1uYmc0ek1sZGtpNUF5Z2hRSTU3MFBz?oc=5</link>
-      <guid isPermaLink="false">df117de8fae3b44f6df9fabd</guid>
-      <pubDate>Tue, 13 Oct 2026 07:00:00 +0000</pubDate>
-      <description>Riyadh airport ops suspended till October 17, air travel hit    Zawya</description>
+      <title>Dangote in talks with African bourses to widen refinery IPO access</title>
+      <link>https://www.zawya.com/en/capital-markets/africa/dangote-in-talks-with-african-bourses-to-widen-refinery-ipo-access-1965541</link>
+      <guid isPermaLink="false">579de324f52af794d6e02387</guid>
+      <pubDate>Tue, 03 Nov 2026 21:40:00 +0000</pubDate>
+      <description>The Dangote refinery IPO, which closed on October 28, drew around 6.4 trillion naira ($4.77 billion) in demand from Nigerian retail and institutional investors, around three times the amount on offer, ...</description>
       <wire:foundAt>zawya_discovery</wire:foundAt>
       <wire:platform>ZAWYA</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiowFBVV95cUxPMHpnZWt1NDZGb0FrUUt2b04zNEV6SnhfUnJCekVQQXM3aDhteUtmNTN4OFFZTzNlTHhZMFdtVnVwbll1eXVkOVpSaHBzcVlQYnR2cEM4a3NjazNvR0N0YVZtX2p1ZGcycEpJSWM0blJVWHIyVjdqOEQtT0hZT29HRWdpUUxybzlkX1pYcy1uYmc0ek1sZGtpNUF5Z2hRSTU3MFBz?oc=5</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.zawya.com/en/capital-markets/africa/dangote-in-talks-with-african-bourses-to-widen-refinery-ipo-access-1965541</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Greece plans 10% cryptocurrency capital gains tax - Zawya</title>
-      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWRPNFY3c3JrcVY4ZDJfR2lZWnVBc1VaOVBGcVlFSGwzRlVkVi1UYlFiTGEtVkRRcW5mVGVqSDN3NVJ0b1VXQWlEeldTc1dNN1pyX0Q1VW52dHZFX09NcHI4Z2RsSFVqVGp5X3AtaHN6RUNEVmFLeTJkeHRvOHl6QXF3ZEtKR2U5THJ2aWdFazViTWVxbGxBcWN0VzllaTQ?oc=5</link>
-      <guid isPermaLink="false">2a5f8fed31b4e65ab5182902</guid>
-      <pubDate>Thu, 08 Oct 2026 07:32:05 +0000</pubDate>
-      <description>Greece plans 10% cryptocurrency capital gains tax    Zawya</description>
+      <title>Jazeera Airways welcomes second cadet pilot cohort, including first Kuwaiti female trainee</title>
+      <link>https://www.zawya.com/en/business/jazeera-airways-welcomes-second-cadet-pilot-cohort-including-first-kuwaiti-female-trainee-1962516</link>
+      <guid isPermaLink="false">7b407ce51897d0f49e6211c8</guid>
+      <pubDate>Tue, 03 Nov 2026 21:01:00 +0000</pubDate>
+      <description>The new cohort marks another milestone in the airline’s commitment to building a sustainable pipeline of skilled pilots ...</description>
       <wire:foundAt>zawya_discovery</wire:foundAt>
       <wire:platform>ZAWYA</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWRPNFY3c3JrcVY4ZDJfR2lZWnVBc1VaOVBGcVlFSGwzRlVkVi1UYlFiTGEtVkRRcW5mVGVqSDN3NVJ0b1VXQWlEeldTc1dNN1pyX0Q1VW52dHZFX09NcHI4Z2RsSFVqVGp5X3AtaHN6RUNEVmFLeTJkeHRvOHl6QXF3ZEtKR2U5THJ2aWdFazViTWVxbGxBcWN0VzllaTQ?oc=5</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.zawya.com/en/business/jazeera-airways-welcomes-second-cadet-pilot-cohort-including-first-kuwaiti-female-trainee-1962516</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>OpenAI's September annualized revenue nears $50bln, less than previously indicated, source says - Zawya</title>
-      <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeC1DZER6RGpoajBxSnJUTlZYZXdYQUN0dzU5cDFiS2E1ekZPQlVRMHU1VlY5QldWSDllN1JpUUpfdC1XYVNod2lsR2l5WjNYR0syYXZaUkozNmF3VGdqRS1VSWRUZkllcGRvTml3cEFDV0hxOVJrY053RFplME4xUEtFT3MxWEtobWFwazJUbEltZGZVeEd0QVZEX29kbHN6UXNBU20xMlNkNkJRbG1wU1I5aEN3aXFUYnR6S0UwVWV3NGJQV05fX2s4aFNXOEY1RDlvbTE2TFU?oc=5</link>
-      <guid isPermaLink="false">37ffbeb3fefcb3a0c6a88d23</guid>
-      <pubDate>Thu, 08 Oct 2026 07:00:00 +0000</pubDate>
-      <description>OpenAI's September annualized revenue nears $50bln, less than previously indicated, source says    Zawya</description>
+      <title>US stock futures rise as investors assess Democrats' midterm sweep</title>
+      <link>https://www.zawya.com/en/capital-markets/us-stock-futures-rise-as-investors-assess-democrats-midterm-sweep-1953322</link>
+      <guid isPermaLink="false">b96b0580bd875901824ab5b7</guid>
+      <pubDate>Tue, 03 Nov 2026 20:54:00 +0000</pubDate>
+      <description>US stock index futures rose on Wednesday, reversing sharp early losses, as investors weighed the Democrats' sweeping midterm victories and what they could mean for AI spending and regulation.</description>
       <wire:foundAt>zawya_discovery</wire:foundAt>
       <wire:platform>ZAWYA</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeC1DZER6RGpoajBxSnJUTlZYZXdYQUN0dzU5cDFiS2E1ekZPQlVRMHU1VlY5QldWSDllN1JpUUpfdC1XYVNod2lsR2l5WjNYR0syYXZaUkozNmF3VGdqRS1VSWRUZkllcGRvTml3cEFDV0hxOVJrY053RFplME4xUEtFT3MxWEtobWFwazJUbEltZGZVeEd0QVZEX29kbHN6UXNBU20xMlNkNkJRbG1wU1I5aEN3aXFUYnR6S0UwVWV3NGJQV05fX2s4aFNXOEY1RDlvbTE2TFU?oc=5</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.zawya.com/en/capital-markets/us-stock-futures-rise-as-investors-assess-democrats-midterm-sweep-1953322</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>WTO upgrades goods trade forecast as AI boom offsets Middle East disruption - Zawya</title>
-      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQSk44bHRKV0dzZmlkeWpNdXRCcGs3MEIyUWVLNWc2Y0taWVJqVDJ1SFFzTDdJUTkxX1NOVWNlOWVxNUtvTDlfVG5Fa01SMzVxWlhob0UxM3p5MXNWRkZBcFBnYVNtYnViekpVOWM5YkVYbXNWZ1U4RWRCSThQc3c5LXl3U3BtR2puRjhCMzUwTEFRLXU4MG9KRXE4ZnVETk1fcHBsYTBSSllpejVWRG1Oa2Z2OUxxZTA?oc=5</link>
-      <guid isPermaLink="false">cae4ccfe51657d03cd18316b</guid>
-      <pubDate>Thu, 08 Oct 2026 07:00:00 +0000</pubDate>
-      <description>WTO upgrades goods trade forecast as AI boom offsets Middle East disruption    Zawya</description>
+      <title>Trump's midterm drubbing demonstrates the power of data-centre opponents</title>
+      <link>https://www.zawya.com/en/world/trumps-midterm-drubbing-demonstrates-the-power-of-data-centre-opponents-1952545</link>
+      <guid isPermaLink="false">b4b4c275cea6c21a142244e3</guid>
+      <pubDate>Tue, 03 Nov 2026 18:36:00 +0000</pubDate>
+      <description>Opponents of data centres were among the biggest winners of the Democrats' landslide wins in the US midterm elections, pointing to a shifting public mood on AI and, investors said, a possible slowdown ...</description>
       <wire:foundAt>zawya_discovery</wire:foundAt>
       <wire:platform>ZAWYA</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMitwFBVV95cUxQSk44bHRKV0dzZmlkeWpNdXRCcGs3MEIyUWVLNWc2Y0taWVJqVDJ1SFFzTDdJUTkxX1NOVWNlOWVxNUtvTDlfVG5Fa01SMzVxWlhob0UxM3p5MXNWRkZBcFBnYVNtYnViekpVOWM5YkVYbXNWZ1U4RWRCSThQc3c5LXl3U3BtR2puRjhCMzUwTEFRLXU4MG9KRXE4ZnVETk1fcHBsYTBSSllpejVWRG1Oa2Z2OUxxZTA?oc=5</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.zawya.com/en/world/trumps-midterm-drubbing-demonstrates-the-power-of-data-centre-opponents-1952545</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Dollar holds losses as markets await Fed minutes, speakers - Zawya</title>
-      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxNYVQta0pBYnNOTmxQVDNJdTZ5NG9kcTZPaFpCVEhZa2ZXWTUyTkhmTHRYbS1Wd3NXWUsxQkpTVU1YX0RaMTYwLUdPSzJpNXBvTjRQMkpWazRPMEF5Qzc1YjFRM3ZqSUFMR1ZmLUFEUGVyUjlpRGFRbm5KYUxZMTZzQ0ZFcTBLallJZ2xkNWtGM3hiOVVjSzNheFo2Y0x4T3Rp?oc=5</link>
-      <guid isPermaLink="false">5208b862d9a3b4086249389e</guid>
-      <pubDate>Tue, 06 Oct 2026 07:00:00 +0000</pubDate>
-      <description>Dollar holds losses as markets await Fed minutes, speakers    Zawya</description>
+      <title>UK services growth hits 8-month high in October, PMI shows</title>
+      <link>https://www.zawya.com/en/world/uk-services-growth-hits-8-month-high-in-october-pmi-shows-1951008</link>
+      <guid isPermaLink="false">9964341eb05b109ee1a471af</guid>
+      <pubDate>Tue, 03 Nov 2026 18:01:00 +0000</pubDate>
+      <description>The S&amp;P Global UK Services Purchasing Managers' Index (PMI) rose to an eight-month high of 52.8 from 52.1 in September, a little lower than October's preliminary "flash" reading of 53.1. Readings ...</description>
       <wire:foundAt>zawya_discovery</wire:foundAt>
       <wire:platform>ZAWYA</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMioAFBVV95cUxNYVQta0pBYnNOTmxQVDNJdTZ5NG9kcTZPaFpCVEhZa2ZXWTUyTkhmTHRYbS1Wd3NXWUsxQkpTVU1YX0RaMTYwLUdPSzJpNXBvTjRQMkpWazRPMEF5Qzc1YjFRM3ZqSUFMR1ZmLUFEUGVyUjlpRGFRbm5KYUxZMTZzQ0ZFcTBLallJZ2xkNWtGM3hiOVVjSzNheFo2Y0x4T3Rp?oc=5</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.zawya.com/en/world/uk-services-growth-hits-8-month-high-in-october-pmi-shows-1951008</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Stories in "GRAINS" - Zawya</title>
-      <link>https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wLXYxU1pOcDBaRXVSNFpUUk1jV1dBTWNIczBUb19haDZoWUVwM0FxS2VZLWZKQ1AzY0ZtZ2J6ZFZ5NE5MWUFNUDV4MGp4Zw?oc=5</link>
-      <guid isPermaLink="false">e5f573555bf7b614736cedf9</guid>
-      <pubDate>Sat, 18 Jul 2026 16:48:05 +0000</pubDate>
-      <description>Stories in "GRAINS"    Zawya</description>
+      <title>Crypto tracks stocks higher after Democrat midterm wins</title>
+      <link>https://www.zawya.com/en/special-coverage/crypto-tracks-stocks-higher-after-democrat-midterm-wins-1951012</link>
+      <guid isPermaLink="false">e95884c12850550d85b8b014</guid>
+      <pubDate>Tue, 03 Nov 2026 17:57:00 +0000</pubDate>
+      <description>The crypto sector spent more than $300 million backing crypto-friendly Democrat and Republican politicians in roughly equal measure during the current and previous election cycles. Bitcoin briefly ...</description>
       <wire:foundAt>zawya_discovery</wire:foundAt>
       <wire:platform>ZAWYA</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wLXYxU1pOcDBaRXVSNFpUUk1jV1dBTWNIczBUb19haDZoWUVwM0FxS2VZLWZKQ1AzY0ZtZ2J6ZFZ5NE5MWUFNUDV4MGp4Zw?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Stories in "INTEREST RATE" - Zawya</title>
-      <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLS3Q5Q2VmR01yckVyUDdjUEFCUWNjZ3R4MXBPcmdvaTJBX2RHUUM4elZqQ2tfLXYtOTJ3WHlTbWR0eDR6ZmREanZiTldaRVlqSUdoZEFfTQ?oc=5</link>
-      <guid isPermaLink="false">108ce1c02aefe0c0bb9739d2</guid>
-      <pubDate>Sat, 18 Jul 2026 12:05:14 +0000</pubDate>
-      <description>Stories in "INTEREST RATE"    Zawya</description>
-      <wire:foundAt>zawya_discovery</wire:foundAt>
-      <wire:platform>ZAWYA</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLS3Q5Q2VmR01yckVyUDdjUEFCUWNjZ3R4MXBPcmdvaTJBX2RHUUM4elZqQ2tfLXYtOTJ3WHlTbWR0eDR6ZmREanZiTldaRVlqSUdoZEFfTQ?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Stories in "ACQUISITION" - Zawya</title>
-      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE04c3dNOFYtQlVIX3QzU1doMW03R1VmN3ptTWRsUjFNMlFjeXJUWndTUW5mU1RDTzAwMGczWnlNeGgwVWxnSG9HbzF1UmZUNHhDU1Z4bw?oc=5</link>
-      <guid isPermaLink="false">43b328c92160c15b5ca977c5</guid>
-      <pubDate>Sat, 18 Jul 2026 12:02:04 +0000</pubDate>
-      <description>Stories in "ACQUISITION"    Zawya</description>
-      <wire:foundAt>zawya_discovery</wire:foundAt>
-      <wire:platform>ZAWYA</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiVEFVX3lxTE04c3dNOFYtQlVIX3QzU1doMW03R1VmN3ptTWRsUjFNMlFjeXJUWndTUW5mU1RDTzAwMGczWnlNeGgwVWxnSG9HbzF1UmZUNHhDU1Z4bw?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Stories in "MARKETS" - Zawya</title>
-      <link>https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FY3Y3aDV4cVFBQm5iY0toU1hjVWtuY28wZnFFSnRfdEQxSVVhYmRnaDJOMzM1VTBRRm9laW9FczNtdTJSYzlYNy1RR1ZzQk0?oc=5</link>
-      <guid isPermaLink="false">e3554d2e1aad172b715682ef</guid>
-      <pubDate>Sat, 18 Jul 2026 11:23:18 +0000</pubDate>
-      <description>Stories in "MARKETS"    Zawya</description>
-      <wire:foundAt>zawya_discovery</wire:foundAt>
-      <wire:platform>ZAWYA</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FY3Y3aDV4cVFBQm5iY0toU1hjVWtuY28wZnFFSnRfdEQxSVVhYmRnaDJOMzM1VTBRRm9laW9FczNtdTJSYzlYNy1RR1ZzQk0?oc=5</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Bonds &amp; Fixed Income News - Zawya</title>
-      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VZXc2MmM2VF8yOEtyX3lOZjBuWk1yWWFqOEFnLXhReVlqNFhQcGpzWEFzNWowYVpQZzVQRFZZWm1QOTlhRGpvcXJhVnFmSkZQQVBUNGQ5eHlyUQ?oc=5</link>
-      <guid isPermaLink="false">31716c8ccf34ab0433679c82</guid>
-      <pubDate>Wed, 30 Oct 2024 08:17:04 +0000</pubDate>
-      <description>Bonds &amp; Fixed Income News    Zawya</description>
-      <wire:foundAt>zawya_discovery</wire:foundAt>
-      <wire:platform>ZAWYA</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VZXc2MmM2VF8yOEtyX3lOZjBuWk1yWWFqOEFnLXhReVlqNFhQcGpzWEFzNWowYVpQZzVQRFZZWm1QOTlhRGpvcXJhVnFmSkZQQVBUNGQ5eHlyUQ?oc=5</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.zawya.com/en/special-coverage/crypto-tracks-stocks-higher-after-democrat-midterm-wins-1951012</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
