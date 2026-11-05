@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Atradingview.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 04 Nov 2026 22:05:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 02:42:40 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>AAPL: Record Q4 revenue and iPhone sales capped a $478.8B FY26</title>
@@ -30,21 +30,6 @@ Latest news&lt;/p&gt;&lt;p&gt;More news from Quartr&lt;/p&gt;</content:encoded>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3699063:0-aapl-record-q4-revenue-and-iphone-sales-capped-a-478-8b-fy26/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Palantir Stocks Edge Higher With Earnings Facing a Narrow Revenue Expectation Gap</title>
-      <link>https://www.tradingview.com/news/gurufocus:f7c46b9d3094b:0-palantir-stocks-edge-higher-with-earnings-facing-a-narrow-revenue-expectation-gap/</link>
-      <guid isPermaLink="false">80c78888c27e6c1f12ca9728</guid>
-      <pubDate>Mon, 02 Nov 2026 02:21:00 +0000</pubDate>
-      <description>PLTR faces a narrow revenue hurdle and a bigger test of what comes next. The enterprise and government AI software provider heads into its November 2 earnings report with expected revenue less than 1% ...</description>
-      <wire:foundAt>tradingview_discovery</wire:foundAt>
-      <wire:platform>TradingView News</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/gurufocus:f7c46b9d3094b:0-palantir-stocks-edge-higher-with-earnings-facing-a-narrow-revenue-expectation-gap/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -255,6 +240,21 @@ Latest news&lt;/p&gt;&lt;p&gt;More news from CoinMarketCal&lt;/p&gt;</content:en
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.tradingview.com/news/tradingview:2d44d80278241:0-weekly-recap-adjusted-ppnr-up-to-1-5b-and-newline-expands-visa-program/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Inside LBank’s Vision: Czhang on AI, Security, and the Future of Crypto Exchanges</title>
+      <link>https://www.tradingview.com/news/newsbtc:650c961a5094b:0-inside-lbank-s-vision-czhang-on-ai-security-and-the-future-of-crypto-exchanges/</link>
+      <guid isPermaLink="false">e96871a35ec98b8d092fb157</guid>
+      <pubDate>Thu, 06 Nov 2025 23:37:00 +0000</pubDate>
+      <description>LBank’s Partner and Head of LBank Labs, Czhang, has spent nearly a decade proving that consistency beats hype. Under his leadership, the exchange has maintained a perfect security record while scaling ...</description>
+      <wire:foundAt>tradingview_discovery</wire:foundAt>
+      <wire:platform>TradingView News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.tradingview.com/news/newsbtc:650c961a5094b:0-inside-lbank-s-vision-czhang-on-ai-security-and-the-future-of-crypto-exchanges/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
