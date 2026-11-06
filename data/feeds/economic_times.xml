@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>The Economic Times — diagnostic source feed</title>
     <link>https://economictimes.indiatimes.com/rssfeedsdefault.cms</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Fri, 06 Nov 2026 13:56:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 20:18:34 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Federal Reserve rate hike bets strengthen as US jobs growth beats estimates</title>
+      <link>https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-rate-hike-bets-strengthen-as-us-jobs-growth-beats-estimates/articleshow/135617516.cms</link>
+      <guid isPermaLink="false">2e786e3630ab5b3e0b11e4f9</guid>
+      <pubDate>Fri, 06 Nov 2026 18:09:00 +0000</pubDate>
+      <description>Stronger than expected US jobs growth has revived expectations of a December Federal Reserve rate hike, with employers adding 165,000 jobs in October against estimates of 65,000. The unemployment rate fell to 4.1%, while markets raised the probability of a quarter point hike to 85% and brought forward expectations of another increase.</description>
+      <dc:creator>ETMarkets.com</dc:creator>
+      <content:encoded>&lt;p&gt;The Federal Reserve&amp;#x27;s case for another interest rate hike in December has gained momentum after stronger than expected US employment data reinforced signs of economic resilience, shifting attention back to persistent inflation from concerns over a potential AI driven slowdown, Reuters reported.US employers added 165,000 jobs in October, more than double the 65,000 expected by economists, according to the Bureau of Labor Statistics. The unemployment rate also edged down to 4.1%, suggesting the labour market remains firm despite concerns over the economic outlook.For live updates on US Markets, click here Following the report, markets priced in an 85% probability of a quarter point rate increase at the Fed&amp;#x27;s December 8-9 meeting, up from around 75% before the data release. Traders also brought forward expectations of another rate increase to April from June, Reuters reported.Strong jobs data reinforce Fed&amp;#x27;s hawkish outlookThe employment figures strengthen the argument for further monetary tightening as the Fed continues to battle inflation, which has remained above its 2% target for more than five years.Also Read: Nasdaq rebounds as chip stocks recover from steep losses, rate fears persist This is a very strong labor market report on the heels of solid GDP and consumer spending data last week, reinforcing the economy’s positive momentum, Fitch Ratings analyst Olu Sonola wrote after the release.While acknowledging the risks posed by recent AI related concerns, Sonola said the economy remained on firm footing and that labour market resilience was pushing the policy debate towards a December rate hike, Reuters reported.Raymond James analysts also expect the central bank to raise rates next month. For the Federal Reserve, this should allow them to concentrate on the inflation side of their mandate, the analysts wrote. We expect the Fed to increase the federal funds rate by 25 basis points in December. AI concerns had clouded rate outlookExpectations of another rate increase had weakened after Democrats&amp;#x27; midterm election gains raised concerns about tighter regulation of AI and data centre construction.The prospect of slower AI investment had fuelled worries about weaker economic growth and easing inflationary pressures, reducing the urgency for further monetary tightening.However, Friday&amp;#x27;s employment report has renewed expectations that the Fed will prioritise inflation control as it assesses the strength of the US economy.(Disclaimer: This article is based on inputs from agencies. These do not represent the views of The Economic Times)&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>economic_times</wire:foundAt>
+      <wire:platform>The Economic Times</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-rate-hike-bets-strengthen-as-us-jobs-growth-beats-estimates/articleshow/135617516.cms</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Reuters reported</wire:evidence>
+    </item>
   </channel>
 </rss>
