@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Aswissinfo.ch+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 07 Nov 2026 00:15:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 06:28:17 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Chip Stocks Climb After Rout, But AI Doubts Linger: Markets Wrap</title>
@@ -24,25 +24,6 @@
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.swissinfo.ch/eng/chip-stocks-climb-after-rout%2c-but-ai-doubts-linger%3a-markets-wrap/92336450</wire:canonicalUrl>
-      <wire:evidence>structured credit: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>AI Slump Deepens as Taiwan Drops Most in a Year: Markets Wrap</title>
-      <link>https://www.swissinfo.ch/eng/ai-slump-deepens-as-taiwan-drops-most-in-a-year%3a-markets-wrap/92336450</link>
-      <guid isPermaLink="false">0c7988ef49fefb2637e90cf9</guid>
-      <pubDate>Fri, 06 Nov 2026 21:13:50 +0000</pubDate>
-      <description>Asian stocks slumped, with tech bellwether Taiwan dropping the most in more than a year, extending a post-election rout in chipmakers that deepened on Wall Street on growing concern that Democrats ...</description>
-      <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;China blocks SoftBank’s $5.4bn takeover of ABB’s robotics division&lt;/p&gt;&lt;p&gt;Read more: China blocks SoftBank’s $5.4bn takeover of ABB’s robotics division&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>swissinfo_discovery</wire:foundAt>
-      <wire:platform>SWI swissinfo.ch</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.swissinfo.ch/eng/ai-slump-deepens-as-taiwan-drops-most-in-a-year%3a-markets-wrap/92336450</wire:canonicalUrl>
       <wire:evidence>structured credit: Bloomberg</wire:evidence>
     </item>
     <item>
@@ -86,16 +67,20 @@
       <title>Swiss Re Posts Profit Beat Clouded By Weaker Revenue Outlook</title>
       <link>https://www.swissinfo.ch/eng/swiss-re-posts-profit-beat-clouded-by-weaker-revenue-outlook/92333562</link>
       <guid isPermaLink="false">26b8c0be6937359986ce3d49</guid>
-      <pubDate>Thu, 05 Nov 2026 01:19:00 +0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 08:19:13 +0000</pubDate>
       <description>Swiss Re AG posted profit for the first nine months of the year that beat estimates on lower than expected natural catastrophe losses, while further signs emerged of weaker revenue that could impact ...</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;China blocks SoftBank’s $5.4bn takeover of ABB’s robotics division&lt;/p&gt;&lt;p&gt;Read more: China blocks SoftBank’s $5.4bn takeover of ABB’s robotics division&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>swissinfo_discovery</wire:foundAt>
       <wire:platform>SWI swissinfo.ch</wire:platform>
-      <wire:relation>unknown</wire:relation>
+      <wire:relation>repost</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
+      <wire:confidence>0.99</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.swissinfo.ch/eng/swiss-re-posts-profit-beat-clouded-by-weaker-revenue-outlook/92333562</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
+      <wire:evidence>structured credit: Bloomberg</wire:evidence>
     </item>
     <item>
       <title>Stock Rotation Rolls On as Chipmakers Retreat: Markets Wrap</title>
@@ -170,6 +155,21 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.swissinfo.ch/eng/tech-megacaps-lead-s%26p-500-higher-as-midterm-uncertainty-eases/92328613</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>UBS Has New Chance of Capital Compromise After Lawmaker Plan</title>
+      <link>https://www.swissinfo.ch/eng/ubs-has-new-chance-of-capital-compromise-after-lawmaker-plan/92327107</link>
+      <guid isPermaLink="false">1bcdfcc379b7c1638433a89f</guid>
+      <pubDate>Wed, 04 Nov 2026 04:59:00 +0000</pubDate>
+      <description>A new compromise proposal has emerged in the Swiss parliament in the debate over UBS Group AG’s future capital requirements, in the latest attempt to ease government demands that the lender says would ...</description>
+      <wire:foundAt>swissinfo_discovery</wire:foundAt>
+      <wire:platform>SWI swissinfo.ch</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.swissinfo.ch/eng/ubs-has-new-chance-of-capital-compromise-after-lawmaker-plan/92327107</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
