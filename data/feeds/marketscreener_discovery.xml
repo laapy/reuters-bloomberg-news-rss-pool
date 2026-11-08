@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Amarketscreener.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 07 Nov 2026 22:13:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 01:45:34 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>Google faces claims student used AI chat on US school laptop to plan suicide attempt</title>
@@ -35,6 +35,21 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.marketscreener.com/news/ai-data-center-stocks-dip-renewables-surge-after-democrat-sweep-in-us-midterm-elections-ce785fdfd881f225</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Copper rebounds from 3-month low as tightness offsets tariff, AI fears</title>
+      <link>https://www.marketscreener.com/news/copper-rebounds-from-3-month-low-as-tightness-offsets-tariff-ai-fears-ce785fdfdb8dff21</link>
+      <guid isPermaLink="false">2c3d7b89dce3cdde23e964d2</guid>
+      <pubDate>Wed, 04 Nov 2026 04:22:00 +0000</pubDate>
+      <description>Copper rebounds from 3-month low as tightness offsets tariff, AI fears Published on 11/04/2026 at 07:22 am EST Reuters ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/copper-rebounds-from-3-month-low-as-tightness-offsets-tariff-ai-fears-ce785fdfdb8dff21</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -129,21 +144,6 @@
       <wire:evidence>retained wire byline/source: Bloomberg:</wire:evidence>
     </item>
     <item>
-      <title>Apple Inc. Stock</title>
-      <link>https://www.marketscreener.com/quote/stock/APPLE-INC-4849/</link>
-      <guid isPermaLink="false">627e5a000cd0e0c442fa1b2d</guid>
-      <pubDate>Sun, 30 Aug 2026 17:00:00 +0000</pubDate>
-      <description>09:00am Berkshire Hathaway speeds up stock buybacks, though profit falls RE ...</description>
-      <wire:foundAt>marketscreener_discovery</wire:foundAt>
-      <wire:platform>MarketScreener</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/APPLE-INC-4849/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
       <title>Iberdrola names Armando Martinez as CEO, Galan to remain executive chairman</title>
       <link>https://www.marketscreener.com/quote/stock/IBERDROLA-S-A-355153/news/Iberdrola-names-Armando-Martinez-as-CEO-Galan-to-remain-executive-chairman-42082036/</link>
       <guid isPermaLink="false">b398f891ed4b0dee23cd4826</guid>
@@ -159,33 +159,33 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Microsoft Corporation Stock</title>
-      <link>https://www.marketscreener.com/quote/stock/MICROSOFT-CORPORATION-4835/</link>
-      <guid isPermaLink="false">1381b99e47804e17bc1a6782</guid>
-      <pubDate>Sun, 02 Feb 2014 16:00:00 +0000</pubDate>
-      <description>01:02am ROI-US stocks always rise after midterms. Is this time different?: McGeever RE ...</description>
+      <title>NVIDIA Corporation Stock</title>
+      <link>https://www.marketscreener.com/quote/stock/NVIDIA-CORPORATION-57355629/</link>
+      <guid isPermaLink="false">6eb210019ecfc5abd84369af</guid>
+      <pubDate>Sun, 29 Sep 2013 17:00:00 +0000</pubDate>
+      <description>Nov. 06 Wall Street stocks rally after heavy AI-related selloff RE ...</description>
       <wire:foundAt>marketscreener_discovery</wire:foundAt>
       <wire:platform>MarketScreener</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/MICROSOFT-CORPORATION-4835/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/NVIDIA-CORPORATION-57355629/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Meta Platforms, Inc. Stock</title>
-      <link>https://www.marketscreener.com/quote/stock/META-PLATFORMS-INC-10547141/</link>
-      <guid isPermaLink="false">9eba84d544da5b1519aec942</guid>
-      <pubDate>Mon, 02 Feb 2004 16:00:00 +0000</pubDate>
-      <description>01:02am ROI-US stocks always rise after midterms. Is this time different?: McGeever RE ...</description>
+      <title>Bank of America Corporation Stock</title>
+      <link>https://www.marketscreener.com/quote/stock/BANK-OF-AMERICA-CORPORATI-11751/</link>
+      <guid isPermaLink="false">c8641135ae7d0ce5acaa9e43</guid>
+      <pubDate>Wed, 30 Dec 2009 16:00:00 +0000</pubDate>
+      <description>Nov. 03 Daiwa Securities Adjusts Price Target on Bank of America to $60 From $63 MT Nov. 02 UBS Cuts Price Target on Bank of America to $62 From $67, Keeps Buy Rating MT Oct. 30 JPMorgan Adjusts Price ...</description>
       <wire:foundAt>marketscreener_discovery</wire:foundAt>
       <wire:platform>MarketScreener</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/META-PLATFORMS-INC-10547141/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/BANK-OF-AMERICA-CORPORATI-11751/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
