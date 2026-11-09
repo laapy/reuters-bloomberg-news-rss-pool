@@ -1,11 +1,67 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>The Straits Times — diagnostic source feed</title>
     <link>https://www.straitstimes.com/news/world/rss.xml</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 09 Nov 2026 05:12:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 14:15:56 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Google escalates Nvidia rivalry with specialised versions of AI chips</title>
+      <link>https://www.straitstimes.com/world/google-escalates-nvidia-rivalry-with-specialised-versions-of-ai-chips</link>
+      <guid isPermaLink="false">c52a472533f1d2204ae7cef9</guid>
+      <pubDate>Mon, 09 Nov 2026 13:45:00 +0000</pubDate>
+      <description>The roll-out marks an acceleration in product development for Google’s chip unit.</description>
+      <dc:creator>The Straits Times</dc:creator>
+      <content:encoded>&lt;p&gt;Google escalates Nvidia rivalry with specialised versions of AI chips
+Sign up now: Get ST&amp;#x27;s newsletters delivered to your inbox&lt;/p&gt;&lt;p&gt;Google’s latest chips will help models access a wider range of information when handling queries.
+PHOTO: REUTERS&lt;/p&gt;&lt;p&gt;Published   Nov 09, 2026, 09:45 PM&lt;/p&gt;&lt;p&gt;Updated   Nov 09, 2026, 09:46 PM&lt;/p&gt;&lt;p&gt;Set as preferred source&lt;/p&gt;&lt;p&gt;Listen
+Summarise&lt;/p&gt;&lt;p&gt;Google is widening its TPU line to challenge Nvidia, with new 8tx and 8i Max chips for secure work and long-context AI tasks.
+The chips support Google’s shift towards specialised AI hardware, and the company says this brings more value, better security and lower costs for some customers.
+Demand is strong, with clients like Apple, Meta, Oracle, Anthropic and Jump Trading, but Google faces supply shortages, new rivals and a possible slowdown in AI spending.&lt;/p&gt;&lt;p&gt;AI generated&lt;/p&gt;&lt;p&gt;Alphabet’s Google is rolling out a broader array of artificial intelligence chips, aiming to capitalise on its rapid ascent as a challenger to Nvidia in a market worth hundreds of billions of dollars.
+The company is introducing two new variations of its tensor processing units, or TPUs, custom-made semiconductors that help develop and run AI software. The latest chips will address the need for confidential computing and help models access a wider range of information when handling queries. More broadly, they are meant to serve an industry that is shifting towards the use of AI agents and confronting security challenges. 
+The roll-out marks an acceleration in product development for Google’s chip unit. The business once released a new AI processor every two years. In 2026 , it put out two at the same time. And the latest variations, due to be announced on Nov 9 , will add additional flavours to that pair of chips.&lt;/p&gt;&lt;p&gt;The four TPU offerings will optimise different needs, Google chip chief Amin Vahdat said in an interview. “This really follows the thesis that we have here at Google, which is that the future is going to be about specialisation, and the upsides for specialisation continue to be significant.”
+Google is staking its claim at a tumultuous time for the AI chip industry. Concerns about a potential slowdown in infrastructure spending have roiled tech stocks, and US midterm elections that swept Democrats into power have raised fresh doubts about data centre projects. But the demand for AI processors from Nvidia remains larger than it can satisfy, and that has left room for Google and other contenders to build a sizeable business.
+The new TPU 8tx and 8i Max variations are not completely new silicon designs – rather, they are reconfigured to take on tasks that customers have been requesting, Vahdat said.&lt;/p&gt;&lt;p&gt;The 8tx is aimed at handling secure, confidential work for customers like government agencies and companies in regulated industries. The system works with chips from Advanced Micro Devices, part of a collaboration between the two companies. 
+The 8i Max, meanwhile, is meant to run AI applications that require long-context windows – the amount of data an AI system can consider in a single request. That is necessary for things like drug discovery and mathematics, but is also important for coding applications, Vahdat said.
+TPUs compete in a market dominated by Nvidia’s graphics processing units, or GPUs. Google set out to develop the technology more than a decade ago, alongside Broadcom, which helped with design and coordinating production. The initial idea was to more efficiently handle the search giant’s burgeoning computing needs. It then realised the potential of TPUs for doing AI work and has now begun selling them outside its cloud-computing operation.&lt;/p&gt;&lt;p&gt;Google’s new life as a chip seller is proving lucrative. By 2028, TPU sales will top US$135 billion (S$173 billion), including related software and hardware, according to Bloomberg Intelligence. That is up from an estimated US$12 billion in 202 6, and it does not include sales from clients using the chips through Google Cloud.
+TPUs have netted some high-profile clients, including Apple, Meta Platforms and Oracle. And offering specialised versions of the chips should help Google make further progress, Vahdat said. The variations will be available in 2027 , he said.
+“We could build a single chip that tries to address the whole market or, by building specialised versions of the chips, we actually can deliver much more value,” he said.
+Even Nvidia, which has historically promoted its GPUs as a product for all AI tasks, is starting to offer more specialised chip systems. That includes offering its own central processing units, or CPUs, a category pioneered by Intel. Those processors do not handle the heavy-duty data crunching needed to create AI models, but they are useful for managing AI agents.
+Nvidia is also offering chips more focused on the inference stage of AI – where already-trained AI models carry out tasks – using technology it acquired from start-up Groq.
+Google’s 8tx pairs with a CPU from AMD, a rival to both Nvidia and Intel. The technology allows data to be encrypted at the chip level, making it more secure. Normally, the information has to be unlocked in memory while a computer processes it, Vahdat said. The 8i Max puts two TPU chips in a single package to deliver more computing power and memory. 
+Part of the appeal of TPUs is their price for performance, said Mandeep Singh, an analyst at Bloomberg Intelligence. They cost about 30% less than Nvidia’s GPUs but do a competitive job in terms of throughput – the amount of data that can be processed over a given time.
+The approach appeals to a variety of clients, including users in finance and other fields. Google announced during its earnings report in October that Jump Trading is a TPU customer.
+That company spent several years trying out the chips before signing a larger contract with Google about a year ago, Jump Trading chief technology officer Alex Davies said in an interview.&lt;/p&gt;&lt;p&gt;More on this topic&lt;/p&gt;&lt;p&gt;Microsoft bets on home-grown AI chip to challenge Nvidia&lt;/p&gt;&lt;p&gt;Nvidia discusses boosting Reflection investment, computing deal&lt;/p&gt;&lt;p&gt;The trading firm has thousands of TPUs, which it uses to train AI models for things like trading research. Jump still mainly uses Nvidia for training but a “vocal minority” of employees really like TPUs for their tasks, Davies said.
+TPUs work very well for a subset of tasks, he said. There is a benefit to using different kinds of chips to address challenges, Davies said. “It’s actually attractive to have some problems being done differently,” he said. “You learn stuff.” 
+For the areas where TPUs are as good as or better than Nvidia chips, they also offer the benefit of being more power-efficient, which lowers the cost, he said.
+In October , Oracle said it had signed a deal to let its cloud customers use TPUs for the first time starting in 2027 . Oracle cloud customers previously had a choice of AI chips from Nvidia and AMD. 
+“We partnered with Google because customers need more choice as AI workloads become more demanding,” Karan Batta, a senior vice-president overseeing Oracle’s cloud infrastructure, said in a statement. “This partnership expands our ability to help customers build and run AI on the infrastructure that best fits their needs.”
+Anthropic, maker of the Claude chatbot and other services, is another TPU customer. It has an option to purchase as much as US$150 billion worth of the chips between 2028 and 2031, according to a recent regulatory filing. And OpenAI is planning to purchase TPUs as well, Bloomberg News has reported.
+Google’s own status as an AI software developer has helped bolster the chip operation. TPU developers have relied on early access to Google’s latest Gemini models to improve things like power efficiency and catch bugs. That is critical in semiconductor design, where flaws can cost billions of dollars and erase months of work. AI is making those pitfalls less likely, Vahdat said.
+But Google faces other challenges, including newcomers to the market. One start-up co-founded by two former TPU engineers, called Tenspresso, is focusing its first chip on long-context window inference – the same area targeted by the 8i Max. But that product is at least a year away from design completion, Bloomberg reported last week.
+OpenAI and Anthropic, too, are working on in-house chip efforts – staffed with TPU veterans – providing another source of future competition. 
+There is also the risk of a slowdown in AI infrastructure spending. The backlash against data centres threatens to shrink the US$1.4 trillion that technology companies were expected to spend by roughly 5% to 7% in 2027, according to Bloomberg’s Singh. That includes spending on chips, networking equipment, land and other materials for data centre construction. 
+And Google’s TPU profit margins are less robust than what Nvidia generates, according to Singh.
+Like the rest of the chip and AI infrastructure space, Google is also facing shortages of key components like memory and manufacturing capacity. That has made it hard to meet demand. Every TPU that Google has available is already contracted to a customer, the company said in its earnings report. 
+Vahdat’s team is trying to diversify its supply sources where it can. That even means looking beyond Broadcom, which arranges manufacturing for TPUs . In recent months, Google signed a deal with Broadcom rival Marvell Technology that includes some TPU work – though the announcement was light on specifics. There have also been reports that MediaTek is doing work for Google’s TPU business. 
+Vahdat declined to comment on either company’s role in the TPU business. 
+William Tong, an analyst with Bloomberg Intelligence, said it is likely that Google is working out longer-term agreements “to get this supply set and prevent more bottlenecks”. BLOOMBERG&lt;/p&gt;&lt;p&gt;More on this topic&lt;/p&gt;&lt;p&gt;OpenAI plans to buy Google’s chips as part of its AI build-out&lt;/p&gt;&lt;p&gt;Nvidia customers notified of AI-related price hikes of above 15%: Sources&lt;/p&gt;&lt;p&gt;See more on&lt;/p&gt;&lt;p&gt;Google
+Nvidia
+Semiconductors
+AI/artificial intelligence
+Artificial Intelligence&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>straits_times_world</wire:foundAt>
+      <wire:platform>The Straits Times</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.straitstimes.com/world/google-escalates-nvidia-rivalry-with-specialised-versions-of-ai-chips</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: according to Bloomberg</wire:evidence>
+    </item>
   </channel>
 </rss>

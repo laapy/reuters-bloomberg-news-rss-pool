@@ -5,22 +5,41 @@
     <link>https://www.bing.com/news/search?q=site%3Aswissinfo.ch+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 09 Nov 2026 05:12:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 14:15:56 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>UBS CEO Ermotti Says Midterms Create Uncertainty for AI Buildout</title>
-      <link>https://www.swissinfo.ch/eng/ubs-ceo-ermotti-says-midterms-create-uncertainty-for-ai-buildout/92348304</link>
-      <guid isPermaLink="false">9b7e974e6fea1c710228e9b1</guid>
-      <pubDate>Sun, 08 Nov 2026 16:59:00 +0000</pubDate>
-      <description>UBS Group AG Chief Executive Officer Sergio Ermotti said the sweep of Democrats in the US midterm elections could trigger a slowdown in the construction of artificial intelligence capacity.</description>
+      <title>US Stocks Waver as Nvidia Woes Offset Drop in Oil: Markets Wrap</title>
+      <link>https://www.swissinfo.ch/eng/us-stocks-waver-as-nvidia-woes-offset-drop-in-oil%3a-markets-wrap/92348187</link>
+      <guid isPermaLink="false">48604e6e4e7f94de994875a0</guid>
+      <pubDate>Mon, 09 Nov 2026 01:21:00 +0000</pubDate>
+      <description>US stocks remained on a cautious footing Monday following the S&amp;P 500’s worst week since April 2025, with support from cheaper oil prices offset by continued pressure on chipmakers.</description>
       <wire:foundAt>swissinfo_discovery</wire:foundAt>
       <wire:platform>SWI swissinfo.ch</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.swissinfo.ch/eng/ubs-ceo-ermotti-says-midterms-create-uncertainty-for-ai-buildout/92348304</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.swissinfo.ch/eng/us-stocks-waver-as-nvidia-woes-offset-drop-in-oil%3a-markets-wrap/92348187</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>UBS CEO Ermotti Says Midterms Create Uncertainty for AI Buildout</title>
+      <link>https://www.swissinfo.ch/eng/ubs-ceo-ermotti-says-midterms-create-uncertainty-for-ai-buildout/92348304</link>
+      <guid isPermaLink="false">9b7e974e6fea1c710228e9b1</guid>
+      <pubDate>Sun, 08 Nov 2026 23:58:42 +0000</pubDate>
+      <description>UBS Group AG Chief Executive Officer Sergio Ermotti said the sweep of Democrats in the US midterm elections could trigger a slowdown in the construction of artificial intelligence capacity.</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;FIFA quietly paid millions in taxes for its president&lt;/p&gt;&lt;p&gt;Read more: FIFA quietly paid millions in taxes for its president&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>swissinfo_discovery</wire:foundAt>
+      <wire:platform>SWI swissinfo.ch</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.swissinfo.ch/eng/ubs-ceo-ermotti-says-midterms-create-uncertainty-for-ai-buildout/92348304</wire:canonicalUrl>
+      <wire:evidence>structured credit: Bloomberg</wire:evidence>
     </item>
     <item>
       <title>Novartis Abandons Heart Drug After Surprising Failure in Key Study</title>
@@ -61,25 +80,6 @@
       <wire:evidence>structured credit: Bloomberg</wire:evidence>
     </item>
     <item>
-      <title>SNB’s Schlegel Says Franc Ensures Rate Impact on Growth</title>
-      <link>https://www.swissinfo.ch/eng/snbs-schlegel-says-franc-ensures-rate-impact-on-growth/92342854</link>
-      <guid isPermaLink="false">fcb425d5a06aff559d2350ba</guid>
-      <pubDate>Thu, 05 Nov 2026 13:35:02 +0000</pubDate>
-      <description>The Swiss National Bank’s monetary policy impacts economic output more than its equivalent in the euro area because of the franc, President Martin Schlegel said.</description>
-      <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;FIFA quietly paid millions in taxes for its president&lt;/p&gt;&lt;p&gt;Read more: FIFA quietly paid millions in taxes for its president&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>swissinfo_discovery</wire:foundAt>
-      <wire:platform>SWI swissinfo.ch</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.swissinfo.ch/eng/snbs-schlegel-says-franc-ensures-rate-impact-on-growth/92342854</wire:canonicalUrl>
-      <wire:evidence>structured credit: Bloomberg</wire:evidence>
-    </item>
-    <item>
       <title>Another Drop in Rhine Water Levels Risks Even Higher Barge Rates</title>
       <link>https://www.swissinfo.ch/eng/another-drop-in-rhine-water-levels-risks-even-higher-barge-rates/92334037</link>
       <guid isPermaLink="false">e2fdb8db35b3c356d9b653c1</guid>
@@ -92,6 +92,21 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.swissinfo.ch/eng/another-drop-in-rhine-water-levels-risks-even-higher-barge-rates/92334037</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>SNB’s Schlegel Says Franc Ensures Rate Impact on Growth</title>
+      <link>https://www.swissinfo.ch/eng/snbs-schlegel-says-franc-ensures-rate-impact-on-growth/92342854</link>
+      <guid isPermaLink="false">fcb425d5a06aff559d2350ba</guid>
+      <pubDate>Thu, 05 Nov 2026 06:35:00 +0000</pubDate>
+      <description>The Swiss National Bank’s monetary policy impacts economic output more than its equivalent in the euro area because of the franc, President Martin Schlegel said.</description>
+      <wire:foundAt>swissinfo_discovery</wire:foundAt>
+      <wire:platform>SWI swissinfo.ch</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.swissinfo.ch/eng/snbs-schlegel-says-franc-ensures-rate-impact-on-growth/92342854</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
