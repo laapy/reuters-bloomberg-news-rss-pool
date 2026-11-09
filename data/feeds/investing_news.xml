@@ -1,28 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss version="2.0">
   <channel>
     <title>Investing.com — diagnostic source feed</title>
     <link>https://www.investing.com/rss/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 09 Nov 2026 14:15:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 23:31:57 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>Meta expands AI age checks for Instagram teens as lawsuits mount</title>
-      <link>https://www.investing.com/news/stock-market-news/meta-expands-ai-age-checks-for-instagram-teens-as-lawsuits-mount-5011999</link>
-      <guid isPermaLink="false">289a40a98c423e7d9cf2481e</guid>
-      <pubDate>Mon, 09 Nov 2026 13:30:19 +0000</pubDate>
-      <description />
-      <dc:creator>Reuters</dc:creator>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>investing_news</wire:foundAt>
-      <wire:platform>Investing.com</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>link_only</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/meta-expands-ai-age-checks-for-instagram-teens-as-lawsuits-mount-5011999</wire:canonicalUrl>
-      <wire:evidence>structured credit: Reuters</wire:evidence>
-    </item>
   </channel>
 </rss>
