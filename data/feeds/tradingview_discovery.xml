@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Atradingview.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 08 Nov 2026 23:56:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 05:12:50 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>AAPL: Record Q4 revenue and iPhone sales capped a $478.8B FY26</title>
@@ -30,6 +30,21 @@ Latest news&lt;/p&gt;&lt;p&gt;More news from Quartr&lt;/p&gt;</content:encoded>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3699063:0-aapl-record-q4-revenue-and-iphone-sales-capped-a-478-8b-fy26/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Palantir Stocks Edge Higher With Earnings Facing a Narrow Revenue Expectation Gap</title>
+      <link>https://www.tradingview.com/news/gurufocus:f7c46b9d3094b:0-palantir-stocks-edge-higher-with-earnings-facing-a-narrow-revenue-expectation-gap/</link>
+      <guid isPermaLink="false">80c78888c27e6c1f12ca9728</guid>
+      <pubDate>Mon, 02 Nov 2026 02:21:00 +0000</pubDate>
+      <description>PLTR faces a narrow revenue hurdle and a bigger test of what comes next. The enterprise and government AI software provider heads into its November 2 earnings report with expected revenue less than 1% ...</description>
+      <wire:foundAt>tradingview_discovery</wire:foundAt>
+      <wire:platform>TradingView News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.tradingview.com/news/gurufocus:f7c46b9d3094b:0-palantir-stocks-edge-higher-with-earnings-facing-a-narrow-revenue-expectation-gap/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -186,33 +201,6 @@ Latest news&lt;/p&gt;&lt;p&gt;More news from Quartr&lt;/p&gt;</content:encoded>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Akash Network: Voting opens on Solana migration proposal - 26 Oct 2026</title>
-      <link>https://www.tradingview.com/news/coinmarketcal:88ff65cb7094b:0-akash-network-voting-opens-on-solana-migration-proposal-26-oct-2026/</link>
-      <guid isPermaLink="false">6244aa1ae89bfba637a677b3</guid>
-      <pubDate>Mon, 26 Oct 2026 18:00:18 +0000</pubDate>
-      <description>Akash Network has opened voting on Prop 346, a proposal to migrate the network to Solana. AKT holders can vote on whether to approve the proposed migration.If the proposal passes, Akash would move ...</description>
-      <content:encoded>&lt;p&gt;News
-/ CoinMarketCal
-/ Akash Network: Voting opens on Solana migration proposal - 26 Oct 2026&lt;/p&gt;&lt;p&gt;Akash Network: Voting opens on Solana migration proposal - 26 Oct 2026 Less than 1 min read&lt;/p&gt;&lt;p&gt;AKTUSD SOLUSD
-Akash Network has opened voting on Prop 346, a proposal to migrate the network to Solana. AKT holders can vote on whether to approve the proposed migration.
-If the proposal passes, Akash would move from its own Cosmos chain to Solana, and AKT would convert 1:1 to an SPL token. The migration would change the token&amp;#x27;s base chain and security model, as well as its market access.&lt;/p&gt;&lt;p&gt;Akash Network
-@akashnet&lt;/p&gt;&lt;p&gt;Akash was built on one belief: the cloud should belong to everyone.
-The Akash core team believes our next chapter is on Solana, where the DePIN movement thrives.
-This is your network, so you decide. Vote on Prop 346: https://t.co/OgM74LsHJo
-Why Solana: https://t.co/Mc4BRvmb0V pic.twitter.com/JZ0vpfAjfb&lt;/p&gt;&lt;p&gt;Oct 26, 2026&lt;/p&gt;&lt;p&gt;CoinMarketCal Crypto Tokenomics
-Read more from CoinMarketCal&lt;/p&gt;&lt;p&gt;Compare charts&lt;/p&gt;&lt;p&gt;Analyze on Supercharts
-Latest news&lt;/p&gt;&lt;p&gt;More news from CoinMarketCal&lt;/p&gt;</content:encoded>
-      <wire:foundAt>tradingview_discovery</wire:foundAt>
-      <wire:platform>TradingView News</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/coinmarketcal:88ff65cb7094b:0-akash-network-voting-opens-on-solana-migration-proposal-26-oct-2026/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
       <title>Weekly Recap: Adjusted PPNR up to $1.5B and Newline expands Visa program</title>
       <link>https://www.tradingview.com/news/tradingview:2d44d80278241:0-weekly-recap-adjusted-ppnr-up-to-1-5b-and-newline-expands-visa-program/</link>
       <guid isPermaLink="false">0274b6d60e54c5ec3ae6ae6d</guid>
@@ -231,14 +219,56 @@ Latest news&lt;/p&gt;&lt;p&gt;More news from CoinMarketCal&lt;/p&gt;</content:en
       <title>Inside LBank’s Vision: Czhang on AI, Security, and the Future of Crypto Exchanges</title>
       <link>https://www.tradingview.com/news/newsbtc:650c961a5094b:0-inside-lbank-s-vision-czhang-on-ai-security-and-the-future-of-crypto-exchanges/</link>
       <guid isPermaLink="false">e96871a35ec98b8d092fb157</guid>
-      <pubDate>Thu, 06 Nov 2025 23:37:00 +0000</pubDate>
+      <pubDate>Fri, 07 Nov 2025 07:37:08 +0000</pubDate>
       <description>LBank’s Partner and Head of LBank Labs, Czhang, has spent nearly a decade proving that consistency beats hype. Under his leadership, the exchange has maintained a perfect security record while scaling ...</description>
+      <content:encoded>&lt;p&gt;News
+/ NewsBTC
+/ Inside LBank’s Vision: Czhang on AI, Security, and the Future of Crypto Exchanges&lt;/p&gt;&lt;p&gt;Inside LBank’s Vision: Czhang on AI, Security, and the Future of Crypto Exchanges 4 min read&lt;/p&gt;&lt;p&gt;What to Know:
+LBank maintains a decade-long zero-breach record, preventing $1.2B in losses in 2024 alone.
+The exchange has secured major partnerships with Ondo Finance and xStocks to bring tokenized US equities like Tesla to crypto users.
+LBank Labs has $100M+ in assets under management (AUM), backing early-stage AI, DeFi, and RWA projects that offer long-term potential.
+Czhang says the exchanges that survive will be the ones that balance trust, compliance, and innovation. 
+LBank’s Partner and Head of LBank Labs, Czhang, has spent nearly a decade proving that consistency beats hype. Under his leadership, the exchange has maintained a perfect security record while scaling globally across both retail and institutional markets.
+Since its launch, LBank has grown into one of the most trusted names in global trading. The exchange has operated without a single security breach for a full decade. In 2024 alone, LBank prevented more than $1.2B in potential security threats. LBank serves more than 20M registered users, and records over $10.5B in daily volume. Managing over $100M in assets through LBank Labs, Czhang puts all his focus on projects that offer long-term value and sustainability.
+In an exclusive interview, he detailed how the future of crypto exchanges balances on trust, compliance, and their ability to innovate alongside the market shifts.
+As Czhang puts it, the exchanges that survive are the ones that ‘can protect their foundation while exploring new possibilities, providing real value to users.’
+As AI transforms trading and real-world assets move on-chain, LBank’s steady approach offers a glimpse of what sustainable growth in crypto looks like. 
+The Logic of Long-Term Crypto Investing
+Czhang’s entry into crypto in 2017 marked a clean move away from traditional finance. He was drawn in by the structure, the idea that blockchain could become the new financial architecture. 
+After leading investments in more than 100 Web3 projects, he learned that success rarely depends on the technology alone. Teams must be able to adapt quickly and execute to outlast those with a weaker focus. 
+He puts it:  ‘Many times, even a project with cutting-edge technology and an attractive concept can fail if the team lacks the ability to respond quickly to changes, isn’t cohesive, or cannot navigate regulatory and market shifts effectively.’
+That belief has shaped how LBank Labs deploys its $100M fund today. The team backs founders who can build through bear markets and turn their ideas into sustainable ecosystems. 
+As he likes to remind new founders, quoting Sun Tzu, there’s ‘opportunity in chaos.’
+Security as a Culture: LBank’s Zero-Incident Record
+Security has become a defining feature of LBank. In an industry tarnished by hacks and exploits, the exchange has thrived for 10 years without a single breach. A record possible due to proactive defense and constant improvement.
+AI-driven monitoring helps to detect irregular activity in real time, while multi-layered protection covers everything from custody systems to user interfaces.&lt;/p&gt;&lt;p&gt;LBank’s partnerships with CertiK Skynet and Elliptic have added automated audits, live risk detection, Anti-Money Laundering (AML), and Know Your Transaction (KYT) screening for added compliance. 
+In 2024 alone, these systems helped prevent more than $1.2B in potential losses. With transparency and risk control embedded into its culture, LBank has managed to turn security from an operational cost into a lasting trust advantage over its competitors.
+Tokenized Stocks &amp;amp; Global Access
+Thanks to major partnerships with Ondo Finance and xStocks, LBank has brought traditional markets to Web3, offering users tokenized US equities on-chain.
+You can now buy fractional shares of companies like Tesla or Strategy directly on the LBank platform. This 24/7 accessibility overcomes the geographic and regulatory hurdles many users face.&lt;/p&gt;&lt;p&gt;To help showcase the product, LBank has launched a $120K Tokenized Stock Contract Competition. This gives users a hands-on way to experience the new product while earning a share of rewards based on trading volume.
+Inside LBank’s AI Push: From Smarter Trading to Safer Markets
+LBank has long been closely following the AI sector. During the recent surge of the X402 trend, LBank has premiere listed several AI-related tokens, many of which achieved impressive growth. Notably, PAYAI soared by 875%, while PING reached a remarkable 989% increase.
+The exchange was one of the first to list top AI-related assets like $GOAT and $VIRTUAL in 2024, followed by $X402, $PAYAI, and $SORA in 2025.&lt;/p&gt;&lt;p&gt;Behind the scenes, LBank is using AI to analyze on-chain activity, order books, and even social sentiment to predict market shifts and optimize its liquidity. 
+Czhang explains: ‘By predicting price fluctuations and identifying abnormal trading behaviors, AI can alert potential risks in advance, helping users and the platform avoid unnecessary losses.’
+How LBank Labs Competes With Traditional VCs
+While most VCs bring a lot of funding but little market experience, LBank Labs’ strength lies in being able to pick out the right early-stage Web3 investments. 
+With over $100M in assets under management, the fund focuses on early-stage DeFi, Real World Assets (RWAs), AI, and even meme coin communities that show they have long-term cultural traction. 
+Through its ‘invest + incubate’ model, LBank Labs works closely with founders to help develop marketing strategies and PR support, alongside the capital and exchange listings.
+Projects featured on its LBank Edge discovery platform have achieved an average ROI of 864.95%. This includes popular tokens like $FARTCOIN and $USELESS.
+Outlook: The Exchange of the Future
+Czhang firmly believes the next generation of exchanges, or those who will still be around, are those that focus on trust, compliance, and innovation. Without user trust, no amount of liquidity or branding can sustain a platform. Compliance, often seen as a burden, is now the foundation of global expansion. And innovation, well, without it, you can quickly become irrelevant in such a fast-paced industry.
+As AI, tokenization, and security become pivotal to the company, LBank continues to refine its model around trust, transparency, and long-term value. It’s a vision that keeps the exchange firmly ahead of the curve.
+This article does not constitute financial advice. Crypto carries inherent risks, so please do your own research (DYOR) and never invest more than you are willing to lose.
+Authored by NewsBTC — https://www.newsbtc.com/news/lbank-czhang-on-ai-tokenization-security-and-long-term-crypto&lt;/p&gt;&lt;p&gt;Crypto Exchanges NewsBTC Regulation
+Read more from NewsBTC&lt;/p&gt;&lt;p&gt;Compare charts&lt;/p&gt;&lt;p&gt;Analyze on Supercharts
+Latest news&lt;/p&gt;&lt;p&gt;More news from NewsBTC&lt;/p&gt;</content:encoded>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.tradingview.com/news/newsbtc:650c961a5094b:0-inside-lbank-s-vision-czhang-on-ai-security-and-the-future-of-crypto-exchanges/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
