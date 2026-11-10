@@ -1,11 +1,192 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>MarketScreener — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Amarketscreener.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 10 Nov 2026 04:47:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 13:19:43 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Components NASDAQ 100</title>
+      <link>https://www.marketscreener.com/quote/index/NASDAQ-100-4946/components/</link>
+      <guid isPermaLink="false">1cd15ab31b2678433bbe22e4</guid>
+      <pubDate>Mon, 09 Nov 2026 18:44:00 +0000</pubDate>
+      <description>07:51am US Equity Futures Mixed Pre-Bell as Fed Governor Christopher Waller Leans Towards Rate Hike in December MT ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/quote/index/NASDAQ-100-4946/components/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Le Pen and Melenchon ahead in 2027 French presidential race, poll shows</title>
+      <link>https://www.marketscreener.com/news/le-pen-and-melenchon-ahead-in-2027-french-presidential-race-poll-shows-ce785fd3d88ef126</link>
+      <guid isPermaLink="false">b01c2dbf18f55c0d6f66a8d1</guid>
+      <pubDate>Sun, 08 Nov 2026 23:30:00 +0000</pubDate>
+      <description>French far-right leader Marine Le Pen and hard-left rival Jean-Luc Melenchon consolidated their lead in voting intention ahead of next year's presidential election, a poll showed on Monday, ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/le-pen-and-melenchon-ahead-in-2027-french-presidential-race-poll-shows-ce785fd3d88ef126</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Sojitz signs MOU to acquire 5% of Vietnam tungsten supplier Masan High-Tech Materials</title>
+      <link>https://www.marketscreener.com/news/sojitz-signs-mou-to-acquire-5-of-vietnam-tungsten-supplier-masan-high-tech-materials-ce785fd3d980f22c</link>
+      <guid isPermaLink="false">73df218ddae5605f9af1a6e5</guid>
+      <pubDate>Sun, 08 Nov 2026 22:06:00 +0000</pubDate>
+      <description>Masan Group Corp is a Vietnam-based company engaged in the food processing industry. Through its various subsidiaries and affiliates, it is involved in food and drinks manufacturi ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/sojitz-signs-mou-to-acquire-5-of-vietnam-tungsten-supplier-masan-high-tech-materials-ce785fd3d980f22c</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Codelco lowers 2026 guidance, confirms 42,100 tons output error</title>
+      <link>https://www.marketscreener.com/news/codelco-lowers-2026-guidance-confirms-42-100-tons-output-error-ce785fddd88afe25</link>
+      <guid isPermaLink="false">dec9809357dee127e4f992e3</guid>
+      <pubDate>Thu, 05 Nov 2026 10:41:00 +0000</pubDate>
+      <description>SANTIAGO, Nov 5 (Reuters) - Chile's state copper miner Codelco lowered its production guidance for this year on Thursday and confirmed that it had overstated copper output by 42,100 metric tons in ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/codelco-lowers-2026-guidance-confirms-42-100-tons-output-error-ce785fddd88afe25</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Google faces claims student used AI chat on US school laptop to plan suicide attempt</title>
+      <link>https://www.marketscreener.com/news/google-faces-claims-student-used-ai-chat-on-us-school-laptop-to-plan-suicide-attempt-ce785fddd88bff22</link>
+      <guid isPermaLink="false">aab174b31c596aabd853f24e</guid>
+      <pubDate>Thu, 05 Nov 2026 10:23:00 +0000</pubDate>
+      <description>Nov 5 (Reuters) - The parents of a girl in the US who used Google's Gemini AI chatbot on her school-provided Chromebook to make a plan to die by suicide have sued the company, claiming it pushed its ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/google-faces-claims-student-used-ai-chat-on-us-school-laptop-to-plan-suicide-attempt-ce785fddd88bff22</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>AI data-center stocks slide, renewables rally after Democratic US midterm sweep</title>
+      <link>https://www.marketscreener.com/news/ai-data-center-stocks-dip-renewables-surge-after-democrat-sweep-in-us-midterm-elections-ce785fdfd881f225</link>
+      <guid isPermaLink="false">09cbd3447cc09779e9b1cb34</guid>
+      <pubDate>Wed, 04 Nov 2026 07:12:00 +0000</pubDate>
+      <description>Nov 4 (Reuters) - Data center stocks slipped in premarket trading on Wednesday, while clean-energy shares surged after Democrats won both the Senate and the House, raising prospects of tougher ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/ai-data-center-stocks-dip-renewables-surge-after-democrat-sweep-in-us-midterm-elections-ce785fdfd881f225</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Texas Democrat James Talarico claims historic statewide win</title>
+      <link>https://www.marketscreener.com/news/texas-democrat-james-talarico-claims-historic-statewide-win-ce785fded18ef226</link>
+      <guid isPermaLink="false">467354813841c9e56387388d</guid>
+      <pubDate>Tue, 03 Nov 2026 22:53:00 +0000</pubDate>
+      <description>Talarico, a four-term state legislator and one of the nation's top Senate fundraisers, overcame heavy outside spending in the most expensive Senate race of the cycle. He began as an underdog against ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/texas-democrat-james-talarico-claims-historic-statewide-win-ce785fded18ef226</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>How Trump's noncitizen voter lists could affect the midterms</title>
+      <link>https://www.marketscreener.com/news/how-trump-s-noncitizen-voter-lists-could-affect-the-midterms-ce785fd8dd8af723</link>
+      <guid isPermaLink="false">5230d97e035b389a7988a3b0</guid>
+      <pubDate>Sun, 01 Nov 2026 09:17:00 +0000</pubDate>
+      <description>As Americans head to the polls on Tuesday for midterm elections, lists the Trump administration has compiled of possible noncitizen voters could be used to contest the validity of the results.</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/how-trump-s-noncitizen-voter-lists-could-affect-the-midterms-ce785fd8dd8af723</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Bloomberg: Adnoc Likely to Supply Crude via New Hormuz Bypass Pipeline in Early 2027</title>
+      <link>https://www.marketscreener.com/news/bloomberg-adnoc-likely-to-supply-crude-via-new-hormuz-bypass-pipeline-in-early-2027-ce785cd2de88f221</link>
+      <guid isPermaLink="false">e11315682edcd1c89a12243d</guid>
+      <pubDate>Tue, 27 Oct 2026 22:56:00 +0000</pubDate>
+      <description>US Total Weekly EIA Crude Oil Stocks Fall by 2.0 Million Barrels After Prior 3.4 Million Decrease MT 10:02am Bank of Canada head sees less room for monetary accommodation RE 09:34am World Bank sees ...</description>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.94</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/bloomberg-adnoc-likely-to-supply-crude-via-new-hormuz-bypass-pipeline-in-early-2027-ce785cd2de88f221</wire:canonicalUrl>
+      <wire:evidence>retained wire byline/source: Bloomberg:</wire:evidence>
+    </item>
+    <item>
+      <title>SoftBank Group Corp. Stock</title>
+      <link>https://www.marketscreener.com/quote/stock/SOFTBANK-GROUP-CORP-6492452/</link>
+      <guid isPermaLink="false">1be29aa45419c317c72874a7</guid>
+      <pubDate>Sat, 18 Apr 2026 17:00:00 +0000</pubDate>
+      <description>07:02am SoftBank Posts Multibillion-Dollar Loss Linked to U.S. Data-Center Equipment -- Update DJ 02:45am SoftBank Group Posts Quarterly Loss on Special Losses Linked to U.S. Data-Center Projects DJ ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/SOFTBANK-GROUP-CORP-6492452/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Tikehau Capital Stock</title>
+      <link>https://www.marketscreener.com/quote/stock/TIKEHAU-CAPITAL-34204863/</link>
+      <guid isPermaLink="false">14be14ca19c7df02b892f316</guid>
+      <pubDate>Mon, 23 Aug 2021 17:00:00 +0000</pubDate>
+      <description>Nov. 03 Emergence-Defense Sicav and Latour Capital Management SAS signed an agreement to acquire an unknown majority stake in Elvia Printed Circuit Boards SAS from Tikehau Capital. CI ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/TIKEHAU-CAPITAL-34204863/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>TotalEnergies SE Stock</title>
+      <link>https://www.marketscreener.com/quote/stock/TOTALENERGIES-SE-4717/</link>
+      <guid isPermaLink="false">ed7e35cf2fce3efe1cbc26c4</guid>
+      <pubDate>Mon, 20 Oct 2014 17:00:00 +0000</pubDate>
+      <description>Nov. 09 DHL Express, TotalEnergies Enter Sustainable Aviation Fuel Supply Partnership MT ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/quote/stock/TOTALENERGIES-SE-4717/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
   </channel>
 </rss>
