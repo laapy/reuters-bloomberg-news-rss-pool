@@ -1,11 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Investing.com — diagnostic source feed</title>
     <link>https://www.investing.com/rss/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 11 Nov 2026 16:30:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 23:00:03 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Nvidia CEO Huang had relationship with executive who reported to him, NYT reports</title>
+      <link>https://www.investing.com/news/stock-market-news/nvidia-ceo-huang-had-relationship-with-executive-who-reported-to-him-nyt-reports-5019992</link>
+      <guid isPermaLink="false">51bf0d5a0de5ef4a2bff0218</guid>
+      <pubDate>Wed, 11 Nov 2026 22:43:02 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/nvidia-ceo-huang-had-relationship-with-executive-who-reported-to-him-nyt-reports-5019992</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>Nvidia is preparing to oust CEO Jensen Huang, WSJ reports</title>
+      <link>https://www.investing.com/news/stock-market-news/nvidia-is-preparing-to-oust-ceo-jensen-huang-wsj-reports-5019991</link>
+      <guid isPermaLink="false">a4d9a931a25d5fdecbd8ad3a</guid>
+      <pubDate>Wed, 11 Nov 2026 22:42:28 +0000</pubDate>
+      <description />
+      <dc:creator>Reuters</dc:creator>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>investing_news</wire:foundAt>
+      <wire:platform>Investing.com</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>link_only</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.investing.com/news/stock-market-news/nvidia-is-preparing-to-oust-ceo-jensen-huang-wsj-reports-5019991</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>
