@@ -1,30 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss version="2.0">
   <channel>
     <title>Mint — diagnostic source feed</title>
     <link>https://www.livemint.com/rss/news</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 11 Nov 2026 01:07:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 08:08:50 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>US Household Delinquencies Rise Slightly, NY Fed Report Shows</title>
-      <link>https://www.livemint.com/news/us-news/us-household-delinquencies-rise-slightly-ny-fed-report-shows-11794340179924.html</link>
-      <guid isPermaLink="false">53f79da1144ad18161c4955a</guid>
-      <pubDate>Tue, 10 Nov 2026 19:49:39 +0000</pubDate>
-      <description>US consumers are falling further behind on their debts as they navigate higher costs on fuel, groceries and other goods.</description>
-      <dc:creator>list.metadata.agency</dc:creator>
-      <content:encoded>&lt;p&gt;(Bloomberg) -- US consumers are falling further behind on their debts as they navigate higher costs on fuel, groceries and other goods. The share of overdue consumer loans rose marginally in the third quarter to 5% from 4.7% the prior quarter, according to the Federal Reserve Bank of New York’s Quarterly Report on Household Debt and Credit released Tuesday. Total household debt balances rose 1.8% to $19.1 trillion. The share of mortgage balances more than 90 days overdue rose to 1.13%, the highest since the first quarter of 2018. The portion of mortgage debt transitioning into early and severe delinquency ticked up but remained near pre-pandemic norms, New York Fed researchers said. “Although delinquency transition rates for housing debts have crept up, the overall credit quality of these loans remains strong,” Donghoon Lee, economic research adviser at the New York Fed, said in a press release. Balances for home equity lines of credit rose by $23 billion, marking the largest increase since 2005 and the 18th straight quarter of growth. The share of debt becoming newly delinquent also rose for auto loans. Student loan balances increased slightly but loans entered delinquency at a slower pace.Transition into delinquency also improved for credit cards. In a blog post accompanying the data, New York Fed researchers found delinquency rates for cards opened during the pandemic — when issuance rose for consumers with lower incomes and credit scores — are declining. “If current patterns hold, the elevated delinquencies of the past few years may prove to be more of a pandemic-era echo than a permanent feature of the credit card market,” they wrote. Pandemic DelinquenciesSeparate data released Tuesday by the Urban Institute, a think tank in Washington, D.C., suggest people have fallen further behind on debts since the pandemic. About 5.8% of Americans have at least some delinquent credit card debt, with a median amount of $680 debt being late. That’s up from 4.3% who had some credit card delinquency in August 2019, according to the institute’s research. Around 5.5% of consumers have some delinquency in auto and retail loans, compared with 3.9% in August 2019.Nationwide, about 24% of US consumers with a credit file have debt of any kind in collections, according to the institute. That’s down from the roughly 30% who had debt in collections just before the pandemic, though part of the improvement likely stems from delays in reporting collections to credit bureaus, said Breno Braga, a senior fellow at the institute. Residents of ZIP codes with a majority of people of color are 50% more likely to have debt in collections than residents of majority white areas, the study found.The institute tracked the share of people across the US with debt in collections or delinquent by taking a representative sample of credit bureau records from August 2026.Consumer price data released Tuesday showed underlying inflation excluding food and energy rose 0.3% in October from a month earlier, topping estimates for the third straight month.More stories like this are available on bloomberg.com©2026 Bloomberg L.P.&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>mint_news</wire:foundAt>
-      <wire:platform>Mint</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.94</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.livemint.com/news/us-news/us-household-delinquencies-rise-slightly-ny-fed-report-shows-11794340179924.html</wire:canonicalUrl>
-      <wire:evidence>retained wire byline/source: ©2026 Bloomberg</wire:evidence>
-    </item>
   </channel>
 </rss>

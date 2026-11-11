@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Abnnbloomberg.ca+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 11 Nov 2026 01:07:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 08:08:50 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>World shares rise after technology shares advance on Wall Street ahead of U.S. inflation data</title>
@@ -23,6 +23,24 @@
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/dow-jones/2026/11/10/world-shares-rise-after-technology-shares-advance-on-wall-street-ahead-of-us-inflation-data/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>S&amp;P/TSX composite down nearly 300 points, U.S. stock markets also lower</title>
+      <link>https://www.bnnbloomberg.ca/markets/2026/11/10/sptsx-composite-down-nearly-300-points-us-stock-markets-also-lower/</link>
+      <guid isPermaLink="false">58e845197715da398efa6b92</guid>
+      <pubDate>Tue, 10 Nov 2026 21:22:28 +0000</pubDate>
+      <description>Canada’s main stock index was down nearly 300 points, weighed down by losses in the base metals sector, while U.S. stock markets also fell.</description>
+      <dc:creator>The Canadian Press</dc:creator>
+      <content:encoded>&lt;p&gt;TORONTO — Canada’s main stock index lost more than 250 points on Tuesday, weighed down by losses in the basic materials sector, while U.S. markets also lost ground.  The S&amp;amp;P/TSX composite index was down 275.81 points at 36,170.45.     In New York, the Dow Jones industrial average was down 157.86 points at 52,231.89. The S&amp;amp;P 500 index was down 29.01 points at 7,520.93, while the Nasdaq composite was down 187.26 points at 25,065.88.   The Canadian dollar traded for 70.52 cents US compared with 70.81 cents US on Monday. The December crude oil contract was down 81 cents US at US$86.04 per barrel. The December gold contract was down US$84.30 at US$4,030.20 an ounce. --- This report by The Canadian Press was first published Nov. 10, 2026.&lt;/p&gt;</content:encoded>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/2026/11/10/sptsx-composite-down-nearly-300-points-us-stock-markets-also-lower/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -44,36 +62,6 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Will Stellantis’ exit from Canada pose a threat for the future of the auto sector?</title>
-      <link>https://www.bnnbloomberg.ca/video/shows/2026/11/10/will-stellantis-exit-from-canada-pose-a-threat-for-the-future-of-the-auto-sector/</link>
-      <guid isPermaLink="false">6c0890bce4c036b5c5784f6c</guid>
-      <pubDate>Tue, 10 Nov 2026 14:48:00 +0000</pubDate>
-      <description>The Front Bench panel discusses the government's response to Stellantis’ sale of the Brampton plant, and what it means for the future of the auto sector.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/2026/11/10/will-stellantis-exit-from-canada-pose-a-threat-for-the-future-of-the-auto-sector/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Honda CR-V tops Canada’s most stolen vehicles list for 2025</title>
-      <link>https://www.bnnbloomberg.ca/video/investing/2026/11/10/honda-cr-v-tops-canadas-most-stolen-vehicles-list-for-2025/</link>
-      <guid isPermaLink="false">56b6fd3169fd934b9d290b8e</guid>
-      <pubDate>Tue, 10 Nov 2026 14:45:00 +0000</pubDate>
-      <description>Car thefts are down nationwide, but the Honda CR-V remains Canada’s most stolen vehicle. Pat Foran reports on efforts to stop the thieves.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/investing/2026/11/10/honda-cr-v-tops-canadas-most-stolen-vehicles-list-for-2025/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
       <title>Roshel ‘simply unable’ to take over Stellantis’ commitments to unionized workers: CEO</title>
       <link>https://www.bnnbloomberg.ca/video/shows/2026/11/10/roshel-simply-unable-to-take-over-stellantis-commitments-to-unionized-workers-ceo/</link>
       <guid isPermaLink="false">8252db7e6ec1efbde15eae2d</guid>
@@ -89,48 +77,52 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>‘We’re not done fighting here’: Unifor head says she wants answers from feds on Stellantis sale</title>
-      <link>https://www.bnnbloomberg.ca/video/shows/2026/11/10/were-not-done-fighting-here-unifor-head-says-she-wants-answers-from-feds-on-stellantis-sale/</link>
-      <guid isPermaLink="false">0b354637c1028a020a04a97b</guid>
-      <pubDate>Tue, 10 Nov 2026 14:15:00 +0000</pubDate>
-      <description>Unifor National President Lana Payne discusses Stellantis’ sale of the Brampton assembly plant to Roshel and questions about the government’s involvement.</description>
+      <title>Nvidia, CEO Huang sued over disclosures related to suspected Chinese spy</title>
+      <link>https://www.bnnbloomberg.ca/business/company-news/2026/11/10/nvidia-ceo-huang-sued-over-disclosures-related-to-suspected-chinese-spy/</link>
+      <guid isPermaLink="false">28a0734d6b5be346b1d30170</guid>
+      <pubDate>Tue, 10 Nov 2026 12:15:47 +0000</pubDate>
+      <description>Nvidia and Chief Executive Jensen Huang were sued on Monday in a proposed class action accusing them of defrauding shareholders by concealing Huang’s ties with a suspected Chinese spy.</description>
+      <dc:creator>Reuters Staff</dc:creator>
+      <content:encoded>&lt;p&gt;Nvidia and Chief Executive Jensen Huang were sued on Monday in a proposed class action accusing them of defrauding shareholders by concealing Huang’s ties with a suspected Chinese spy. According to a complaint filed in federal court in San Jose, California, the defendants misled shareholders about Huang’s alleged affair with Alice Huang, a former executive of Singapore-based Megaspeed who is not related to him, and did not disclose that the matter raised national security concerns that threatened Nvidia’s reputation and business prospects. The New York Times reported last month about the alleged relationship, and that U.S. authorities had concluded Alice Huang was a Chinese intelligence asset. Nvidia did not immediately respond to a request for comment. Jensen Huang told Nvidia’s employees he had been unfaithful to his wife, without disclosing details of the alleged relationship. He co-founded Nvidia, and has led the Santa Clara, California-based company as it became the world’s most valuable chipmaker and made him one of the world’s most prominent symbols of the artificial intelligence boom. Nvidia announced a probe into the matter on Sunday. Its shares closed down 4.3 per cent on Monday, reducing Nvidia’s market capitalization by approximately US$190 billion. The lawsuit was filed five minutes after the U.S. stock market closed. It is common for shareholders to sue companies after unexpected share price declines. Nvidia shareholders led by Mark Kistenmacher are seeking unspecified damages from the defendants. (Reporting by Jonathan Stempel in New York; Editing by Matthew Lewis)&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/11/10/nvidia-ceo-huang-sued-over-disclosures-related-to-suspected-chinese-spy/</wire:canonicalUrl>
+      <wire:evidence>structured credit: Reuters Staff</wire:evidence>
+    </item>
+    <item>
+      <title>Fresh Prep gets court approval to buy fellow meal kit company Goodfood</title>
+      <link>https://www.bnnbloomberg.ca/business/company-news/2026/11/10/fresh-prep-gets-court-approval-to-buy-fellow-meal-kit-company-goodfood/</link>
+      <guid isPermaLink="false">62b7bec6fbbd0919a5443822</guid>
+      <pubDate>Tue, 10 Nov 2026 11:29:00 +0000</pubDate>
+      <description>Canadian meal delivery company Fresh Prep Foods Inc. says it has received court permission to acquire distressed competitor Goodfood Market Corp.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/2026/11/10/were-not-done-fighting-here-unifor-head-says-she-wants-answers-from-feds-on-stellantis-sale/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/11/10/fresh-prep-gets-court-approval-to-buy-fellow-meal-kit-company-goodfood/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>‘Whenever I see these tech titans looking to make a buck, I worry about national security’: King</title>
-      <link>https://www.bnnbloomberg.ca/video/shows/trading-day/2026/11/10/whenever-i-see-these-tech-titans-looking-to-make-a-buck-i-worry-about-national-security-king/</link>
-      <guid isPermaLink="false">4879b60fa91f3b8695b07d06</guid>
-      <pubDate>Tue, 10 Nov 2026 13:28:00 +0000</pubDate>
-      <description>Sean King, senior vice president at Park Strategies, joins BNN Bloomberg to discuss the future of AI chip sales to China amid Nvidia scandal.</description>
+      <title>CPP Investments posts 0.5% loss for Q2, weighed down by fixed-income losses</title>
+      <link>https://www.bnnbloomberg.ca/business/company-news/2026/11/10/cpp-investments-posts-05-loss-for-q2-weighed-down-by-fixed-income-losses/</link>
+      <guid isPermaLink="false">81406e300c263386e47c67a5</guid>
+      <pubDate>Tue, 10 Nov 2026 09:33:00 +0000</pubDate>
+      <description>The Canada Pension Plan Investment Board reported a net loss of 0.5 per cent in its second quarter as higher bond yields weighed on its fixed-income investments.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/trading-day/2026/11/10/whenever-i-see-these-tech-titans-looking-to-make-a-buck-i-worry-about-national-security-king/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Full episode: Market Call for Tuesday, Nov. 10, 2026</title>
-      <link>https://www.bnnbloomberg.ca/video/shows/market-call/2026/11/10/full-episode-market-call-for-tuesday-nov-10-2026/</link>
-      <guid isPermaLink="false">8a7d0045d3006176e84eadd2</guid>
-      <pubDate>Tue, 10 Nov 2026 11:25:00 +0000</pubDate>
-      <description>Market Call is Canada's leading stock market call-in program. Every weekday, top fund managers and market analysts - professionals who handle billions in retail and institutional investments - give ...</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/market-call/2026/11/10/full-episode-market-call-for-tuesday-nov-10-2026/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/11/10/cpp-investments-posts-05-loss-for-q2-weighed-down-by-fixed-income-losses/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -149,21 +141,6 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>S&amp;P/TSX composite down nearly 300 points, U.S. stock markets also lower</title>
-      <link>https://www.bnnbloomberg.ca/markets/2026/11/10/sptsx-composite-down-nearly-300-points-us-stock-markets-also-lower/</link>
-      <guid isPermaLink="false">58e845197715da398efa6b92</guid>
-      <pubDate>Tue, 10 Nov 2026 08:41:00 +0000</pubDate>
-      <description>Canada’s main stock index was down nearly 300 points, weighed down by losses in the base metals sector, while U.S. stock markets also fell.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/2026/11/10/sptsx-composite-down-nearly-300-points-us-stock-markets-also-lower/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
       <title>Doug Ford government appoints 8 new regional chairs. Here is the full list</title>
       <link>https://www.bnnbloomberg.ca/business/politics/2026/11/10/doug-ford-government-appoints-8-new-regional-chairs-here-is-the-full-list/</link>
       <guid isPermaLink="false">74c0f5779e9cba0a84d65477</guid>
@@ -179,18 +156,48 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Nvidia, CEO Huang sued over disclosures related to suspected Chinese spy</title>
-      <link>https://www.bnnbloomberg.ca/business/company-news/2026/11/10/nvidia-ceo-huang-sued-over-disclosures-related-to-suspected-chinese-spy/</link>
-      <guid isPermaLink="false">28a0734d6b5be346b1d30170</guid>
-      <pubDate>Tue, 10 Nov 2026 04:15:00 +0000</pubDate>
-      <description>Nvidia and Chief Executive Jensen Huang were sued on Monday in a proposed class action accusing them of defrauding shareholders by concealing Huang’s ties with a suspected Chinese spy.</description>
+      <title>‘This is happening one way or the other &amp; it might as well happen with us in the lead’: Bianco on AI</title>
+      <link>https://www.bnnbloomberg.ca/video/shows/the-open/2026/11/10/this-is-happening-one-way-or-the-other-it-might-as-well-happen-with-us-in-the-lead-bianco-on-ai/</link>
+      <guid isPermaLink="false">f7fd88eb0f39aac42013450e</guid>
+      <pubDate>Tue, 10 Nov 2026 07:44:00 +0000</pubDate>
+      <description>Jim Bianco, president and macro strategist at Bianco Research, joins BNN Bloomberg to discuss U.S. CPI, bonds and a potential AI moratorium.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/11/10/nvidia-ceo-huang-sued-over-disclosures-related-to-suspected-chinese-spy/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/the-open/2026/11/10/this-is-happening-one-way-or-the-other-it-might-as-well-happen-with-us-in-the-lead-bianco-on-ai/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Xtract One Technologies more than doubles revenue as AI-powered screening helps make schools safer</title>
+      <link>https://www.bnnbloomberg.ca/investment-trends/2026/11/10/xtract-one-technologies-more-than-doubles-revenue-as-ai-powered-screening-helps-make-schools-safer/</link>
+      <guid isPermaLink="false">12a3f03d633bcd8ad486fda0</guid>
+      <pubDate>Tue, 10 Nov 2026 07:09:00 +0000</pubDate>
+      <description>Peter Evans, CEO and Director of Xtract One Technologies Inc., discusses the company’s AI-powered weapons detection system, which screens people as they walk through an entrance without the slow, inva ...</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/investment-trends/2026/11/10/xtract-one-technologies-more-than-doubles-revenue-as-ai-powered-screening-helps-make-schools-safer/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>U.S. stocks stumble after a discouraging update on inflation</title>
+      <link>https://www.bnnbloomberg.ca/markets/dow-jones/2026/11/10/wall-street-mixed-in-early-trading-ahead-of-a-new-peek-at-inflation/</link>
+      <guid isPermaLink="false">ecf71c3f8c63615fdf813dd6</guid>
+      <pubDate>Tue, 10 Nov 2026 03:32:00 +0000</pubDate>
+      <description>Early trading on Wall Street was mixed and oil prices fell again, one day after stocks rallied to recover most of the big losses from last week.</description>
+      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
+      <wire:platform>BNN Bloomberg</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/dow-jones/2026/11/10/wall-street-mixed-in-early-trading-ahead-of-a-new-peek-at-inflation/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
