@@ -1,27 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss version="2.0">
   <channel>
     <title>ZAWYA — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Azawya.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 12 Nov 2026 03:45:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 12:21:00 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>Saudi Arabia, Turkey sign deal to build 3,000 MW of wind power capacity</title>
-      <link>https://www.zawya.com/en/business/utilities/saudi-arabia-turkey-sign-deal-to-build-3000-mw-of-wind-power-capacity-2194677</link>
-      <guid isPermaLink="false">5efaeb3d9caa57b7035d3771</guid>
-      <pubDate>Wed, 11 Nov 2026 06:05:17 +0000</pubDate>
-      <description>The agreements will bring to 5,000 MW the total capacity of power plants to be built jointly with Saudi Arabia ...</description>
-      <dc:creator>Can Sezer</dc:creator>
-      <wire:foundAt>zawya_discovery</wire:foundAt>
-      <wire:platform>ZAWYA</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.zawya.com/en/business/utilities/saudi-arabia-turkey-sign-deal-to-build-3000-mw-of-wind-power-capacity-2194677</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
   </channel>
 </rss>
