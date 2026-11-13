@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>The Economic Times — diagnostic source feed</title>
     <link>https://economictimes.indiatimes.com/rssfeedsdefault.cms</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Fri, 13 Nov 2026 08:36:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 17:01:19 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Cerebras stock jumps 23% on surprise profit, forecast hike, easing AI spending worries</title>
+      <link>https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/cerebras-stock-jumps-23-on-surprise-profit-forecast-hike-easing-ai-spending-worries/articleshow/135808868.cms</link>
+      <guid isPermaLink="false">690e32597ad5cb8881958744</guid>
+      <pubDate>Fri, 13 Nov 2026 16:02:00 +0000</pubDate>
+      <description>Cerebras Systems experienced a 23% increase in stock prices after announcing adjusted revenue guidance for 2026. The company reported a quarterly profit of $29.82 million, surpassing analysts' expectations of a loss. Cerebras also revealed a significant rise in cloud and services revenue, driven in part by its OpenAI agreement. Additionally, the company has signed a cloud services deal with Microsoft, with more details to come.</description>
+      <dc:creator>ETMarkets.com</dc:creator>
+      <content:encoded>&lt;p&gt;Shares of Cerebras Systems surged 23% on Friday after the artificial intelligence (AI) chipmaker raised its annual revenue forecast and reported an unexpected quarterly profit, signalling growing momentum in its challenge to Nvidia in the AI chip market, according to a Reuters report.Cerebras shares jumped 23.21% to $120.44 at the opening bell before paring gains.The rally could add more than $3 billion to the company&amp;#x27;s market capitalisation if the gains hold, helping offset concerns over elevated AI infrastructure spending and uncertainty surrounding Nvidia following reports of CEO Jensen Huang&amp;#x27;s resignation.For live updates on US Markets, click hereCerebras raised its 2026 adjusted revenue guidance to between $940 million and $960 million, compared with its earlier projection of $880 million to $890 million. The revised forecast also exceeds analysts&amp;#x27; average estimate of $887.04 million, according to data compiled by LSEG.The company reiterated its target of tripling revenue in 2027 and disclosed that it had signed a cloud services agreement with Microsoft.Cerebras also reported a significant improvement in profitability. Adjusted profit stood at $29.82 million in the third quarter, compared with an adjusted loss of $10.86 million in the corresponding period last year. Analysts had expected an adjusted loss of $38.4 million, Reuters reported.The company&amp;#x27;s adjusted cloud and services revenue, which includes contributions from its OpenAI agreement, more than tripled to $144.9 million during the quarter.Also Read: Anthropic IPO to test Wall Street&amp;#x27;s appetite for AI stocksOn the earnings call, Chief Executive Officer Andrew Feldman said delivery delays under Cerebras&amp;#x27; $20 billion multi-year agreement with OpenAI were caused by industry-wide shortages of land and power rather than constraints in chip manufacturing.Despite Friday&amp;#x27;s rally, Cerebras shares had fallen 47.2% from their May initial public offering price of $185 as of Thursday&amp;#x27;s close, highlighting the volatility surrounding AI chip stocks.The latest results and improved outlook provide a boost to Cerebras as it seeks to expand its position in the fast-growing AI computing market, where Nvidia remains a dominant player.(Disclaimer: This article is based on inputs from agencies. These do not represent the views of The Economic Times)&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>economic_times</wire:foundAt>
+      <wire:platform>The Economic Times</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/cerebras-stock-jumps-23-on-surprise-profit-forecast-hike-easing-ai-spending-worries/articleshow/135808868.cms</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Reuters reported</wire:evidence>
+    </item>
   </channel>
 </rss>
