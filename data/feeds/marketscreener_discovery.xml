@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Amarketscreener.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 14 Nov 2026 02:40:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 09:54:32 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>South African rand slides to seven-month low ahead of inflation, rate decision</title>
@@ -50,6 +50,21 @@
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.marketscreener.com/news/us-air-force-conducts-weapons-test-on-b-21-raider-ce785ed9d088f425</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>H&amp;R REIT unitholders reject breakup deal after failed vote</title>
+      <link>https://www.marketscreener.com/news/h-r-reit-unitholders-reject-breakup-deal-after-failed-vote-ce785ed9d08ff427</link>
+      <guid isPermaLink="false">125a77720d45ae879b49f805</guid>
+      <pubDate>Fri, 13 Nov 2026 01:00:00 +0000</pubDate>
+      <description>Canada's H&amp;R Real Estate Investment Trust said on Friday its unitholders voted against a previously announced C$6.7 billion ($4.7 billion) breakup deal. The deal, announced in August, was meant to ...</description>
+      <wire:foundAt>marketscreener_discovery</wire:foundAt>
+      <wire:platform>MarketScreener</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/h-r-reit-unitholders-reject-breakup-deal-after-failed-vote-ce785ed9d08ff427</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -159,33 +174,18 @@
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Siemens Energy sees higher margins as data centres boost power equipment demand</title>
-      <link>https://www.marketscreener.com/news/siemens-energy-expects-margin-boost-in-2027-as-data-centres-fuel-turbine-grid-demand-ce785edbd88ff32d</link>
-      <guid isPermaLink="false">3a73573a43236e3d72ad41b9</guid>
-      <pubDate>Wed, 11 Nov 2026 06:06:00 +0000</pubDate>
-      <description>BERLIN/DUESSELDORF, Nov 11 (Reuters) - Siemens Energy said on Wednesday it planned to more than triple its dividend and expects higher profit margins in 2027, as the construction boom in US data ...</description>
+      <title>Concerns grow as military-linked Chinese university buys Nvidia chips</title>
+      <link>https://www.marketscreener.com/news/concerns-grow-as-military-linked-chinese-university-buys-nvidia-chips-ce785edbdc80f62d</link>
+      <guid isPermaLink="false">945cbe9074f32994255a0d44</guid>
+      <pubDate>Wed, 11 Nov 2026 01:00:00 +0000</pubDate>
+      <description>So our recent reporting shows that a number of universities, including some with very close links to China's military, have purchased Nvidia chips that are under US export controls. Trump: "... we're ...</description>
       <wire:foundAt>marketscreener_discovery</wire:foundAt>
       <wire:platform>MarketScreener</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/news/siemens-energy-expects-margin-boost-in-2027-as-data-centres-fuel-turbine-grid-demand-ce785edbd88ff32d</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Asia buys up African, Brazilian oil as shipping costs fall</title>
-      <link>https://www.marketscreener.com/news/asia-buys-up-african-brazilian-oil-as-shipping-costs-fall-ce785edbdc80f424</link>
-      <guid isPermaLink="false">4c833804e3fbd3313b3bb1e8</guid>
-      <pubDate>Wed, 11 Nov 2026 05:25:00 +0000</pubDate>
-      <description>A major buyer of West African and Brazilian oil, Unipec bought two cargoes of Congolese Djeno crude from at discounts of about $22 a barrel to dated Brent on a free-on-board basis last week, two ...</description>
-      <wire:foundAt>marketscreener_discovery</wire:foundAt>
-      <wire:platform>MarketScreener</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.marketscreener.com/news/asia-buys-up-african-brazilian-oil-as-shipping-costs-fall-ce785edbdc80f424</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.marketscreener.com/news/concerns-grow-as-military-linked-chinese-university-buys-nvidia-chips-ce785edbdc80f62d</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
