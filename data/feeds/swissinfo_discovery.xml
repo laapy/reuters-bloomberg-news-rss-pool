@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Aswissinfo.ch+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 14 Nov 2026 20:53:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 00:53:07 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>US Loses Measles Elimination Status as Cases Break Records</title>
@@ -43,6 +43,25 @@
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.swissinfo.ch/eng/s%26p-500-falls-as-chip-slump-offsets-inflation-data%3a-markets-wrap/92374084</wire:canonicalUrl>
+      <wire:evidence>structured credit: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Blackstone Draws €13 Billion as Institutions Back Private Credit</title>
+      <link>https://www.swissinfo.ch/eng/blackstone-draws-%e2%82%ac13-billion-as-institutions-back-private-credit/92324603</link>
+      <guid isPermaLink="false">993a7e81628df688e114e672</guid>
+      <pubDate>Wed, 04 Nov 2026 07:00:00 +0000</pubDate>
+      <description>Blackstone Inc. has raised around €13 billion ($14.6 billion) for its European direct lending strategy, showing that institutional investors are still willing to pour money into private credit despite ...</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;States are preparing for war in space, warns Swiss expert&lt;/p&gt;&lt;p&gt;Read more: States are preparing for war in space, warns Swiss expert&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>swissinfo_discovery</wire:foundAt>
+      <wire:platform>SWI swissinfo.ch</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.99</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.swissinfo.ch/eng/blackstone-draws-%e2%82%ac13-billion-as-institutions-back-private-credit/92324603</wire:canonicalUrl>
       <wire:evidence>structured credit: Bloomberg</wire:evidence>
     </item>
   </channel>

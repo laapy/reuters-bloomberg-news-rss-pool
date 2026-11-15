@@ -5,8 +5,25 @@
     <link>https://feeds.bloomberg.com/crypto/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 14 Nov 2026 20:53:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 00:53:07 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Bitcoin Tumbles to Three-Month Low as Liquidations Accelerate</title>
+      <link>https://www.bloomberg.com/news/articles/2026-11-14/bitcoin-tumbles-to-three-month-low-as-liquidations-accelerate</link>
+      <guid isPermaLink="false">aa32c9514960104f28fa9497</guid>
+      <pubDate>Sat, 14 Nov 2026 23:53:48 +0000</pubDate>
+      <description>Cryptocurrencies tumbled over the weekend, with Bitcoin slumping to a three-month low of just above $63,000 as leveraged long positions were liquidated.</description>
+      <dc:creator>Matthew Brockett</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_crypto</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-11-14/bitcoin-tumbles-to-three-month-low-as-liquidations-accelerate</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
     <item>
       <title>Bitcoin’s Billion-Dollar Wipeouts Are Now a Familiar Sight</title>
       <link>https://www.bloomberg.com/news/articles/2026-11-13/bitcoin-s-billion-dollar-wipeouts-are-becoming-a-familiar-sight</link>
@@ -22,23 +39,6 @@
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-11-13/bitcoin-s-billion-dollar-wipeouts-are-becoming-a-familiar-sight</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Bitcoin Slides Below $70,000 as Tech Turmoil Dents Demand</title>
-      <link>https://www.bloomberg.com/news/articles/2026-11-13/bitcoin-slips-below-70-000-as-higher-yields-weigh-on-crypto</link>
-      <guid isPermaLink="false">f142274499e5217bc9e32428</guid>
-      <pubDate>Fri, 13 Nov 2026 03:13:17 +0000</pubDate>
-      <description>Bitcoin fell below $70,000 Friday for the first time since August, extending its slump into a sixth week as another selloff in chipmakers weighs on demand for riskier assets.</description>
-      <dc:creator>Matt Haldane and Suvashree Ghosh</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_crypto</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-11-13/bitcoin-slips-below-70-000-as-higher-yields-weigh-on-crypto</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
   </channel>
