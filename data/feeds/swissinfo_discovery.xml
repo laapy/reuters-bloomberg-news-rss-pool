@@ -5,14 +5,14 @@
     <link>https://www.bing.com/news/search?q=site%3Aswissinfo.ch+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 16 Nov 2026 00:51:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 07:45:20 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>US Stock Futures Rise as AI Woes Ease, Oil Slips: Markets Wrap</title>
-      <link>https://www.swissinfo.ch/eng/us-stock-futures-rise-as-ai-woes-ease%2c-oil-slips%3a-markets-wrap/92385916</link>
-      <guid isPermaLink="false">d804d4f63779a4cca62cbd63</guid>
-      <pubDate>Mon, 16 Nov 2026 00:22:29 +0000</pubDate>
-      <description>US equity-index futures edged higher in early Asian trading as investors returned to risk assets following last week’s selloff, offering signs that concerns over the artificial intelligence trade may ...</description>
+      <title>Stocks Slide as Tech Selloff Worsens, Oil Rebounds: Markets Wrap</title>
+      <link>https://www.swissinfo.ch/eng/stocks-slide-as-tech-selloff-worsens%2c-oil-rebounds%3a-markets-wrap/92385916</link>
+      <guid isPermaLink="false">e85dc718dbcaa6e27717b556</guid>
+      <pubDate>Mon, 16 Nov 2026 07:02:38 +0000</pubDate>
+      <description>Technology stocks plunged ahead of this week’s earnings from Nvidia Corp. and an expected listing by Anthropic PBC, two events that are likely to influence the near-term course of an increasingly ...</description>
       <dc:creator>Bloomberg</dc:creator>
       <content:encoded>&lt;p&gt;How much difference has the Paris Agreement made?&lt;/p&gt;&lt;p&gt;Read more: How much difference has the Paris Agreement made?&lt;/p&gt;</content:encoded>
       <wire:publisher>Bloomberg</wire:publisher>
@@ -23,14 +23,14 @@
       <wire:confidence>0.99</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.swissinfo.ch/eng/us-stock-futures-rise-as-ai-woes-ease%2c-oil-slips%3a-markets-wrap/92385916</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.swissinfo.ch/eng/stocks-slide-as-tech-selloff-worsens%2c-oil-rebounds%3a-markets-wrap/92385916</wire:canonicalUrl>
       <wire:evidence>structured credit: Bloomberg</wire:evidence>
     </item>
     <item>
       <title>Asian Stocks Brace for AI Pressure, Data Dump: Markets Wrap</title>
       <link>https://www.swissinfo.ch/eng/asian-stocks-brace-for-ai-pressure%2c-data-dump%3a-markets-wrap/92385916</link>
       <guid isPermaLink="false">d1804ff90a75f2d55a803e74</guid>
-      <pubDate>Mon, 16 Nov 2026 00:22:29 +0000</pubDate>
+      <pubDate>Mon, 16 Nov 2026 07:02:38 +0000</pubDate>
       <description>Stocks in Asia may come under renewed pressure as concerns over the artificial-intelligence trade linger, with Chinese and Japanese data due to offer clues on the health of the region’s major ...</description>
       <dc:creator>Bloomberg</dc:creator>
       <content:encoded>&lt;p&gt;How much difference has the Paris Agreement made?&lt;/p&gt;&lt;p&gt;Read more: How much difference has the Paris Agreement made?&lt;/p&gt;</content:encoded>
@@ -82,6 +82,21 @@
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.swissinfo.ch/eng/s%26p-500-falls-as-chip-slump-offsets-inflation-data%3a-markets-wrap/92374084</wire:canonicalUrl>
       <wire:evidence>structured credit: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Microsoft Races to Fix Outlook in One of Its Longest Outages</title>
+      <link>https://www.swissinfo.ch/eng/microsoft-races-to-fix-outlook-in-one-of-its-longest-outages/92375868</link>
+      <guid isPermaLink="false">701b2b1dc9b80a23175c3cc1</guid>
+      <pubDate>Fri, 13 Nov 2026 04:27:00 +0000</pubDate>
+      <description>Microsoft Corp. is struggling to restore access to its flagship software and end an outage that has paralyzed government offices, traders and businesses globally.</description>
+      <wire:foundAt>swissinfo_discovery</wire:foundAt>
+      <wire:platform>SWI swissinfo.ch</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.swissinfo.ch/eng/microsoft-races-to-fix-outlook-in-one-of-its-longest-outages/92375868</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
 </rss>
