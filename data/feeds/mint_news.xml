@@ -1,11 +1,60 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>Mint — diagnostic source feed</title>
     <link>https://www.livemint.com/rss/news</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 16 Nov 2026 18:05:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 02:00:03 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Bangladesh’s $40 billion garment industry faces fresh protests over wages: Could supply chain disruptions benefit India?</title>
+      <link>https://www.livemint.com/news/world/bangladeshs-40-billion-garment-industry-faces-fresh-protests-over-wages-could-supply-chain-disruptions-benefit-india-11794850623967.html</link>
+      <guid isPermaLink="false">1688817a46dbf4e51daf1fe8</guid>
+      <pubDate>Mon, 16 Nov 2026 18:17:01 +0000</pubDate>
+      <description>Bangladesh’s $40 billion garment industry faces fresh wage protests, with over 60 factories shut as workers demand a monthly minimum wage of 30,000 taka. The disruption could prompt global retailers to diversify sourcing and benefit India.</description>
+      <dc:creator>Bhanu Pratap</dc:creator>
+      <content:encoded>&lt;p&gt;Bangladesh’s garment industry is facing renewed labour unrest, with fresh wage protests forcing factories to shut across major manufacturing hubs.
+The disruption threatens production and export schedules in the country’s $40 billion apparel sector, raising questions about whether international retailers could shift more orders to alternative manufacturing destinations, including India.
+Police fired tear gas and sound grenades on Monday, November 16, to disperse protesting garment workers in Gazipur, around 25 km north of Dhaka.
+More than 60 factories remained shut across Savar, Ashulia and Gazipur amid the unrest, The Daily Star reported. In Gazipur alone, 17 factories were ordered to close indefinitely, according to Prothom Alo.
+At the centre of the protests is a demand to raise the monthly minimum wage to 30,000 taka from the existing 12,500 taka.
+Workers say their current earnings are insufficient to cope with rising living costs, particularly expenses on food, transport and healthcare.
+The latest agitation has intensified after a scheduled meeting of the government&amp;#x27;s Minimum Wage Board was postponed on November 16.
+The board was expected to review pay in the garment sector and recommend a revised wage structure. The delay triggered fresh anger among workers, The Daily Star reported.
+Why Bangladesh’s garment industry is under pressure
+Bangladesh’s ready-made garment (RMG) industry, valued at around $40 billion, is a crucial pillar of its economy. It employs more than four million workers, contributes roughly 10% to the country&amp;#x27;s GDP and accounts for over 80% of its export earnings, according to Reuters and the International Monetary Fund (IMF).
+The country is the world&amp;#x27;s second-largest apparel exporter after China and has built its global position on large-scale production and relatively low labour costs. Its factories supply leading international fashion retailers, making Bangladesh an important sourcing destination for global brands.
+However, workers have increasingly argued that wages have failed to keep pace with inflation and the rising cost of living. Their demand for a monthly minimum wage of 30,000 taka represents a substantial increase over the existing 12,500 taka.
+The wage dispute has already disrupted factory operations on a significant scale. Reuters reported on November 1 that protests had forced 529 factories to shut, leaving nearly 987,200 workers without work.
+Road blockades and clashes with police have added to the uncertainty, while factory owners have warned that prolonged stoppages could affect production, shipment schedules and payments from international buyers.
+Could India benefit as global brands diversify sourcing?
+The continuing disruption could strengthen India&amp;#x27;s appeal as an alternative manufacturing destination for international apparel buyers looking to reduce their dependence on Bangladesh.
+There are already signs of a broader sourcing reassessment.
+The Financial Express reported in October that major international retailers, including H&amp;amp;M, Inditex — the parent company of Zara — and Primark, were shifting some orders away from Bangladesh as they reassessed supply-chain risks.
+Industry participants cited rising production costs, energy-related challenges and uncertainty over Bangladesh&amp;#x27;s future trade advantages among the factors influencing sourcing decisions.
+The latest wage protests could add to those concerns. For global retailers operating on tight production and delivery schedules, prolonged factory closures can disrupt inventory planning and delay shipments.
+If the unrest continues, buyers may look to spread orders across other manufacturing hubs, including India, to reduce their exposure to disruptions in Bangladesh.
+India already has an established textile and apparel manufacturing base, with major production centres in Tamil Nadu, Gujarat, Karnataka and Maharashtra. Its ready-made garment exports stood at around $15.99 billion in FY25, according to the Ministry of Textiles.
+The government&amp;#x27;s provisional figures put India&amp;#x27;s textile and apparel exports, including handicrafts, at ₹3.25 lakh crore in FY26.
+India&amp;#x27;s manufacturing ecosystem, domestic raw-material base and established textile clusters could help it attract some of the orders that international buyers may seek to diversify.
+The opportunity is not necessarily limited to replacing production lost during factory shutdowns in Bangladesh. Indian manufacturers could also benefit from a longer-term shift towards multi-country sourcing as global retailers seek to reduce supply-chain concentration risks.
+Why India may struggle to absorb Bangladesh’s orders immediately
+Despite the opportunity, India may not be able to absorb a large volume of orders from Bangladesh at short notice.
+The neighbouring country has developed a vast garment-manufacturing ecosystem specialising in high-volume, cost-competitive production, particularly for global fast-fashion retailers.
+Replicating that scale and capacity would be difficult in the short term. Indian manufacturers face their own challenges, including fluctuating raw-material costs, logistics expenses, fragmented production and the need to meet large orders within tight delivery schedules.
+The Economic Survey 2025-26 has highlighted structural weaknesses in India&amp;#x27;s textile sector, including fragmentation and small-scale operations across parts of the value chain. It has also pointed to the industry&amp;#x27;s heavy reliance on cotton and gaps in man-made fibre manufacturing.
+These constraints could limit India&amp;#x27;s ability to take on large volumes of additional orders immediately, even if international buyers begin looking for alternatives.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>mint_news</wire:foundAt>
+      <wire:platform>Mint</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.livemint.com/news/world/bangladeshs-40-billion-garment-industry-faces-fresh-protests-over-wages-could-supply-chain-disruptions-benefit-india-11794850623967.html</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: according to Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>
