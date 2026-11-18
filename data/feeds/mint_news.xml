@@ -1,44 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss version="2.0">
   <channel>
     <title>Mint — diagnostic source feed</title>
     <link>https://www.livemint.com/rss/news</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Wed, 18 Nov 2026 09:52:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 18:42:54 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>Xi Jinping calls for free and open trade as China threatens retaliation if US imposes more restrictions on AI chips</title>
-      <link>https://www.livemint.com/news/world/xi-jinping-calls-for-free-and-open-trade-as-china-threatens-retaliation-if-us-imposes-more-restrictions-on-ai-chips-11794977422737.html</link>
-      <guid isPermaLink="false">2efccbd61ae5864073f54f18</guid>
-      <pubDate>Wed, 18 Nov 2026 05:02:52 +0000</pubDate>
-      <description>Xi Jinping urged support for multilateral trade and cooperation as US restrictions on China’s access to advanced AI chips intensified. Beijing opposed the measures and threatened countermeasures, while Washington said the controls aim to protect sensitive technology and national security.</description>
-      <dc:creator>Bobins Vayalil Abraham</dc:creator>
-      <content:encoded>&lt;p&gt;Chinese President Xi Jinping on Wednesday urged support for &amp;quot;free and open trade,&amp;quot; while expressing opposition to &amp;quot;protectionism&amp;quot; in an opening speech at an Asia-Pacific summit. &amp;quot;We must firmly uphold the rules-based multilateral trading system with the World Trade Organization at its core, support free and open trade and investment, maintain the stability and smooth operation of global industrial and supply chains,&amp;quot; Xi told an audience of business executives.
-He also called for closer technology partnerships and efforts to keep global supply chains stable and open.
-“Global growth lacks momentum, and unilateralism and protectionism are rampant. China has stood up unilateralism and protectionism and remained committed to true multilateralism,” Xi said, according to Bloomberg.
-US imposes more restrictions on China
-The Chinese President&amp;#x27;s remarks came after Washington announced further restrictions on Beijing&amp;#x27;s access to advanced AI chips from companies such as Nvidia, which could further complicate a fragile trade truce between the two largest economies of the world.
-Xi further said that China will continue to invest in its industrial complex and develop new technologies that would also benefit other countries.
-Earlier, following the revelation of the scandal involving ousted Nvidia CEO Jensen Huang and a Singapore-based Chinese business executive, US investigators suspect that Megaspeed was used to illegally divert billions of dollars&amp;#x27; worth of restricted Nvidia AI chips into China.
-Following this, the US Commerce Department on Monday released new rules, aimed at preventing Chinese companies from renting Nvidia semiconductors outside the US and obtaining processors through Singapore and several other countries.
-&amp;quot;The United States is the global leader in advanced computing and super intelligence technology and is committed to promoting the global adoption of American technology for legitimate commercial purposes while ensuring that sensitive technologies are not exploited in ways that threaten US national security,&amp;quot; the US Commerce Department&amp;#x27;s Bureau of Industry and Security (BIS) said in a statement.
-What China said
-In response, China warned it would retaliate if Washington proceeds with curbs on remote access to advanced chips.
-The Ministry of Commerce in Beijing on Tuesday expressed “strong dissatisfaction and firm opposition” after the US unveiled sweeping new restrictions on China’s access to high-end AI chips.
-“China hopes the US will work with us in the same direction and return to the right track of resolving differences through consultation and cooperation,” the ministry said in a statement. “If the US persists, China will take countermeasures to firmly safeguard its sovereignty, security and development interests.”
-US restricted Chinese access to chips in 2022
-In 2022, the then US President Joe Biden had imposed major export controls aimed at restricting China&amp;#x27;s access to advanced AI chips and semiconductor equipment. However, US officials believe that China were using offshore shell companies like Megaspeed to acquire the export-restricted chips.&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>mint_news</wire:foundAt>
-      <wire:platform>Mint</wire:platform>
-      <wire:relation>mention</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.86</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.livemint.com/news/world/xi-jinping-calls-for-free-and-open-trade-as-china-threatens-retaliation-if-us-imposes-more-restrictions-on-ai-chips-11794977422737.html</wire:canonicalUrl>
-      <wire:evidence>reporting reference, not an exact wire credit: according to Bloomberg</wire:evidence>
-    </item>
   </channel>
 </rss>
