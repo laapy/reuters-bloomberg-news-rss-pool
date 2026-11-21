@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Aswissinfo.ch+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 21 Nov 2026 04:11:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 12:55:29 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>WEF role ‘option’ for Lagarde after leaving ECB</title>
@@ -67,20 +67,16 @@
       <title>Swiss Face Nail-Biter Vote on Allowing More Weapon Exports</title>
       <link>https://www.swissinfo.ch/eng/swiss-face-nail-biter-vote-on-allowing-more-weapon-exports/92397966</link>
       <guid isPermaLink="false">ef327b51ccbcb8070b4f4dbf</guid>
-      <pubDate>Wed, 18 Nov 2026 05:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 22:00:00 +0000</pubDate>
       <description>Swiss voters are almost evenly split on easing restrictions on arms and ammunition exports, casting uncertainty over a reform that manufacturers deem essential to the future of the country’s weapons ...</description>
-      <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;Inside Switzerland’s humanitarian office in Taliban-ruled Kabul&lt;/p&gt;&lt;p&gt;Read more: Inside Switzerland’s humanitarian office in Taliban-ruled Kabul&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>swissinfo_discovery</wire:foundAt>
       <wire:platform>SWI swissinfo.ch</wire:platform>
-      <wire:relation>repost</wire:relation>
+      <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
+      <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.swissinfo.ch/eng/swiss-face-nail-biter-vote-on-allowing-more-weapon-exports/92397966</wire:canonicalUrl>
-      <wire:evidence>structured credit: Bloomberg</wire:evidence>
+      <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
       <title>UBS Holder Cevian Sells Quarter of Stake Amid Capital Debate</title>
@@ -131,16 +127,20 @@
       <title>US Loses Measles Elimination Status as Cases Break Records</title>
       <link>https://www.swissinfo.ch/eng/us-loses-measles-elimination-status-as-cases-break-records/92381895</link>
       <guid isPermaLink="false">45faf58a1d254a5aa67efb70</guid>
-      <pubDate>Sat, 14 Nov 2026 08:35:00 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 15:34:14 +0000</pubDate>
       <description>The US lost its long-standing measles eradication status after the disease continued to spread through the past year and broke case records, according to people familiar with the decision.</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;Inside Switzerland’s humanitarian office in Taliban-ruled Kabul&lt;/p&gt;&lt;p&gt;Read more: Inside Switzerland’s humanitarian office in Taliban-ruled Kabul&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>swissinfo_discovery</wire:foundAt>
       <wire:platform>SWI swissinfo.ch</wire:platform>
-      <wire:relation>unknown</wire:relation>
+      <wire:relation>repost</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
+      <wire:confidence>0.99</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.swissinfo.ch/eng/us-loses-measles-elimination-status-as-cases-break-records/92381895</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
+      <wire:evidence>structured credit: Bloomberg</wire:evidence>
     </item>
     <item>
       <title>UBS CEO Ermotti Says Midterms Create Uncertainty for AI Buildout</title>
