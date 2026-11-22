@@ -5,7 +5,7 @@
     <link>https://www.bing.com/news/search?q=site%3Aswissinfo.ch+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sat, 21 Nov 2026 19:58:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 00:15:18 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>WEF role ‘option’ for Lagarde after leaving ECB</title>
@@ -48,20 +48,16 @@
       <title>Lagarde Says Role at WEF Is an Option After Leaving the ECB</title>
       <link>https://www.swissinfo.ch/eng/lagarde-says-role-at-wef-is-an-option-after-leaving-the-ecb/92402492</link>
       <guid isPermaLink="false">e1782adfa0e47ecae2d98b5b</guid>
-      <pubDate>Wed, 18 Nov 2026 15:03:51 +0000</pubDate>
+      <pubDate>Wed, 18 Nov 2026 08:03:00 +0000</pubDate>
       <description>Christine Lagarde said she might consider a leadership role at the World Economic Forum once she exits as European Central Bank president.</description>
-      <dc:creator>Bloomberg</dc:creator>
-      <content:encoded>&lt;p&gt;Inside Switzerland’s humanitarian office in Taliban-ruled Kabul&lt;/p&gt;&lt;p&gt;Read more: Inside Switzerland’s humanitarian office in Taliban-ruled Kabul&lt;/p&gt;</content:encoded>
-      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>swissinfo_discovery</wire:foundAt>
       <wire:platform>SWI swissinfo.ch</wire:platform>
-      <wire:relation>repost</wire:relation>
+      <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.99</wire:confidence>
+      <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.swissinfo.ch/eng/lagarde-says-role-at-wef-is-an-option-after-leaving-the-ecb/92402492</wire:canonicalUrl>
-      <wire:evidence>structured credit: Bloomberg</wire:evidence>
+      <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
       <title>Swiss Face Nail-Biter Vote on Allowing More Weapon Exports</title>
@@ -82,16 +78,20 @@
       <title>UBS Holder Cevian Sells Quarter of Stake Amid Capital Debate</title>
       <link>https://www.swissinfo.ch/eng/ubs-holder-cevian-sells-quarter-of-stake-amid-capital-debate/92395941</link>
       <guid isPermaLink="false">cf423b1ac00a0f073e73bcf7</guid>
-      <pubDate>Tue, 17 Nov 2026 07:24:00 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 14:24:20 +0000</pubDate>
       <description>One of UBS Group AG’s major shareholders has sold over a quarter of its stake in the Swiss bank in recent months, coinciding with a period when the outlook for upcoming capital regulations worsened.</description>
+      <dc:creator>Bloomberg</dc:creator>
+      <content:encoded>&lt;p&gt;Inside Switzerland’s humanitarian office in Taliban-ruled Kabul&lt;/p&gt;&lt;p&gt;Read more: Inside Switzerland’s humanitarian office in Taliban-ruled Kabul&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
       <wire:foundAt>swissinfo_discovery</wire:foundAt>
       <wire:platform>SWI swissinfo.ch</wire:platform>
-      <wire:relation>unknown</wire:relation>
+      <wire:relation>repost</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
+      <wire:confidence>0.99</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.swissinfo.ch/eng/ubs-holder-cevian-sells-quarter-of-stake-amid-capital-debate/92395941</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
+      <wire:evidence>structured credit: Bloomberg</wire:evidence>
     </item>
     <item>
       <title>Morgan Stanley Enters Europe’s Active ETF Market With Four Funds</title>
