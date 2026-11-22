@@ -5,7 +5,7 @@
     <link>https://feeds.bloomberg.com/economics/news.rss</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 22 Nov 2026 00:15:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 07:17:21 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>US Consumers Are Holding Up Against Inflation Going Into Holiday Season</title>
@@ -39,6 +39,23 @@
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/newsletters/2026-11-21/new-us-ai-chip-rules-against-china-threaten-pain-for-southeast-asia</wire:canonicalUrl>
+      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
+    </item>
+    <item>
+      <title>Los Angeles Port Strike Threat Resolved With Tentative Agreement</title>
+      <link>https://www.bloomberg.com/news/articles/2026-11-21/los-angeles-port-strike-threat-resolved-with-tentative-agreement</link>
+      <guid isPermaLink="false">40fd9a28ad7cfbaba70a3e18</guid>
+      <pubDate>Sat, 21 Nov 2026 11:22:06 +0000</pubDate>
+      <description>About 250 security workers at the US’s busiest ports struck a tentative agreement on terms of a new labor contract, the group representing their employers said, averting the threat of a disruptive strike.</description>
+      <dc:creator>Laura Curtis</dc:creator>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>bloomberg_economics</wire:foundAt>
+      <wire:platform>Bloomberg</wire:platform>
+      <wire:relation>original</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-11-21/los-angeles-port-strike-threat-resolved-with-tentative-agreement</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
     <item>
@@ -90,40 +107,6 @@
       <wire:confidence>1.0</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-11-21/de-cos-awaits-europe-s-call-as-a-nemesis-to-the-bond-vigilantes</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>S&amp;P Upgrades Zambia as Robust Growth, Narrower Fiscal Gaps Seen</title>
-      <link>https://www.bloomberg.com/news/articles/2026-11-21/s-p-upgrades-zambia-as-robust-growth-narrower-fiscal-gaps-seen</link>
-      <guid isPermaLink="false">89744beecf24ea91fcbf4107</guid>
-      <pubDate>Sat, 21 Nov 2026 05:00:35 +0000</pubDate>
-      <description>S&amp;P Global Ratings upgraded Zambia’s credit rating as it expects the southern African nation’s gradual fiscal consolidation and deleveraging to continue.</description>
-      <dc:creator>Matthew Hill</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_economics</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-11-21/s-p-upgrades-zambia-as-robust-growth-narrower-fiscal-gaps-seen</wire:canonicalUrl>
-      <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
-    </item>
-    <item>
-      <title>Vietnam Amends Laws to Speed Land Clearance, Development of New Projects</title>
-      <link>https://www.bloomberg.com/news/articles/2026-11-21/vietnam-amends-laws-to-speed-land-clearance-development-of-new-projects</link>
-      <guid isPermaLink="false">260e838185f398ec76f91d81</guid>
-      <pubDate>Sat, 21 Nov 2026 04:51:42 +0000</pubDate>
-      <description>Vietnam’s National Assembly passed land law amendments aimed at speeding up site clearance and unblocking of property and infrastructure projects as the government seeks to achieve its multiyear double-digit economic growth target.</description>
-      <dc:creator>Nguyen Dieu Tu Uyen</dc:creator>
-      <wire:publisher>Bloomberg</wire:publisher>
-      <wire:foundAt>bloomberg_economics</wire:foundAt>
-      <wire:platform>Bloomberg</wire:platform>
-      <wire:relation>original</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bloomberg.com/news/articles/2026-11-21/vietnam-amends-laws-to-speed-land-clearance-development-of-new-projects</wire:canonicalUrl>
       <wire:evidence>publisher-owned endpoint: Bloomberg</wire:evidence>
     </item>
   </channel>
