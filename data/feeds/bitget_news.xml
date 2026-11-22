@@ -1,30 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss version="2.0">
   <channel>
     <title>Bitget News — diagnostic source feed</title>
     <link>https://www.bitget.com/stp-news-en-sitemap.xml</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 22 Nov 2026 15:34:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 21:36:50 +0000</lastBuildDate>
     <ttl>30</ttl>
-    <item>
-      <title>Reuters reports that the US SEC has launched an accounting investigation into Nvidia; stock price drops 10%</title>
-      <link>https://www.bitget.com/news/detail/12560606212747</link>
-      <guid isPermaLink="false">fda8be6254100ef9d729eff7</guid>
-      <pubDate>Fri, 20 Nov 2026 19:46:02 +0000</pubDate>
-      <description>Nvidia's decline widened to 10%, with Reuters reporting that the US SEC has launched an accounting investigation into the company.</description>
-      <dc:creator>智通财经</dc:creator>
-      <content:encoded>&lt;p&gt;Nvidia&amp;#x27;s decline widened to 10%, with Reuters reporting that the US SEC has launched an accounting investigation into the company.&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>bitget_news</wire:foundAt>
-      <wire:platform>Bitget News</wire:platform>
-      <wire:relation>mention</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.86</wire:confidence>
-      <wire:summarySource>Bitget News source metadata</wire:summarySource>
-      <wire:bodySource>Bitget News public article data</wire:bodySource>
-      <wire:canonicalUrl>https://www.bitget.com/news/detail/12560606212747</wire:canonicalUrl>
-      <wire:evidence>reporting reference, not an exact wire credit: Reuters reports</wire:evidence>
-    </item>
   </channel>
 </rss>
