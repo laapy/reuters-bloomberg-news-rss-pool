@@ -5,19 +5,177 @@
     <link>https://www.bing.com/news/search?q=site%3Atradingview.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 23 Nov 2026 02:22:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 11:04:08 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>Midnight: Private lending launches - Q4 2026</title>
-      <link>https://www.tradingview.com/news/coinmarketcal:f39720393094b:0-midnight-private-lending-launches-q4-2026/</link>
-      <guid isPermaLink="false">88beee69d7ab6477cc78ff4e</guid>
-      <pubDate>Sun, 22 Nov 2026 21:00:32 +0000</pubDate>
-      <description>Midnight plans to launch private lending in Q4 2026. The service will keep sensitive transaction details private for users on both sides of a loan.The launch applies Midnight's privacy features to a ...</description>
+      <title>Fusionist ACE Bridge Exploit: $5.7M Loss Estimate, Bithumb Freezes Trading</title>
+      <link>https://www.tradingview.com/news/newsbtc:7dff75932094b:0-fusionist-ace-bridge-exploit-5-7m-loss-estimate-bithumb-freezes-trading/</link>
+      <guid isPermaLink="false">115f6916bd5b8817c1aba2bb</guid>
+      <pubDate>Mon, 23 Nov 2026 06:40:19 +0000</pubDate>
+      <description>Key takeawaysThe Fusionist ACE bridge exploit has produced an estimated $5.7 million in losses across two stages, according to SlowMist’s incident tracker. After unbacked ACE tokens were minted on BNB ...</description>
+      <content:encoded>&lt;p&gt;News
+/ NewsBTC
+/ Fusionist ACE Bridge Exploit: $5.7M Loss Estimate, Bithumb Freezes Trading&lt;/p&gt;&lt;p&gt;Fusionist ACE Bridge Exploit: $5.7M Loss Estimate, Bithumb Freezes Trading 5 min read&lt;/p&gt;&lt;p&gt;ACEUSD ACE
+Key takeaways
+The Fusionist ACE bridge exploit is estimated at $5.7 million across two stages, according to SlowMist, which is not an audited final total.
+About $1.87 million in proceeds was traced to the attacker, while 53.7 million genuine ACE tokens, valued near $3.7 million, were reportedly withdrawn through the bridge.
+Bithumb halted ACE trading on November 23 after finding signs that abnormally issued ACE had entered exchanges.
+In the material reviewed, Fusionist has not published a reconciled loss figure or a technical post-mortem.
+The Fusionist ACE bridge exploit has produced an estimated $5.7 million in losses across two stages, according to SlowMist’s incident tracker. After unbacked ACE tokens were minted on BNB Chain and sold, traders reportedly used the resulting price collapse to withdraw real ACE from the project’s Endurance bridge reserves. The fallout reached centralized exchanges on Monday, November 23: Bithumb halted ACE trading after finding indications that abnormally issued tokens had entered crypto exchanges.
+This was not one attacker walking away with $5.7 million in a single transaction. The distinction matters. Roughly $1.87 million was traced through the attacker’s proceeds, while another 53.7 million genuine ACE tokens, valued around $3.7 million at the incident’s reference prices, were reportedly withdrawn through the bridge. SlowMist lists a combined $5.7 million loss estimate, not an audited final total. The bridge’s most basic promise, that a token issued on one chain corresponds to something real on another, is precisely what now needs proving.
+A Privileged Minter Printed Tokens That Had No Backing
+Security firm Blockaid flagged the Fusionist bridge-minter exploit on November 22. Its alert described the mechanism bluntly:
+“ A privileged token-bridge minter minted unbacked ACE and sold it for USDT.
+Blockaid · November 22 alert
+The firm initially estimated that about $1.04 million had been extracted while the attack was still ongoing. That was an interim snapshot, not a cap on the damage.&lt;/p&gt;&lt;p&gt;Blockchain-monitoring account Onchain Lens subsequently reported that an attacker had routed 1,091.5 ETH, valued at about $1.87 million at the time, through Tornado Cash. That observation traces a movement of proceeds, not an extra $1.87 million to add on top of the initial extraction estimate. The values describe different points in the same suspected attacker’s fund flow.&lt;/p&gt;&lt;p&gt;Fusionist acknowledged an apparent ongoing ACE exploit on BNB Smart Chain on Sunday and asked users to suspend transfers, trading and bridging on that network. It has not, in the material reviewed, provided a reconciled loss figure or a technical post-mortem identifying how the privileged minting authority was abused.
+A bridge minter is supposed to create a token representation only when the corresponding value is properly accounted for. Once the right to mint is misused, a chain can show perfectly ordinary-looking balances that have no matching backing.
+It is a familiar failure mode: NewsBTC previously covered a bridge-role exploit that minted unbacked tokens at CrediX. That earlier case does not establish Fusionist’s root cause, but it illustrates why elevated bridge permissions are such a consequential security boundary.
+Traders Found a Second Exit Through Real ACE Reserves
+The subsequent drain may prove more important than the initial minting spree.
+According to SlowMist’s November 22 incident entry, traders bought the sharply discounted ACE created by the market disruption and used the cross-chain bridge to withdraw about 53.7 million genuine ACE from the Endurance-side reserves. SlowMist valued that withdrawal at approximately $3.7 million.
+Here is the mechanism without the jargon. A representation of ACE on BNB Chain suddenly became cheap because unauthorized supply had flooded the market. A bridge that would still accept those tokens in exchange for ACE on Endurance offered an obvious difference in value.
+Anyone able to complete that conversion could receive real tokens in return for deeply discounted ones. The trading opportunity existed because the backing and the circulating representation were no longer in a trustworthy relationship.
+The $3.7 million figure is a valuation of the ACE reserve outflow, not proof that every recipient sold those tokens for $3.7 million in cash. Nor does it mean every trader involved helped compromise the minter.
+There is a meaningful difference between initiating the security breach and trading through a system whose defenses have already failed.
+Those distinctions should not obscure the core problem. A bridge can have technically valid transactions and still produce an economically disastrous result. If unbacked supply can be redeemed for genuine reserves, the checks have failed where they matter most.
+Bithumb’s Monday Halt Shows How Far the Problem Travelled
+Bithumb suspended ACE deposits and withdrawals early on November 23. It then halted trading effective 7:30 a.m. Korea time , according to its follow-up ACE security notice.
+The exchange said, in a translation from its Korean announcement, that it had:
+“ confirmed indications that abnormally issued ACE had entered cryptocurrency exchanges.
+Bithumb · ACE security notice
+It identified two related BNB Chain transactions and a second transaction.
+Those records are important evidence leads, but a full independent decoding of the transaction trail remains outstanding.
+Bithumb’s wording is careful: it reported signs of abnormal supply entering exchanges, not a finding that every ACE token in customer accounts is invalid. The trading suspension is a protective response, not a finalized determination of customer losses.
+Still, it creates a practical problem for holders who never used the bridge. If tokens are fungible within a market, exchanges and the issuer need a credible method for identifying affected supply and deciding how deposits, balances and trades will be treated.
+The Real Security Question Is Why the Bridge Could Honor the Claims
+There is an understandable temptation to focus on the enormous minting figures. The more consequential question is what happened when those tokens met the bridge’s reserves.
+A system does not need to lose control of its entire blockchain to suffer a serious failure in one privileged contract role. Nor should a successful-looking bridge transaction count as evidence that the asset being transferred was fully backed.Our assessment
+The response cannot end with a pause notice and a promise to investigate.
+Fusionist needs to show which minting permissions were affected, whether they have been revoked, how much ACE was created without backing, how the Endurance-side reserve changed and what claims remain outstanding.
+Exchanges need a defensible token-treatment plan, and holders need to know whether there is a shortfall and who is responsible for covering it.
+There is a fair counterargument: the $5.7 million figure is an external estimate, market prices moved during the incident, and the precise compromise method is not established.
+SlowMist categorizes the incident as private-key leakage, but that classification is not a substitute for an official technical finding. It would also be premature to treat a cautious exchange halt as proof that every affected customer suffered a loss.
+Those qualifications change how the numbers should be reported. They do not make the underlying bridge-accounting failure less serious.
+The next credible milestone is not a restored interface or a reassuring social post. It is a transparent reconciliation of the tokens minted, the reserves withdrawn and the assets still available to back legitimate ACE claims.
+Until that exists, the estimated $5.7 million fallout remains a warning about both token security and the risks of trusting a bridge’s accounting.
+Disclaimer: this article is for informational purposes only and is not financial advice.&lt;/p&gt;&lt;p&gt;Crypto NewsBTC Security
+Read more from NewsBTC&lt;/p&gt;&lt;p&gt;Compare charts&lt;/p&gt;&lt;p&gt;Analyze on Supercharts
+Latest news&lt;/p&gt;&lt;p&gt;More news from NewsBTC&lt;/p&gt;</content:encoded>
+      <wire:foundAt>tradingview_discovery</wire:foundAt>
+      <wire:platform>TradingView News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.tradingview.com/news/newsbtc:7dff75932094b:0-fusionist-ace-bridge-exploit-5-7m-loss-estimate-bithumb-freezes-trading/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Solana ETFs post $4.38 million weekly inflow as Bitcoin, Ether and XRP funds bleed</title>
+      <link>https://www.tradingview.com/news/cryptobriefing:b841fd029094b:0-solana-etfs-post-4-38-million-weekly-inflow-as-bitcoin-ether-and-xrp-funds-bleed/</link>
+      <guid isPermaLink="false">17625a7715ce3900c3284822</guid>
+      <pubDate>Mon, 23 Nov 2026 06:35:17 +0000</pubDate>
+      <description>US spot Solana ETFs pulled in $4.38 million in net inflows last week. Spot ETFs tracking Bitcoin, Ether and XRP all posted net outflows over the same stretch.It is the first time in seven weeks that ...</description>
+      <content:encoded>&lt;p&gt;News
+/ Crypto Briefing
+/ Solana ETFs post $4.38 million weekly inflow as Bitcoin, Ether and XRP funds bleed&lt;/p&gt;&lt;p&gt;Solana ETFs post $4.38 million weekly inflow as Bitcoin, Ether and XRP funds bleed 1 min read&lt;/p&gt;&lt;p&gt;SOLUSD
+US spot Solana ETFs pulled in $4.38 million in net inflows last week. Spot ETFs tracking Bitcoin, Ether and XRP all posted net outflows over the same stretch.
+It is the first time in seven weeks that SOL funds finished a week in the green.
+The inflow came during the trading week of November 16 to 20, 2026. It broke a run of six consecutive weekly outflows for the SOL products.
+Those six losing weeks were costly. Combined net withdrawals over that period came to about $197 million.
+Bitwise&amp;#x27;s BSOL did most of the heavy lifting. The fund took in roughly $6.08 million on the week, more than the category&amp;#x27;s entire net total.
+Fidelity&amp;#x27;s FSOL logged the largest outflow among the SOL funds, at approximately $1.20 million.
+Daily flows were choppy. Monday, November 16, delivered a $11.7 million inflow, and several outflow days followed later in the week before the tally settled at a modest net positive.
+The price action was calm by crypto standards. SOL traded in a range between $70 and $73 during the inflow period.
+Total assets under management for US spot SOL ETFs sat at around $965 million as of November 20. That works out to about 2.42% of Solana&amp;#x27;s market capitalization.
+Since launch, the SOL funds have collected cumulative net inflows estimated somewhere between $1.41 billion and $1.65 billion.
+The contrast with the larger crypto ETFs is what made this week stand out. Spot funds for Bitcoin, Ether and XRP all recorded net outflows in the latest reported weeks.
+Bitcoin took the hardest hit. Some reports put weekly BTC ETF outflows at more than $1 billion.
+Ether and XRP funds also saw money leave. Combined with Bitcoin, that left SOL as the odd one out among the major spot crypto ETFs tracked for the week.
+One fund, BSOL, accounted for more than the entire net inflow, while FSOL lost money. That concentration means the turnaround leaned heavily on demand for a single issuer&amp;#x27;s product rather than broad buying across the category.
+SOL ETF assets of around $965 million are a fraction of what flows through Bitcoin products in a single heavy week, so SOL fund flows are unlikely to move the overall ETF picture on their own.&lt;/p&gt;&lt;p&gt;Crypto Crypto Briefing Crypto ETFs
+Read more from Crypto Briefing&lt;/p&gt;&lt;p&gt;SOLUSD chart&lt;/p&gt;&lt;p&gt;Analyze on Supercharts
+Latest news&lt;/p&gt;&lt;p&gt;More news from Crypto Briefing&lt;/p&gt;</content:encoded>
+      <wire:foundAt>tradingview_discovery</wire:foundAt>
+      <wire:platform>TradingView News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.tradingview.com/news/cryptobriefing:b841fd029094b:0-solana-etfs-post-4-38-million-weekly-inflow-as-bitcoin-ether-and-xrp-funds-bleed/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Earnings to watch: Movado reports Q3 results tomorrow</title>
+      <link>https://www.tradingview.com/news/stockstory:312c98389094b:0-earnings-to-watch-movado-reports-q3-results-tomorrow/</link>
+      <guid isPermaLink="false">ad23f1f0788ca4edf6ef7dc6</guid>
+      <pubDate>Mon, 23 Nov 2026 03:03:08 +0000</pubDate>
+      <description>MOVwill be reporting results this Tuesday before market open. Here’s what you need to know.Movado beat analysts’ revenue expectations last quarter, reporting revenues of $169.8 million, up 4.9% year ...</description>
+      <content:encoded>&lt;p&gt;News
+/ Stock Story
+/ Earnings to watch: Movado reports Q3 results tomorrow&lt;/p&gt;&lt;p&gt;Earnings to watch: Movado reports Q3 results tomorrow 1 min read&lt;/p&gt;&lt;p&gt;MOV&lt;/p&gt;&lt;p&gt;Luxury watch company Movado MOV will be reporting results this Tuesday before market open. Here’s what you need to know.
+Movado beat analysts’ revenue expectations last quarter, reporting revenues of $169.8 million, up 4.9% year on year. It was a very strong quarter for the company, with a beat of analysts’ EPS estimates.
+Is Movado a buy or sell going into earnings? Read our full analysis here, it’s free for active Edge members .
+This quarter, the market is expecting Movado’s revenue to grow 5% year on year, improving from the 3.1% increase it recorded in the same quarter last year.&lt;/p&gt;&lt;p&gt;Analysts covering the company have generally reconfirmed their estimates over the last 30 days, suggesting they anticipate the business will stay the course heading into earnings. Movado has missed Wall Street’s revenue estimates multiple times over the last two years.
+Looking at Movado’s peers in the consumer discretionary - apparel and accessories segment, some have already reported their Q3 results, giving us a hint as to what we can expect. Figs delivered year-on-year revenue growth of 25.7%, beating analysts’ expectations by 4.4%, and VF Corp reported revenues up 1.2%, topping estimates by 1.1%. Figs traded down 1.9% following the results while VF Corp was up 7.6%.
+Read our full analysis of Figs’s results here and VF Corp’s results here .
+Investors in the consumer discretionary - apparel and accessories segment have had fairly steady hands going into earnings, with share prices down 1.1% on average over the last month. Movado is down 5.5% during the same time and is heading into earnings with an average analyst price target of $47.50 (compared to the current share price of $29.25).
+WHILE YOU’RE HERE: The Next Palantir? One satellite company captures images of every point on Earth. Every single day. The Pentagon wants it. Hedge funds are using it to beat earnings. You’ve probably never heard of it.
+This is what the early days of Palantir looked like before it became a giant. Same playbook. Different technology. If you missed Palantir, you need to see this.&lt;/p&gt;&lt;p&gt;Stock Story US stocks
+Read more from Stock Story&lt;/p&gt;&lt;p&gt;MOV chart&lt;/p&gt;&lt;p&gt;Analyze on Supercharts
+Latest news&lt;/p&gt;&lt;p&gt;More news from Stock Story&lt;/p&gt;</content:encoded>
+      <wire:foundAt>tradingview_discovery</wire:foundAt>
+      <wire:platform>TradingView News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.tradingview.com/news/stockstory:312c98389094b:0-earnings-to-watch-movado-reports-q3-results-tomorrow/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Dick's to report earnings tomorrow: Here is what to expect</title>
+      <link>https://www.tradingview.com/news/stockstory:a4d9c147c094b:0-dick-s-to-report-earnings-tomorrow-here-is-what-to-expect/</link>
+      <guid isPermaLink="false">9849b45297573db7d77b70e9</guid>
+      <pubDate>Mon, 23 Nov 2026 03:02:02 +0000</pubDate>
+      <description>DKSwill be reporting results this Tuesday before market open. Here’s what you need to know.Dick's missed analysts’ revenue expectations last quarter, reporting revenues of $5.59 billion, up 53.2% year ...</description>
+      <content:encoded>&lt;p&gt;News
+/ Stock Story
+/ Dick&amp;#x27;s to report earnings tomorrow: Here is what to expect&lt;/p&gt;&lt;p&gt;Dick&amp;#x27;s to report earnings tomorrow: Here is what to expect 1 min read&lt;/p&gt;&lt;p&gt;DKS&lt;/p&gt;&lt;p&gt;Sporting goods retailer Dick’s Sporting Goods DKS will be reporting results this Tuesday before market open. Here’s what you need to know.
+Dick&amp;#x27;s missed analysts’ revenue expectations last quarter, reporting revenues of $5.59 billion, up 53.2% year on year. It was a sluggish quarter for the company, with full-year EPS guidance missing analysts’ expectations significantly and full-year revenue guidance slightly missing analysts’ expectations.
+Is Dick&amp;#x27;s a buy or sell going into earnings? Read our full analysis here, it’s free for active Edge members .
+This quarter, the market is expecting Dick’s revenue to grow 21.6% year on year, slowing from the 36.3% increase it recorded in the same quarter last year.&lt;/p&gt;&lt;p&gt;Analysts covering the company have generally reconfirmed their estimates over the last 30 days, suggesting they anticipate the business will stay the course heading into earnings. Dick&amp;#x27;s has missed Wall Street’s revenue estimates multiple times over the last two years.
+Looking at Dick’s peers in the specialty retail segment, some have already reported their Q3 results, giving us a hint as to what we can expect. Warby Parker delivered year-on-year revenue growth of 10.4%, meeting analysts’ expectations, and Bath and Body Works reported a revenue decline of 1.1%, topping estimates by 1%. Warby Parker traded up 19.7% following the results while Bath and Body Works was also up 1.1%.
+Read our full analysis of Warby Parker’s results here and Bath and Body Works’s results here .
+Investors in the specialty retail segment have had steady hands going into earnings, with share prices flat over the last month. Dick&amp;#x27;s is down 7.7% during the same time and is heading into earnings with an average analyst price target of $157.92 (compared to the current share price of $133.42).
+ONE MORE THING: 3 Hidden Platforms Growing 3X Faster than Amazon, Google, and PayPal. Amazon, Google, and Meta all followed the same playbook: Dominate an ignored market. Build an unbeatable moat. Scale until you’re unstoppable.
+These three platforms are running that exact playbook right now. The early investors in Amazon made fortunes. The early investors in these could do the same.&lt;/p&gt;&lt;p&gt;Stock Story US stocks
+Read more from Stock Story&lt;/p&gt;&lt;p&gt;DKS chart&lt;/p&gt;&lt;p&gt;Analyze on Supercharts
+Latest news&lt;/p&gt;&lt;p&gt;More news from Stock Story&lt;/p&gt;</content:encoded>
+      <wire:foundAt>tradingview_discovery</wire:foundAt>
+      <wire:platform>TradingView News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.tradingview.com/news/stockstory:a4d9c147c094b:0-dick-s-to-report-earnings-tomorrow-here-is-what-to-expect/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Midnight: NightMode introduces private cross-chain trade offers - Q1 2027</title>
+      <link>https://www.tradingview.com/news/coinmarketcal:f43615f48094b:0-midnight-nightmode-introduces-private-cross-chain-trade-offers-q1-2027/</link>
+      <guid isPermaLink="false">71bc10649c28c57037be78fc</guid>
+      <pubDate>Mon, 23 Nov 2026 03:00:35 +0000</pubDate>
+      <description>NightMode is set to introduce private cross-chain trade offers in Q1 2027. Traders will be able to use private offer files to carry out transactions across more than one network.Traders can use the ...</description>
       <content:encoded>&lt;p&gt;News
 / CoinMarketCal
-/ Midnight: Private lending launches - Q4 2026&lt;/p&gt;&lt;p&gt;Midnight: Private lending launches - Q4 2026 Less than 1 min read&lt;/p&gt;&lt;p&gt;NIGHTUSD NIGHTMUSD
-Midnight plans to launch private lending in Q4 2026. The service will keep sensitive transaction details private for users on both sides of a loan.
-The launch applies Midnight&amp;#x27;s privacy features to a core financial activity: lending and borrowing. That gives investors evaluating NIGHT for its privacy features a specific use case to consider: users can take part in a loan without making sensitive transaction details public.&lt;/p&gt;&lt;p&gt;Sjuul | AltCryptoGems
+/ Midnight: NightMode introduces private cross-chain trade offers - Q1 2027&lt;/p&gt;&lt;p&gt;Midnight: NightMode introduces private cross-chain trade offers - Q1 2027 Less than 1 min read&lt;/p&gt;&lt;p&gt;NIGHTUSD NIGHTMUSD
+NightMode is set to introduce private cross-chain trade offers in Q1 2027. Traders will be able to use private offer files to carry out transactions across more than one network.
+Traders can use the offer files to complete those transactions without revealing the strategy behind an offer. This extends NIGHT&amp;#x27;s privacy use case to trades that involve networks beyond Midnight.&lt;/p&gt;&lt;p&gt;Sjuul | AltCryptoGems
 @AltCryptoGems&lt;/p&gt;&lt;p&gt;2/ Confidential DeFi &amp;amp; Retail
 💎 Collateral Warehouse - A private global collateral vault where traders can deposit assets once and use them as margin on compatible blockchains without the need for bridging or revealing any public data.
 💎 Cross-Chain Expansion - NightMode… pic.twitter.com/ar7s3g8MPb&lt;/p&gt;&lt;p&gt;Nov 22, 2026&lt;/p&gt;&lt;p&gt;CoinMarketCal Crypto Technology
@@ -30,31 +188,81 @@ Latest news&lt;/p&gt;&lt;p&gt;More news from CoinMarketCal&lt;/p&gt;</content:en
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/coinmarketcal:f39720393094b:0-midnight-private-lending-launches-q4-2026/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.tradingview.com/news/coinmarketcal:f43615f48094b:0-midnight-nightmode-introduces-private-cross-chain-trade-offers-q1-2027/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Midnight: Private swaps launch - Q4 2026</title>
+      <link>https://www.tradingview.com/news/coinmarketcal:87d393910094b:0-midnight-private-swaps-launch-q4-2026/</link>
+      <guid isPermaLink="false">0357a067f6d7a8bccd969b94</guid>
+      <pubDate>Mon, 23 Nov 2026 00:47:00 +0000</pubDate>
+      <description>Midnight plans to launch private swaps in Q4 2026. The feature will let users exchange one asset for another on the network without having to make sensitive details of the trade public.The release ...</description>
+      <wire:foundAt>tradingview_discovery</wire:foundAt>
+      <wire:platform>TradingView News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.tradingview.com/news/coinmarketcal:87d393910094b:0-midnight-private-swaps-launch-q4-2026/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Midnight: Shielded Contract Tokens Debut - Q4 2026</title>
+      <link>https://www.tradingview.com/news/coinmarketcal:e4123f112094b:0-midnight-shielded-contract-tokens-debut-q4-2026/</link>
+      <guid isPermaLink="false">353951e93c7b6553d96a9767</guid>
+      <pubDate>Sun, 22 Nov 2026 20:08:00 +0000</pubDate>
+      <description>Midnight plans to introduce shielded contract tokens in Q4 2026. The release will let apps on Midnight use shielded tokens in their smart contracts.Developers will be able to write rules for how their ...</description>
+      <wire:foundAt>tradingview_discovery</wire:foundAt>
+      <wire:platform>TradingView News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.tradingview.com/news/coinmarketcal:e4123f112094b:0-midnight-shielded-contract-tokens-debut-q4-2026/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Midnight: Network Adds Private Contract Composability - Q1 2027</title>
+      <link>https://www.tradingview.com/news/coinmarketcal:085baf3c7094b:0-midnight-network-adds-private-contract-composability-q1-2027/</link>
+      <guid isPermaLink="false">8f6e022fc0d22ae026b264e4</guid>
+      <pubDate>Sun, 22 Nov 2026 19:05:00 +0000</pubDate>
+      <description>Midnight plans to roll out private contract composability in Q1 2027. The feature lets smart contracts interact while keeping the data held by each contract separate and private.Developers can build a ...</description>
+      <wire:foundAt>tradingview_discovery</wire:foundAt>
+      <wire:platform>TradingView News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.tradingview.com/news/coinmarketcal:085baf3c7094b:0-midnight-network-adds-private-contract-composability-q1-2027/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Midnight: Introduces Programmable Shielded Assets - Q1 2027</title>
+      <link>https://www.tradingview.com/news/coinmarketcal:64b3ba156094b:0-midnight-introduces-programmable-shielded-assets-q1-2027/</link>
+      <guid isPermaLink="false">90fcc7db9fd82b5f9cb82236</guid>
+      <pubDate>Sun, 22 Nov 2026 19:05:00 +0000</pubDate>
+      <description>Midnight plans to introduce Programmable Shielded Assets in Q1 2027. The release adds private tokens with built-in compliance controls for asset freezes, restrictions and enforced transfers.Issuers ...</description>
+      <wire:foundAt>tradingview_discovery</wire:foundAt>
+      <wire:platform>TradingView News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.tradingview.com/news/coinmarketcal:64b3ba156094b:0-midnight-introduces-programmable-shielded-assets-q1-2027/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
       <title>Railgun: PQ-RAILGUN launches on Ethereum - 22 Nov 2026</title>
       <link>https://www.tradingview.com/news/coinmarketcal:68360ce50094b:0-railgun-pq-railgun-launches-on-ethereum-22-nov-2026/</link>
       <guid isPermaLink="false">d6c56954b09255e8ea35579c</guid>
-      <pubDate>Sun, 22 Nov 2026 21:00:18 +0000</pubDate>
+      <pubDate>Sun, 22 Nov 2026 04:59:00 +0000</pubDate>
       <description>Railgun launches PQ-RAILGUN on 22 November 2026. The release brings post-quantum protection to the privacy features that Railgun provides to users on Ethereum.The change strengthens the core product ...</description>
-      <content:encoded>&lt;p&gt;News
-/ CoinMarketCal
-/ Railgun: PQ-RAILGUN launches on Ethereum - 22 Nov 2026&lt;/p&gt;&lt;p&gt;Railgun: PQ-RAILGUN launches on Ethereum - 22 Nov 2026 Less than 1 min read&lt;/p&gt;&lt;p&gt;TUSDT.P
-Railgun launches PQ-RAILGUN on 22 November 2026. The release brings post-quantum protection to the privacy features that Railgun provides to users on Ethereum.
-The change strengthens the core product behind RAIL by making its privacy protections more resistant to threats from quantum computers. Railgun keeps the protection decentralized, so the added resistance does not require putting a central operator in charge of it.&lt;/p&gt;&lt;p&gt;RAILGUN - Private Ethereum DeFi
-@RAILGUN_Project&lt;/p&gt;&lt;p&gt;Post-quantum security for privacy on Ethereum doesn&amp;#x27;t require sacrificing decentralization. It&amp;#x27;s here today.
-Introducing PQ-RAILGUN. https://t.co/xZaBURxh5k pic.twitter.com/Ij4YJg6wX0&lt;/p&gt;&lt;p&gt;Nov 22, 2026&lt;/p&gt;&lt;p&gt;CoinMarketCal Crypto Technology
-Read more from CoinMarketCal&lt;/p&gt;&lt;p&gt;TUSDT.P chart&lt;/p&gt;&lt;p&gt;Analyze on Supercharts
-Latest news&lt;/p&gt;&lt;p&gt;More news from CoinMarketCal&lt;/p&gt;</content:encoded>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.tradingview.com/news/coinmarketcal:68360ce50094b:0-railgun-pq-railgun-launches-on-ethereum-22-nov-2026/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
@@ -62,197 +270,30 @@ Latest news&lt;/p&gt;&lt;p&gt;More news from CoinMarketCal&lt;/p&gt;</content:en
       <title>AI Rout Turns Gold Into Source Of Cash: What Comes Next?</title>
       <link>https://www.tradingview.com/news/benzinga:d0a94eeec094b:0-ai-rout-turns-gold-into-source-of-cash-what-comes-next/</link>
       <guid isPermaLink="false">6778304f6be53d2466280b85</guid>
-      <pubDate>Sun, 22 Nov 2026 18:30:07 +0000</pubDate>
+      <pubDate>Sun, 22 Nov 2026 02:31:00 +0000</pubDate>
       <description>Gold fell to a 14-month low on Friday as a rout in technology shares prompted investors to sell bullion to cover losses elsewhere. The metal slid alongside falling Treasury yields and the US ...</description>
-      <content:encoded>&lt;p&gt;News
-/ Benzinga
-/ AI Rout Turns Gold Into Source Of Cash: What Comes Next?&lt;/p&gt;&lt;p&gt;AI Rout Turns Gold Into Source Of Cash: What Comes Next? 2 min read&lt;/p&gt;&lt;p&gt;QQQ NEM B AEM
-Gold fell to a 14-month low on Friday as a rout in technology shares prompted investors to sell bullion to cover losses elsewhere. The metal slid alongside falling Treasury yields and the US dollar.
-Spot gold fell to $3,502 an ounce- the lowest level since September 2025. In total, bullion lost 8.9% for the week, while the Invesco QQQ ETF QQQ sank 9.31% and State Street SPDR S&amp;amp;P 500 ETF (NYSE:SPY) fell by 7.98%, entering correction territory
-Rate Hike Bets Set the Stage
-Minutes from the Federal Reserve’s October meeting showed that nearly all policymakers anticipated further rate increases . According to the CME FedWatch , traders currently price in an 88.6% chance of a quarter-point increase in December.
-“The ongoing AI-related equity selloff is prompting some forced liquidations of gold positions to cover losses,” David Meger , director of metals trading at High Ridge Futures, told Reuters.
-Ole Hansen , head of commodity strategy at Saxo Bank, wrote that bullion “has become a source of cash for investors facing mounting losses elsewhere,” Mining.com reported.
-In a market commentary, former Bridgewater economist Bob Elliott said pro-growth pricing “remains quite elevated” and warned the selloff could become “more self-reinforcing to the downside.”
-Once downturns start, he wrote, they typically require “both much cheaper pricing and some sort of policy support to get to the bottom, neither of which we are at yet.”
-Interestingly, there was little sign of a broad exit from gold funds. Holdings in gold ETFs tracked by Bloomberg were little changed over the preceding month despite a roughly 10% drop in bullion, Hansen said.
-Mining shares were less resilient, since their leverage to gold price works both ways. The VanEck Gold Miners ETF (NYSE:GDX) closed the week 14.80% below the previous Friday’s close. The largest names in the sector, Newmont NEM , Barrick Mining B and Agnico Eagle Mines AEM lost 15.03%, 15.19% and 13.64%, respectively.
-Technical Outlook
-Gold’s daily chart shows the magnitude of the post-summer carnage. After peaking in August and briefly moving above the 200-day moving average, bullion reversed course and fell by over 25%.&lt;/p&gt;&lt;p&gt;Gold, daily chart, Source: TradingView
-Zooming out, the next key support area is the Q2-Q3 2025 price range. For much of that time, price remained in a tight accumulation between $3,200 and $3,450.
-Thus, price could easily fall further, test that range, and wait for the next catalyst to move it either way.&lt;/p&gt;&lt;p&gt;Read the full article Get unlimited access to articles from Benzinga and every other news source on TradingView.
-Keep reading&lt;/p&gt;&lt;p&gt;Compare charts&lt;/p&gt;&lt;p&gt;Analyze on Supercharts
-Latest news&lt;/p&gt;</content:encoded>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.tradingview.com/news/benzinga:d0a94eeec094b:0-ai-rout-turns-gold-into-source-of-cash-what-comes-next/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Midnight: Tokenized Deposit Support Rolls Out - Q4 2026</title>
-      <link>https://www.tradingview.com/news/coinmarketcal:36c6884bb094b:0-midnight-tokenized-deposit-support-rolls-out-q4-2026/</link>
-      <guid isPermaLink="false">a5ef6701d54ad5231a81363f</guid>
-      <pubDate>Sun, 22 Nov 2026 18:00:20 +0000</pubDate>
-      <description>Midnight plans to roll out support for tokenized deposits in Q4 2026. The release will let institutions use the network to issue and settle digital deposits.Institutions will be able to carry out both ...</description>
-      <content:encoded>&lt;p&gt;News
-/ CoinMarketCal
-/ Midnight: Tokenized Deposit Support Rolls Out - Q4 2026&lt;/p&gt;&lt;p&gt;Midnight: Tokenized Deposit Support Rolls Out - Q4 2026 Less than 1 min read&lt;/p&gt;&lt;p&gt;NIGHTUSD
-Midnight plans to roll out support for tokenized deposits in Q4 2026. The release will let institutions use the network to issue and settle digital deposits.
-Institutions will be able to carry out both steps without making deposit balances public or revealing which businesses they deal with. Support for that banking activity gives NIGHT exposure to a new institutional use case.&lt;/p&gt;&lt;p&gt;Sjuul | AltCryptoGems
-@AltCryptoGems&lt;/p&gt;&lt;p&gt;So, let’s take a look at what @MidnightNtwrk has planned for us in 2027, and there’s a lot, so we’re going to break it down into categories:
-1/ Institutional Issuance &amp;amp; Settlement
-💎 Programmable Shielded Assets - Private tokens with built-in compliance controls, including… pic.twitter.com/iPvFtRS8su&lt;/p&gt;&lt;p&gt;Nov 22, 2026&lt;/p&gt;&lt;p&gt;CoinMarketCal Crypto Technology
-Read more from CoinMarketCal&lt;/p&gt;&lt;p&gt;NIGHTUSD chart&lt;/p&gt;&lt;p&gt;Analyze on Supercharts
-Latest news&lt;/p&gt;&lt;p&gt;More news from CoinMarketCal&lt;/p&gt;</content:encoded>
-      <wire:foundAt>tradingview_discovery</wire:foundAt>
-      <wire:platform>TradingView News</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/coinmarketcal:36c6884bb094b:0-midnight-tokenized-deposit-support-rolls-out-q4-2026/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
       <title>XRP Ledger Loses 60% of Users</title>
       <link>https://www.tradingview.com/news/u_today:c63657bcf094b:0-xrp-ledger-loses-60-of-users/</link>
       <guid isPermaLink="false">cb6838396501979e118ff4e1</guid>
-      <pubDate>Sun, 22 Nov 2026 08:50:00 +0000</pubDate>
+      <pubDate>Sat, 21 Nov 2026 16:49:00 +0000</pubDate>
       <description>XRP Ledger's network activity has dropped sharply, losing around 60% of the users it had yesterday. The decline comes amid a serious price correction and increased pressure on the cryptocurrency ...</description>
-      <content:encoded>&lt;p&gt;News
-/ U.Today
-/ XRP Ledger Loses 60% of Users&lt;/p&gt;&lt;p&gt;XRP Ledger Loses 60% of Users 1 min read&lt;/p&gt;&lt;p&gt;XRPUSD
-XRP Ledger&amp;#x27;s network activity has dropped sharply, losing around 60% of the users it had yesterday. The decline comes amid a serious price correction and increased pressure on the cryptocurrency market. Selling pressure remains high, and the declining number of users is not helping the price.
-Fuel for the correction
-XRPScan&amp;#x27;s data showed 250,000 users 24 hours ago, while today&amp;#x27;s reading shows barely 92,000 users. While the drop is significant, it should not be considered critical on its own. The decline partly reflects a regular weekend slowdown, when traders are generally less active, but it comes alongside the price correction and broader selling pressure.&lt;/p&gt;&lt;p&gt;BITSTAMP:XRPUSDT Chart by TradingView&amp;quot;&amp;gt;
-The highest point for this metric in November was 300,000, with a monthly average of approximately 200,000 active users. The number of users is a critical metric for the network&amp;#x27;s health, and a decline toward 100,000 often comes before bullish sentiment among investors. The current drop does not guarantee that sentiment will turn, especially as the price remains under pressure.
-Price action remains weak
-Apart from the negative on-chain trend, XRP&amp;#x27;s price performance has also been weak. The price lost roughly 5% from its November 19 close and even fell below the $0.90 price level, which was expected to serve as a foundation for recovery. XRP was around $0.915 on November 22 after closing at $0.9604 three days earlier.
-The trend remains bearish, and the decline could become significantly worse.
-Few expected a surge in market liquidations so soon, as Bitcoin fell below the $60,000 price level. XRP and other altcoins followed the broader market trend and suffered serious losses.
-Interest in the network appears to be weakening as the price correction continues, so this drop in activity is not helping XRP&amp;#x27;s recovery.
-A potential recovery above $0.9 could be the key to a quick rebound. However, the overall trend remains bearish and is unlikely to change unless significant market events occur.&lt;/p&gt;&lt;p&gt;Crypto Market moves U.Today
-Read more from U.Today&lt;/p&gt;&lt;p&gt;XRPUSD chart&lt;/p&gt;&lt;p&gt;Analyze on Supercharts
-Latest news&lt;/p&gt;&lt;p&gt;More news from U.Today&lt;/p&gt;</content:encoded>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
+      <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://www.tradingview.com/news/u_today:c63657bcf094b:0-xrp-ledger-loses-60-of-users/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Midnight: Private Collateral Vault launches - Q1 2027</title>
-      <link>https://www.tradingview.com/news/coinmarketcal:4f9517c75094b:0-midnight-private-collateral-vault-launches-q1-2027/</link>
-      <guid isPermaLink="false">99fa5a6d64fb990aee6167f3</guid>
-      <pubDate>Sun, 22 Nov 2026 02:00:00 +0000</pubDate>
-      <description>Midnight plans to release its Private Collateral Vault in Q1 2027. Traders will be able to deposit assets once and use that deposit as margin on compatible blockchains.Traders will not need to bridge ...</description>
-      <wire:foundAt>tradingview_discovery</wire:foundAt>
-      <wire:platform>TradingView News</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/coinmarketcal:4f9517c75094b:0-midnight-private-collateral-vault-launches-q1-2027/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Midnight: Real-world asset issuance opens to institutions - Q1 2027</title>
-      <link>https://www.tradingview.com/news/coinmarketcal:5a386b83e094b:0-midnight-real-world-asset-issuance-opens-to-institutions-q1-2027/</link>
-      <guid isPermaLink="false">a69733202688a28f04140b46</guid>
-      <pubDate>Sun, 22 Nov 2026 02:00:00 +0000</pubDate>
-      <description>Midnight plans to add real-world asset issuance in Q1 2027. The release will let institutions issue tokens backed by investment funds, credit products and real estate on the network.Institutions will ...</description>
-      <wire:foundAt>tradingview_discovery</wire:foundAt>
-      <wire:platform>TradingView News</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/coinmarketcal:5a386b83e094b:0-midnight-real-world-asset-issuance-opens-to-institutions-q1-2027/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>New Five-Year Lecanemab Data from Clarity AD Study Long-Term Extension, Presented at CTAD 2026</title>
-      <link>https://www.tradingview.com/news/reuters.com,2026-11-22:newsml_JCN111763:0-new-five-year-lecanemab-data-from-clarity-ad-study-long-term-extension-presented-at-ctad-2026/</link>
-      <guid isPermaLink="false">61a32f3f68955e3a13fbe6b0</guid>
-      <pubDate>Sat, 21 Nov 2026 23:30:00 +0000</pubDate>
-      <description>Eisai Co., Ltd. and Biogen Inc. (Nasdaq: BIIB) announced today that the latest findings demonstrating the benefits of continuous treatment with lecanemab-irmb (U.S. brand name: LEQEMBI(R)), an ...</description>
-      <wire:foundAt>tradingview_discovery</wire:foundAt>
-      <wire:platform>TradingView News</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/reuters.com,2026-11-22:newsml_JCN111763:0-new-five-year-lecanemab-data-from-clarity-ad-study-long-term-extension-presented-at-ctad-2026/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Binance Bitcoin funding turns negative, and one analyst sees a possible reversal</title>
-      <link>https://www.tradingview.com/news/cryptobriefing:3844a8027094b:0-binance-bitcoin-funding-turns-negative-and-one-analyst-sees-a-possible-reversal/</link>
-      <guid isPermaLink="false">3f17f931748137e67e9a7daa</guid>
-      <pubDate>Sat, 21 Nov 2026 23:16:00 +0000</pubDate>
-      <description>Traders on Binance are now paying to bet against Bitcoin. That rarely happens, and the last time it did was in June 2026.CryptoQuant analyst Darkfost flagged the shift. He says negative Bitcoin ...</description>
-      <wire:foundAt>tradingview_discovery</wire:foundAt>
-      <wire:platform>TradingView News</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/cryptobriefing:3844a8027094b:0-binance-bitcoin-funding-turns-negative-and-one-analyst-sees-a-possible-reversal/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Ripple USD (RLUSD) Breaks Into Global Top Five Stablecoins as Supply Hits New ATH</title>
-      <link>https://www.tradingview.com/news/u_today:89a296617094b:0-ripple-usd-rlusd-breaks-into-global-top-five-stablecoins-as-supply-hits-new-ath/</link>
-      <guid isPermaLink="false">2545576f6ac8ff0e65181261</guid>
-      <pubDate>Sat, 21 Nov 2026 22:43:00 +0000</pubDate>
-      <description>Ripple’s dollar-pegged stablecoin, Ripple USD (RLUSD), has now entered the top five stablecoins by market cap, reaching a new all-time high in its circulating supply, a major milestone for the ...</description>
-      <wire:foundAt>tradingview_discovery</wire:foundAt>
-      <wire:platform>TradingView News</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/u_today:89a296617094b:0-ripple-usd-rlusd-breaks-into-global-top-five-stablecoins-as-supply-hits-new-ath/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Shiba Inu Team Makes Key GitHub Clarification for ShibaSwap, Shibarium</title>
-      <link>https://www.tradingview.com/news/u_today:83b77b8a1094b:0-shiba-inu-team-makes-key-github-clarification-for-shibaswap-shibarium/</link>
-      <guid isPermaLink="false">0554fba98ec15953e5653609</guid>
-      <pubDate>Sat, 21 Nov 2026 17:30:00 +0000</pubDate>
-      <description>"Shib.io is home to both Shibarium and ShibaSwap," Shiba Inu developer and long-time community member Mazrael said, citing the project’s public Git repository as evidence of the longstanding ...</description>
-      <wire:foundAt>tradingview_discovery</wire:foundAt>
-      <wire:platform>TradingView News</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/u_today:83b77b8a1094b:0-shiba-inu-team-makes-key-github-clarification-for-shibaswap-shibarium/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Key facts: Anthropic IPO Raises $81.3B; Ratings Issued; Shares Slip</title>
-      <link>https://www.tradingview.com/news/tradingview:39f1c02deb048:0-key-facts-anthropic-ipo-raises-81-3b-ratings-issued-shares-slip/</link>
-      <guid isPermaLink="false">c75e542459faf6c451c15f72</guid>
-      <pubDate>Sat, 21 Nov 2026 15:59:00 +0000</pubDate>
-      <description>This is an AI-generated summary and may contain inaccuracies. Please verify any important information with the original sources.</description>
-      <wire:foundAt>tradingview_discovery</wire:foundAt>
-      <wire:platform>TradingView News</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/tradingview:39f1c02deb048:0-key-facts-anthropic-ipo-raises-81-3b-ratings-issued-shares-slip/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>

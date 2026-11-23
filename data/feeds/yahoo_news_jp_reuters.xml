@@ -5,8 +5,357 @@
     <link>https://news.yahoo.co.jp/media/reut</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 23 Nov 2026 02:22:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 11:04:08 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ウクライナ大統領、リビアでロシア軍艦撃沈と発表　水上ドローン使用</title>
+      <link>https://news.yahoo.co.jp/articles/13703b3debde0ef4b340219027a32b00084f2820</link>
+      <guid isPermaLink="false">695cb63e1571e6636d126bef</guid>
+      <pubDate>Mon, 23 Nov 2026 10:43:02 +0000</pubDate>
+      <description>[２３日 ロイター] -</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;[２３日 ロイター] - ウクライナのゼレンスキー大統領は２３日、水上ドローン７隻によりリビアの港でロシア海軍のコルベット艦「メルクーリイ」を撃沈したと明らかにした。&lt;/p&gt;&lt;p&gt;ゼレンスキー氏によると、２２日のリビア沖での攻撃では、もう一つの標的だったロシアのばら積み貨物船「ＭＶアンガラ」にも命中した。同船はロシアが武器輸送に使用していたという。&lt;/p&gt;&lt;p&gt;同氏は通信アプリ「テレグラム」に「指定海域で作戦を続けている」と投稿。また、コルベット艦とともにロシアの戦闘ヘリコプター「Ｋａ２７」も破壊したとした。&lt;/p&gt;&lt;p&gt;リビア東部を拠点とする政府によると、メルクーリイは２２日、ベンガジ海軍基地に停泊中、ドローンによるとみられる攻撃を受けた。ロシアへの帰路、協力協定に基づき燃料や物資の補給のため寄港していたという。&lt;/p&gt;&lt;p&gt;２１日にはフィンランド湾の公海上で、ロシアの国防関連物流企業オボロンロジスティカが所有する貨物船「スパルタ２」が、ウクライナによるとみられるドローン攻撃を受け、火災が発生していた。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/13703b3debde0ef4b340219027a32b00084f2820</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>米銀、ＡＩエージェント「暴走」防止へ管理厳格化　遮断に備えＢＣＰも</title>
+      <link>https://news.yahoo.co.jp/articles/0f3d8d68d84040abf544330a94a52ef0a81e7d82</link>
+      <guid isPermaLink="false">e7553b09050df342bb184652</guid>
+      <pubDate>Mon, 23 Nov 2026 10:08:11 +0000</pubDate>
+      <description>Nupur Anand
+
+［ニューヨーク　２３日　ロイター］ -</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;Nupur Anand&lt;/p&gt;&lt;p&gt;［ニューヨーク　２３日　ロイター］ - 米国の複数の大手・中堅銀行が、自社の人工知能（ＡＩ）エージェントの暴走を防ぐため、管理を強化している。銀行業界関係者が明らかにした。オープンＡＩなどで発生した事案が契機という。&lt;/p&gt;&lt;p&gt;米国の大手銀行は全て、資産運用、決済、取引、その他の企業機能などの幅広い事業でエージェント型ＡＩを使っている。従来のソフトウエアとは違い、エージェントはタスクを完了するために自ら判断し、ツールを使い、複数のシステムとやり取りすることができる。&lt;/p&gt;&lt;p&gt;米銀はこれまでも、サードパーティー製のＡＩエージェントが顧客口座内で動いたり取引をしたりすることを遮断すると同時に、自行で開発したエージェントの動作についても監視を強めていた。社内のエージェントまで精査するようになったのは、オープンＡＩの実験的なモデルがテスト環境をすり抜けた事案が明らかになったためだ。この事案では、ＡＩ新興企業ハギングフェイスなどのシステムにも侵入した。&lt;/p&gt;&lt;p&gt;これを受けて、複数の銀行が自行のシステムを点検する社内チームを設けた。モデルがどうやって制限を回避したのかを調べ、自行のシステムに同じような弱点がないかを評価し、追加の防護策について提言を募っている。また最新のＡＩモデルの導入に慎重になったという。&lt;/p&gt;&lt;p&gt;＜厳格な棲み分け＞&lt;/p&gt;&lt;p&gt;関係者によると、ハギングフェイスのような事案を防ぐため、銀行はエージェントを他の技術からより厳格に切り離し、アクセスできる範囲の制限を強めている。エージェントが作業を続けられる時間を制限し、エージェントに与える認証情報を絞り、許可する活動やシステムを限定する。テスト環境と日常の銀行業務で使うシステムの棲み分けを図り、エージェントを停止せざるを得なくなっても業務を続けられるようＢＣＰ（事業継続計画）を策定している。&lt;/p&gt;&lt;p&gt;銀行はエージェントを従業員に近い存在として扱っていると関係者の１人は話した。認証情報、権限、制限を明確に定め、エージェントがどのシステムにアクセスし、何をしたか、それを人間が承認したかどうかを記録する。記録は、事案の再現や、どのデータやシステムが影響を受けたか特定するのに活用する。&lt;/p&gt;&lt;p&gt;銀行は、エージェントが人間の従業員の認証情報を使い始めたときに検知する方法も研究している。また、誤作動を起こしたり乗っ取られたりしたエージェントを他のシステムから切り離す「キルスイッチ」の見直しも進めている。キルスイッチには、そのエージェントが作ったプロセスを特定する役割もある。&lt;/p&gt;&lt;p&gt;エージェントの停止は業務に支障を来たす可能性がある。このため、融資処理、不正検知、金融犯罪の審査などの機能についてバックアップ手順をテストしているという。&lt;/p&gt;&lt;p&gt;米通貨監督庁（ＯＣＣ）の元当局者で独立系のＡＩリスク管理専門家のナレシュ・ラヘジャ氏は「従来のモデルと違い、ＡＩエージェントはテストや検証の段階では見つからなかった挙動を導入後に見せることがある」とし、「銀行はＡＩエージェントについて、導入後の監視とリスク管理をはるかに重視するようになっている」と述べた。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/0f3d8d68d84040abf544330a94a52ef0a81e7d82</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>独総合ＰＭＩ、11月速報55.0で4年半ぶり高水準　製造・サービスとも改善</title>
+      <link>https://news.yahoo.co.jp/articles/f6c75c9522bad9cb7ac378a3e734b852ee272a7e</link>
+      <guid isPermaLink="false">a673d4d347e83e5758207a5d</guid>
+      <pubDate>Mon, 23 Nov 2026 09:58:05 +0000</pubDate>
+      <description>Maria Martinez
+
+[ベルリン ２３日 ロイター] -</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;Maria Martinez&lt;/p&gt;&lt;p&gt;[ベルリン ２３日 ロイター] - Ｓ＆Ｐグローバルが２３日発表した１１月のドイツ総合購買担当者景気指数（ＰＭＩ）速報値は５５．０で１０月の５３．４から上昇、２０２２年３月以来の高水準となった。製造業とサービス業双方が改善した。&lt;/p&gt;&lt;p&gt;ロイターがまとめたエコノミスト予想は５３．２だった。&lt;/p&gt;&lt;p&gt;Ｓ＆Ｐグローバル・マーケット・インテリジェンスの経済担当アソシエートディレクター、フィル・スミス氏は「輸出受注の増加に引き続き支えられ製造業の回復が続く一方、内需中心のサービス業でも需要が回復し、１年余りで最も大きく改善したことは心強い。景気回復の広がりを示唆している」と述べた。&lt;/p&gt;&lt;p&gt;引き続き回復を主導したのは製造業だった。製造業ＰＭＩは１０月の５４．２から５５．０に上昇し、５６カ月ぶりの高水準となった。&lt;/p&gt;&lt;p&gt;サービス業も勢いを増し、事業活動は２５年１０月以来の大幅な伸びとなった。サービス業ＰＭＩは前月の５２．５から５４．０に上昇した。&lt;/p&gt;&lt;p&gt;製造業では２３年半ば以来初めて雇用が増加したものの、サービス業で人員削減が続いたため、雇用全体で１１月は２カ月連続の小幅減少となった。&lt;/p&gt;&lt;p&gt;価格面では、投入コストの上昇は歴史的に高い水準にとどまったがやや鈍化し、３カ月ぶりの低水準となった。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/f6c75c9522bad9cb7ac378a3e734b852ee272a7e</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>中国・香港株式市場・大引け＝中国大幅安から回復、香港小幅安</title>
+      <link>https://news.yahoo.co.jp/articles/9a5796876f24afdfad8f2f91a67a64d0feb27785</link>
+      <guid isPermaLink="false">5dc71aca1679e012f8e9c36b</guid>
+      <pubDate>Mon, 23 Nov 2026 09:55:23 +0000</pubDate>
+      <description>[上海 ２３日 ロイター] -</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;[上海 ２３日 ロイター] - 中国株式市場はほぼ横ばい、香港株は小幅安で引けた。中国株は一時１６カ月ぶりの安値に下落した。当局が信用取引の要件緩和に動いたが米国の新たな半導体規制や世界的な人工知能（ＡＩ）関連株売りの拡大で動揺する投資家の不安を和らげるには至らなかった。&lt;/p&gt;&lt;p&gt;２０日の米株式市場の急落もリスクオフにつながった。米国の追加利上げ観測も、世界的な流動性の引き締まりへの懸念につながった。&lt;/p&gt;&lt;p&gt;人民元は先週の荒い値動きを経て落ち着いたが、中国の社債市場は数週間にわたる混乱の後も圧力にさらされた。&lt;/p&gt;&lt;p&gt;紫傑私募基金のファンドマネジャー、ワン・ヤーペイ氏は、週末に発表された信用取引の買い付け資金借り入れ要件の緩和などの市場支援策について、世界的な株安の中では「不十分だ」と指摘。「株式市場の低迷が人々の資産を目減りさせ、消費を抑えている」と述べた。&lt;/p&gt;&lt;p&gt;上海総合指数とＣＳＩ３００指数は下げから回復し、ほぼ横ばいで取引を終えた。&lt;/p&gt;&lt;p&gt;上海総合指数は午前の取引で１％超下落し、節目の３５００を割り込んで２０２５年７月上旬以来の安値を付けていた。&lt;/p&gt;&lt;p&gt;香港のハンセン指数は０．１％安。一時１９カ月ぶりの安値を付けた。&lt;/p&gt;&lt;p&gt;世界的な半導体株・ＡＩ関連株売りが深まる中、中国のＣＳＩ半導体指数は米株安に追随し、２％近く下落した。&lt;/p&gt;&lt;p&gt;相場への圧力をさらに強めたのが、トランプ米大統領の２０日の発言だ。同氏は、海外にデータセンターを建設する米企業に制裁を科すと表明した。&lt;/p&gt;&lt;p&gt;トリニティー・シナジー・インベストメンツのヘッジファンドマネジャー、ユアン・ユーウェイ氏は、トランプ氏の警告について「ＡＩ支出に厳しい目が向けられる中、投資家の信頼をさらに損なった」と述べた。&lt;/p&gt;&lt;p&gt;米国は最近、東南アジアの複数国への先端ＡＩ半導体の輸出制限など、中国が高性能の米国製半導体を入手できる抜け穴を塞ぐ措置を講じている。こうした動きも、計算能力の確保を急ぐ中国のＡＩ企業の株価を大きく押し下げた。&lt;/p&gt;&lt;p&gt;香港のハンセンテック指数は９営業日続落し２６カ月ぶりの安値を付けた。同指数には、クラウドサービスを提供するアリババやテンセント、ＡＩモデル開発のＺ・ＡＩやミニマックスなどが含まれる。&lt;/p&gt;&lt;p&gt;遠達信息証券研究所は、米国債利回りの上昇も中国と香港のハイテク株を押し下げたと指摘。「最近のハンセンテック指数の下落は、一部には米国への資金還流によるものだ」と述べた。&lt;/p&gt;&lt;p&gt;一方、深セン証券取引所の新興企業向け市場「創業板（チャイネクスト）」総合指数は、１８カ月ぶりの安値から４％近く反発した。同取引所が創業板にマーケットメーク制度を導入すると表明した後、政府系投資家による買いの兆候が見られた。&lt;/p&gt;&lt;p&gt;社債市場では、１０月下旬に市場の混乱を引き起こした国有不動産開発会社、華発集団の財務不安の兆候が、引き続き投資家を神経質にさせている。&lt;/p&gt;&lt;p&gt;中国の債券上場投資信託（ＥＴＦ）は、２３日も売り圧力にさらされた。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/9a5796876f24afdfad8f2f91a67a64d0feb27785</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>ＭＳＣＩと大統領が協議、インドネシア分類下げ代案を検討　通貨上昇</title>
+      <link>https://news.yahoo.co.jp/articles/a5b554d5d6231e436894089aa81207783096ddd6</link>
+      <guid isPermaLink="false">a318369994f64e18a5a617cb</guid>
+      <pubDate>Mon, 23 Nov 2026 08:53:53 +0000</pubDate>
+      <description>[ジャカルタ ２３日 ロイター] -</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;[ジャカルタ ２３日 ロイター] - インドネシア中央銀行は２３日、指数算出会社ＭＳＣＩのヘンリー・フェルナンデス最高経営責任者（ＣＥＯ）とプラボウォ大統領の協議を受け、株式市場改善への期待が高まり通貨ルピアを支援したとの見方を示した。&lt;/p&gt;&lt;p&gt;ブルームバーグ・ニュースはこれに先立ち、協議内容を知る関係者の話として、フェルナンデス氏が１１月１０日のプラボウォ氏との電話会議で、インドネシア株式市場の分類を２段階引き下げる措置に代わる案を検討する意向を伝えたと報じた。&lt;/p&gt;&lt;p&gt;中銀の金融調節責任者は「ＭＳＣＩのフェルナンデスＣＥＯがプラボウォ大統領との直接協議で示した発言は、インドネシア株式市場の改善に向けた前向きな期待を高め、ルピア高を一段と後押しした」と述べた。&lt;/p&gt;&lt;p&gt;ＬＳＥＧのデータによると、ルピアは２３日に１ドル＝１万８２９０ルピアと過去最安値を付けた後、０７３３ＧＭＴ（日本時間午後４時３３分）までに一時１万８１８０ルピアまで上昇した。&lt;/p&gt;&lt;p&gt;報道によると、フェルナンデス氏とプラボウォ氏は１時間以上にわたり電話で協議。ヘッジファンドのブリッジウォーター・アソシエーツ創業者で富豪のレイ・ダリオ氏が仲介した。同氏はインドネシア政府の非公式顧問を務めてきた。&lt;/p&gt;&lt;p&gt;ＭＳＣＩは、２０２７年にインドネシア株を指数から除外し、市場分類を「新興国市場」から「フロンティア市場」を飛び越えて２段階下の「スタンドアローン市場」に引き下げる可能性があると警告しており、同国市場を精査している。&lt;/p&gt;&lt;p&gt;報道によると、電話会議にはダリオ氏のほか、インドネシア政府系ファンド、ダナンタラのロサン・ルスラニＣＥＯや、側近数人も加わった。&lt;/p&gt;&lt;p&gt;フェルナンデス氏は電話会議で、ＭＳＣＩは必ずしもインドネシアの市場分類を引き下げる意向ではなく、基準を満たすために必要な措置について当局への助言を続けると述べたという。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/a5b554d5d6231e436894089aa81207783096ddd6</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>韓国大統領が内閣改造、外相・統一相・国家情報院長を指名</title>
+      <link>https://news.yahoo.co.jp/articles/74c46bc3890e8766ef2c5ae33e4a935e9166647f</link>
+      <guid isPermaLink="false">9312d1810fb5bedd799a9465</guid>
+      <pubDate>Mon, 23 Nov 2026 08:20:39 +0000</pubDate>
+      <description>[ソウル ２３日 ロイター] -</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;[ソウル ２３日 ロイター] - 韓国の李在明大統領は２３日、内閣改造人事を発表し国家情報院長、外相、統一相を指名した。米国との同盟関係の適切な運営を求める声が上がる中での指名となった。&lt;/p&gt;&lt;p&gt;国家情報院（ＮＩＳ）の院長には康錦実元法相を指名。就任すれば同国初の女性情報機関トップとなる。&lt;/p&gt;&lt;p&gt;外相には外交官で現在は国家安保室の任雄淳次長を、北朝鮮関係を担当する統一相には元国会議員の洪翼杓氏を指名した。&lt;/p&gt;&lt;p&gt;大統領府（青瓦台）の林光鉉秘書室長は、米国と北朝鮮に対する基本的政策方針に変更はないと述べた。&lt;/p&gt;&lt;p&gt;閣僚と国家情報院長の候補者は国会の人事聴聞会に出席する必要があるが、就任に当たって承認採決は必要ない。&lt;/p&gt;&lt;p&gt;康氏と任氏は、米国との安全保障関係の完全な修復に向けた取り組みを主導する見通し。知られていなかった北朝鮮の核施設の存在を韓国が明らかにしたことを受け、米政府は機密性の高い情報の共有を一部停止している。&lt;/p&gt;&lt;p&gt;康氏は盧武鉉大統領の下で２００３─０４年に韓国初の女性法相を務め、強大な権限を持つ検察の改革を主導した。&lt;/p&gt;&lt;p&gt;李大統領は、文化体育相と行政安全相も指名した。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/74c46bc3890e8766ef2c5ae33e4a935e9166647f</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>ＣＯＰ３１決裂で豪閣僚に辞任圧力、太平洋諸国は失望表明</title>
+      <link>https://news.yahoo.co.jp/articles/70e85325166b0ef4dfb84d21cd0a24bf80ec7d20</link>
+      <guid isPermaLink="false">59b102b9c8f68c7dc41235cf</guid>
+      <pubDate>Mon, 23 Nov 2026 06:59:55 +0000</pubDate>
+      <description>Praveen Menon　Lewis Jackson
+
+[シドニー／アンタルヤ（トルコ） ２３日 ロイター] - トルコで開催された国連気候変動枠組み条約第３１回締約国会議（ＣＯＰ３１）が合意文書を採択できないまま閉幕したことを受け、共同議長国を務めたオーストラリアでは２３日、交渉を主導した閣僚の辞任を求める声が上がった。一方、気候変動の脅威に最もさらされている太平洋の島しょ国は、各国が地球温暖化に共同で対処できなかったことに深い失望を表明した。
+
+ＣＯＰが合意を採択できなかったのは、２００９年にコペンハーゲンで開かれたＣＯＰ１５以来。サウジアラビアなど産油国の圧力により、最終合意案には地球温暖化における化石燃料の役割への言及が一切盛り込まれず、欧州連合（ＥＵ）などが受け入れを拒んだ。</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;Praveen Menon　Lewis Jackson&lt;/p&gt;&lt;p&gt;[シドニー／アンタルヤ（トルコ） ２３日 ロイター] - トルコで開催された国連気候変動枠組み条約第３１回締約国会議（ＣＯＰ３１）が合意文書を採択できないまま閉幕したことを受け、共同議長国を務めたオーストラリアでは２３日、交渉を主導した閣僚の辞任を求める声が上がった。一方、気候変動の脅威に最もさらされている太平洋の島しょ国は、各国が地球温暖化に共同で対処できなかったことに深い失望を表明した。&lt;/p&gt;&lt;p&gt;ＣＯＰが合意を採択できなかったのは、２００９年にコペンハーゲンで開かれたＣＯＰ１５以来。サウジアラビアなど産油国の圧力により、最終合意案には地球温暖化における化石燃料の役割への言及が一切盛り込まれず、欧州連合（ＥＵ）などが受け入れを拒んだ。&lt;/p&gt;&lt;p&gt;豪州の野党は、交渉議長を務めたボーウェン気候変動・エネルギー担当相に決裂の責任があると非難した。野党・自由党のテイラー党首は２３日、記者団に「エネルギー相は辞任すべきだ。完全かつ全面的な失敗だからだ」と述べた。&lt;/p&gt;&lt;p&gt;中国の代表団を率いた生態環境省の李高次官は、最終声明で合意に至らなかったことに失望を示し、対立によって「多くの途上国が望んでいた多くのことを取りこぼした」と述べた。&lt;/p&gt;&lt;p&gt;海面上昇など気候変動による存亡の危機に直面する太平洋の島しょ国の多くは深い失望を表明。マーシャル諸島の代表団は声明で「あらゆる方面から期待を裏切られた」とした。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/70e85325166b0ef4dfb84d21cd0a24bf80ec7d20</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>アジア株式市場サマリー：引け（23日）</title>
+      <link>https://news.yahoo.co.jp/articles/9861691943c79a2e19b1578e7a5279a3951fe4a9</link>
+      <guid isPermaLink="false">d8dfe63a3b34aa7640191fbb</guid>
+      <pubDate>Mon, 23 Nov 2026 06:32:09 +0000</pubDate>
+      <description>中国株式市場はほぼ横ばい、香港株は小幅安で引けた。中国株は一時１６カ月ぶりの安値に下落した。当局が信用取引の要件緩和に動いたが米国の新たな半導体規制や世界的な人工知能（ＡＩ）関連株売りの拡大で動揺する投資家の不安を和らげるには至らなかった。
+
+２０日の米株式市場の急落もリスクオフにつながった。米国の追加利上げ観測も、世界的な流動性の引き締まりへの懸念につながった。
+
+人民元は先週の荒い値動きを経て落ち着いたが、中国の社債市場は数週間にわたる混乱の後も圧力にさらされた。
+
+紫傑私募基金のファンドマネジャー、ワン・ヤーペイ氏は、週末に発表された信用取引の買い付け資金借り入れ要件の緩和などの市場支援策について、世界的な株安の中では「不十分だ」と指摘。「株式市場の低迷が人々の資産を目減りさせ、消費を抑えている」と述べた。
+
+上海総合指数とＣＳＩ３００指数は下げから回復し、ほぼ横ばいで取引を終えた。
+
+上海総合指数は午前の取引で１％超下落</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;中国株式市場はほぼ横ばい、香港株は小幅安で引けた。中国株は一時１６カ月ぶりの安値に下落した。当局が信用取引の要件緩和に動いたが米国の新たな半導体規制や世界的な人工知能（ＡＩ）関連株売りの拡大で動揺する投資家の不安を和らげるには至らなかった。&lt;/p&gt;&lt;p&gt;２０日の米株式市場の急落もリスクオフにつながった。米国の追加利上げ観測も、世界的な流動性の引き締まりへの懸念につながった。&lt;/p&gt;&lt;p&gt;人民元は先週の荒い値動きを経て落ち着いたが、中国の社債市場は数週間にわたる混乱の後も圧力にさらされた。&lt;/p&gt;&lt;p&gt;紫傑私募基金のファンドマネジャー、ワン・ヤーペイ氏は、週末に発表された信用取引の買い付け資金借り入れ要件の緩和などの市場支援策について、世界的な株安の中では「不十分だ」と指摘。「株式市場の低迷が人々の資産を目減りさせ、消費を抑えている」と述べた。&lt;/p&gt;&lt;p&gt;上海総合指数とＣＳＩ３００指数は下げから回復し、ほぼ横ばいで取引を終えた。&lt;/p&gt;&lt;p&gt;上海総合指数は午前の取引で１％超下落し、節目の３５００を割り込んで２０２５年７月上旬以来の安値を付けていた。&lt;/p&gt;&lt;p&gt;香港のハンセン指数は０．１％安。一時１９カ月ぶりの安値を付けた。&lt;/p&gt;&lt;p&gt;世界的な半導体株・ＡＩ関連株売りが深まる中、中国のＣＳＩ半導体指数は米株安に追随し、２％近く下落した。&lt;/p&gt;&lt;p&gt;相場への圧力をさらに強めたのが、トランプ米大統領の２０日の発言だ。同氏は、海外にデータセンターを建設する米企業に制裁を科すと表明した。&lt;/p&gt;&lt;p&gt;トリニティー・シナジー・インベストメンツのヘッジファンドマネジャー、ユアン・ユーウェイ氏は、トランプ氏の警告について「ＡＩ支出に厳しい目が向けられる中、投資家の信頼をさらに損なった」と述べた。&lt;/p&gt;&lt;p&gt;米国は最近、東南アジアの複数国への先端ＡＩ半導体の輸出制限など、中国が高性能の米国製半導体を入手できる抜け穴を塞ぐ措置を講じている。こうした動きも、計算能力の確保を急ぐ中国のＡＩ企業の株価を大きく押し下げた。&lt;/p&gt;&lt;p&gt;香港のハンセンテック指数は９営業日続落し２６カ月ぶりの安値を付けた。同指数には、クラウドサービスを提供するアリババやテンセント、ＡＩモデル開発のＺ・ＡＩやミニマックスなどが含まれる。&lt;/p&gt;&lt;p&gt;遠達信息証券研究所は、米国債利回りの上昇も中国と香港のハイテク株を押し下げたと指摘。「最近のハンセンテック指数の下落は、一部には米国への資金還流によるものだ」と述べた。&lt;/p&gt;&lt;p&gt;一方、深セン証券取引所の新興企業向け市場「創業板（チャイネクスト）」総合指数は、１８カ月ぶりの安値から４％近く反発した。同取引所が創業板にマーケットメーク制度を導入すると表明した後、政府系投資家による買いの兆候が見られた。&lt;/p&gt;&lt;p&gt;社債市場では、１０月下旬に市場の混乱を引き起こした国有不動産開発会社、華発集団の財務不安の兆候が、引き続き投資家を神経質にさせている。&lt;/p&gt;&lt;p&gt;中国の債券上場投資信託（ＥＴＦ）は、２３日も売り圧力にさらされた。&lt;/p&gt;&lt;p&gt;ソウル株式市場は３％超下落して引けた。政府が市場安定化資金を投入する方針を示したものの、人工知能（ＡＩ）関連投資への懸念や幅広いハイテク株売りへの不安を和らげるには至らなかった。&lt;/p&gt;&lt;p&gt;総合株価指数（ＫＯＳＰＩ）は前営業日終値比１６１．４２ポイント（３．３１％）安の４７０８．５４と、終値で１月１３日以来の安値で終了した。ウォンは上昇し、指標債券利回りは低下した。&lt;/p&gt;&lt;p&gt;当局は２２日、市場環境が悪化すれば直ちに市場安定化資金を投入すると表明。きょうは李炯日財政経済相が、必要に応じて株式市場を安定させる方針を改めて示した。ただ、具体策が示されず、市場の期待には届かなかった。&lt;/p&gt;&lt;p&gt;大統領府（青瓦台）の報道官は記者会見で「現在の株式市場の変動は、米株式市場とある程度連動している」と述べた。&lt;/p&gt;&lt;p&gt;半導体大手サムスン電子は３．０６％安、同業のＳＫハイニックスは２．５２％安。&lt;/p&gt;&lt;p&gt;電池メーカーのＬＧエナジー・ソリューションが２．６７％下落。現代自動車と傘下の起亜はそれぞれ２．９４％、２．０４％下落した。&lt;/p&gt;&lt;p&gt;韓国政府の政策発表に対する鈍い反応は、市場が国内のセンチメント改善策よりも、世界のハイテク株の先行きを引き続き懸念していることを示唆した。&lt;/p&gt;&lt;p&gt;この日の急落は、ＡＩ関連支出に対する米市場の見方の変化が、アジアのハイテク産業の供給網にいかに速く波及し得るかを浮き彫りにした。&lt;/p&gt;&lt;p&gt;売買された９０８銘柄のうち８２４銘柄が下落し、上昇は７１銘柄にとどまった。&lt;/p&gt;&lt;p&gt;海外投資家は２４７０億ウォン相当の株式を売り越した。&lt;/p&gt;&lt;p&gt;シドニー株式市場は下落して引けた。世界的な人工知能（ＡＩ）関連株売りや国内経済の問題を投資家が見極める中、大手銀行株が相場を押し下げた。&lt;/p&gt;&lt;p&gt;Ｓ＆Ｐ／ＡＳＸ２００指数は前営業日終値比０．３％安の８５７０．６０と終値で５月２０日以来の安値で終了。先週は５％超下落し、週間では４年余りで最大の下落率を記録していた。&lt;/p&gt;&lt;p&gt;金融株指数がこの日の下げを主導し、１．２％下落して１カ月超ぶりの安値を付けた。&lt;/p&gt;&lt;p&gt;ＡＩ関連株を中心とする売りが内需株にも広がった可能性がある。オーストラリア準備銀行（中央銀行）による今年に入って５回の利上げが、成長を一段と鈍化させると懸念されている。&lt;/p&gt;&lt;p&gt;バンテージ・マーケッツのシニアマーケットアナリスト、ヘベ・チェン氏は「売りの対象が鉱業株から銀行株に移っていることは、市場の問題が世界的なＡＩ関連の混乱を超えて広がっていることを示唆している。投資家は、高金利の負担と国内の成長鈍化への懸念を強めている」と述べた。&lt;/p&gt;&lt;p&gt;オーストラリア・コモンウェルス銀行は２．２％安、ＡＮＺは１．７％安。ウエストパック銀行とナショナル・オーストラリア銀行はそれぞれ１．９％、０．６％下落した。&lt;/p&gt;&lt;p&gt;先週１３％近く急落した鉱業株はは１．８％上昇。世界最大の鉱業会社ＢＨＰは２．２％上昇。同社は最大１７４億ドルを投じ、南オーストラリア州での銅生産量を２０４０年までに倍増させる計画を発表した。&lt;/p&gt;&lt;p&gt;終値 前日比 ％ 始値 高値 安値 コード&lt;/p&gt;&lt;p&gt;中国 上海総合指数 3538.9480 + 5.1551 + 0.15 3503.5227 3544.6005 3476.6502&lt;/p&gt;&lt;p&gt;前営業日終値 3533.7929&lt;/p&gt;&lt;p&gt;中国 ＣＳＩ３００指数 3958.294 +3.729 +0.09 3931.465 3968.448 3901.493&lt;/p&gt;&lt;p&gt;前営業日終値 3954.565&lt;/p&gt;&lt;p&gt;香港 ハンセン指数 22383.74 -27.06 -0.12 22168.19 22436.18 21998.05&lt;/p&gt;&lt;p&gt;前営業日終値 22410.80&lt;/p&gt;&lt;p&gt;香港 ハンセン中国株指数 7527.98 -26.39 -0.35 7472.52 7550.51 7406.35&lt;/p&gt;&lt;p&gt;前営業日終値 7554.37&lt;/p&gt;&lt;p&gt;韓国 総合株価指数 4708.54 -161.42 -3.31 4734.90 4759.88 4586.80&lt;/p&gt;&lt;p&gt;前営業日終値 4869.96&lt;/p&gt;&lt;p&gt;台湾 加権指数 36811.89 +778.60 +2.16 35899.48 37108.20 35442.41&lt;/p&gt;&lt;p&gt;前営業日終値 36033.29&lt;/p&gt;&lt;p&gt;豪 Ｓ＆Ｐ／ＡＳＸ指数 8570.60 -22.00 -0.26 8592.60 8608.10 8528.50&lt;/p&gt;&lt;p&gt;前営業日終値 8592.60&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/9861691943c79a2e19b1578e7a5279a3951fe4a9</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>中国、高齢者・育児支援強化へ2030年目標設定　少子高齢化対策</title>
+      <link>https://news.yahoo.co.jp/articles/a2e5db65bb4a3e8cbf66bb1feb37e77884df8be4</link>
+      <guid isPermaLink="false">846c63813f6e69027bee0e20</guid>
+      <pubDate>Mon, 23 Nov 2026 06:18:02 +0000</pubDate>
+      <description>[香港 ２３日 ロイター] -</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;[香港 ２３日 ロイター] - 中国政府は２３日、急速な高齢化と出生率の低下に対応するため、２０３０年までに高齢者介護施設と保育施設の充実を図る計画を公表した。&lt;/p&gt;&lt;p&gt;「高齢者介護と保育サービスの供給を国民のニーズにより適合させる」ため、インフラ投資とサービスの質向上をともに推進するとしている。国家発展改革委員会のウェブサイトに掲載された同計画は、民政、衛生、教育の各省が共同で指導する。&lt;/p&gt;&lt;p&gt;３０年までに高齢者施設のベッド総数に占める介護用ベッドの割合を７３％に引き上げ、地域の高齢者介護施設の整備率を７０％にするほか、老朽化した公営高齢者施設約２０００カ所も改修する。&lt;/p&gt;&lt;p&gt;保育の受け入れ能力を拡大するため、全ての地級市に保育サービスセンターを整備し、３歳未満の子どもの入所率を２５年比で６％ポイント引き上げることを目指す。&lt;/p&gt;&lt;p&gt;幼稚園が２─３歳児向けのクラスを設けるための改修や拡張も支援し、雇用主には自社の施設を活用した職場保育の提供を促す。事業には中央政府の予算資金、地方政府の特別債、商業融資を活用する。また、不正を防ぐため、高齢者施設の前払い料金に対する監督を強化する。&lt;/p&gt;&lt;p&gt;中国当局は近年、結婚や出産を促すため、家庭への補助金、育児支援、出産関連の医療費負担軽減など、さまざまな対策を打ち出してきたが、出生数は減少が続いている。&lt;/p&gt;&lt;p&gt;中国の人口は２５年に４年連続で減少し、出生率は過去最低となった。人口学者は２６年も同様の傾向が続くと警告している。&lt;/p&gt;&lt;p&gt;公式統計によると、２５年には中国の老年従属人口指数が初めて年少従属人口指数を上回った。労働人口が子どもよりも多くの高齢者を支えていることを意味する。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/a2e5db65bb4a3e8cbf66bb1feb37e77884df8be4</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>トランプ氏、ミームコイン保有者と夕食会　価格は最安値</title>
+      <link>https://news.yahoo.co.jp/articles/a9feaf54da56e4b6fa7b69894603b37712a69370</link>
+      <guid isPermaLink="false">b8e4a5554775b82b15181e52</guid>
+      <pubDate>Mon, 23 Nov 2026 05:49:51 +0000</pubDate>
+      <description>Michelle Conlin
+
+[ニューヨーク ２２日 ロイター] -</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;Michelle Conlin&lt;/p&gt;&lt;p&gt;[ニューヨーク ２２日 ロイター] - トランプ米大統領は２２日、自身のミームコイン「＄ＴＲＵＭＰ」の大口保有者を招いた夕食会で、暗号資産（仮想通貨）を支援するのは米国の経済競争力を高めるためだと述べた。同コインはトランプ氏に数億ドルの収入をもたらしている。&lt;/p&gt;&lt;p&gt;トランプ氏はワシントン郊外にある自身のゴルフクラブで、出席者に「私は米国のためにやっている。われわれがやらなければ、中国がやる」と語った。&lt;/p&gt;&lt;p&gt;トランプ氏が自身のミームコインの大口保有者を招いて夕食会を開くのは３回目。同コインは一時７５ドルまで急騰したが、足元では１ドルを割り込み、過去最安値に下落している。&lt;/p&gt;&lt;p&gt;出席者によると、今年の夕食会は２０２５年の初回に比べて控えめで、参加者は少なく、参加者のコイン保有額も大幅に減った。参加資格は９月３０日から１１月１６日までの＄ＴＲＵＭＰコインの時間加重保有額に基づいて決定された。&lt;/p&gt;&lt;p&gt;主催者によると、１８５の暗号資産ウォレットが２２日の夕食会の基準を満たした。ただ、参加資格を争うコンテストが１６日に終了した時点で、＄ＴＲＵＭＰコインクラブのウェブサイトに掲載されたランキングには１３０のウォレットしか記載されていなかった。&lt;/p&gt;&lt;p&gt;掲載されたウォレットの保有額は合計８６０万ドルにとどまり、富裕層の暗号資産投資家２２０人が参加した２５年５月の夕食会時の１億４８００万ドルとは比較にならないほど少なかった。&lt;/p&gt;&lt;p&gt;２５年５月の夕食会で＄ＴＲＵＭＰの保有額が最大だったのは、中国生まれの暗号資産長者ジャスティン・サン氏で、１８５０万ドル相当を保有していた。今回のイベントにサン氏の姿はなく、サインに応じる光景もなかった。&lt;/p&gt;&lt;p&gt;非営利消費者擁護団体パブリック・シチズンがロイター向けにまとめたブロックチェーンデータの分析によると、２２日の夕食会に向けたコンテストでランキングに公開されたデジタルウォレットの半数超は、米国居住者の利用を禁じている暗号資産取引所に直接ひも付いており、外国人に関連していることが示された。&lt;/p&gt;&lt;p&gt;トランプ一族の他の暗号資産関連株式や事業も、価値が過去最低に落ち込んでいる。ロイターの分析によると、一族の主要な５つの暗号資産・関連事業の外部投資家は、合計で５０億ドル超の損失を被った。&lt;/p&gt;&lt;p&gt;一方、大統領が６月に提出した資産公開資料によると、＄ＴＲＵＭＰはトランプ一族自身に少なくとも６億３５００万ドルの収入をもたらした。一族は４月までに、ミームコインを含む主要な４つの暗号資産事業から合計で少なくとも２３億ドルを得ていた。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/a9feaf54da56e4b6fa7b69894603b37712a69370</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>オープンＡＩは「安全性より成長優先」、提訴巡り加州司法長官</title>
+      <link>https://news.yahoo.co.jp/articles/32547cd917f84424b71375b2a36ebe29b58f5731</link>
+      <guid isPermaLink="false">05ececb03a06f82b960abdfa</guid>
+      <pubDate>Mon, 23 Nov 2026 05:13:10 +0000</pubDate>
+      <description>[２２日 ロイター] -</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;[２２日 ロイター] - 米カリフォルニア州のボンタ司法長官は２２日、同州がオープンＡＩを提訴したことについて、同社が「モデルの安全性を確保せず、公共の安全を危険にさらした」と主張した。&lt;/p&gt;&lt;p&gt;２２日に配信した週次のニュースレターで「オープンＡＩは安全性よりも成長とスピードを優先した。危険の兆候を無視し、モデルの安全性を確保しなかった」とし、今月１６日に起こした訴訟について、同社の責任を問うために提訴したと説明した。&lt;/p&gt;&lt;p&gt;オープンＡＩの人工知能（ＡＩ）モデルを巡っては、自律的にサイバー攻撃を実行したと報じられており、ボンタ氏は訴状で、同社が十分な安全対策や監督体制を整えずに危険な製品を開発したと主張した。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/32547cd917f84424b71375b2a36ebe29b58f5731</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>韓国、株式市場安定化へ必要なら対応　総合指数一時5％安</title>
+      <link>https://news.yahoo.co.jp/articles/c61cc3b5ef45c996d32077ca06d46404e2db9f6d</link>
+      <guid isPermaLink="false">d9ca807b1a5c0a6bb5db109a</guid>
+      <pubDate>Mon, 23 Nov 2026 04:37:47 +0000</pubDate>
+      <description>Yena Park　Cynthia Kim
+
+[世宗 ２３日 ロイター] -</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;Yena Park　Cynthia Kim&lt;/p&gt;&lt;p&gt;[世宗 ２３日 ロイター] - ２３日のソウル市場で総合株価指数（ＫＯＳＰＩ）が一時５％急落する中、韓国政府は必要に応じて株式市場の安定化措置を講じる方針を改めて示した。&lt;/p&gt;&lt;p&gt;政府は状況が悪化すれば直ちに市場安定化基金を投入すると表明したが、人工知能（ＡＩ）関連取引を巡る懸念やハイテク株全般の売りが引き続きＫＯＳＰＩの重しとなっている。&lt;/p&gt;&lt;p&gt;李炯日・財政経済相は記者会見で「外部の不確実性の影響が大きく、国内株式市場の変動が著しく拡大しているため、この問題に対応した。昨日伝えたメッセージは、市場の状況に応じて対策を発動するかどうかを判断するということだ」とし、「状況に即した必要な措置を適切な時期に実施できるよう準備している」と述べた。&lt;/p&gt;&lt;p&gt;ＫＯＳＰＩが先週、１０カ月ぶりの安値まで急落したことを受け、当局は２２日、状況が悪化すれば直ちに市場安定化基金を投入すると表明していた。&lt;/p&gt;&lt;p&gt;李氏は韓国経済が力強い成長の勢いを維持しており、現在の傾向が続けば３％台後半の成長を達成できる可能性があると述べた。&lt;/p&gt;&lt;p&gt;基本的な見通しは明るいものの、李氏はＡＩ産業を巡る規制の不確実性や地政学的な不安定さ、世界的な金利上昇を挙げ、対外リスクは依然として深刻だと警告した。半導体部門の変動が経済全体に波及し、景気の振れを増幅させる恐れがあると指摘した。&lt;/p&gt;&lt;p&gt;空売りに関する規則を見直す可能性について問われると、政府は一段の規制緩和よりも、違法な空売りの取り締まりや不公正取引の監視強化に重点を置く方針だと述べた。&lt;/p&gt;&lt;p&gt;韓国は市場の変動や違法取引を抑えるため、２０２３年終盤に空売りを全面的に禁止した。その後、違法な空売りを一元的に検知するシステムを導入し、１７カ月に及んだ禁止措置を２５年３月に解除した。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/c61cc3b5ef45c996d32077ca06d46404e2db9f6d</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>ＣＯＰ３１決裂、サウジが影響力　脱化石燃料「除外」で譲らず</title>
+      <link>https://news.yahoo.co.jp/articles/00043eb9f99a65fe1f78608b6d992764ce5d4cc9</link>
+      <guid isPermaLink="false">070facf97718b91e741a6d3b</guid>
+      <pubDate>Mon, 23 Nov 2026 04:37:33 +0000</pubDate>
+      <description>Valerie Volcovici　Sarah McFarlane
+
+［アンタルヤ（トルコ）　２３日　ロイター］ -</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;Valerie Volcovici　Sarah McFarlane&lt;/p&gt;&lt;p&gt;［アンタルヤ（トルコ）　２３日　ロイター］ - トルコのアンタルヤで開かれた国連気候変動枠組み条約第３１回締約国会議（ＣＯＰ３１）は、会期を延長したものの、合意文書を採択できず閉幕した。最大の争点の一つが「脱化石燃料」。そこで影響力をみせたのが石油輸出国機構（ＯＰＥＣ）の雄であるサウジアラビアだった。&lt;/p&gt;&lt;p&gt;「今回のＣＯＰは一部の産油国に乗っ取られたと思う」。今年下半期の欧州連合（ＥＵ）の議長国を務めるアイルランドのダラ・オブライエン環境相は、ロイターにこう語った。&lt;/p&gt;&lt;p&gt;共同議長国のトルコとオーストラリアが２２日に示した最終草案は、気候変動対策の国際枠組み「パリ協定」が目指す産業革命前からの世界の気温上昇を１．５度に抑えるとの目標を超える軌道にあることを、初めて認めた上で、上限を超えた分を最終的に元に戻すため、二酸化炭素（ＣＯ２）除去技術の開発を急ぐよう求めた。焦点となっていた気候変動の原因とされる化石燃料からの脱却には直接には触れず、その代わり、脱却を進めるとした過去の合意文書に言及した。&lt;/p&gt;&lt;p&gt;ＥＵや複数の小島しょ国、気候変動の影響を特に受けやすいその他の国々は、石油、ガス、石炭に触れない文書は受け入れられないと表明。議長を務めるトルコのムラト・クルム環境・都市計画・気候変動相は、「もう打つ手はない」と採択を断念した。&lt;/p&gt;&lt;p&gt;＜米中の仲介なく「漂流」＞&lt;/p&gt;&lt;p&gt;交渉官らによると、化石燃料への依存を減らす文言に最も強く抵抗したのはサウジだった。サウジをはじめとするＯＰＥＣの加盟国は、化石燃料は当面、世界のエネルギーミックスの一部であり続ける必要があると主張し、化石燃料を標的にする気候関連の文言に長年反対してきた。&lt;/p&gt;&lt;p&gt;それでも２１年のグラスゴー会議（ＣＯＰ２６）と２３年のドバイ会議（ＣＯＰ２８）では脱化石燃料に言及していた。&lt;/p&gt;&lt;p&gt;議長国トルコは声明で、どのグループや国にも「優遇措置」は与えていないと説明した。&lt;/p&gt;&lt;p&gt;それでも今回はサウジの立場が強まったと交渉担当者らは指摘する。米国が積極的に関与せず、過去のＣＯＰで妥協の仲介に役立ってきた米中の緊密な連携もなかったためだという。&lt;/p&gt;&lt;p&gt;シンガポールのグレース・フー環境相は「１つか２つの主要プレーヤーが議論の枠組みづくりを助けるという形がなくなり、その枠組みがあいまいになった」と述べた。&lt;/p&gt;&lt;p&gt;＜当初から低い期待＞&lt;/p&gt;&lt;p&gt;ＣＯＰ３１は、もともと期待が低い中で始まった。開催国トルコは世界的な電化を推進する誓約を後押しし、過去の気候合意の履行を重視すると約束していた。&lt;/p&gt;&lt;p&gt;しかし、トルコの議長国が全体決定（カバー決定）の改訂草案を公表し、化石燃料への言及を一切削除したことで対立が深まった。&lt;/p&gt;&lt;p&gt;会議２週目、各国は幅広い選択肢を巡って意見をまとめようとしたが、その間もサウジは、文書で化石燃料に触れてはならず、化石燃料の排出を減らせる炭素回収技術を推進する文言は入れるべきだ、という立場を崩さなかったと、代表団やオブザーバーは語る。&lt;/p&gt;&lt;p&gt;ＥＵも立場を硬化させた。&lt;/p&gt;&lt;p&gt;ＥＵのウォプケ・フックストラ欧州委員（気候行動担当）は２１日、交渉の状況を問われ、「良い合意になるか、合意なしになるかのどちらかだ」と述べた。&lt;/p&gt;&lt;p&gt;ドイツは、小島しょ国や「高野心連合」の他のメンバーを集めて会合を開いた。高野心連合には、気候変動に脆弱な国やアフリカ諸国、シンガポール、カナダなどの先進国が参加している。同連合は、合意には必ず化石燃料からの移行への言及を含めるよう求める書簡を作成。書簡は約１３０カ国の支持を得て、議長国に送られた。&lt;/p&gt;&lt;p&gt;同じ頃、２１日から２２日に日付が変わる時間帯には、サウジ、中国、ロシアの当局者が議長国の事務所を頻繁に訪れていた。他のグループの代表は面会の機会を得るのに苦労していたと代表団はロイターに語った。&lt;/p&gt;&lt;p&gt;＜２２日の文書案に怒りの声＞&lt;/p&gt;&lt;p&gt;最終的な改訂文書が２２日未明にようやく示されると、多くの国が強く反発した。文書は高野心連合の書簡をほぼ無視していた。&lt;/p&gt;&lt;p&gt;ツバルのマイナ・タリア気候変動相は当時、「まるでサウジと交渉しているようだ」と述べた。&lt;/p&gt;&lt;p&gt;２２日も時間が過ぎるにつれ、政治声明を出せないまま交渉が決裂する可能性を、交渉官らは公然と話すようになった。代表団は飛行機に乗るため次々とアンタルヤを離れ、残り時間はなくなりつつあった。&lt;/p&gt;&lt;p&gt;２２日午後、閉会の全体会合が始まると、クルム議長は、合意がないことは明らかだと述べ、新しい文書は出さないと明言した。&lt;/p&gt;&lt;p&gt;一部の交渉官には、低炭素社会への移行を急ぎたい国々よりも、気候変動の一因となってきた化石燃料の生産国の方が大きな力を持っていた、との思いが残った。&lt;/p&gt;&lt;p&gt;デンマークのサミラ・ナワ気候相は、全体決定で化石燃料に言及できなかったことについて「どういうわけか今回のＣＯＰでは産油国の声の方が大きかった」と語った。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/00043eb9f99a65fe1f78608b6d992764ce5d4cc9</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>ＮＢＡ＝ヒートがサンダー下し7連勝、アデバヨがトリプルダブル</title>
+      <link>https://news.yahoo.co.jp/articles/0e721c175553995c0e5a1ffbf4fcead69af70370</link>
+      <guid isPermaLink="false">c61a8279ac34df53ae53700f</guid>
+      <pubDate>Mon, 23 Nov 2026 03:27:31 +0000</pubDate>
+      <description>［２２日　ロイター］ -</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;［２２日　ロイター］ - 米プロバスケットボール協会（ＮＢＡ）は２２日、各地で試合を行い、ヒートはサンダーを１２３─１１３で下し、７連勝を記録した。&lt;/p&gt;&lt;p&gt;ヒートはヤニス・アデトクンボを負傷で欠いたものの、バム・アデバヨが２４得点、１５リバウンド、１２アシストのトリプルダブルに、２ブロック、２スチールと躍動した。サンダーはシェイ・ギルジャス・アレクサンダーが今季初めて負傷欠場。チーム最多得点者は２１得点を挙げたベネット・スターツだった。&lt;/p&gt;&lt;p&gt;ナゲッツは延長戦の末にブルズを１５１─１４５で下した。ジャマール・マレーが両チーム最多となる４５得点をマーク。ニコラ・ヨキッチは３７得点、１８リバウンド、１１アシストのトリプルダブルで存在感を示した。&lt;/p&gt;&lt;p&gt;マーベリックスはジャズに１１６─１１４で競り勝った。クーパー・フラッグがチーム最多の２８得点を記録。第４クオーターで４０得点を挙げて猛追したジャズは、チームのターンオーバー数が２３回を数えるなどミスが響いた。そのほか、ウィザーズはマジックに１１６─９６で快勝した。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/0e721c175553995c0e5a1ffbf4fcead69af70370</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>原油先物下落、中東情勢が下支え</title>
+      <link>https://news.yahoo.co.jp/articles/fbbfc482009c6e681b511ace82ff91a4a511b697</link>
+      <guid isPermaLink="false">a2e99df92547aa3c0d1a9862</guid>
+      <pubDate>Mon, 23 Nov 2026 02:58:51 +0000</pubDate>
+      <description>Helen Clark
+
+［パース　２３日　ロイター］ -</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;Helen Clark&lt;/p&gt;&lt;p&gt;［パース　２３日　ロイター］ - 原油先物相場はアジア時間に下落。人工知能（ＡＩ）相場の巻き戻しが商品市場に波及した。ただ、湾岸で船舶への攻撃が続いていることが下値を支えた。&lt;/p&gt;&lt;p&gt;０２１６ＧＭＴ（日本時間午前１１時１６分）時点で、北海ブレント先物は０．２８ドル（０．３０％）安の１バレル＝９２．２９ドル。米ＷＴＩ先物は０．１５ドル（０．１８％）安の８３．２６ドルだった。&lt;/p&gt;&lt;p&gt;先週はブレントが４％、ＷＴＩが５％下落した。&lt;/p&gt;&lt;p&gt;親イラン武装組織フーシ派は２２日、サウジアラビアの製油所を攻撃したと主張。週末には湾岸やホルムズ海峡付近で船舶への複数の攻撃が報告された。&lt;/p&gt;&lt;p&gt;トルコで開かれていた国連気候変動枠組み条約第３１回締約国会議（ＣＯＰ３１）は２２日、最終文書案の化石燃料に関する文言で対立し、２００９年以来初めて交渉が決裂した。サウジアラビアなど主要産油国は、化石燃料は予見可能な将来にわたって経済で役割を果たすと主張し、文書から化石燃料への言及を一切排除するよう働きかけたという。&lt;/p&gt;&lt;p&gt;石油輸出国機構（ＯＰＥＣ）とロシアなど非加盟産油国で構成する「ＯＰＥＣプラス」の閣僚は、来年の生産方針を決めるため、１１月２９日に一連の会合を開く。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/fbbfc482009c6e681b511ace82ff91a4a511b697</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>エヌビディア前ＣＥＯ不倫相手、中国情報機関と接触＝ＮＹＴ</title>
+      <link>https://news.yahoo.co.jp/articles/d47e710b96becd9477632ed29c4e73a7a029d668</link>
+      <guid isPermaLink="false">dcffe342e8b8fdc6ba7e7e08</guid>
+      <pubDate>Mon, 23 Nov 2026 02:58:50 +0000</pubDate>
+      <description>[ワシントン ２２日 ロイター] -</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;[ワシントン ２２日 ロイター] - 米半導体大手エヌビディアを巡るスキャンダルの中心人物である中国人女性アリス・フアン氏が、ジェンスン・フアン前最高経営責任者（ＣＥＯ）と不倫関係にあった期間中、中国情報機関の当局者と１年以上にわたり接触していたと、米紙ニューヨーク・タイムズ（ＮＹＴ）が２２日報じた。&lt;/p&gt;&lt;p&gt;接触について記した情報機関の報告書について知る関係者の話として同紙が伝えたところによると、アリス・フアン氏は２０２５年春から２６年秋まで中国国家安全省の職員と連絡を取り合っていた。&lt;/p&gt;&lt;p&gt;エヌビディア、ジェンスン・フアン氏、在ワシントン中国大使館の報道担当者はコメント要請に返答していない。アリス・フアン氏には連絡が取れていない。&lt;/p&gt;&lt;p&gt;アリス・フアン氏はシンガポールを拠点とするメガスピード・インターナショナルの元幹部。同社はエヌビディアの主要顧客で、一時は同社製半導体の売上高のうち数十億ドルを占めていた。&lt;/p&gt;&lt;p&gt;米当局は、メガスピードがエヌビディアの先端人工知能（ＡＩ）半導体を中国に密輸した疑いがあるとして、２４年から捜査している。&lt;/p&gt;&lt;p&gt;ＮＹＴは１０月、アリス・フアン氏が中国のスパイだったと報じたが、トランプ政権の当局者は同氏が中国のために活動していたとの結論には至っていないと繰り返し説明している。&lt;/p&gt;&lt;p&gt;ブランチ米司法長官は今月、アリス・フアン氏が中国のスパイだったかどうかについて、司法省はまだ結論に至っていないと述べた。&lt;/p&gt;&lt;p&gt;クレイトン米国家情報長官も２２日、同様の見解を示した。ＣＮＮの番組で「ブランチ司法長官はアリス・フアン氏と同氏の会社の双方について、さまざまな事柄に関して調査中の案件だと極めて明確に説明している」とし、「捜査の行方を見守る」と語った。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/d47e710b96becd9477632ed29c4e73a7a029d668</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
+    <item>
+      <title>「ＡＵＫＵＳで米原潜減少」、米議会予算局の指摘に豪国防相反論</title>
+      <link>https://news.yahoo.co.jp/articles/7c4bad8af27831526d02ec2994cfba154fbc33bd</link>
+      <guid isPermaLink="false">a41a0a9707ac779db05f1b93</guid>
+      <pubDate>Mon, 23 Nov 2026 02:36:48 +0000</pubDate>
+      <description>［シドニー　２２日　ロイター］ -</description>
+      <dc:creator>ロイター</dc:creator>
+      <content:encoded>&lt;p&gt;［シドニー　２２日　ロイター］ - オーストラリアのマールズ国防相は２２日、米英豪の安全保障枠組み「ＡＵＫＵＳ（オーカス）」によって米海軍が使える攻撃型潜水艦の数が減るとした米議会予算局（ＣＢＯ）の指摘に反論した。&lt;/p&gt;&lt;p&gt;ＡＵＫＵＳは、インド太平洋地域で影響力を強める中国に対抗する取り組みの一環で２０２１年に発足した。中国は、ＡＵＫＵＳが地域の軍拡競争を招きかねないと批判している。&lt;/p&gt;&lt;p&gt;ＣＢＯは１１月に公表した報告書で、豪州にバージニア級潜水艦を売却すると、米海軍の攻撃型潜水艦戦力の規模が２０６０年にかけて縮小する可能性があると指摘した。&lt;/p&gt;&lt;p&gt;マールズ氏はＣＢＯの報告書について「彼らは間違っている」と述べた。「ＡＵＫＵＳは確実に進んでいる」ことと「米国の生産ペースは間違いなく上がっている」ことを挙げ、報告書は気にしていないと国内テレビに語った。&lt;/p&gt;&lt;p&gt;ＡＵＫＵＳの計画では、２７年から米軍が指揮するバージニア級潜水艦を豪州に配備する。３０年ごろからはバージニア級潜水艦数隻を豪州に売却する。さらに、英国と豪州が新型の「ＡＵＫＵＳ級」原子力潜水艦を建造する。&lt;/p&gt;&lt;p&gt;豪政府はＡＵＫＵＳに３０年間で３６８０億豪ドル（２４３０億米ドル）を投じる方針だ。この中には、英米の生産拠点への数十億ドル規模の投資も含まれる。&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
+      <wire:platform>Yahoo!ニュース日本</wire:platform>
+      <wire:relation>repost</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>1.0</wire:confidence>
+      <wire:summarySource>extractive lead</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/7c4bad8af27831526d02ec2994cfba154fbc33bd</wire:canonicalUrl>
+      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
+    </item>
     <item>
       <title>トルコ、ロヒンギャ再定住巡るマレーシア発表を否定</title>
       <link>https://news.yahoo.co.jp/articles/af62e74ca79a658672b25231b21c61ee2f65bc27</link>
@@ -686,337 +1035,6 @@
       <wire:summarySource>extractive lead</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
       <wire:canonicalUrl>https://news.yahoo.co.jp/articles/c7bc632c963dea6fb7b6380be7d7eecdb520fa8e</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>サッカー＝坂元が強烈ミドルで今季2点目、コベントリーがパレス下す</title>
-      <link>https://news.yahoo.co.jp/articles/676d5c6b3d4470fe24b4a81d208dd870460d9571</link>
-      <guid isPermaLink="false">436bfc3570496e7de9d6f8dc</guid>
-      <pubDate>Sun, 22 Nov 2026 02:39:55 +0000</pubDate>
-      <description>［マンチェスター（英国）　２１日　ロイター］ -</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;［マンチェスター（英国）　２１日　ロイター］ - サッカーのイングランド・プレミアリーグは２１日、各地で試合を行い、坂元達裕がフル出場したコベントリーが鎌田大地フル出場のクリスタルパレスに３─２で競り勝った。&lt;/p&gt;&lt;p&gt;コベントリーは１─１と追い付かれて迎えた前半３０分、ペナルティーエリアの外でボールを受けた坂元が胸トラップから左足で強烈なミドルシュートをたたき込み、リーグ戦今季２ゴール目。チームは同アディショナルタイムに再び同点とされたが、最後は相手のオウンゴールで勝利を収めた。&lt;/p&gt;&lt;p&gt;最下位のクリスタルパレスはこれで今季８敗目。トーマス・フランク監督の初陣を白星で飾ることができなかった。クリスタルパレスの冨安健洋はベンチ外。&lt;/p&gt;&lt;p&gt;田中碧が先発したリーズはチェルシーを４─１で撃破。前半２５分に先制されたが、ノア・オカフォーの２ゴールなどで逆転勝利を収めた。チェルシーはリーグ戦直近４試合で３敗目となった。田中は後半４１分までプレーした。&lt;/p&gt;&lt;p&gt;ＧＫ鈴木彩艶がフル出場したアストンビラはサンダーランドとスコアレスドローに終わった。前田大然が先発し後半１１分までプレーしたイプスウィッチは、トットナムに０─２で完敗した。&lt;/p&gt;&lt;p&gt;アーセナルはニューカッスルと２─２の引き分けに終わり、勝ち点を積み上げるチャンスを逸した。マンチェスター・シティーはフラムと１─１のドローで試合を終え、リーグ戦４連敗を免れた。&lt;/p&gt;&lt;p&gt;１１試合消化時点で首位アーセナルは勝ち点２８。リーズは同１７として６位に浮上した。コベントリーは同１２で１３位となった。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/676d5c6b3d4470fe24b4a81d208dd870460d9571</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>フィギュア＝フィンランディア杯、男子の友野は3位　セレブコ初優勝</title>
-      <link>https://news.yahoo.co.jp/articles/1820876ae15f83392304cf9a7fde785831eadea2</link>
-      <guid isPermaLink="false">c5bffffb629e787ef89d4696</guid>
-      <pubDate>Sun, 22 Nov 2026 02:36:24 +0000</pubDate>
-      <description>［２１日　ロイター］ -</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;［２１日　ロイター］ - フィギュアスケートのグランプリ（ＧＰ）シリーズ第５戦、フィンランディア杯は２１日、フィンランドのヘルシンキで競技を行い、男子では友野一希が合計２３７．７５点で３位に入った。&lt;/p&gt;&lt;p&gt;前日のショートプログラム（ＳＰ）で５位だった友野は、この日に行われたフリーでは４位だった。&lt;/p&gt;&lt;p&gt;ミハイル・セレブコ（エストニア）がＳＰに続き、フリーでも１位となり、合計２５４．９９点でＧＰ初優勝を達成。ファイナル進出を決めた。アンドレアス・ノルデバック（スウェーデン）がＳＰ同様、フリーでも３位となり、合計２４０．９４点の２位だった。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/1820876ae15f83392304cf9a7fde785831eadea2</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>メキシコ、麻薬組織の首領を拘束　米当局が協力</title>
-      <link>https://news.yahoo.co.jp/articles/112b9bae6a248035d09298bf2d643b8d3c590a9e</link>
-      <guid isPermaLink="false">7c5a672d406b09c89c67ddd0</guid>
-      <pubDate>Sun, 22 Nov 2026 02:35:15 +0000</pubDate>
-      <description>Sarah Kinosian
-
-[メキシコ市 ２１日 ロイター] -</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;Sarah Kinosian&lt;/p&gt;&lt;p&gt;[メキシコ市 ２１日 ロイター] - メキシコ当局は２１日、軍が２０日夜に麻薬組織の首領ファウスト・イシドロ・メサフロレス容疑者（通称エル・チャポ・イシドロ）を北西部シナロア州で拘束したと発表した。容疑者は米連邦捜査局（ＦＢＩ）の最重要指名手配者１０人の一人。&lt;/p&gt;&lt;p&gt;メキシコ国防省はＸへの投稿で、軍の特殊部隊と国家警備隊による拘束作戦には米国の情報機関も協力したと明らかにした。メキシコ政府はトランプ米政権の圧力を受け、麻薬組織の取り締まりを強化している。&lt;/p&gt;&lt;p&gt;米国務省によると、メサフロレス容疑者とその麻薬組織「ベルトラン・レイバ」は２０年以上にわたり、ヘロイン、メタンフェタミン、コカイン、マリフアナ（大麻）を米国へ大量に密輸してきた。内部抗争が起きている別の麻薬組織「シナロア・カルテル」の派閥の一つと協力関係にあるという。&lt;/p&gt;&lt;p&gt;米国土安全保障捜査局（ＨＳＩ）はＸで、この作戦が「メキシコで最も強力なカルテルネットワークの一つに重大な打撃を与えた」と投稿。米北方軍もメキシコ軍を称えた。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/112b9bae6a248035d09298bf2d643b8d3c590a9e</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>ゴルフ＝ＣＭＥツアー選手権、吉田が首位と1打差の2位に浮上</title>
-      <link>https://news.yahoo.co.jp/articles/226ee3fcd858af7a1817fcab9ee4e14b40b269f1</link>
-      <guid isPermaLink="false">92d55e10b3213743eb797f6c</guid>
-      <pubDate>Sun, 22 Nov 2026 00:30:55 +0000</pubDate>
-      <description>［２１日　ロイター］ -</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;［２１日　ロイター］ - 米女子ゴルフの今季最終戦、ＣＭＥツアー選手権は２１日、フロリダ州ネープルズのティブロンＧＣ（パー７２）で第３ラウンドを行い、吉田優利が２位に浮上した。&lt;/p&gt;&lt;p&gt;３位でスタートした吉田は６バーディー、ノーボギーの６６をマーク。通算１７アンダーの１９９に伸ばし、単独首位の金阿林（韓国）とは１打差につけた。&lt;/p&gt;&lt;p&gt;岩井明愛は５バーディー、ノーボギーの６７でラウンドし、通算１５アンダーの６位に浮上。山下美夢有も６７で回り、通算１４アンダーの７位に順位を上げた。&lt;/p&gt;&lt;p&gt;竹田麗央は通算１２アンダーの１５位。西郷真央と古江彩佳は通算８アンダーの２６位。西村優菜は通算６アンダーの３３位。岩井千怜と勝みなみは３７位、原英莉花と畑岡奈紗は４４位となった。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/226ee3fcd858af7a1817fcab9ee4e14b40b269f1</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>Ｆ１＝ラスベガスＧＰ予選、フェルスタッペンがＰＰ獲得</title>
-      <link>https://news.yahoo.co.jp/articles/837092739af43333c5b77f1b5702f06b9684dc58</link>
-      <guid isPermaLink="false">949b9d2a4c3c0df3a21785ef</guid>
-      <pubDate>Sun, 22 Nov 2026 00:28:08 +0000</pubDate>
-      <description>［ラスベガス　２０日　ロイター］ -</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;［ラスベガス　２０日　ロイター］ - 自動車レースＦ１の第２１戦、ラスベガス・グランプリ（ＧＰ）は２０日、予選を行い、マックス・フェルスタッペン（オランダ、レッドブル）がポールポジション（ＰＰ）を獲得した。&lt;/p&gt;&lt;p&gt;総合優勝４回を誇るフェルスタッペンのＰＰ獲得は今季３回目で、キャリア通算５１回目。&lt;/p&gt;&lt;p&gt;すでに史上最年少での総合優勝を決めているキミ・アントネッリ（イタリア、メルセデス）が最速タイムを計測したが、エンジン関連のペナルティーで５グリッド降格し、決勝では６番手からスタートする。&lt;/p&gt;&lt;p&gt;これを受けて、２番手のフェルスタッペン、３番手のジョージ・ラッセル（英国、メルセデス）、４番手のランド・ノリス（英国、マクラーレン）、５番手のアイザック・ハジャー（フランス、レッドブル）、６番手のアービッド・リンドブラッド（英国、レーシングブルズ）がそれぞれ１つずつ繰り上がる。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/837092739af43333c5b77f1b5702f06b9684dc58</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>フィギュア＝フィンランディア杯、女子の島田2連勝でファイナル進出</title>
-      <link>https://news.yahoo.co.jp/articles/3b22c248556af0abc5bc3c339e40239ac19d2d60</link>
-      <guid isPermaLink="false">12720b8ee09e69ca12702962</guid>
-      <pubDate>Sun, 22 Nov 2026 00:23:40 +0000</pubDate>
-      <description>［２１日　ロイター］ -</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;［２１日　ロイター］ - フィギュアスケートのグランプリ（ＧＰ）シリーズ第５戦、フィンランディア杯は２１日、フィンランドのヘルシンキで競技を行い、女子では島田麻央が第２戦のスケートカナダに続く２連勝を達成。シリーズ上位６人で争われるＧＰファイナル（中国・重慶で１２月１０─１２日に開催）初進出を決めた。&lt;/p&gt;&lt;p&gt;ショートプログラム（ＳＰ）首位の島田は、この日のフリーでは冒頭のトリプルアクセル（３回転半ジャンプ）に成功。さらにステップやスピンで最高難度のレベル４を獲得するなどし、合計２２９．４９点をマークした。&lt;/p&gt;&lt;p&gt;日本選手によるＧＰデビューからの２連勝は２０１８年の紀平梨花以来で、２人目となった。今季ＧＰシリーズでは日本勢が５戦全勝。第１戦と第４戦では中井亜美、第３戦では千葉百音が優勝した。&lt;/p&gt;&lt;p&gt;ニーナ・ペトロキナ（エストニア）が合計２１４．０６点で２位、イザボー・レビト（米国）が合計２０７．１９点で３位に入った。住吉りをんは７位、渡辺倫果は１０位に終わった。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/3b22c248556af0abc5bc3c339e40239ac19d2d60</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>イラン、バーレーンの工業施設攻撃、2人負傷　「米軍施設標的」と革命防衛隊</title>
-      <link>https://news.yahoo.co.jp/articles/1bd8ee8ba0cb91a552ed5aa7e587335ac390dab2</link>
-      <guid isPermaLink="false">f23416674a515efcebd6024a</guid>
-      <pubDate>Sat, 21 Nov 2026 21:27:00 +0000</pubDate>
-      <description>［２２日　ロイター］ -</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;［２２日　ロイター］ - バーレーンは２１日、民間の工業施設がイランの攻撃を受け火災が発生したと発表した。イランの精鋭部隊、イスラム革命防衛隊は、バーレーン国内の米軍陣地に対しミサイルと無人機による攻撃を実施したと表明した。&lt;/p&gt;&lt;p&gt;バーレーンには米海軍第５艦隊が拠点があり、ここ１週間、イランの攻撃を複数回受けている。&lt;/p&gt;&lt;p&gt;バーレーン内務省は２２日、前日のイランによる攻撃で２人が負傷したと明らかにした。パキスタン人が重体でバーレーン市民は容体は安定していると説明した。&lt;/p&gt;&lt;p&gt;同省は２１日、具体的内容には触れず、潜在的な脅威があるとして住民に避難を呼びかける警報を発令。警報はいったん解除されたが、再び出された。&lt;/p&gt;&lt;p&gt;その後、バーレーン国防軍は、防空部隊がイランによる複数の空中攻撃を迎撃したと発表した。迎撃による破片で物的被害が出たものの、死傷者の報告はないとした。国防軍は、イラン政府がバーレーンに対する「組織的な敵対的アプローチ」を続けていると指摘した。&lt;/p&gt;&lt;p&gt;一方、イランの革命防衛隊は国営イラン通信（ＩＲＮＡ）が伝えた声明で、「継続的な侵略とイラン領空への度重なる侵犯に対する報復」として、リファー基地およびアワリ基地の米軍施設に対し、宇宙航空部隊がミサイルと無人機による複合攻撃を実施したと発表した。&lt;/p&gt;&lt;p&gt;米中央軍は、革命防衛隊の説明に関するロイターのコメント要請に回答していない。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/1bd8ee8ba0cb91a552ed5aa7e587335ac390dab2</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>ロシア貨物船に無人機攻撃、ウクライナ関与か　フィンランド領海で火災</title>
-      <link>https://news.yahoo.co.jp/articles/0a68730612c66ec8395a52404e6fb277482f7f82</link>
-      <guid isPermaLink="false">be1ee261e5828b300767e5b9</guid>
-      <pubDate>Sat, 21 Nov 2026 21:24:56 +0000</pubDate>
-      <description>Essi Lehto
-
-［ヘルシンキ　２２日　ロイター］ -</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;Essi Lehto&lt;/p&gt;&lt;p&gt;［ヘルシンキ　２２日　ロイター］ - ロシア軍と関係のあるロシアの貨物船が２１日、バルト海で無人機（ドローン）による攻撃を受けて火災を起こした。フィンランド沿岸警備隊は２２日、消火活動が行われているものの夜間を通じて燃え続けていると発表した。フィンランド軍は、攻撃はウクライナが実行した可能性が高いとの見解を示している。&lt;/p&gt;&lt;p&gt;貨物船は「スパルタ２」。ＬＳＥＧのデータによると、ロシア国防省向けに物流サービスを提供しているロシアの海運会社オボロンロジスティカが所有する。米国の制裁対象になっている。&lt;/p&gt;&lt;p&gt;フィンランド軍によると、スパルタ２はロシア領ゴーグラント島の西の公海上で攻撃を受けて損傷し、フィンランド領海内に漂流した。現在も領海内でいかりを下ろしている。乗組員１６人は近くにいたロシア船に避難した。&lt;/p&gt;&lt;p&gt;ウクライナは今年に入り、ロシア北西部レニングラード州に向けて軍用無人機による波状攻撃を繰り返している。一部の無人機はバルト海地域の領空に入り込み、戦争が北大西洋条約機構（ＮＡＴＯ）の領域に影響を及ぼしているとの懸念が出ている。&lt;/p&gt;&lt;p&gt;オルポ首相はＸに「戦争が近隣地域に波及しつつある。フィンランド当局は、無人機攻撃でロシアの商船が被弾したフィンランド湾の状況に対応している。ウクライナには侵略者と戦う権利がある」と投稿した。&lt;/p&gt;&lt;p&gt;エストニアのミハル首相はＸに「ロシアの侵略と戦うことの影響がバルト海に及んだ。侵略者に（侵略を）やめるよう求める新たなシグナルだ。だが、われわれのウクライナ支援を止めるものは何もない」と投稿した。&lt;/p&gt;&lt;p&gt;エストニア海軍司令官のイボ・バルク氏は２２日、フィンランド湾でさらなる攻撃が行われるリスクは排除できないと公共放送ＥＲＲに語った。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/0a68730612c66ec8395a52404e6fb277482f7f82</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>ＡＢＢロボット事業、ソフトバンクＧへの売却頓挫なら上場も　中国阻止で</title>
-      <link>https://news.yahoo.co.jp/articles/b909df2648a0d34f19c7a01b9889faf715188447</link>
-      <guid isPermaLink="false">a97cff01d5210084b39aac79</guid>
-      <pubDate>Sat, 21 Nov 2026 09:40:36 +0000</pubDate>
-      <description>Anousha Sakoui　Oliver Hirt　John Revill
-
-［ロンドン／チューリッヒ　２０日　ロイター］ -</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;Anousha Sakoui　Oliver Hirt　John Revill&lt;/p&gt;&lt;p&gt;［ロンドン／チューリッヒ　２０日　ロイター］ - スイスの重電大手ＡＢＢが、ソフトバンクグループ（ＳＢＧ）に売却する予定のロボット事業について、中国が売却計画を阻止したことを受け、計画が白紙になった場合に上場させることを検討していることが分かった。事情に詳しい関係者２人が明らかにした。&lt;/p&gt;&lt;p&gt;中国当局の阻止は、ＳＢＧと欧米企業との関係や、機密データが米国に移転されるリスクを懸念したためとされる。ＳＢＧはオープンＡＩの主要投資家となっている。&lt;/p&gt;&lt;p&gt;関係者によると、ＡＢＢとＳＢＧは計画の修正に取り組んでおり、ロボット事業の約３０％を占める中国事業を切り離し、中国企業に売却するか上場させる案が出ている。それがうまくいかなければ、ＡＢＢはロボット事業をスピンオフ（分離・独立）するか、別の相手に売却することを視野に置いている。&lt;/p&gt;&lt;p&gt;ただ、両社は取引の成立を最優先に考えているという。今後数週間で打開策を見出したいと考えているが、協議は２０２７年にずれ込む可能性もあると関係者は話した。&lt;/p&gt;&lt;p&gt;関係者の１人によると、ＳＢＧは違約金を負う可能性がある。違約金の条件は開示されていない。&lt;/p&gt;&lt;p&gt;ＡＢＢとＳＢＧはコメントを控えた。&lt;/p&gt;&lt;p&gt;中国政府は、ＡＩ開発の主導権を巡る米国との競争が激しくなる中、最先端技術が絡む買収案件を厳格に審査している。４月には米メタが、ＡＩスタートアップのＭａｎｕｓ（マナス）買収の撤回を命じられた。&lt;/p&gt;&lt;p&gt;ＡＢＢは中国の１３０近い都市で約３０の現地法人を運営し、従業員は１万５０００人に上る。同社のウェブサイトによると、ＡＢＢエンジニアリング（上海）にはロボット事業のグローバル本部が置かれ、重要な研究開発・生産拠点になっている。&lt;/p&gt;&lt;p&gt;ＳＢＧは１０月初旬にＡＢＢのロボット事業買収を発表した際、買収によって「当社のＡＩロボット事業を飛躍的に強化する」と説明していた。破談となれば打撃となる。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/b909df2648a0d34f19c7a01b9889faf715188447</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>米ＦＢＩの犯罪情報データベースにハッキング、ＣＮＮ報道</title>
-      <link>https://news.yahoo.co.jp/articles/def1521bdf5dfad47cc53c7e1643acda3a1de144</link>
-      <guid isPermaLink="false">0d6892b1c27a08d7ae937b83</guid>
-      <pubDate>Sat, 21 Nov 2026 06:50:14 +0000</pubDate>
-      <description>[２０日 ロイター] -</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;[２０日 ロイター] - ＣＮＮは２０日、関係筋２人の話として、連邦、州、地方の法執行機関が刑事司法情報を共有するために使用する全国規模のデータベースへの不正アクセスが疑われる件について、米連邦捜査局（ＦＢＩ）が捜査を行っていると報じた。&lt;/p&gt;&lt;p&gt;全米犯罪情報センター（ＮＣＩＣ）のデータベースが侵害されたとみられるこの事案は、ここ数カ月でＦＢＩのシステムに関する２件目の侵入となる。９月にはＦＢＩの求人サイトが不正アクセスを受け、現職員および元職員のデータが流出した。&lt;/p&gt;&lt;p&gt;ＦＢＩはロイターのコメント要請に応じなかった。&lt;/p&gt;&lt;p&gt;ＦＢＩのデータベースは、令状、犯罪歴、身元調査に関する情報を保存・共有するために、全国の法執行機関によって利用されている。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/def1521bdf5dfad47cc53c7e1643acda3a1de144</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>仏インフレ率、明らかに高過ぎ＝中銀総裁</title>
-      <link>https://news.yahoo.co.jp/articles/cac1992b8cd874d874481dd69a8b221beadeb4b6</link>
-      <guid isPermaLink="false">afb3779357ea1ed892ede9e9</guid>
-      <pubDate>Sat, 21 Nov 2026 06:34:20 +0000</pubDate>
-      <description>[パリ ２０日 ロイター] -</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;[パリ ２０日 ロイター] - 欧州中央銀行（ＥＣＢ）理事会メンバーのムーラン仏中銀総裁は２０日、フランスの現在のインフレ率は「明らかに高過ぎる」とし、ＥＣＢの使命はこれを引き下げることだと述べた。&lt;/p&gt;&lt;p&gt;仏テレビ局「フランス５」のインタビューで、インフレ率は３．８％近くに達しており、「あるべき水準」と比較して高過ぎると語った。&lt;/p&gt;&lt;p&gt;また、フランスは債務と財政赤字を制御し続けるべきであり、今年よりも赤字幅を縮小した来年の予算案の承認が不可欠だと付け加えた。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/cac1992b8cd874d874481dd69a8b221beadeb4b6</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>孫正義氏、ＳＫハイニックスの1兆ドル買収を一時検討＝メディア</title>
-      <link>https://news.yahoo.co.jp/articles/8ac55ce4b797ab930446f0f24e6b0e4d3f7a0f31</link>
-      <guid isPermaLink="false">13a143db82677bb0222fecd4</guid>
-      <pubDate>Sat, 21 Nov 2026 06:18:58 +0000</pubDate>
-      <description>[２０日 ロイター] -</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;[２０日 ロイター] - ニュースメディア「ジ・インフォメーション」は２０日、事情に詳しい複数の関係筋の話として、ソフトバンクグループの孫正義最高経営責任者（ＣＥＯ）が最近、韓国の半導体メモリー大手ＳＫハイニックスを１兆ドル規模で買収する可能性について、ウォール街の金融機関に資金調達を打診したと報じた。&lt;/p&gt;&lt;p&gt;同メディアによると、ソフトバンクＧの広報担当者は「当社は多くの機会を模索している。この件についてはもはや積極的に検討していない」と述べた。&lt;/p&gt;&lt;p&gt;一方、ＳＫハイニックスは声明で、ジ・インフォメーションの報道で言及された件については承知していないと述べた。&lt;/p&gt;&lt;p&gt;また、韓国法に基づき、自社に対する海外企業による買収には事前の政府承認が必要になると付け加えた。&lt;/p&gt;&lt;p&gt;ソフトバンクＧの広報担当者はロイターのコメント要請に対し、ジ・インフォメーションに提供したコメントを参照するよう求めた。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/8ac55ce4b797ab930446f0f24e6b0e4d3f7a0f31</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>米クラウドストライク、ゼットスケーラー買収へ協議中＝関係筋</title>
-      <link>https://news.yahoo.co.jp/articles/b8f5f41e3c93a46a6926f97be7a8ba115e428368</link>
-      <guid isPermaLink="false">d554853bf789edffb7d4cfdb</guid>
-      <pubDate>Sat, 21 Nov 2026 05:54:15 +0000</pubDate>
-      <description>Milana Vinn
-
-[２０日 ロイター] -</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;Milana Vinn&lt;/p&gt;&lt;p&gt;[２０日 ロイター] - 米サイバーセキュリティー企業クラウドストライクは、競合するゼットスケーラーの買収に向け協議を行っている。関係筋２人が明らかにした。&lt;/p&gt;&lt;p&gt;協議は現在も続いているが、取引が成立する保証はなく、合意に至らずに終了する可能性もあるという。&lt;/p&gt;&lt;p&gt;２０日終値で時価総額が約３２０億ドルのゼットスケーラーの株価は、時間外取引で１７％急騰した。一方、クラウドストライクの株価は８％下落した。&lt;/p&gt;&lt;p&gt;統合が実現すれば、世界最大級のサイバーセキュリティー専業プロバイダーが誕生することになる。&lt;/p&gt;&lt;p&gt;両社はロイターのコメント要請に応じていない。&lt;/p&gt;&lt;p&gt;この協議についてはブルームバーグ・ニュースが最初に報じていた。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/b8f5f41e3c93a46a6926f97be7a8ba115e428368</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>ＥＣＢ主要ポストに仏独の経済学者、スペインのデコス氏が総裁へ</title>
-      <link>https://news.yahoo.co.jp/articles/afe82f35d581b09d4a2c8d6e2ac0dd58bf3a6d84</link>
-      <guid isPermaLink="false">e06abc7885100ea69c71aba3</guid>
-      <pubDate>Sat, 21 Nov 2026 05:23:25 +0000</pubDate>
-      <description>[ブリュッセル／フランクフルト ２０日 ロイター] -</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;[ブリュッセル／フランクフルト ２０日 ロイター] - フランスは２０日、経済学者のローレンス・ブーン氏を欧州中央銀行（ＥＣＢ）の専務理事に指名した。&lt;/p&gt;&lt;p&gt;市場操作を担当する見通し。ブーン氏はサンタンデール銀行の幹部で、元ＯＥＣＤ（経済協力開発機構）チーフエコノミスト。&lt;/p&gt;&lt;p&gt;今回の発表により、国際決済銀行（ＢＩＳ）のデコス総支配人（スペイン出身）が来年２月にラガルドＥＣＢ総裁の後任に就く見通しとなった。一方、今週初めに指名されたドイツのマルクス・ブルネルマイヤー氏（プリンストン大学教授）は、来年５月３１日に退任するＥＣＢチーフエコノミストのフィリップ・レーン氏の後を継ぐ見込みだ。&lt;/p&gt;&lt;p&gt;全ての指名は承認を要するが、ＥＣＢの２７人からなる政策理事会に女性が１人しか残らないことから、難航する可能性もある。ユーロ圏２１カ国の各国中銀はいずれも男性が率いており、役員会も男性が支配しているためだ。&lt;/p&gt;&lt;p&gt;ユーロ圏各国の中銀総裁を務めた女性は、キプロスのクリスタラ・ゲオルガジ氏ただ１人であり、ＥＣＢの役員会メンバーに就任した女性もこれまで５人に過ぎない。&lt;/p&gt;&lt;p&gt;欧州議会は指名に対して拒否権を行使することはできないが、女性候補者の不足に抗議して、過去に指名案の承認を保留したことがある。&lt;/p&gt;&lt;p&gt;とはいえ、ユーロ圏の４大国であるドイツ、フランス、イタリア、スペインがＥＣＢ役員会で事実上の常任議席を占めており、受け入れ可能な指名案を巡って数カ月にわたり交渉を重ねてきたことから、今回の指名は承認される見通しだ。&lt;/p&gt;&lt;p&gt;ＥＣＢウォッチャーによると、当面の間、新役員会が政策路線を変更する可能性は低い。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/afe82f35d581b09d4a2c8d6e2ac0dd58bf3a6d84</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>ＮＢＡ＝ハーデン51得点のキャブス白星、サンダーも競り勝つ　ＮＢＡカップ</title>
-      <link>https://news.yahoo.co.jp/articles/3a83e948c87b76f6ee0ce9f2438a1489033aa4f1</link>
-      <guid isPermaLink="false">5575fc90e1b2fef2d14602e9</guid>
-      <pubDate>Sat, 21 Nov 2026 05:18:42 +0000</pubDate>
-      <description>［２０日　ロイター］ -</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;［２０日　ロイター］ - 米プロバスケットボール協会（ＮＢＡ）は２０日、シーズン中のトーナメント戦であるＮＢＡカップを各地で行い、東カンファレンスＢ組のキャバリアーズはペーサーズに１２８─１１９で勝利した。&lt;/p&gt;&lt;p&gt;キャバリアーズはジェームズ・ハーデンが５１得点、６リバウンド、６アシストの活躍で、自身が試投した１４本のフリースローをすべて決めた。&lt;/p&gt;&lt;p&gt;Ｃ組のウィザーズはブルズを９８─９４で下した。アンソニー・デービスが３６得点、１１リバウンドのダブルダブルでチームをけん引した。同組のホークスはホーネッツに１１１─９７で快勝し、３連勝。ホーネッツは４連敗となった。&lt;/p&gt;&lt;p&gt;Ａ組のマジックはネッツに１１３─１１１で競り勝った。フランツ・ワグナーが両チーム最多の３５得点で勝利に貢献。ネッツは４連敗となった。同組のラプターズはピストンズとの接戦を１０５─１０２で制し、連敗を６でストップさせた。&lt;/p&gt;&lt;p&gt;西カンファレンスでは、Ｂ組のサンダーがペリカンズに１２６─１２０で競り勝った。シェイ・ギルジャス・アレクサンダーが両チーム最多の４０得点に、３リバウンド、８アシストをマーク。ペリカンズは２２得点のザイオン・ウィリアムソンら先発した３選手が２０得点超えだったが及ばなかった。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/3a83e948c87b76f6ee0ce9f2438a1489033aa4f1</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>サッカー＝バロンドールのケーン、左足首の靱帯断裂で数カ月離脱へ</title>
-      <link>https://news.yahoo.co.jp/articles/5bfffd024718f8774193f2742ac5e918e4f1b646</link>
-      <guid isPermaLink="false">434d646dd854684eae9f5fd8</guid>
-      <pubDate>Sat, 21 Nov 2026 04:14:43 +0000</pubDate>
-      <description>［２０日　ロイター］ -</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;［２０日　ロイター］ - サッカーのドイツ１部ブンデスリーガで首位に立つバイエルン・ミュンヘンは２０日、イングランド代表ＦＷハリー・ケーン（３３）が左足首の靱帯を断裂し、数カ月間離脱すると発表した。&lt;/p&gt;&lt;p&gt;ケーンは同日のケルンとのホーム戦で負傷し、開始２０分で交代。試合は１─１の引き分けに終わった。&lt;/p&gt;&lt;p&gt;バイエルンは声明で、クラブの医療チームによる検査で靱帯断裂が確認されたと説明。具体的な離脱期間は明らかにしていないが、地元メディアは３カ月と報じている。&lt;/p&gt;&lt;p&gt;ケーンは先月、サッカー専門誌フランス・フットボールなどが選定する権威ある最優秀選手「バロンドール」を初受賞した。昨季は公式戦５１試合に出場し、自己最多の６１得点を記録。チームを国内リーグとカップ戦の２冠に導いた。イングランド代表としても今夏のワールドカップ（Ｗ杯）で６得点を挙げ、チームの４強入りに貢献。クラブと代表を合わせて７３得点をマークした。&lt;/p&gt;&lt;p&gt;また、同じ試合で途中交代したフランス代表ＦＷミカエル・オリーズは前足部の打撲と診断され、今後数日間にわたって治療を受けるという。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/5bfffd024718f8774193f2742ac5e918e4f1b646</wire:canonicalUrl>
-      <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
-    </item>
-    <item>
-      <title>サッカー＝ＦＩＦＡ会長、アジア歴訪で支持固め　田嶋氏ら対立候補に高い壁</title>
-      <link>https://news.yahoo.co.jp/articles/aab64ab787d3ecb624dff41a7c85fcea1e449877</link>
-      <guid isPermaLink="false">fee6fd345b549ba59c680090</guid>
-      <pubDate>Sat, 21 Nov 2026 03:04:33 +0000</pubDate>
-      <description>［２０日　ロイター］ -</description>
-      <dc:creator>ロイター</dc:creator>
-      <content:encoded>&lt;p&gt;［２０日　ロイター］ - 国際サッカー連盟（ＦＩＦＡ）のジャンニ・インファンティノ会長が、来年３月の会長選に向けてアジア各地を精力的に飛び回り、支持固めを進めている。１０月には一時対立したアジア・サッカー連盟（ＡＦＣ）が再選支持に転換。対立候補にとって現職の牙城を崩す難しさが浮き彫りとなっている。&lt;/p&gt;&lt;p&gt;ＦＩＦＡは１９日、会長選の候補者３人を発表。再選を目指すインファンティノ氏のほか、日本サッカー協会（ＪＦＡ）の田嶋幸三名誉会長、フランス・サッカー連盟（ＦＦＦ）のフィリップ・ディアロ会長の出馬が公表された。&lt;/p&gt;&lt;p&gt;その数時間後、タイで開かれたＡＦＣの年間表彰式に姿を現したインファンティノ氏は、年間最優秀選手に選出されたイラン代表ＧＫアリレザ・ベイランバンドに金色に輝くトロフィーを手渡し、自身の存在感を示した。田嶋氏は会場を訪れたが、ディアロ会長は出席しなかった。&lt;/p&gt;&lt;p&gt;インファンティノ氏は今夏、新会社「ＦＩＦＡフォワード・エンタープライズ（ＦＦＥ）」を設立してＷ杯などの商業権益を移管する計画を公表するも、広範な反発を受けて撤回。ＡＦＣは、欧州サッカー連盟（ＵＥＦＡ）や北中米カリブ海サッカー連盟（ＣＯＮＣＡＣＡＦ）と共にインファンティノ氏を批判する公開書簡を発表した。しかし、同氏による支持回復への働きかけを経て、先月下旬には再び同氏を支持する方針に転換した。&lt;/p&gt;&lt;p&gt;インファンティノ氏は、カタール航空から提供されたプライベートジェットで３カ月以上にわたってベトナムや香港、インドネシア、ブータン、サウジアラビアなどアジア各地を飛び回り、精力的な動きで支持固めを進めている。&lt;/p&gt;&lt;p&gt;それに対し、田嶋氏は２０日の会見で選挙活動の資金について、「日本サッカー協会からのサポートもいただきたいが、日本協会の今年の予算はすでに決まっている。プライベートジェットに乗って移動するつもりはない。あるものでしっかりとやっていくつもり」と言及。主に自己資金で活動する自身にはインファンティノ氏と同じような活動は難しいと認め、「目立つべきなのは会長ではなくて選手」とも述べた。&lt;/p&gt;</content:encoded>
-      <wire:publisher>Reuters</wire:publisher>
-      <wire:foundAt>yahoo_news_jp_reuters</wire:foundAt>
-      <wire:platform>Yahoo!ニュース日本</wire:platform>
-      <wire:relation>repost</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>1.0</wire:confidence>
-      <wire:summarySource>extractive lead</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://news.yahoo.co.jp/articles/aab64ab787d3ecb624dff41a7c85fcea1e449877</wire:canonicalUrl>
       <wire:evidence>publisher-specific Yahoo media endpoint: Reuters</wire:evidence>
     </item>
   </channel>
