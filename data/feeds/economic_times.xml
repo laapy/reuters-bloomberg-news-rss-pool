@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>The Economic Times — diagnostic source feed</title>
     <link>https://economictimes.indiatimes.com/rssfeedsdefault.cms</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 23 Nov 2026 11:04:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 22:51:50 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Anthropic options draw brisk trading interest after market debut</title>
+      <link>https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-options-draw-brisk-trading-interest-after-market-debut/articleshow/136110546.cms</link>
+      <guid isPermaLink="false">322f95fd429fbd6dc58b46a2</guid>
+      <pubDate>Mon, 23 Nov 2026 17:39:00 +0000</pubDate>
+      <description>About 160,000 Anthropic options contracts traded in the first hour, putting the AI company among the market’s most active names. Volume was on pace to exceed 600,000 contracts for the session.</description>
+      <dc:creator>ETMarkets.com</dc:creator>
+      <content:encoded>&lt;p&gt;Options on Anthropic shares attracted heavy trading on Monday, giving investors a new way to hedge or speculate on the artificial intelligence company just days after its stock market debut, Reuters reported.About 160,000 contracts changed hands during the first hour, placing Anthropic among the 25 most actively traded names in the options market, according to analytics firm Mercury Alerts. Volume reached roughly 270,000 contracts by noon ET.Options provide a relatively low-cost way to gain exposure to a stock and can be used either to manage risk or bet on future price movements.Also Read | Nvidia shares surge 33% as Jensen Huang is reinstated as CEO“Early trading in Anthropic options was heavy but balanced: calls and puts traded one for one, and buyers and sellers were close to even,” Mercury Alerts founder Harmeet Goindi told Reuters, adding that activity showed no clear directional bias.Anthropic’s options volume was on course to reach about 550,000 contracts by the end of the session, Mercury Alerts said. While substantial, that would remain well below the record 1.8 million contracts traded when options on SpaceX debuted in June.“We’re not seeing anything close to the sort of speculation in far upside strikes that we saw in the early days of SpaceX,” Steve Sosnick, chief strategist at Interactive Brokers, told Reuters.For live updates on US Markets, click hereSosnick suggested that the difference could reflect the absence of what he called the “Musk factor,” referring to the investor enthusiasm often associated with SpaceX Chief Executive Elon Musk.Options pricing indicated that traders expected sharp swings in Anthropic shares.“The options are pricing moves of about 6% a day,” Goindi said.Anthropic shares fell 1.5% to $87.55, bucking a strong rebound in other AI-linked stocks after Nvidia reinstated Jensen Huang as chief executive officer.(Disclaimer: This article is based on inputs from agencies. These do not represent the views of The Economic Times)&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>economic_times</wire:foundAt>
+      <wire:platform>The Economic Times</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-options-draw-brisk-trading-interest-after-market-debut/articleshow/136110546.cms</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Reuters reported</wire:evidence>
+    </item>
   </channel>
 </rss>

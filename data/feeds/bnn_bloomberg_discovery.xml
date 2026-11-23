@@ -1,190 +1,198 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>BNN Bloomberg — diagnostic source feed</title>
     <link>https://www.bing.com/news/search?q=site%3Abnnbloomberg.ca+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 23 Nov 2026 11:04:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 22:51:50 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>P.E.I. farmers gather to learn more about drone tech</title>
-      <link>https://www.bnnbloomberg.ca/video/shows/2026/11/23/pei-farmers-gather-to-learn-more-about-drone-tech/</link>
-      <guid isPermaLink="false">4e7c150c5ac5d4a6e8e8145a</guid>
-      <pubDate>Sun, 22 Nov 2026 16:00:00 +0000</pubDate>
-      <description>P.E.I. farmers are exploring the use of drones to help support their crops, while potentially saving time and money. Maria Sarrouh reports.</description>
+      <title>Oil and gas drillers optimistic heading into 2027, but warn of labour shortages</title>
+      <link>https://www.bnnbloomberg.ca/business/economics/2026/11/23/oil-and-gas-drillers-optimistic-heading-into-2027-but-warn-of-labour-shortages/</link>
+      <guid isPermaLink="false">f31e54a247ad1ad475617193</guid>
+      <pubDate>Mon, 23 Nov 2026 21:33:29 +0000</pubDate>
+      <description>Oil and gas service firms say improving market conditions and a more supportive political climate are expected to bolster Canadian drilling activity next year.</description>
+      <dc:creator>The Canadian Press</dc:creator>
+      <content:encoded>&lt;p&gt;CALGARY — Oil and gas service firms say improving market conditions and a more supportive political climate are expected to bolster Canadian drilling activity next year, but labour shortfalls could threaten that momentum. Industry advocacy group Enserva has released its annual state of the industry report, which calls for an increase in the number of wells drilled in 2027 versus this year. But it flags competition for workers as a major challenge at a time when artificial intelligence data centres and major infrastructure projects draw from the same talent pool. Bradley Fedora, president and CEO of Trican Well Service Ltd., says the prospect of “hyperinflation” in the cost of labour and materials is what scares him most. Thomas Alford, president of completion and production services at Precision Drilling, told reporters at the event that it can take up to eight years to train up a competent drill rig staffer, and the industry has been so unstable in recent years that it’s been hard for those workers to get that consistent job experience. Gurpreet Lail, Enserva’s president and CEO, says the sector needs to work hard to attract and keep talent as data centre developments offer big paycheques to tradespeople and perks that have until now been “unheard of.” --- Lauren Krugel, The Canadian Press This report by The Canadian Press was first published Nov. 23, 2026.&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/2026/11/23/pei-farmers-gather-to-learn-more-about-drone-tech/</wire:canonicalUrl>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/economics/2026/11/23/oil-and-gas-drillers-optimistic-heading-into-2027-but-warn-of-labour-shortages/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Will Carney further solidify a Liberal majority with six new by-elections?</title>
-      <link>https://www.bnnbloomberg.ca/video/shows/2026/11/23/will-carney-further-solidify-a-liberal-majority-with-six-new-by-elections/</link>
-      <guid isPermaLink="false">759b23060f8124f2f96b26bc</guid>
-      <pubDate>Sun, 22 Nov 2026 16:00:00 +0000</pubDate>
-      <description>Canadians in six ridings will head to the polls in around two weeks to vote in by-elections. Marieke Walsh reports.</description>
+      <title>‘The investors wanted him back’: Business expert on Jensen Huang’s return to Nvidia</title>
+      <link>https://www.bnnbloomberg.ca/video/shows/2026/11/23/the-investors-wanted-him-back-business-expert-on-jensen-huangs-return-to-nvidia/</link>
+      <guid isPermaLink="false">c5bab92693c95763ff9d4302</guid>
+      <pubDate>Mon, 23 Nov 2026 12:25:00 +0000</pubDate>
+      <description>Marketing, business and retail expert Marvin Ryder says ‘there might be a few more bombshells out there,’ but currently, ‘the shareholders are happy.’ ...</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/2026/11/23/will-carney-further-solidify-a-liberal-majority-with-six-new-by-elections/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/2026/11/23/the-investors-wanted-him-back-business-expert-on-jensen-huangs-return-to-nvidia/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Shoppers look to ‘Buy Canadian’ for the holidays</title>
-      <link>https://www.bnnbloomberg.ca/video/shows/2026/11/23/shoppers-look-to-buy-canadian-for-the-holidays/</link>
-      <guid isPermaLink="false">3efa03710a40158cce6b6e01</guid>
-      <pubDate>Sun, 22 Nov 2026 16:00:00 +0000</pubDate>
-      <description>Many business owners say they’re starting to see a boost in sales as shoppers search for Canadian-made products for the holidays. Kimberley Johnson reports.</description>
+      <title>S&amp;P 500 most oversold since 2025 tariff tantum: Larry Berman</title>
+      <link>https://www.bnnbloomberg.ca/investing/opinion/2026/11/23/sp-500-most-oversold-since-2025-tariff-tantum-larry-berman/</link>
+      <guid isPermaLink="false">0d230544db73a6e196be1015</guid>
+      <pubDate>Mon, 23 Nov 2026 11:59:00 +0000</pubDate>
+      <description>When evaluating markets from a technical perspective, oversold conditions are somewhat easier to trade than identifying market tops.</description>
+      <content:encoded>&lt;p&gt;When a market gets tactically oversold, a counter trend rally is inevitable. We obviously are seeing that today with Jensen being reinstated at Nvidia and Korea, Taiwan and China intervening in markets to curb short selling.
+When evaluating markets from a technical perspective, oversold conditions are somewhat easier to trade than identifying market tops. The basis for this is the understanding that people do not get anxious when making money, but they do when losing money.&lt;/p&gt;&lt;p&gt;This is the basis of the Nobel Prize winning Loss Aversion Theory (Kahneman, Tversky 2002).
+Investors tend to dislike losses twice as much as they like the same dollar value of a gain. This behaviour explains the skew we tend to see in how fast markets decline versus rally.
+Tactical risk monitor Last week, most of our 12 tactical factors were statistically oversold. Several breadth measures, volatility measures, and sentiment measures.
+The only positives were generally seasonal patterns.
+This combination suggests the bounce can get to the area of the old lows.
+For most of the past six months, the S&amp;amp;P 500 found support around 7300 where the 200-day average is sitting.
+For this bounce to be the beginning of a new rally leg, we need to hold above the 200-day average for more than a few days.
+How to set BNN Bloomberg as your preferred source on Google
+For now, we think this is an oversold bounce. We probably need another quarter of earnings to convince investors this is not the peak artificial intelligence (AI) period that many were concerned about.
+S&amp;amp;P 500 We are bullish on AI for the long-term, but the magnitude of the volatility swings suggests that more time is needed to work off some of the froth that built up.
+The good news is that the equal weight S&amp;amp;P 500 was still up about 10 per cent on the year at Friday’s close, so it’s clearly not a broad based sell off that would be the case if investors were worried about a recession.
+Follow Larry YouTube: LarryBermanOfficial
+X: @LarryBermanETF
+LinkedIn: LarryBerman
+www.qwealth.com
+Related Stories How to buy the dip in AI – start with ANT: Larry Berman
+Will the federal budget help the TSX?: Larry Berman
+No matter who controls congress, the need to reign in spending is critical: Larry Berman&lt;/p&gt;</content:encoded>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:contentLevel>full</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/2026/11/23/shoppers-look-to-buy-canadian-for-the-holidays/</wire:canonicalUrl>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/investing/opinion/2026/11/23/sp-500-most-oversold-since-2025-tariff-tantum-larry-berman/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Newfoundland and Labrador program could use foreign-trained medical graduates to fix doctor shortage</title>
-      <link>https://www.bnnbloomberg.ca/video/shows/2026/11/23/newfoundland-and-labrador-program-could-use-foreign-trained-medical-graduates-to-fix-doctor-shortage/</link>
-      <guid isPermaLink="false">b353f2aa52d43aca52904376</guid>
-      <pubDate>Sun, 22 Nov 2026 16:00:00 +0000</pubDate>
-      <description>Newfoundland and Labrador is trying a new program that aims to make it easier for foreign-trained medical graduates to work in the province.</description>
+      <title>Tech analyst ‘gobsmacked’ after Nvidia reinstates Jensen Huang as president and CEO</title>
+      <link>https://www.bnnbloomberg.ca/video/shows/2026/11/23/tech-analyst-gobsmacked-after-nvidia-reinstates-jensen-huang-as-president-and-ceo/</link>
+      <guid isPermaLink="false">fc8e0a40920610db7873d1ab</guid>
+      <pubDate>Mon, 23 Nov 2026 10:29:00 +0000</pubDate>
+      <description>Tech analyst Daniel Bader says Huang will ‘likely be able to keep Nvidia’s stock high’ despite the ongoing investigation and affair scandals.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/2026/11/23/newfoundland-and-labrador-program-could-use-foreign-trained-medical-graduates-to-fix-doctor-shortage/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/2026/11/23/tech-analyst-gobsmacked-after-nvidia-reinstates-jensen-huang-as-president-and-ceo/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>‘Significant concern’ of Chinese industry investment in Canada: auto industry expert</title>
-      <link>https://www.bnnbloomberg.ca/video/shows/2026/11/22/significant-concern-of-chinese-industry-investment-in-canada-auto-industry-expert/</link>
-      <guid isPermaLink="false">28889026646658e81dbc0d0a</guid>
-      <pubDate>Sun, 22 Nov 2026 14:43:00 +0000</pubDate>
-      <description>Canadian Vehicle Manufacturers’ Association head Brian Kingston says there are concerns over job losses if there is a significant investment from China.</description>
+      <title>Bitget rToken Hits Record $200 Million Daily Spot Volume Amid Market Volatility</title>
+      <link>https://www.bnnbloomberg.ca/press-releases/2026/11/23/bitget-rtoken-hits-record-200-million-daily-spot-volume-amid-market-volatility/</link>
+      <guid isPermaLink="false">9751d78055855c0c23abba56</guid>
+      <pubDate>Mon, 23 Nov 2026 10:15:00 +0000</pubDate>
+      <description>Bitget, the world’s largest Universal Exchange (UEX), recorded more than $200 million in rToken spot trading volume on November 21, marking its highest single-day total since the product’s launch in ...</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/2026/11/22/significant-concern-of-chinese-industry-investment-in-canada-auto-industry-expert/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/press-releases/2026/11/23/bitget-rtoken-hits-record-200-million-daily-spot-volume-amid-market-volatility/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>AI stocks see intensive sell-offs in U.S. markets: economist</title>
-      <link>https://www.bnnbloomberg.ca/video/shows/2026/11/22/ai-stocks-see-intensive-sell-offs-in-us-markets-economist/</link>
-      <guid isPermaLink="false">7a6c6ff3027fb21390a634d2</guid>
-      <pubDate>Sun, 22 Nov 2026 14:16:00 +0000</pubDate>
-      <description>Economist Colin Mang says part of the massive sell-offs could be due to Nvidia’s Jensen Huang’s ongoing scandals.</description>
+      <title>U.S. states sue Musk companies over flood of sexualized images made with AI chatbot Grok</title>
+      <link>https://www.bnnbloomberg.ca/business/company-news/2026/11/23/us-states-sue-musk-companies-over-flood-of-sexualized-images-made-with-ai-chatbot-grok/</link>
+      <guid isPermaLink="false">46c63b9ed843104ec1eed150</guid>
+      <pubDate>Mon, 23 Nov 2026 08:41:00 +0000</pubDate>
+      <description>Elon Musk’s businesses harmed consumers by avoiding safeguards when they designed and launched an artificial intelligence chatbot capable of creating sexualized images, two U.S. Democratic attorneys ...</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/2026/11/22/ai-stocks-see-intensive-sell-offs-in-us-markets-economist/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/11/23/us-states-sue-musk-companies-over-flood-of-sexualized-images-made-with-ai-chatbot-grok/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Canadian officials react to U.S. Defense Secretary Pete Hegseth’s alleged leaked military memo</title>
-      <link>https://www.bnnbloomberg.ca/video/shows/2026/11/22/canadian-officials-react-to-us-defense-secretary-pete-hegseths-alleged-leaked-military-memo/</link>
-      <guid isPermaLink="false">90d09a27e184c9e83a5db4b8</guid>
-      <pubDate>Sat, 21 Nov 2026 19:53:00 +0000</pubDate>
-      <description>Defence Minister David McGuinty says he hasn’t seen the contents of the allegedly leaked classified memo. Paul Hollingsworth reports.</description>
+      <title>‘We’re going to see a lot of movement in the coming months, quarters, years’: Arounian on AI trade</title>
+      <link>https://www.bnnbloomberg.ca/video/shows/the-open/2026/11/23/were-going-to-see-a-lot-of-movement-in-the-coming-months-quarters-years-arounian-on-ai-trade/</link>
+      <guid isPermaLink="false">867dc327f1f537fc4fe78cdc</guid>
+      <pubDate>Mon, 23 Nov 2026 08:30:00 +0000</pubDate>
+      <description>Ygal Arounian, managing director and equity research at Wedbush, joins BNN Bloomberg to share his Hot Picks in technology.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/2026/11/22/canadian-officials-react-to-us-defense-secretary-pete-hegseths-alleged-leaked-military-memo/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/shows/the-open/2026/11/23/were-going-to-see-a-lot-of-movement-in-the-coming-months-quarters-years-arounian-on-ai-trade/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>A 10% drop for the stock market is unnerving, but it's not that unusual</title>
-      <link>https://www.bnnbloomberg.ca/markets/2026/11/21/a-10-drop-for-the-stock-market-is-unnerving-but-its-not-that-unusual/</link>
-      <guid isPermaLink="false">e77309771f4b5305e5bea40e</guid>
-      <pubDate>Sat, 21 Nov 2026 15:09:00 +0000</pubDate>
-      <description>The U.S. stock market has dropped 10 per cent from its high set last month amid concerns about the growing hurdles faced by the high-flying artificial intelligence industry.</description>
+      <title>Children’s Place, Gymboree to liquidate all Canadian stores</title>
+      <link>https://www.bnnbloomberg.ca/business/company-news/2026/11/23/childrens-place-gymboree-to-liquidate-all-canadian-stores/</link>
+      <guid isPermaLink="false">825001c9cfa73fc3eda580df</guid>
+      <pubDate>Mon, 23 Nov 2026 07:17:00 +0000</pubDate>
+      <description>The Children’s Place and Gymboree are liquidating all of their Canadian stores while the brands’ parent company hunts for a buyer.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/2026/11/21/a-10-drop-for-the-stock-market-is-unnerving-but-its-not-that-unusual/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/11/23/childrens-place-gymboree-to-liquidate-all-canadian-stores/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>‘GTA VI’ hits US$3.79 billion in revenue</title>
-      <link>https://www.bnnbloomberg.ca/business/company-news/2026/11/20/sales-of-grand-theft-auto-vi-skyrocket-as-the-series-makes-its-return-after-13-year-absence/</link>
-      <guid isPermaLink="false">d37596f6e312dacfb8bfcd6a</guid>
-      <pubDate>Fri, 20 Nov 2026 17:48:00 +0000</pubDate>
-      <description>Sales of “Grand Theft Auto VI” are skyrocketing, as gamers’ insatiable appetite for the series continues. The game has hit US$2.36 billion in revenue.</description>
+      <title>‘This is not a game that ever stops’: Bolton on warnings about more tech outages</title>
+      <link>https://www.bnnbloomberg.ca/video/2026/11/23/this-is-not-a-game-that-ever-stops-bolton-on-warnings-about-more-tech-outages/</link>
+      <guid isPermaLink="false">30a4b4e96b8d6ed7f62068b7</guid>
+      <pubDate>Mon, 23 Nov 2026 06:27:00 +0000</pubDate>
+      <description>The U.S. intelligence chief has warned of more tech outages to come. John Bolton, former national security adviser to Trump, says that’s not unexpected.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/business/company-news/2026/11/20/sales-of-grand-theft-auto-vi-skyrocket-as-the-series-makes-its-return-after-13-year-absence/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/2026/11/23/this-is-not-a-game-that-ever-stops-bolton-on-warnings-about-more-tech-outages/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>S&amp;P/TSX composite falls nearly 2.5% Friday, U.S. markets also plummet</title>
-      <link>https://www.bnnbloomberg.ca/markets/2026/11/20/sptsx-composite-down-more-than-350-points-as-tech-and-base-metal-stocks-sink/</link>
-      <guid isPermaLink="false">f544f4ff939b7b22c501e09b</guid>
-      <pubDate>Fri, 20 Nov 2026 08:53:00 +0000</pubDate>
-      <description>Canada’s main stock index was down more than 350 points, weighed down by losses in the technology and base metal sectors, while U.S. stocks were mixed.</description>
+      <title>Canada, U.S. ‘fairly close’ to a deal: trade representative</title>
+      <link>https://www.bnnbloomberg.ca/video/live/2026/11/23/canada-us-fairly-close-to-a-deal-trade-representative/</link>
+      <guid isPermaLink="false">cfa6e9b7b72ef4d62012e192</guid>
+      <pubDate>Mon, 23 Nov 2026 06:09:00 +0000</pubDate>
+      <description>U.S. trade representative Jamieson Greer says a deal between the U.S. and Canada could be close. CTV’s Michael Serapio has more.</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/2026/11/20/sptsx-composite-down-more-than-350-points-as-tech-and-base-metal-stocks-sink/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/live/2026/11/23/canada-us-fairly-close-to-a-deal-trade-representative/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Dane Cook Lost $12M. His New Rules to Rebuild</title>
-      <link>https://www.bnnbloomberg.ca/video/ticker-take/2026/11/20/dane-cook-lost-12m-his-new-rules-to-rebuild/</link>
-      <guid isPermaLink="false">368513f7426165bddfa4f1a5</guid>
-      <pubDate>Fri, 20 Nov 2026 07:45:00 +0000</pubDate>
-      <description>Would you trust family with your money? At the height of his career, Dane Cook was selling out arenas, topping comedy charts, and generating tens of millions of dollars. Then he discovered his own ...</description>
+      <title>‘He’s stealing all my ideas’: Poilievre pokes fun at Carney</title>
+      <link>https://www.bnnbloomberg.ca/video/economics/2026/11/23/hes-stealing-all-my-ideas-poilievre-pokes-fun-at-carney/</link>
+      <guid isPermaLink="false">38a1a88abced3a385a82d596</guid>
+      <pubDate>Mon, 23 Nov 2026 04:34:00 +0000</pubDate>
+      <description>Pierre Poilievre poked fun at PM Carney’s so called controlling leadership style and said, ‘Once again, he’s stealing all my ideas.’ ...</description>
       <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
       <wire:platform>BNN Bloomberg</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/ticker-take/2026/11/20/dane-cook-lost-12m-his-new-rules-to-rebuild/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>S&amp;P 500 sinks 3.7% and the Nasdaq composite goes negative for the year</title>
-      <link>https://www.bnnbloomberg.ca/markets/2026/11/20/us-stocks-tumble-and-the-sp-500-drops-as-the-sell-off-for-ai-stocks-accelerates/</link>
-      <guid isPermaLink="false">2689e5ff2174b4f41ba27f1c</guid>
-      <pubDate>Fri, 20 Nov 2026 03:48:00 +0000</pubDate>
-      <description>Wall Street’s losses mounted Friday, pulling the S&amp;P 500 10 per cent below its record high set last month, as the sell-off for AI stocks accelerated and the market headed for a sharp weekly loss.</description>
-      <wire:foundAt>bnn_bloomberg_discovery</wire:foundAt>
-      <wire:platform>BNN Bloomberg</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.bnnbloomberg.ca/markets/2026/11/20/us-stocks-tumble-and-the-sp-500-drops-as-the-sell-off-for-ai-stocks-accelerates/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.bnnbloomberg.ca/video/economics/2026/11/23/hes-stealing-all-my-ideas-poilievre-pokes-fun-at-carney/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
