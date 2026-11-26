@@ -1,11 +1,41 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>The Straits Times — diagnostic source feed</title>
     <link>https://www.straitstimes.com/news/world/rss.xml</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 26 Nov 2026 04:17:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 14:14:51 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>StanChart’s crypto custody unit suffers data breach</title>
+      <link>https://www.straitstimes.com/world/europe/stancharts-crypto-custody-unit-suffers-data-breach</link>
+      <guid isPermaLink="false">caf7d2ff7606195d30b7cc7c</guid>
+      <pubDate>Thu, 26 Nov 2026 13:12:00 +0000</pubDate>
+      <description>An unauthorised party accessed organisation details, business contact names and e-mail addresses.</description>
+      <dc:creator>The Straits Times</dc:creator>
+      <content:encoded>&lt;p&gt;StanChart’s crypto custody unit suffers data breach
+Sign up now: Get ST&amp;#x27;s newsletters delivered to your inbox&lt;/p&gt;&lt;p&gt;The company had detected attempts to break into its platform on Nov 23 and turned off some of its software after.
+PHOTO: REUTERS&lt;/p&gt;&lt;p&gt;Published   Nov 26, 2026, 09:12 PM&lt;/p&gt;&lt;p&gt;Updated   Nov 26, 2026, 09:30 PM&lt;/p&gt;&lt;p&gt;Set as preferred source&lt;/p&gt;&lt;p&gt;Listen
+Summarise&lt;/p&gt;&lt;p&gt;Zodia Custody, Standard Chartered’s crypto custody unit, said a security breach exposed “limited client information” and some staff contact details.
+CEO Richard Clark said attacks were detected on Nov 23, software was turned off, extra security was added, and regulators and clients were told.
+The breach adds to rising crypto cyberattacks, after Binance lost a record US$6.3 billion in October, according to Bloomberg.&lt;/p&gt;&lt;p&gt;AI generated&lt;/p&gt;&lt;p&gt;LONDON - Standard Chartered’s crypto custody subsidiary Zodia Custody said it had suffered a security breach, exposing some client and staff information.
+An unauthorised party who breached its platform was able to access “limited client information, consisting of publicly available organisation details and, for a small number of clients and employees, a business contact name and e-mail address,” Zodia Custody chief executive officer Richard Clark said in a statement.
+The company had detected attempts to break into its platform on Nov 23 and took action, including turning off some of its software and applying additional security measures, Clark said.&lt;/p&gt;&lt;p&gt;The breach was first reported by Reuters.
+“We have contacted our clients and informed the relevant regulatory authorities,” Clark added. “Based on our investigation to date, there have been no unauthorised transactions.”
+Standard Chartered merged the crypto custody business of Zodia with its own operations in an acquisition deal in early 2026 , having previously been the unit’s majority shareholder.&lt;/p&gt;&lt;p&gt;The breach comes as the crypto sector faces a rise in cyberattacks, with a record US$6.3 billion (S$8.1 billion) stolen from digital-asset exchange Binance in October .  BLOOMBERG&lt;/p&gt;&lt;p&gt;More on this topic&lt;/p&gt;&lt;p&gt;StanChart to slash almost 8,000 jobs in AI push&lt;/p&gt;&lt;p&gt;StanChart, A*STAR in $15m AI partnership to speed up customer checks&lt;/p&gt;&lt;p&gt;See more on&lt;/p&gt;&lt;p&gt;Standard Chartered
+Cryptocurrencies
+Security issues&lt;/p&gt;</content:encoded>
+      <wire:publisher>Bloomberg</wire:publisher>
+      <wire:foundAt>straits_times_world</wire:foundAt>
+      <wire:platform>The Straits Times</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.straitstimes.com/world/europe/stancharts-crypto-custody-unit-suffers-data-breach</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: according to Bloomberg</wire:evidence>
+    </item>
   </channel>
 </rss>
