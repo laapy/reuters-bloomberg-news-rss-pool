@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wire="urn:reuters-bloomberg-rss-pool:v1" version="2.0">
   <channel>
     <title>The Economic Times — diagnostic source feed</title>
     <link>https://economictimes.indiatimes.com/rssfeedsdefault.cms</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Fri, 27 Nov 2026 05:15:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 15:28:31 +0000</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>Crude oil prices near $97 as West Asia tensions revive supply fears; OPEC+ meeting in focus</title>
+      <link>https://economictimes.indiatimes.com/markets/commodities/crude-oil-prices-near-97-as-west-asia-tensions-revive-supply-fears-opec-meeting-in-focus/articleshow/136222227.cms</link>
+      <guid isPermaLink="false">a0aa5a5ce2da6069e8a54e14</guid>
+      <pubDate>Fri, 27 Nov 2026 12:24:00 +0000</pubDate>
+      <description>Crude oil rose to a near three-week high as attacks on energy infrastructure and shipping in West Asia revived concerns about supply disruptions. Brent traded near $97 a barrel ahead of Sunday’s OPEC+ meeting, where producers are expected to review their 2027 output strategy. Expectations of ample global supply continue to limit the rally.</description>
+      <dc:creator>Akash Podishetti</dc:creator>
+      <content:encoded>&lt;p&gt;Crude oil prices climbed to their highest level in nearly three weeks on Friday, putting Brent crude on track to snap a three-week losing streak, as escalating geopolitical tensions in West Asia raised concerns over disruptions to global oil supplies. The rebound comes ahead of a crucial OPEC+ meeting on Sunday, November 29, where producers are expected to discuss their 2027 output strategy.Brent crude futures rose 0.8% to $97.30 a barrel on Friday, their highest level since November 9, while US West Texas Intermediate (WTI) crude futures gained 2.6% to $85.85 a barrel compared with Wednesday’s close, according to Reuters. There was no settlement for WTI on Thursday because of the US Thanksgiving holiday.The rally follows a sharp recovery in prices over the past few sessions, driven by fresh attacks on energy infrastructure and commercial shipping in the Middle East. Brent had fallen below $88 a barrel earlier in the week as concerns over an emerging global supply surplus outweighed geopolitical risks.The latest escalation has brought the possibility of supply disruptions back into focus. Yemen’s Houthi militants claimed attacks on Saudi Arabia’s Ras Tanura refinery, one of the kingdom’s largest refining facilities and a major crude export hub. The group also claimed attacks on other Saudi targets.Separately, Saudi Arabia’s Jazan refinery temporarily suspended some operations after a projectile struck the facility on Thursday, killing a worker and injuring several others, according to the kingdom’s Energy Ministry.Shipping activity through the Strait of Hormuz has also come under pressure. Iran’s Revolutionary Guards said two tankers had exploded and caught fire after striking sea mines near Oman’s Khasab port while attempting to cross the strait. The waterway is a critical transit route for global energy supplies, carrying a substantial share of the world’s seaborne oil trade.The attacks have raised concerns that the recovery in crude exports from the Persian Gulf could be disrupted, adding a geopolitical risk premium to oil prices. Analysts at ANZ said Brent could move above $100 a barrel, although such a move would increasingly require evidence of an actual constraint on deliverable supplies.Also Read | MCX silver prices hit 6% upper circuit at Rs 1.54 lakh/kg. Why are people buying the white metal on Black Friday?However, expectations of ample global supplies continue to limit the upside in crude prices. Brent remains significantly below its levels earlier in the month, despite the recent rebound. The International Energy Agency has flagged the possibility of a supply surplus in the fourth quarter, while expectations of rising production have weighed on market sentiment.US crude inventories rose by 1.1 million barrels to 418.9 million barrels in the week ended November 20, according to the Energy Information Administration. The increase was smaller than analysts’ expectations of a 1.5-million-barrel build, offering some support to prices.OPEC+ meeting in focusInvestors will now turn their attention to Sunday’s OPEC+ meeting, where member countries are expected to review production policy for 2027. The group is likely to maintain its existing output targets through at least the first quarter of next year, according to sources cited by Reuters.The meeting comes amid competing pressures for the producer alliance. While geopolitical disruptions have increased near-term supply risks, concerns about a potential global surplus could make producers cautious about raising output.Oil prices will depend on whether the latest geopolitical developments translate into sustained supply disruptions or remain largely a risk premium in futures markets.&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>economic_times</wire:foundAt>
+      <wire:platform>The Economic Times</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://economictimes.indiatimes.com/markets/commodities/crude-oil-prices-near-97-as-west-asia-tensions-revive-supply-fears-opec-meeting-in-focus/articleshow/136222227.cms</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: according to Reuters</wire:evidence>
+    </item>
   </channel>
 </rss>

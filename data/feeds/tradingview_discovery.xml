@@ -5,80 +5,67 @@
     <link>https://www.bing.com/news/search?q=site%3Atradingview.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Fri, 27 Nov 2026 05:15:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 15:28:31 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>Ethereum’s Co-Founder Takes On Crypto’s Next Security Threat. Who Is Vitalik Buterin?</title>
-      <link>https://www.tradingview.com/news/newsbtc:374f2aa12094b:0-ethereum-s-co-founder-takes-on-crypto-s-next-security-threat-who-is-vitalik-buterin/</link>
-      <guid isPermaLink="false">6966b5c680552cf8d366e7c2</guid>
-      <pubDate>Fri, 27 Nov 2026 04:13:08 +0000</pubDate>
-      <description>Key takeawaysWho is Vitalik Buterin, and why is Ethereum’s co-founder now questioning the security of the very devices crypto investors use to protect their wealth? The 32-year-old programmer has ...</description>
+      <title>Altria's Latest Takeover Plans Raise Big Dividend Question</title>
+      <link>https://www.tradingview.com/news/gurufocus:840f8a405094b:0-altria-s-latest-takeover-plans-raise-big-dividend-question/</link>
+      <guid isPermaLink="false">19eb5c67eef6d3d2a7c42b94</guid>
+      <pubDate>Fri, 27 Nov 2026 14:25:45 +0000</pubDate>
+      <description>MO has confirmed that it is considering a potential all-cash offer for British tobacco giant Imperial Brands (IMBBY), setting the stage for a possible industry shakeup as traditional cigarette ...</description>
       <content:encoded>&lt;p&gt;News
-/ NewsBTC
-/ Ethereum’s Co-Founder Takes On Crypto’s Next Security Threat. Who Is Vitalik Buterin?&lt;/p&gt;&lt;p&gt;Ethereum’s Co-Founder Takes On Crypto’s Next Security Threat. Who Is Vitalik Buterin? 6 min read&lt;/p&gt;&lt;p&gt;ETHUSD
-Key takeaways
-Vitalik Buterin’s November 26 essay argues that crypto security must extend to the physical chips inside devices, summed up as “Not your silicon, not your keys.”
-He wants manufacturers to publish physical chip layouts (GDS files) so investigators can compare real hardware against the design.
-Researcher Andrew Huang’s infrared inspection technique (IRIS) can examine chips without removing them, but it has resolution limits and is not a universal fix.
-The essay is a proposal, not a claim that existing hardware wallets are compromised, and publishing it does not give Buterin power to change Ethereum unilaterally.
-Arkham attributes about $390 million in assets to Buterin, mostly roughly 224,000 ETH, though his true net worth is not publicly established.
-Who is Vitalik Buterin, and why is Ethereum’s co-founder now questioning the security of the very devices crypto investors use to protect their wealth? The 32-year-old programmer has turned his attention to a problem that even open-source software cannot necessarily solve: compromised computer chips.
-In an essay published on November 26, Buterin argued that cryptocurrency security needs to extend beyond software and into the physical hardware on which it runs. His message builds on one of crypto’s oldest principles, but with a new twist:
-“ Not your silicon, not your keys.
-Vitalik Buterin · Essay, November 26
-For someone who helped build an alternative to centralized financial infrastructure, questioning the manufacturers behind that infrastructure seems like a natural next step.
-It also reflects a security philosophy that has become increasingly visible in Buterin’s work, from his push for greater privacy and quantum safety on Ethereum’s roadmap to his interest in independently verifiable computing.
-Who Is Vitalik Buterin?
-Vitalik Buterin is a Russian-Canadian programmer, researcher and writer who conceived Ethereum in 2013, at the age of 19.
-Born in Russia in 1994 and raised in Canada, Buterin discovered Bitcoin in 2011. He went on to co-found Bitcoin Magazine, where he explored the technology and economics behind cryptocurrencies long before digital assets attracted mainstream financial institutions.
-His involvement in Bitcoin exposed him to a problem that would eventually lead to Ethereum. Blockchain technology had potential beyond transferring money, but building more sophisticated applications on Bitcoin presented technical limitations.
-Rather than trying to accommodate every possible application within Bitcoin’s existing architecture, Buterin began working on a blockchain designed specifically for programmability.
-At the time, he was studying computer science at the University of Waterloo, where he also worked as a research assistant to cryptographer Ian Goldberg.
-According to the University of Waterloo, Buterin received a $100,000 Thiel Fellowship in 2014 and subsequently left university to work on Ethereum full-time.
-How Vitalik Buterin Created Ethereum
-In November 2013, Buterin wrote the initial draft of what would become the Ethereum whitepaper.
-The proposal described a blockchain with a general-purpose programming environment. Developers would no longer need to create an entirely new network every time they wanted to build a decentralized application.
-Consider a lending platform. Instead of relying on a bank to manage collateral, calculate interest and authorize withdrawals, developers could encode those rules into smart contracts running on Ethereum.
-That does not eliminate every risk. Smart contracts can contain bugs, depend on unreliable external data or operate under centralized administrative controls. What Ethereum introduced was the ability to execute financial and other programmable agreements on a shared blockchain.
-Although Buterin originated the concept, Ethereum was not built by him alone. Its founding team included seven other individuals: Gavin Wood, Joseph Lubin, Charles Hoskinson, Anthony Di Iorio, Mihai Alisie, Jeffrey Wilcke and Amir Chetrit.
-The project’s first live network, known as Frontier, launched on July 30, 2015.
-What began as an experimental computing platform eventually became the foundation for much of the decentralized finance industry. Stablecoins, decentralized exchanges, lending protocols and tokenized financial assets now use the infrastructure that Buterin and Ethereum’s early contributors helped establish.
-The network’s own evolution, particularly its transition to proof-of-stake and the development of Layer 2 scaling networks, has shaped Ethereum’s first decade.
-Vitalik Buterin’s Latest Warning: Can Crypto Wallets Really Be Trusted?
-A hardware wallet is supposed to keep private keys away from potentially compromised computers and smartphones. But what happens if the device itself cannot be trusted?
-Buterin’s latest research examines that possibility. He points to supply chain attacks involving tampered wallets and considers the potential for malicious modifications concealed inside apparently legitimate chips.
-Open-source firmware allows researchers to examine the instructions a device runs. But those instructions reveal little about whether the manufactured chip has been altered.
-Buterin wants manufacturers to disclose physical chip layouts, known as GDS files, so investigators have a reference against which to inspect actual hardware.
-The distinction matters. Knowing what a chip is designed to do is not necessarily the same as knowing what the chip inside your wallet actually does.
-The Technology That Could Help Detect Compromised Chips
-One approach highlighted by Buterin comes from hardware security researcher Andrew Huang, better known as bunnie.
-Huang has been developing a technique called Infra-Red, In Situ inspection (IRIS), which exploits the fact that silicon becomes transparent at certain infrared wavelengths.
-Using infrared illumination and suitable imaging equipment, researchers can examine parts of a chip’s internal structure without necessarily removing it from its circuit board.
-The technique could help detect substituted components or unexpected differences between manufactured chips and their intended designs.
-However, it is not a universal solution.
-In a 2024 update on his research, Huang explained that infrared imaging has resolution limits. It cannot reliably reveal every microscopic feature of modern chips. Combining imaging with additional electrical testing could improve confidence in a component’s integrity.
-That is an important limitation for crypto investors. Publishing an open hardware design does not automatically make a wallet secure, just as publishing a smart contract’s code does not establish that it is free of vulnerabilities.
-Buterin acknowledges that sophisticated hardware inspections are more likely to be performed by specialist organizations than ordinary wallet owners.
-His essay is a proposal for improving security, not an announcement that existing hardware wallets have all been compromised.
-Does Vitalik Buterin Control Ethereum?
-Despite his status as Ethereum’s most recognizable co-founder, Buterin is not its CEO.
-Ethereum is maintained through the participation of independent developers, researchers, node operators, validators and other ecosystem contributors. Changes to the network involve technical proposals, discussion, software development and adoption by participants.
-Buterin has considerable influence over those discussions, but publishing a proposal does not give him the authority to implement it unilaterally.
-His role within the Ethereum Foundation is also distinct from control over the blockchain itself. In its April 2025 governance announcement, the Foundation described Buterin’s responsibilities as providing technical and intellectual guidance to the wider ecosystem.
-His research can influence the direction Ethereum takes. Whether the network ultimately follows that direction depends on considerably more than his endorsement.
-How Much Is Vitalik Buterin Worth?
-Buterin accumulated considerable wealth through his involvement in Ethereum, with much of his publicly visible cryptocurrency wealth tied to ETH.&lt;/p&gt;&lt;p&gt;However, his exact net worth is not publicly established.
-Blockchain analytics can estimate the value of assets held in wallets attributed to him, but those figures do not necessarily account for all his investments, liabilities, private assets or holdings at addresses that have not been publicly identified.&lt;/p&gt;&lt;p&gt;They also fluctuate with cryptocurrency prices. A wallet valuation should therefore not be confused with a complete assessment of his personal wealth.
-What Is Vitalik Buterin’s Vision for the Future of Crypto?
-Buterin’s latest essay is part of a longer-running interest in making digital infrastructure independently verifiable.
-In September 2025, he published The Importance of Full-Stack Openness and Verifiability, exploring how transparency could extend across the hardware and software underpinning increasingly important parts of people’s lives.
-His broader research includes cryptography, privacy, blockchain scalability and Ethereum’s transition toward greater quantum resistance. Buterin has previously called for greater experimentation across Ethereum’s application layer without compromising its core principles of censorship resistance, open-source development, privacy and security.&lt;/p&gt;&lt;p&gt;These interests share a practical concern: whether users can independently establish that the systems they rely on behave as intended.
-There is a commercial obstacle, though. Semiconductor manufacturers invest heavily in proprietary processes, and designing chips specifically for inspectability can involve performance compromises.
-But a device signing a cryptocurrency transaction does not necessarily need the computing power of a modern AI processor. That makes security-focused hardware a potentially useful starting point.
-More than a decade ago, Buterin challenged the idea that blockchains should primarily be used to transfer money. His latest work challenges another assumption the industry has grown comfortable with: that trusting the code is enough.
-For crypto investors, the next meaningful development may come from hardware manufacturers willing to make their products independently inspectable, rather than another software update promising greater security.&lt;/p&gt;&lt;p&gt;Crypto NewsBTC People
-Read more from NewsBTC&lt;/p&gt;&lt;p&gt;ETHUSD chart&lt;/p&gt;&lt;p&gt;Analyze on Supercharts
-Latest news&lt;/p&gt;&lt;p&gt;More news from NewsBTC&lt;/p&gt;</content:encoded>
+/ GuruFocus
+/ Altria&amp;#x27;s Latest Takeover Plans Raise Big Dividend Question&lt;/p&gt;&lt;p&gt;Altria&amp;#x27;s Latest Takeover Plans Raise Big Dividend Question 1 min read&lt;/p&gt;&lt;p&gt;MO
+Altria Group MO has confirmed that it is considering a potential all-cash offer for British tobacco giant Imperial Brands (IMBBY), setting the stage for a possible industry shakeup as traditional cigarette manufacturers look for new avenues to sustain earnings growth.
+For Altria investors, the potential acquisition raises important questions about the company&amp;#x27;s international expansion strategy, debt levels and ability to maintain its generous dividend payments.
+Altria generates most of its revenue from tobacco products, including its flagship Marlboro cigarette brand in the United States. Imperial Brands, meanwhile, owns internationally recognized cigarette brands including Davidoff, West and Gauloises.
+Combining the two businesses could give Altria greater geographical diversification and reduce its reliance on a shrinking U.S. cigarette market. Altria also confirmed that it is discussing the potential sale of part of Imperial Brands&amp;#x27; business to a third party, although no agreement has been reached.
+Meanwhile, Reuters reported that Japan Tobacco is also exploring a potential bid, raising the possibility of competition for the British tobacco manufacturer. Imperial Brands confirmed that it had not received a formal proposal from Altria.
+Under British takeover regulations, Altria has until Dec. 24 to announce a firm offer or abandon its pursuit, unless regulators grant an extension.
+The development follows an impressive run for Altria stock, which has gained approximately 32% in 2026. The company also raised its dividend for the 57th consecutive year.
+Investors Takeaway
+For Altria&amp;#x27;s income-focused shareholders, the biggest concern is how a potentially expensive acquisition could affect future dividend growth.
+An all-cash transaction could require substantial borrowing, increasing interest expenses and potentially limiting shareholder returns.
+Investors should closely monitor the proposed acquisition price, financing arrangements, debt-to-EBITDA ratio and management&amp;#x27;s dividend commitments.
+Moreover, a competing bid from Japan Tobacco could make the acquisition more expensive, weakening its financial appeal.
+The Dec. 24 deadline represents the next major catalyst for shareholders. Until Altria reveals its proposed financial terms, determining whether the acquisition would create meaningful shareholder value remains difficult.&lt;/p&gt;&lt;p&gt;GuruFocus US stocks
+Read more from GuruFocus&lt;/p&gt;&lt;p&gt;MO chart&lt;/p&gt;&lt;p&gt;Analyze on Supercharts
+Latest news&lt;/p&gt;&lt;p&gt;More news from GuruFocus&lt;/p&gt;</content:encoded>
+      <wire:publisher>Reuters</wire:publisher>
+      <wire:foundAt>tradingview_discovery</wire:foundAt>
+      <wire:platform>TradingView News</wire:platform>
+      <wire:relation>mention</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.86</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.tradingview.com/news/gurufocus:840f8a405094b:0-altria-s-latest-takeover-plans-raise-big-dividend-question/</wire:canonicalUrl>
+      <wire:evidence>reporting reference, not an exact wire credit: Reuters reported</wire:evidence>
+    </item>
+    <item>
+      <title>Billionaire Carl Icahn Faces Looming $1.4 Billion Problem</title>
+      <link>https://www.tradingview.com/news/gurufocus:cccff869d094b:0-billionaire-carl-icahn-faces-looming-1-4-billion-problem/</link>
+      <guid isPermaLink="false">f0acd6ee59eec4bd2609e219</guid>
+      <pubDate>Fri, 27 Nov 2026 14:19:22 +0000</pubDate>
+      <description>Legendary activist investor Carl Icahn is facing one of the toughest stretches of his investing career as mounting debt pressures and declining energy investments threaten the financial stability of ...</description>
+      <content:encoded>&lt;p&gt;News
+/ GuruFocus
+/ Billionaire Carl Icahn Faces Looming $1.4 Billion Problem&lt;/p&gt;&lt;p&gt;Billionaire Carl Icahn Faces Looming $1.4 Billion Problem 1 min read&lt;/p&gt;&lt;p&gt;IEP CVI MPC
+Legendary activist investor Carl Icahn is facing one of the toughest stretches of his investing career as mounting debt pressures and declining energy investments threaten the financial stability of his business empire, Icahn Enterprises IEP .
+Icahn&amp;#x27;s fortune has dwindled to approximately $1.2 billion, according to Seeking Alpha, a dramatic reversal for an investor who spent decades building one of Wall Street&amp;#x27;s most formidable investment businesses.
+Icahn Enterprises is a diversified holding company with investments across energy, automotive, real estate and other industries. Its financial performance depends heavily on the operating results and market value of its underlying investments.
+The company&amp;#x27;s most pressing challenge is refinancing $1.4 billion in bonds due in May 2027.
+Earlier this month, Icahn Enterprises warned that it could not guarantee refinancing the debt on acceptable terms. Yields on those bonds have climbed above 14%, compared with roughly 6% three months earlier.
+Compounding its financial troubles, the company&amp;#x27;s private investment vehicles suffered a staggering 31% loss during the third quarter.
+Meanwhile, shares of CVR Energy CVI , one of Icahn&amp;#x27;s largest investments, have tumbled roughly 40% since the company agreed to acquire two oil refineries from Marathon Petroleum MPC in a $4.2 billion transaction.
+The selloff has further complicated Icahn&amp;#x27;s financial position, with approximately $1.3 billion in personal loans largely secured by his Icahn Enterprises holdings.
+Investors Takeaway
+For Icahn Enterprises investors, the immediate concern is no longer simply investment performance but financial flexibility.
+Refinancing at substantially higher interest rates could further squeeze cash flow and threaten future shareholder distributions.
+Investors should closely monitor refinancing negotiations, asset sales, liquidity levels and CVR Energy&amp;#x27;s refinery acquisition financing.
+A recovery in CVR Energy shares could provide some financial breathing room. However, continued investment losses could leave Icahn Enterprises with fewer attractive options for raising capital ahead of its May debt deadline.&lt;/p&gt;&lt;p&gt;Corporate bonds GuruFocus US stocks
+Read more from GuruFocus&lt;/p&gt;&lt;p&gt;Compare charts&lt;/p&gt;&lt;p&gt;Analyze on Supercharts
+Latest news&lt;/p&gt;&lt;p&gt;More news from GuruFocus&lt;/p&gt;</content:encoded>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
       <wire:relation>unknown</wire:relation>
@@ -86,31 +73,70 @@ Latest news&lt;/p&gt;&lt;p&gt;More news from NewsBTC&lt;/p&gt;</content:encoded>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/newsbtc:374f2aa12094b:0-ethereum-s-co-founder-takes-on-crypto-s-next-security-threat-who-is-vitalik-buterin/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.tradingview.com/news/gurufocus:cccff869d094b:0-billionaire-carl-icahn-faces-looming-1-4-billion-problem/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Dollar set for longest winning run since 2024 on AI risk</title>
-      <link>https://www.tradingview.com/news/moneycontrol:ed742ee31094b:0-dollar-set-for-longest-winning-run-since-2024-on-ai-risk/</link>
-      <guid isPermaLink="false">ab2b4bef87d9eb9de3ded229</guid>
-      <pubDate>Fri, 27 Nov 2026 03:55:37 +0000</pubDate>
-      <description>The dollar is poised for its longest monthly winning streak in two years as a rupture in the artificial intelligence trade and rising interest rates spur demand for safe-haven assets.The Bloomberg ...</description>
+      <title>Nvidia Sellers Deliver a Stark Warning. These AI Stocks Could Feel the Pressure</title>
+      <link>https://www.tradingview.com/news/gurufocus:3f39f1a66094b:0-nvidia-sellers-deliver-a-stark-warning-these-ai-stocks-could-feel-the-pressure/</link>
+      <guid isPermaLink="false">b5858c2772a5f40d39ff9573</guid>
+      <pubDate>Fri, 27 Nov 2026 11:19:29 +0000</pubDate>
+      <description>Nvidia (NVDA) chip suppliers are warning specialized cloud providers that they may lose access to its AI processors if any computing capacity is leased to Chinese companies, CNBC reported Thursday.The ...</description>
+      <content:encoded>&lt;p&gt;News
+/ GuruFocus
+/ Nvidia Sellers Deliver a Stark Warning. These AI Stocks Could Feel the Pressure&lt;/p&gt;&lt;p&gt;Nvidia Sellers Deliver a Stark Warning. These AI Stocks Could Feel the Pressure Less than 1 min read&lt;/p&gt;&lt;p&gt;CRWV NBIS IREN APLD
+Nvidia (NVDA) chip suppliers are warning specialized cloud providers that they may lose access to its AI processors if any computing capacity is leased to Chinese companies, CNBC reported Thursday.
+The guidance follows a Commerce Department rule issued Nov. 16 and effective Nov. 19. The Bureau of Industry and Security measure restricts remote access to advanced U.S. semiconductors through overseas data centers, closing a route that allowed Chinese firms to use chips unavailable for direct import.
+The reported condition goes beyond Nvidia&amp;#x27;s previous policy, under which it would not sell to customers renting more than 50% of their graphics processing unit (GPU) capacity to Chinese companies. Sellers are now applying a stricter threshold and looking for new buyers for processors originally intended for data centers serving Chinese renters.
+The change could affect neocloud operators, companies that lease GPU computing power to customers. Publicly traded providers include CoreWeave CRWV , Nebius Group NBIS , IREN IREN , Applied Digital APLD and TeraWulf (WULF). The restrictions reach beyond chip sales to cloud capacity arrangements, adding another regulatory consideration for companies expanding AI data-center infrastructure.&lt;/p&gt;&lt;p&gt;GuruFocus US stocks
+Read more from GuruFocus&lt;/p&gt;&lt;p&gt;Compare charts&lt;/p&gt;&lt;p&gt;Analyze on Supercharts
+Latest news&lt;/p&gt;&lt;p&gt;More news from GuruFocus&lt;/p&gt;</content:encoded>
+      <wire:foundAt>tradingview_discovery</wire:foundAt>
+      <wire:platform>TradingView News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.tradingview.com/news/gurufocus:3f39f1a66094b:0-nvidia-sellers-deliver-a-stark-warning-these-ai-stocks-could-feel-the-pressure/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Gold, silver rate rebound: Precious metals-linked stocks rally up to 4%; Muthoot Finance, Titan, Hind Zinc shine</title>
+      <link>https://www.tradingview.com/news/moneycontrol:85d4e220a094b:0-gold-silver-rate-rebound-precious-metals-linked-stocks-rally-up-to-4-muthoot-finance-titan-hind-zinc-shine/</link>
+      <guid isPermaLink="false">0a12aeec0627b339e5a3ab5f</guid>
+      <pubDate>Fri, 27 Nov 2026 05:05:14 +0000</pubDate>
+      <description>Shares of gold-linked businesses and financiers, including Muthoot Finance, Manappuram Finance, Titan Company, Kalyan Jewellers, rallied on Friday, November 27, tracking a recovery in international ...</description>
       <content:encoded>&lt;p&gt;News
 / Moneycontrol
-/ Dollar set for longest winning run since 2024 on AI risk&lt;/p&gt;&lt;p&gt;Dollar set for longest winning run since 2024 on AI risk 2 min read&lt;/p&gt;&lt;p&gt;EURUSD
-The dollar is poised for its longest monthly winning streak in two years as a rupture in the artificial intelligence trade and rising interest rates spur demand for safe-haven assets.
-The Bloomberg Dollar Spot Index is up 1.9% in November, putting it on track for a third straight month of gains. The greenback has strengthened against all of its Group-of-10 peers, including the Japanese yen and the Swiss franc.
-A slump in technology stocks, coupled with robust economic growth and elevated inflation, propelled the dollar higher over the past three months. The greenback held near its strongest level since April 2025 in early Asian trading after jumping in pre-holiday US hours on Wednesday, as the Nasdaq 100 index briefly plunged into a bear market and a measure of underlying inflation hit the highest since 2023.
-“It’s a pretty good dollar storm,” said Steven Englander, co-head of FX research and North America macro strategy at Standard Chartered.
-Market repricing for a more hawkish Federal Reserve also supported the dollar this month, according to Sarah Ying, CIBC’s head of FX strategy.
-Traders are fully pricing a 25 basis point interest rate hike next month for the Fed, and are betting on the possibility of two additional increases by the middle of next year. Policymakers have been flagging the need for more tightening, with some calling for lifting rates at successive meetings, while others are open to the possibility of raising by more than the usual quarter percentage point in December.
-Some Wall Street strategists expect the dollar rally to extend into 2027, pointing to the very AI spending binge that’s making stock markets jittery as a driver of US economic growth and capital flows. The greenback has benefited from overseas investors converting local currencies to buy shares of US companies that use the tech.
-“The US economy is booming and inflation is still moving away from the target,” said Win Thin, chief economist at Bank of Nassau 1982. “The Fed needs to hike rates to help cool the economy, perhaps in both December and January. That’s dollar positive.”
-The dollar’s latest surge has won over short-dated options traders, but conviction further out has weakened over the past two months. The divergence suggests investors are positioning for dollar strength into early 2027 while becoming less willing to extend bullish bets much further.
-The latest equities sell-off has raised concerns about the longevity of the AI boom, fueling sharp swings in global markets. In such an environment, the dollar has become “the haven of choice,” according to Goldman Sachs, while MUFG believes that the prospect of higher rates is also helping the currency.
-“Weakness in the US equity market is taking place at a time when there is building evidence of strengthening cyclical growth momentum in the US, which is encouraging a stronger US dollar as a safe haven play,” said Lee Hardman, senior currency analyst at MUFG.
-“The strength of the US economy supports the view of investors that returns are likely to remain higher in the US even if they are currently being challenged by the recent sell-off in US assets,” he said.&lt;/p&gt;&lt;p&gt;Read the full article Get unlimited access to articles from Moneycontrol and every other news source on TradingView.
-Keep reading&lt;/p&gt;&lt;p&gt;EURUSD chart&lt;/p&gt;&lt;p&gt;Analyze on Supercharts
+/ Gold, silver rate rebound: Precious metals-linked stocks rally up to 4%; Muthoot Finance, Titan, Hind Zinc shine&lt;/p&gt;&lt;p&gt;Gold, silver rate rebound: Precious metals-linked stocks rally up to 4%; Muthoot Finance, Titan, Hind Zinc shine 3 min read&lt;/p&gt;&lt;p&gt;XAUUSD SI1!
+Shares of gold-linked businesses and financiers, including Muthoot Finance, Manappuram Finance, Titan Company, Kalyan Jewellers, rallied on Friday, November 27, tracking a recovery in international gold and silver prices. A tentative recovery in technology stocks and a weaker US dollar helped lift sentiment towards bullion, offsetting the prospect of interest rate hikes by the US Federal Reserve.
+Hindustan Zinc, India&amp;#x27;s largest silver producer, and commodity exchange Multi Commodity Exchange (MCX) also traded higher, supported by the rebound in precious metal prices. US holiday lull also helped calm AI-driven market jitters and eased selling pressure on bullion.
+Gold-sensitive stocks today
+Among the gold financiers, Muthoot Finance shares rallied 3.7 percent to hit an intra-day high of Rs 2653.40 against the previous closing price of Rs 2,558, on the BSE. The stock opened at Rs 2,609.
+Shares of Manappuram Finance opened at Rs 274 and climbed 2.8 percent to touch an intra-day high of Rs 277.80 against the previous closing price of Rs 270, on the BSE.
+Jewellery stocks were also trading positive with Titan Company shares surging 3.7 percent to touch an intraday high of Rs 4,805, against the previous closing of Rs 4,631. They opened at Rs 4,650.05. Kalyan Jewellers India shares opened at Rs 645 and touch an intraday high of Rs 665.05, climbing 3.7 percent from its previous close of Rs 640.80.
+Other jewellery stocks also traded largely higher. Thangamayil Jewellery rose 1.5 percent, Sky Gold &amp;amp; Diamonds climbed 1 percent. Senco Gold, however, bucked the trend and declined 2.2 percent.
+Among metal stocks, Hindustan Zinc shares opened at Rs 537.50 and rallied 3.7 percent to an intraday high of Rs 547.50, against its previous day closing of Rs 527.50. Hindustan Zinc is the largest producer of silver in India, and produces refined silver with a minimum 99.9 percent purity.
+Meanwhile, MCX shares gained as much as 2.6 percent to an intraday high of Rs 3,939.85 apiece, from its previous close of Rs 3,837.
+Gold price today
+Spot gold climbed 1.6 percent to $3,622.91 per ounce after hitting its lowest level since September 2025, which it touched on Wednesday, following hot US inflation data that cemented interest-rate-hike bets.
+Bullion was up about 2.7 percent so far this week and was in track for a weekly gain. US gold futures for December delivery gained 2.6% to $3,621.10.
+Sentiment remains fragile, however, in the bullion market at the end of a choppy week of trading. The yellow metal has remained below $4,000 an ounce since November 11 as traders gauged the Fed’s path for combating sticky inflation.
+The precious metal was also on course for a third consecutive monthly loss of more than 6 percent, extending its retreat from a record high in January. The decline gathered pace after the US-Iran war pushed energy costs higher, adding to inflation concerns.
+Spot gold climbed 1.4 percent to $3,616.36 an ounce at 10:24 am in Singapore.
+Silver and other metal prices today
+Other precious metals also witnessed a strong recovery. Spot silver climbed 4.6 percent to $43.40, platinum gained 2.6 percent to $1,323.78, and palladium rose 3.3 percent to $901.50. All three metals were on track for weekly gains.
+In Singapore trading, silver surged 3.6 percent to $43.04 an ounce. Platinum and palladium also advanced.
+Where are gold and silver prices headed? What expert said
+According to Anindya Banerjee, Head of Commodity and Currency Research at Kotak NEO, silver is leading the recovery in precious metals after the recent bout of heavy selling. Banerjee attributed the rebound largely to traders buying back bearish positions, alongside an improvement in risk appetite as copper and technology stocks also recovered.
+Anindya Banerjee, Head of Commodity and Currency Research at Kotak NEO, said, &amp;quot;On Wednesday, gold fell below $3,500 an ounce for the first time since September 2025 and recovered above it in the same session. Ahead of the Indian market open on Friday, gold was back near $3,630, up almost 2%, while silver had gained nearly 5% to around $43.70. An ounce of gold now buys about 83 ounces of silver, down from roughly 85.5 on Thursday. With copper and technology shares also recovering, we see an early improvement in risk appetite. Our reading is that traders buying back bearish positions are driving much of the move.&amp;quot;
+Silver price outlook: $44.50 is the key resistance
+Banerjee further stated, &amp;quot;Silver’s first test is $44.50. A sustained move above it could take prices towards $48–49. On the downside, Thursday’s low near $41 anchors the $41–42 support zone. As long as buyers defend it, the short-term uptrend holds. On MCX, March silver faces resistance at Rs 1,54,000–1,55,000 per kg. A sustained break would open the way to Rs 1,65,000–1,66,000.&amp;quot;
+Gold price outlook: $3,700 key level to watch
+&amp;quot;Gold’s recovery has been more measured. We see resistance at $3,700, above which $3,900 comes into view. For February MCX gold, the corresponding resistance zones are Rs 1,28,000–1,29,000 and then ₹1,34,000–1,35,000 per 10 grams,&amp;quot; the commodity expert added.
+(With Reuters inputs) Disclaimer Disclaimer: The views and investment tips expressed by investment experts on Moneycontrol.com are their own and not those of the website or its management. Moneycontrol.com advises users to check with certified experts before taking any investment decisions.&lt;/p&gt;&lt;p&gt;Read the full article Get unlimited access to articles from Moneycontrol and every other news source on TradingView.
+Keep reading&lt;/p&gt;&lt;p&gt;Compare charts&lt;/p&gt;&lt;p&gt;Analyze on Supercharts
 Latest news&lt;/p&gt;</content:encoded>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
@@ -119,22 +145,56 @@ Latest news&lt;/p&gt;</content:encoded>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/moneycontrol:ed742ee31094b:0-dollar-set-for-longest-winning-run-since-2024-on-ai-risk/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.tradingview.com/news/moneycontrol:85d4e220a094b:0-gold-silver-rate-rebound-precious-metals-linked-stocks-rally-up-to-4-muthoot-finance-titan-hind-zinc-shine/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Chevron Stocks Rise 1.06% as Brent Jumps 3.5% on Saudi Refinery Attack Claim</title>
-      <link>https://www.tradingview.com/news/gurufocus:bd477f7ff094b:0-chevron-stocks-rise-1-06-as-brent-jumps-3-5-on-saudi-refinery-attack-claim/</link>
-      <guid isPermaLink="false">f5607bf201491dc61a26bcdc</guid>
-      <pubDate>Thu, 26 Nov 2026 18:40:46 +0000</pubDate>
-      <description>CVX shares rose 1.06% to $210.95 at the 4:00 p.m. ET close on November 25, after Brent crude settled up 3.5% at $94.61 a barrel when Yemen's Houthis said they attacked Saudi Arabia's Ras Tanura ...</description>
+      <title>XRP Bulls and Bears to Get 3x ETFs Soon</title>
+      <link>https://www.tradingview.com/news/u_today:5df90c2ba094b:0-xrp-bulls-and-bears-to-get-3x-etfs-soon/</link>
+      <guid isPermaLink="false">6e66366ef01230440f6236a4</guid>
+      <pubDate>Thu, 26 Nov 2026 02:54:00 +0000</pubDate>
+      <description>Two proposed U.S. exchange-traded funds would give investors a way to bet on XRP in either direction, with one targeting three times XRP's daily return and the other targeting three times its inverse.</description>
+      <wire:foundAt>tradingview_discovery</wire:foundAt>
+      <wire:platform>TradingView News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.tradingview.com/news/u_today:5df90c2ba094b:0-xrp-bulls-and-bears-to-get-3x-etfs-soon/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Key facts: Three Firms Report Transfer-Related Prologis Share Changes</title>
+      <link>https://www.tradingview.com/news/tradingview:bc041550c8ff4:0-key-facts-three-firms-report-transfer-related-prologis-share-changes/</link>
+      <guid isPermaLink="false">8789f93e39a65fc6faf5bee3</guid>
+      <pubDate>Wed, 25 Nov 2026 16:00:00 +0000</pubDate>
+      <description>This is an AI-generated summary and may contain inaccuracies. Please verify any important information with the original sources.</description>
+      <wire:foundAt>tradingview_discovery</wire:foundAt>
+      <wire:platform>TradingView News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.tradingview.com/news/tradingview:bc041550c8ff4:0-key-facts-three-firms-report-transfer-related-prologis-share-changes/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>SafePal to Hold Giveaway</title>
+      <link>https://www.tradingview.com/news/coindar:79a98885f094b:0-safepal-to-hold-giveaway/</link>
+      <guid isPermaLink="false">46ce0b8f8b7de4f25fd4034b</guid>
+      <pubDate>Wed, 25 Nov 2026 15:48:55 +0000</pubDate>
+      <description>SafePal will distribute 2,500 blind-box NFTs on November 26th on a first-come, first-served basis. The distribution will offer $4,500 in rewards, with stated individual values ranging from $1 to $200.</description>
       <content:encoded>&lt;p&gt;News
-/ GuruFocus
-/ Chevron Stocks Rise 1.06% as Brent Jumps 3.5% on Saudi Refinery Attack Claim&lt;/p&gt;&lt;p&gt;Chevron Stocks Rise 1.06% as Brent Jumps 3.5% on Saudi Refinery Attack Claim Less than 1 min read&lt;/p&gt;&lt;p&gt;CVX UKOIL
-Chevron CVX shares rose 1.06% to $210.95 at the 4:00 p.m. ET close on November 25, after Brent crude settled up 3.5% at $94.61 a barrel when Yemen&amp;#x27;s Houthis said they attacked Saudi Arabia&amp;#x27;s Ras Tanura refinery. West Texas Intermediate rose 2% to $83.68. Chevron outperformed Exxon Mobil, which edged 0.09% lower on the same day.
-The supply impact is still unclear. A person with knowledge of the matter confirmed to Reuters that the refinery came under attack, while the Saudi government and Aramco did not immediately comment. Iran&amp;#x27;s Revolutionary Guards said a container ship near Hormuz was targeted and stopped on November 24. Offsetting signals remain: U.S. commercial crude inventories rose 1.1 million barrels to 418.9 million in the week to November 20, and OPEC+ meets on November 29 to set 2027 output. Energy was among the S&amp;amp;P 500&amp;#x27;s strongest sectors, Yahoo Finance noted in its market coverage.&lt;/p&gt;&lt;p&gt;A 1% gain against a 3.5% Brent jump shows investors pricing a short-lived risk premium, not a new oil cycle. The GuruFocus chart shows a GF Score of 65/100, where a solid balance sheet and decent profitability are dragged down by momentum at the very bottom of GuruFocus&amp;#x27;s scale. GF Value is $182.18, putting the shares at a 15.8% premium and a &amp;quot;modestly overvalued&amp;quot; label, which suggests the price already assumes firm crude. The next test is the November 29 OPEC+ meeting, where higher quotas would cap the upside from Middle East risk.&lt;/p&gt;&lt;p&gt;Futures GuruFocus US stocks
-Read more from GuruFocus&lt;/p&gt;&lt;p&gt;Compare charts&lt;/p&gt;&lt;p&gt;Analyze on Supercharts
-Latest news&lt;/p&gt;&lt;p&gt;More news from GuruFocus&lt;/p&gt;</content:encoded>
+/ Coindar
+/ SafePal to Hold Giveaway&lt;/p&gt;&lt;p&gt;SafePal to Hold Giveaway Less than 1 min read&lt;/p&gt;&lt;p&gt;SFPUSD&lt;/p&gt;&lt;p&gt;SafePal will distribute 2,500 blind-box NFTs on November 26th on a first-come, first-served basis. The distribution will offer $4,500 in rewards, with stated individual values ranging from $1 to $200.
+Refer to the official tweet by SFP:&lt;/p&gt;&lt;p&gt;SafePal - Crypto Wallet
+@SafePal&lt;/p&gt;&lt;p&gt;$4,500 rewards
+2,500 Blind Boxes NFT ($1~$200)
+First come, first served tmr
+For all AI BELIEVERS&lt;/p&gt;&lt;p&gt;Nov 25, 2026&lt;/p&gt;&lt;p&gt;SFP Info
+SafePal is a cryptocurrency wallet that aims to provide a secure and user-friendly crypto asset management platform for the masses. SafePal provides hardware wallet and software wallet product lines, all paired and managed through the SafePal App, where users can easily store, manage, swap, trade, and grow their crypto wealth.&lt;/p&gt;&lt;p&gt;Coindar Crypto Technology
+Read more from Coindar&lt;/p&gt;&lt;p&gt;SFPUSD chart&lt;/p&gt;&lt;p&gt;Analyze on Supercharts
+Latest news&lt;/p&gt;&lt;p&gt;More news from Coindar&lt;/p&gt;</content:encoded>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
       <wire:relation>unknown</wire:relation>
@@ -142,187 +202,82 @@ Latest news&lt;/p&gt;&lt;p&gt;More news from GuruFocus&lt;/p&gt;</content:encode
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/gurufocus:bd477f7ff094b:0-chevron-stocks-rise-1-06-as-brent-jumps-3-5-on-saudi-refinery-attack-claim/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.tradingview.com/news/coindar:79a98885f094b:0-safepal-to-hold-giveaway/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Meta Platforms Stocks Jump 3.4% on Reported Amazon Talks Over Muse AI Agent</title>
-      <link>https://www.tradingview.com/news/gurufocus:f0f83e8f9094b:0-meta-platforms-stocks-jump-3-4-on-reported-amazon-talks-over-muse-ai-agent/</link>
-      <guid isPermaLink="false">b2e05173f3b3a9217a260279</guid>
-      <pubDate>Thu, 26 Nov 2026 17:23:38 +0000</pubDate>
-      <description>META shares jumped 3.4% to $609.89 at the 4:00 p.m. ET close on November 25, after Fortune reported that Amazon is in talks that could let Meta's Muse AI agent back onto its marketplace. The reversal ...</description>
-      <content:encoded>&lt;p&gt;News
-/ GuruFocus
-/ Meta Platforms Stocks Jump 3.4% on Reported Amazon Talks Over Muse AI Agent&lt;/p&gt;&lt;p&gt;Meta Platforms Stocks Jump 3.4% on Reported Amazon Talks Over Muse AI Agent 1 min read&lt;/p&gt;&lt;p&gt;META AMZN
-Meta Platforms META shares jumped 3.4% to $609.89 at the 4:00 p.m. ET close on November 25, after Fortune reported that Amazon is in talks that could let Meta&amp;#x27;s Muse AI agent back onto its marketplace. The reversal was sharp. Shares had dropped 3.74% to $567.75 earlier in the session, so the close marked a 7.4% swing off the low.
-Muse is a personal AI agent that books reservations and buys products for its users. Meta launched it in the U.S. in September, and more than 10 million people in the U.S. and Canada had set it up by October, according to TradingKey coverage of the talks. Amazon blocked the agent in September, citing its user agreements. Any deal would need sign-off from both chief executives, and both companies declined to comment. Andy Jassy has said Amazon is open to outside shopping agents if they deliver fair value in return.&lt;/p&gt;&lt;p&gt;A deal would give Muse access to the largest U.S. online store, the difference between an agent that recommends and one that completes purchases. That is the monetization path investors want after heavy AI spending, though terms could include fees or data-sharing that dilute the payoff. The GuruFocus chart shows a GF Score of 99/100, with elite profitability, a sturdy balance sheet and solid momentum. GF Value of $892.33 implies a 31.7% discount and a &amp;quot;significantly undervalued&amp;quot; label, suggesting the market still weighs Meta&amp;#x27;s capex more heavily than its earning power. The next test is a signed agreement; until then, Wednesday&amp;#x27;s rally rests on a report, not a contract.&lt;/p&gt;&lt;p&gt;GuruFocus US stocks
-Read more from GuruFocus&lt;/p&gt;&lt;p&gt;Compare charts&lt;/p&gt;&lt;p&gt;Analyze on Supercharts
-Latest news&lt;/p&gt;&lt;p&gt;More news from GuruFocus&lt;/p&gt;</content:encoded>
-      <wire:foundAt>tradingview_discovery</wire:foundAt>
-      <wire:platform>TradingView News</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/gurufocus:f0f83e8f9094b:0-meta-platforms-stocks-jump-3-4-on-reported-amazon-talks-over-muse-ai-agent/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>RaveDAO: Unlocks 21.38 Million RAVE - Oct 2027</title>
-      <link>https://www.tradingview.com/news/coinmarketcal:69483b977094b:0-ravedao-unlocks-21-38-million-rave-oct-2027/</link>
-      <guid isPermaLink="false">de9346031ff1e043e3d189b2</guid>
-      <pubDate>Thu, 26 Nov 2026 16:25:00 +0000</pubDate>
-      <description>RaveDAO has scheduled a RAVE supply unlock for October 2027. The release covers 21.38 million RAVE, equal to 7.78% of the circulating supply. The release includes allocations for the community, the ...</description>
+      <title>PowerCompute Received Notice of Delisting</title>
+      <link>https://www.tradingview.com/news/tradingview:3fe2bdaf3055b:0-powercompute-received-notice-of-delisting/</link>
+      <guid isPermaLink="false">fd04518f3acdba3b9a6f31fe</guid>
+      <pubDate>Wed, 25 Nov 2026 06:03:00 +0000</pubDate>
+      <description>On November 20, 2026, Nasdaq issued PowerCompute a delisting determination after its stock closed below the $1.00 minimum bid price required by Nasdaq Listing Rule 5550(a)(2) for 30 consecutive ...</description>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/coinmarketcal:69483b977094b:0-ravedao-unlocks-21-38-million-rave-oct-2027/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.tradingview.com/news/tradingview:3fe2bdaf3055b:0-powercompute-received-notice-of-delisting/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Zcash Whale Wakes Up After 9 Years, Moves $11.39 Million To Kraken</title>
-      <link>https://www.tradingview.com/news/newsbtc:950a3b40a094b:0-zcash-whale-wakes-up-after-9-years-moves-11-39-million-to-kraken/</link>
-      <guid isPermaLink="false">7073dff3d407b5663ca12527</guid>
-      <pubDate>Thu, 26 Nov 2026 13:25:20 +0000</pubDate>
-      <description>Key takeawaysNine years is an eternity in crypto. Yet one Zcash whale appears to have spent that long sitting on an investment made during the privacy coin’s early days. On Thursday, blockchain ...</description>
-      <content:encoded>&lt;p&gt;News
-/ NewsBTC
-/ Zcash Whale Wakes Up After 9 Years, Moves $11.39 Million To Kraken&lt;/p&gt;&lt;p&gt;Zcash Whale Wakes Up After 9 Years, Moves $11.39 Million To Kraken 3 min read&lt;/p&gt;&lt;p&gt;ZECUSD
-Key takeaways
-Lookonchain reports a Zcash whale moved 15,750 ZEC, about $11.39 million, to Kraken after nine years.
-The whale reportedly bought 23,412 ZEC in 2017 at about $215 (just over $5 million). The deposit is roughly two-thirds of that position.
-At about $723 per ZEC, the coins are worth around $8 million more than their estimated cost, a gain of roughly 236%.
-A deposit to an exchange is not proof of a sale, and the acquisition price is an estimate, not a verified record.
-More early holders moving dormant coins to exchanges could mean new Zcash buyers absorb supply from older holders.
-Nine years is an eternity in crypto. Yet one Zcash whale appears to have spent that long sitting on an investment made during the privacy coin’s early days. On Thursday, blockchain monitoring platform Lookonchain reported that the investor had moved 15,750 ZEC, worth $11.39 million, to Kraken.
-The coins date back to 2017, when Ethereum was still a relatively young network, decentralized finance barely existed and Zcash was attempting to establish itself as a more private alternative to Bitcoin.
-Almost a decade later, the wallet is active again. And its owner’s reported acquisition price makes the transaction particularly interesting.&lt;/p&gt;&lt;p&gt;A $5 Million Bet On Zcash In 2017
-According to Lookonchain, the whale originally acquired 23,412 ZEC at an average price of approximately $215, representing an investment of just over $5 million.
-The latest transactions account for roughly two-thirds of that original position, with at least 7,750 ZEC transferred to a Kraken deposit address.&lt;/p&gt;&lt;p&gt;At the reported transfer valuation of approximately $723 per ZEC, those 15,750 coins are worth around $8 million more than their estimated acquisition cost. That would represent a return of approximately 236% if the investor sold them at that price.&lt;/p&gt;&lt;p&gt;What makes this wallet fascinating, however, is what happened between those two valuations.
-Zcash spent much of 2024 and early 2025 trading around $16 to $20 before staging a remarkable comeback. At $20 per coin, the whale’s original investment would have been worth less than $470,000, a paper loss of more than 90%, assuming the position remained intact.
-Holding an asset through a temporary market correction is one thing. Holding it through years of declining relevance, while newer cryptocurrencies attract developers, investors and attention, is something else entirely.
-Whatever the owner’s reasons for keeping the coins untouched, the decision has aged considerably better than it appeared to during Zcash’s quieter years.
-The Interesting Paradox Behind A Zcash Whale
-There is something almost ironic about the fact that investors are following the movements of a whale holding one of crypto’s best-known privacy coins.
-Unlike networks where transaction privacy is mandatory, Zcash supports both transparent and shielded transactions. Transparent addresses allow observers to examine balances and transfers, while shielded transactions use zero-knowledge cryptography to conceal transaction details.
-That distinction explains how blockchain monitoring platforms can identify certain large ZEC movements despite the cryptocurrency’s privacy capabilities.
-It also explains why the available information tells only part of the story.
-Lookonchain can identify an apparent exchange deposit and estimate its value. Establishing who controls the wallet, whether ownership changed privately during those nine years or what the investor intends to do next is considerably harder.
-Even the reported acquisition price is an estimate rather than a verified record of the owner’s personal trading history.
-That is an important limitation of on-chain analysis, particularly when dealing with a network explicitly designed to give users greater control over their financial visibility.
-Zcash’s Comeback Has Given Early Investors An Exit
-The renewed enthusiasm surrounding Zcash has attracted a different kind of investor from the one buying ZEC in 2017.
-Corporate treasury strategies have emerged, institutional investors have taken an interest in privacy-focused assets, and the debate over financial surveillance has given Zcash a fresh investment narrative.
-NewsBTC previously reported that Winklevoss Capital backed the launch of a dedicated Zcash treasury strategy, illustrating how exposure to the cryptocurrency has begun extending beyond traditional crypto wallets.
-But the revival of an old cryptocurrency also comes with an interesting complication: investors who have spent years underwater finally have an opportunity to recover their capital or take profits.
-That does not necessarily make the Kraken deposit bearish. A transfer to an exchange is not proof of a completed sale, and one wallet cannot establish a broader trend among Zcash holders.
-Still, the transaction is worth watching. If more early investors start moving dormant coins onto exchanges, Zcash’s new buyers may find themselves absorbing supply from an entirely different generation of holders.
-Nine years ago, someone reportedly committed more than $5 million to the idea of private digital money. Today, the blockchain offers a glimpse of what that investment has become.
-Whether the owner has finished holding Zcash is a question the blockchain alone cannot yet answer.&lt;/p&gt;&lt;p&gt;Crypto Market moves NewsBTC
-Read more from NewsBTC&lt;/p&gt;&lt;p&gt;ZECUSD chart&lt;/p&gt;&lt;p&gt;Analyze on Supercharts
-Latest news&lt;/p&gt;&lt;p&gt;More news from NewsBTC&lt;/p&gt;</content:encoded>
-      <wire:foundAt>tradingview_discovery</wire:foundAt>
-      <wire:platform>TradingView News</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/newsbtc:950a3b40a094b:0-zcash-whale-wakes-up-after-9-years-moves-11-39-million-to-kraken/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Binance restores withdrawals across nearly all networks four weeks after record $6.3B hack</title>
-      <link>https://www.tradingview.com/news/cryptobriefing:474a67f1d094b:0-binance-restores-withdrawals-across-nearly-all-networks-four-weeks-after-record-6-3b-hack/</link>
-      <guid isPermaLink="false">5310533658fdddd2e6637fa1</guid>
-      <pubDate>Thu, 26 Nov 2026 05:43:00 +0000</pubDate>
-      <description>Binance says withdrawals are running again on nearly all of its supported networks. The restart comes roughly four weeks after attackers drained approximately $6.3 billion to $6.4 billion from the ...</description>
+      <title>Dermata Therapeutics Disclosed Failure to Satisfy a Continued Listing Rule or Standard</title>
+      <link>https://www.tradingview.com/news/tradingview:89995edc51b4d:0-dermata-therapeutics-disclosed-failure-to-satisfy-a-continued-listing-rule-or-standard/</link>
+      <guid isPermaLink="false">64813dcb1979ceae51affd4a</guid>
+      <pubDate>Wed, 25 Nov 2026 06:03:00 +0000</pubDate>
+      <description>On November 23, 2026, Dermata Therapeutics received notice that it failed to meet Nasdaq Listing Rule 5550(a)(2), which requires a minimum bid price of $1.00 per share, after its closing bid price ...</description>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/cryptobriefing:474a67f1d094b:0-binance-restores-withdrawals-across-nearly-all-networks-four-weeks-after-record-6-3b-hack/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.tradingview.com/news/tradingview:89995edc51b4d:0-dermata-therapeutics-disclosed-failure-to-satisfy-a-continued-listing-rule-or-standard/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Aave: Aave Pro lets users open leveraged positions in one transaction - 26 Nov 2026</title>
-      <link>https://www.tradingview.com/news/coinmarketcal:d375bf55d094b:0-aave-aave-pro-lets-users-open-leveraged-positions-in-one-transaction-26-nov-2026/</link>
-      <guid isPermaLink="false">00313a8110c6c2dcd6749545</guid>
-      <pubDate>Thu, 26 Nov 2026 02:00:00 +0000</pubDate>
-      <description>Aave Pro lets users open leveraged Aave V4 positions in one transaction on Ethereum and Avalanche. Both the asset put up as collateral and the asset borrowed must also be listed on Aave V3 on the same ...</description>
+      <title>Orca: Formation Securities files notice for tokenized securities venue - 25 Nov 2026</title>
+      <link>https://www.tradingview.com/news/coinmarketcal:31c6e5b1f094b:0-orca-formation-securities-files-notice-for-tokenized-securities-venue-25-nov-2026/</link>
+      <guid isPermaLink="false">fa295e2bab6b7e057067de5a</guid>
+      <pubDate>Wed, 25 Nov 2026 05:00:00 +0000</pubDate>
+      <description>Formation Securities has filed a notice under the SEC's Innovation Exemption to operate what is planned as Solana's first venue for trading tokenized securities.The venue plans to use Orca's licensed ...</description>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/coinmarketcal:d375bf55d094b:0-aave-aave-pro-lets-users-open-leveraged-positions-in-one-transaction-26-nov-2026/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.tradingview.com/news/coinmarketcal:31c6e5b1f094b:0-orca-formation-securities-files-notice-for-tokenized-securities-venue-25-nov-2026/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>WhiteBIT Coin: MEXC delists WBT - 27 Nov 2026</title>
-      <link>https://www.tradingview.com/news/coinmarketcal:eefe7e8d2094b:0-whitebit-coin-mexc-delists-wbt-27-nov-2026/</link>
-      <guid isPermaLink="false">f3d99e885f860ecaf0543bdb</guid>
-      <pubDate>Wed, 25 Nov 2026 23:00:00 +0000</pubDate>
-      <description>MEXC will delist WBT on 27 November 2026, ending trading in the token on the exchange. Withdrawals will remain open for at least 30 days, and WhiteBIT recommends completing them by 27 December ...</description>
+      <title>Pangolin to Launch Mainnet on November 26th</title>
+      <link>https://www.tradingview.com/news/coindar:a26a83e89094b:0-pangolin-to-launch-mainnet-on-november-26th/</link>
+      <guid isPermaLink="false">856b9ca74a716757f3170115</guid>
+      <pubDate>Mon, 23 Nov 2026 22:36:00 +0000</pubDate>
+      <description>Pangolin will deploy its ve(3,3) protocol on mainnet on November 26th, with public access opening on December 10th. The protocol will feature token locking, voting and rewards.Refer to the official ...</description>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/coinmarketcal:eefe7e8d2094b:0-whitebit-coin-mexc-delists-wbt-27-nov-2026/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.tradingview.com/news/coindar:a26a83e89094b:0-pangolin-to-launch-mainnet-on-november-26th/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>SoSoValue: SSI Protocol launches the Anthropic Believers Index Token - 26 Nov 2026</title>
-      <link>https://www.tradingview.com/news/coinmarketcal:aed300c5b094b:0-sosovalue-ssi-protocol-launches-the-anthropic-believers-index-token-26-nov-2026/</link>
-      <guid isPermaLink="false">38ae2fadf99d9f5a042ce95f</guid>
-      <pubDate>Wed, 25 Nov 2026 20:00:00 +0000</pubDate>
-      <description>The SSI Protocol issues the Anthropic Believers Index Token on November 26, 2026. The token provides exposure to Anthropic and to companies in its AI infrastructure ecosystem.The token is tradable on ...</description>
+      <title>Bybit's Global User Base Surpasses 90 Million as Company Expands Into Traditional Finance</title>
+      <link>https://www.tradingview.com/news/chainwire:7f36e33ce094b:0-bybit-s-global-user-base-surpasses-90-million-as-company-expands-into-traditional-finance/</link>
+      <guid isPermaLink="false">bc9c0ed421714a64b4bf9243</guid>
+      <pubDate>Thu, 19 Nov 2026 16:00:00 +0000</pubDate>
+      <description>Dubai, United Arab Emirates,, November 20th, 2026, ChainwireBybit, the New Financial Platform today announced that it has surpassed 90 million registered users worldwide, marking another milestone in ...</description>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/coinmarketcal:aed300c5b094b:0-sosovalue-ssi-protocol-launches-the-anthropic-believers-index-token-26-nov-2026/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Cosmos Hub: Banks gain access to Cosmos Tokenization Suite - 26 Nov 2026</title>
-      <link>https://www.tradingview.com/news/coinmarketcal:a759644af094b:0-cosmos-hub-banks-gain-access-to-cosmos-tokenization-suite-26-nov-2026/</link>
-      <guid isPermaLink="false">9c52ac0a1b5b686299c1458e</guid>
-      <pubDate>Wed, 25 Nov 2026 20:00:00 +0000</pubDate>
-      <description>On November 26, 2026, banks can add the Cosmos Tokenization Suite through their Fiserv or Jack Henry core systems. The suite lets banks offer clients 24/7 payments, real-time treasury management, and ...</description>
-      <wire:foundAt>tradingview_discovery</wire:foundAt>
-      <wire:platform>TradingView News</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/coinmarketcal:a759644af094b:0-cosmos-hub-banks-gain-access-to-cosmos-tokenization-suite-26-nov-2026/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>‘Carl Icahn Did Not Play Nice:’ Michael Dell Takes a Swipe at Billionaire as Activist Investor’s Fortune Reportedly Shrinks by $21 Billion</title>
-      <link>https://www.tradingview.com/news/benzinga:3a0a01072094b:0-carl-icahn-did-not-play-nice-michael-dell-takes-a-swipe-at-billionaire-as-activist-investor-s-fortune-reportedly-shrinks-by-21-billion/</link>
-      <guid isPermaLink="false">391b31baf38d248aa2288f80</guid>
-      <pubDate>Wed, 25 Nov 2026 18:02:00 +0000</pubDate>
-      <description>Michael Dell took a pointed swipe at billionaire activist investor Carl Icahn, reviving memories of their bitter corporate battle more than a decade ago as Icahn’s fortune reportedly dwindles amid ...</description>
-      <wire:foundAt>tradingview_discovery</wire:foundAt>
-      <wire:platform>TradingView News</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/benzinga:3a0a01072094b:0-carl-icahn-did-not-play-nice-michael-dell-takes-a-swipe-at-billionaire-as-activist-investor-s-fortune-reportedly-shrinks-by-21-billion/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.tradingview.com/news/chainwire:7f36e33ce094b:0-bybit-s-global-user-base-surpasses-90-million-as-company-expands-into-traditional-finance/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
   </channel>
