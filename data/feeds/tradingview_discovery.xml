@@ -5,26 +5,80 @@
     <link>https://www.bing.com/news/search?q=site%3Atradingview.com+%28%22Reuters%22+OR+%22Bloomberg%22%29&amp;format=rss&amp;mkt=en-US</link>
     <description>Diagnostic feed grouped by acquisition connector.</description>
     <language>mul</language>
-    <lastBuildDate>Thu, 26 Nov 2026 23:12:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 05:15:44 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>Binance completes withdrawal recovery four weeks after $6.3B hack</title>
-      <link>https://www.tradingview.com/news/cointelegraph:95b0c39c8094b:0-binance-completes-withdrawal-recovery-four-weeks-after-6-3b-hack/</link>
-      <guid isPermaLink="false">a59fa57209962c85b3f1d402</guid>
-      <pubDate>Thu, 26 Nov 2026 21:33:47 +0000</pubDate>
-      <description>Binance said Thursday it had lifted all withdrawal suspensions related to its October hack, four weeks after an attack drained $6.3 billion in funds from the exchange in the largest cryptocurrency ...</description>
+      <title>Ethereum’s Co-Founder Takes On Crypto’s Next Security Threat. Who Is Vitalik Buterin?</title>
+      <link>https://www.tradingview.com/news/newsbtc:374f2aa12094b:0-ethereum-s-co-founder-takes-on-crypto-s-next-security-threat-who-is-vitalik-buterin/</link>
+      <guid isPermaLink="false">6966b5c680552cf8d366e7c2</guid>
+      <pubDate>Fri, 27 Nov 2026 04:13:08 +0000</pubDate>
+      <description>Key takeawaysWho is Vitalik Buterin, and why is Ethereum’s co-founder now questioning the security of the very devices crypto investors use to protect their wealth? The 32-year-old programmer has ...</description>
       <content:encoded>&lt;p&gt;News
-/ Cointelegraph
-/ Binance completes withdrawal recovery four weeks after $6.3B hack&lt;/p&gt;&lt;p&gt;Binance completes withdrawal recovery four weeks after $6.3B hack Less than 1 min read&lt;/p&gt;&lt;p&gt;BTCUSD BNBUSD
-Binance said Thursday it had lifted all withdrawal suspensions related to its October hack, four weeks after an attack drained $6.3 billion in funds from the exchange in the largest cryptocurrency theft on record.
-In an announcement, Binance said withdrawals had resumed across nearly all networks, with a small number remaining temporarily suspended due to maintenance or planned upgrades unrelated to the hack.
-The exchange’s network status page shows partial deposit and withdrawal suspensions for several cryptocurrencies. USDC withdrawals, for instance, remain suspended on Hedera and World Chain due to low hot wallet balances and on Sonic due to security issues.
-Binance warned users against phishing attempts, saying it would never request passwords or seed phrases or offer expedited withdrawals. The exchange also said customers could verify that their assets are backed at a minimum ratio of 1:1 through its proof-of-reserves system.
-The Oct. 29 attack targeted Binance’s hot wallets across multiple blockchains, with blockchain analytics firm TRM Labs attributing the theft to North Korea’s TraderTraitor group. Following the breach, Binance said it had set aside more than $6.34 billion in company funds to cover the losses.
-Thursday’s announcement marks the end of a phased recovery process that began on Nov. 1, when Binance resumed Bitcoin BTCUSD withdrawals before gradually restoring services across other blockchain networks.
-Magazine: 7 bizarre things crypto whales spent a fortune on&lt;/p&gt;&lt;p&gt;Cointelegraph Crypto Security
-Read more from Cointelegraph&lt;/p&gt;&lt;p&gt;Compare charts&lt;/p&gt;&lt;p&gt;Analyze on Supercharts
-Latest news&lt;/p&gt;&lt;p&gt;More news from Cointelegraph&lt;/p&gt;</content:encoded>
+/ NewsBTC
+/ Ethereum’s Co-Founder Takes On Crypto’s Next Security Threat. Who Is Vitalik Buterin?&lt;/p&gt;&lt;p&gt;Ethereum’s Co-Founder Takes On Crypto’s Next Security Threat. Who Is Vitalik Buterin? 6 min read&lt;/p&gt;&lt;p&gt;ETHUSD
+Key takeaways
+Vitalik Buterin’s November 26 essay argues that crypto security must extend to the physical chips inside devices, summed up as “Not your silicon, not your keys.”
+He wants manufacturers to publish physical chip layouts (GDS files) so investigators can compare real hardware against the design.
+Researcher Andrew Huang’s infrared inspection technique (IRIS) can examine chips without removing them, but it has resolution limits and is not a universal fix.
+The essay is a proposal, not a claim that existing hardware wallets are compromised, and publishing it does not give Buterin power to change Ethereum unilaterally.
+Arkham attributes about $390 million in assets to Buterin, mostly roughly 224,000 ETH, though his true net worth is not publicly established.
+Who is Vitalik Buterin, and why is Ethereum’s co-founder now questioning the security of the very devices crypto investors use to protect their wealth? The 32-year-old programmer has turned his attention to a problem that even open-source software cannot necessarily solve: compromised computer chips.
+In an essay published on November 26, Buterin argued that cryptocurrency security needs to extend beyond software and into the physical hardware on which it runs. His message builds on one of crypto’s oldest principles, but with a new twist:
+“ Not your silicon, not your keys.
+Vitalik Buterin · Essay, November 26
+For someone who helped build an alternative to centralized financial infrastructure, questioning the manufacturers behind that infrastructure seems like a natural next step.
+It also reflects a security philosophy that has become increasingly visible in Buterin’s work, from his push for greater privacy and quantum safety on Ethereum’s roadmap to his interest in independently verifiable computing.
+Who Is Vitalik Buterin?
+Vitalik Buterin is a Russian-Canadian programmer, researcher and writer who conceived Ethereum in 2013, at the age of 19.
+Born in Russia in 1994 and raised in Canada, Buterin discovered Bitcoin in 2011. He went on to co-found Bitcoin Magazine, where he explored the technology and economics behind cryptocurrencies long before digital assets attracted mainstream financial institutions.
+His involvement in Bitcoin exposed him to a problem that would eventually lead to Ethereum. Blockchain technology had potential beyond transferring money, but building more sophisticated applications on Bitcoin presented technical limitations.
+Rather than trying to accommodate every possible application within Bitcoin’s existing architecture, Buterin began working on a blockchain designed specifically for programmability.
+At the time, he was studying computer science at the University of Waterloo, where he also worked as a research assistant to cryptographer Ian Goldberg.
+According to the University of Waterloo, Buterin received a $100,000 Thiel Fellowship in 2014 and subsequently left university to work on Ethereum full-time.
+How Vitalik Buterin Created Ethereum
+In November 2013, Buterin wrote the initial draft of what would become the Ethereum whitepaper.
+The proposal described a blockchain with a general-purpose programming environment. Developers would no longer need to create an entirely new network every time they wanted to build a decentralized application.
+Consider a lending platform. Instead of relying on a bank to manage collateral, calculate interest and authorize withdrawals, developers could encode those rules into smart contracts running on Ethereum.
+That does not eliminate every risk. Smart contracts can contain bugs, depend on unreliable external data or operate under centralized administrative controls. What Ethereum introduced was the ability to execute financial and other programmable agreements on a shared blockchain.
+Although Buterin originated the concept, Ethereum was not built by him alone. Its founding team included seven other individuals: Gavin Wood, Joseph Lubin, Charles Hoskinson, Anthony Di Iorio, Mihai Alisie, Jeffrey Wilcke and Amir Chetrit.
+The project’s first live network, known as Frontier, launched on July 30, 2015.
+What began as an experimental computing platform eventually became the foundation for much of the decentralized finance industry. Stablecoins, decentralized exchanges, lending protocols and tokenized financial assets now use the infrastructure that Buterin and Ethereum’s early contributors helped establish.
+The network’s own evolution, particularly its transition to proof-of-stake and the development of Layer 2 scaling networks, has shaped Ethereum’s first decade.
+Vitalik Buterin’s Latest Warning: Can Crypto Wallets Really Be Trusted?
+A hardware wallet is supposed to keep private keys away from potentially compromised computers and smartphones. But what happens if the device itself cannot be trusted?
+Buterin’s latest research examines that possibility. He points to supply chain attacks involving tampered wallets and considers the potential for malicious modifications concealed inside apparently legitimate chips.
+Open-source firmware allows researchers to examine the instructions a device runs. But those instructions reveal little about whether the manufactured chip has been altered.
+Buterin wants manufacturers to disclose physical chip layouts, known as GDS files, so investigators have a reference against which to inspect actual hardware.
+The distinction matters. Knowing what a chip is designed to do is not necessarily the same as knowing what the chip inside your wallet actually does.
+The Technology That Could Help Detect Compromised Chips
+One approach highlighted by Buterin comes from hardware security researcher Andrew Huang, better known as bunnie.
+Huang has been developing a technique called Infra-Red, In Situ inspection (IRIS), which exploits the fact that silicon becomes transparent at certain infrared wavelengths.
+Using infrared illumination and suitable imaging equipment, researchers can examine parts of a chip’s internal structure without necessarily removing it from its circuit board.
+The technique could help detect substituted components or unexpected differences between manufactured chips and their intended designs.
+However, it is not a universal solution.
+In a 2024 update on his research, Huang explained that infrared imaging has resolution limits. It cannot reliably reveal every microscopic feature of modern chips. Combining imaging with additional electrical testing could improve confidence in a component’s integrity.
+That is an important limitation for crypto investors. Publishing an open hardware design does not automatically make a wallet secure, just as publishing a smart contract’s code does not establish that it is free of vulnerabilities.
+Buterin acknowledges that sophisticated hardware inspections are more likely to be performed by specialist organizations than ordinary wallet owners.
+His essay is a proposal for improving security, not an announcement that existing hardware wallets have all been compromised.
+Does Vitalik Buterin Control Ethereum?
+Despite his status as Ethereum’s most recognizable co-founder, Buterin is not its CEO.
+Ethereum is maintained through the participation of independent developers, researchers, node operators, validators and other ecosystem contributors. Changes to the network involve technical proposals, discussion, software development and adoption by participants.
+Buterin has considerable influence over those discussions, but publishing a proposal does not give him the authority to implement it unilaterally.
+His role within the Ethereum Foundation is also distinct from control over the blockchain itself. In its April 2025 governance announcement, the Foundation described Buterin’s responsibilities as providing technical and intellectual guidance to the wider ecosystem.
+His research can influence the direction Ethereum takes. Whether the network ultimately follows that direction depends on considerably more than his endorsement.
+How Much Is Vitalik Buterin Worth?
+Buterin accumulated considerable wealth through his involvement in Ethereum, with much of his publicly visible cryptocurrency wealth tied to ETH.&lt;/p&gt;&lt;p&gt;However, his exact net worth is not publicly established.
+Blockchain analytics can estimate the value of assets held in wallets attributed to him, but those figures do not necessarily account for all his investments, liabilities, private assets or holdings at addresses that have not been publicly identified.&lt;/p&gt;&lt;p&gt;They also fluctuate with cryptocurrency prices. A wallet valuation should therefore not be confused with a complete assessment of his personal wealth.
+What Is Vitalik Buterin’s Vision for the Future of Crypto?
+Buterin’s latest essay is part of a longer-running interest in making digital infrastructure independently verifiable.
+In September 2025, he published The Importance of Full-Stack Openness and Verifiability, exploring how transparency could extend across the hardware and software underpinning increasingly important parts of people’s lives.
+His broader research includes cryptography, privacy, blockchain scalability and Ethereum’s transition toward greater quantum resistance. Buterin has previously called for greater experimentation across Ethereum’s application layer without compromising its core principles of censorship resistance, open-source development, privacy and security.&lt;/p&gt;&lt;p&gt;These interests share a practical concern: whether users can independently establish that the systems they rely on behave as intended.
+There is a commercial obstacle, though. Semiconductor manufacturers invest heavily in proprietary processes, and designing chips specifically for inspectability can involve performance compromises.
+But a device signing a cryptocurrency transaction does not necessarily need the computing power of a modern AI processor. That makes security-focused hardware a potentially useful starting point.
+More than a decade ago, Buterin challenged the idea that blockchains should primarily be used to transfer money. His latest work challenges another assumption the industry has grown comfortable with: that trusting the code is enough.
+For crypto investors, the next meaningful development may come from hardware manufacturers willing to make their products independently inspectable, rather than another software update promising greater security.&lt;/p&gt;&lt;p&gt;Crypto NewsBTC People
+Read more from NewsBTC&lt;/p&gt;&lt;p&gt;ETHUSD chart&lt;/p&gt;&lt;p&gt;Analyze on Supercharts
+Latest news&lt;/p&gt;&lt;p&gt;More news from NewsBTC&lt;/p&gt;</content:encoded>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
       <wire:relation>unknown</wire:relation>
@@ -32,22 +86,32 @@ Latest news&lt;/p&gt;&lt;p&gt;More news from Cointelegraph&lt;/p&gt;</content:en
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/cointelegraph:95b0c39c8094b:0-binance-completes-withdrawal-recovery-four-weeks-after-6-3b-hack/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.tradingview.com/news/newsbtc:374f2aa12094b:0-ethereum-s-co-founder-takes-on-crypto-s-next-security-threat-who-is-vitalik-buterin/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>RaveDAO: Unlocks 21.38 Million RAVE - Sep 2027</title>
-      <link>https://www.tradingview.com/news/coinmarketcal:c43f8a6d5094b:0-ravedao-unlocks-21-38-million-rave-sep-2027/</link>
-      <guid isPermaLink="false">8d1b34c30d8774725ce2a1bd</guid>
-      <pubDate>Thu, 26 Nov 2026 21:00:24 +0000</pubDate>
-      <description>RaveDAO has scheduled an unlock of 21.38 million RAVE for September 2027. The tokens in the release equal 7.78% of the circulating supply. The unlock covers allocations for the community, the ...</description>
+      <title>Dollar set for longest winning run since 2024 on AI risk</title>
+      <link>https://www.tradingview.com/news/moneycontrol:ed742ee31094b:0-dollar-set-for-longest-winning-run-since-2024-on-ai-risk/</link>
+      <guid isPermaLink="false">ab2b4bef87d9eb9de3ded229</guid>
+      <pubDate>Fri, 27 Nov 2026 03:55:37 +0000</pubDate>
+      <description>The dollar is poised for its longest monthly winning streak in two years as a rupture in the artificial intelligence trade and rising interest rates spur demand for safe-haven assets.The Bloomberg ...</description>
       <content:encoded>&lt;p&gt;News
-/ CoinMarketCal
-/ RaveDAO: Unlocks 21.38 Million RAVE - Sep 2027&lt;/p&gt;&lt;p&gt;RaveDAO: Unlocks 21.38 Million RAVE - Sep 2027 Less than 1 min read&lt;/p&gt;&lt;p&gt;RAVEUSD
-RaveDAO has scheduled an unlock of 21.38 million RAVE for September 2027. The tokens in the release equal 7.78% of the circulating supply. The unlock covers allocations for the community, the ecosystem, the foundation, investors, and the team.
-Recipients gain access to their previously locked tokens when the release takes place. That increases the amount of RAVE they can sell.&lt;/p&gt;&lt;p&gt;CoinMarketCal Crypto Tokenomics
-Read more from CoinMarketCal&lt;/p&gt;&lt;p&gt;RAVEUSD chart&lt;/p&gt;&lt;p&gt;Analyze on Supercharts
-Latest news&lt;/p&gt;&lt;p&gt;More news from CoinMarketCal&lt;/p&gt;</content:encoded>
+/ Moneycontrol
+/ Dollar set for longest winning run since 2024 on AI risk&lt;/p&gt;&lt;p&gt;Dollar set for longest winning run since 2024 on AI risk 2 min read&lt;/p&gt;&lt;p&gt;EURUSD
+The dollar is poised for its longest monthly winning streak in two years as a rupture in the artificial intelligence trade and rising interest rates spur demand for safe-haven assets.
+The Bloomberg Dollar Spot Index is up 1.9% in November, putting it on track for a third straight month of gains. The greenback has strengthened against all of its Group-of-10 peers, including the Japanese yen and the Swiss franc.
+A slump in technology stocks, coupled with robust economic growth and elevated inflation, propelled the dollar higher over the past three months. The greenback held near its strongest level since April 2025 in early Asian trading after jumping in pre-holiday US hours on Wednesday, as the Nasdaq 100 index briefly plunged into a bear market and a measure of underlying inflation hit the highest since 2023.
+“It’s a pretty good dollar storm,” said Steven Englander, co-head of FX research and North America macro strategy at Standard Chartered.
+Market repricing for a more hawkish Federal Reserve also supported the dollar this month, according to Sarah Ying, CIBC’s head of FX strategy.
+Traders are fully pricing a 25 basis point interest rate hike next month for the Fed, and are betting on the possibility of two additional increases by the middle of next year. Policymakers have been flagging the need for more tightening, with some calling for lifting rates at successive meetings, while others are open to the possibility of raising by more than the usual quarter percentage point in December.
+Some Wall Street strategists expect the dollar rally to extend into 2027, pointing to the very AI spending binge that’s making stock markets jittery as a driver of US economic growth and capital flows. The greenback has benefited from overseas investors converting local currencies to buy shares of US companies that use the tech.
+“The US economy is booming and inflation is still moving away from the target,” said Win Thin, chief economist at Bank of Nassau 1982. “The Fed needs to hike rates to help cool the economy, perhaps in both December and January. That’s dollar positive.”
+The dollar’s latest surge has won over short-dated options traders, but conviction further out has weakened over the past two months. The divergence suggests investors are positioning for dollar strength into early 2027 while becoming less willing to extend bullish bets much further.
+The latest equities sell-off has raised concerns about the longevity of the AI boom, fueling sharp swings in global markets. In such an environment, the dollar has become “the haven of choice,” according to Goldman Sachs, while MUFG believes that the prospect of higher rates is also helping the currency.
+“Weakness in the US equity market is taking place at a time when there is building evidence of strengthening cyclical growth momentum in the US, which is encouraging a stronger US dollar as a safe haven play,” said Lee Hardman, senior currency analyst at MUFG.
+“The strength of the US economy supports the view of investors that returns are likely to remain higher in the US even if they are currently being challenged by the recent sell-off in US assets,” he said.&lt;/p&gt;&lt;p&gt;Read the full article Get unlimited access to articles from Moneycontrol and every other news source on TradingView.
+Keep reading&lt;/p&gt;&lt;p&gt;EURUSD chart&lt;/p&gt;&lt;p&gt;Analyze on Supercharts
+Latest news&lt;/p&gt;</content:encoded>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
       <wire:relation>unknown</wire:relation>
@@ -55,21 +119,21 @@ Latest news&lt;/p&gt;&lt;p&gt;More news from CoinMarketCal&lt;/p&gt;</content:en
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/coinmarketcal:c43f8a6d5094b:0-ravedao-unlocks-21-38-million-rave-sep-2027/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.tradingview.com/news/moneycontrol:ed742ee31094b:0-dollar-set-for-longest-winning-run-since-2024-on-ai-risk/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>Mastercard Stocks Rise 1.94% as Payment Networks Gain in AI Selloff Rotation</title>
-      <link>https://www.tradingview.com/news/gurufocus:ab4cde225094b:0-mastercard-stocks-rise-1-94-as-payment-networks-gain-in-ai-selloff-rotation/</link>
-      <guid isPermaLink="false">f5cecaff8a3a0ce691e15dcc</guid>
-      <pubDate>Thu, 26 Nov 2026 18:37:21 +0000</pubDate>
-      <description>MA shares rose 1.94% to $659.97 at the 4:00 p.m. ET close on November 25, as investors moved out of AI hardware and into steadier earners. Visa gained 1.8% and American Express rose 1.2% on a day when ...</description>
+      <title>Chevron Stocks Rise 1.06% as Brent Jumps 3.5% on Saudi Refinery Attack Claim</title>
+      <link>https://www.tradingview.com/news/gurufocus:bd477f7ff094b:0-chevron-stocks-rise-1-06-as-brent-jumps-3-5-on-saudi-refinery-attack-claim/</link>
+      <guid isPermaLink="false">f5607bf201491dc61a26bcdc</guid>
+      <pubDate>Thu, 26 Nov 2026 18:40:46 +0000</pubDate>
+      <description>CVX shares rose 1.06% to $210.95 at the 4:00 p.m. ET close on November 25, after Brent crude settled up 3.5% at $94.61 a barrel when Yemen's Houthis said they attacked Saudi Arabia's Ras Tanura ...</description>
       <content:encoded>&lt;p&gt;News
 / GuruFocus
-/ Mastercard Stocks Rise 1.94% as Payment Networks Gain in AI Selloff Rotation&lt;/p&gt;&lt;p&gt;Mastercard Stocks Rise 1.94% as Payment Networks Gain in AI Selloff Rotation Less than 1 min read&lt;/p&gt;&lt;p&gt;MA
-Mastercard MA shares rose 1.94% to $659.97 at the 4:00 p.m. ET close on November 25, as investors moved out of AI hardware and into steadier earners. Visa gained 1.8% and American Express rose 1.2% on a day when the Nasdaq Composite fell 0.62% after dropping as much as 4.6% intraday.
-The rotation favored businesses tied to consumer spending volumes rather than data center budgets. Mastercard set a record close of $672.68 on November 4 after a 10% weekly run that followed its third-quarter report, TIKR reported at the time. Wednesday&amp;#x27;s close leaves shares 1.9% below that peak. The same session brought hotter October inflation data, with core PCE prices up 3.3% from a year earlier; higher prices tend to lift nominal card volumes, a mild tailwind for network revenue.&lt;/p&gt;&lt;p&gt;Mastercard&amp;#x27;s appeal in this tape is predictability: transaction fees with little capex, against an AI complex burning cash. The GuruFocus chart shows a GF Score of 98/100, with elite profitability and strong momentum, offset only by a more moderate balance sheet ranking. GF Value of $705.27 implies a 6.4% discount and a &amp;quot;fairly valued&amp;quot; label, so the shares are a quality refuge rather than a bargain. The next test is holiday spending data after Black Friday, which will show whether cross-border and domestic volumes keep supporting the premium.&lt;/p&gt;&lt;p&gt;GuruFocus US stocks
-Read more from GuruFocus&lt;/p&gt;&lt;p&gt;MA chart&lt;/p&gt;&lt;p&gt;Analyze on Supercharts
+/ Chevron Stocks Rise 1.06% as Brent Jumps 3.5% on Saudi Refinery Attack Claim&lt;/p&gt;&lt;p&gt;Chevron Stocks Rise 1.06% as Brent Jumps 3.5% on Saudi Refinery Attack Claim Less than 1 min read&lt;/p&gt;&lt;p&gt;CVX UKOIL
+Chevron CVX shares rose 1.06% to $210.95 at the 4:00 p.m. ET close on November 25, after Brent crude settled up 3.5% at $94.61 a barrel when Yemen&amp;#x27;s Houthis said they attacked Saudi Arabia&amp;#x27;s Ras Tanura refinery. West Texas Intermediate rose 2% to $83.68. Chevron outperformed Exxon Mobil, which edged 0.09% lower on the same day.
+The supply impact is still unclear. A person with knowledge of the matter confirmed to Reuters that the refinery came under attack, while the Saudi government and Aramco did not immediately comment. Iran&amp;#x27;s Revolutionary Guards said a container ship near Hormuz was targeted and stopped on November 24. Offsetting signals remain: U.S. commercial crude inventories rose 1.1 million barrels to 418.9 million in the week to November 20, and OPEC+ meets on November 29 to set 2027 output. Energy was among the S&amp;amp;P 500&amp;#x27;s strongest sectors, Yahoo Finance noted in its market coverage.&lt;/p&gt;&lt;p&gt;A 1% gain against a 3.5% Brent jump shows investors pricing a short-lived risk premium, not a new oil cycle. The GuruFocus chart shows a GF Score of 65/100, where a solid balance sheet and decent profitability are dragged down by momentum at the very bottom of GuruFocus&amp;#x27;s scale. GF Value is $182.18, putting the shares at a 15.8% premium and a &amp;quot;modestly overvalued&amp;quot; label, which suggests the price already assumes firm crude. The next test is the November 29 OPEC+ meeting, where higher quotas would cap the upside from Middle East risk.&lt;/p&gt;&lt;p&gt;Futures GuruFocus US stocks
+Read more from GuruFocus&lt;/p&gt;&lt;p&gt;Compare charts&lt;/p&gt;&lt;p&gt;Analyze on Supercharts
 Latest news&lt;/p&gt;&lt;p&gt;More news from GuruFocus&lt;/p&gt;</content:encoded>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
@@ -78,30 +142,7 @@ Latest news&lt;/p&gt;&lt;p&gt;More news from GuruFocus&lt;/p&gt;</content:encode
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/gurufocus:ab4cde225094b:0-mastercard-stocks-rise-1-94-as-payment-networks-gain-in-ai-selloff-rotation/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>RaveDAO: Supply Unlock Releases 21.38 Million RAVE - May 2027</title>
-      <link>https://www.tradingview.com/news/coinmarketcal:d1867677d094b:0-ravedao-supply-unlock-releases-21-38-million-rave-may-2027/</link>
-      <guid isPermaLink="false">164bc82c2b0863e0e1e03f0c</guid>
-      <pubDate>Thu, 26 Nov 2026 18:00:13 +0000</pubDate>
-      <description>RaveDAO plans to release 21.38 million RAVE in its May 2027 supply unlock. The release equals 7.78% of the circulating supply and covers tokens allocated to the community, the ecosystem, the ...</description>
-      <content:encoded>&lt;p&gt;News
-/ CoinMarketCal
-/ RaveDAO: Supply Unlock Releases 21.38 Million RAVE - May 2027&lt;/p&gt;&lt;p&gt;RaveDAO: Supply Unlock Releases 21.38 Million RAVE - May 2027 Less than 1 min read&lt;/p&gt;&lt;p&gt;RAVEUSD
-RaveDAO plans to release 21.38 million RAVE in its May 2027 supply unlock. The release equals 7.78% of the circulating supply and covers tokens allocated to the community, the ecosystem, the foundation, investors and the team.
-Once the release takes effect, holders who receive tokens will be able to sell RAVE that was previously locked. That increases the amount those holders have available to sell.&lt;/p&gt;&lt;p&gt;CoinMarketCal Crypto Tokenomics
-Read more from CoinMarketCal&lt;/p&gt;&lt;p&gt;RAVEUSD chart&lt;/p&gt;&lt;p&gt;Analyze on Supercharts
-Latest news&lt;/p&gt;&lt;p&gt;More news from CoinMarketCal&lt;/p&gt;</content:encoded>
-      <wire:foundAt>tradingview_discovery</wire:foundAt>
-      <wire:platform>TradingView News</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>full</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:bodySource>article page structured data</wire:bodySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/coinmarketcal:d1867677d094b:0-ravedao-supply-unlock-releases-21-38-million-rave-may-2027/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.tradingview.com/news/gurufocus:bd477f7ff094b:0-chevron-stocks-rise-1-06-as-brent-jumps-3-5-on-saudi-refinery-attack-claim/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -128,18 +169,100 @@ Latest news&lt;/p&gt;&lt;p&gt;More news from GuruFocus&lt;/p&gt;</content:encode
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
-      <title>RaveDAO: 21.38 million RAVE unlock - Aug 2027</title>
-      <link>https://www.tradingview.com/news/coinmarketcal:4902ccc18094b:0-ravedao-21-38-million-rave-unlock-aug-2027/</link>
-      <guid isPermaLink="false">7b91af765b848f179b734f4c</guid>
-      <pubDate>Thu, 26 Nov 2026 05:00:00 +0000</pubDate>
-      <description>RaveDAO is scheduled to unlock 21.38 million RAVE in August 2027. The release includes allocations for the community, ecosystem, foundation, investors, and team.The tokens in the release equal 7.78% ...</description>
+      <title>RaveDAO: Unlocks 21.38 Million RAVE - Oct 2027</title>
+      <link>https://www.tradingview.com/news/coinmarketcal:69483b977094b:0-ravedao-unlocks-21-38-million-rave-oct-2027/</link>
+      <guid isPermaLink="false">de9346031ff1e043e3d189b2</guid>
+      <pubDate>Thu, 26 Nov 2026 16:25:00 +0000</pubDate>
+      <description>RaveDAO has scheduled a RAVE supply unlock for October 2027. The release covers 21.38 million RAVE, equal to 7.78% of the circulating supply. The release includes allocations for the community, the ...</description>
       <wire:foundAt>tradingview_discovery</wire:foundAt>
       <wire:platform>TradingView News</wire:platform>
       <wire:relation>unknown</wire:relation>
       <wire:contentLevel>summary</wire:contentLevel>
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/coinmarketcal:4902ccc18094b:0-ravedao-21-38-million-rave-unlock-aug-2027/</wire:canonicalUrl>
+      <wire:canonicalUrl>https://www.tradingview.com/news/coinmarketcal:69483b977094b:0-ravedao-unlocks-21-38-million-rave-oct-2027/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Zcash Whale Wakes Up After 9 Years, Moves $11.39 Million To Kraken</title>
+      <link>https://www.tradingview.com/news/newsbtc:950a3b40a094b:0-zcash-whale-wakes-up-after-9-years-moves-11-39-million-to-kraken/</link>
+      <guid isPermaLink="false">7073dff3d407b5663ca12527</guid>
+      <pubDate>Thu, 26 Nov 2026 13:25:20 +0000</pubDate>
+      <description>Key takeawaysNine years is an eternity in crypto. Yet one Zcash whale appears to have spent that long sitting on an investment made during the privacy coin’s early days. On Thursday, blockchain ...</description>
+      <content:encoded>&lt;p&gt;News
+/ NewsBTC
+/ Zcash Whale Wakes Up After 9 Years, Moves $11.39 Million To Kraken&lt;/p&gt;&lt;p&gt;Zcash Whale Wakes Up After 9 Years, Moves $11.39 Million To Kraken 3 min read&lt;/p&gt;&lt;p&gt;ZECUSD
+Key takeaways
+Lookonchain reports a Zcash whale moved 15,750 ZEC, about $11.39 million, to Kraken after nine years.
+The whale reportedly bought 23,412 ZEC in 2017 at about $215 (just over $5 million). The deposit is roughly two-thirds of that position.
+At about $723 per ZEC, the coins are worth around $8 million more than their estimated cost, a gain of roughly 236%.
+A deposit to an exchange is not proof of a sale, and the acquisition price is an estimate, not a verified record.
+More early holders moving dormant coins to exchanges could mean new Zcash buyers absorb supply from older holders.
+Nine years is an eternity in crypto. Yet one Zcash whale appears to have spent that long sitting on an investment made during the privacy coin’s early days. On Thursday, blockchain monitoring platform Lookonchain reported that the investor had moved 15,750 ZEC, worth $11.39 million, to Kraken.
+The coins date back to 2017, when Ethereum was still a relatively young network, decentralized finance barely existed and Zcash was attempting to establish itself as a more private alternative to Bitcoin.
+Almost a decade later, the wallet is active again. And its owner’s reported acquisition price makes the transaction particularly interesting.&lt;/p&gt;&lt;p&gt;A $5 Million Bet On Zcash In 2017
+According to Lookonchain, the whale originally acquired 23,412 ZEC at an average price of approximately $215, representing an investment of just over $5 million.
+The latest transactions account for roughly two-thirds of that original position, with at least 7,750 ZEC transferred to a Kraken deposit address.&lt;/p&gt;&lt;p&gt;At the reported transfer valuation of approximately $723 per ZEC, those 15,750 coins are worth around $8 million more than their estimated acquisition cost. That would represent a return of approximately 236% if the investor sold them at that price.&lt;/p&gt;&lt;p&gt;What makes this wallet fascinating, however, is what happened between those two valuations.
+Zcash spent much of 2024 and early 2025 trading around $16 to $20 before staging a remarkable comeback. At $20 per coin, the whale’s original investment would have been worth less than $470,000, a paper loss of more than 90%, assuming the position remained intact.
+Holding an asset through a temporary market correction is one thing. Holding it through years of declining relevance, while newer cryptocurrencies attract developers, investors and attention, is something else entirely.
+Whatever the owner’s reasons for keeping the coins untouched, the decision has aged considerably better than it appeared to during Zcash’s quieter years.
+The Interesting Paradox Behind A Zcash Whale
+There is something almost ironic about the fact that investors are following the movements of a whale holding one of crypto’s best-known privacy coins.
+Unlike networks where transaction privacy is mandatory, Zcash supports both transparent and shielded transactions. Transparent addresses allow observers to examine balances and transfers, while shielded transactions use zero-knowledge cryptography to conceal transaction details.
+That distinction explains how blockchain monitoring platforms can identify certain large ZEC movements despite the cryptocurrency’s privacy capabilities.
+It also explains why the available information tells only part of the story.
+Lookonchain can identify an apparent exchange deposit and estimate its value. Establishing who controls the wallet, whether ownership changed privately during those nine years or what the investor intends to do next is considerably harder.
+Even the reported acquisition price is an estimate rather than a verified record of the owner’s personal trading history.
+That is an important limitation of on-chain analysis, particularly when dealing with a network explicitly designed to give users greater control over their financial visibility.
+Zcash’s Comeback Has Given Early Investors An Exit
+The renewed enthusiasm surrounding Zcash has attracted a different kind of investor from the one buying ZEC in 2017.
+Corporate treasury strategies have emerged, institutional investors have taken an interest in privacy-focused assets, and the debate over financial surveillance has given Zcash a fresh investment narrative.
+NewsBTC previously reported that Winklevoss Capital backed the launch of a dedicated Zcash treasury strategy, illustrating how exposure to the cryptocurrency has begun extending beyond traditional crypto wallets.
+But the revival of an old cryptocurrency also comes with an interesting complication: investors who have spent years underwater finally have an opportunity to recover their capital or take profits.
+That does not necessarily make the Kraken deposit bearish. A transfer to an exchange is not proof of a completed sale, and one wallet cannot establish a broader trend among Zcash holders.
+Still, the transaction is worth watching. If more early investors start moving dormant coins onto exchanges, Zcash’s new buyers may find themselves absorbing supply from an entirely different generation of holders.
+Nine years ago, someone reportedly committed more than $5 million to the idea of private digital money. Today, the blockchain offers a glimpse of what that investment has become.
+Whether the owner has finished holding Zcash is a question the blockchain alone cannot yet answer.&lt;/p&gt;&lt;p&gt;Crypto Market moves NewsBTC
+Read more from NewsBTC&lt;/p&gt;&lt;p&gt;ZECUSD chart&lt;/p&gt;&lt;p&gt;Analyze on Supercharts
+Latest news&lt;/p&gt;&lt;p&gt;More news from NewsBTC&lt;/p&gt;</content:encoded>
+      <wire:foundAt>tradingview_discovery</wire:foundAt>
+      <wire:platform>TradingView News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>full</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:bodySource>article page structured data</wire:bodySource>
+      <wire:canonicalUrl>https://www.tradingview.com/news/newsbtc:950a3b40a094b:0-zcash-whale-wakes-up-after-9-years-moves-11-39-million-to-kraken/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Binance restores withdrawals across nearly all networks four weeks after record $6.3B hack</title>
+      <link>https://www.tradingview.com/news/cryptobriefing:474a67f1d094b:0-binance-restores-withdrawals-across-nearly-all-networks-four-weeks-after-record-6-3b-hack/</link>
+      <guid isPermaLink="false">5310533658fdddd2e6637fa1</guid>
+      <pubDate>Thu, 26 Nov 2026 05:43:00 +0000</pubDate>
+      <description>Binance says withdrawals are running again on nearly all of its supported networks. The restart comes roughly four weeks after attackers drained approximately $6.3 billion to $6.4 billion from the ...</description>
+      <wire:foundAt>tradingview_discovery</wire:foundAt>
+      <wire:platform>TradingView News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.tradingview.com/news/cryptobriefing:474a67f1d094b:0-binance-restores-withdrawals-across-nearly-all-networks-four-weeks-after-record-6-3b-hack/</wire:canonicalUrl>
+      <wire:evidence>bing discovery query match only</wire:evidence>
+    </item>
+    <item>
+      <title>Aave: Aave Pro lets users open leveraged positions in one transaction - 26 Nov 2026</title>
+      <link>https://www.tradingview.com/news/coinmarketcal:d375bf55d094b:0-aave-aave-pro-lets-users-open-leveraged-positions-in-one-transaction-26-nov-2026/</link>
+      <guid isPermaLink="false">00313a8110c6c2dcd6749545</guid>
+      <pubDate>Thu, 26 Nov 2026 02:00:00 +0000</pubDate>
+      <description>Aave Pro lets users open leveraged Aave V4 positions in one transaction on Ethereum and Avalanche. Both the asset put up as collateral and the asset borrowed must also be listed on Aave V3 on the same ...</description>
+      <wire:foundAt>tradingview_discovery</wire:foundAt>
+      <wire:platform>TradingView News</wire:platform>
+      <wire:relation>unknown</wire:relation>
+      <wire:contentLevel>summary</wire:contentLevel>
+      <wire:confidence>0.35</wire:confidence>
+      <wire:summarySource>RSS description</wire:summarySource>
+      <wire:canonicalUrl>https://www.tradingview.com/news/coinmarketcal:d375bf55d094b:0-aave-aave-pro-lets-users-open-leveraged-positions-in-one-transaction-26-nov-2026/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
@@ -155,36 +278,6 @@ Latest news&lt;/p&gt;&lt;p&gt;More news from GuruFocus&lt;/p&gt;</content:encode
       <wire:confidence>0.35</wire:confidence>
       <wire:summarySource>RSS description</wire:summarySource>
       <wire:canonicalUrl>https://www.tradingview.com/news/coinmarketcal:eefe7e8d2094b:0-whitebit-coin-mexc-delists-wbt-27-nov-2026/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Israel Discount Bank opens direct Bitcoin and Ether trading inside its app</title>
-      <link>https://www.tradingview.com/news/cryptobriefing:aa3343d8d094b:0-israel-discount-bank-opens-direct-bitcoin-and-ether-trading-inside-its-app/</link>
-      <guid isPermaLink="false">a81190b4bf567dab62aa139d</guid>
-      <pubDate>Wed, 25 Nov 2026 22:17:00 +0000</pubDate>
-      <description>Israel Discount Bank has switched on direct Bitcoin trading for its customers. They don't need a crypto exchange account or a separate wallet.The service went live on November 26, 2026, according to ...</description>
-      <wire:foundAt>tradingview_discovery</wire:foundAt>
-      <wire:platform>TradingView News</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/cryptobriefing:aa3343d8d094b:0-israel-discount-bank-opens-direct-bitcoin-and-ether-trading-inside-its-app/</wire:canonicalUrl>
-      <wire:evidence>bing discovery query match only</wire:evidence>
-    </item>
-    <item>
-      <title>Zcash Whale Wakes Up After 9 Years, Moves $11.39 Million To Kraken</title>
-      <link>https://www.tradingview.com/news/newsbtc:950a3b40a094b:0-zcash-whale-wakes-up-after-9-years-moves-11-39-million-to-kraken/</link>
-      <guid isPermaLink="false">7073dff3d407b5663ca12527</guid>
-      <pubDate>Wed, 25 Nov 2026 21:25:00 +0000</pubDate>
-      <description>Key takeawaysNine years is an eternity in crypto. Yet one Zcash whale appears to have spent that long sitting on an investment made during the privacy coin’s early days. On Thursday, blockchain ...</description>
-      <wire:foundAt>tradingview_discovery</wire:foundAt>
-      <wire:platform>TradingView News</wire:platform>
-      <wire:relation>unknown</wire:relation>
-      <wire:contentLevel>summary</wire:contentLevel>
-      <wire:confidence>0.35</wire:confidence>
-      <wire:summarySource>RSS description</wire:summarySource>
-      <wire:canonicalUrl>https://www.tradingview.com/news/newsbtc:950a3b40a094b:0-zcash-whale-wakes-up-after-9-years-moves-11-39-million-to-kraken/</wire:canonicalUrl>
       <wire:evidence>bing discovery query match only</wire:evidence>
     </item>
     <item>
